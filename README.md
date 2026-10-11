@@ -263,6 +263,15 @@ would do real damage.
 
 ## Known issues
 
+**Tailwind 3 pulls in two build-time advisories (Oct 2026).** `braces` (high) and
+`postcss-selector-parser` (moderate), both denial-of-service on malicious *build input*, reached
+through Tailwind 3's file-matching and selector parsing. Neither ships to visitors — the deployed
+site is static HTML/CSS/JS — and the only input to the build is this repository's own source, so
+there is no practical exposure. The only fix is migrating to Tailwind 4, which is a breaking
+change (config moves into CSS). Do it as its own piece of work, not as a hotfix, and **never** run
+`npm audit fix --force`: it would silently jump to Tailwind 4 and break the build. The
+non-breaking `source-map-js` advisory was fixed with plain `npm audit fix`.
+
 **Entry 7 is shown to people explicitly excluded from it.** `Allocation d'Attente Logement`
 is `region: ["Wallonia"], communes: []` (region-wide), but its own verified text says in all
 four languages that the scheme excludes the German-speaking Community. Now that the nine
