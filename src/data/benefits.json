@@ -1,0 +1,2097 @@
+[
+  {
+    "id": 1,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Kind & Gezin / Groeipakket",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/startbedrag-bij-geboorte-of-adoptie",
+    "content": {
+      "en": {
+        "title": "Startbedrag (Birth Grant)",
+        "desc": "A one-time payment from the Flemish government when you're expecting or adopting a child.",
+        "deadline": "Apply during pregnancy, at adoption, or up to 5 years after the birth. Payment needs a medical certificate showing at least 6 months (180 days) of pregnancy, and arrives at the earliest 2 months before the due date.",
+        "amount": "€1,310.75 per child",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app (easiest — activate via your bank app)"
+          },
+          {
+            "type": "card",
+            "label": "or: Belgian eID card + eID card reader + computer"
+          },
+          {
+            "type": "id",
+            "label": "Belgian National Registry number"
+          }
+        ],
+        "steps": [
+          "Log in at groeipakket.be or mijn.vlaanderen.be with itsme or your eID",
+          "Fill in your due date (with a doctor's certificate if applying before birth) and household details",
+          "Submit your application",
+          "Payment arrives from 2 months before the due date, or shortly after the birth/adoption"
+        ]
+      },
+      "nl": {
+        "title": "Startbedrag (Geboortepremie)",
+        "desc": "Een eenmalige uitkering van de Vlaamse overheid wanneer je een kindje verwacht of adopteert.",
+        "deadline": "Aan te vragen tijdens de zwangerschap, bij adoptie, of tot 5 jaar na de geboorte. Voor uitbetaling is een medisch attest nodig dat aantoont dat je minstens 6 maanden (180 dagen) zwanger bent; betaling ten vroegste 2 maanden voor de vermoedelijke geboortedatum.",
+        "amount": "€1.310,75 per kind",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app (makkelijkst — activeren via je bank-app)"
+          },
+          {
+            "type": "card",
+            "label": "of: Belgische eID-kaart + eID-kaartlezer + computer"
+          },
+          {
+            "type": "id",
+            "label": "Belgisch rijksregisternummer"
+          }
+        ],
+        "steps": [
+          "Log in op groeipakket.be of mijn.vlaanderen.be met itsme of je eID",
+          "Vul je uitgerekende datum in (met doktersattest als je aanvraagt vóór de geboorte) en je gezinsgegevens",
+          "Dien je aanvraag in",
+          "Uitbetaling vanaf 2 maanden voor de uitgerekende datum, of kort na de geboorte/adoptie"
+        ]
+      },
+      "fr": {
+        "title": "Startbedrag (Prime de naissance flamande)",
+        "desc": "Un paiement unique du gouvernement flamand lorsque vous attendez ou adoptez un enfant.",
+        "deadline": "À demander pendant la grossesse, lors d'une adoption, ou jusqu'à 5 ans après la naissance. Le paiement requiert un certificat médical attestant d'au moins 6 mois (180 jours) de grossesse, et intervient au plus tôt 2 mois avant la date prévue.",
+        "amount": "1.310,75 € par enfant",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme (le plus simple — à activer via votre appli bancaire)"
+          },
+          {
+            "type": "card",
+            "label": "ou : carte eID belge + lecteur de carte eID + ordinateur"
+          },
+          {
+            "type": "id",
+            "label": "Numéro de registre national belge"
+          }
+        ],
+        "steps": [
+          "Connectez-vous sur groeipakket.be ou mijn.vlaanderen.be avec itsme ou votre eID",
+          "Indiquez votre date prévue d'accouchement (avec un certificat médical si vous demandez avant la naissance) et vos informations familiales",
+          "Soumettez votre demande",
+          "Le paiement arrive à partir de 2 mois avant la date prévue, ou peu après la naissance/l'adoption"
+        ]
+      },
+      "de": {
+        "title": "Startbedrag (Flämische Geburtsprämie)",
+        "desc": "Eine einmalige Zahlung der flämischen Regierung, wenn Sie ein Kind erwarten oder adoptieren.",
+        "deadline": "Antragstellung während der Schwangerschaft, bei Adoption, oder bis zu 5 Jahre nach der Geburt. Für die Auszahlung ist ein ärztliches Attest über mindestens 6 Monate (180 Tage) Schwangerschaft nötig; Zahlung frühestens 2 Monate vor dem Geburtstermin.",
+        "amount": "1.310,75 € pro Kind",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App (am einfachsten — Aktivierung über Ihre Banking-App)"
+          },
+          {
+            "type": "card",
+            "label": "oder: belgische eID-Karte + eID-Kartenlesegerät + Computer"
+          },
+          {
+            "type": "id",
+            "label": "Belgische Nationalregisternummer"
+          }
+        ],
+        "steps": [
+          "Melden Sie sich auf groeipakket.be oder mijn.vlaanderen.be mit itsme oder Ihrer eID an",
+          "Geben Sie Ihren voraussichtlichen Geburtstermin an (mit ärztlichem Attest, falls Sie vor der Geburt beantragen) und Ihre Familiendaten",
+          "Reichen Sie Ihren Antrag ein",
+          "Die Auszahlung erfolgt ab 2 Monate vor dem Geburtstermin oder kurz nach der Geburt/Adoption"
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [],
+    "institution": "FAMIWAL",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://www.famiwal.be/accedez-aux-themes/naissance-et-adoption/allocation-prime-de-naissance",
+    "content": {
+      "en": {
+        "title": "Prime de Naissance (Birth Grant)",
+        "desc": "A one-time payment from Wallonia's family benefits fund when you're expecting or adopting a child.",
+        "deadline": "Apply from the 6th month of pregnancy (certificate from 24 weeks), or up to 5 years after the birth if you missed it. Paid at the earliest 2 months before the due date.",
+        "amount": "€1,422.96 per child — the same amount for every child (indexed)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Form E (allocation de naissance) + medical certificate with due date"
+          },
+          {
+            "type": "id",
+            "label": "Belgian National Registry number"
+          }
+        ],
+        "steps": [
+          "Download Form E from famiwal.be or request it by post",
+          "Attach a medical certificate confirming your due date (from the 24th week of pregnancy)",
+          "Send the form to FAMIWAL or submit it online via famiwal.be",
+          "Payment is issued 2 months before the due date; this also opens your ongoing child benefit file"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance (Geboortepremie Wallonië)",
+        "desc": "Een eenmalige uitkering van het Waalse gezinsbijslagfonds wanneer je een kindje verwacht of adopteert.",
+        "deadline": "Aan te vragen vanaf de 6e maand van de zwangerschap (attest vanaf 24 weken), of tot 5 jaar na de geboorte als je het miste. Uitbetaling ten vroegste 2 maanden voor de uitgerekende datum.",
+        "amount": "€1.422,96 per kind — hetzelfde bedrag voor elk kind (geïndexeerd)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier E (aanvraag geboortepremie) + doktersattest met uitgerekende datum"
+          },
+          {
+            "type": "id",
+            "label": "Belgisch rijksregisternummer"
+          }
+        ],
+        "steps": [
+          "Download formulier E via famiwal.be of vraag het per post op",
+          "Voeg een doktersattest toe met je uitgerekende datum (vanaf de 24e zwangerschapsweek)",
+          "Stuur het formulier naar FAMIWAL of dien het online in via famiwal.be",
+          "Uitbetaling 2 maanden voor de uitgerekende datum; dit opent meteen ook je dossier voor de gewone kinderbijslag"
+        ]
+      },
+      "fr": {
+        "title": "Prime de Naissance",
+        "desc": "Un paiement unique du fonds d'allocations familiales wallon lorsque vous attendez ou adoptez un enfant.",
+        "deadline": "À demander à partir du 6e mois de grossesse (certificat à partir de 24 semaines), ou jusqu'à 5 ans après la naissance si vous l'avez manqué. Payée au plus tôt 2 mois avant la date prévue.",
+        "amount": "1.422,96 € par enfant — même montant pour chaque enfant (indexé)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire E (allocation de naissance) + certificat médical avec date prévue"
+          },
+          {
+            "type": "id",
+            "label": "Numéro de registre national belge"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire E sur famiwal.be ou demandez-le par courrier",
+          "Joignez un certificat médical confirmant votre date prévue (à partir de la 24e semaine de grossesse)",
+          "Envoyez le formulaire à FAMIWAL ou soumettez-le en ligne via famiwal.be",
+          "Le paiement est versé 2 mois avant la date prévue ; cela ouvre aussi votre dossier d'allocations familiales"
+        ]
+      },
+      "de": {
+        "title": "Prime de Naissance (Wallonische Geburtsprämie)",
+        "desc": "Eine einmalige Zahlung der wallonischen Familienbeihilfekasse, wenn Sie ein Kind erwarten oder adoptieren.",
+        "deadline": "Antragstellung ab dem 6. Schwangerschaftsmonat (Attest ab 24 Wochen), oder bis zu 5 Jahre nach der Geburt, falls versäumt. Auszahlung frühestens 2 Monate vor dem Geburtstermin.",
+        "amount": "1.422,96 € pro Kind — gleicher Betrag für jedes Kind (indexiert)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular E (Geburtsprämie) + ärztliches Attest mit Geburtstermin"
+          },
+          {
+            "type": "id",
+            "label": "Belgische Nationalregisternummer"
+          }
+        ],
+        "steps": [
+          "Laden Sie Formular E auf famiwal.be herunter oder fordern Sie es per Post an",
+          "Fügen Sie ein ärztliches Attest mit Ihrem Geburtstermin bei (ab der 24. Schwangerschaftswoche)",
+          "Senden Sie das Formular an FAMIWAL oder reichen Sie es online über famiwal.be ein",
+          "Die Auszahlung erfolgt 2 Monate vor dem Geburtstermin; damit wird auch Ihre laufende Kindergeldakte eröffnet"
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Iriscare / Famiris",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://famiris.brussels/en/calculate-your-maternity-allowance/",
+    "content": {
+      "en": {
+        "title": "Prime de Naissance (Maternity / Birth Allowance)",
+        "desc": "A one-time payment from Brussels' Famiris/Iriscare fund when you're expecting or adopting a child.",
+        "deadline": "Apply from the 6th month of pregnancy (4 months before your due date), up to 1 year after the birth.",
+        "amount": "€1,422.96 for your first child (or each child in a multiple birth); €646.80 for the second child onward",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate with due date (if applying before birth)"
+          },
+          {
+            "type": "id",
+            "label": "Belgian National Registry number"
+          }
+        ],
+        "steps": [
+          "Apply online at famiris.brussels, in person at Rue de Trèves 70 (Brussels), or by post with the application form",
+          "Include a medical certificate with your due date if applying before the birth",
+          "Payment can start from 2 months before the due date",
+          "Register the birth within 15 days at your commune so monthly child benefit starts promptly"
+        ]
+      },
+      "nl": {
+        "title": "Kraamgeld (Geboortepremie Brussel)",
+        "desc": "Een eenmalige uitkering van het Brusselse gezinsbijslagfonds Famiris/Iriscare wanneer je een kindje verwacht of adopteert.",
+        "deadline": "Aan te vragen vanaf de 6e zwangerschapsmaand (4 maanden voor de uitgerekende datum), tot 1 jaar na de geboorte.",
+        "amount": "€1.422,96 voor je eerste kind (of elk kind bij een meerling); €646,80 vanaf het tweede kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doktersattest met uitgerekende datum (indien aangevraagd vóór de geboorte)"
+          },
+          {
+            "type": "id",
+            "label": "Belgisch rijksregisternummer"
+          }
+        ],
+        "steps": [
+          "Vraag online aan via famiris.brussels, langs bij Trierstraat 70 (Brussel), of per post met het aanvraagformulier",
+          "Voeg een doktersattest met je uitgerekende datum toe als je aanvraagt vóór de geboorte",
+          "Uitbetaling kan al vanaf 2 maanden voor de uitgerekende datum",
+          "Doe aangifte van de geboorte binnen 15 dagen bij je gemeente zodat de maandelijkse kinderbijslag snel start"
+        ]
+      },
+      "fr": {
+        "title": "Prime de Naissance (Allocation de Naissance)",
+        "desc": "Un paiement unique du fonds Famiris/Iriscare de Bruxelles lorsque vous attendez ou adoptez un enfant.",
+        "deadline": "À demander à partir du 6e mois de grossesse (4 mois avant votre date prévue), jusqu'à 1 an après la naissance.",
+        "amount": "1.422,96 € pour votre premier enfant (ou chaque enfant en cas de naissance multiple) ; 646,80 € à partir du deuxième enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical avec date prévue (si demande avant la naissance)"
+          },
+          {
+            "type": "id",
+            "label": "Numéro de registre national belge"
+          }
+        ],
+        "steps": [
+          "Demandez en ligne sur famiris.brussels, sur place à la rue de Trèves 70 (Bruxelles), ou par courrier avec le formulaire de demande",
+          "Joignez un certificat médical avec votre date prévue si vous demandez avant la naissance",
+          "Le paiement peut débuter dès 2 mois avant la date prévue",
+          "Déclarez la naissance dans les 15 jours à votre commune pour que les allocations familiales mensuelles démarrent rapidement"
+        ]
+      },
+      "de": {
+        "title": "Prime de Naissance (Geburtsprämie Brüssel)",
+        "desc": "Eine einmalige Zahlung der Brüsseler Kasse Famiris/Iriscare, wenn Sie ein Kind erwarten oder adoptieren.",
+        "deadline": "Antragstellung ab dem 6. Schwangerschaftsmonat (4 Monate vor dem Geburtstermin), bis zu 1 Jahr nach der Geburt.",
+        "amount": "1.422,96 € für Ihr erstes Kind (oder jedes Kind bei einer Mehrlingsgeburt); 646,80 € ab dem zweiten Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliches Attest mit Geburtstermin (bei Antragstellung vor der Geburt)"
+          },
+          {
+            "type": "id",
+            "label": "Belgische Nationalregisternummer"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online über famiris.brussels, persönlich in der Rue de Trèves 70 (Brüssel), oder per Post mit dem Antragsformular",
+          "Fügen Sie ein ärztliches Attest mit Ihrem Geburtstermin bei, falls Sie vor der Geburt beantragen",
+          "Die Auszahlung kann bereits ab 2 Monate vor dem Geburtstermin beginnen",
+          "Melden Sie die Geburt innerhalb von 15 Tagen bei Ihrer Gemeinde an, damit das monatliche Kindergeld zügig startet"
+        ]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "institution": "Ministerium der Deutschsprachigen Gemeinschaft (Ostbelgien Familie)",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://ostbelgienfamilie.be/desktopdefault.aspx/tabid-5886/",
+    "content": {
+      "en": {
+        "title": "Geburtsprämie (Birth Grant)",
+        "desc": "A one-time payment from the German-speaking Community when your child is born with their first home there.",
+        "deadline": "Apply from the 6th month of pregnancy; paid as an advance from 2 months before the due date.",
+        "amount": "€1,376.16 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate with due date, or the 'Antrag auf Geburtsprämie' form"
+          }
+        ],
+        "steps": [
+          "Get the medical certificate (with due date) or the application form from ostbelgienfamilie.be",
+          "Submit it to the Ministry of the German-speaking Community",
+          "An advance payment is issued from 2 months before the due date",
+          "The balance is settled once the birth is registered"
+        ]
+      },
+      "nl": {
+        "title": "Geburtsprämie (Geboortepremie Duitstalige Gemeenschap)",
+        "desc": "Een eenmalige uitkering van de Duitstalige Gemeenschap wanneer je kind er geboren wordt en er zijn eerste woonplaats heeft.",
+        "deadline": "Aan te vragen vanaf de 6e zwangerschapsmaand; uitbetaald als voorschot vanaf 2 maanden voor de uitgerekende datum.",
+        "amount": "€1.376,16 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doktersattest met uitgerekende datum, of het formulier 'Antrag auf Geburtsprämie'"
+          }
+        ],
+        "steps": [
+          "Haal het doktersattest (met uitgerekende datum) of het aanvraagformulier op via ostbelgienfamilie.be",
+          "Dien het in bij het Ministerie van de Duitstalige Gemeenschap",
+          "Een voorschot wordt uitbetaald vanaf 2 maanden voor de uitgerekende datum",
+          "Het saldo wordt verrekend zodra de geboorte is geregistreerd"
+        ]
+      },
+      "fr": {
+        "title": "Geburtsprämie (Prime de Naissance, Communauté germanophone)",
+        "desc": "Un paiement unique de la Communauté germanophone lorsque votre enfant naît et y a son premier domicile.",
+        "deadline": "À demander à partir du 6e mois de grossesse ; versée comme avance à partir de 2 mois avant la date prévue.",
+        "amount": "1.376,16 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical avec date prévue, ou le formulaire 'Antrag auf Geburtsprämie'"
+          }
+        ],
+        "steps": [
+          "Procurez-vous le certificat médical (avec date prévue) ou le formulaire de demande sur ostbelgienfamilie.be",
+          "Soumettez-le au Ministère de la Communauté germanophone",
+          "Une avance est versée à partir de 2 mois avant la date prévue",
+          "Le solde est réglé une fois la naissance enregistrée"
+        ]
+      },
+      "de": {
+        "title": "Geburtsprämie",
+        "desc": "Eine einmalige Zahlung der Deutschsprachigen Gemeinschaft, wenn Ihr Kind dort geboren wird und seinen ersten Wohnsitz hat.",
+        "deadline": "Antragstellung ab dem 6. Schwangerschaftsmonat; Auszahlung als Vorschuss ab 2 Monate vor dem Geburtstermin.",
+        "amount": "1.376,16 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliches Attest mit Geburtstermin, oder das Formular 'Antrag auf Geburtsprämie'"
+          }
+        ],
+        "steps": [
+          "Besorgen Sie sich das ärztliche Attest (mit Geburtstermin) oder das Antragsformular über ostbelgienfamilie.be",
+          "Reichen Sie es beim Ministerium der Deutschsprachigen Gemeinschaft ein",
+          "Ein Vorschuss wird ab 2 Monate vor dem Geburtstermin ausgezahlt",
+          "Der Restbetrag wird nach der Anmeldung der Geburt abgerechnet"
+        ]
+      }
+    }
+  },
+  {
+    "id": 5,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "job-loss"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Woningfonds",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaamswoningfonds.be/onze-diensten/verzekering-gewaarborgd-wonen/kenmerken",
+    "content": {
+      "en": {
+        "title": "Verzekering Gewaarborgd Wonen (Guaranteed Housing Insurance)",
+        "desc": "Free Flemish government insurance that covers part of your mortgage repayments if you lose your income due to involuntary unemployment, incapacity for work, or loss of self-employed income.",
+        "deadline": "Apply within 1 year of the first drawdown of your mortgage loan.",
+        "amount": "Up to €600/month (up to €500/month if you don't meet the new-build/E70/income conditions) — 70% of your repayment in year 1, 56% in year 2, 42% in year 3; paid for up to 18 months (unemployment) or 36 months (incapacity)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + eID card reader (via the online Formulierenloket)"
+          },
+          {
+            "type": "doc",
+            "label": "Your mortgage loan agreement"
+          }
+        ],
+        "steps": [
+          "Check you took out at least €50,000 (to build/buy, with or without renovation) or €25,000 (renovation only) in mortgage loans on a home in Flanders that is or will be your main residence",
+          "Apply via the Formulierenloket on vlaamswoningfonds.be within 1 year of your first loan drawdown — the insurance itself is free",
+          "If you later become involuntarily unemployed or incapacitated (after a 3-month waiting period), file a claim with the insurer",
+          "The insurer pays your lender directly each month for the agreed period"
+        ]
+      },
+      "nl": {
+        "title": "Verzekering Gewaarborgd Wonen",
+        "desc": "Gratis verzekering van de Vlaamse overheid die een deel van je hypotheekaflossing dekt als je inkomen wegvalt door onvrijwillige werkloosheid, arbeidsongeschiktheid, of verlies van zelfstandige inkomsten.",
+        "deadline": "Aan te vragen ten laatste 1 jaar na de eerste kapitaalopname van je hypothecaire lening.",
+        "amount": "Maximaal €600/maand (maximaal €500/maand als je niet voldoet aan de voorwaarden nieuwbouw/E70/inkomen) — 70% van je afbetaling in jaar 1, 56% in jaar 2, 42% in jaar 3; uitbetaald tot 18 maanden (werkloosheid) of 36 maanden (arbeidsongeschiktheid)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + eID-kaartlezer (via het online Formulierenloket)"
+          },
+          {
+            "type": "doc",
+            "label": "Je hypothecaire leningsovereenkomst"
+          }
+        ],
+        "steps": [
+          "Controleer of je minstens €50.000 (bouwen/kopen, al dan niet met renovatie) of €25.000 (louter renovatie) leende voor een woning in Vlaanderen die je hoofdverblijfplaats is of wordt",
+          "Vraag aan via het Formulierenloket op vlaamswoningfonds.be, ten laatste 1 jaar na je eerste kapitaalopname — de verzekering zelf is gratis",
+          "Word je later onvrijwillig werkloos of arbeidsongeschikt (na een wachttijd van 3 maanden), dien dan een aanvraag tot tussenkomst in bij de verzekeraar",
+          "De verzekeraar betaalt maandelijks rechtstreeks aan je kredietinstelling, voor de toegekende periode"
+        ]
+      },
+      "fr": {
+        "title": "Assurance Logement Garanti (Verzekering Gewaarborgd Wonen)",
+        "desc": "Assurance gratuite du gouvernement flamand qui couvre une partie de vos remboursements hypothécaires si vous perdez vos revenus suite à un chômage involontaire, une incapacité de travail, ou une perte de revenus d'indépendant.",
+        "deadline": "À demander dans l'année qui suit le premier prélèvement de votre prêt hypothécaire.",
+        "amount": "Jusqu'à 600 €/mois (jusqu'à 500 €/mois si vous ne remplissez pas les conditions nouvelle construction/E70/revenus) — 70% de votre remboursement la 1ère année, 56% la 2e année, 42% la 3e année ; versé jusqu'à 18 mois (chômage) ou 36 mois (incapacité)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "carte eID belge + lecteur de carte eID (via le guichet en ligne Formulierenloket)"
+          },
+          {
+            "type": "doc",
+            "label": "Votre contrat de prêt hypothécaire"
+          }
+        ],
+        "steps": [
+          "Vérifiez que vous avez emprunté au moins 50.000 € (construction/achat, avec ou sans rénovation) ou 25.000 € (rénovation seule) pour un logement en Flandre qui est ou sera votre résidence principale",
+          "Demandez via le Formulierenloket sur vlaamswoningfonds.be, au plus tard un an après votre premier prélèvement — l'assurance elle-même est gratuite",
+          "Si vous devenez plus tard involontairement au chômage ou incapable de travailler (après un délai de carence de 3 mois), introduisez une demande d'intervention auprès de l'assureur",
+          "L'assureur paie directement votre organisme de crédit chaque mois, pendant la période accordée"
+        ]
+      },
+      "de": {
+        "title": "Versicherung Gewaarborgd Wonen (Bürgschaft Wohnen)",
+        "desc": "Kostenlose Versicherung der flämischen Regierung, die einen Teil Ihrer Hypothekenraten deckt, wenn Sie durch unfreiwillige Arbeitslosigkeit, Arbeitsunfähigkeit oder den Verlust selbstständiger Einkünfte Ihr Einkommen verlieren.",
+        "deadline": "Antragstellung innerhalb eines Jahres nach der ersten Kapitalaufnahme Ihres Hypothekendarlehens.",
+        "amount": "Bis zu 600 €/Monat (bis zu 500 €/Monat, wenn Sie die Bedingungen Neubau/E70/Einkommen nicht erfüllen) — 70% Ihrer Rate im 1. Jahr, 56% im 2. Jahr, 42% im 3. Jahr; ausgezahlt bis zu 18 Monate (Arbeitslosigkeit) oder 36 Monate (Arbeitsunfähigkeit)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "belgische eID-Karte + eID-Kartenlesegerät (über das Online-Formulierenloket)"
+          },
+          {
+            "type": "doc",
+            "label": "Ihr Hypothekendarlehensvertrag"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie, ob Sie mindestens 50.000 € (Bau/Kauf, mit oder ohne Renovierung) oder 25.000 € (nur Renovierung) für eine Wohnung in Flandern geliehen haben, die Ihr Hauptwohnsitz ist oder wird",
+          "Beantragen Sie über das Formulierenloket auf vlaamswoningfonds.be, spätestens ein Jahr nach Ihrer ersten Kapitalaufnahme — die Versicherung selbst ist kostenlos",
+          "Werden Sie später unfreiwillig arbeitslos oder arbeitsunfähig (nach einer Wartezeit von 3 Monaten), stellen Sie einen Leistungsantrag beim Versicherer",
+          "Der Versicherer zahlt monatlich direkt an Ihre Kreditinstitution, für den bewilligten Zeitraum"
+        ]
+      }
+    }
+  },
+  {
+    "id": 6,
+    "category": "housing",
+    "situations": [
+      "renting"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Wonen Vlaanderen",
+    "verified": "19 Sep 2026",
+    "status": "community",
+    "source_url": "https://www.wonenvlaanderen.be/huren/de-vlaamse-huurpremie",
+    "content": {
+      "en": {
+        "title": "Vlaamse Huurpremie (Flemish Rent Allowance)",
+        "desc": "A monthly allowance for private renters who have waited a long time on the list for social housing.",
+        "deadline": "You don't apply proactively — once you've been on the social housing waiting list for 4 uninterrupted years, a housing company automatically sends you an application form (look for the envelope with a yellow round sticker).",
+        "amount": "Roughly €188 to €345 per month, depending on income, household size, and municipality (figures not confirmed on a directly-rendered official page)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of social housing waiting-list registration + your rental lease"
+          }
+        ],
+        "steps": [
+          "Register and stay on the waiting list for a social rental home with a housing company (woonmaatschappij) active in your municipality",
+          "Wait for the automatic application letter after 4 uninterrupted years on the list",
+          "Fill in and return the form with your lease and income details",
+          "Report any changes in your situation as required to keep receiving the premium"
+        ]
+      },
+      "nl": {
+        "title": "Vlaamse Huurpremie",
+        "desc": "Een maandelijkse premie voor private huurders die al lang op de wachtlijst staan voor een sociale woning.",
+        "deadline": "Je vraagt dit niet zelf actief aan — zodra je 4 jaar onafgebroken op de wachtlijst voor een sociale woning staat, stuurt een woonmaatschappij je automatisch een aanvraagformulier (herkenbaar aan de gele ronde sticker op de envelop).",
+        "amount": "Ongeveer €188 tot €345 per maand, afhankelijk van inkomen, gezinsgrootte en gemeente (cijfers niet bevestigd op een rechtstreeks geraadpleegde officiele pagina)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van inschrijving op de wachtlijst sociale huisvesting + je huurcontract"
+          }
+        ],
+        "steps": [
+          "Schrijf je in en blijf ingeschreven op de wachtlijst voor een sociale huurwoning bij een woonmaatschappij die actief is in jouw gemeente",
+          "Wacht op de automatische aanvraagbrief na 4 jaar onafgebroken inschrijving",
+          "Vul het formulier in en stuur het terug met je huurcontract en inkomensgegevens",
+          "Geef wijzigingen in je situatie tijdig door om de premie te behouden"
+        ]
+      },
+      "fr": {
+        "title": "Vlaamse Huurpremie (Prime de Loyer Flamande)",
+        "desc": "Une allocation mensuelle pour les locataires privés qui attendent depuis longtemps sur la liste d'attente pour un logement social.",
+        "deadline": "Vous ne devez pas demander proactivement — une fois inscrit sans interruption pendant 4 ans sur la liste d'attente du logement social, une société de logement vous envoie automatiquement un formulaire de demande (repérable à l'autocollant rond jaune sur l'enveloppe).",
+        "amount": "Environ 188 à 345 € par mois, selon le revenu, la composition du ménage et la commune (chiffres non confirmés sur une page officielle directement consultée)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve d'inscription sur la liste d'attente du logement social + votre contrat de bail"
+          }
+        ],
+        "steps": [
+          "Inscrivez-vous et restez sur la liste d'attente pour un logement social auprès d'une société de logement (woonmaatschappij) active dans votre commune",
+          "Attendez la lettre de demande automatique après 4 ans d'inscription ininterrompue",
+          "Complétez et renvoyez le formulaire avec votre bail et vos informations de revenus",
+          "Signalez tout changement de situation requis pour continuer à percevoir la prime"
+        ]
+      },
+      "de": {
+        "title": "Vlaamse Huurpremie (Flämische Mietprämie)",
+        "desc": "Eine monatliche Zulage für private Mieter, die schon lange auf der Warteliste für eine Sozialwohnung stehen.",
+        "deadline": "Sie beantragen dies nicht selbst aktiv — sobald Sie 4 Jahre ununterbrochen auf der Warteliste für eine Sozialwohnung stehen, schickt Ihnen eine Wohnungsgesellschaft automatisch ein Antragsformular (erkennbar am gelben runden Aufkleber auf dem Umschlag).",
+        "amount": "Etwa 188 bis 345 € pro Monat, abhängig von Einkommen, Haushaltsgröße und Gemeinde (Zahlen nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis der Einschreibung auf der Warteliste für Sozialwohnungen + Ihr Mietvertrag"
+          }
+        ],
+        "steps": [
+          "Melden Sie sich an und bleiben Sie auf der Warteliste für eine Sozialwohnung bei einer Wohnungsgesellschaft (woonmaatschappij), die in Ihrer Gemeinde tätig ist",
+          "Warten Sie nach 4 Jahren ununterbrochener Einschreibung auf den automatischen Antragsbrief",
+          "Füllen Sie das Formular aus und senden Sie es mit Mietvertrag und Einkommensangaben zurück",
+          "Melden Sie erforderliche Änderungen Ihrer Situation, um die Prämie zu behalten"
+        ]
+      }
+    },
+    "note": "Downgraded from verified to community on 19 Sep 2026. The €188–€345 range was never confirmed against a directly-rendered official page — the amount text says so itself — and an automated re-check of the cited wonenvlaanderen.be page on 19 Sep 2026 found neither figure on it. Treat the range as indicative until the entry is re-sourced."
+  },
+  {
+    "id": 7,
+    "category": "housing",
+    "situations": [
+      "renting"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "institution": "Société Wallonne du Logement (SWL) / SPW",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://www.wallonie.be/fr/actualites/allocation-pour-les-menages-en-attente-dun-logement-social",
+    "content": {
+      "en": {
+        "title": "Allocation d'Attente Logement (Waiting-List Rent Allowance)",
+        "desc": "A monthly allowance for Walloon households on the social housing waiting list who rent privately. Not available in the German-speaking Community.",
+        "deadline": "Available once you've been registered on the SWL social housing waiting list, with a private lease, for at least 18 months; the application form is then sent to you automatically.",
+        "amount": "€125/month base, plus €20 per dependent child (doubled for a dependent with a disability), capped at €185/month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of social housing waiting-list registration + your rental lease"
+          }
+        ],
+        "steps": [
+          "Register on the computerised social housing waiting list managed by the SWL",
+          "Remain on the list, with a private lease as your main residence, for at least 18 months",
+          "Wait for the application form sent by your housing company",
+          "Return the form and allow the SPW Allocation Attente Logement service to verify your household and income information"
+        ]
+      },
+      "nl": {
+        "title": "Allocation d'attente logement (Wachtlijstpremie Wallonië)",
+        "desc": "Een maandelijkse premie voor Waalse huishoudens op de wachtlijst voor een sociale woning die privaat huren. Niet beschikbaar in de Duitstalige Gemeenschap.",
+        "deadline": "Beschikbaar zodra je minstens 18 maanden ingeschreven staat op de wachtlijst van de SWL met een privaat huurcontract; het aanvraagformulier wordt je dan automatisch toegestuurd.",
+        "amount": "€125/maand basis, plus €20 per kind ten laste (verdubbeld voor een persoon ten laste met een handicap), met een maximum van €185/maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van inschrijving op de wachtlijst sociale huisvesting + je huurcontract"
+          }
+        ],
+        "steps": [
+          "Schrijf je in op de geinformatiseerde wachtlijst voor sociale huisvesting, beheerd door de SWL",
+          "Blijf minstens 18 maanden ingeschreven, met een privaat huurcontract als hoofdverblijfplaats",
+          "Wacht op het aanvraagformulier dat je huisvestingsmaatschappij opstuurt",
+          "Stuur het formulier terug en laat de dienst Allocation Attente Logement van de SPW je gezins- en inkomensgegevens controleren"
+        ]
+      },
+      "fr": {
+        "title": "Allocation d'Attente Logement (AAL)",
+        "desc": "Une allocation mensuelle pour les ménages wallons sur la liste d'attente du logement social qui louent en privé. Non disponible en Communauté germanophone.",
+        "deadline": "Disponible une fois inscrit sur la liste d'attente du logement social de la SWL, avec un bail privé, depuis au moins 18 mois ; le formulaire de demande vous est alors envoyé automatiquement.",
+        "amount": "125 €/mois de base, plus 20 € par enfant à charge (doublé pour une personne à charge en situation de handicap), plafonné à 185 €/mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve d'inscription sur la liste d'attente du logement social + votre contrat de bail"
+          }
+        ],
+        "steps": [
+          "Inscrivez-vous sur la liste d'attente informatisée du logement social gérée par la SWL",
+          "Restez inscrit, avec un bail privé comme résidence principale, pendant au moins 18 mois",
+          "Attendez le formulaire de demande envoyé par votre société de logement",
+          "Renvoyez le formulaire et permettez au service Allocation Attente Logement du SPW de vérifier vos informations de ménage et de revenus"
+        ]
+      },
+      "de": {
+        "title": "Allocation d'Attente Logement (Wartelisten-Mietzulage Wallonien)",
+        "desc": "Eine monatliche Zulage für wallonische Haushalte auf der Warteliste für Sozialwohnungen, die privat mieten. In der Deutschsprachigen Gemeinschaft nicht verfügbar.",
+        "deadline": "Verfügbar, sobald Sie mindestens 18 Monate mit einem privaten Mietvertrag auf der Warteliste der SWL eingeschrieben sind; das Antragsformular wird Ihnen dann automatisch zugeschickt.",
+        "amount": "125 €/Monat Grundbetrag, plus 20 € pro unterhaltsberechtigtem Kind (verdoppelt für eine unterhaltsberechtigte Person mit Behinderung), begrenzt auf 185 €/Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis der Einschreibung auf der Warteliste für Sozialwohnungen + Ihr Mietvertrag"
+          }
+        ],
+        "steps": [
+          "Melden Sie sich auf der computergestützten Warteliste für Sozialwohnungen der SWL an",
+          "Bleiben Sie mindestens 18 Monate mit einem privaten Mietvertrag als Hauptwohnsitz eingeschrieben",
+          "Warten Sie auf das Antragsformular Ihrer Wohnungsgesellschaft",
+          "Senden Sie das Formular zurück und lassen Sie den Dienst Allocation Attente Logement des SPW Ihre Haushalts- und Einkommensangaben prüfen"
+        ]
+      }
+    },
+    "note": "Amounts confirmed on the official wallonie.be page on 18 Sep 2026, but that page carries 'Mis à jour le 15.03.2023' — the €125/€185 figures may predate later indexation. The page also states the scheme excludes the German-speaking Community and French-language Wallonia only."
+  },
+  {
+    "id": 8,
+    "category": "housing",
+    "situations": [
+      "renting"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Brussels Housing (SPRB)",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://be.brussels/en/housing/rental/rent-allowance/housing-allowance/rent-allowance-how-apply-and-eligibility-requirements",
+    "content": {
+      "en": {
+        "title": "Allocation Loyer (Brussels Rent Allowance)",
+        "desc": "Monthly financial help with your rent while you wait for social housing to be allocated in Brussels.",
+        "deadline": "Apply any time once you meet the conditions (assessed on the day you apply). Granted for a first period of 5 years, renewable.",
+        "amount": "€142.85–€190.46/month base amount, plus €23.81–€47.62 per dependent child, depending on income and family situation",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + reader (for the online citizen portal)"
+          },
+          {
+            "type": "doc",
+            "label": "Rental lease + proof of social housing waiting-list registration"
+          }
+        ],
+        "steps": [
+          "Register on the waiting list for social housing with a Brussels public housing company (SISP) and confirm you have at least 2 (single-parent family) or 6 (other households) priority points",
+          "Check your household income is under the relevant threshold (€16,408.11 single / €22,174.69 multi-person household / up to €29,236.66 for a single-parent family)",
+          "Apply online via the citizen portal (crm.irisbox.brussels) using your eID or itsme, or send the paper form to Brussels Housing",
+          "Wait 2–4 months for a decision on your complete file"
+        ]
+      },
+      "nl": {
+        "title": "Huurtoelage (Brusselse Huurpremie)",
+        "desc": "Maandelijkse financiele hulp bij je huur terwijl je wacht op een sociale woning in Brussel.",
+        "deadline": "Aan te vragen op elk moment zodra je aan de voorwaarden voldoet (beoordeeld op de dag van je aanvraag). Toegekend voor een eerste periode van 5 jaar, hernieuwbaar.",
+        "amount": "€142,85–€190,46/maand basisbedrag, plus €23,81–€47,62 per kind ten laste, afhankelijk van inkomen en gezinssituatie",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer (voor het online burgerloket)"
+          },
+          {
+            "type": "doc",
+            "label": "Huurcontract + bewijs van inschrijving op de wachtlijst sociale huisvesting"
+          }
+        ],
+        "steps": [
+          "Schrijf je in op de wachtlijst voor sociale huisvesting bij een Brusselse openbare vastgoedmaatschappij (OVM) en controleer of je minstens 2 (eenoudergezin) of 6 (andere gezinnen) prioriteitspunten hebt",
+          "Controleer of je gezinsinkomen onder de geldende grens ligt (€16.408,11 alleenstaand / €22.174,69 meerpersoonshuishouden / tot €29.236,66 voor een eenoudergezin)",
+          "Vraag online aan via het burgerloket (crm.irisbox.brussels) met je eID of itsme, of stuur het papieren formulier naar Brussel Huisvesting",
+          "Wacht 2 tot 4 maanden op een beslissing over je volledige dossier"
+        ]
+      },
+      "fr": {
+        "title": "Allocation Loyer",
+        "desc": "Une aide financière mensuelle pour votre loyer en attendant l'attribution d'un logement social à Bruxelles.",
+        "deadline": "À demander à tout moment dès que vous remplissez les conditions (évaluées le jour de votre demande). Accordée pour une première période de 5 ans, renouvelable.",
+        "amount": "142,85–190,46 €/mois de base, plus 23,81–47,62 € par enfant à charge, selon le revenu et la situation familiale",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "carte eID belge + lecteur (pour le guichet citoyen en ligne)"
+          },
+          {
+            "type": "doc",
+            "label": "Contrat de bail + preuve d'inscription sur la liste d'attente du logement social"
+          }
+        ],
+        "steps": [
+          "Inscrivez-vous sur la liste d'attente du logement social auprès d'une société immobilière de service public (SISP) bruxelloise et vérifiez que vous avez au moins 2 points (famille monoparentale) ou 6 points (autres ménages) de priorité",
+          "Vérifiez que votre revenu du ménage est inférieur au seuil applicable (16.408,11 € isolé / 22.174,69 € ménage à plusieurs personnes / jusqu'à 29.236,66 € pour une famille monoparentale)",
+          "Demandez en ligne via le guichet citoyen (crm.irisbox.brussels) avec votre eID ou itsme, ou envoyez le formulaire papier à Bruxelles Logement",
+          "Attendez 2 à 4 mois pour une décision sur votre dossier complet"
+        ]
+      },
+      "de": {
+        "title": "Allocation Loyer (Brüsseler Mietzulage)",
+        "desc": "Monatliche finanzielle Unterstützung für Ihre Miete, während Sie auf eine Sozialwohnung in Brüssel warten.",
+        "deadline": "Jederzeit zu beantragen, sobald Sie die Bedingungen erfüllen (bewertet am Tag Ihres Antrags). Gewährt für eine erste Periode von 5 Jahren, verlängerbar.",
+        "amount": "142,85–190,46 €/Monat Grundbetrag, plus 23,81–47,62 € pro unterhaltsberechtigtem Kind, je nach Einkommen und Familiensituation",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "belgische eID-Karte + Lesegerät (für das Online-Bürgerportal)"
+          },
+          {
+            "type": "doc",
+            "label": "Mietvertrag + Nachweis der Einschreibung auf der Warteliste für Sozialwohnungen"
+          }
+        ],
+        "steps": [
+          "Melden Sie sich auf der Warteliste für Sozialwohnungen bei einer öffentlichen Wohnungsgesellschaft (SISP) in Brüssel an und prüfen Sie, ob Sie mindestens 2 Punkte (Alleinerziehende) oder 6 Punkte (andere Haushalte) Priorität haben",
+          "Prüfen Sie, ob Ihr Haushaltseinkommen unter der geltenden Grenze liegt (16.408,11 € alleinstehend / 22.174,69 € Mehrpersonenhaushalt / bis 29.236,66 € für Alleinerziehende)",
+          "Beantragen Sie online über das Bürgerportal (crm.irisbox.brussels) mit eID oder itsme, oder senden Sie das Papierformular an Brüssel Wohnen",
+          "Warten Sie 2 bis 4 Monate auf eine Entscheidung über Ihre vollständige Akte"
+        ]
+      }
+    }
+  },
+  {
+    "id": 9,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Energie- en Klimaatagentschap / Fluvius",
+    "verified": "18 Sep 2026",
+    "status": "community",
+    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie",
+    "note": "Checked again 18 Sep 2026: the vlaanderen.be renovation-premium page loads, but the per-work amounts and the March 2026 phase-out for the lowest income categories sit behind expandable sections that were not confirmed directly. Figures still come from third-party contractor sites.",
+    "content": {
+      "en": {
+        "title": "Mijn VerbouwPremie (Renovation & Insulation Grant)",
+        "desc": "A Flemish government grant toward the cost of insulating or renovating your home, requested per type of work (e.g. roof insulation).",
+        "deadline": "Submit online after the work is done and invoiced; exact eligibility depends on your income category, and lower-income categories are being phased out of the roof-insulation premium from 1 March 2026 — check current rules before applying.",
+        "amount": "Varies by income category and type of work (e.g. roof insulation is calculated per m² up to technical and invoice-based caps) — figures not confirmed on a directly-rendered official page",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + reader (via mijn.vlaanderen.be)"
+          },
+          {
+            "type": "doc",
+            "label": "Final invoices for the work"
+          }
+        ],
+        "steps": [
+          "Make sure the work meets the technical requirements (e.g. roof insulation Rd ≥ 4.5 m²K/W)",
+          "Have the work carried out by a contractor and keep the invoices",
+          "Apply digitally via Mijn VerbouwPremie on vlaanderen.be, logging in with itsme or your eID",
+          "Also check separately whether a Fluvius energy (REG) premium applies — it is not automatically included"
+        ]
+      },
+      "nl": {
+        "title": "Mijn VerbouwPremie",
+        "desc": "Een premie van de Vlaamse overheid voor de kost van isolatie of renovatie van je woning, aan te vragen per soort werk (bv. dakisolatie).",
+        "deadline": "Digitaal aan te vragen na uitvoering en facturatie van de werken; de exacte voorwaarden hangen af van je inkomenscategorie, en de laagste inkomenscategorieën verliezen vanaf 1 maart 2026 het recht op de dakisolatiepremie — controleer de actuele regels voor je aanvraagt.",
+        "amount": "Varieert naargelang inkomenscategorie en type werk (dakisolatie wordt bv. per m² berekend, begrensd door technische normen en factuurbedrag) — cijfers niet bevestigd op een rechtstreeks geraadpleegde officiele pagina",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer (via mijn.vlaanderen.be)"
+          },
+          {
+            "type": "doc",
+            "label": "Eindfacturen van de werken"
+          }
+        ],
+        "steps": [
+          "Zorg dat de werken voldoen aan de technische eisen (bv. dakisolatie Rd ≥ 4,5 m²K/W)",
+          "Laat de werken uitvoeren door een aannemer en bewaar de facturen",
+          "Vraag digitaal aan via Mijn VerbouwPremie op vlaanderen.be, met inloggen via itsme of je eID",
+          "Controleer ook apart of een Fluvius-energiepremie (REG) van toepassing is — die zit hier niet automatisch in"
+        ]
+      },
+      "fr": {
+        "title": "Mijn VerbouwPremie (Prime Flamande de Rénovation et d'Isolation)",
+        "desc": "Une prime du gouvernement flamand pour le coût de l'isolation ou de la rénovation de votre logement, demandée par type de travaux (ex. isolation de toiture).",
+        "deadline": "À soumettre en ligne après exécution et facturation des travaux ; les conditions exactes dépendent de votre catégorie de revenus, et les catégories de revenus les plus faibles perdent le droit à la prime d'isolation de toiture à partir du 1er mars 2026 — vérifiez les règles actuelles avant de demander.",
+        "amount": "Varie selon la catégorie de revenus et le type de travaux (l'isolation de toiture est par exemple calculée par m², plafonnée par des normes techniques et le montant de la facture) — chiffres non confirmés sur une page officielle directement consultée",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "carte eID belge + lecteur (via mijn.vlaanderen.be)"
+          },
+          {
+            "type": "doc",
+            "label": "Factures finales des travaux"
+          }
+        ],
+        "steps": [
+          "Assurez-vous que les travaux respectent les exigences techniques (ex. isolation de toiture Rd ≥ 4,5 m²K/W)",
+          "Faites exécuter les travaux par un entrepreneur et conservez les factures",
+          "Demandez numériquement via Mijn VerbouwPremie sur vlaanderen.be, en vous connectant avec itsme ou votre eID",
+          "Vérifiez aussi séparément si une prime énergie (REG) de Fluvius s'applique — elle n'est pas incluse automatiquement"
+        ]
+      },
+      "de": {
+        "title": "Mijn VerbouwPremie (Flämische Renovierungs- und Dämmprämie)",
+        "desc": "Eine Prämie der flämischen Regierung für die Kosten der Dämmung oder Renovierung Ihrer Wohnung, beantragt je nach Art der Arbeiten (z. B. Dachdämmung).",
+        "deadline": "Online einzureichen nach Ausführung und Rechnungsstellung der Arbeiten; die genauen Bedingungen hängen von Ihrer Einkommenskategorie ab, und die niedrigsten Einkommenskategorien verlieren ab 1. März 2026 den Anspruch auf die Dachdämmungsprämie — prüfen Sie die aktuellen Regeln vor der Antragstellung.",
+        "amount": "Variiert je nach Einkommenskategorie und Art der Arbeiten (Dachdämmung wird z. B. pro m² berechnet, begrenzt durch technische Normen und Rechnungsbetrag) — Zahlen nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "belgische eID-Karte + Lesegerät (über mijn.vlaanderen.be)"
+          },
+          {
+            "type": "doc",
+            "label": "Endrechnungen der Arbeiten"
+          }
+        ],
+        "steps": [
+          "Stellen Sie sicher, dass die Arbeiten die technischen Anforderungen erfüllen (z. B. Dachdämmung Rd ≥ 4,5 m²K/W)",
+          "Lassen Sie die Arbeiten von einem Unternehmer ausführen und bewahren Sie die Rechnungen auf",
+          "Beantragen Sie digital über Mijn VerbouwPremie auf vlaanderen.be, mit Anmeldung über itsme oder Ihre eID",
+          "Prüfen Sie außerdem separat, ob eine Fluvius-Energieprämie (REG) gilt — diese ist nicht automatisch enthalten"
+        ]
+      }
+    }
+  },
+  {
+    "id": 10,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [],
+    "institution": "Service Public de Wallonie (SPW) — Énergie",
+    "verified": "19 Sep 2026",
+    "status": "community",
+    "source_url": "https://energie.wallonie.be",
+    "content": {
+      "en": {
+        "title": "Prime Isolation Toiture (Wallonia Roof Insulation Grant)",
+        "desc": "A Walloon government grant covering part of the cost of insulating your roof.",
+        "deadline": "Submit your application, including the final invoice, by 30 September 2026.",
+        "amount": "Roughly €20–€26/m² × an income-based coefficient (1–4), up to €156/m² for bio-based insulation in the lowest income category; capped at 50–70% of the invoice (figures not confirmed on a directly-rendered official page)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Final invoice for the insulation work"
+          }
+        ],
+        "steps": [
+          "Check your roof insulation meets the minimum R ≥ 4.5 m²K/W requirement",
+          "Have the work carried out and keep the final invoice",
+          "Apply via energie.wallonie.be before the 30 September 2026 deadline",
+          "Note: as of 2025, roof insulation alone no longer requires a home energy audit"
+        ]
+      },
+      "nl": {
+        "title": "Prime Isolation Toiture (Dakisolatiepremie Wallonië)",
+        "desc": "Een premie van de Waalse overheid voor een deel van de kost om je dak te isoleren.",
+        "deadline": "Dien je aanvraag, inclusief eindfactuur, ten laatste in op 30 september 2026.",
+        "amount": "Ongeveer €20–€26/m² × een inkomenscoëfficiënt (1–4), tot €156/m² voor biogebaseerde isolatie in de laagste inkomenscategorie; begrensd op 50–70% van het factuurbedrag (cijfers niet bevestigd op een rechtstreeks geraadpleegde officiele pagina)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eindfactuur van de isolatiewerken"
+          }
+        ],
+        "steps": [
+          "Controleer of je dakisolatie voldoet aan de minimale eis R ≥ 4,5 m²K/W",
+          "Laat de werken uitvoeren en bewaar de eindfactuur",
+          "Vraag aan via energie.wallonie.be vóór de deadline van 30 september 2026",
+          "Opgelet: sinds 2025 is voor dakisolatie alleen geen energieaudit van de woning meer nodig"
+        ]
+      },
+      "fr": {
+        "title": "Prime Isolation Toiture",
+        "desc": "Une prime du gouvernement wallon couvrant une partie du coût de l'isolation de votre toiture.",
+        "deadline": "Soumettez votre demande, facture finale incluse, avant le 30 septembre 2026.",
+        "amount": "Environ 20–26 €/m² × un coefficient selon le revenu (1–4), jusqu'à 156 €/m² pour l'isolant biosourcé dans la catégorie de revenus la plus basse ; plafonné à 50–70% de la facture (chiffres non confirmés sur une page officielle directement consultée)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Facture finale des travaux d'isolation"
+          }
+        ],
+        "steps": [
+          "Vérifiez que votre isolation de toiture respecte l'exigence minimale R ≥ 4,5 m²K/W",
+          "Faites exécuter les travaux et conservez la facture finale",
+          "Demandez via energie.wallonie.be avant la date limite du 30 septembre 2026",
+          "Notez : depuis 2025, l'isolation de toiture seule ne nécessite plus d'audit énergétique du logement"
+        ]
+      },
+      "de": {
+        "title": "Prime Isolation Toiture (Dachdämmungsprämie Wallonien)",
+        "desc": "Eine Prämie der wallonischen Regierung, die einen Teil der Kosten für die Dämmung Ihres Dachs deckt.",
+        "deadline": "Reichen Sie Ihren Antrag, einschließlich Endrechnung, bis spätestens 30. September 2026 ein.",
+        "amount": "Etwa 20–26 €/m² × ein einkommensabhängiger Koeffizient (1–4), bis zu 156 €/m² für biobasierte Dämmung in der niedrigsten Einkommenskategorie; begrenzt auf 50–70% des Rechnungsbetrags (Zahlen nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Endrechnung der Dämmarbeiten"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie, ob Ihre Dachdämmung die Mindestanforderung R ≥ 4,5 m²K/W erfüllt",
+          "Lassen Sie die Arbeiten ausführen und bewahren Sie die Endrechnung auf",
+          "Beantragen Sie über energie.wallonie.be vor der Frist am 30. September 2026",
+          "Hinweis: Seit 2025 ist für Dachdämmung allein kein Energieaudit der Wohnung mehr erforderlich"
+        ]
+      }
+    },
+    "note": "Downgraded from verified to community on 19 Sep 2026. The per-m² figures were never confirmed against a directly-rendered official page — the amount text says so itself — and the cited source_url is the energie.wallonie.be site root rather than the premium's own page. An automated re-check on 19 Sep 2026 found none of the €20 / €26 / €156 figures. Needs a deep link to the scheme page and a fresh reading of the amounts."
+  },
+  {
+    "id": 11,
+    "category": "other",
+    "situations": [
+      "school"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "18 Sep 2026",
+    "status": "community",
+    "source_url": "https://www.vlaanderen.be/studietoelage",
+    "note": "Checked again 18 Sep 2026: vlaanderen.be/studietoelage confirms the scheme, the Digitaal loket and that 2026-2027 applications are open, but the exact application window, the 54-credit rule and the under-30 age limit sit behind collapsed accordion panels that were not confirmed directly.",
+    "content": {
+      "en": {
+        "title": "Studietoelage (Flemish School/Study Grant)",
+        "desc": "Financial help from the Flemish government toward school or higher-education costs, based on household income.",
+        "deadline": "For higher education, apply between 2 June 2026 and 1 June 2027 for the 2026–2027 academic year; from this year you must study at least 54 credits and be under 30.",
+        "amount": "Varies by income, household size, and boarding status — typically a few hundred to over a thousand euros per year (exact scale not confirmed on a directly-rendered official page)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + reader"
+          }
+        ],
+        "steps": [
+          "Go to vlaanderen.be/studietoelage and log in with itsme or your eID",
+          "Fill in your (or your child's) enrollment and household income details",
+          "Submit before 1 June of the relevant academic year",
+          "You'll get a confirmation email; school allowances for younger children in Flanders/Brussels are paid automatically, no application needed"
+        ]
+      },
+      "nl": {
+        "title": "Studietoelage",
+        "desc": "Financiële steun van de Vlaamse overheid voor schoolkosten of kosten hoger onderwijs, gebaseerd op je gezinsinkomen.",
+        "deadline": "Voor hoger onderwijs aan te vragen tussen 2 juni 2026 en 1 juni 2027 voor het academiejaar 2026-2027; vanaf dit jaar moet je minstens 54 studiepunten opnemen en jonger zijn dan 30.",
+        "amount": "Varieert naargelang inkomen, gezinsgrootte en kot-status — doorgaans enkele honderden tot meer dan duizend euro per jaar (exacte schaal niet bevestigd op een rechtstreeks geraadpleegde officiele pagina)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer"
+          }
+        ],
+        "steps": [
+          "Ga naar vlaanderen.be/studietoelage en log in met itsme of je eID",
+          "Vul je (of je kinds) inschrijvings- en gezinsinkomensgegevens in",
+          "Dien in vóór 1 juni van het betrokken academiejaar",
+          "Je krijgt een bevestigingsmail; de schooltoeslag voor jongere kinderen in Vlaanderen/Brussel wordt automatisch uitbetaald, geen aanvraag nodig"
+        ]
+      },
+      "fr": {
+        "title": "Studietoelage (Bourse d'Études Flamande)",
+        "desc": "Une aide financière du gouvernement flamand pour les frais scolaires ou d'enseignement supérieur, basée sur le revenu du ménage.",
+        "deadline": "Pour l'enseignement supérieur, demandez entre le 2 juin 2026 et le 1er juin 2027 pour l'année académique 2026-2027 ; à partir de cette année, vous devez suivre au moins 54 crédits et avoir moins de 30 ans.",
+        "amount": "Varie selon le revenu, la taille du ménage et le statut d'internat — généralement de quelques centaines à plus de mille euros par an (échelle exacte non confirmée sur une page officielle directement consultée)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "carte eID belge + lecteur"
+          }
+        ],
+        "steps": [
+          "Allez sur vlaanderen.be/studietoelage et connectez-vous avec itsme ou votre eID",
+          "Complétez les informations d'inscription et de revenu du ménage (le vôtre ou celui de votre enfant)",
+          "Soumettez avant le 1er juin de l'année académique concernée",
+          "Vous recevrez un e-mail de confirmation ; l'allocation scolaire pour les jeunes enfants en Flandre/Bruxelles est versée automatiquement, aucune demande n'est nécessaire"
+        ]
+      },
+      "de": {
+        "title": "Studietoelage (Flämisches Schul-/Studienstipendium)",
+        "desc": "Finanzielle Unterstützung der flämischen Regierung für Schul- oder Hochschulkosten, basierend auf dem Haushaltseinkommen.",
+        "deadline": "Für die Hochschulbildung Antragstellung zwischen 2. Juni 2026 und 1. Juni 2027 für das Studienjahr 2026-2027; ab diesem Jahr müssen Sie mindestens 54 Studienpunkte belegen und unter 30 Jahre alt sein.",
+        "amount": "Variiert je nach Einkommen, Haushaltsgröße und Internatsstatus — üblicherweise einige hundert bis über tausend Euro pro Jahr (genaue Staffelung nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "belgische eID-Karte + Lesegerät"
+          }
+        ],
+        "steps": [
+          "Gehen Sie auf vlaanderen.be/studietoelage und melden Sie sich mit itsme oder Ihrer eID an",
+          "Geben Sie Ihre (oder die Ihres Kindes) Einschreibungs- und Haushaltseinkommensdaten ein",
+          "Reichen Sie den Antrag vor dem 1. Juni des betreffenden Studienjahres ein",
+          "Sie erhalten eine Bestätigungs-E-Mail; der Schulzuschlag für jüngere Kinder in Flandern/Brüssel wird automatisch ausgezahlt, kein Antrag nötig"
+        ]
+      }
+    }
+  },
+  {
+    "id": 12,
+    "category": "other",
+    "situations": [
+      "school"
+    ],
+    "region": [
+      "Wallonia",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Fédération Wallonie-Bruxelles — Direction des Allocations d'Études",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://allocations-etudes.cfwb.be/conditions-et-montant/allocation-detudes-montant",
+    "note": "This benefit is run by the French Community (Fédération Wallonie-Bruxelles), which covers Wallonia AND French-speaking residents of Brussels. The schema's region enum has no 'French Community' option (only 'German-speaking Community' is listed alongside the 3 regions), so 'Wallonia' was used as the closest fit — flagging this as a schema gap worth revisiting.",
+    "content": {
+      "en": {
+        "title": "Allocation d'Études (Study Grant, French Community)",
+        "desc": "Financial help from the Fédération Wallonie-Bruxelles toward secondary or higher-education costs, based on household income.",
+        "deadline": "Apply between 1 July and 31 October 2026 for the 2026–2027 school/academic year — you can apply even before you have every document.",
+        "amount": "Between €90 and €6,000 per year, depending on household income, dependents, and whether the student boards away from home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Household composition + latest tax assessment"
+          }
+        ],
+        "steps": [
+          "Create an account on monespace.fw-b.be, or get the paper form",
+          "Fill in your household composition and income details (2024 tax year, 2023 income)",
+          "Submit online or by post between 1 July and 31 October 2026",
+          "Payment is made as a single transfer to your bank account once approved — there's no back payment for late applications"
+        ]
+      },
+      "nl": {
+        "title": "Allocation d'études (Studiebeurs Franse Gemeenschap)",
+        "desc": "Financiële steun van de Fédération Wallonie-Bruxelles voor kosten van secundair of hoger onderwijs, gebaseerd op je gezinsinkomen.",
+        "deadline": "Aan te vragen tussen 1 juli en 31 oktober 2026 voor het school-/academiejaar 2026-2027 — je mag aanvragen zelfs als je nog niet alle documenten hebt.",
+        "amount": "Tussen €90 en €6.000 per jaar, afhankelijk van gezinsinkomen, personen ten laste, en of de student op kot zit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Gezinssamenstelling + laatste aanslagbiljet"
+          }
+        ],
+        "steps": [
+          "Maak een account aan op monespace.fw-b.be, of vraag het papieren formulier op",
+          "Vul je gezinssamenstelling en inkomensgegevens in (aanslagjaar 2024, inkomen 2023)",
+          "Dien online of per post in tussen 1 juli en 31 oktober 2026",
+          "Uitbetaling gebeurt in één keer op je rekening na goedkeuring — geen retroactieve betaling bij een late aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Allocation d'Études (Fédération Wallonie-Bruxelles)",
+        "desc": "Une aide financière de la Fédération Wallonie-Bruxelles pour les frais d'enseignement secondaire ou supérieur, basée sur le revenu du ménage.",
+        "deadline": "À demander entre le 1er juillet et le 31 octobre 2026 pour l'année scolaire/académique 2026-2027 — vous pouvez demander même sans avoir tous les documents.",
+        "amount": "Entre 90 € et 6.000 € par an, selon le revenu du ménage, le nombre de personnes à charge, et si l'étudiant loge en internat/kot",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Composition de ménage + dernier avertissement-extrait de rôle"
+          }
+        ],
+        "steps": [
+          "Créez un compte sur monespace.fw-b.be, ou procurez-vous le formulaire papier",
+          "Complétez votre composition de ménage et vos informations de revenus (année fiscale 2024, revenus 2023)",
+          "Soumettez en ligne ou par courrier entre le 1er juillet et le 31 octobre 2026",
+          "Le paiement est effectué en une seule fois sur votre compte bancaire après approbation — pas de paiement rétroactif en cas de demande tardive"
+        ]
+      },
+      "de": {
+        "title": "Allocation d'Études (Studienbeihilfe, Französische Gemeinschaft)",
+        "desc": "Finanzielle Unterstützung der Fédération Wallonie-Bruxelles für Kosten der Sekundarschul- oder Hochschulbildung, basierend auf dem Haushaltseinkommen.",
+        "deadline": "Antragstellung zwischen 1. Juli und 31. Oktober 2026 für das Schul-/Studienjahr 2026-2027 — Sie können auch beantragen, bevor Sie alle Unterlagen haben.",
+        "amount": "Zwischen 90 € und 6.000 € pro Jahr, abhängig von Haushaltseinkommen, Unterhaltsberechtigten und ob der Student/die Studentin auswärts wohnt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Haushaltszusammensetzung + letzter Steuerbescheid"
+          }
+        ],
+        "steps": [
+          "Erstellen Sie ein Konto auf monespace.fw-b.be, oder besorgen Sie sich das Papierformular",
+          "Geben Sie Ihre Haushaltszusammensetzung und Einkommensdaten ein (Steuerjahr 2024, Einkommen 2023)",
+          "Reichen Sie online oder per Post zwischen 1. Juli und 31. Oktober 2026 ein",
+          "Die Auszahlung erfolgt einmalig auf Ihr Bankkonto nach Genehmigung — keine rückwirkende Zahlung bei verspäteter Antragstellung"
+        ]
+      }
+    }
+  },
+  {
+    "id": 13,
+    "category": "other",
+    "situations": [
+      "school"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "institution": "Ministerium der Deutschsprachigen Gemeinschaft",
+    "verified": "17 Sep 2026",
+    "status": "verified",
+    "source_url": "https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2336/",
+    "content": {
+      "en": {
+        "title": "Studienbeihilfe (Study Grant, German-speaking Community)",
+        "desc": "Financial help from the German-speaking Community toward secondary or higher-education costs, based on income.",
+        "deadline": "Apply by 31 October of the relevant school year.",
+        "amount": "Roughly €59–€259/year if living at home, or €176–€777/year if boarding or renting a room (figures not confirmed on a directly-rendered official page)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Income details for yourself and whoever supports you financially"
+          }
+        ],
+        "steps": [
+          "Get the application form from ostbelgienbildung.be",
+          "Gather income details for yourself and whoever supports you financially",
+          "Submit to the relevant community service (Eupen, Brussels, Mons, or Liège office, depending on your school) by 31 October",
+          "Contact studienbeihilfen@dgov.be if you need help"
+        ]
+      },
+      "nl": {
+        "title": "Studienbeihilfe (Studiebeurs Duitstalige Gemeenschap)",
+        "desc": "Financiële steun van de Duitstalige Gemeenschap voor kosten van secundair of hoger onderwijs, gebaseerd op inkomen.",
+        "deadline": "Aan te vragen ten laatste 31 oktober van het betrokken schooljaar.",
+        "amount": "Ongeveer €59–€259/jaar als je thuis woont, of €176–€777/jaar als je op kot zit of intern verblijft (cijfers niet bevestigd op een rechtstreeks geraadpleegde officiele pagina)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Inkomensgegevens van jezelf en wie voor je onderhoud instaat"
+          }
+        ],
+        "steps": [
+          "Haal het aanvraagformulier op via ostbelgienbildung.be",
+          "Verzamel inkomensgegevens van jezelf en van wie voor je onderhoud instaat",
+          "Dien in bij de bevoegde dienst (Eupen, Brussel, Mons of Luik, afhankelijk van je school) ten laatste 31 oktober",
+          "Neem contact op met studienbeihilfen@dgov.be als je hulp nodig hebt"
+        ]
+      },
+      "fr": {
+        "title": "Studienbeihilfe (Bourse d'Études, Communauté germanophone)",
+        "desc": "Une aide financière de la Communauté germanophone pour les frais d'enseignement secondaire ou supérieur, basée sur le revenu.",
+        "deadline": "À demander au plus tard le 31 octobre de l'année scolaire concernée.",
+        "amount": "Environ 59–259 €/an si vous vivez chez vous, ou 176–777 €/an en internat ou en kot (chiffres non confirmés sur une page officielle directement consultée)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Informations de revenus pour vous-même et la personne qui subvient à votre entretien"
+          }
+        ],
+        "steps": [
+          "Procurez-vous le formulaire de demande sur ostbelgienbildung.be",
+          "Rassemblez les informations de revenus pour vous-même et la personne qui subvient à votre entretien",
+          "Soumettez au service communautaire compétent (bureau d'Eupen, Bruxelles, Mons ou Liège, selon votre école) avant le 31 octobre",
+          "Contactez studienbeihilfen@dgov.be si vous avez besoin d'aide"
+        ]
+      },
+      "de": {
+        "title": "Studienbeihilfe (Deutschsprachige Gemeinschaft)",
+        "desc": "Finanzielle Unterstützung der Deutschsprachigen Gemeinschaft für Kosten der Sekundarschul- oder Hochschulbildung, abhängig vom Einkommen.",
+        "deadline": "Antragstellung bis spätestens 31. Oktober des betreffenden Schuljahres.",
+        "amount": "Etwa 59–259 €/Jahr bei Wohnen zu Hause, oder 176–777 €/Jahr bei Internat oder Zimmermiete (Zahlen nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Einkommensangaben von Ihnen und der Person, die für Ihren Unterhalt aufkommt"
+          }
+        ],
+        "steps": [
+          "Holen Sie sich das Antragsformular auf ostbelgienbildung.be",
+          "Sammeln Sie Einkommensangaben für sich selbst und die Person, die für Ihren Unterhalt aufkommt",
+          "Reichen Sie es bei der zuständigen Gemeinschaftsdienststelle ein (Eupen, Brüssel, Mons oder Lüttich, je nach Schule), bis spätestens 31. Oktober",
+          "Kontaktieren Sie studienbeihilfen@dgov.be, falls Sie Hilfe benötigen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 14,
+    "category": "other",
+    "situations": [
+      "job-loss"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "OCMW / CPAS (via POD Maatschappelijke Integratie)",
+    "verified": "19 Sep 2026",
+    "status": "community",
+    "source_url": "https://primabook.mi-is.be/nl/recht-op-maatschappelijke-integratie/de-categorieen-van-rechthebbenden-en-het-bedrag-van-het",
+    "content": {
+      "en": {
+        "title": "Leefloon (Social Integration Income via OCMW)",
+        "desc": "A monthly minimum-income payment from your local OCMW if you don't have enough income to live on and meet the conditions.",
+        "deadline": "Apply as soon as you're in need — there's no fixed deadline, but payments only start from your application date, so don't delay.",
+        "amount": "€911.56/month if cohabiting, €1,367.34/month if single, €1,847.89/month with a dependent family (rates since 1 September 2026)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Belgian ID card or residence document"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of income, assets, and household composition"
+          }
+        ],
+        "steps": [
+          "Contact the OCMW of the municipality where you live",
+          "Provide ID and details of your income, assets, and household",
+          "Take part in the OCMW's social investigation",
+          "Within 3 months of approval, agree an individualised integration plan (GPMI) with your OCMW"
+        ]
+      },
+      "nl": {
+        "title": "Leefloon (OCMW)",
+        "desc": "Een maandelijkse minimuminkomensuitkering van je lokale OCMW als je onvoldoende inkomen hebt om van te leven en aan de voorwaarden voldoet.",
+        "deadline": "Aan te vragen zodra je in nood verkeert — er is geen vaste deadline, maar uitbetaling start pas vanaf je aanvraagdatum, dus wacht niet te lang.",
+        "amount": "€911,56/maand voor samenwonenden, €1.367,34/maand voor alleenstaanden, €1.847,89/maand met gezinslast (bedragen sinds 1 september 2026)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Belgische identiteitskaart of verblijfsdocument"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van inkomen, vermogen en gezinssamenstelling"
+          }
+        ],
+        "steps": [
+          "Neem contact op met het OCMW van je woonplaats",
+          "Bezorg je identiteitsgegevens en informatie over inkomen, vermogen en gezin",
+          "Werk mee aan het sociaal onderzoek van het OCMW",
+          "Binnen 3 maanden na goedkeuring stel je samen met je OCMW een geïndividualiseerd project voor maatschappelijke integratie (GPMI) op"
+        ]
+      },
+      "fr": {
+        "title": "Revenu d'Intégration Sociale (via le CPAS)",
+        "desc": "Un paiement mensuel de revenu minimum de votre CPAS local si vous n'avez pas suffisamment de revenus pour vivre et que vous remplissez les conditions.",
+        "deadline": "À demander dès que vous êtes dans le besoin — il n'y a pas de délai fixe, mais les paiements ne commencent qu'à partir de votre date de demande, donc ne tardez pas.",
+        "amount": "911,56 €/mois pour les cohabitants, 1.367,34 €/mois pour les isolés, 1.847,89 €/mois avec charge de famille (montants depuis le 1er septembre 2026)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Carte d'identité belge ou document de séjour"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de revenus, de patrimoine et de composition de ménage"
+          }
+        ],
+        "steps": [
+          "Contactez le CPAS de votre commune de résidence",
+          "Fournissez votre identité et les informations sur vos revenus, votre patrimoine et votre ménage",
+          "Participez à l'enquête sociale du CPAS",
+          "Dans les 3 mois suivant l'approbation, convenez avec votre CPAS d'un projet individualisé d'intégration sociale (PIIS)"
+        ]
+      },
+      "de": {
+        "title": "Leefloon (Sozialeingliederungseinkommen über das ÖSHZ/OCMW)",
+        "desc": "Eine monatliche Mindesteinkommenszahlung Ihres örtlichen ÖSHZ, wenn Sie nicht genug Einkommen zum Leben haben und die Bedingungen erfüllen.",
+        "deadline": "Antragstellung, sobald Sie in Not sind — es gibt keine feste Frist, aber die Zahlungen beginnen erst ab Ihrem Antragsdatum, also warten Sie nicht zu lange.",
+        "amount": "911,56 €/Monat bei Zusammenwohnenden, 1.367,34 €/Monat bei Alleinstehenden, 1.847,89 €/Monat mit Familienlast (Beträge seit 1. September 2026)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Belgischer Personalausweis oder Aufenthaltsdokument"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis von Einkommen, Vermögen und Haushaltszusammensetzung"
+          }
+        ],
+        "steps": [
+          "Kontaktieren Sie das ÖSHZ Ihrer Wohngemeinde",
+          "Legen Sie Ihre Identität und Angaben zu Einkommen, Vermögen und Haushalt vor",
+          "Nehmen Sie an der Sozialuntersuchung des ÖSHZ teil",
+          "Vereinbaren Sie innerhalb von 3 Monaten nach Genehmigung mit Ihrem ÖSHZ ein individuelles Eingliederungsprojekt (GPMI)"
+        ]
+      }
+    },
+    "note": "Downgraded from verified to community on 19 Sep 2026. The cited primabook.mi-is.be page sets out the three categories of beneficiary but displays no amounts at all — confirmed in a JavaScript-rendering browser, not only by automated fetch; the page refers to an overview of amounts that is not present on it. The figures (€911.56 cohabiting, €1,367.34 single, €1,847.89 with dependants, given as rates since 1 September 2026) could not be confirmed against this source. Re-source to a page that actually publishes the current leefloon amounts before relying on them."
+  },
+  {
+    "id": 15,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Zorgkas (Vlaamse Sociale Bescherming) / Departement Zorg",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://www.departementzorg.be/nl/het-zorgbudget",
+    "content": {
+      "en": {
+        "title": "Zorgbudget voor Zwaar Zorgbehoevenden (Care Budget for Serious Care Needs)",
+        "desc": "A monthly payment from the Flemish government to help cover the extra costs of needing serious, ongoing care — for any age.",
+        "deadline": "Apply any time once your care need is established; paid monthly going forward from approval, not backdated far.",
+        "amount": "€140/month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of care need (e.g. recognised care indicator, or residence in a care facility)"
+          }
+        ],
+        "steps": [
+          "Choose one care fund (zorgkas) to apply through — you can only be affiliated with one",
+          "If you live at home: fill in the home/family care form and attach proof of your care needs",
+          "If you live in a residential care facility or psychiatric care home: use the residential care form — your residence there counts as proof",
+          "Submit the signed form to your zorgkas"
+        ]
+      },
+      "nl": {
+        "title": "Zorgbudget voor Zwaar Zorgbehoevenden",
+        "desc": "Een maandelijkse uitkering van de Vlaamse overheid om de extra kosten te dekken van ernstige, langdurige zorgbehoefte — voor elke leeftijd.",
+        "deadline": "Aan te vragen op elk moment zodra je zorgbehoefte vaststaat; uitbetaald per maand vanaf goedkeuring, niet ver terugwerkend.",
+        "amount": "€140/maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van zorgbehoefte (bv. erkende zorgindicator, of verblijf in een zorginstelling)"
+          }
+        ],
+        "steps": [
+          "Kies één zorgkas om je aanvraag bij in te dienen — je kan maar bij één zorgkas aangesloten zijn",
+          "Woon je thuis: vul het formulier voor thuiszorg in en voeg een bewijs van je zorgbehoefte toe",
+          "Verblijf je in een woonzorgcentrum of psychiatrisch verzorgingstehuis: gebruik het formulier voor residentiële zorg — je verblijf daar geldt als bewijs",
+          "Dien het ondertekende formulier in bij je zorgkas"
+        ]
+      },
+      "fr": {
+        "title": "Zorgbudget voor Zwaar Zorgbehoevenden (Budget de Soins pour Besoins Lourds)",
+        "desc": "Un paiement mensuel du gouvernement flamand pour aider à couvrir les coûts supplémentaires liés à un besoin de soins lourd et continu — pour tout âge.",
+        "deadline": "À demander à tout moment une fois votre besoin de soins établi ; versé mensuellement à partir de l'approbation, non rétroactif sur une longue période.",
+        "amount": "140 €/mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve du besoin de soins (ex. indicateur de soins reconnu, ou résidence en établissement de soins)"
+          }
+        ],
+        "steps": [
+          "Choisissez une caisse de soins (zorgkas) pour votre demande — vous ne pouvez être affilié qu'à une seule",
+          "Si vous vivez à domicile : complétez le formulaire de soins à domicile/familiaux et joignez une preuve de votre besoin de soins",
+          "Si vous résidez en maison de repos ou en maison de soins psychiatriques : utilisez le formulaire de soins résidentiels — votre résidence y vaut comme preuve",
+          "Soumettez le formulaire signé à votre caisse de soins"
+        ]
+      },
+      "de": {
+        "title": "Zorgbudget voor Zwaar Zorgbehoevenden (Pflegebudget für schweren Pflegebedarf)",
+        "desc": "Eine monatliche Zahlung der flämischen Regierung, um die zusätzlichen Kosten eines schweren, dauerhaften Pflegebedarfs zu decken — für jedes Alter.",
+        "deadline": "Jederzeit zu beantragen, sobald Ihr Pflegebedarf feststeht; monatlich ab Genehmigung ausgezahlt, nicht weit rückwirkend.",
+        "amount": "140 €/Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis des Pflegebedarfs (z. B. anerkannter Pflegeindikator, oder Aufenthalt in einer Pflegeeinrichtung)"
+          }
+        ],
+        "steps": [
+          "Wählen Sie eine Pflegekasse (zorgkas) für Ihren Antrag — Sie können nur bei einer angeschlossen sein",
+          "Wenn Sie zu Hause wohnen: füllen Sie das Formular für häusliche/familiäre Pflege aus und fügen Sie einen Nachweis Ihres Pflegebedarfs bei",
+          "Wenn Sie in einem Pflegeheim oder einer psychiatrischen Pflegeeinrichtung wohnen: nutzen Sie das Formular für stationäre Pflege — Ihr Aufenthalt dort gilt als Nachweis",
+          "Reichen Sie das unterschriebene Formular bei Ihrer Pflegekasse ein"
+        ]
+      }
+    }
+  },
+  {
+    "id": 16,
+    "category": "employment",
+    "situations": [
+      "job-loss"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA/ONEM via HVW/CAPAC or your union",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/hervorming-van-de-werkloosheidsreglementering",
+    "content": {
+      "en": {
+        "title": "Werkloosheidsuitkering (Unemployment Benefit — First Claim)",
+        "desc": "A federal benefit if you lose your job and meet the work-history conditions. Rules changed significantly from 1 March 2026.",
+        "deadline": "Apply as soon as you become unemployed — make an appointment with your union or the HVW/CAPAC immediately, don't wait to gather every document.",
+        "amount": "Depends on your prior salary and work history. Since 1 March 2026, full unemployment benefit is capped at a maximum of 24 months — a 12-month base period plus up to 12 more depending on your career history. A qualifying work history is also required (see infoblad T200 on rva.be for the exact day count).",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Belgian ID card"
+          },
+          {
+            "type": "doc",
+            "label": "Form C109 + employment certificate (C4) from your last employer"
+          }
+        ],
+        "steps": [
+          "Get form C109 from your union (ACV/CSC, ABVV/FGTB, ACLVB/CGSLB) or from the HVW/CAPAC",
+          "Complete and sign it, attaching your employment certificate (C4) from your last employer",
+          "Submit it to the HVW/CAPAC or your union, which forwards your file to the RVA/ONEM",
+          "Wait for the RVA/ONEM's decision before payments begin"
+        ]
+      },
+      "nl": {
+        "title": "Werkloosheidsuitkering (Eerste Aanvraag)",
+        "desc": "Een federale uitkering als je je job verliest en aan de arbeidsvoorwaarden voldoet. De regels veranderden ingrijpend vanaf 1 maart 2026.",
+        "deadline": "Vraag aan zodra je werkloos wordt — maak meteen een afspraak bij je vakbond of de HVW, wacht niet tot je alle documenten hebt.",
+        "amount": "Afhankelijk van je vorige loon en arbeidsverleden. Sinds 1 maart 2026 is de volledige werkloosheidsuitkering beperkt tot maximaal 24 maanden — een basisperiode van 12 maanden plus maximaal 12 extra maanden afhankelijk van je beroepsverleden. Je hebt ook een voldoende arbeidsverleden nodig (zie infoblad T200 op rva.be voor het exacte aantal dagen).",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Belgische identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Formulier C109 + werkgeversattest (C4) van je laatste werkgever"
+          }
+        ],
+        "steps": [
+          "Haal formulier C109 bij je vakbond (ACV, ABVV, ACLVB) of bij de HVW",
+          "Vul het in en onderteken het, met je werkgeversattest (C4) van je laatste werkgever erbij",
+          "Dien het in bij de HVW of je vakbond, die je dossier doorstuurt naar de RVA",
+          "Wacht op de beslissing van de RVA voor de uitbetaling start"
+        ]
+      },
+      "fr": {
+        "title": "Allocations de Chômage (Première Demande)",
+        "desc": "Une allocation fédérale si vous perdez votre emploi et remplissez les conditions de parcours professionnel. Les règles ont changé de manière significative depuis le 1er mars 2026.",
+        "deadline": "À demander dès que vous devenez chômeur — prenez immédiatement rendez-vous avec votre syndicat ou la CAPAC, n'attendez pas d'avoir tous les documents.",
+        "amount": "Dépend de votre salaire antérieur et de votre parcours professionnel. Depuis le 1er mars 2026, les allocations de chômage complet sont plafonnées à 24 mois maximum — une période de base de 12 mois plus jusqu'à 12 mois supplémentaires selon la carrière. Un parcours professionnel suffisant est également requis (voir l'infoblad T200 sur rva.be pour le nombre exact de jours).",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Carte d'identité belge"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire C109 + attestation d'emploi (C4) de votre dernier employeur"
+          }
+        ],
+        "steps": [
+          "Procurez-vous le formulaire C109 auprès de votre syndicat (CSC, FGTB, CGSLB) ou de la CAPAC",
+          "Complétez-le et signez-le, en joignant votre attestation d'emploi (C4) de votre dernier employeur",
+          "Soumettez-le à la CAPAC ou à votre syndicat, qui transmet votre dossier à l'ONEM",
+          "Attendez la décision de l'ONEM avant que les paiements ne commencent"
+        ]
+      },
+      "de": {
+        "title": "Werkloosheidsuitkering (Arbeitslosengeld — Erstantrag)",
+        "desc": "Eine föderale Leistung, wenn Sie Ihren Job verlieren und die Bedingungen zum Arbeitsverlauf erfüllen. Die Regeln haben sich seit 1. März 2026 erheblich geändert.",
+        "deadline": "Antragstellung sobald Sie arbeitslos werden — vereinbaren Sie sofort einen Termin bei Ihrer Gewerkschaft oder der HVW/CAPAC, warten Sie nicht, bis Sie alle Unterlagen haben.",
+        "amount": "Abhängig von Ihrem vorherigen Gehalt und Arbeitsverlauf. Seit 1. März 2026 ist das volle Arbeitslosengeld auf maximal 24 Monate begrenzt — eine Basisperiode von 12 Monaten plus bis zu 12 weitere Monate je nach Laufbahn. Außerdem ist ein ausreichender Arbeitsverlauf erforderlich (siehe Infoblatt T200 auf rva.be für die genaue Anzahl Tage).",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Belgischer Personalausweis"
+          },
+          {
+            "type": "doc",
+            "label": "Formular C109 + Arbeitgeberbescheinigung (C4) Ihres letzten Arbeitgebers"
+          }
+        ],
+        "steps": [
+          "Holen Sie sich Formular C109 bei Ihrer Gewerkschaft (ACV, ABVV, ACLVB) oder bei der HVW",
+          "Füllen Sie es aus und unterschreiben Sie es, mit der Arbeitgeberbescheinigung (C4) Ihres letzten Arbeitgebers",
+          "Reichen Sie es bei der HVW oder Ihrer Gewerkschaft ein, die Ihre Akte an die RVA weiterleitet",
+          "Warten Sie auf die Entscheidung der RVA, bevor die Auszahlung beginnt"
+        ]
+      }
+    },
+    "note": "Reform rules confirmed on rva.be (page last updated 09.09.2026). A Constitutional Court ruling of 10 September 2026 upheld the reform in general but annulled part of the TRANSITIONAL regime for some long-term unemployed; RVA is still working out the practical consequences, so transitional cases are in flux. The exact qualifying day-count sits in infoblad T200, which was not directly confirmed."
+  },
+  {
+    "id": 17,
+    "category": "employment",
+    "situations": [
+      "school"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Actiris",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://www.actiris.brussels/nl/burgers/duaal-leren/",
+    "note": "This is Actiris's premium for under-18 dual/part-time secondary learners in Brussels, the clearest concrete match we found for the brief's 'youth first-job premium' item — flagging that it's specifically for dual learning, not a general first-job bonus, and doesn't map cleanly to any existing situation tag.",
+    "content": {
+      "en": {
+        "title": "Premie Jongere in Alternerende Opleiding (Young Dual-Learner Premium)",
+        "desc": "A premium from Actiris for under-18s in Brussels doing part-time or full-time secondary education that combines classroom learning with a paid work placement.",
+        "deadline": "Apply within 3 months of passing or completing the school year.",
+        "amount": "€500 at the end of your 1st or 2nd training year; €750 at the end of your 3rd training year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed application form + attendance certificate signed by your school/training provider"
+          }
+        ],
+        "steps": [
+          "Confirm you're domiciled in the Brussels Region, were under 18 at the start of your training cycle, and completed at least a 4-month work placement",
+          "Get the attendance certificate signed by your school or training provider",
+          "Fill in the application form from actiris.brussels",
+          "Submit both documents to Actiris within 3 months of finishing the school year"
+        ]
+      },
+      "nl": {
+        "title": "Premie Jongere in Alternerende Opleiding",
+        "desc": "Een premie van Actiris voor min-18-jarigen in Brussel die deeltijds of voltijds secundair onderwijs volgen dat lessen combineert met een betaalde stage.",
+        "deadline": "Aan te vragen binnen de 3 maanden na het slagen of afronden van het schooljaar.",
+        "amount": "€500 aan het einde van je 1e of 2e opleidingsjaar; €750 aan het einde van je 3e opleidingsjaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier + aanwezigheidsattest ondertekend door je school/opleider"
+          }
+        ],
+        "steps": [
+          "Bevestig dat je gedomicilieerd bent in het Brussels Gewest, jonger dan 18 was bij de start van je opleidingscyclus, en minstens 4 maanden stage liep",
+          "Laat het aanwezigheidsattest ondertekenen door je school of opleider",
+          "Vul het aanvraagformulier van actiris.brussels in",
+          "Dien beide documenten in bij Actiris binnen de 3 maanden na het einde van het schooljaar"
+        ]
+      },
+      "fr": {
+        "title": "Prime Jeune en Formation en Alternance",
+        "desc": "Une prime d'Actiris pour les moins de 18 ans à Bruxelles suivant un enseignement secondaire à temps partiel ou plein combinant cours et stage rémunéré.",
+        "deadline": "À demander dans les 3 mois suivant la réussite ou la fin de l'année scolaire.",
+        "amount": "500 € à la fin de votre 1ère ou 2e année de formation ; 750 € à la fin de votre 3e année de formation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété + attestation de présence signée par votre école/opérateur de formation"
+          }
+        ],
+        "steps": [
+          "Confirmez que vous êtes domicilié en Région bruxelloise, que vous aviez moins de 18 ans au début de votre cycle de formation, et que vous avez suivi au moins 4 mois de stage",
+          "Faites signer l'attestation de présence par votre école ou opérateur de formation",
+          "Complétez le formulaire de demande disponible sur actiris.brussels",
+          "Soumettez les deux documents à Actiris dans les 3 mois suivant la fin de l'année scolaire"
+        ]
+      },
+      "de": {
+        "title": "Prämie für Jugendliche in Dualer Ausbildung",
+        "desc": "Eine Prämie von Actiris für unter 18-Jährige in Brüssel, die eine Teilzeit- oder Vollzeit-Sekundarausbildung absolvieren, die Unterricht mit einem bezahlten Praktikum kombiniert.",
+        "deadline": "Antragstellung innerhalb von 3 Monaten nach Bestehen oder Abschluss des Schuljahres.",
+        "amount": "500 € am Ende Ihres 1. oder 2. Ausbildungsjahres; 750 € am Ende Ihres 3. Ausbildungsjahres",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular + Anwesenheitsbescheinigung, unterschrieben von Ihrer Schule/Ausbildungsstätte"
+          }
+        ],
+        "steps": [
+          "Bestätigen Sie, dass Sie in der Region Brüssel wohnhaft sind, zu Beginn Ihres Ausbildungszyklus unter 18 waren, und mindestens 4 Monate Praktikum absolviert haben",
+          "Lassen Sie die Anwesenheitsbescheinigung von Ihrer Schule oder Ausbildungsstätte unterschreiben",
+          "Füllen Sie das Antragsformular von actiris.brussels aus",
+          "Reichen Sie beide Dokumente innerhalb von 3 Monaten nach Ende des Schuljahres bei Actiris ein"
+        ]
+      }
+    }
+  },
+  {
+    "id": 18,
+    "category": "employment",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Mobiliteit / employer",
+    "verified": "21 Jul 2026",
+    "status": "community",
+    "source_url": "https://mobilit.belgium.be/nl/duurzame-mobiliteit/voor-de-werkgevers/goede-praktijken-voor-woon-werkverplaatsingen/federaal",
+    "note": "mobilit.belgium.be did not render usable content for our fetch tool; mechanics come from consistent secondary HR/payroll sources. This is also arranged through your employer rather than requested directly from government, so it fits less neatly into the app's 'request this from a government body' framing — flagging that too.",
+    "content": {
+      "en": {
+        "title": "Mobiliteitsbudget (Mobility Budget)",
+        "desc": "If your employer offers a company car, you can trade it for a mobility budget to spend on an emission-free car, sustainable transport, or cash.",
+        "deadline": "Not something you request directly from government — you arrange it with your employer, who must offer it if they provide company cars (mandatory for such employers from 2026).",
+        "amount": "Equal to the yearly cost your employer would otherwise pay for your company car; unspent cash is paid out yearly after a 38.07% employee contribution (mechanics reported via secondary sources)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Agreement with your employer"
+          }
+        ],
+        "steps": [
+          "Ask your employer whether they offer a mobility budget",
+          "Choose how to split it across the 3 pillars: an emission-free car, sustainable transport (bike, public transport, housing costs if you live close to work), and/or cash",
+          "Your employer arranges the administrative setup",
+          "Any unused budget is paid out in cash at year-end, minus the employee contribution"
+        ]
+      },
+      "nl": {
+        "title": "Mobiliteitsbudget",
+        "desc": "Als je werkgever een bedrijfswagen aanbiedt, kan je die inruilen voor een mobiliteitsbudget te besteden aan een emissievrije wagen, duurzame mobiliteit, of cash.",
+        "deadline": "Iets wat je niet rechtstreeks bij de overheid aanvraagt — je regelt dit met je werkgever, die het moet aanbieden als hij bedrijfswagens aanbiedt (verplicht voor zulke werkgevers vanaf 2026).",
+        "amount": "Gelijk aan de jaarlijkse kost die je werkgever anders voor je bedrijfswagen zou betalen; niet-gebruikt saldo wordt jaarlijks uitbetaald na een werknemersbijdrage van 38,07% (mechaniek gerapporteerd via secundaire bronnen)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Overeenkomst met je werkgever"
+          }
+        ],
+        "steps": [
+          "Vraag je werkgever of hij een mobiliteitsbudget aanbiedt",
+          "Kies hoe je het verdeelt over de 3 pijlers: een emissievrije wagen, duurzame mobiliteit (fiets, openbaar vervoer, huisvestingskosten als je dicht bij het werk woont), en/of cash",
+          "Je werkgever regelt de administratieve opstart",
+          "Niet-gebruikt budget wordt eind kalenderjaar cash uitbetaald, na inhouding van de werknemersbijdrage"
+        ]
+      },
+      "fr": {
+        "title": "Budget Mobilité",
+        "desc": "Si votre employeur propose une voiture de société, vous pouvez l'échanger contre un budget mobilité à dépenser pour une voiture zéro émission, une mobilité durable, ou du cash.",
+        "deadline": "Ce n'est pas quelque chose que vous demandez directement à l'administration — vous l'organisez avec votre employeur, qui doit le proposer s'il offre des voitures de société (obligatoire pour ces employeurs à partir de 2026).",
+        "amount": "Égal au coût annuel que votre employeur paierait autrement pour votre voiture de société ; le solde non dépensé est versé annuellement après une cotisation salariale de 38,07% (mécanisme rapporté via des sources secondaires)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Accord avec votre employeur"
+          }
+        ],
+        "steps": [
+          "Demandez à votre employeur s'il propose un budget mobilité",
+          "Choisissez comment le répartir entre les 3 piliers : une voiture zéro émission, une mobilité durable (vélo, transports publics, frais de logement si vous habitez près du travail), et/ou du cash",
+          "Votre employeur organise la mise en place administrative",
+          "Tout budget non utilisé est versé en cash en fin d'année, moins la cotisation salariale"
+        ]
+      },
+      "de": {
+        "title": "Mobilitätsbudget",
+        "desc": "Wenn Ihr Arbeitgeber einen Firmenwagen anbietet, können Sie ihn gegen ein Mobilitätsbudget eintauschen, das Sie für ein emissionsfreies Auto, nachhaltige Mobilität oder Bargeld ausgeben können.",
+        "deadline": "Dies beantragen Sie nicht direkt bei der Regierung — Sie regeln es mit Ihrem Arbeitgeber, der es anbieten muss, wenn er Firmenwagen zur Verfügung stellt (ab 2026 für solche Arbeitgeber verpflichtend).",
+        "amount": "Entspricht den jährlichen Kosten, die Ihr Arbeitgeber sonst für Ihren Firmenwagen zahlen würde; nicht genutztes Bargeld wird jährlich nach Abzug eines Arbeitnehmerbeitrags von 38,07% ausgezahlt (Mechanik über Sekundärquellen gemeldet)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vereinbarung mit Ihrem Arbeitgeber"
+          }
+        ],
+        "steps": [
+          "Fragen Sie Ihren Arbeitgeber, ob er ein Mobilitätsbudget anbietet",
+          "Wählen Sie, wie Sie es auf die 3 Säulen aufteilen: ein emissionsfreies Auto, nachhaltige Mobilität (Fahrrad, öffentliche Verkehrsmittel, Wohnkosten bei Wohnen in der Nähe der Arbeit), und/oder Bargeld",
+          "Ihr Arbeitgeber organisiert die administrative Einrichtung",
+          "Nicht genutztes Budget wird am Jahresende bar ausgezahlt, abzüglich des Arbeitnehmerbeitrags"
+        ]
+      }
+    }
+  },
+  {
+    "id": 19,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Mutualiteit / Ziekenfonds (example: CM)",
+    "verified": "21 Jul 2026",
+    "status": "community",
+    "source_url": "https://www.cm.be",
+    "note": "This is a private/mutual health-fund supplementary benefit, not a government scheme — amounts are set by each fund's own supplementary insurance plan and are not government-mandated, so this will always be 'community' rather than 'verified' against a .be government source. Included because the brief asked for 1-2 concrete mutualiteit examples; CM's figures are used as one illustrative example only.",
+    "content": {
+      "en": {
+        "title": "Aanvullende Terugbetaling Bril/Tandzorg (Supplementary Health Fund Reimbursement — example: CM)",
+        "desc": "Extra reimbursement for costs like glasses or dental care from your compulsory health insurance fund's supplementary insurance — exact amounts differ per fund (mutualiteit) and per plan.",
+        "deadline": "No fixed deadline — submit your claim within your fund's standard claim period after the expense (commonly around 2 years).",
+        "amount": "Example (CM): up to €40–€50/year for glasses/lenses depending on age; up to 40–75% of dental prosthesis/implant costs (max ~€1,050/2 years); up to 60% of orthodontic costs (max €1,500/child) — amounts are fund-specific, not government-set",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Mutualiteit membership card"
+          },
+          {
+            "type": "doc",
+            "label": "Receipt/invoice for the expense"
+          }
+        ],
+        "steps": [
+          "Check your own health fund's (mutualiteit/mutuelle) supplementary insurance conditions — they differ from CM's",
+          "Keep your receipt/invoice for the glasses, dental care, or other covered cost",
+          "Submit the claim via your fund's app, website, or branch office",
+          "Reimbursement is paid to your account, usually within a few weeks"
+        ]
+      },
+      "nl": {
+        "title": "Aanvullende Terugbetaling Bril/Tandzorg (voorbeeld: CM)",
+        "desc": "Extra terugbetaling voor kosten zoals een bril of tandzorg via de aanvullende verzekering van je ziekenfonds — bedragen verschillen per ziekenfonds en per plan.",
+        "deadline": "Geen vaste deadline — dien je aanvraag in binnen de gewone termijn van je ziekenfonds na de uitgave (doorgaans ongeveer 2 jaar).",
+        "amount": "Voorbeeld (CM): tot €40–€50/jaar voor bril/lenzen afhankelijk van leeftijd; tot 40–75% van tandprothese/implantaatkosten (max ca. €1.050/2 jaar); tot 60% van orthodontiekosten (max €1.500/kind) — bedragen zijn ziekenfondsspecifiek, niet door de overheid bepaald",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Lidkaart van je ziekenfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Kwitantie/factuur van de uitgave"
+          }
+        ],
+        "steps": [
+          "Controleer de voorwaarden van de aanvullende verzekering van je eigen ziekenfonds — die verschillen van die van CM",
+          "Bewaar je kwitantie/factuur voor de bril, tandzorg, of andere gedekte kost",
+          "Dien de aanvraag in via de app, website, of het kantoor van je ziekenfonds",
+          "Terugbetaling gebeurt op je rekening, meestal binnen enkele weken"
+        ]
+      },
+      "fr": {
+        "title": "Remboursement Complémentaire Lunettes/Soins Dentaires (exemple : CM)",
+        "desc": "Remboursement supplémentaire pour des frais comme les lunettes ou les soins dentaires via l'assurance complémentaire de votre mutualité — les montants exacts diffèrent selon la mutualité et le plan.",
+        "deadline": "Pas de délai fixe — soumettez votre demande dans le délai standard de votre mutualité après la dépense (généralement environ 2 ans).",
+        "amount": "Exemple (CM) : jusqu'à 40–50 €/an pour lunettes/lentilles selon l'âge ; jusqu'à 40–75% des coûts de prothèse/implant dentaire (max ~1.050 €/2 ans) ; jusqu'à 60% des coûts d'orthodontie (max 1.500 €/enfant) — montants spécifiques à la mutualité, non fixés par l'État",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Carte de membre de la mutualité"
+          },
+          {
+            "type": "doc",
+            "label": "Reçu/facture de la dépense"
+          }
+        ],
+        "steps": [
+          "Vérifiez les conditions de l'assurance complémentaire de votre propre mutualité — elles diffèrent de celles de CM",
+          "Conservez votre reçu/facture pour les lunettes, soins dentaires, ou autre coût couvert",
+          "Soumettez la demande via l'application, le site web, ou le bureau de votre mutualité",
+          "Le remboursement est versé sur votre compte, généralement sous quelques semaines"
+        ]
+      },
+      "de": {
+        "title": "Zusätzliche Erstattung Brille/Zahnpflege (Beispiel: CM)",
+        "desc": "Zusätzliche Erstattung für Kosten wie Brille oder Zahnpflege über die Zusatzversicherung Ihrer Krankenkasse — genaue Beträge unterscheiden sich je nach Kasse und Plan.",
+        "deadline": "Keine feste Frist — reichen Sie Ihren Antrag innerhalb der üblichen Frist Ihrer Krankenkasse nach der Ausgabe ein (üblicherweise etwa 2 Jahre).",
+        "amount": "Beispiel (CM): bis zu 40–50 €/Jahr für Brille/Linsen je nach Alter; bis zu 40–75% der Kosten für Zahnprothese/Implantat (max. ca. 1.050 €/2 Jahre); bis zu 60% der Kieferorthopädie-Kosten (max. 1.500 €/Kind) — Beträge kassenspezifisch, nicht staatlich festgelegt",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Mitgliedskarte der Krankenkasse"
+          },
+          {
+            "type": "doc",
+            "label": "Quittung/Rechnung der Ausgabe"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie die Bedingungen der Zusatzversicherung Ihrer eigenen Krankenkasse — sie unterscheiden sich von denen der CM",
+          "Bewahren Sie Ihre Quittung/Rechnung für Brille, Zahnpflege oder andere gedeckte Kosten auf",
+          "Reichen Sie den Antrag über die App, Website oder Geschäftsstelle Ihrer Krankenkasse ein",
+          "Die Erstattung wird auf Ihr Konto ausgezahlt, meist innerhalb weniger Wochen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 20,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "DG Personen met een Handicap (FOD Sociale Zekerheid)",
+    "verified": "18 Sep 2026",
+    "status": "verified",
+    "source_url": "https://handicap.belgium.be/nl/tegemoetkomingen/integratietegemoetkoming",
+    "content": {
+      "en": {
+        "title": "Integratietegemoetkoming (Disability Integration Allowance)",
+        "desc": "A federal monthly payment covering the extra costs of daily life if you have a recognised disability that limits your independence.",
+        "deadline": "Apply any time from age 18 (or younger in some cases, e.g. if married or with a dependent child); paid monthly once approved, from your application date.",
+        "amount": "Varies with family situation and taxable income — use the official simulator on handicap.belgium.be for a personal estimate",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + reader (for the My Handicap portal)"
+          },
+          {
+            "type": "id",
+            "label": "Belgian National Registry number"
+          },
+          {
+            "type": "doc",
+            "label": "Your doctor's details and bank account number"
+          }
+        ],
+        "steps": [
+          "Log in to the My Handicap portal (handicap.belgium.be) with itsme or your eID",
+          "Go to 'Mijn dossier' and click 'Tegemoetkoming aanvragen + Handicap vaststellen'",
+          "Describe in detail how your disability affects your independence (mobility, cooking, hygiene, housework, safety, communication)",
+          "A doctor from the DG Personen met een handicap will evaluate your file; contact your mutualiteit, commune, OCMW, or a social worker if you need help applying"
+        ]
+      },
+      "nl": {
+        "title": "Integratietegemoetkoming (IT)",
+        "desc": "Een federale maandelijkse tegemoetkoming voor de extra kosten van het dagelijks leven als je een erkende handicap hebt die je zelfredzaamheid beperkt.",
+        "deadline": "Aan te vragen op elk moment vanaf 18 jaar (of jonger in bepaalde gevallen, bv. bij huwelijk of een kind ten laste); maandelijks uitbetaald na goedkeuring, vanaf je aanvraagdatum.",
+        "amount": "Varieert naargelang gezinssituatie en belastbaar inkomen — gebruik de officiele simulatietool op handicap.belgium.be voor een persoonlijke schatting",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer (voor het portaal My Handicap)"
+          },
+          {
+            "type": "id",
+            "label": "Belgisch rijksregisternummer"
+          },
+          {
+            "type": "doc",
+            "label": "Gegevens van je behandelend arts en je rekeningnummer"
+          }
+        ],
+        "steps": [
+          "Log in op het portaal My Handicap (handicap.belgium.be) met itsme of je eID",
+          "Ga naar 'Mijn dossier' en klik op 'Tegemoetkoming aanvragen + Handicap vaststellen'",
+          "Beschrijf zo gedetailleerd mogelijk hoe je handicap je zelfredzaamheid beperkt (verplaatsen, koken, hygiëne, huishouden, veiligheid, communicatie)",
+          "Een arts van de DG Personen met een handicap evalueert je dossier; neem contact op met je ziekenfonds, gemeente, OCMW, of een maatschappelijk werker als je hulp nodig hebt"
+        ]
+      },
+      "fr": {
+        "title": "Allocation d'Intégration (Integratietegemoetkoming)",
+        "desc": "Une allocation mensuelle fédérale couvrant les coûts supplémentaires de la vie quotidienne si vous avez un handicap reconnu qui limite votre autonomie.",
+        "deadline": "À demander à tout moment à partir de 18 ans (ou plus jeune dans certains cas, ex. si marié ou avec un enfant à charge) ; versée mensuellement après approbation, à partir de votre date de demande.",
+        "amount": "Varie selon la situation familiale et le revenu imposable — utilisez le simulateur officiel sur handicap.belgium.be pour une estimation personnelle",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "carte eID belge + lecteur (pour le portail My Handicap)"
+          },
+          {
+            "type": "id",
+            "label": "Numéro de registre national belge"
+          },
+          {
+            "type": "doc",
+            "label": "Coordonnées de votre médecin et numéro de compte bancaire"
+          }
+        ],
+        "steps": [
+          "Connectez-vous au portail My Handicap (handicap.belgium.be) avec itsme ou votre eID",
+          "Allez dans 'Mon dossier' et cliquez sur 'Demander une allocation + faire constater le handicap'",
+          "Décrivez en détail comment votre handicap affecte votre autonomie (déplacement, cuisine, hygiène, ménage, sécurité, communication)",
+          "Un médecin de la DG Personnes handicapées évaluera votre dossier ; contactez votre mutualité, votre commune, le CPAS, ou un travailleur social si vous avez besoin d'aide"
+        ]
+      },
+      "de": {
+        "title": "Integrationsbeihilfe (Integratietegemoetkoming)",
+        "desc": "Eine föderale monatliche Zahlung, die die zusätzlichen Kosten des täglichen Lebens deckt, wenn Sie eine anerkannte Behinderung haben, die Ihre Selbstständigkeit einschränkt.",
+        "deadline": "Jederzeit ab 18 Jahren zu beantragen (oder jünger in bestimmten Fällen, z. B. bei Verheiratung oder mit unterhaltsberechtigtem Kind); nach Genehmigung monatlich ausgezahlt, ab Ihrem Antragsdatum.",
+        "amount": "Variiert je nach Familiensituation und steuerpflichtigem Einkommen — nutzen Sie den offiziellen Simulator auf handicap.belgium.be für eine persönliche Schätzung",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "belgische eID-Karte + Lesegerät (für das Portal My Handicap)"
+          },
+          {
+            "type": "id",
+            "label": "Belgische Nationalregisternummer"
+          },
+          {
+            "type": "doc",
+            "label": "Angaben Ihres Arztes und Ihre Kontonummer"
+          }
+        ],
+        "steps": [
+          "Melden Sie sich beim Portal My Handicap (handicap.belgium.be) mit itsme oder Ihrer eID an",
+          "Gehen Sie zu 'Mijn dossier' und klicken Sie auf 'Tegemoetkoming aanvragen + Handicap vaststellen'",
+          "Beschreiben Sie so detailliert wie möglich, wie Ihre Behinderung Ihre Selbstständigkeit einschränkt (Fortbewegung, Kochen, Hygiene, Haushalt, Sicherheit, Kommunikation)",
+          "Ein Arzt der DG Personen mit Behinderung bewertet Ihre Akte; wenden Sie sich an Ihre Krankenkasse, Gemeinde, das ÖSHZ oder einen Sozialarbeiter, wenn Sie Hilfe benötigen"
+        ]
+      }
+    }
+  }
+]

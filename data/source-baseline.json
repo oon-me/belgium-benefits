@@ -1,0 +1,125 @@
+{
+  "1": {
+    "checkedAt": "2026-10-11T15:28:05.014Z",
+    "textLength": 3443,
+    "claimed": [
+      1310.75
+    ]
+  },
+  "2": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 6965,
+    "claimed": [
+      1422.96
+    ]
+  },
+  "3": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 8363,
+    "claimed": [
+      1422.96,
+      646.8
+    ]
+  },
+  "5": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 3861,
+    "claimed": [
+      600,
+      500
+    ]
+  },
+  "6": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 2134,
+    "claimed": [
+      188,
+      345
+    ]
+  },
+  "7": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 6878,
+    "claimed": [
+      125,
+      20,
+      185
+    ]
+  },
+  "8": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 6054,
+    "claimed": [
+      142.85,
+      190.46,
+      23.81,
+      47.62
+    ]
+  },
+  "9": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 5049,
+    "claimed": []
+  },
+  "10": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 7945,
+    "claimed": [
+      20,
+      26,
+      156
+    ]
+  },
+  "11": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 3199,
+    "claimed": []
+  },
+  "12": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 6150,
+    "claimed": [
+      90,
+      6000
+    ]
+  },
+  "14": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 26690,
+    "claimed": [
+      911.56,
+      1367.34,
+      1847.89
+    ]
+  },
+  "15": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 2251,
+    "claimed": [
+      140
+    ]
+  },
+  "16": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 9867,
+    "claimed": []
+  },
+  "17": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 6695,
+    "claimed": [
+      500,
+      750
+    ]
+  },
+  "18": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 10415,
+    "claimed": []
+  },
+  "20": {
+    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "textLength": 12106,
+    "claimed": []
+  }
+}

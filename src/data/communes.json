@@ -1,0 +1,3957 @@
+[
+{
+"nis": "21001",
+"region": "Brussels",
+"nl": "Anderlecht",
+"fr": "Anderlecht",
+"de": "Anderlecht"
+},
+{
+"nis": "21004",
+"region": "Brussels",
+"nl": "Brussel",
+"fr": "Bruxelles",
+"de": "Brüssel"
+},
+{
+"nis": "21009",
+"region": "Brussels",
+"nl": "Elsene",
+"fr": "Ixelles",
+"de": "Ixelles"
+},
+{
+"nis": "21005",
+"region": "Brussels",
+"nl": "Etterbeek",
+"fr": "Etterbeek",
+"de": "Etterbeek"
+},
+{
+"nis": "21006",
+"region": "Brussels",
+"nl": "Evere",
+"fr": "Evere",
+"de": "Evere"
+},
+{
+"nis": "21008",
+"region": "Brussels",
+"nl": "Ganshoren",
+"fr": "Ganshoren",
+"de": "Ganshoren"
+},
+{
+"nis": "21010",
+"region": "Brussels",
+"nl": "Jette",
+"fr": "Jette",
+"de": "Jette"
+},
+{
+"nis": "21011",
+"region": "Brussels",
+"nl": "Koekelberg",
+"fr": "Koekelberg",
+"de": "Koekelberg"
+},
+{
+"nis": "21002",
+"region": "Brussels",
+"nl": "Oudergem",
+"fr": "Auderghem",
+"de": "Auderghem"
+},
+{
+"nis": "21015",
+"region": "Brussels",
+"nl": "Schaarbeek",
+"fr": "Schaerbeek",
+"de": "Schaerbeek"
+},
+{
+"nis": "21003",
+"region": "Brussels",
+"nl": "Sint-Agatha-Berchem",
+"fr": "Berchem-Sainte-Agathe",
+"de": "Berchem-Sainte-Agathe"
+},
+{
+"nis": "21013",
+"region": "Brussels",
+"nl": "Sint-Gillis",
+"fr": "Saint-Gilles",
+"de": "Saint-Gilles"
+},
+{
+"nis": "21012",
+"region": "Brussels",
+"nl": "Sint-Jans-Molenbeek",
+"fr": "Molenbeek-Saint-Jean",
+"de": "Molenbeek-Saint-Jean"
+},
+{
+"nis": "21014",
+"region": "Brussels",
+"nl": "Sint-Joost-ten-Node",
+"fr": "Saint-Josse-ten-Noode",
+"de": "Saint-Josse-ten-Noode"
+},
+{
+"nis": "21018",
+"region": "Brussels",
+"nl": "Sint-Lambrechts-Woluwe",
+"fr": "Woluwe-Saint-Lambert",
+"de": "Woluwe-Saint-Lambert"
+},
+{
+"nis": "21019",
+"region": "Brussels",
+"nl": "Sint-Pieters-Woluwe",
+"fr": "Woluwe-Saint-Pierre",
+"de": "Woluwe-Saint-Pierre"
+},
+{
+"nis": "21016",
+"region": "Brussels",
+"nl": "Ukkel",
+"fr": "Uccle",
+"de": "Uccle"
+},
+{
+"nis": "21007",
+"region": "Brussels",
+"nl": "Vorst (Brussel-Hoofdstad)",
+"fr": "Forest (Bruxelles-Capitale)",
+"de": "Forest (Brüssel-Hauptstadt)"
+},
+{
+"nis": "21017",
+"region": "Brussels",
+"nl": "Watermaal-Bosvoorde",
+"fr": "Watermael-Boitsfort",
+"de": "Watermael-Boitsfort"
+},
+{
+"nis": "41002",
+"region": "Flanders",
+"nl": "Aalst (Aalst)",
+"fr": "Alost (Alost)",
+"de": "Aalst (Aalst)"
+},
+{
+"nis": "44084",
+"region": "Flanders",
+"nl": "Aalter",
+"fr": "Aalter",
+"de": "Aalter"
+},
+{
+"nis": "24001",
+"region": "Flanders",
+"nl": "Aarschot",
+"fr": "Aarschot",
+"de": "Aarschot"
+},
+{
+"nis": "11001",
+"region": "Flanders",
+"nl": "Aartselaar",
+"fr": "Aartselaar",
+"de": "Aartselaar"
+},
+{
+"nis": "23105",
+"region": "Flanders",
+"nl": "Affligem",
+"fr": "Affligem",
+"de": "Affligem"
+},
+{
+"nis": "73001",
+"region": "Flanders",
+"nl": "Alken",
+"fr": "Alken",
+"de": "Alken"
+},
+{
+"nis": "38002",
+"region": "Flanders",
+"nl": "Alveringem",
+"fr": "Alveringem",
+"de": "Alveringem"
+},
+{
+"nis": "11002",
+"region": "Flanders",
+"nl": "Antwerpen",
+"fr": "Anvers",
+"de": "Antwerpen"
+},
+{
+"nis": "34002",
+"region": "Flanders",
+"nl": "Anzegem",
+"fr": "Anzegem",
+"de": "Anzegem"
+},
+{
+"nis": "37020",
+"region": "Flanders",
+"nl": "Ardooie",
+"fr": "Ardooie",
+"de": "Ardooie"
+},
+{
+"nis": "13001",
+"region": "Flanders",
+"nl": "Arendonk",
+"fr": "Arendonk",
+"de": "Arendonk"
+},
+{
+"nis": "71002",
+"region": "Flanders",
+"nl": "As",
+"fr": "As",
+"de": "As"
+},
+{
+"nis": "23002",
+"region": "Flanders",
+"nl": "Asse",
+"fr": "Asse",
+"de": "Asse"
+},
+{
+"nis": "43002",
+"region": "Flanders",
+"nl": "Assenede",
+"fr": "Assenede",
+"de": "Assenede"
+},
+{
+"nis": "34003",
+"region": "Flanders",
+"nl": "Avelgem",
+"fr": "Avelgem",
+"de": "Avelgem"
+},
+{
+"nis": "13002",
+"region": "Flanders",
+"nl": "Baarle-Hertog",
+"fr": "Baerle-Duc",
+"de": "Baarle-Hertog"
+},
+{
+"nis": "13003",
+"region": "Flanders",
+"nl": "Balen",
+"fr": "Balen",
+"de": "Balen"
+},
+{
+"nis": "31003",
+"region": "Flanders",
+"nl": "Beernem",
+"fr": "Beernem",
+"de": "Beernem"
+},
+{
+"nis": "13004",
+"region": "Flanders",
+"nl": "Beerse",
+"fr": "Beerse",
+"de": "Beerse"
+},
+{
+"nis": "23003",
+"region": "Flanders",
+"nl": "Beersel",
+"fr": "Beersel",
+"de": "Beersel"
+},
+{
+"nis": "24007",
+"region": "Flanders",
+"nl": "Begijnendijk",
+"fr": "Begijnendijk",
+"de": "Begijnendijk"
+},
+{
+"nis": "24008",
+"region": "Flanders",
+"nl": "Bekkevoort",
+"fr": "Bekkevoort",
+"de": "Bekkevoort"
+},
+{
+"nis": "71004",
+"region": "Flanders",
+"nl": "Beringen",
+"fr": "Beringen",
+"de": "Beringen"
+},
+{
+"nis": "12002",
+"region": "Flanders",
+"nl": "Berlaar",
+"fr": "Berlaar",
+"de": "Berlaar"
+},
+{
+"nis": "42003",
+"region": "Flanders",
+"nl": "Berlare",
+"fr": "Berlare",
+"de": "Berlare"
+},
+{
+"nis": "24009",
+"region": "Flanders",
+"nl": "Bertem",
+"fr": "Bertem",
+"de": "Bertem"
+},
+{
+"nis": "23009",
+"region": "Flanders",
+"nl": "Bever",
+"fr": "Biévène",
+"de": "Bever"
+},
+{
+"nis": "46030",
+"region": "Flanders",
+"nl": "Beveren-Kruibeke-Zwijndrecht",
+"fr": "Beveren-Kruibeke-Zwijndrecht",
+"de": "Beveren-Kruibeke-Zwijndrecht"
+},
+{
+"nis": "24011",
+"region": "Flanders",
+"nl": "Bierbeek",
+"fr": "Bierbeek",
+"de": "Bierbeek"
+},
+{
+"nis": "73110",
+"region": "Flanders",
+"nl": "Bilzen-Hoeselt",
+"fr": "Bilzen-Hoeselt",
+"de": "Bilzen-Hoeselt"
+},
+{
+"nis": "31004",
+"region": "Flanders",
+"nl": "Blankenberge",
+"fr": "Blankenberge",
+"de": "Blankenberge"
+},
+{
+"nis": "72003",
+"region": "Flanders",
+"nl": "Bocholt",
+"fr": "Bocholt",
+"de": "Bocholt"
+},
+{
+"nis": "11004",
+"region": "Flanders",
+"nl": "Boechout",
+"fr": "Boechout",
+"de": "Boechout"
+},
+{
+"nis": "12005",
+"region": "Flanders",
+"nl": "Bonheiden",
+"fr": "Bonheiden",
+"de": "Bonheiden"
+},
+{
+"nis": "11005",
+"region": "Flanders",
+"nl": "Boom",
+"fr": "Boom",
+"de": "Boom"
+},
+{
+"nis": "24014",
+"region": "Flanders",
+"nl": "Boortmeerbeek",
+"fr": "Boortmeerbeek",
+"de": "Boortmeerbeek"
+},
+{
+"nis": "12007",
+"region": "Flanders",
+"nl": "Bornem",
+"fr": "Bornem",
+"de": "Bornem"
+},
+{
+"nis": "24016",
+"region": "Flanders",
+"nl": "Boutersem",
+"fr": "Boutersem",
+"de": "Boutersem"
+},
+{
+"nis": "45059",
+"region": "Flanders",
+"nl": "Brakel",
+"fr": "Brakel",
+"de": "Brakel"
+},
+{
+"nis": "11008",
+"region": "Flanders",
+"nl": "Brasschaat",
+"fr": "Brasschaat",
+"de": "Brasschaat"
+},
+{
+"nis": "11009",
+"region": "Flanders",
+"nl": "Brecht",
+"fr": "Brecht",
+"de": "Brecht"
+},
+{
+"nis": "35002",
+"region": "Flanders",
+"nl": "Bredene",
+"fr": "Bredene",
+"de": "Bredene"
+},
+{
+"nis": "72004",
+"region": "Flanders",
+"nl": "Bree",
+"fr": "Bree",
+"de": "Bree"
+},
+{
+"nis": "31005",
+"region": "Flanders",
+"nl": "Brugge",
+"fr": "Bruges",
+"de": "Brügge"
+},
+{
+"nis": "42004",
+"region": "Flanders",
+"nl": "Buggenhout",
+"fr": "Buggenhout",
+"de": "Buggenhout"
+},
+{
+"nis": "31006",
+"region": "Flanders",
+"nl": "Damme",
+"fr": "Damme",
+"de": "Damme"
+},
+{
+"nis": "35029",
+"region": "Flanders",
+"nl": "De Haan",
+"fr": "De Haan",
+"de": "De Haan"
+},
+{
+"nis": "38008",
+"region": "Flanders",
+"nl": "De Panne",
+"fr": "La Panne",
+"de": "De Panne"
+},
+{
+"nis": "34009",
+"region": "Flanders",
+"nl": "Deerlijk",
+"fr": "Deerlijk",
+"de": "Deerlijk"
+},
+{
+"nis": "44083",
+"region": "Flanders",
+"nl": "Deinze",
+"fr": "Deinze",
+"de": "Deinze"
+},
+{
+"nis": "41011",
+"region": "Flanders",
+"nl": "Denderleeuw",
+"fr": "Denderleeuw",
+"de": "Denderleeuw"
+},
+{
+"nis": "42006",
+"region": "Flanders",
+"nl": "Dendermonde",
+"fr": "Termonde",
+"de": "Dendermonde"
+},
+{
+"nis": "37002",
+"region": "Flanders",
+"nl": "Dentergem",
+"fr": "Dentergem",
+"de": "Dentergem"
+},
+{
+"nis": "13006",
+"region": "Flanders",
+"nl": "Dessel",
+"fr": "Dessel",
+"de": "Dessel"
+},
+{
+"nis": "44013",
+"region": "Flanders",
+"nl": "Destelbergen",
+"fr": "Destelbergen",
+"de": "Destelbergen"
+},
+{
+"nis": "71011",
+"region": "Flanders",
+"nl": "Diepenbeek",
+"fr": "Diepenbeek",
+"de": "Diepenbeek"
+},
+{
+"nis": "24020",
+"region": "Flanders",
+"nl": "Diest",
+"fr": "Diest",
+"de": "Diest"
+},
+{
+"nis": "32003",
+"region": "Flanders",
+"nl": "Diksmuide",
+"fr": "Dixmude",
+"de": "Diksmuide"
+},
+{
+"nis": "23016",
+"region": "Flanders",
+"nl": "Dilbeek",
+"fr": "Dilbeek",
+"de": "Dilbeek"
+},
+{
+"nis": "72041",
+"region": "Flanders",
+"nl": "Dilsen-Stokkem",
+"fr": "Dilsen-Stokkem",
+"de": "Dilsen-Stokkem"
+},
+{
+"nis": "23098",
+"region": "Flanders",
+"nl": "Drogenbos",
+"fr": "Drogenbos",
+"de": "Drogenbos"
+},
+{
+"nis": "12009",
+"region": "Flanders",
+"nl": "Duffel",
+"fr": "Duffel",
+"de": "Duffel"
+},
+{
+"nis": "11013",
+"region": "Flanders",
+"nl": "Edegem",
+"fr": "Edegem",
+"de": "Edegem"
+},
+{
+"nis": "43005",
+"region": "Flanders",
+"nl": "Eeklo",
+"fr": "Eeklo",
+"de": "Eeklo"
+},
+{
+"nis": "41082",
+"region": "Flanders",
+"nl": "Erpe-Mere",
+"fr": "Erpe-Mere",
+"de": "Erpe-Mere"
+},
+{
+"nis": "11016",
+"region": "Flanders",
+"nl": "Essen",
+"fr": "Essen",
+"de": "Essen"
+},
+{
+"nis": "44019",
+"region": "Flanders",
+"nl": "Evergem",
+"fr": "Evergem",
+"de": "Evergem"
+},
+{
+"nis": "44020",
+"region": "Flanders",
+"nl": "Gavere",
+"fr": "Gavere",
+"de": "Gavere"
+},
+{
+"nis": "13008",
+"region": "Flanders",
+"nl": "Geel",
+"fr": "Geel",
+"de": "Geel"
+},
+{
+"nis": "24028",
+"region": "Flanders",
+"nl": "Geetbets",
+"fr": "Geetbets",
+"de": "Geetbets"
+},
+{
+"nis": "71016",
+"region": "Flanders",
+"nl": "Genk",
+"fr": "Genk",
+"de": "Genk"
+},
+{
+"nis": "44021",
+"region": "Flanders",
+"nl": "Gent",
+"fr": "Gand",
+"de": "Gent"
+},
+{
+"nis": "41018",
+"region": "Flanders",
+"nl": "Geraardsbergen",
+"fr": "Grammont",
+"de": "Geraardsbergen"
+},
+{
+"nis": "71017",
+"region": "Flanders",
+"nl": "Gingelom",
+"fr": "Gingelom",
+"de": "Gingelom"
+},
+{
+"nis": "35005",
+"region": "Flanders",
+"nl": "Gistel",
+"fr": "Gistel",
+"de": "Gistel"
+},
+{
+"nis": "24137",
+"region": "Flanders",
+"nl": "Glabbeek",
+"fr": "Glabbeek",
+"de": "Glabbeek"
+},
+{
+"nis": "23025",
+"region": "Flanders",
+"nl": "Grimbergen",
+"fr": "Grimbergen",
+"de": "Grimbergen"
+},
+{
+"nis": "13010",
+"region": "Flanders",
+"nl": "Grobbendonk",
+"fr": "Grobbendonk",
+"de": "Grobbendonk"
+},
+{
+"nis": "24033",
+"region": "Flanders",
+"nl": "Haacht",
+"fr": "Haacht",
+"de": "Haacht"
+},
+{
+"nis": "41024",
+"region": "Flanders",
+"nl": "Haaltert",
+"fr": "Haaltert",
+"de": "Haaltert"
+},
+{
+"nis": "71020",
+"region": "Flanders",
+"nl": "Halen",
+"fr": "Halen",
+"de": "Halen"
+},
+{
+"nis": "23027",
+"region": "Flanders",
+"nl": "Halle (Halle-Vilvoorde)",
+"fr": "Hal (Hal-Vilvorde)",
+"de": "Halle (Halle-Vilvoorde)"
+},
+{
+"nis": "42008",
+"region": "Flanders",
+"nl": "Hamme (Dendermonde)",
+"fr": "Hamme (Termonde)",
+"de": "Hamme (Dendermonde)"
+},
+{
+"nis": "72037",
+"region": "Flanders",
+"nl": "Hamont-Achel",
+"fr": "Hamont-Achel",
+"de": "Hamont-Achel"
+},
+{
+"nis": "34013",
+"region": "Flanders",
+"nl": "Harelbeke",
+"fr": "Harelbeke",
+"de": "Harelbeke"
+},
+{
+"nis": "71072",
+"region": "Flanders",
+"nl": "Hasselt",
+"fr": "Hasselt",
+"de": "Hasselt"
+},
+{
+"nis": "72038",
+"region": "Flanders",
+"nl": "Hechtel-Eksel",
+"fr": "Hechtel-Eksel",
+"de": "Hechtel-Eksel"
+},
+{
+"nis": "73022",
+"region": "Flanders",
+"nl": "Heers",
+"fr": "Heers",
+"de": "Heers"
+},
+{
+"nis": "12014",
+"region": "Flanders",
+"nl": "Heist-op-den-Berg",
+"fr": "Heist-op-den-Berg",
+"de": "Heist-op-den-Berg"
+},
+{
+"nis": "11018",
+"region": "Flanders",
+"nl": "Hemiksem",
+"fr": "Hemiksem",
+"de": "Hemiksem"
+},
+{
+"nis": "24038",
+"region": "Flanders",
+"nl": "Herent",
+"fr": "Herent",
+"de": "Herent"
+},
+{
+"nis": "13011",
+"region": "Flanders",
+"nl": "Herentals",
+"fr": "Herentals",
+"de": "Herentals"
+},
+{
+"nis": "13012",
+"region": "Flanders",
+"nl": "Herenthout",
+"fr": "Herenthout",
+"de": "Herenthout"
+},
+{
+"nis": "71024",
+"region": "Flanders",
+"nl": "Herk-de-Stad",
+"fr": "Herck-la-Ville",
+"de": "Herk-de-Stad"
+},
+{
+"nis": "13013",
+"region": "Flanders",
+"nl": "Herselt",
+"fr": "Herselt",
+"de": "Herselt"
+},
+{
+"nis": "73028",
+"region": "Flanders",
+"nl": "Herstappe",
+"fr": "Herstappe",
+"de": "Herstappe"
+},
+{
+"nis": "41027",
+"region": "Flanders",
+"nl": "Herzele",
+"fr": "Herzele",
+"de": "Herzele"
+},
+{
+"nis": "71070",
+"region": "Flanders",
+"nl": "Heusden-Zolder",
+"fr": "Heusden-Zolder",
+"de": "Heusden-Zolder"
+},
+{
+"nis": "33039",
+"region": "Flanders",
+"nl": "Heuvelland",
+"fr": "Heuvelland",
+"de": "Heuvelland"
+},
+{
+"nis": "24041",
+"region": "Flanders",
+"nl": "Hoegaarden",
+"fr": "Hoegaarden",
+"de": "Hoegaarden"
+},
+{
+"nis": "23033",
+"region": "Flanders",
+"nl": "Hoeilaart",
+"fr": "Hoeilaart",
+"de": "Hoeilaart"
+},
+{
+"nis": "24043",
+"region": "Flanders",
+"nl": "Holsbeek",
+"fr": "Holsbeek",
+"de": "Holsbeek"
+},
+{
+"nis": "36006",
+"region": "Flanders",
+"nl": "Hooglede",
+"fr": "Hooglede",
+"de": "Hooglede"
+},
+{
+"nis": "13014",
+"region": "Flanders",
+"nl": "Hoogstraten",
+"fr": "Hoogstraten",
+"de": "Hoogstraten"
+},
+{
+"nis": "45062",
+"region": "Flanders",
+"nl": "Horebeke",
+"fr": "Horebeke",
+"de": "Horebeke"
+},
+{
+"nis": "72039",
+"region": "Flanders",
+"nl": "Houthalen-Helchteren",
+"fr": "Houthalen-Helchteren",
+"de": "Houthalen-Helchteren"
+},
+{
+"nis": "32006",
+"region": "Flanders",
+"nl": "Houthulst",
+"fr": "Houthulst",
+"de": "Houthulst"
+},
+{
+"nis": "11021",
+"region": "Flanders",
+"nl": "Hove (Antwerpen)",
+"fr": "Hove (Anvers)",
+"de": "Hove (Antwerpen)"
+},
+{
+"nis": "24045",
+"region": "Flanders",
+"nl": "Huldenberg",
+"fr": "Huldenberg",
+"de": "Huldenberg"
+},
+{
+"nis": "13016",
+"region": "Flanders",
+"nl": "Hulshout",
+"fr": "Hulshout",
+"de": "Hulshout"
+},
+{
+"nis": "35006",
+"region": "Flanders",
+"nl": "Ichtegem",
+"fr": "Ichtegem",
+"de": "Ichtegem"
+},
+{
+"nis": "33011",
+"region": "Flanders",
+"nl": "Ieper",
+"fr": "Ypres",
+"de": "Ypern"
+},
+{
+"nis": "36007",
+"region": "Flanders",
+"nl": "Ingelmunster",
+"fr": "Ingelmunster",
+"de": "Ingelmunster"
+},
+{
+"nis": "36008",
+"region": "Flanders",
+"nl": "Izegem",
+"fr": "Izegem",
+"de": "Izegem"
+},
+{
+"nis": "31012",
+"region": "Flanders",
+"nl": "Jabbeke",
+"fr": "Jabbeke",
+"de": "Jabbeke"
+},
+{
+"nis": "11022",
+"region": "Flanders",
+"nl": "Kalmthout",
+"fr": "Kalmthout",
+"de": "Kalmthout"
+},
+{
+"nis": "23038",
+"region": "Flanders",
+"nl": "Kampenhout",
+"fr": "Kampenhout",
+"de": "Kampenhout"
+},
+{
+"nis": "23039",
+"region": "Flanders",
+"nl": "Kapelle-op-den-Bos",
+"fr": "Kapelle-op-den-Bos",
+"de": "Kapelle-op-den-Bos"
+},
+{
+"nis": "11023",
+"region": "Flanders",
+"nl": "Kapellen (Antwerpen)",
+"fr": "Kapellen (Anvers)",
+"de": "Kapellen (Antwerpen)"
+},
+{
+"nis": "43007",
+"region": "Flanders",
+"nl": "Kaprijke",
+"fr": "Kaprijke",
+"de": "Kaprijke"
+},
+{
+"nis": "13017",
+"region": "Flanders",
+"nl": "Kasterlee",
+"fr": "Kasterlee",
+"de": "Kasterlee"
+},
+{
+"nis": "24048",
+"region": "Flanders",
+"nl": "Keerbergen",
+"fr": "Keerbergen",
+"de": "Keerbergen"
+},
+{
+"nis": "72018",
+"region": "Flanders",
+"nl": "Kinrooi",
+"fr": "Kinrooi",
+"de": "Kinrooi"
+},
+{
+"nis": "45060",
+"region": "Flanders",
+"nl": "Kluisbergen",
+"fr": "Kluisbergen",
+"de": "Kluisbergen"
+},
+{
+"nis": "31043",
+"region": "Flanders",
+"nl": "Knokke-Heist",
+"fr": "Knokke-Heist",
+"de": "Knokke-Heist"
+},
+{
+"nis": "32010",
+"region": "Flanders",
+"nl": "Koekelare",
+"fr": "Koekelare",
+"de": "Koekelare"
+},
+{
+"nis": "38014",
+"region": "Flanders",
+"nl": "Koksijde",
+"fr": "Koksijde",
+"de": "Koksijde"
+},
+{
+"nis": "11024",
+"region": "Flanders",
+"nl": "Kontich",
+"fr": "Kontich",
+"de": "Kontich"
+},
+{
+"nis": "32011",
+"region": "Flanders",
+"nl": "Kortemark",
+"fr": "Kortemark",
+"de": "Kortemark"
+},
+{
+"nis": "24054",
+"region": "Flanders",
+"nl": "Kortenaken",
+"fr": "Kortenaken",
+"de": "Kortenaken"
+},
+{
+"nis": "24055",
+"region": "Flanders",
+"nl": "Kortenberg",
+"fr": "Kortenberg",
+"de": "Kortenberg"
+},
+{
+"nis": "34022",
+"region": "Flanders",
+"nl": "Kortrijk",
+"fr": "Courtrai",
+"de": "Kortrijk"
+},
+{
+"nis": "23099",
+"region": "Flanders",
+"nl": "Kraainem",
+"fr": "Kraainem",
+"de": "Kraainem"
+},
+{
+"nis": "45068",
+"region": "Flanders",
+"nl": "Kruisem",
+"fr": "Kruisem",
+"de": "Kruisem"
+},
+{
+"nis": "34023",
+"region": "Flanders",
+"nl": "Kuurne",
+"fr": "Kuurne",
+"de": "Kuurne"
+},
+{
+"nis": "13053",
+"region": "Flanders",
+"nl": "Laakdal",
+"fr": "Laakdal",
+"de": "Laakdal"
+},
+{
+"nis": "42010",
+"region": "Flanders",
+"nl": "Laarne",
+"fr": "Laarne",
+"de": "Laarne"
+},
+{
+"nis": "73042",
+"region": "Flanders",
+"nl": "Lanaken",
+"fr": "Lanaken",
+"de": "Lanaken"
+},
+{
+"nis": "24059",
+"region": "Flanders",
+"nl": "Landen",
+"fr": "Landen",
+"de": "Landen"
+},
+{
+"nis": "33040",
+"region": "Flanders",
+"nl": "Langemark-Poelkapelle",
+"fr": "Langemark-Poelkapelle",
+"de": "Langemark-Poelkapelle"
+},
+{
+"nis": "42011",
+"region": "Flanders",
+"nl": "Lebbeke",
+"fr": "Lebbeke",
+"de": "Lebbeke"
+},
+{
+"nis": "41034",
+"region": "Flanders",
+"nl": "Lede",
+"fr": "Lede",
+"de": "Lede"
+},
+{
+"nis": "36010",
+"region": "Flanders",
+"nl": "Ledegem",
+"fr": "Ledegem",
+"de": "Ledegem"
+},
+{
+"nis": "34025",
+"region": "Flanders",
+"nl": "Lendelede",
+"fr": "Lendelede",
+"de": "Lendelede"
+},
+{
+"nis": "23104",
+"region": "Flanders",
+"nl": "Lennik",
+"fr": "Lennik",
+"de": "Lennik"
+},
+{
+"nis": "71034",
+"region": "Flanders",
+"nl": "Leopoldsburg",
+"fr": "Bourg-Léopold",
+"de": "Leopoldsburg"
+},
+{
+"nis": "24062",
+"region": "Flanders",
+"nl": "Leuven",
+"fr": "Louvain",
+"de": "Löwen"
+},
+{
+"nis": "36011",
+"region": "Flanders",
+"nl": "Lichtervelde",
+"fr": "Lichtervelde",
+"de": "Lichtervelde"
+},
+{
+"nis": "23044",
+"region": "Flanders",
+"nl": "Liedekerke",
+"fr": "Liedekerke",
+"de": "Liedekerke"
+},
+{
+"nis": "12021",
+"region": "Flanders",
+"nl": "Lier",
+"fr": "Lierre",
+"de": "Lier"
+},
+{
+"nis": "45063",
+"region": "Flanders",
+"nl": "Lierde",
+"fr": "Lierde",
+"de": "Lierde"
+},
+{
+"nis": "44085",
+"region": "Flanders",
+"nl": "Lievegem",
+"fr": "Lievegem",
+"de": "Lievegem"
+},
+{
+"nis": "13019",
+"region": "Flanders",
+"nl": "Lille",
+"fr": "Lille",
+"de": "Lille"
+},
+{
+"nis": "23100",
+"region": "Flanders",
+"nl": "Linkebeek",
+"fr": "Linkebeek",
+"de": "Linkebeek"
+},
+{
+"nis": "11025",
+"region": "Flanders",
+"nl": "Lint",
+"fr": "Lint",
+"de": "Lint"
+},
+{
+"nis": "24133",
+"region": "Flanders",
+"nl": "Linter",
+"fr": "Linter",
+"de": "Linter"
+},
+{
+"nis": "32030",
+"region": "Flanders",
+"nl": "Lo-Reninge",
+"fr": "Lo-Reninge",
+"de": "Lo-Reninge"
+},
+{
+"nis": "44087",
+"region": "Flanders",
+"nl": "Lochristi",
+"fr": "Lochristi",
+"de": "Lochristi"
+},
+{
+"nis": "46029",
+"region": "Flanders",
+"nl": "Lokeren",
+"fr": "Lokeren",
+"de": "Lokeren"
+},
+{
+"nis": "72020",
+"region": "Flanders",
+"nl": "Lommel",
+"fr": "Lommel",
+"de": "Lommel"
+},
+{
+"nis": "23045",
+"region": "Flanders",
+"nl": "Londerzeel",
+"fr": "Londerzeel",
+"de": "Londerzeel"
+},
+{
+"nis": "24066",
+"region": "Flanders",
+"nl": "Lubbeek",
+"fr": "Lubbeek",
+"de": "Lubbeek"
+},
+{
+"nis": "71037",
+"region": "Flanders",
+"nl": "Lummen",
+"fr": "Lummen",
+"de": "Lummen"
+},
+{
+"nis": "45064",
+"region": "Flanders",
+"nl": "Maarkedal",
+"fr": "Maarkedal",
+"de": "Maarkedal"
+},
+{
+"nis": "72021",
+"region": "Flanders",
+"nl": "Maaseik",
+"fr": "Maaseik",
+"de": "Maaseik"
+},
+{
+"nis": "73107",
+"region": "Flanders",
+"nl": "Maasmechelen",
+"fr": "Maasmechelen",
+"de": "Maasmechelen"
+},
+{
+"nis": "23047",
+"region": "Flanders",
+"nl": "Machelen (Halle-Vilvoorde)",
+"fr": "Machelen (Hal-Vilvorde)",
+"de": "Machelen (Halle-Vilvoorde)"
+},
+{
+"nis": "43010",
+"region": "Flanders",
+"nl": "Maldegem",
+"fr": "Maldegem",
+"de": "Maldegem"
+},
+{
+"nis": "11057",
+"region": "Flanders",
+"nl": "Malle",
+"fr": "Malle",
+"de": "Malle"
+},
+{
+"nis": "12025",
+"region": "Flanders",
+"nl": "Mechelen",
+"fr": "Malines",
+"de": "Mechelen"
+},
+{
+"nis": "13021",
+"region": "Flanders",
+"nl": "Meerhout",
+"fr": "Meerhout",
+"de": "Meerhout"
+},
+{
+"nis": "23050",
+"region": "Flanders",
+"nl": "Meise",
+"fr": "Meise",
+"de": "Meise"
+},
+{
+"nis": "34027",
+"region": "Flanders",
+"nl": "Menen",
+"fr": "Menin",
+"de": "Menen"
+},
+{
+"nis": "23052",
+"region": "Flanders",
+"nl": "Merchtem",
+"fr": "Merchtem",
+"de": "Merchtem"
+},
+{
+"nis": "44088",
+"region": "Flanders",
+"nl": "Merelbeke-Melle",
+"fr": "Merelbeke-Melle",
+"de": "Merelbeke-Melle"
+},
+{
+"nis": "13023",
+"region": "Flanders",
+"nl": "Merksplas",
+"fr": "Merksplas",
+"de": "Merksplas"
+},
+{
+"nis": "33016",
+"region": "Flanders",
+"nl": "Mesen",
+"fr": "Messines",
+"de": "Mesen"
+},
+{
+"nis": "35011",
+"region": "Flanders",
+"nl": "Middelkerke",
+"fr": "Middelkerke",
+"de": "Middelkerke"
+},
+{
+"nis": "13025",
+"region": "Flanders",
+"nl": "Mol",
+"fr": "Mol",
+"de": "Mol"
+},
+{
+"nis": "36012",
+"region": "Flanders",
+"nl": "Moorslede",
+"fr": "Moorslede",
+"de": "Moorslede"
+},
+{
+"nis": "11029",
+"region": "Flanders",
+"nl": "Mortsel",
+"fr": "Mortsel",
+"de": "Mortsel"
+},
+{
+"nis": "44086",
+"region": "Flanders",
+"nl": "Nazareth-De Pinte",
+"fr": "Nazareth-De Pinte",
+"de": "Nazareth-De Pinte"
+},
+{
+"nis": "11030",
+"region": "Flanders",
+"nl": "Niel",
+"fr": "Niel",
+"de": "Niel"
+},
+{
+"nis": "71045",
+"region": "Flanders",
+"nl": "Nieuwerkerken (Hasselt)",
+"fr": "Nieuwerkerken (Hasselt)",
+"de": "Nieuwerkerken (Hasselt)"
+},
+{
+"nis": "38016",
+"region": "Flanders",
+"nl": "Nieuwpoort",
+"fr": "Nieuport",
+"de": "Nieuwpoort"
+},
+{
+"nis": "12026",
+"region": "Flanders",
+"nl": "Nijlen",
+"fr": "Nijlen",
+"de": "Nijlen"
+},
+{
+"nis": "41048",
+"region": "Flanders",
+"nl": "Ninove",
+"fr": "Ninove",
+"de": "Ninove"
+},
+{
+"nis": "13029",
+"region": "Flanders",
+"nl": "Olen",
+"fr": "Olen",
+"de": "Olen"
+},
+{
+"nis": "35013",
+"region": "Flanders",
+"nl": "Oostende",
+"fr": "Ostende",
+"de": "Ostende"
+},
+{
+"nis": "44052",
+"region": "Flanders",
+"nl": "Oosterzele",
+"fr": "Oosterzele",
+"de": "Oosterzele"
+},
+{
+"nis": "31022",
+"region": "Flanders",
+"nl": "Oostkamp",
+"fr": "Oostkamp",
+"de": "Oostkamp"
+},
+{
+"nis": "37010",
+"region": "Flanders",
+"nl": "Oostrozebeke",
+"fr": "Oostrozebeke",
+"de": "Oostrozebeke"
+},
+{
+"nis": "23060",
+"region": "Flanders",
+"nl": "Opwijk",
+"fr": "Opwijk",
+"de": "Opwijk"
+},
+{
+"nis": "24086",
+"region": "Flanders",
+"nl": "Oud-Heverlee",
+"fr": "Oud-Heverlee",
+"de": "Oud-Heverlee"
+},
+{
+"nis": "13031",
+"region": "Flanders",
+"nl": "Oud-Turnhout",
+"fr": "Oud-Turnhout",
+"de": "Oud-Turnhout"
+},
+{
+"nis": "45035",
+"region": "Flanders",
+"nl": "Oudenaarde",
+"fr": "Audenarde",
+"de": "Oudenaarde"
+},
+{
+"nis": "35014",
+"region": "Flanders",
+"nl": "Oudenburg",
+"fr": "Oudenburg",
+"de": "Oudenburg"
+},
+{
+"nis": "72042",
+"region": "Flanders",
+"nl": "Oudsbergen",
+"fr": "Oudsbergen",
+"de": "Oudsbergen"
+},
+{
+"nis": "23062",
+"region": "Flanders",
+"nl": "Overijse",
+"fr": "Overijse",
+"de": "Overijse"
+},
+{
+"nis": "23106",
+"region": "Flanders",
+"nl": "Pajottegem",
+"fr": "Pajottegem",
+"de": "Pajottegem"
+},
+{
+"nis": "72030",
+"region": "Flanders",
+"nl": "Peer",
+"fr": "Peer",
+"de": "Peer"
+},
+{
+"nis": "72043",
+"region": "Flanders",
+"nl": "Pelt",
+"fr": "Pelt",
+"de": "Pelt"
+},
+{
+"nis": "23064",
+"region": "Flanders",
+"nl": "Pepingen",
+"fr": "Pepingen",
+"de": "Pepingen"
+},
+{
+"nis": "37011",
+"region": "Flanders",
+"nl": "Pittem",
+"fr": "Pittem",
+"de": "Pittem"
+},
+{
+"nis": "33021",
+"region": "Flanders",
+"nl": "Poperinge",
+"fr": "Poperinge",
+"de": "Poperinge"
+},
+{
+"nis": "12029",
+"region": "Flanders",
+"nl": "Putte",
+"fr": "Putte",
+"de": "Putte"
+},
+{
+"nis": "12041",
+"region": "Flanders",
+"nl": "Puurs-Sint-Amands",
+"fr": "Puurs-Sint-Amands",
+"de": "Puurs-Sint-Amands"
+},
+{
+"nis": "11035",
+"region": "Flanders",
+"nl": "Ranst",
+"fr": "Ranst",
+"de": "Ranst"
+},
+{
+"nis": "13035",
+"region": "Flanders",
+"nl": "Ravels",
+"fr": "Ravels",
+"de": "Ravels"
+},
+{
+"nis": "13036",
+"region": "Flanders",
+"nl": "Retie",
+"fr": "Retie",
+"de": "Retie"
+},
+{
+"nis": "73066",
+"region": "Flanders",
+"nl": "Riemst",
+"fr": "Riemst",
+"de": "Riemst"
+},
+{
+"nis": "13037",
+"region": "Flanders",
+"nl": "Rijkevorsel",
+"fr": "Rijkevorsel",
+"de": "Rijkevorsel"
+},
+{
+"nis": "36015",
+"region": "Flanders",
+"nl": "Roeselare",
+"fr": "Roulers",
+"de": "Roeselare"
+},
+{
+"nis": "45041",
+"region": "Flanders",
+"nl": "Ronse",
+"fr": "Renaix",
+"de": "Ronse"
+},
+{
+"nis": "23097",
+"region": "Flanders",
+"nl": "Roosdaal",
+"fr": "Roosdaal",
+"de": "Roosdaal"
+},
+{
+"nis": "24094",
+"region": "Flanders",
+"nl": "Rotselaar",
+"fr": "Rotselaar",
+"de": "Rotselaar"
+},
+{
+"nis": "11037",
+"region": "Flanders",
+"nl": "Rumst",
+"fr": "Rumst",
+"de": "Rumst"
+},
+{
+"nis": "11038",
+"region": "Flanders",
+"nl": "Schelle",
+"fr": "Schelle",
+"de": "Schelle"
+},
+{
+"nis": "24134",
+"region": "Flanders",
+"nl": "Scherpenheuvel-Zichem",
+"fr": "Montaigu-Zichem",
+"de": "Scherpenheuvel-Zichem"
+},
+{
+"nis": "11039",
+"region": "Flanders",
+"nl": "Schilde",
+"fr": "Schilde",
+"de": "Schilde"
+},
+{
+"nis": "11040",
+"region": "Flanders",
+"nl": "Schoten",
+"fr": "Schoten",
+"de": "Schoten"
+},
+{
+"nis": "23101",
+"region": "Flanders",
+"nl": "Sint-Genesius-Rode",
+"fr": "Rhode-Saint-Genèse",
+"de": "Sint-Genesius-Rode"
+},
+{
+"nis": "46020",
+"region": "Flanders",
+"nl": "Sint-Gillis-Waas",
+"fr": "Sint-Gillis-Waas",
+"de": "Sint-Gillis-Waas"
+},
+{
+"nis": "12035",
+"region": "Flanders",
+"nl": "Sint-Katelijne-Waver",
+"fr": "Sint-Katelijne-Waver",
+"de": "Sint-Katelijne-Waver"
+},
+{
+"nis": "43014",
+"region": "Flanders",
+"nl": "Sint-Laureins",
+"fr": "Sint-Laureins",
+"de": "Sint-Laureins"
+},
+{
+"nis": "41063",
+"region": "Flanders",
+"nl": "Sint-Lievens-Houtem",
+"fr": "Sint-Lievens-Houtem",
+"de": "Sint-Lievens-Houtem"
+},
+{
+"nis": "44064",
+"region": "Flanders",
+"nl": "Sint-Martens-Latem",
+"fr": "Sint-Martens-Latem",
+"de": "Sint-Martens-Latem"
+},
+{
+"nis": "46021",
+"region": "Flanders",
+"nl": "Sint-Niklaas (Sint-Niklaas)",
+"fr": "Saint-Nicolas (Saint-Nicolas)",
+"de": "Sint-Niklaas (Sint-Niklaas)"
+},
+{
+"nis": "23077",
+"region": "Flanders",
+"nl": "Sint-Pieters-Leeuw",
+"fr": "Sint-Pieters-Leeuw",
+"de": "Sint-Pieters-Leeuw"
+},
+{
+"nis": "71053",
+"region": "Flanders",
+"nl": "Sint-Truiden",
+"fr": "Saint-Trond",
+"de": "Sint-Truiden"
+},
+{
+"nis": "34043",
+"region": "Flanders",
+"nl": "Spiere-Helkijn",
+"fr": "Espierres-Helchin",
+"de": "Spiere-Helkijn"
+},
+{
+"nis": "11044",
+"region": "Flanders",
+"nl": "Stabroek",
+"fr": "Stabroek",
+"de": "Stabroek"
+},
+{
+"nis": "36019",
+"region": "Flanders",
+"nl": "Staden",
+"fr": "Staden",
+"de": "Staden"
+},
+{
+"nis": "23081",
+"region": "Flanders",
+"nl": "Steenokkerzeel",
+"fr": "Steenokkerzeel",
+"de": "Steenokkerzeel"
+},
+{
+"nis": "46024",
+"region": "Flanders",
+"nl": "Stekene",
+"fr": "Stekene",
+"de": "Stekene"
+},
+{
+"nis": "46025",
+"region": "Flanders",
+"nl": "Temse",
+"fr": "Tamise",
+"de": "Temse"
+},
+{
+"nis": "23086",
+"region": "Flanders",
+"nl": "Ternat",
+"fr": "Ternat",
+"de": "Ternat"
+},
+{
+"nis": "24104",
+"region": "Flanders",
+"nl": "Tervuren",
+"fr": "Tervuren",
+"de": "Tervuren"
+},
+{
+"nis": "71071",
+"region": "Flanders",
+"nl": "Tessenderlo-Ham",
+"fr": "Tessenderlo-Ham",
+"de": "Tessenderlo-Ham"
+},
+{
+"nis": "37022",
+"region": "Flanders",
+"nl": "Tielt (Tielt)",
+"fr": "Tielt (Tielt)",
+"de": "Tielt (Tielt)"
+},
+{
+"nis": "24135",
+"region": "Flanders",
+"nl": "Tielt-Winge",
+"fr": "Tielt-Winge",
+"de": "Tielt-Winge"
+},
+{
+"nis": "24107",
+"region": "Flanders",
+"nl": "Tienen",
+"fr": "Tirlemont",
+"de": "Tienen"
+},
+{
+"nis": "73111",
+"region": "Flanders",
+"nl": "Tongeren-Borgloon",
+"fr": "Tongres-Looz",
+"de": "Tongeren-Borgloon"
+},
+{
+"nis": "31033",
+"region": "Flanders",
+"nl": "Torhout",
+"fr": "Torhout",
+"de": "Torhout"
+},
+{
+"nis": "24109",
+"region": "Flanders",
+"nl": "Tremelo",
+"fr": "Tremelo",
+"de": "Tremelo"
+},
+{
+"nis": "13040",
+"region": "Flanders",
+"nl": "Turnhout",
+"fr": "Turnhout",
+"de": "Turnhout"
+},
+{
+"nis": "38025",
+"region": "Flanders",
+"nl": "Veurne",
+"fr": "Furnes",
+"de": "Veurne"
+},
+{
+"nis": "23088",
+"region": "Flanders",
+"nl": "Vilvoorde",
+"fr": "Vilvorde",
+"de": "Vilvoorde"
+},
+{
+"nis": "33041",
+"region": "Flanders",
+"nl": "Vleteren",
+"fr": "Vleteren",
+"de": "Vleteren"
+},
+{
+"nis": "73109",
+"region": "Flanders",
+"nl": "Voeren",
+"fr": "Fourons",
+"de": "Voeren"
+},
+{
+"nis": "13044",
+"region": "Flanders",
+"nl": "Vorselaar",
+"fr": "Vorselaar",
+"de": "Vorselaar"
+},
+{
+"nis": "13046",
+"region": "Flanders",
+"nl": "Vosselaar",
+"fr": "Vosselaar",
+"de": "Vosselaar"
+},
+{
+"nis": "42023",
+"region": "Flanders",
+"nl": "Waasmunster",
+"fr": "Waasmunster",
+"de": "Waasmunster"
+},
+{
+"nis": "34040",
+"region": "Flanders",
+"nl": "Waregem",
+"fr": "Waregem",
+"de": "Waregem"
+},
+{
+"nis": "73098",
+"region": "Flanders",
+"nl": "Wellen",
+"fr": "Wellen",
+"de": "Wellen"
+},
+{
+"nis": "23102",
+"region": "Flanders",
+"nl": "Wemmel",
+"fr": "Wemmel",
+"de": "Wemmel"
+},
+{
+"nis": "33029",
+"region": "Flanders",
+"nl": "Wervik",
+"fr": "Wervik",
+"de": "Wervik"
+},
+{
+"nis": "13049",
+"region": "Flanders",
+"nl": "Westerlo",
+"fr": "Westerlo",
+"de": "Westerlo"
+},
+{
+"nis": "42025",
+"region": "Flanders",
+"nl": "Wetteren",
+"fr": "Wetteren",
+"de": "Wetteren"
+},
+{
+"nis": "34041",
+"region": "Flanders",
+"nl": "Wevelgem",
+"fr": "Wevelgem",
+"de": "Wevelgem"
+},
+{
+"nis": "23103",
+"region": "Flanders",
+"nl": "Wezembeek-Oppem",
+"fr": "Wezembeek-Oppem",
+"de": "Wezembeek-Oppem"
+},
+{
+"nis": "42026",
+"region": "Flanders",
+"nl": "Wichelen",
+"fr": "Wichelen",
+"de": "Wichelen"
+},
+{
+"nis": "37017",
+"region": "Flanders",
+"nl": "Wielsbeke",
+"fr": "Wielsbeke",
+"de": "Wielsbeke"
+},
+{
+"nis": "11050",
+"region": "Flanders",
+"nl": "Wijnegem",
+"fr": "Wijnegem",
+"de": "Wijnegem"
+},
+{
+"nis": "12040",
+"region": "Flanders",
+"nl": "Willebroek",
+"fr": "Willebroek",
+"de": "Willebroek"
+},
+{
+"nis": "37021",
+"region": "Flanders",
+"nl": "Wingene",
+"fr": "Wingene",
+"de": "Wingene"
+},
+{
+"nis": "11052",
+"region": "Flanders",
+"nl": "Wommelgem",
+"fr": "Wommelgem",
+"de": "Wommelgem"
+},
+{
+"nis": "45061",
+"region": "Flanders",
+"nl": "Wortegem-Petegem",
+"fr": "Wortegem-Petegem",
+"de": "Wortegem-Petegem"
+},
+{
+"nis": "11053",
+"region": "Flanders",
+"nl": "Wuustwezel",
+"fr": "Wuustwezel",
+"de": "Wuustwezel"
+},
+{
+"nis": "11054",
+"region": "Flanders",
+"nl": "Zandhoven",
+"fr": "Zandhoven",
+"de": "Zandhoven"
+},
+{
+"nis": "23094",
+"region": "Flanders",
+"nl": "Zaventem",
+"fr": "Zaventem",
+"de": "Zaventem"
+},
+{
+"nis": "31040",
+"region": "Flanders",
+"nl": "Zedelgem",
+"fr": "Zedelgem",
+"de": "Zedelgem"
+},
+{
+"nis": "42028",
+"region": "Flanders",
+"nl": "Zele",
+"fr": "Zele",
+"de": "Zele"
+},
+{
+"nis": "43018",
+"region": "Flanders",
+"nl": "Zelzate",
+"fr": "Zelzate",
+"de": "Zelzate"
+},
+{
+"nis": "23096",
+"region": "Flanders",
+"nl": "Zemst",
+"fr": "Zemst",
+"de": "Zemst"
+},
+{
+"nis": "11055",
+"region": "Flanders",
+"nl": "Zoersel",
+"fr": "Zoersel",
+"de": "Zoersel"
+},
+{
+"nis": "71066",
+"region": "Flanders",
+"nl": "Zonhoven",
+"fr": "Zonhoven",
+"de": "Zonhoven"
+},
+{
+"nis": "33037",
+"region": "Flanders",
+"nl": "Zonnebeke",
+"fr": "Zonnebeke",
+"de": "Zonnebeke"
+},
+{
+"nis": "41081",
+"region": "Flanders",
+"nl": "Zottegem",
+"fr": "Zottegem",
+"de": "Zottegem"
+},
+{
+"nis": "24130",
+"region": "Flanders",
+"nl": "Zoutleeuw",
+"fr": "Léau",
+"de": "Zoutleeuw"
+},
+{
+"nis": "31042",
+"region": "Flanders",
+"nl": "Zuienkerke",
+"fr": "Zuienkerke",
+"de": "Zuienkerke"
+},
+{
+"nis": "44081",
+"region": "Flanders",
+"nl": "Zulte",
+"fr": "Zulte",
+"de": "Zulte"
+},
+{
+"nis": "71067",
+"region": "Flanders",
+"nl": "Zutendaal",
+"fr": "Zutendaal",
+"de": "Zutendaal"
+},
+{
+"nis": "45065",
+"region": "Flanders",
+"nl": "Zwalm",
+"fr": "Zwalin",
+"de": "Zwalm"
+},
+{
+"nis": "34042",
+"region": "Flanders",
+"nl": "Zwevegem",
+"fr": "Zwevegem",
+"de": "Zwevegem"
+},
+{
+"nis": "81001",
+"region": "Wallonia",
+"nl": "Aarlen",
+"fr": "Arlon",
+"de": "Arlon"
+},
+{
+"nis": "51004",
+"region": "Wallonia",
+"nl": "Aat",
+"fr": "Ath",
+"de": "Ath"
+},
+{
+"nis": "52074",
+"region": "Wallonia",
+"nl": "Aiseau-Presles",
+"fr": "Aiseau-Presles",
+"de": "Aiseau-Presles"
+},
+{
+"nis": "61003",
+"region": "Wallonia",
+"nl": "Amay",
+"fr": "Amay",
+"de": "Amay"
+},
+{
+"nis": "63001",
+"region": "Wallonia",
+"nl": "Amel",
+"fr": "Amblève",
+"de": "Amel"
+},
+{
+"nis": "92003",
+"region": "Wallonia",
+"nl": "Andenne",
+"fr": "Andenne",
+"de": "Andenne"
+},
+{
+"nis": "56001",
+"region": "Wallonia",
+"nl": "Anderlues",
+"fr": "Anderlues",
+"de": "Anderlues"
+},
+{
+"nis": "91005",
+"region": "Wallonia",
+"nl": "Anhée",
+"fr": "Anhée",
+"de": "Anhée"
+},
+{
+"nis": "62003",
+"region": "Wallonia",
+"nl": "Ans",
+"fr": "Ans",
+"de": "Ans"
+},
+{
+"nis": "61079",
+"region": "Wallonia",
+"nl": "Anthisnes",
+"fr": "Anthisnes",
+"de": "Anthisnes"
+},
+{
+"nis": "57003",
+"region": "Wallonia",
+"nl": "Antoing",
+"fr": "Antoing",
+"de": "Antoing"
+},
+{
+"nis": "92006",
+"region": "Wallonia",
+"nl": "Assesse",
+"fr": "Assesse",
+"de": "Assesse"
+},
+{
+"nis": "81003",
+"region": "Wallonia",
+"nl": "Attert",
+"fr": "Attert",
+"de": "Attert"
+},
+{
+"nis": "81004",
+"region": "Wallonia",
+"nl": "Aubange",
+"fr": "Aubange",
+"de": "Aubange"
+},
+{
+"nis": "63003",
+"region": "Wallonia",
+"nl": "Aubel",
+"fr": "Aubel",
+"de": "Aubel"
+},
+{
+"nis": "62006",
+"region": "Wallonia",
+"nl": "Awans",
+"fr": "Awans",
+"de": "Awans"
+},
+{
+"nis": "62009",
+"region": "Wallonia",
+"nl": "Aywaille",
+"fr": "Aywaille",
+"de": "Aywaille"
+},
+{
+"nis": "63004",
+"region": "Wallonia",
+"nl": "Baelen",
+"fr": "Baelen",
+"de": "Baelen"
+},
+{
+"nis": "82039",
+"region": "Wallonia",
+"nl": "Bastenaken",
+"fr": "Bastogne",
+"de": "Bastogne"
+},
+{
+"nis": "56005",
+"region": "Wallonia",
+"nl": "Beaumont",
+"fr": "Beaumont",
+"de": "Beaumont"
+},
+{
+"nis": "91013",
+"region": "Wallonia",
+"nl": "Beauraing",
+"fr": "Beauraing",
+"de": "Beauraing"
+},
+{
+"nis": "51008",
+"region": "Wallonia",
+"nl": "Beloeil",
+"fr": "Beloeil",
+"de": "Beloeil"
+},
+{
+"nis": "53053",
+"region": "Wallonia",
+"nl": "Bergen",
+"fr": "Mons",
+"de": "Mons"
+},
+{
+"nis": "64008",
+"region": "Wallonia",
+"nl": "Berloz",
+"fr": "Berloz",
+"de": "Berloz"
+},
+{
+"nis": "51009",
+"region": "Wallonia",
+"nl": "Bernissart",
+"fr": "Bernissart",
+"de": "Bernissart"
+},
+{
+"nis": "84009",
+"region": "Wallonia",
+"nl": "Bertrix",
+"fr": "Bertrix",
+"de": "Bertrix"
+},
+{
+"nis": "25005",
+"region": "Wallonia",
+"nl": "Bevekom",
+"fr": "Beauvechain",
+"de": "Beauvechain"
+},
+{
+"nis": "62015",
+"region": "Wallonia",
+"nl": "Beyne-Heusay",
+"fr": "Beyne-Heusay",
+"de": "Beyne-Heusay"
+},
+{
+"nis": "58002",
+"region": "Wallonia",
+"nl": "Binche",
+"fr": "Binche",
+"de": "Binche"
+},
+{
+"nis": "62011",
+"region": "Wallonia",
+"nl": "Bitsingen",
+"fr": "Bassenge",
+"de": "Bassenge"
+},
+{
+"nis": "91015",
+"region": "Wallonia",
+"nl": "Bièvre",
+"fr": "Bièvre",
+"de": "Bièvre"
+},
+{
+"nis": "62119",
+"region": "Wallonia",
+"nl": "Blegny",
+"fr": "Blegny",
+"de": "Blegny"
+},
+{
+"nis": "64074",
+"region": "Wallonia",
+"nl": "Borgworm",
+"fr": "Waremme",
+"de": "Waremme"
+},
+{
+"nis": "84010",
+"region": "Wallonia",
+"nl": "Bouillon",
+"fr": "Bouillon",
+"de": "Bouillon"
+},
+{
+"nis": "53014",
+"region": "Wallonia",
+"nl": "Boussu",
+"fr": "Boussu",
+"de": "Boussu"
+},
+{
+"nis": "64015",
+"region": "Wallonia",
+"nl": "Braives",
+"fr": "Braives",
+"de": "Braives"
+},
+{
+"nis": "51012",
+"region": "Wallonia",
+"nl": "Brugelette",
+"fr": "Brugelette",
+"de": "Brugelette"
+},
+{
+"nis": "57093",
+"region": "Wallonia",
+"nl": "Brunehaut",
+"fr": "Brunehaut",
+"de": "Brunehaut"
+},
+{
+"nis": "61010",
+"region": "Wallonia",
+"nl": "Burdinne",
+"fr": "Burdinne",
+"de": "Burdinne"
+},
+{
+"nis": "63087",
+"region": "Wallonia",
+"nl": "Burg-Reuland",
+"fr": "Burg-Reuland",
+"de": "Burg-Reuland"
+},
+{
+"nis": "63012",
+"region": "Wallonia",
+"nl": "Büllingen",
+"fr": "Bullange",
+"de": "Büllingen"
+},
+{
+"nis": "63013",
+"region": "Wallonia",
+"nl": "Bütgenbach",
+"fr": "Butgenbach",
+"de": "Bütgenbach"
+},
+{
+"nis": "57018",
+"region": "Wallonia",
+"nl": "Celles (Doornik)",
+"fr": "Celles (Tournai)",
+"de": "Celles (Tournai)"
+},
+{
+"nis": "93010",
+"region": "Wallonia",
+"nl": "Cerfontaine",
+"fr": "Cerfontaine",
+"de": "Cerfontaine"
+},
+{
+"nis": "52010",
+"region": "Wallonia",
+"nl": "Chapelle-lez-Herlaimont",
+"fr": "Chapelle-lez-Herlaimont",
+"de": "Chapelle-lez-Herlaimont"
+},
+{
+"nis": "52011",
+"region": "Wallonia",
+"nl": "Charleroi",
+"fr": "Charleroi",
+"de": "Charleroi"
+},
+{
+"nis": "25117",
+"region": "Wallonia",
+"nl": "Chastre",
+"fr": "Chastre",
+"de": "Chastre"
+},
+{
+"nis": "62022",
+"region": "Wallonia",
+"nl": "Chaudfontaine",
+"fr": "Chaudfontaine",
+"de": "Chaudfontaine"
+},
+{
+"nis": "25018",
+"region": "Wallonia",
+"nl": "Chaumont-Gistoux",
+"fr": "Chaumont-Gistoux",
+"de": "Chaumont-Gistoux"
+},
+{
+"nis": "56016",
+"region": "Wallonia",
+"nl": "Chimay",
+"fr": "Chimay",
+"de": "Chimay"
+},
+{
+"nis": "85007",
+"region": "Wallonia",
+"nl": "Chiny",
+"fr": "Chiny",
+"de": "Chiny"
+},
+{
+"nis": "51014",
+"region": "Wallonia",
+"nl": "Chièvres",
+"fr": "Chièvres",
+"de": "Chièvres"
+},
+{
+"nis": "52012",
+"region": "Wallonia",
+"nl": "Châtelet",
+"fr": "Châtelet",
+"de": "Châtelet"
+},
+{
+"nis": "91030",
+"region": "Wallonia",
+"nl": "Ciney",
+"fr": "Ciney",
+"de": "Ciney"
+},
+{
+"nis": "61012",
+"region": "Wallonia",
+"nl": "Clavier",
+"fr": "Clavier",
+"de": "Clavier"
+},
+{
+"nis": "53082",
+"region": "Wallonia",
+"nl": "Colfontaine",
+"fr": "Colfontaine",
+"de": "Colfontaine"
+},
+{
+"nis": "62026",
+"region": "Wallonia",
+"nl": "Comblain-au-Pont",
+"fr": "Comblain-au-Pont",
+"de": "Comblain-au-Pont"
+},
+{
+"nis": "52015",
+"region": "Wallonia",
+"nl": "Courcelles",
+"fr": "Courcelles",
+"de": "Courcelles"
+},
+{
+"nis": "25023",
+"region": "Wallonia",
+"nl": "Court-Saint-Etienne",
+"fr": "Court-Saint-Etienne",
+"de": "Court-Saint-Etienne"
+},
+{
+"nis": "93014",
+"region": "Wallonia",
+"nl": "Couvin",
+"fr": "Couvin",
+"de": "Couvin"
+},
+{
+"nis": "64021",
+"region": "Wallonia",
+"nl": "Crisnée",
+"fr": "Crisnée",
+"de": "Crisnée"
+},
+{
+"nis": "62027",
+"region": "Wallonia",
+"nl": "Dalhem",
+"fr": "Dalhem",
+"de": "Dalhem"
+},
+{
+"nis": "84016",
+"region": "Wallonia",
+"nl": "Daverdisse",
+"fr": "Daverdisse",
+"de": "Daverdisse"
+},
+{
+"nis": "91034",
+"region": "Wallonia",
+"nl": "Dinant",
+"fr": "Dinant",
+"de": "Dinant"
+},
+{
+"nis": "63020",
+"region": "Wallonia",
+"nl": "Dison",
+"fr": "Dison",
+"de": "Dison"
+},
+{
+"nis": "93018",
+"region": "Wallonia",
+"nl": "Doische",
+"fr": "Doische",
+"de": "Doische"
+},
+{
+"nis": "64023",
+"region": "Wallonia",
+"nl": "Donceel",
+"fr": "Donceel",
+"de": "Donceel"
+},
+{
+"nis": "57081",
+"region": "Wallonia",
+"nl": "Doornik",
+"fr": "Tournai",
+"de": "Tournai"
+},
+{
+"nis": "53020",
+"region": "Wallonia",
+"nl": "Dour",
+"fr": "Dour",
+"de": "Dour"
+},
+{
+"nis": "83012",
+"region": "Wallonia",
+"nl": "Durbuy",
+"fr": "Durbuy",
+"de": "Durbuy"
+},
+{
+"nis": "55050",
+"region": "Wallonia",
+"nl": "Ecaussinnes",
+"fr": "Ecaussinnes",
+"de": "Ecaussinnes"
+},
+{
+"nis": "51067",
+"region": "Wallonia",
+"nl": "Edingen",
+"fr": "Enghien",
+"de": "Enghien"
+},
+{
+"nis": "92035",
+"region": "Wallonia",
+"nl": "Eghezée",
+"fr": "Eghezée",
+"de": "Eghezée"
+},
+{
+"nis": "25014",
+"region": "Wallonia",
+"nl": "Eigenbrakel",
+"fr": "Braine-lAlleud",
+"de": "Braine-lAlleud"
+},
+{
+"nis": "51017",
+"region": "Wallonia",
+"nl": "Elzele",
+"fr": "Ellezelles",
+"de": "Ellezelles"
+},
+{
+"nis": "61080",
+"region": "Wallonia",
+"nl": "Engis",
+"fr": "Engis",
+"de": "Engis"
+},
+{
+"nis": "83013",
+"region": "Wallonia",
+"nl": "Erezée",
+"fr": "Erezée",
+"de": "Erezée"
+},
+{
+"nis": "56022",
+"region": "Wallonia",
+"nl": "Erquelinnes",
+"fr": "Erquelinnes",
+"de": "Erquelinnes"
+},
+{
+"nis": "62032",
+"region": "Wallonia",
+"nl": "Esneux",
+"fr": "Esneux",
+"de": "Esneux"
+},
+{
+"nis": "57027",
+"region": "Wallonia",
+"nl": "Estaimpuis",
+"fr": "Estaimpuis",
+"de": "Estaimpuis"
+},
+{
+"nis": "58003",
+"region": "Wallonia",
+"nl": "Estinnes",
+"fr": "Estinnes",
+"de": "Estinnes"
+},
+{
+"nis": "85009",
+"region": "Wallonia",
+"nl": "Etalle",
+"fr": "Etalle",
+"de": "Etalle"
+},
+{
+"nis": "63023",
+"region": "Wallonia",
+"nl": "Eupen",
+"fr": "Eupen",
+"de": "Eupen"
+},
+{
+"nis": "64076",
+"region": "Wallonia",
+"nl": "Faimes",
+"fr": "Faimes",
+"de": "Faimes"
+},
+{
+"nis": "52018",
+"region": "Wallonia",
+"nl": "Farciennes",
+"fr": "Farciennes",
+"de": "Farciennes"
+},
+{
+"nis": "82009",
+"region": "Wallonia",
+"nl": "Fauvillers",
+"fr": "Fauvillers",
+"de": "Fauvillers"
+},
+{
+"nis": "92138",
+"region": "Wallonia",
+"nl": "Fernelmont",
+"fr": "Fernelmont",
+"de": "Fernelmont"
+},
+{
+"nis": "61019",
+"region": "Wallonia",
+"nl": "Ferrières",
+"fr": "Ferrières",
+"de": "Ferrières"
+},
+{
+"nis": "64025",
+"region": "Wallonia",
+"nl": "Fexhe-le-Haut-Clocher",
+"fr": "Fexhe-le-Haut-Clocher",
+"de": "Fexhe-le-Haut-Clocher"
+},
+{
+"nis": "52021",
+"region": "Wallonia",
+"nl": "Fleurus",
+"fr": "Fleurus",
+"de": "Fleurus"
+},
+{
+"nis": "92045",
+"region": "Wallonia",
+"nl": "Floreffe",
+"fr": "Floreffe",
+"de": "Floreffe"
+},
+{
+"nis": "93022",
+"region": "Wallonia",
+"nl": "Florennes",
+"fr": "Florennes",
+"de": "Florennes"
+},
+{
+"nis": "85011",
+"region": "Wallonia",
+"nl": "Florenville",
+"fr": "Florenville",
+"de": "Florenville"
+},
+{
+"nis": "62120",
+"region": "Wallonia",
+"nl": "Flémalle",
+"fr": "Flémalle",
+"de": "Flémalle"
+},
+{
+"nis": "62038",
+"region": "Wallonia",
+"nl": "Fléron",
+"fr": "Fléron",
+"de": "Fléron"
+},
+{
+"nis": "52022",
+"region": "Wallonia",
+"nl": "Fontaine-lEvêque",
+"fr": "Fontaine-lEvêque",
+"de": "Fontaine-lEvêque"
+},
+{
+"nis": "92048",
+"region": "Wallonia",
+"nl": "Fosses-la-Ville",
+"fr": "Fosses-la-Ville",
+"de": "Fosses-la-Ville"
+},
+{
+"nis": "53028",
+"region": "Wallonia",
+"nl": "Frameries",
+"fr": "Frameries",
+"de": "Frameries"
+},
+{
+"nis": "51065",
+"region": "Wallonia",
+"nl": "Frasnes-lez-Anvaing",
+"fr": "Frasnes-lez-Anvaing",
+"de": "Frasnes-lez-Anvaing"
+},
+{
+"nis": "56029",
+"region": "Wallonia",
+"nl": "Froidchapelle",
+"fr": "Froidchapelle",
+"de": "Froidchapelle"
+},
+{
+"nis": "91054",
+"region": "Wallonia",
+"nl": "Gedinne",
+"fr": "Gedinne",
+"de": "Gedinne"
+},
+{
+"nis": "64029",
+"region": "Wallonia",
+"nl": "Geer",
+"fr": "Geer",
+"de": "Geer"
+},
+{
+"nis": "25048",
+"region": "Wallonia",
+"nl": "Geldenaken",
+"fr": "Jodoigne",
+"de": "Jodoigne"
+},
+{
+"nis": "92142",
+"region": "Wallonia",
+"nl": "Gembloux",
+"fr": "Gembloux",
+"de": "Gembloux"
+},
+{
+"nis": "25031",
+"region": "Wallonia",
+"nl": "Genepiën",
+"fr": "Genappe",
+"de": "Genappe"
+},
+{
+"nis": "52025",
+"region": "Wallonia",
+"nl": "Gerpinnes",
+"fr": "Gerpinnes",
+"de": "Gerpinnes"
+},
+{
+"nis": "92054",
+"region": "Wallonia",
+"nl": "Gesves",
+"fr": "Gesves",
+"de": "Gesves"
+},
+{
+"nis": "82037",
+"region": "Wallonia",
+"nl": "Gouvy",
+"fr": "Gouvy",
+"de": "Gouvy"
+},
+{
+"nis": "25037",
+"region": "Wallonia",
+"nl": "Graven",
+"fr": "Grez-Doiceau",
+"de": "Grez-Doiceau"
+},
+{
+"nis": "62118",
+"region": "Wallonia",
+"nl": "Grâce-Hollogne",
+"fr": "Grâce-Hollogne",
+"de": "Grâce-Hollogne"
+},
+{
+"nis": "85046",
+"region": "Wallonia",
+"nl": "Habay",
+"fr": "Habay",
+"de": "Habay"
+},
+{
+"nis": "56086",
+"region": "Wallonia",
+"nl": "Ham-sur-Heure-Nalinnes",
+"fr": "Ham-sur-Heure-Nalinnes",
+"de": "Ham-sur-Heure-Nalinnes"
+},
+{
+"nis": "61024",
+"region": "Wallonia",
+"nl": "Hamoir",
+"fr": "Hamoir",
+"de": "Hamoir"
+},
+{
+"nis": "91059",
+"region": "Wallonia",
+"nl": "Hamois",
+"fr": "Hamois",
+"de": "Hamois"
+},
+{
+"nis": "64034",
+"region": "Wallonia",
+"nl": "Hannuit",
+"fr": "Hannut",
+"de": "Hannut"
+},
+{
+"nis": "91142",
+"region": "Wallonia",
+"nl": "Hastière",
+"fr": "Hastière",
+"de": "Hastière"
+},
+{
+"nis": "91064",
+"region": "Wallonia",
+"nl": "Havelange",
+"fr": "Havelange",
+"de": "Havelange"
+},
+{
+"nis": "53039",
+"region": "Wallonia",
+"nl": "Hensies",
+"fr": "Hensies",
+"de": "Hensies"
+},
+{
+"nis": "84029",
+"region": "Wallonia",
+"nl": "Herbeumont",
+"fr": "Herbeumont",
+"de": "Herbeumont"
+},
+{
+"nis": "62051",
+"region": "Wallonia",
+"nl": "Herstal",
+"fr": "Herstal",
+"de": "Herstal"
+},
+{
+"nis": "63035",
+"region": "Wallonia",
+"nl": "Herve",
+"fr": "Herve",
+"de": "Herve"
+},
+{
+"nis": "61031",
+"region": "Wallonia",
+"nl": "Hoei",
+"fr": "Huy",
+"de": "Huy"
+},
+{
+"nis": "53083",
+"region": "Wallonia",
+"nl": "Honnelles",
+"fr": "Honnelles",
+"de": "Honnelles"
+},
+{
+"nis": "83028",
+"region": "Wallonia",
+"nl": "Hotton",
+"fr": "Hotton",
+"de": "Hotton"
+},
+{
+"nis": "82014",
+"region": "Wallonia",
+"nl": "Houffalize",
+"fr": "Houffalize",
+"de": "Houffalize"
+},
+{
+"nis": "91072",
+"region": "Wallonia",
+"nl": "Houyet",
+"fr": "Houyet",
+"de": "Houyet"
+},
+{
+"nis": "25118",
+"region": "Wallonia",
+"nl": "Hélécine",
+"fr": "Hélécine",
+"de": "Hélécine"
+},
+{
+"nis": "61028",
+"region": "Wallonia",
+"nl": "Héron",
+"fr": "Héron",
+"de": "Héron"
+},
+{
+"nis": "25043",
+"region": "Wallonia",
+"nl": "Incourt",
+"fr": "Incourt",
+"de": "Incourt"
+},
+{
+"nis": "25044",
+"region": "Wallonia",
+"nl": "Itter",
+"fr": "Ittre",
+"de": "Ittre"
+},
+{
+"nis": "63038",
+"region": "Wallonia",
+"nl": "Jalhay",
+"fr": "Jalhay",
+"de": "Jalhay"
+},
+{
+"nis": "92140",
+"region": "Wallonia",
+"nl": "Jemeppe-sur-Sambre",
+"fr": "Jemeppe-sur-Sambre",
+"de": "Jemeppe-sur-Sambre"
+},
+{
+"nis": "62060",
+"region": "Wallonia",
+"nl": "Juprelle",
+"fr": "Juprelle",
+"de": "Juprelle"
+},
+{
+"nis": "53044",
+"region": "Wallonia",
+"nl": "Jurbeke",
+"fr": "Jurbise",
+"de": "Jurbise"
+},
+{
+"nis": "25015",
+"region": "Wallonia",
+"nl": "Kasteelbrakel",
+"fr": "Braine-le-Château",
+"de": "Braine-le-Château"
+},
+{
+"nis": "63040",
+"region": "Wallonia",
+"nl": "Kelmis",
+"fr": "La Calamine",
+"de": "Kelmis"
+},
+{
+"nis": "57097",
+"region": "Wallonia",
+"nl": "Komen-Waasten",
+"fr": "Comines-Warneton",
+"de": "Comines-Warneton"
+},
+{
+"nis": "92141",
+"region": "Wallonia",
+"nl": "La Bruyère",
+"fr": "La Bruyère",
+"de": "La Bruyère"
+},
+{
+"nis": "58001",
+"region": "Wallonia",
+"nl": "La Louvière",
+"fr": "La Louvière",
+"de": "La Louvière"
+},
+{
+"nis": "83031",
+"region": "Wallonia",
+"nl": "La Roche-en-Ardenne",
+"fr": "La Roche-en-Ardenne",
+"de": "La Roche-en-Ardenne"
+},
+{
+"nis": "25119",
+"region": "Wallonia",
+"nl": "Lasne",
+"fr": "Lasne",
+"de": "Lasne"
+},
+{
+"nis": "55035",
+"region": "Wallonia",
+"nl": "Le Roeulx",
+"fr": "Le Roeulx",
+"de": "Le Roeulx"
+},
+{
+"nis": "53046",
+"region": "Wallonia",
+"nl": "Lens",
+"fr": "Lens",
+"de": "Lens"
+},
+{
+"nis": "52075",
+"region": "Wallonia",
+"nl": "Les Bons Villers",
+"fr": "Les Bons Villers",
+"de": "Les Bons Villers"
+},
+{
+"nis": "51069",
+"region": "Wallonia",
+"nl": "Lessen",
+"fr": "Lessines",
+"de": "Lessines"
+},
+{
+"nis": "57094",
+"region": "Wallonia",
+"nl": "Leuze-en-Hainaut",
+"fr": "Leuze-en-Hainaut",
+"de": "Leuze-en-Hainaut"
+},
+{
+"nis": "84035",
+"region": "Wallonia",
+"nl": "Libin",
+"fr": "Libin",
+"de": "Libin"
+},
+{
+"nis": "84077",
+"region": "Wallonia",
+"nl": "Libramont-Chevigny",
+"fr": "Libramont-Chevigny",
+"de": "Libramont-Chevigny"
+},
+{
+"nis": "63045",
+"region": "Wallonia",
+"nl": "Lierneux",
+"fr": "Lierneux",
+"de": "Lierneux"
+},
+{
+"nis": "64047",
+"region": "Wallonia",
+"nl": "Lijsem",
+"fr": "Lincent",
+"de": "Lincent"
+},
+{
+"nis": "63046",
+"region": "Wallonia",
+"nl": "Limburg",
+"fr": "Limbourg",
+"de": "Limbourg"
+},
+{
+"nis": "56044",
+"region": "Wallonia",
+"nl": "Lobbes",
+"fr": "Lobbes",
+"de": "Lobbes"
+},
+{
+"nis": "63048",
+"region": "Wallonia",
+"nl": "Lontzen",
+"fr": "Lontzen",
+"de": "Lontzen"
+},
+{
+"nis": "62063",
+"region": "Wallonia",
+"nl": "Luik",
+"fr": "Liège",
+"de": "Lüttich"
+},
+{
+"nis": "84033",
+"region": "Wallonia",
+"nl": "Léglise",
+"fr": "Léglise",
+"de": "Léglise"
+},
+{
+"nis": "63049",
+"region": "Wallonia",
+"nl": "Malmedy",
+"fr": "Malmedy",
+"de": "Malmedy"
+},
+{
+"nis": "55086",
+"region": "Wallonia",
+"nl": "Manage",
+"fr": "Manage",
+"de": "Manage"
+},
+{
+"nis": "83055",
+"region": "Wallonia",
+"nl": "Manhay",
+"fr": "Manhay",
+"de": "Manhay"
+},
+{
+"nis": "83034",
+"region": "Wallonia",
+"nl": "Marche-en-Famenne",
+"fr": "Marche-en-Famenne",
+"de": "Marche-en-Famenne"
+},
+{
+"nis": "61039",
+"region": "Wallonia",
+"nl": "Marchin",
+"fr": "Marchin",
+"de": "Marchin"
+},
+{
+"nis": "81013",
+"region": "Wallonia",
+"nl": "Martelange",
+"fr": "Martelange",
+"de": "Martelange"
+},
+{
+"nis": "85024",
+"region": "Wallonia",
+"nl": "Meix-devant-Virton",
+"fr": "Meix-devant-Virton",
+"de": "Meix-devant-Virton"
+},
+{
+"nis": "56049",
+"region": "Wallonia",
+"nl": "Merbes-le-Château",
+"fr": "Merbes-le-Château",
+"de": "Merbes-le-Château"
+},
+{
+"nis": "81015",
+"region": "Wallonia",
+"nl": "Messancy",
+"fr": "Messancy",
+"de": "Messancy"
+},
+{
+"nis": "92087",
+"region": "Wallonia",
+"nl": "Mettet",
+"fr": "Mettet",
+"de": "Mettet"
+},
+{
+"nis": "61041",
+"region": "Wallonia",
+"nl": "Modave",
+"fr": "Modave",
+"de": "Modave"
+},
+{
+"nis": "57096",
+"region": "Wallonia",
+"nl": "Moeskroen",
+"fr": "Mouscron",
+"de": "Mouscron"
+},
+{
+"nis": "56051",
+"region": "Wallonia",
+"nl": "Momignies",
+"fr": "Momignies",
+"de": "Momignies"
+},
+{
+"nis": "25068",
+"region": "Wallonia",
+"nl": "Mont-Saint-Guibert",
+"fr": "Mont-Saint-Guibert",
+"de": "Mont-Saint-Guibert"
+},
+{
+"nis": "57095",
+"region": "Wallonia",
+"nl": "Mont-de-lEnclus",
+"fr": "Mont-de-lEnclus",
+"de": "Mont-de-lEnclus"
+},
+{
+"nis": "52048",
+"region": "Wallonia",
+"nl": "Montigny-le-Tilleul",
+"fr": "Montigny-le-Tilleul",
+"de": "Montigny-le-Tilleul"
+},
+{
+"nis": "58004",
+"region": "Wallonia",
+"nl": "Morlanwelz",
+"fr": "Morlanwelz",
+"de": "Morlanwelz"
+},
+{
+"nis": "85026",
+"region": "Wallonia",
+"nl": "Musson",
+"fr": "Musson",
+"de": "Musson"
+},
+{
+"nis": "92094",
+"region": "Wallonia",
+"nl": "Namen",
+"fr": "Namur",
+"de": "Namur"
+},
+{
+"nis": "61043",
+"region": "Wallonia",
+"nl": "Nandrin",
+"fr": "Nandrin",
+"de": "Nandrin"
+},
+{
+"nis": "83040",
+"region": "Wallonia",
+"nl": "Nassogne",
+"fr": "Nassogne",
+"de": "Nassogne"
+},
+{
+"nis": "84043",
+"region": "Wallonia",
+"nl": "Neufchâteau (Neufchâteau)",
+"fr": "Neufchâteau (Neufchâteau)",
+"de": "Neufchâteau (Neufchâteau)"
+},
+{
+"nis": "62121",
+"region": "Wallonia",
+"nl": "Neupré",
+"fr": "Neupré",
+"de": "Neupré"
+},
+{
+"nis": "25072",
+"region": "Wallonia",
+"nl": "Nijvel",
+"fr": "Nivelles",
+"de": "Nivelles"
+},
+{
+"nis": "64056",
+"region": "Wallonia",
+"nl": "Oerle",
+"fr": "Oreye",
+"de": "Oreye"
+},
+{
+"nis": "92097",
+"region": "Wallonia",
+"nl": "Ohey",
+"fr": "Ohey",
+"de": "Ohey"
+},
+{
+"nis": "63057",
+"region": "Wallonia",
+"nl": "Olne",
+"fr": "Olne",
+"de": "Olne"
+},
+{
+"nis": "91103",
+"region": "Wallonia",
+"nl": "Onhaye",
+"fr": "Onhaye",
+"de": "Onhaye"
+},
+{
+"nis": "51068",
+"region": "Wallonia",
+"nl": "Opzullik",
+"fr": "Silly",
+"de": "Silly"
+},
+{
+"nis": "25120",
+"region": "Wallonia",
+"nl": "Orp-Jauche",
+"fr": "Orp-Jauche",
+"de": "Orp-Jauche"
+},
+{
+"nis": "25121",
+"region": "Wallonia",
+"nl": "Ottignies-Louvain-la-Neuve",
+"fr": "Ottignies-Louvain-la-Neuve",
+"de": "Ottignies-Louvain-la-Neuve"
+},
+{
+"nis": "61048",
+"region": "Wallonia",
+"nl": "Ouffet",
+"fr": "Ouffet",
+"de": "Ouffet"
+},
+{
+"nis": "62079",
+"region": "Wallonia",
+"nl": "Oupeye",
+"fr": "Oupeye",
+"de": "Oupeye"
+},
+{
+"nis": "84050",
+"region": "Wallonia",
+"nl": "Paliseul",
+"fr": "Paliseul",
+"de": "Paliseul"
+},
+{
+"nis": "57062",
+"region": "Wallonia",
+"nl": "Pecq",
+"fr": "Pecq",
+"de": "Pecq"
+},
+{
+"nis": "63058",
+"region": "Wallonia",
+"nl": "Pepinster",
+"fr": "Pepinster",
+"de": "Pepinster"
+},
+{
+"nis": "25084",
+"region": "Wallonia",
+"nl": "Perwijs (Nijvel)",
+"fr": "Perwez (Nivelles)",
+"de": "Perwez (Nivelles)"
+},
+{
+"nis": "93056",
+"region": "Wallonia",
+"nl": "Philippeville",
+"fr": "Philippeville",
+"de": "Philippeville"
+},
+{
+"nis": "63088",
+"region": "Wallonia",
+"nl": "Plombières",
+"fr": "Plombières",
+"de": "Plombières"
+},
+{
+"nis": "52055",
+"region": "Wallonia",
+"nl": "Pont-à-Celles",
+"fr": "Pont-à-Celles",
+"de": "Pont-à-Celles"
+},
+{
+"nis": "92101",
+"region": "Wallonia",
+"nl": "Profondeville",
+"fr": "Profondeville",
+"de": "Profondeville"
+},
+{
+"nis": "57064",
+"region": "Wallonia",
+"nl": "Péruwelz",
+"fr": "Péruwelz",
+"de": "Péruwelz"
+},
+{
+"nis": "53065",
+"region": "Wallonia",
+"nl": "Quaregnon",
+"fr": "Quaregnon",
+"de": "Quaregnon"
+},
+{
+"nis": "53068",
+"region": "Wallonia",
+"nl": "Quiévrain",
+"fr": "Quiévrain",
+"de": "Quiévrain"
+},
+{
+"nis": "53084",
+"region": "Wallonia",
+"nl": "Quévy",
+"fr": "Quévy",
+"de": "Quévy"
+},
+{
+"nis": "63061",
+"region": "Wallonia",
+"nl": "Raeren",
+"fr": "Raeren",
+"de": "Raeren"
+},
+{
+"nis": "25122",
+"region": "Wallonia",
+"nl": "Ramillies",
+"fr": "Ramillies",
+"de": "Ramillies"
+},
+{
+"nis": "25123",
+"region": "Wallonia",
+"nl": "Rebecq",
+"fr": "Rebecq",
+"de": "Rebecq"
+},
+{
+"nis": "64063",
+"region": "Wallonia",
+"nl": "Remicourt",
+"fr": "Remicourt",
+"de": "Remicourt"
+},
+{
+"nis": "83044",
+"region": "Wallonia",
+"nl": "Rendeux",
+"fr": "Rendeux",
+"de": "Rendeux"
+},
+{
+"nis": "25091",
+"region": "Wallonia",
+"nl": "Rixensart",
+"fr": "Rixensart",
+"de": "Rixensart"
+},
+{
+"nis": "91114",
+"region": "Wallonia",
+"nl": "Rochefort",
+"fr": "Rochefort",
+"de": "Rochefort"
+},
+{
+"nis": "85047",
+"region": "Wallonia",
+"nl": "Rouvroy",
+"fr": "Rouvroy",
+"de": "Rouvroy"
+},
+{
+"nis": "57072",
+"region": "Wallonia",
+"nl": "Rumes",
+"fr": "Rumes",
+"de": "Rumes"
+},
+{
+"nis": "64065",
+"region": "Wallonia",
+"nl": "Saint-Georges-sur-Meuse",
+"fr": "Saint-Georges-sur-Meuse",
+"de": "Saint-Georges-sur-Meuse"
+},
+{
+"nis": "53070",
+"region": "Wallonia",
+"nl": "Saint-Ghislain",
+"fr": "Saint-Ghislain",
+"de": "Saint-Ghislain"
+},
+{
+"nis": "84059",
+"region": "Wallonia",
+"nl": "Saint-Hubert",
+"fr": "Saint-Hubert",
+"de": "Saint-Hubert"
+},
+{
+"nis": "85034",
+"region": "Wallonia",
+"nl": "Saint-Léger (Virton)",
+"fr": "Saint-Léger (Virton)",
+"de": "Saint-Léger (Virton)"
+},
+{
+"nis": "62093",
+"region": "Wallonia",
+"nl": "Saint-Nicolas (Luik)",
+"fr": "Saint-Nicolas (Liège)",
+"de": "Saint-Nicolas (Lüttich)"
+},
+{
+"nis": "82038",
+"region": "Wallonia",
+"nl": "Sainte-Ode",
+"fr": "Sainte-Ode",
+"de": "Sainte-Ode"
+},
+{
+"nis": "92137",
+"region": "Wallonia",
+"nl": "Sambreville",
+"fr": "Sambreville",
+"de": "Sambreville"
+},
+{
+"nis": "63067",
+"region": "Wallonia",
+"nl": "Sankt Vith",
+"fr": "Saint-Vith",
+"de": "Sankt Vith"
+},
+{
+"nis": "55085",
+"region": "Wallonia",
+"nl": "Seneffe",
+"fr": "Seneffe",
+"de": "Seneffe"
+},
+{
+"nis": "62096",
+"region": "Wallonia",
+"nl": "Seraing",
+"fr": "Seraing",
+"de": "Seraing"
+},
+{
+"nis": "56088",
+"region": "Wallonia",
+"nl": "Sivry-Rance",
+"fr": "Sivry-Rance",
+"de": "Sivry-Rance"
+},
+{
+"nis": "92114",
+"region": "Wallonia",
+"nl": "Sombreffe",
+"fr": "Sombreffe",
+"de": "Sombreffe"
+},
+{
+"nis": "91120",
+"region": "Wallonia",
+"nl": "Somme-Leuze",
+"fr": "Somme-Leuze",
+"de": "Somme-Leuze"
+},
+{
+"nis": "62099",
+"region": "Wallonia",
+"nl": "Soumagne",
+"fr": "Soumagne",
+"de": "Soumagne"
+},
+{
+"nis": "63072",
+"region": "Wallonia",
+"nl": "Spa",
+"fr": "Spa",
+"de": "Spa"
+},
+{
+"nis": "62100",
+"region": "Wallonia",
+"nl": "Sprimont",
+"fr": "Sprimont",
+"de": "Sprimont"
+},
+{
+"nis": "63073",
+"region": "Wallonia",
+"nl": "Stavelot",
+"fr": "Stavelot",
+"de": "Stavelot"
+},
+{
+"nis": "63075",
+"region": "Wallonia",
+"nl": "Stoumont",
+"fr": "Stoumont",
+"de": "Stoumont"
+},
+{
+"nis": "84068",
+"region": "Wallonia",
+"nl": "Tellin",
+"fr": "Tellin",
+"de": "Tellin"
+},
+{
+"nis": "83049",
+"region": "Wallonia",
+"nl": "Tenneville",
+"fr": "Tenneville",
+"de": "Tenneville"
+},
+{
+"nis": "25050",
+"region": "Wallonia",
+"nl": "Terhulpen",
+"fr": "La Hulpe",
+"de": "La Hulpe"
+},
+{
+"nis": "63076",
+"region": "Wallonia",
+"nl": "Theux",
+"fr": "Theux",
+"de": "Theux"
+},
+{
+"nis": "63089",
+"region": "Wallonia",
+"nl": "Thimister-Clermont",
+"fr": "Thimister-Clermont",
+"de": "Thimister-Clermont"
+},
+{
+"nis": "56078",
+"region": "Wallonia",
+"nl": "Thuin",
+"fr": "Thuin",
+"de": "Thuin"
+},
+{
+"nis": "61081",
+"region": "Wallonia",
+"nl": "Tinlot",
+"fr": "Tinlot",
+"de": "Tinlot"
+},
+{
+"nis": "85039",
+"region": "Wallonia",
+"nl": "Tintigny",
+"fr": "Tintigny",
+"de": "Tintigny"
+},
+{
+"nis": "63086",
+"region": "Wallonia",
+"nl": "Trois-Ponts",
+"fr": "Trois-Ponts",
+"de": "Trois-Ponts"
+},
+{
+"nis": "62122",
+"region": "Wallonia",
+"nl": "Trooz",
+"fr": "Trooz",
+"de": "Trooz"
+},
+{
+"nis": "25105",
+"region": "Wallonia",
+"nl": "Tubeke",
+"fr": "Tubize",
+"de": "Tubize"
+},
+{
+"nis": "82036",
+"region": "Wallonia",
+"nl": "Vaux-sur-Sûre",
+"fr": "Vaux-sur-Sûre",
+"de": "Vaux-sur-Sûre"
+},
+{
+"nis": "61063",
+"region": "Wallonia",
+"nl": "Verlaine",
+"fr": "Verlaine",
+"de": "Verlaine"
+},
+{
+"nis": "63079",
+"region": "Wallonia",
+"nl": "Verviers",
+"fr": "Verviers",
+"de": "Verviers"
+},
+{
+"nis": "82032",
+"region": "Wallonia",
+"nl": "Vielsalm",
+"fr": "Vielsalm",
+"de": "Vielsalm"
+},
+{
+"nis": "61068",
+"region": "Wallonia",
+"nl": "Villers-Le-Bouillet",
+"fr": "Villers-Le-Bouillet",
+"de": "Villers-Le-Bouillet"
+},
+{
+"nis": "25107",
+"region": "Wallonia",
+"nl": "Villers-la-Ville",
+"fr": "Villers-la-Ville",
+"de": "Villers-la-Ville"
+},
+{
+"nis": "93090",
+"region": "Wallonia",
+"nl": "Viroinval",
+"fr": "Viroinval",
+"de": "Viroinval"
+},
+{
+"nis": "85045",
+"region": "Wallonia",
+"nl": "Virton",
+"fr": "Virton",
+"de": "Virton"
+},
+{
+"nis": "51019",
+"region": "Wallonia",
+"nl": "Vloesberg",
+"fr": "Flobecq",
+"de": "Flobecq"
+},
+{
+"nis": "91143",
+"region": "Wallonia",
+"nl": "Vresse-sur-Semois",
+"fr": "Vresse-sur-Semois",
+"de": "Vresse-sur-Semois"
+},
+{
+"nis": "93088",
+"region": "Wallonia",
+"nl": "Walcourt",
+"fr": "Walcourt",
+"de": "Walcourt"
+},
+{
+"nis": "25124",
+"region": "Wallonia",
+"nl": "Walhain",
+"fr": "Walhain",
+"de": "Walhain"
+},
+{
+"nis": "61072",
+"region": "Wallonia",
+"nl": "Wanze",
+"fr": "Wanze",
+"de": "Wanze"
+},
+{
+"nis": "64075",
+"region": "Wallonia",
+"nl": "Wasseiges",
+"fr": "Wasseiges",
+"de": "Wasseiges"
+},
+{
+"nis": "25110",
+"region": "Wallonia",
+"nl": "Waterloo",
+"fr": "Waterloo",
+"de": "Waterloo"
+},
+{
+"nis": "25112",
+"region": "Wallonia",
+"nl": "Waver",
+"fr": "Wavre",
+"de": "Wavre"
+},
+{
+"nis": "63080",
+"region": "Wallonia",
+"nl": "Weismes",
+"fr": "Waimes",
+"de": "Weismes"
+},
+{
+"nis": "63084",
+"region": "Wallonia",
+"nl": "Welkenraedt",
+"fr": "Welkenraedt",
+"de": "Welkenraedt"
+},
+{
+"nis": "84075",
+"region": "Wallonia",
+"nl": "Wellin",
+"fr": "Wellin",
+"de": "Wellin"
+},
+{
+"nis": "62108",
+"region": "Wallonia",
+"nl": "Wezet",
+"fr": "Visé",
+"de": "Visé"
+},
+{
+"nis": "91141",
+"region": "Wallonia",
+"nl": "Yvoir",
+"fr": "Yvoir",
+"de": "Yvoir"
+},
+{
+"nis": "55040",
+"region": "Wallonia",
+"nl": "Zinnik",
+"fr": "Soignies",
+"de": "Soignies"
+},
+{
+"nis": "55004",
+"region": "Wallonia",
+"nl": "s Gravenbrakel",
+"fr": "Braine-le-Comte",
+"de": "Braine-le-Comte"
+}
+]
