@@ -118,7 +118,7 @@ export default function Benefits() {
         </div>
 
         <p className="text-xs mb-3" style={{ color: c.inkSoft }}>
-          {items.length} {items.length === 1 ? "result" : "results"}
+          {items.length} {t(items.length === 1 ? "resultOne" : "resultMany")}
         </p>
 
         <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
