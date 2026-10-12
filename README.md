@@ -28,9 +28,11 @@ launcher is fixed.
 | **Hosting** | Cloudflare Pages — project `belgium-benefits` | Builds with `npm run build`, serves `dist/`. Free plan, no card on the account. |
 | **DNS** | Cloudflare — zone `belgiumbenefits.be` (free) | Nameservers `braelyn.ns.cloudflare.com`, `brian.ns.cloudflare.com`. |
 | **Domain** | OVHcloud — `belgiumbenefits.be` | Registration only: renews ~Oct each year at €7.89 + VAT. Holder: Onyeka Okwuosa. |
-| **Mail** | OVHcloud Zimbra Starter — `info@belgiumbenefits.be` | Free while the domain stays at OVH. Not yet activated: the holder sets its password in the OVH panel. |
+| **Mail** | OVHcloud Zimbra Starter — `info@belgiumbenefits.be` | Free while the domain stays at OVH. Webmail: <https://webmail.mail.ovh.net/> (not Gmail — it is not a Google account). |
 
-Live at <https://belgium-benefits.pages.dev> (and `belgiumbenefits.be` once attached).
+Live at **<https://belgiumbenefits.be>** (also <https://belgium-benefits.pages.dev>).
+`www.belgiumbenefits.be` and plain `http://` both redirect there permanently, keeping the path and
+query string.
 
 **Publishing a change:** edit → `git add` → `git commit` → `git push`. Cloudflare picks the push
 up within seconds and deploys in about a minute. Nothing else to do.
@@ -40,18 +42,33 @@ design. Change that in GitHub → Settings → Applications → Cloudflare Worke
 
 ### DNS records that must exist in Cloudflare
 
-The mailbox depends on these. They were copied from OVH's zone when DNS moved; if `info@` ever
-stops receiving, check them first.
+The mailbox depends on these. They are what OVH's Zimbra setup wrote into OVH's own zone, read back
+from `ns111.ovh.net` and copied into Cloudflare. **Setting up Zimbra changed the MX records** from
+OVH's defaults, so if Zimbra is ever reconfigured, re-read OVH's zone and compare.
 
-| Type | Name | Value |
-|---|---|---|
-| MX | `@` | `mx1.mail.ovh.net` (priority 1) |
-| MX | `@` | `mx2.mail.ovh.net` (priority 5) |
-| MX | `@` | `mx3.mail.ovh.net` (priority 100) |
-| TXT | `@` | `v=spf1 include:mx.ovh.com -all` |
+| Type | Name | Value | Proxy |
+|---|---|---|---|
+| MX | `@` | `mx0.mail.ovh.net` (priority 1) | DNS only |
+| MX | `@` | `mx1.mail.ovh.net` (priority 5) | DNS only |
+| MX | `@` | `mx2.mail.ovh.net` (priority 50) | DNS only |
+| MX | `@` | `mx3.mail.ovh.net` (priority 100) | DNS only |
+| TXT | `@` | `v=spf1 include:mx.ovh.com ~all` | — |
+| TXT | `_dmarc` | `v=DMARC1; p=quarantine` | — |
+| CNAME | `ovhmo-selector-1._domainkey` | `ovhmo-selector-1._domainkey.4992886.az.dkim.mail.ovh.net` | **DNS only** |
+| CNAME | `ovhmo-selector-2._domainkey` | `ovhmo-selector-2._domainkey.4992887.az.dkim.mail.ovh.net` | **DNS only** |
+| SRV | `_autodiscover._tcp` | `0 0 443 zimbra1.mail.ovh.net` | — |
 
-The site's own record is created by Pages when the custom domain is attached — don't add it by
-hand. (`1|www…` and `3|welcome` TXT records are leftover OVH markers and harmless.)
+The two DKIM records must never be proxied, or signatures fail and mail lands in spam. Verified
+2026-10-12 on a real message in Gmail: **SPF pass, DKIM pass** (`ovhmo-selector-1`), Inbox.
+
+Site records: `@` CNAME `belgium-benefits.pages.dev` (created by Pages when the custom domain was
+attached — don't edit by hand) and `www` CNAME `belgiumbenefits.be`, **proxied**, which exists only
+so the redirect rule below can act on it. `1|www…` / `3|welcome` TXT records are leftover OVH
+markers and harmless.
+
+**Rules → Redirect Rules → "Redirect from WWW to root"**: `https://www.*` → `https://${1}`, 301,
+*Preserve query string* **on** (shared results links carry the visitor's commune in the query).
+**SSL/TLS → Edge Certificates → Always Use HTTPS: on** (without it, `http://www…` returned a 522).
 
 ### Privacy settings that must stay this way
 
