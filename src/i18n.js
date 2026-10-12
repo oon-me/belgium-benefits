@@ -320,12 +320,12 @@ export const translations = {
   },
 };
 
-// Dutch, French and German are all official languages of Belgium, so all three carry the Belgian
-// flag — the Netherlands', France's or Germany's would say the site is about the wrong country.
+// Dutch carries the Belgian flag, not the Netherlands': the site is about Belgium and its Dutch is
+// Flemish. The other languages keep their usual flags.
 export const langOptions = [
   { id: "nl", flag: "🇧🇪" },
-  { id: "fr", flag: "🇧🇪" },
-  { id: "de", flag: "🇧🇪" },
+  { id: "fr", flag: "🇫🇷" },
+  { id: "de", flag: "🇩🇪" },
   { id: "en", flag: "🇬🇧" },
 ];
 
