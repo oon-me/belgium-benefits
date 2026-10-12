@@ -140,6 +140,17 @@
       "Wallonia"
     ],
     "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
     "institution": "FAMIWAL",
     "verified": "18 Sep 2026",
     "status": "verified",
@@ -2114,7 +2125,7 @@
       "Flanders"
     ],
     "communes": [],
-    "institution": "Vlaams Groeipakket (your payment fund)",
+    "institution": "Vlaams Groeipakket",
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/bedragen-en-betaaldata",
@@ -2240,7 +2251,7 @@
       "Bütgenbach",
       "Sankt Vith"
     ],
-    "institution": "FAMIWAL (or your Walloon family allowance fund)",
+    "institution": "FAMIWAL",
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://www.famiwal.be/vos-allocations-familiales/vos-allocations-familiales-de-base",
@@ -2345,7 +2356,7 @@
       "Brussels"
     ],
     "communes": [],
-    "institution": "Famiris (or your Brussels family allowance fund)",
+    "institution": "Famiris",
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://famiris.brussels/en/faq/payments-amounts-of-child-benefits/child-benefit-rates/",
@@ -2565,16 +2576,17 @@
       "Federal"
     ],
     "communes": [],
-    "institution": "Your health insurance fund (ziekenfonds / mutualité) — RIZIV-INAMI",
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-werknemers-en-werklozen",
+    "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/bedragen-en-loonplafonds/werknemers-werklozen/maximumbedrag-van-uw-uitkering-tijdens-uw-moederschapsrust-werkneemster",
     "content": {
       "en": {
         "title": "Maternity Benefit for Employees (Moederschapsuitkering)",
         "desc": "During maternity leave your employer does not pay your salary — your health insurance fund pays a maternity benefit instead, but only once you send them the paperwork. Leave lasts 15 weeks (17 for twins or more). Unemployed? You get it through your fund too. Tip: ask HR whether your employer's group insurance tops up the difference — if it does, ask which form the insurer needs (often one signed by you and your doctor).",
         "deadline": "Send the medical certificate to your fund before your leave starts. At least 1 week before and 9 weeks after the birth are mandatory.",
-        "amount": "82% of your gross salary for 30 days, then 75% (capped)",
+        "amount": "82% of your gross salary for 30 days, then 75% (max. €141.63/day)",
         "requirements": [
           {
             "type": "doc",
@@ -2596,7 +2608,7 @@
         "title": "Moederschapsuitkering voor Werkneemsters",
         "desc": "Tijdens je moederschapsrust betaalt je werkgever je loon niet — je ziekenfonds betaalt een moederschapsuitkering, maar pas als je hen de papieren bezorgt. De rust duurt 15 weken (17 bij een meerling). Werkloos? Ook dan krijg je ze via je ziekenfonds. Tip: vraag aan HR of de groepsverzekering van je werkgever het verschil bijpast — zo ja, vraag welk formulier de verzekeraar nodig heeft (vaak een formulier dat jij en je arts ondertekenen).",
         "deadline": "Bezorg het medisch attest aan je ziekenfonds vóór je rust begint. Minstens 1 week vóór en 9 weken na de bevalling zijn verplicht.",
-        "amount": "82% van je brutoloon gedurende 30 dagen, daarna 75% (begrensd)",
+        "amount": "82% van je brutoloon gedurende 30 dagen, daarna 75% (max. €141,63/dag)",
         "requirements": [
           {
             "type": "doc",
@@ -2618,7 +2630,7 @@
         "title": "Indemnité de Maternité pour Salariées",
         "desc": "Pendant votre congé de maternité, votre employeur ne verse pas votre salaire — c'est votre mutualité qui paie une indemnité de maternité, mais seulement après réception de vos documents. Le congé dure 15 semaines (17 en cas de naissance multiple). Au chômage ? Vous la recevez aussi via votre mutualité. Astuce : demandez aux RH si l'assurance groupe de votre employeur complète la différence — si oui, demandez quel formulaire l'assureur exige (souvent signé par vous et votre médecin).",
         "deadline": "Envoyez le certificat médical à votre mutualité avant le début du congé. Au moins 1 semaine avant et 9 semaines après l'accouchement sont obligatoires.",
-        "amount": "82 % du salaire brut pendant 30 jours, puis 75 % (plafonné)",
+        "amount": "82 % du salaire brut pendant 30 jours, puis 75 % (max. 141,63 €/jour)",
         "requirements": [
           {
             "type": "doc",
@@ -2640,7 +2652,7 @@
         "title": "Mutterschaftsgeld für Arbeitnehmerinnen",
         "desc": "Während des Mutterschaftsurlaubs zahlt Ihr Arbeitgeber kein Gehalt — Ihre Krankenkasse zahlt stattdessen Mutterschaftsgeld, aber erst, wenn Sie ihr die Unterlagen schicken. Der Urlaub dauert 15 Wochen (17 bei Mehrlingen). Arbeitslos? Auch dann erhalten Sie es über Ihre Krankenkasse. Tipp: Fragen Sie die Personalabteilung, ob die Gruppenversicherung Ihres Arbeitgebers die Differenz aufstockt — falls ja, fragen Sie, welches Formular der Versicherer braucht (oft eines, das Sie und Ihr Arzt unterschreiben).",
         "deadline": "Schicken Sie das ärztliche Attest vor Beginn des Urlaubs an Ihre Krankenkasse. Mindestens 1 Woche vor und 9 Wochen nach der Geburt sind Pflicht.",
-        "amount": "82 % des Bruttolohns für 30 Tage, danach 75 % (gedeckelt)",
+        "amount": "82 % des Bruttolohns für 30 Tage, danach 75 % (max. 141,63 €/Tag)",
         "requirements": [
           {
             "type": "doc",
@@ -2670,16 +2682,17 @@
       "Federal"
     ],
     "communes": [],
-    "institution": "Your employer + your health insurance fund (ziekenfonds / mutualité)",
+    "institution": "Werkgever + ziekenfonds / Employeur + mutualité (RIZIV-INAMI)",
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/geboorteverlof-en-adoptieverlof/geboorteverlof-voor-werknemers",
+    "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/bedragen-en-loonplafonds/werknemers-werklozen/maximumbedrag-van-uw-uitkering-tijdens-een-vaderschaps-of-geboorteverlof",
     "content": {
       "en": {
         "title": "Birth Leave for the Partner (Geboorteverlof)",
         "desc": "The father or co-parent may take 20 days of birth leave. Your employer pays the first 3 days in full; your health insurance fund pays the other 17 — but only if you apply to the fund yourself.",
         "deadline": "Take the days within 4 months of the birth. They can be spread out.",
-        "amount": "3 days' full salary + up to 17 days at 82% of gross salary",
+        "amount": "3 days full salary + up to 17 days at 82% (max. €154.71/day)",
         "requirements": [
           {
             "type": "doc",
@@ -2701,7 +2714,7 @@
         "title": "Geboorteverlof voor de Partner",
         "desc": "De vader of meeouder mag 20 dagen geboorteverlof opnemen. Je werkgever betaalt de eerste 3 dagen volledig; je ziekenfonds betaalt de andere 17 — maar enkel als je het zelf aanvraagt bij je ziekenfonds.",
         "deadline": "Neem de dagen op binnen 4 maanden na de bevalling. Je mag ze spreiden.",
-        "amount": "3 dagen volledig loon + tot 17 dagen aan 82% van je brutoloon",
+        "amount": "3 dagen volledig loon + tot 17 dagen aan 82% (max. €154,71/dag)",
         "requirements": [
           {
             "type": "doc",
@@ -2723,7 +2736,7 @@
         "title": "Congé de Naissance pour le Partenaire",
         "desc": "Le père ou co-parent peut prendre 20 jours de congé de naissance. L'employeur paie entièrement les 3 premiers jours ; la mutualité paie les 17 autres — mais seulement si vous en faites vous-même la demande auprès d'elle.",
         "deadline": "Prenez les jours dans les 4 mois qui suivent l'accouchement. Vous pouvez les étaler.",
-        "amount": "3 jours de salaire complet + jusqu'à 17 jours à 82 % du salaire brut",
+        "amount": "3 jours de salaire complet + jusqu’à 17 jours à 82 % (max. 154,71 €/jour)",
         "requirements": [
           {
             "type": "doc",
@@ -2745,7 +2758,7 @@
         "title": "Geburtsurlaub für den Partner",
         "desc": "Der Vater oder Mitelternteil kann 20 Tage Geburtsurlaub nehmen. Der Arbeitgeber zahlt die ersten 3 Tage voll; die Krankenkasse zahlt die übrigen 17 — aber nur, wenn Sie es selbst bei der Kasse beantragen.",
         "deadline": "Nehmen Sie die Tage innerhalb von 4 Monaten nach der Geburt. Sie dürfen sie verteilen.",
-        "amount": "3 Tage voller Lohn + bis zu 17 Tage mit 82 % des Bruttolohns",
+        "amount": "3 Tage voller Lohn + bis zu 17 Tage mit 82 % (max. 154,71 €/Tag)",
         "requirements": [
           {
             "type": "doc",
@@ -2775,10 +2788,11 @@
       "Federal"
     ],
     "communes": [],
-    "institution": "Your health insurance fund + your social insurance fund (self-employed)",
+    "institution": "Ziekenfonds / Mutualité + RSVZ-INASTI",
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-zelfstandigen",
+    "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/bedragen-en-loonplafonds/zelfstandigen/bedrag-van-de-forfaitaire-uitkering-tijdens-uw-moederschapsrust-als-zelfstandige",
     "content": {
       "en": {
         "title": "Maternity Benefit + Free Service Vouchers for Self-Employed Mothers",

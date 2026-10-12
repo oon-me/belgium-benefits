@@ -351,13 +351,33 @@ coefficients), and writes a baseline to `data/source-baseline.json` for change d
 
 **It never edits `benefits.json`.** It tells you what to look at by hand.
 
+Two refinements keep false alarms out: an entry may name an `amount_source_url` when the
+institution publishes its figures on a separate amounts page (RIZIV does), and a figure with cents
+counts as found even without a euro sign next to it, because amount tables put "EUR" in the column
+header. Ranges such as "entre 90 et 6 000 euros" count for both ends.
+
+### Announced changes: `notice`
+
+Optional object on an entry, for a change that has been announced but is not law yet — for
+example the Flemish plan (30 Sep 2026) to pay the startbedrag only for a first child:
+
+```json
+"notice": { "date": "30 Sep 2026", "source_url": "https://…", "text": { "en": "…", "nl": "…", "fr": "…", "de": "…" } }
+```
+
+It shows in small print as "Ter info / For information / Pour info / Zur Info" on the card and
+the detail page, with its date and source. The amounts above it always describe the rules in
+force today. `npm run check` warns once a notice is **30 days** old: by then the change may have
+passed (update the entry, drop the notice), moved, or been dropped.
+
 ### Cadence and owner
 
 | | |
 |---|---|
 | **Owner** | *(unassigned — a single named person)* |
+| **Weekly, automatic** | GitHub Actions (`.github/workflows/data-check.yml`) runs both checks every Monday and opens or updates an issue labelled `data-check` when a figure has vanished from its source, an entry is past its re-check date, or a notice needs follow-up. GitHub emails the owner. It closes the issue when all is clear. |
+| **Monthly** | skim Belgian news for announced changes (budget rounds in September/October, new coalition agreements) and add a `notice` where one affects an entry |
 | **Quarterly** | full manual re-verification of all entries; update `verified` dates |
-| **Monthly** | `npm run check:sources`, investigate anything flagged |
 | **Each release** | `npm run check` must pass with no errors |
 
 Entries older than **90 days** (`STALE_AFTER_DAYS`) show a visible warning on their page telling

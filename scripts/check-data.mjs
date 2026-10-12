@@ -25,6 +25,9 @@ for (const b of benefits) {
   if (!["verified", "community"].includes(b.status)) errors.push(`${at}: bad status "${b.status}"`);
   if (b.status === "community" && !b.note) errors.push(`${at}: community entry without a note`);
   if (!/^https:\/\//.test(b.source_url ?? "")) errors.push(`${at}: source_url must be https`);
+  if (b.amount_source_url !== undefined && !/^https:\/\//.test(b.amount_source_url)) {
+    errors.push(`${at}: amount_source_url must be https`);
+  }
   if (!/^\d{1,2} \w{3} \d{4}$/.test(b.verified ?? "")) errors.push(`${at}: verified must be "DD Mon YYYY"`);
   // Amounts are indexed several times a year; an entry nobody has re-checked is a liability.
   const age = ageInDays(b.verified);

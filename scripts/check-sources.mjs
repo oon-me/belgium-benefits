@@ -45,6 +45,12 @@ function extractAmounts(text) {
     new RegExp(`(${NUM})\\s*€`, "g"),
     new RegExp(`(${NUM})\\s*(?:EUR|euro)`, "gi"),
   ];
+  // "entre 90 et 6 000 euros": the currency sign belongs to both ends of the range.
+  const range = new RegExp(`(${NUM})\\s*(?:et|en|and|und|à|tot|bis|-|–)\\s*(?:${NUM})\\s*(?:€|EUR|euro)`, "gi");
+  for (const m of text.matchAll(range)) {
+    const value = parseAmount(m[1]);
+    if (Number.isFinite(value) && value >= 10) found.add(Math.round(value * 100) / 100);
+  }
   for (const re of patterns) {
     for (const m of text.matchAll(re)) {
       const value = parseAmount(m[1]);
@@ -53,6 +59,17 @@ function extractAmounts(text) {
     }
   }
   return found;
+}
+
+// Amount tables often put "EUR" in the column header and bare numbers in the cells. A figure with
+// cents ("141,63") appearing bare is still strong evidence; a round one ("20") is not, so only
+// figures with cents get this second chance.
+function appearsBare(value, text) {
+  if (Number.isInteger(value)) return false;
+  const [int, cents] = value.toFixed(2).split(".");
+  const grouped = (sep) => int.replace(/\B(?=(\d{3})+(?!\d))/g, sep);
+  const forms = [`${int},${cents}`, `${int}.${cents}`, `${grouped(".")},${cents}`, `${grouped(",")}.${cents}`, `${grouped(" ")},${cents}`];
+  return forms.some((f) => new RegExp(`(?<![\\d.,])${f.replace(/\./g, "\\.")}(?![\\d])`).test(text));
 }
 
 function htmlToText(html) {
@@ -105,7 +122,9 @@ for (const b of targets) {
     for (const v of extractAmounts(b.content[lang].amount)) claimed.add(v);
   }
 
-  const { text, error } = await fetchText(b.source_url);
+  // The page we link visitors to explains how to apply; some institutions publish the figures on a
+  // separate amounts page, so an entry can name that page for this check instead.
+  const { text, error } = await fetchText(b.amount_source_url || b.source_url);
   await new Promise((r) => setTimeout(r, DELAY_MS));
 
   if (error) {
@@ -119,7 +138,7 @@ for (const b of targets) {
   }
 
   const onPage = extractAmounts(text);
-  const missing = [...claimed].filter((v) => !onPage.has(v));
+  const missing = [...claimed].filter((v) => !onPage.has(v) && !appearsBare(v, text));
   const prev = baseline[b.id];
 
   results.push({
