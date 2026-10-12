@@ -1,0 +1,6 @@
+# How to report a security problem with belgiumbenefits.be (RFC 9116).
+# Expires must be renewed before it passes — see README, "Security".
+Contact: mailto:info@belgiumbenefits.be
+Expires: 2027-10-01T00:00:00.000Z
+Preferred-Languages: en, nl, fr, de
+Canonical: https://belgiumbenefits.be/.well-known/security.txt
