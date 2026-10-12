@@ -3189,5 +3189,961 @@
         ]
       }
     }
+  },
+  {
+    "id": 31,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "health_funds": [
+      "cm"
+    ],
+    "institution": "CM (Christelijke Mutualiteit)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.cm.be/nl/diensten-en-voordelen/cm-groeibudget/geboortevoordelen-en-babygeschenk",
+    "content": {
+      "en": {
+        "title": "CM Birth Gift (CM-Groeibudget)",
+        "desc": "For births from 2026, each parent who is a CM member chooses one gift: a €260 premium, Dreambaby vouchers worth €180 plus a €130 premium, or a 50% voucher for a Maxi-Cosi buggy and car seat worth €850. If both parents are members you both choose — two buggy vouchers make the buggy and car seat completely free. Single parents get their choice twice.",
+        "deadline": "After the birth (or adoption/long-term foster care of a child under 2). Make your choice within the period CM gives you.",
+        "amount": "€260 per parent, or a buggy + car seat worth €850",
+        "steps": [
+          "Send the birth certificate to CM via Mijn CM, the Mijn CM app or a CM letterbox",
+          "Choose your gift: premium, Dreambaby vouchers + premium, or the buggy and car seat voucher",
+          "A premium goes to your bank account; vouchers arrive digitally (order the buggy at the Goed zorgwinkel webshop)"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "CM-Babygeschenk (CM-Groeibudget)",
+        "desc": "Voor geboortes vanaf 2026 kiest elke ouder die CM-lid is één cadeau: een premie van €260, Dreambaby-cadeaubonnen van €180 plus een premie van €130, of een cadeaubon van 50% korting op een Maxi-Cosi-buggy en -autostoel t.w.v. €850. Zijn beide ouders lid, dan kiezen jullie allebei — met twee bonnen zijn buggy en autostoel volledig gratis. Alleenstaanden krijgen hun keuze dubbel.",
+        "deadline": "Na de geboorte (of adoptie/langdurige pleegzorg van een kindje jonger dan 2). Maak je keuze binnen de termijn die CM geeft.",
+        "amount": "€260 per ouder, of buggy + autostoel t.w.v. €850",
+        "steps": [
+          "Bezorg de geboorteakte aan CM via Mijn CM, de Mijn CM-app of een CM-brievenbus",
+          "Kies je cadeau: premie, Dreambaby-bonnen + premie, of de bon voor buggy en autostoel",
+          "Een premie komt op je rekening; bonnen ontvang je digitaal (bestel de buggy in de webshop van Goed zorgwinkel)"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Cadeau de naissance CM (CM-Groeibudget)",
+        "desc": "Pour les naissances à partir de 2026, chaque parent membre de la CM (mutualité flamande) choisit un cadeau : une prime de 260 €, des bons Dreambaby de 180 € plus une prime de 130 €, ou un bon de 50 % sur une poussette et un siège-auto Maxi-Cosi d'une valeur de 850 €. Si les deux parents sont membres, chacun choisit — avec deux bons, poussette et siège-auto sont entièrement gratuits. Les parents seuls reçoivent leur choix en double.",
+        "deadline": "Après la naissance (ou l'adoption/l'accueil durable d'un enfant de moins de 2 ans). Faites votre choix dans le délai indiqué par la CM.",
+        "amount": "260 € par parent, ou poussette + siège-auto d'une valeur de 850 €",
+        "steps": [
+          "Envoyez l'acte de naissance à la CM via Mijn CM, l'app Mijn CM ou une boîte aux lettres CM",
+          "Choisissez votre cadeau : prime, bons Dreambaby + prime, ou le bon poussette et siège-auto",
+          "La prime est versée sur votre compte ; les bons arrivent en ligne (commandez la poussette sur la boutique Goed zorgwinkel)"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "CM-Geburtsgeschenk (CM-Groeibudget)",
+        "desc": "Für Geburten ab 2026 wählt jeder Elternteil, der Mitglied der CM (flämische Krankenkasse) ist, ein Geschenk: eine Prämie von 260 €, Dreambaby-Gutscheine über 180 € plus 130 € Prämie, oder einen 50-%-Gutschein für einen Maxi-Cosi-Buggy und -Autositz im Wert von 850 €. Sind beide Eltern Mitglied, wählen beide — mit zwei Gutscheinen sind Buggy und Autositz ganz gratis. Alleinerziehende erhalten ihre Wahl doppelt.",
+        "deadline": "Nach der Geburt (oder Adoption/dauerhafter Pflege eines Kindes unter 2). Treffen Sie Ihre Wahl in der Frist, die die CM nennt.",
+        "amount": "260 € pro Elternteil, oder Buggy + Autositz im Wert von 850 €",
+        "steps": [
+          "Schicken Sie die Geburtsurkunde über Mijn CM, die Mijn-CM-App oder einen CM-Briefkasten",
+          "Wählen Sie Ihr Geschenk: Prämie, Dreambaby-Gutscheine + Prämie oder den Gutschein für Buggy und Autositz",
+          "Die Prämie kommt aufs Konto; Gutscheine erhalten Sie digital (Buggy im Webshop von Goed zorgwinkel bestellen)"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 32,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia",
+      "Brussels"
+    ],
+    "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "health_funds": [
+      "cm"
+    ],
+    "institution": "MC (Mutualité chrétienne)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.mc.be/fr/avantages-remboursements/prime-de-naissance-et-cadeau-grossesse",
+    "content": {
+      "en": {
+        "title": "MC Birth Premium + Pregnancy Gift",
+        "desc": "The Mutualité chrétienne gives a €350 birth or adoption premium, plus a pregnancy gift: a Doomoo nursing pillow or a €55 Qualias voucher. You must be a member and up to date with your contributions.",
+        "deadline": "Pregnancy gift: declare your pregnancy from the 4th month. Birth premium: paid once your baby is registered with the MC.",
+        "amount": "€350 premium + €55 pregnancy gift",
+        "steps": [
+          "From the 4th month, fill in the MC's online form with a pregnancy certificate to get the pregnancy gift",
+          "After the birth, register your baby with the MC (Ma MC or the online form) with the birth certificate",
+          "The €350 premium is then paid automatically to the account of the parent the child is registered with"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "MC-Geboortepremie + Zwangerschapscadeau",
+        "desc": "De Mutualité chrétienne (Franstalige CM) geeft een geboorte- of adoptiepremie van €350, plus een zwangerschapscadeau: een Doomoo-voedingskussen of een Qualias-bon van €55. Je moet lid zijn en in orde met je bijdrage.",
+        "deadline": "Zwangerschapscadeau: meld je zwangerschap vanaf de 4de maand. Geboortepremie: betaald zodra je baby bij de MC is ingeschreven.",
+        "amount": "€350 premie + €55 zwangerschapscadeau",
+        "steps": [
+          "Vul vanaf de 4de maand het onlineformulier van de MC in met een zwangerschapsattest voor het zwangerschapscadeau",
+          "Schrijf na de geboorte je baby in bij de MC (Ma MC of het onlineformulier) met de geboorteakte",
+          "De premie van €350 wordt dan automatisch gestort op de rekening van de ouder bij wie het kind is ingeschreven"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Prime de Naissance MC + Cadeau Grossesse",
+        "desc": "La Mutualité chrétienne offre une prime de naissance ou d'adoption de 350 €, plus un cadeau grossesse : un coussin d'allaitement Doomoo ou un bon Qualias de 55 €. Il faut être affilié et en ordre de cotisation.",
+        "deadline": "Cadeau grossesse : déclarez votre grossesse dès le 4e mois. Prime de naissance : versée dès que bébé est inscrit à la MC.",
+        "amount": "Prime de 350 € + cadeau grossesse de 55 €",
+        "steps": [
+          "Dès le 4e mois, remplissez le formulaire en ligne de la MC avec une attestation de grossesse pour le cadeau grossesse",
+          "Après la naissance, inscrivez bébé à la MC (Ma MC ou le formulaire en ligne) avec l'acte de naissance",
+          "La prime de 350 € est alors versée automatiquement sur le compte du titulaire de l'enfant"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "MC-Geburtsprämie + Schwangerschaftsgeschenk",
+        "desc": "Die Mutualité chrétienne (französischsprachige CM) zahlt eine Geburts- oder Adoptionsprämie von 350 € und schenkt in der Schwangerschaft ein Doomoo-Stillkissen oder einen Qualias-Gutschein über 55 €. Sie müssen Mitglied und mit Ihren Beiträgen in Ordnung sein.",
+        "deadline": "Schwangerschaftsgeschenk: Schwangerschaft ab dem 4. Monat melden. Geburtsprämie: gezahlt, sobald das Baby bei der MC eingeschrieben ist.",
+        "amount": "350 € Prämie + 55 € Schwangerschaftsgeschenk",
+        "steps": [
+          "Füllen Sie ab dem 4. Monat das Online-Formular der MC mit einer Schwangerschaftsbescheinigung aus",
+          "Schreiben Sie Ihr Baby nach der Geburt bei der MC ein (Ma MC oder Online-Formular) mit der Geburtsurkunde",
+          "Die 350 € werden dann automatisch auf das Konto des Elternteils gezahlt, bei dem das Kind eingeschrieben ist"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 33,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "health_funds": [
+      "solidaris"
+    ],
+    "institution": "Solidaris (Antwerpen, Limburg, Oost- en West-Vlaanderen)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.solidaris-vlaanderen.be/geboortepremie-en-voordelen",
+    "content": {
+      "en": {
+        "title": "Solidaris Birth Gift: Buggy or Premium",
+        "desc": "With both parents at Solidaris (Antwerpen, Limburg, Oost- or West-Vlaanderen) you choose: a Cybex buggy with carrycot and car seat (worth €759.90), €650 in the online birth shop, a €500 premium, or €325 in the shop plus a €250 premium. With one parent a member: 50% off the buggy, €325 in the shop, or €250. Single parents get the two-parent choice. Further gifts follow at 3 months, 1 year and 3 years.",
+        "deadline": "After the birth. Both parents must be members at the time of the birth to get the two-parent choice.",
+        "amount": "Buggy worth €759.90, or a €500 premium (both parents members)",
+        "steps": [
+          "Make an appointment at a Solidaris office",
+          "Bring the birth certificate (single parents also sign a sworn statement)",
+          "Choose your gift during the appointment; around the first birthday Solidaris writes to you about the next gift"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Solidaris-Geboortegeschenk: Buggy of Premie",
+        "desc": "Zijn beide ouders lid van Solidaris (Antwerpen, Limburg, Oost- of West-Vlaanderen), dan kies je: een Cybex-buggy met draagmand en autostoel (t.w.v. €759,90), €650 in de online geboorteshop, een premie van €500, of €325 in de shop plus €250 premie. Is één ouder lid: 50% korting op de buggy, €325 in de shop of €250. Solo-ouders krijgen de keuze voor 2 ouders. Na 3 maanden, 1 jaar en 3 jaar volgen nog cadeaus.",
+        "deadline": "Na de geboorte. Beide ouders moeten lid zijn op het moment van de geboorte voor de keuze voor 2 ouders.",
+        "amount": "Buggy t.w.v. €759,90, of een premie van €500 (beide ouders lid)",
+        "steps": [
+          "Maak een afspraak in een Solidaris-kantoor",
+          "Breng de geboorteakte mee (solo-ouders vullen ook een verklaring op eer in)",
+          "Kies je cadeau tijdens de afspraak; rond de eerste verjaardag krijg je een brief over het volgende cadeau"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Cadeau de Naissance Solidaris (Flandre) : Poussette ou Prime",
+        "desc": "Si les deux parents sont membres de Solidaris (Anvers, Limbourg, Flandre-Orientale ou Occidentale), vous choisissez : une poussette Cybex avec nacelle et siège-auto (valeur 759,90 €), 650 € dans la boutique de naissance en ligne, une prime de 500 €, ou 325 € dans la boutique plus une prime de 250 €. Avec un seul parent membre : 50 % sur la poussette, 325 € en boutique ou 250 €. Les parents seuls ont le choix « deux parents ». D'autres cadeaux suivent à 3 mois, 1 an et 3 ans.",
+        "deadline": "Après la naissance. Les deux parents doivent être membres au moment de la naissance pour le choix « deux parents ».",
+        "amount": "Poussette d'une valeur de 759,90 €, ou prime de 500 € (deux parents membres)",
+        "steps": [
+          "Prenez rendez-vous dans un bureau Solidaris",
+          "Apportez l'acte de naissance (les parents seuls signent aussi une déclaration sur l'honneur)",
+          "Choisissez votre cadeau lors du rendez-vous ; vers le premier anniversaire, Solidaris vous écrit pour le cadeau suivant"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "Solidaris-Geburtsgeschenk (Flandern): Buggy oder Prämie",
+        "desc": "Sind beide Eltern Mitglied bei Solidaris (Antwerpen, Limburg, Ost- oder Westflandern), wählen Sie: einen Cybex-Buggy mit Tragewanne und Autositz (Wert 759,90 €), 650 € im Online-Geburtsshop, eine Prämie von 500 € oder 325 € im Shop plus 250 € Prämie. Ist ein Elternteil Mitglied: 50 % Rabatt auf den Buggy, 325 € im Shop oder 250 €. Alleinerziehende erhalten die Wahl für zwei Eltern. Weitere Geschenke folgen mit 3 Monaten, 1 Jahr und 3 Jahren.",
+        "deadline": "Nach der Geburt. Beide Eltern müssen bei der Geburt Mitglied sein, um die Wahl für zwei Eltern zu erhalten.",
+        "amount": "Buggy im Wert von 759,90 € oder 500 € Prämie (beide Eltern Mitglied)",
+        "steps": [
+          "Vereinbaren Sie einen Termin in einem Solidaris-Büro",
+          "Bringen Sie die Geburtsurkunde mit (Alleinerziehende unterschreiben auch eine ehrenwörtliche Erklärung)",
+          "Wählen Sie Ihr Geschenk beim Termin; um den ersten Geburtstag schreibt Solidaris Ihnen zum nächsten Geschenk"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 34,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "health_funds": [
+      "solidaris"
+    ],
+    "institution": "Solidaris Wallonie",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.solidaris-wallonie.be/avantages/naissance-et-adoption/",
+    "content": {
+      "en": {
+        "title": "Solidaris Wallonie Birth Premium",
+        "desc": "Solidaris Wallonie pays a €400 birth or adoption premium, plus €50 towards nappies on your child's 1st and 2nd birthdays. You must be up to date with your supplementary-insurance contribution.",
+        "deadline": "After the birth or adoption.",
+        "amount": "€400 premium + €50 for nappies at age 1 and 2",
+        "steps": [
+          "Send Solidaris the birth certificate (for adoption: the civil-registry transcription or the FPS Justice certificate)",
+          "Make sure your supplementary-insurance contribution is paid",
+          "The premium is paid to your account; the nappy allowance follows at the 1st and 2nd birthdays"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Geboortepremie Solidaris Wallonie",
+        "desc": "Solidaris Wallonie betaalt een geboorte- of adoptiepremie van €400, plus €50 voor luiers op de 1ste en 2de verjaardag van je kind. Je moet in orde zijn met je bijdrage voor de aanvullende verzekering.",
+        "deadline": "Na de geboorte of adoptie.",
+        "amount": "€400 premie + €50 voor luiers op 1 en 2 jaar",
+        "steps": [
+          "Bezorg Solidaris de geboorteakte (bij adoptie: de overschrijving in de burgerlijke stand of het attest van de FOD Justitie)",
+          "Zorg dat je bijdrage voor de aanvullende verzekering betaald is",
+          "De premie wordt op je rekening gestort; de luiertegemoetkoming volgt op de 1ste en 2de verjaardag"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Prime de Naissance Solidaris Wallonie",
+        "desc": "Solidaris Wallonie verse une prime de naissance ou d'adoption de 400 €, plus 50 € pour les langes au 1er et au 2e anniversaire de l'enfant. Il faut être en ordre de cotisation complémentaire.",
+        "deadline": "Après la naissance ou l'adoption.",
+        "amount": "Prime de 400 € + 50 € de langes à 1 et 2 ans",
+        "steps": [
+          "Envoyez à Solidaris l'acte de naissance (adoption : la transcription à l'état civil ou l'attestation du SPF Justice)",
+          "Vérifiez que votre cotisation complémentaire est en ordre",
+          "La prime est versée sur votre compte ; l'intervention langes suit au 1er et au 2e anniversaire"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "Geburtsprämie Solidaris Wallonie",
+        "desc": "Solidaris Wallonie zahlt eine Geburts- oder Adoptionsprämie von 400 € sowie 50 € für Windeln zum 1. und 2. Geburtstag des Kindes. Sie müssen Ihren Beitrag für die Zusatzversicherung bezahlt haben.",
+        "deadline": "Nach der Geburt oder Adoption.",
+        "amount": "400 € Prämie + 50 € für Windeln mit 1 und 2 Jahren",
+        "steps": [
+          "Schicken Sie Solidaris die Geburtsurkunde (Adoption: die Umschreibung im Standesamt oder die Bescheinigung des FÖD Justiz)",
+          "Achten Sie darauf, dass Ihr Beitrag zur Zusatzversicherung bezahlt ist",
+          "Die Prämie wird überwiesen; der Windelzuschuss folgt zum 1. und 2. Geburtstag"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 35,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "health_funds": [
+      "independent"
+    ],
+    "institution": "Helan",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.helan.be/nl/ons-aanbod/ziekenfonds/voordelen-en-terugbetalingen/babypremie/",
+    "content": {
+      "en": {
+        "title": "Helan Baby Premium",
+        "desc": "Helan pays a €150 birth premium per member parent — €300 if both parents are members — plus, for births from 1 January 2026, a one-off €200 breastfeeding premium. You must be up to date with your contributions.",
+        "deadline": "After the birth. For the breastfeeding premium you must already be a member at the time of the birth.",
+        "amount": "Up to €500: €300 birth premium + €200 breastfeeding premium",
+        "steps": [
+          "Register the birth with your municipality and get a copy of the birth certificate",
+          "Send it to Helan via your login, by post or in a Helan letterbox — the birth premium goes to your account",
+          "For the breastfeeding premium, have the form filled in by your midwife, doctor, nurse or Opgroeien and submit it via Mijn Helan"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Helan-Babypremie",
+        "desc": "Helan betaalt een geboortepremie van €150 per aangesloten ouder — €300 als beide ouders lid zijn — plus, voor geboortes vanaf 1 januari 2026, een eenmalige borstvoedingspremie van €200. Je moet in orde zijn met je bijdrage.",
+        "deadline": "Na de geboorte. Voor de borstvoedingspremie moet je al lid zijn op het moment van de geboorte.",
+        "amount": "Tot €500: €300 geboortepremie + €200 borstvoedingspremie",
+        "steps": [
+          "Geef de geboorte aan bij je gemeente en vraag een kopie van de geboorteakte",
+          "Bezorg die aan Helan via je login, per post of in een Helan-brievenbus — de geboortepremie komt op je rekening",
+          "Laat voor de borstvoedingspremie het formulier invullen door je vroedvrouw, arts, verpleegkundige of Opgroeien en dien het in via Mijn Helan"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Prime Bébé Helan",
+        "desc": "Helan (mutualité indépendante, Flandre et Bruxelles) verse une prime de naissance de 150 € par parent affilié — 300 € si les deux parents le sont — plus, pour les naissances à partir du 1er janvier 2026, une prime d'allaitement unique de 200 €. Il faut être en ordre de cotisation.",
+        "deadline": "Après la naissance. Pour la prime d'allaitement, vous devez déjà être affiliée au moment de la naissance.",
+        "amount": "Jusqu'à 500 € : prime de naissance de 300 € + prime d'allaitement de 200 €",
+        "steps": [
+          "Déclarez la naissance à votre commune et obtenez une copie de l'acte de naissance",
+          "Envoyez-la à Helan via votre compte, par la poste ou dans une boîte aux lettres Helan — la prime est versée sur votre compte",
+          "Pour la prime d'allaitement, faites remplir le formulaire par votre sage-femme, médecin, infirmière ou Opgroeien et envoyez-le via Mijn Helan"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "Helan-Babyprämie",
+        "desc": "Helan (unabhängige Krankenkasse, Flandern und Brüssel) zahlt 150 € Geburtsprämie pro versichertem Elternteil — 300 €, wenn beide Mitglied sind — und für Geburten ab dem 1. Januar 2026 eine einmalige Stillprämie von 200 €. Sie müssen mit Ihren Beiträgen in Ordnung sein.",
+        "deadline": "Nach der Geburt. Für die Stillprämie müssen Sie bei der Geburt bereits Mitglied sein.",
+        "amount": "Bis zu 500 €: 300 € Geburtsprämie + 200 € Stillprämie",
+        "steps": [
+          "Melden Sie die Geburt bei der Gemeinde an und lassen Sie sich eine Kopie der Geburtsurkunde geben",
+          "Schicken Sie sie über Ihr Login, per Post oder in einen Helan-Briefkasten — die Prämie wird überwiesen",
+          "Für die Stillprämie lassen Sie das Formular von Hebamme, Arzt, Pflegekraft oder Opgroeien ausfüllen und reichen es über Mijn Helan ein"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 36,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia",
+      "Brussels"
+    ],
+    "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "health_funds": [
+      "independent"
+    ],
+    "institution": "Partenamut",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.partenamut.be/fr/remboursements-avantages/maternite-et-adoption/prime-naissance",
+    "content": {
+      "en": {
+        "title": "Partenamut Birth Premium or Maxi-Cosi Voucher",
+        "desc": "For each birth or adoption, Partenamut lets you choose between a €350 premium and a €500 Maxi-Cosi voucher (car seats, buggies, high chairs and more). It goes to the parent who registers the child as a dependant.",
+        "deadline": "After you declare the birth you have 2 weeks to choose — otherwise the €350 premium is paid by default. The voucher is valid for 1 year.",
+        "amount": "€350 premium or a €500 Maxi-Cosi voucher",
+        "steps": [
+          "Declare the birth to Partenamut and register the child as your dependant, with the birth certificate",
+          "Partenamut emails or writes to you: reply within 2 weeks with your choice",
+          "The premium goes to your account; the voucher arrives as a promo code for the Maxi-Cosi website (usable once)"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Partenamut: Geboortepremie of Maxi-Cosi-Bon",
+        "desc": "Bij elke geboorte of adoptie laat Partenamut je kiezen tussen een premie van €350 en een Maxi-Cosi-bon van €500 (autostoelen, buggy's, kinderstoelen en meer). Het gaat naar de ouder die het kind als persoon ten laste inschrijft.",
+        "deadline": "Na het aangeven van de geboorte heb je 2 weken om te kiezen — anders wordt standaard de premie van €350 betaald. De bon is 1 jaar geldig.",
+        "amount": "€350 premie of een Maxi-Cosi-bon van €500",
+        "steps": [
+          "Geef de geboorte aan bij Partenamut en schrijf het kind in als persoon ten laste, met de geboorteakte",
+          "Partenamut mailt of schrijft je: antwoord binnen 2 weken met je keuze",
+          "De premie komt op je rekening; de bon ontvang je als promocode voor de Maxi-Cosi-website (eenmalig te gebruiken)"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Partenamut : Prime de Naissance ou Bon Maxi-Cosi",
+        "desc": "Pour chaque naissance ou adoption, Partenamut vous laisse choisir entre une prime de 350 € et un bon Maxi-Cosi de 500 € (sièges-auto, poussettes, chaises hautes, etc.). Il revient au parent qui inscrit l'enfant à sa charge.",
+        "deadline": "Après la déclaration de la naissance, vous avez 2 semaines pour choisir — sinon la prime de 350 € est versée par défaut. Le bon est valable 1 an.",
+        "amount": "Prime de 350 € ou bon Maxi-Cosi de 500 €",
+        "steps": [
+          "Déclarez la naissance à Partenamut et inscrivez l'enfant à votre charge, avec l'acte de naissance",
+          "Partenamut vous envoie un e-mail ou un courrier : répondez dans les 2 semaines avec votre choix",
+          "La prime est versée sur votre compte ; le bon arrive sous forme de code promo pour le site Maxi-Cosi (utilisable une fois)"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "Partenamut: Geburtsprämie oder Maxi-Cosi-Gutschein",
+        "desc": "Bei jeder Geburt oder Adoption wählen Sie bei Partenamut zwischen 350 € Prämie und einem Maxi-Cosi-Gutschein über 500 € (Autositze, Buggys, Hochstühle usw.). Er geht an den Elternteil, der das Kind als Person zu Lasten einschreibt.",
+        "deadline": "Nach der Meldung der Geburt haben Sie 2 Wochen Zeit — sonst werden standardmäßig 350 € gezahlt. Der Gutschein gilt 1 Jahr.",
+        "amount": "350 € Prämie oder 500-€-Gutschein von Maxi-Cosi",
+        "steps": [
+          "Melden Sie die Geburt bei Partenamut und schreiben Sie das Kind als Person zu Lasten ein, mit der Geburtsurkunde",
+          "Partenamut schreibt Ihnen: Antworten Sie innerhalb von 2 Wochen mit Ihrer Wahl",
+          "Die Prämie wird überwiesen; der Gutschein kommt als Promocode für die Maxi-Cosi-Website (einmal nutzbar)"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 37,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "health_funds": [
+      "liberal"
+    ],
+    "institution": "Liberale Mutualiteit (LM)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.lm-ml.be/nl/voordelen-en-diensten/lm-mutplusbe-geboorte-en-adoptiepremie",
+    "amount_source_url": [
+      "https://www.lm-ml.be/nl/voordelen-en-diensten/lm-mutplusbe-geboorte-en-adoptiepremie",
+      "https://www.lm-ml.be/nl/voordelen-en-diensten/lm-oost-vlaanderen-geboortepremie"
+    ],
+    "content": {
+      "en": {
+        "title": "Liberale Mutualiteit Birth Premium or Voucher",
+        "desc": "The amount depends on your LM fund. At LM MUTPLUS.be and LM Plus, for births from 2026, each member parent chooses a €140 premium or a €270 voucher for the LM care shop (valid 2 years). At LM Oost-Vlaanderen each member parent gets €100 plus a €170 birth voucher. Another LM fund? Ask your office.",
+        "deadline": "After the birth. You must be a member at the time of the birth and up to date with your contribution.",
+        "amount": "€140 per parent or a €270 voucher (LM Oost-Vlaanderen: €100 + €170 voucher)",
+        "steps": [
+          "Bring your child's birth certificate to your local LM office",
+          "Each member parent chooses the premium or the voucher",
+          "The premium goes to your account; the voucher can be used in the LM care shop for 2 years"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Geboortepremie of Geboortebon Liberale Mutualiteit",
+        "desc": "Het bedrag hangt af van je LM-ziekenfonds. Bij LM MUTPLUS.be en LM Plus kiest elke aangesloten ouder voor geboortes vanaf 2026 een premie van €140 of een bon van €270 voor de LM-zorgwinkel (2 jaar geldig). Bij LM Oost-Vlaanderen krijgt elke aangesloten ouder €100 plus een geboortebon van €170. Ander LM-fonds? Vraag het aan je kantoor.",
+        "deadline": "Na de geboorte. Je moet lid zijn op het moment van de geboorte en in orde met je bijdrage.",
+        "amount": "€140 per ouder of een bon van €270 (LM Oost-Vlaanderen: €100 + bon van €170)",
+        "steps": [
+          "Breng de geboorteakte van je kind naar je LM-kantoor",
+          "Elke aangesloten ouder kiest de premie of de bon",
+          "De premie komt op je rekening; de bon gebruik je 2 jaar lang in de LM-zorgwinkel"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Prime ou Bon de Naissance Liberale Mutualiteit (Flandre)",
+        "desc": "Le montant dépend de votre caisse LM. Chez LM MUTPLUS.be et LM Plus, pour les naissances à partir de 2026, chaque parent affilié choisit une prime de 140 € ou un bon de 270 € pour le magasin de soins LM (valable 2 ans). Chez LM Oost-Vlaanderen, chaque parent affilié reçoit 100 € plus un bon de naissance de 170 €. Autre caisse LM ? Renseignez-vous à votre bureau.",
+        "deadline": "Après la naissance. Vous devez être affilié au moment de la naissance et en ordre de cotisation.",
+        "amount": "140 € par parent ou un bon de 270 € (LM Oost-Vlaanderen : 100 € + bon de 170 €)",
+        "steps": [
+          "Apportez l'acte de naissance de votre enfant à votre bureau LM",
+          "Chaque parent affilié choisit la prime ou le bon",
+          "La prime est versée sur votre compte ; le bon s'utilise pendant 2 ans au magasin de soins LM"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "Geburtsprämie oder -gutschein der Liberale Mutualiteit (Flandern)",
+        "desc": "Der Betrag hängt von Ihrer LM-Kasse ab. Bei LM MUTPLUS.be und LM Plus wählt jeder versicherte Elternteil für Geburten ab 2026 eine Prämie von 140 € oder einen Gutschein über 270 € für den LM-Pflegeladen (2 Jahre gültig). Bei LM Oost-Vlaanderen erhält jeder versicherte Elternteil 100 € plus einen Geburtsgutschein über 170 €. Andere LM-Kasse? Fragen Sie Ihr Büro.",
+        "deadline": "Nach der Geburt. Sie müssen bei der Geburt Mitglied und mit Ihrem Beitrag in Ordnung sein.",
+        "amount": "140 € pro Elternteil oder 270-€-Gutschein (LM Oost-Vlaanderen: 100 € + 170-€-Gutschein)",
+        "steps": [
+          "Bringen Sie die Geburtsurkunde Ihres Kindes zu Ihrem LM-Büro",
+          "Jeder versicherte Elternteil wählt Prämie oder Gutschein",
+          "Die Prämie wird überwiesen; den Gutschein nutzen Sie 2 Jahre im LM-Pflegeladen"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 38,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia",
+      "Brussels"
+    ],
+    "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "health_funds": [
+      "liberal"
+    ],
+    "institution": "Mutualité Libérale (ML)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.lm-ml.be/fr/avantages-et-services/ml-hainaut-namur-naissance",
+    "amount_source_url": [
+      "https://www.lm-ml.be/fr/avantages-et-services/ml-hainaut-namur-naissance",
+      "https://www.lm-ml.be/fr/avantages-et-services/ml-liege-luxembourg-prime-de-naissance-ou-dadoption",
+      "https://www.lm-ml.be/fr/avantages-et-services/ml-mutplusbe-prime-de-naissance-ou-bon-cadeau"
+    ],
+    "content": {
+      "en": {
+        "title": "Mutualité Libérale Birth Premium",
+        "desc": "The amount depends on your ML fund. ML Hainaut-Namur: €470 per child if both parents are members, €235 if one is. ML Liège-Luxembourg: €360 per child. ML MUTPLUS.be: €140 per member parent or a €270 voucher (births from 2026). Another ML fund? Ask your office. You must be up to date with your supplementary contribution.",
+        "deadline": "After the birth or adoption. Parents must be members on the day of the birth.",
+        "amount": "€140 to €470, depending on your ML fund",
+        "steps": [
+          "Register your child with your ML fund",
+          "Hand in the birth certificate extract from your municipality",
+          "The premium (or voucher) follows from your fund"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Geboortepremie Mutualité Libérale",
+        "desc": "Het bedrag hangt af van je ML-ziekenfonds. ML Hainaut-Namur: €470 per kind als beide ouders lid zijn, €235 als één ouder lid is. ML Liège-Luxembourg: €360 per kind. ML MUTPLUS.be: €140 per aangesloten ouder of een bon van €270 (geboortes vanaf 2026). Ander ML-fonds? Vraag het aan je kantoor. Je moet in orde zijn met je aanvullende bijdrage.",
+        "deadline": "Na de geboorte of adoptie. De ouders moeten lid zijn op de dag van de geboorte.",
+        "amount": "€140 tot €470, afhankelijk van je ML-fonds",
+        "steps": [
+          "Schrijf je kind in bij je ML-ziekenfonds",
+          "Bezorg het uittreksel uit de geboorteakte van je gemeente",
+          "De premie (of bon) volgt van je ziekenfonds"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Prime de Naissance Mutualité Libérale",
+        "desc": "Le montant dépend de votre mutualité ML. ML Hainaut-Namur : 470 € par enfant si les deux parents sont affiliés, 235 € si un seul l'est. ML Liège-Luxembourg : 360 € par enfant. ML MUTPLUS.be : 140 € par parent affilié ou un bon de 270 € (naissances à partir de 2026). Autre mutualité ML ? Renseignez-vous à votre bureau. Il faut être en règle de cotisation aux avantages complémentaires.",
+        "deadline": "Après la naissance ou l'adoption. Les parents doivent être affiliés le jour de la naissance.",
+        "amount": "De 140 € à 470 €, selon votre mutualité ML",
+        "steps": [
+          "Inscrivez votre enfant auprès de votre mutualité ML",
+          "Remettez l'extrait d'acte de naissance délivré par votre commune",
+          "La prime (ou le bon) suit de votre mutualité"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "Geburtsprämie der Mutualité Libérale",
+        "desc": "Der Betrag hängt von Ihrer ML-Kasse ab. ML Hainaut-Namur: 470 € pro Kind, wenn beide Eltern Mitglied sind, 235 €, wenn einer es ist. ML Liège-Luxembourg: 360 € pro Kind. ML MUTPLUS.be: 140 € pro versichertem Elternteil oder ein 270-€-Gutschein (Geburten ab 2026). Andere ML-Kasse? Fragen Sie Ihr Büro. Ihr Zusatzbeitrag muss bezahlt sein.",
+        "deadline": "Nach der Geburt oder Adoption. Die Eltern müssen am Tag der Geburt Mitglied sein.",
+        "amount": "140 € bis 470 €, je nach ML-Kasse",
+        "steps": [
+          "Schreiben Sie Ihr Kind bei Ihrer ML-Kasse ein",
+          "Reichen Sie den Auszug aus der Geburtsurkunde Ihrer Gemeinde ein",
+          "Die Prämie (oder der Gutschein) folgt von Ihrer Kasse"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 39,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "health_funds": [
+      "neutral"
+    ],
+    "institution": "Vlaams & Neutraal Ziekenfonds (VNZ)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://vnz.be/voordelen/geboortepremie/",
+    "content": {
+      "en": {
+        "title": "VNZ Birth Premium",
+        "desc": "For births from 1 February 2026, Vlaams & Neutraal Ziekenfonds pays €300 per member parent — up to €600 per child, and up to €1,200 for twins if both parents are members. It also applies to stillbirth from 26 weeks, adoption and long-term foster care.",
+        "deadline": "Paid automatically once your child is registered with VNZ or VNZ receives the birth certificate.",
+        "amount": "€300 per parent — up to €600 per child",
+        "steps": [
+          "Register your child with VNZ, or send the birth certificate via Mijn VNZ, by post or in a VNZ letterbox",
+          "VNZ pays the premium automatically to your bank account",
+          "Check the payment in Mijn VNZ"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Geboortepremie VNZ",
+        "desc": "Voor geboortes vanaf 1 februari 2026 betaalt het Vlaams & Neutraal Ziekenfonds €300 per aangesloten ouder — tot €600 per kind, en tot €1.200 voor een tweeling als beide ouders lid zijn. Ook bij doodgeboorte vanaf 26 weken, adoptie en langdurige pleegzorg.",
+        "deadline": "Automatisch betaald zodra je kind bij VNZ is ingeschreven of VNZ de geboorteakte ontvangt.",
+        "amount": "€300 per ouder — tot €600 per kind",
+        "steps": [
+          "Schrijf je kind in bij VNZ, of bezorg de geboorteakte via Mijn VNZ, per post of in een VNZ-brievenbus",
+          "VNZ stort de premie automatisch op je rekening",
+          "Volg de betaling op in Mijn VNZ"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Prime de Naissance VNZ",
+        "desc": "Pour les naissances à partir du 1er février 2026, le Vlaams & Neutraal Ziekenfonds verse 300 € par parent affilié — jusqu'à 600 € par enfant, et jusqu'à 1.200 € pour des jumeaux si les deux parents sont affiliés. Aussi en cas de mort-né à partir de 26 semaines, d'adoption et d'accueil familial durable.",
+        "deadline": "Versée automatiquement dès que l'enfant est inscrit chez VNZ ou que VNZ reçoit l'acte de naissance.",
+        "amount": "300 € par parent — jusqu'à 600 € par enfant",
+        "steps": [
+          "Inscrivez votre enfant chez VNZ, ou envoyez l'acte de naissance via Mijn VNZ, par la poste ou dans une boîte VNZ",
+          "VNZ verse la prime automatiquement sur votre compte",
+          "Suivez le paiement dans Mijn VNZ"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "Geburtsprämie VNZ",
+        "desc": "Für Geburten ab dem 1. Februar 2026 zahlt das Vlaams & Neutraal Ziekenfonds 300 € pro versichertem Elternteil — bis zu 600 € pro Kind und bis zu 1.200 € für Zwillinge, wenn beide Eltern Mitglied sind. Auch bei Totgeburt ab 26 Wochen, Adoption und dauerhafter Pflege.",
+        "deadline": "Automatisch gezahlt, sobald Ihr Kind bei VNZ eingeschrieben ist oder VNZ die Geburtsurkunde erhält.",
+        "amount": "300 € pro Elternteil — bis zu 600 € pro Kind",
+        "steps": [
+          "Schreiben Sie Ihr Kind bei VNZ ein oder schicken Sie die Geburtsurkunde über Mijn VNZ, per Post oder in einen VNZ-Briefkasten",
+          "VNZ überweist die Prämie automatisch",
+          "Verfolgen Sie die Zahlung in Mijn VNZ"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 40,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia",
+      "Brussels"
+    ],
+    "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "health_funds": [
+      "neutral"
+    ],
+    "institution": "Mutualia / La Mutualité Neutre",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.mutualia.be/fr/nos-avantages/naissance-et-adoption",
+    "amount_source_url": [
+      "https://www.mutualia.be/fr/nos-avantages/naissance-et-adoption",
+      "https://www.lamn.be/avantages-et-services/prime-de-naissance-et-dadoption"
+    ],
+    "content": {
+      "en": {
+        "title": "Mutualia / La Mutualité Neutre Birth Premium",
+        "desc": "Both French-speaking neutral funds pay €350 per child at birth or adoption: Mutualia when you register your child (adoption under 18), La Mutualité Neutre for a child registered as a dependant of a member parent (€700 for twins; adoption under 19).",
+        "deadline": "After the birth or adoption.",
+        "amount": "€350 per child",
+        "steps": [
+          "Register your child with your fund as a dependant",
+          "Hand in the birth certificate extract — at your agency, by email or via MyMutualia",
+          "The premium is paid to your account"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the birth certificate (from your municipality)"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Geboortepremie Mutualia / La Mutualité Neutre",
+        "desc": "Beide Franstalige neutrale ziekenfondsen betalen €350 per kind bij geboorte of adoptie: Mutualia bij de inschrijving van je kind (adoptie jonger dan 18), La Mutualité Neutre voor een kind ten laste van een aangesloten ouder (€700 voor een tweeling; adoptie jonger dan 19).",
+        "deadline": "Na de geboorte of adoptie.",
+        "amount": "€350 per kind",
+        "steps": [
+          "Schrijf je kind in bij je ziekenfonds als persoon ten laste",
+          "Bezorg het uittreksel uit de geboorteakte — in je kantoor, per e-mail of via MyMutualia",
+          "De premie wordt op je rekening gestort"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte (van je gemeente)"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Prime de Naissance Mutualia / La Mutualité Neutre",
+        "desc": "Les deux mutualités neutres francophones versent 350 € par enfant à la naissance ou à l'adoption : Mutualia lors de l'inscription de votre enfant (adoption de moins de 18 ans), La Mutualité Neutre pour un enfant inscrit à charge d'un parent titulaire (700 € pour des jumeaux ; adoption de moins de 19 ans).",
+        "deadline": "Après la naissance ou l'adoption.",
+        "amount": "350 € par enfant",
+        "steps": [
+          "Inscrivez votre enfant à charge auprès de votre mutualité",
+          "Remettez l'extrait d'acte de naissance — en agence, par e-mail ou via MyMutualia",
+          "La prime est versée sur votre compte"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance (de votre commune)"
+          }
+        ]
+      },
+      "de": {
+        "title": "Geburtsprämie Mutualia / La Mutualité Neutre",
+        "desc": "Beide französischsprachigen neutralen Krankenkassen zahlen 350 € pro Kind bei Geburt oder Adoption: Mutualia bei der Einschreibung Ihres Kindes (Adoption unter 18), La Mutualité Neutre für ein Kind zu Lasten eines versicherten Elternteils (700 € für Zwillinge; Adoption unter 19).",
+        "deadline": "Nach der Geburt oder Adoption.",
+        "amount": "350 € pro Kind",
+        "steps": [
+          "Schreiben Sie Ihr Kind bei Ihrer Krankenkasse als Person zu Lasten ein",
+          "Reichen Sie den Auszug aus der Geburtsurkunde ein — im Büro, per E-Mail oder über MyMutualia",
+          "Die Prämie wird überwiesen"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
+          }
+        ]
+      }
+    }
   }
 ]

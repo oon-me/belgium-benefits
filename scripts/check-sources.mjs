@@ -124,7 +124,16 @@ for (const b of targets) {
 
   // The page we link visitors to explains how to apply; some institutions publish the figures on a
   // separate amounts page, so an entry can name that page for this check instead.
-  const { text, error } = await fetchText(b.amount_source_url || b.source_url);
+  // It may list several pages when a fund family publishes figures per regional fund.
+  const urls = [].concat(b.amount_source_url || b.source_url);
+  const fetched = [];
+  for (const url of urls) {
+    fetched.push(await fetchText(url));
+    if (urls.length > 1) await new Promise((r) => setTimeout(r, DELAY_MS));
+  }
+  const failed = fetched.find((f) => f.error);
+  const error = failed?.error;
+  const text = fetched.map((f) => f.text ?? "").join(" ");
   await new Promise((r) => setTimeout(r, DELAY_MS));
 
   if (error) {

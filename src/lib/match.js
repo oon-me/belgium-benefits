@@ -9,7 +9,7 @@ import { resolveCommune } from "../data/communes.js";
 // that says "Kelmis".
 const nisOf = (value) => resolveCommune(value)?.nis || null;
 
-export function matchesBenefit(b, { region, commune, category, situations = [], query, lang = "en" } = {}) {
+export function matchesBenefit(b, { region, commune, category, situations = [], query, lang = "en", fund = null } = {}) {
   const userNis = nisOf(commune);
 
   // "Federal" means available anywhere in Belgium, so it matches every region.
@@ -19,6 +19,9 @@ export function matchesBenefit(b, { region, commune, category, situations = [], 
   // Some region-wide benefits carve out specific communes (id 7 excludes the German-speaking
   // Community). Optional field — absent on every other entry.
   if (userNis && b.excluded_communes?.some((c) => nisOf(c) === userNis)) return false;
+  // A health fund's own extras only apply to its members, so they stay hidden until the person
+  // has said which fund they are with.
+  if (b.health_funds && !(fund && b.health_funds.includes(fund))) return false;
   if (category && b.category !== category) return false;
   if (situations.length > 0 && !b.situations.some((s) => situations.includes(s))) return false;
   if (query) {

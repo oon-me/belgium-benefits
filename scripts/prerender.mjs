@@ -98,6 +98,17 @@ for (const lang of LANGS) {
       origin: ORIGIN,
     }),
   });
+  routes.push({
+    url: `/${lang}/health-funds`,
+    meta: buildMeta({
+      lang,
+      title: t("compareTitle"),
+      description: t("compareSub"),
+      path: `/${lang}/health-funds`,
+      alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}/health-funds`])),
+      origin: ORIGIN,
+    }),
+  });
   for (const b of benefits) {
     const bc = getContent(b, lang);
     const path = benefitPath(lang, b);

@@ -6,6 +6,7 @@ import Benefits from "./pages/Benefits.jsx";
 import BenefitDetail from "./pages/BenefitDetail.jsx";
 import Submit from "./pages/Submit.jsx";
 import Legal from "./pages/Legal.jsx";
+import HealthFunds from "./pages/HealthFunds.jsx";
 import { LANGS } from "./i18n.js";
 import { loadPrefs } from "./lib/prefs.js";
 
@@ -55,6 +56,7 @@ export default function App() {
         <Route path="benefit/:idSlug" element={<BenefitDetail />} />
         <Route path="submit" element={<Submit />} />
         <Route path="legal" element={<Legal />} />
+        <Route path="health-funds" element={<HealthFunds />} />
         <Route path="*" element={<RedirectToLangHome />} />
       </Route>
       <Route path="*" element={<Navigate to="/" replace />} />

@@ -4,6 +4,7 @@ import benefits from "../src/data/benefits.json" with { type: "json" };
 import { communesByRegion, resolveCommune, communeName } from "../src/data/communes.js";
 import { matchesBenefit } from "../src/lib/match.js";
 import { ageInDays, STALE_AFTER_DAYS } from "../src/lib/freshness.js";
+import { healthFundIds } from "../src/constants.js";
 
 const LANGS = ["en", "nl", "fr", "de"];
 const CATEGORIES = new Set(["housing", "family", "health", "employment", "other"]);
@@ -25,8 +26,11 @@ for (const b of benefits) {
   if (!["verified", "community"].includes(b.status)) errors.push(`${at}: bad status "${b.status}"`);
   if (b.status === "community" && !b.note) errors.push(`${at}: community entry without a note`);
   if (!/^https:\/\//.test(b.source_url ?? "")) errors.push(`${at}: source_url must be https`);
-  if (b.amount_source_url !== undefined && !/^https:\/\//.test(b.amount_source_url)) {
-    errors.push(`${at}: amount_source_url must be https`);
+  if (b.amount_source_url !== undefined && ![].concat(b.amount_source_url).every((u) => /^https:\/\//.test(u))) {
+    errors.push(`${at}: amount_source_url must be https (or a list of https URLs)`);
+  }
+  for (const f of b.health_funds ?? []) {
+    if (!healthFundIds.has(f) || f === "other") errors.push(`${at}: unknown health fund "${f}"`);
   }
   if (!/^\d{1,2} \w{3} \d{4}$/.test(b.verified ?? "")) errors.push(`${at}: verified must be "DD Mon YYYY"`);
   // Amounts are indexed several times a year; an entry nobody has re-checked is a liability.
@@ -92,15 +96,15 @@ const ids = benefits.map((b) => b.id);
 if (new Set(ids).size !== ids.length) errors.push("duplicate ids");
 
 // The matcher is imported, not re-implemented, so this check cannot drift from the app.
-const matches = (b, region, commune, situations = []) =>
-  matchesBenefit(b, { region, commune, situations });
+const matches = (b, region, commune, situations = [], fund = null) =>
+  matchesBenefit(b, { region, commune, situations, fund });
 
 const reachable = new Set();
 const empties = new Map(); // "region + situation" -> communes with no results
 for (const [region, communes] of Object.entries(communesByRegion)) {
   for (const cm of communes) {
     const commune = cm.nis;
-    const hits = benefits.filter((b) => matches(b, region, commune));
+    const hits = benefits.filter((b) => [null, ...healthFundIds].some((fund) => matches(b, region, commune, [], fund)));
     if (hits.length === 0) errors.push(`no benefits at all for ${region}/${communeName(cm, "en")}`);
     hits.forEach((b) => reachable.add(b.id));
     for (const s of SITUATIONS) {

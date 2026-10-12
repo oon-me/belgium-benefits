@@ -2,7 +2,7 @@ import { Link, Navigate, useParams, useSearchParams } from "react-router-dom";
 import { MapPin, Search, ChevronRight } from "lucide-react";
 import { c, displayFont } from "../theme.js";
 import { useT, getContent, LANGS } from "../i18n.js";
-import { categories, situations } from "../constants.js";
+import { categories, situations, healthFunds } from "../constants.js";
 import benefits from "../data/benefits.json";
 import { localTips } from "../data/local-tips.js";
 import { communeName, resolveCommune } from "../data/communes.js";
@@ -24,6 +24,7 @@ export default function Benefits() {
   const commune = params.get("commune") || prefs.commune;
   const category = params.get("category") || null;
   const query = params.get("q") || "";
+  const fund = params.get("fund") || prefs.fund || null;
   const picked = params.has("situations")
     ? params.get("situations").split(",").filter(Boolean)
     : prefs.situations || [];
@@ -39,7 +40,15 @@ export default function Benefits() {
   };
 
   const communeLabel = communeName(commune, lang);
-  const items = filterBenefits(benefits, { region, commune, category, situations: picked, query, lang });
+  const items = filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund });
+  // Would any fund's own extras show up here if the person told us their fund?
+  const fundExtrasHidden =
+    !fund &&
+    healthFunds.some((f) => filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund: f.id }).length > items.length);
+  const chooseFund = (value) => {
+    setPrefs({ fund: value || null });
+    setParam("fund", value || null);
+  };
   const situationLabels = situations.filter((s) => picked.includes(s.id)).map((s) => t("situations")[s.id]);
   const tipNis = resolveCommune(commune)?.nis;
   const tips = localTips.filter((tip) => resolveCommune(tip.commune)?.nis === tipNis && tip.situations.some((s) => picked.includes(s)));
@@ -117,9 +126,38 @@ export default function Benefits() {
           })}
         </div>
 
-        <p className="text-xs mb-3" style={{ color: c.inkSoft }}>
-          {items.length} {t(items.length === 1 ? "resultOne" : "resultMany")}
-        </p>
+        <div className="flex flex-wrap items-center justify-between gap-2 mb-3">
+          <p className="text-xs" style={{ color: c.inkSoft }}>
+            {items.length} {t(items.length === 1 ? "resultOne" : "resultMany")}
+          </p>
+          <label className="flex items-center gap-2 text-xs" style={{ color: c.inkSoft }}>
+            {t("fundLabel")}
+            <select
+              value={fund ?? ""}
+              onChange={(e) => chooseFund(e.target.value)}
+              className="rounded-md border px-2 py-1 text-xs bg-white"
+              style={{ borderColor: c.line, color: c.ink }}
+            >
+              <option value="">{t("fundNone")}</option>
+              {healthFunds.map((f) => (
+                <option key={f.id} value={f.id}>
+                  {f.short ?? t("fundOther")}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
+
+        {fundExtrasHidden && (
+          <div className="rounded-xl p-3.5 mb-4 border flex flex-wrap items-center justify-between gap-2" style={{ borderColor: c.gold, background: "#F6EDDB" }}>
+            <p className="text-xs" style={{ color: c.ink }}>
+              🎁 {t("fundCallout")}
+            </p>
+            <Link to={`/${lang}/health-funds`} className="text-xs font-semibold underline whitespace-nowrap" style={{ color: c.post }}>
+              {t("compareFunds")} →
+            </Link>
+          </div>
+        )}
 
         <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
           {items.map((b) => (

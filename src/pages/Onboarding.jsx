@@ -3,7 +3,7 @@ import { Navigate, useNavigate, useParams } from "react-router-dom";
 import { Check, ChevronRight, Search } from "lucide-react";
 import { c, bodyFont, displayFont } from "../theme.js";
 import { useT, LANGS } from "../i18n.js";
-import { situations } from "../constants.js";
+import { situations, healthFunds } from "../constants.js";
 import { regions, sortedCommunes, communeName, resolveCommune } from "../data/communes.js";
 import { usePrefs } from "../lib/prefs.js";
 import { usePageMeta } from "../lib/meta.js";
@@ -14,7 +14,9 @@ import { usePageMeta } from "../lib/meta.js";
 // would "order what we show first". That was untrue, and it collected a sensitive attribute
 // for no purpose. Re-add it here (and in constants.js) once ranking actually uses it — the
 // four-language strings for it are still in i18n.js.
-const STEPS = ["location", "situation"];
+// The health-fund step is optional: it only adds the fund's own extras (birth gifts and the like)
+// on top of the government benefits, so "skip" is always one tap away.
+const STEPS = ["location", "situation", "fund"];
 
 export default function Onboarding() {
   const { lang, step } = useParams();
@@ -26,7 +28,7 @@ export default function Onboarding() {
   const index = STEPS.indexOf(step);
   const safeStep = index === -1 ? "location" : step;
 
-  const { region = null, commune = null, situations: picked = [] } = prefs;
+  const { region = null, commune = null, situations: picked = [], fund = null } = prefs;
   const selected = resolveCommune(commune);
 
   // 285 municipalities in Flanders alone, so the picker filters rather than listing buttons.
@@ -38,9 +40,9 @@ export default function Onboarding() {
     // Match on any official language name, so searching "Anvers" finds Antwerpen.
     return all.filter((cm) => ["nl", "fr", "de"].some((l) => cm[l].toLowerCase().includes(q)));
   }, [region, lang, communeQuery]);
-  const stepLabel = t("step").replace("{n}", Math.max(index, 0) + 2).replace("{total}", "3");
-  const headline = { location: t("headlineRegion"), situation: t("headlineSituation") }[safeStep];
-  const sub = { location: t("subRegion"), situation: t("subSituation") }[safeStep];
+  const stepLabel = t("step").replace("{n}", Math.max(index, 0) + 2).replace("{total}", "4");
+  const headline = { location: t("headlineRegion"), situation: t("headlineSituation"), fund: t("headlineFund") }[safeStep];
+  const sub = { location: t("subRegion"), situation: t("subSituation"), fund: t("subFund") }[safeStep];
   usePageMeta({
     lang,
     title: headline.replace(/\n/g, " "),
@@ -177,11 +179,57 @@ export default function Onboarding() {
               })}
             </div>
             <button
+              onClick={next}
+              className="w-full flex items-center justify-center gap-2 rounded-lg py-3.5 font-semibold text-sm"
+              style={{ background: c.gold, color: c.ink }}
+            >
+              {t("continueBtn")} <ChevronRight size={16} />
+            </button>
+          </div>
+        )}
+
+        {step === "fund" && (
+          <div className="space-y-5">
+            <div className="grid sm:grid-cols-2 gap-2.5">
+              {healthFunds.map((f) => {
+                const active = fund === f.id;
+                return (
+                  <button
+                    key={f.id}
+                    onClick={() => setPrefs({ fund: f.id })}
+                    className="flex items-center gap-3 rounded-2xl py-3 px-4 text-left border-2"
+                    style={{
+                      borderColor: active ? c.gold : "#3A4A57",
+                      background: active ? "rgba(184,134,59,0.18)" : "transparent",
+                      color: active ? c.gold : "#D7DEE3",
+                    }}
+                  >
+                    <span className="min-w-0">
+                      <span className="block text-xs font-semibold">{f.short ?? t("fundOther")}</span>
+                      {f.short && (
+                        <span className="block text-[10px] mt-0.5" style={{ color: "#8AA0AE" }}>
+                          {f.full}
+                        </span>
+                      )}
+                    </span>
+                    {active && <Check size={18} className="ml-auto shrink-0" />}
+                  </button>
+                );
+              })}
+            </div>
+            <button
               onClick={finish}
               className="w-full flex items-center justify-center gap-2 rounded-lg py-3.5 font-semibold text-sm"
               style={{ background: c.gold, color: c.ink }}
             >
               {picked.length > 0 ? t("seeMatches") : t("showEverything")} <ChevronRight size={16} />
+            </button>
+            <button
+              onClick={() => { setPrefs({ fund: null }); finish(); }}
+              className="w-full text-xs underline"
+              style={{ color: "#8AA0AE" }}
+            >
+              {t("fundSkip")}
             </button>
           </div>
         )}

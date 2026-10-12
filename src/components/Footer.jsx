@@ -13,9 +13,14 @@ export default function Footer() {
         <p className="text-xs" style={{ color: c.inkSoft }}>
           {t("footerNotOfficial")}
         </p>
-        <Link to={`/${lang}/legal`} className="text-xs font-semibold" style={{ color: c.post }}>
-          {t("footerLegal")}
-        </Link>
+        <div className="flex gap-4">
+          <Link to={`/${lang}/health-funds`} className="text-xs font-semibold" style={{ color: c.post }}>
+            {t("compareFunds")}
+          </Link>
+          <Link to={`/${lang}/legal`} className="text-xs font-semibold" style={{ color: c.post }}>
+            {t("footerLegal")}
+          </Link>
+        </div>
       </div>
     </footer>
   );
