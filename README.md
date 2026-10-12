@@ -20,6 +20,62 @@ it starts `npm run dev` but the wrapper never lets Vite bind the port. Running `
 in a terminal works fine and starts in ~2s. The launch config is left in place in case the
 launcher is fixed.
 
+## Where it runs
+
+| | Service | What it does |
+|---|---|---|
+| **Code** | GitHub — [oon-me/belgium-benefits](https://github.com/oon-me/belgium-benefits) (public) | Source of truth. Every push to `main` deploys. |
+| **Hosting** | Cloudflare Pages — project `belgium-benefits` | Builds with `npm run build`, serves `dist/`. Free plan, no card on the account. |
+| **DNS** | Cloudflare — zone `belgiumbenefits.be` (free) | Nameservers `braelyn.ns.cloudflare.com`, `brian.ns.cloudflare.com`. |
+| **Domain** | OVHcloud — `belgiumbenefits.be` | Registration only: renews ~Oct each year at €7.89 + VAT. Holder: Onyeka Okwuosa. |
+| **Mail** | OVHcloud Zimbra Starter — `info@belgiumbenefits.be` | Free while the domain stays at OVH. Not yet activated: the holder sets its password in the OVH panel. |
+
+Live at <https://belgium-benefits.pages.dev> (and `belgiumbenefits.be` once attached).
+
+**Publishing a change:** edit → `git add` → `git commit` → `git push`. Cloudflare picks the push
+up within seconds and deploys in about a minute. Nothing else to do.
+
+**The Cloudflare GitHub app** can see only this one repository ("Only select repositories"), by
+design. Change that in GitHub → Settings → Applications → Cloudflare Workers and Pages.
+
+### DNS records that must exist in Cloudflare
+
+The mailbox depends on these. They were copied from OVH's zone when DNS moved; if `info@` ever
+stops receiving, check them first.
+
+| Type | Name | Value |
+|---|---|---|
+| MX | `@` | `mx1.mail.ovh.net` (priority 1) |
+| MX | `@` | `mx2.mail.ovh.net` (priority 5) |
+| MX | `@` | `mx3.mail.ovh.net` (priority 100) |
+| TXT | `@` | `v=spf1 include:mx.ovh.com -all` |
+
+The site's own record is created by Pages when the custom domain is attached — don't add it by
+hand. (`1|www…` and `3|welcome` TXT records are leftover OVH markers and harmless.)
+
+### Privacy settings that must stay this way
+
+The privacy page promises no tracking, analytics or advertising cookies, and nothing shared.
+These settings keep that true — check them if anything in Cloudflare is changed:
+
+- **Security → Settings → Bot fight mode: off** (it sets challenge cookies).
+- **Security → Settings → Browser integrity check: off** (can block real visitors).
+- **Never enable Cloudflare Web Analytics** — it injects a tracking beacon.
+- **No third-party resources.** The Inter font is bundled (`@fontsource/inter`) rather than loaded
+  from Google Fonts, which would hand every visitor's IP address to Google. Keep it that way:
+  `curl -s https://belgiumbenefits.be/en | grep -oE '(href|src)="https?://[^"]+"'` should list
+  only links to official `.be` sources.
+
+### Domain renewal
+
+The domain renews automatically at OVH. If the payment card changes, update it there — a lapsed
+`.be` goes offline and, after a 40-day quarantine, can be bought by anyone — and an expired benefits
+domain is an attractive target for someone impersonating the site. To wind the project down,
+replace the site with a notice pointing to official sources and keep the domain one more year
+before cancelling. The holder email must stay a Gmail address, never
+`info@belgiumbenefits.be`: transfer codes and registry notices go to the holder, and an address on
+the domain itself is unreachable exactly when the domain is broken.
+
 ## Layout
 
 ```
