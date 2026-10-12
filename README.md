@@ -370,6 +370,25 @@ the detail page, with its date and source. The amounts above it always describe 
 force today. `npm run check` warns once a notice is **30 days** old: by then the change may have
 passed (update the entry, drop the notice), moved, or been dropped.
 
+### Health-fund extras: `health_funds`
+
+Optional array on an entry (`cm`, `solidaris`, `independent`, `liberal`, `neutral` — see
+`healthFunds` in `src/constants.js`). Such an entry is a fund's own extra, not a government
+benefit, so the matcher shows it only to someone who picked that fund — in the optional fourth
+onboarding step or the selector on the results page (`?fund=` keeps it shareable). Each union has
+a Dutch-speaking and a French-speaking side with different offers, so an entry pairs the fund with
+a region. `/:lang/health-funds` lists every fund's birth gift side by side, built from the same
+entries.
+
+Where a union's regional funds pay different amounts (LM, ML), the entry names each variant
+instead of picking one, and `amount_source_url` lists every regional page.
+
+**Check by hand each quarter** — these sites block automated reading, so the weekly check reports
+them as unreachable rather than verifying them: CM (`cm.be`), MC (`mc.be`), Solidaris Vlaanderen
+(content behind JavaScript tabs) and the German-speaking Community's `ostbelgienfamilie.be`.
+Not covered yet: the German-speaking Community's own health funds, Solidaris Brabant, and LM/ML
+regional funds other than those named.
+
 ### Cadence and owner
 
 | | |
