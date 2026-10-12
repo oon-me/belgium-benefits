@@ -64,7 +64,8 @@ The two DKIM records must never be proxied, or signatures fail and mail lands in
 Site records: `@` CNAME `belgium-benefits.pages.dev` (created by Pages when the custom domain was
 attached — don't edit by hand) and `www` CNAME `belgiumbenefits.be`, **proxied**, which exists only
 so the redirect rule below can act on it. `1|www…` / `3|welcome` TXT records are leftover OVH
-markers and harmless.
+markers and harmless. The `google-site-verification=…` TXT proves ownership to Google Search
+Console — removing it un-verifies the property.
 
 **Rules → Redirect Rules → "Redirect from WWW to root"**: `https://www.*` → `https://${1}`, 301,
 *Preserve query string* **on** (shared results links carry the visitor's commune in the query).
@@ -82,6 +83,33 @@ These settings keep that true — check them if anything in Cloudflare is change
   from Google Fonts, which would hand every visitor's IP address to Google. Keep it that way:
   `curl -s https://belgiumbenefits.be/en | grep -oE '(href|src)="https?://[^"]+"'` should list
   only links to official `.be` sources.
+
+### Security settings
+
+Checked and set 2026-10-12. Each line says where it lives and how to confirm it still holds.
+
+| Setting | Where | Check |
+|---|---|---|
+| CSP, anti-framing, nosniff, referrer and permissions policy | `public/_headers` | `curl -sI https://belgiumbenefits.be/en` |
+| `noindex` on the `*.pages.dev` copies | `public/_headers` | `curl -sI https://belgium-benefits.pages.dev/en \| grep -i robots` |
+| `security.txt` — **`Expires` must be pushed forward every year** (now 2027-10-01) | `public/.well-known/security.txt` | open `/.well-known/security.txt` |
+| HSTS, 6 months, include subdomains, **no preload** | SSL/TLS → Edge Certificates | `curl -sI https://belgiumbenefits.be \| grep -i strict-transport` |
+| Minimum TLS 1.2 | SSL/TLS → Edge Certificates | `curl -sI --tlsv1.1 --tls-max 1.1 https://belgiumbenefits.be` fails |
+| CAA: only Let's Encrypt, Google Trust Services, SSL.com (+ Cloudflare's own) may issue certificates; reports to `info@` | DNS → Records (CAA) | `dig CAA belgiumbenefits.be` |
+| DNSSEC — Cloudflare signs, DS record (key tag 2371, alg 13) at OVH | DNS → Settings; OVH → DS records | `dig +dnssec belgiumbenefits.be @1.1.1.1` shows the `ad` flag |
+| AI training crawlers blocked; search engines allowed | AI Crawl Control / managed `robots.txt` | `curl -s -A CCBot/2.0 -o /dev/null -w '%{http_code}' https://belgiumbenefits.be/en` → 403 |
+| Dependabot alerts + security updates, secret scanning + push protection | GitHub → repo Settings → Code security | — |
+| `main` cannot be force-pushed or deleted (admins included) | GitHub → repo Settings → Branches | — |
+
+HSTS is deliberately not on the preload list: preloading is near-permanent, and the site may one
+day be wound down.
+
+**DNSSEC warning:** if the nameservers ever move away from Cloudflare, **delete the DS record at OVH
+first** and wait a day. A DS record pointing at keys the new DNS host doesn't have makes the domain —
+site and mail — unreachable for every validating resolver.
+
+**Two-factor authentication** guards the three accounts that can take the site down: GitHub
+(authenticator app), Cloudflare, and OVH (which controls the domain itself). Keep it on all three.
 
 ### Domain renewal
 
