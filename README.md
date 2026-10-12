@@ -79,6 +79,9 @@ These settings keep that true — check them if anything in Cloudflare is change
 - **Security → Settings → Bot fight mode: off** (it sets challenge cookies).
 - **Security → Settings → Browser integrity check: off** (can block real visitors).
 - **Never enable Cloudflare Web Analytics** — it injects a tracking beacon.
+- **Security → Settings → Email Address Obfuscation: off.** It rewrites `info@` in the prerendered
+  HTML into a `/cdn-cgi/` link plus an injected decoder script, which breaks the address for
+  readers without JavaScript and protects nothing — the address is in the JS bundle anyway.
 - **No third-party resources.** The Inter font is bundled (`@fontsource/inter`) rather than loaded
   from Google Fonts, which would hand every visitor's IP address to Google. Keep it that way:
   `curl -s https://belgiumbenefits.be/en | grep -oE '(href|src)="https?://[^"]+"'` should list
