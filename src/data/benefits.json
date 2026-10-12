@@ -118,6 +118,16 @@
           "Die Auszahlung erfolgt ab 2 Monate vor dem Geburtstermin oder kurz nach der Geburt/Adoption"
         ]
       }
+    },
+    "notice": {
+      "date": "30 Sep 2026",
+      "source_url": "https://www.vrt.be/vrtnws/nl/2026/09/30/kinderbijslag-kindergeld-huis-kopen-bereken-begroting-vlaams/",
+      "text": {
+        "en": "Planned change, not yet law: in its September 2026 budget the Flemish government decided the startbedrag will only be paid for a first child. Twins or more still get it for each child, and newly blended families get an exception. No start date has been set — today it is still paid for every child.",
+        "nl": "Geplande wijziging, nog geen wet: in de begroting van september 2026 besliste de Vlaamse regering dat het startbedrag enkel nog voor een eerste kind wordt betaald. Bij een meerling krijgt elk kind het nog, en voor nieuw samengestelde gezinnen komt er een uitzondering. Er is nog geen startdatum — vandaag wordt het nog voor elk kind betaald.",
+        "fr": "Changement prévu, pas encore en vigueur : dans son budget de septembre 2026, le gouvernement flamand a décidé que le startbedrag ne serait plus versé que pour un premier enfant. En cas de naissance multiple, chaque enfant y aura encore droit, et une exception est prévue pour les familles recomposées. Aucune date d'entrée en vigueur n'est fixée — aujourd'hui, il est encore versé pour chaque enfant.",
+        "de": "Geplante Änderung, noch kein Gesetz: Im Haushalt vom September 2026 hat die flämische Regierung beschlossen, den Startbedrag nur noch für ein erstes Kind zu zahlen. Bei Mehrlingen erhält ihn weiterhin jedes Kind, und für Patchwork-Familien gibt es eine Ausnahme. Ein Startdatum steht noch nicht fest — derzeit wird er noch für jedes Kind gezahlt."
+      }
     }
   },
   {
@@ -2090,6 +2100,1078 @@
           "Gehen Sie zu 'Mijn dossier' und klicken Sie auf 'Tegemoetkoming aanvragen + Handicap vaststellen'",
           "Beschreiben Sie so detailliert wie möglich, wie Ihre Behinderung Ihre Selbstständigkeit einschränkt (Fortbewegung, Kochen, Hygiene, Haushalt, Sicherheit, Kommunikation)",
           "Ein Arzt der DG Personen mit Behinderung bewertet Ihre Akte; wenden Sie sich an Ihre Krankenkasse, Gemeinde, das ÖSHZ oder einen Sozialarbeiter, wenn Sie Hilfe benötigen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 21,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Groeipakket (your payment fund)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/bedragen-en-betaaldata",
+    "notice": {
+      "date": "30 Sep 2026",
+      "source_url": "https://www.vrt.be/vrtnws/nl/2026/09/30/kinderbijslag-kindergeld-huis-kopen-bereken-begroting-vlaams/",
+      "text": {
+        "en": "Planned changes, not yet law (Flemish budget, September 2026): child benefit would stop at 23 instead of 25, age supplements would be frozen, and the 12 extra months for young people who leave school would end. No start date has been set.",
+        "nl": "Geplande wijzigingen, nog geen wet (Vlaamse begroting, september 2026): het Groeipakket zou stoppen op 23 in plaats van 25 jaar, de leeftijdstoeslagen worden bevroren en de 12 extra maanden voor schoolverlaters verdwijnen. Er is nog geen startdatum.",
+        "fr": "Changements prévus, pas encore en vigueur (budget flamand, septembre 2026) : les allocations s'arrêteraient à 23 ans au lieu de 25, les suppléments d'âge seraient gelés et les 12 mois supplémentaires pour les jeunes qui quittent l'école disparaîtraient. Aucune date d'entrée en vigueur n'est fixée.",
+        "de": "Geplante Änderungen, noch kein Gesetz (flämischer Haushalt, September 2026): Das Kindergeld würde mit 23 statt 25 Jahren enden, die Alterszuschläge würden eingefroren und die 12 zusätzlichen Monate für Schulabgänger entfallen. Ein Startdatum steht noch nicht fest."
+      }
+    },
+    "content": {
+      "en": {
+        "title": "Groeipakket (Monthly Child Benefit)",
+        "desc": "Flanders' monthly child benefit. Every child born since 2019 gets the same base amount, whatever their place in the family. Supplements can come on top — for example for lower incomes, children with extra care needs, childcare days, and a yearly school bonus.",
+        "deadline": "Paid from the month after the birth. It starts automatically once your startbedrag application is registered — so if you haven't applied for the startbedrag yet, do that first.",
+        "amount": "€190.66 per child per month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your startbedrag application (this opens your Groeipakket file)"
+          },
+          {
+            "type": "id",
+            "label": "Your bank account number (IBAN)"
+          }
+        ],
+        "steps": [
+          "Apply for the startbedrag — that registers your child with a Groeipakket payment fund",
+          "Check that your details and bank account are correct with your payment fund",
+          "From the month after the birth, the base amount is paid every month (early in the following month)",
+          "Report changes such as a move, a separation or studies after 18 to your payment fund"
+        ]
+      },
+      "nl": {
+        "title": "Groeipakket (Maandelijkse Kinderbijslag)",
+        "desc": "De maandelijkse kinderbijslag in Vlaanderen. Elk kind geboren sinds 2019 krijgt hetzelfde basisbedrag, ongeacht de plaats in het gezin. Er kunnen toeslagen bijkomen — bijvoorbeeld voor lagere inkomens, kinderen met een specifieke ondersteuningsbehoefte, kinderopvangdagen en een jaarlijkse schoolbonus.",
+        "deadline": "Betaald vanaf de maand na de geboorte. Het start automatisch zodra je aanvraag voor het startbedrag geregistreerd is — heb je het startbedrag nog niet aangevraagd, doe dat dan eerst.",
+        "amount": "€190,66 per kind per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Je aanvraag voor het startbedrag (die opent je Groeipakket-dossier)"
+          },
+          {
+            "type": "id",
+            "label": "Je rekeningnummer (IBAN)"
+          }
+        ],
+        "steps": [
+          "Vraag het startbedrag aan — zo wordt je kind ingeschreven bij een uitbetaler van het Groeipakket",
+          "Controleer bij je uitbetaler of je gegevens en rekeningnummer kloppen",
+          "Vanaf de maand na de geboorte wordt het basisbedrag elke maand betaald (begin van de volgende maand)",
+          "Meld wijzigingen zoals een verhuis, een scheiding of studies na 18 jaar aan je uitbetaler"
+        ]
+      },
+      "fr": {
+        "title": "Groeipakket (Allocations familiales flamandes)",
+        "desc": "Les allocations familiales mensuelles en Flandre. Chaque enfant né depuis 2019 reçoit le même montant de base, quel que soit son rang dans la famille. Des suppléments peuvent s'y ajouter — par exemple pour les revenus modestes, les enfants ayant des besoins de soins spécifiques, les jours de garde et une prime scolaire annuelle.",
+        "deadline": "Versées à partir du mois qui suit la naissance. Elles démarrent automatiquement dès que votre demande de startbedrag est enregistrée — si vous ne l'avez pas encore demandé, commencez par là.",
+        "amount": "190,66 € par enfant par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Votre demande de startbedrag (elle ouvre votre dossier Groeipakket)"
+          },
+          {
+            "type": "id",
+            "label": "Votre numéro de compte bancaire (IBAN)"
+          }
+        ],
+        "steps": [
+          "Demandez le startbedrag — votre enfant est ainsi inscrit auprès d'une caisse du Groeipakket",
+          "Vérifiez auprès de votre caisse que vos données et votre numéro de compte sont corrects",
+          "À partir du mois qui suit la naissance, le montant de base est versé chaque mois (au début du mois suivant)",
+          "Signalez à votre caisse tout changement : déménagement, séparation, études après 18 ans"
+        ]
+      },
+      "de": {
+        "title": "Groeipakket (Flämisches Kindergeld)",
+        "desc": "Das monatliche Kindergeld in Flandern. Jedes seit 2019 geborene Kind erhält denselben Grundbetrag, unabhängig von seiner Stellung in der Familie. Zuschläge können hinzukommen — etwa für niedrigere Einkommen, Kinder mit besonderem Betreuungsbedarf, Betreuungstage und einen jährlichen Schulbonus.",
+        "deadline": "Gezahlt ab dem Monat nach der Geburt. Es beginnt automatisch, sobald Ihr Antrag auf den Startbedrag registriert ist — haben Sie den Startbedrag noch nicht beantragt, tun Sie das zuerst.",
+        "amount": "190,66 € pro Kind und Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ihr Antrag auf den Startbedrag (er eröffnet Ihre Groeipakket-Akte)"
+          },
+          {
+            "type": "id",
+            "label": "Ihre Kontonummer (IBAN)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie den Startbedrag — so wird Ihr Kind bei einer Groeipakket-Kasse angemeldet",
+          "Prüfen Sie bei Ihrer Kasse, ob Ihre Daten und Ihre Kontonummer stimmen",
+          "Ab dem Monat nach der Geburt wird der Grundbetrag monatlich gezahlt (Anfang des Folgemonats)",
+          "Melden Sie Änderungen wie Umzug, Trennung oder ein Studium nach 18 Ihrer Kasse"
+        ]
+      }
+    }
+  },
+  {
+    "id": 22,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "institution": "FAMIWAL (or your Walloon family allowance fund)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.famiwal.be/vos-allocations-familiales/vos-allocations-familiales-de-base",
+    "content": {
+      "en": {
+        "title": "Allocations Familiales (Walloon Monthly Child Benefit)",
+        "desc": "Wallonia's monthly child benefit. Every child born since 2020 gets the same base amount, whatever their place in the family; it rises at 18. Supplements can come on top, for example for lower incomes or single parents.",
+        "deadline": "Paid from the month after the birth. If your birth allowance was paid, the fund opens your file automatically; otherwise send in the family allowance application form.",
+        "amount": "€200.51 per child per month (€213.44 from 18 to 24)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your birth allowance request — or, if there wasn't one, the family allowance application form"
+          },
+          {
+            "type": "id",
+            "label": "Your bank account number (IBAN)"
+          }
+        ],
+        "steps": [
+          "Apply for the birth allowance (prime de naissance) during the pregnancy — that opens your right to family allowance",
+          "No birth allowance request? Fill in the family allowance application form from your fund",
+          "From the month after the birth, the allowance is paid every month (early in the following month)",
+          "Report changes such as a move or a new bank account to your fund"
+        ]
+      },
+      "nl": {
+        "title": "Allocations Familiales (Waalse Kinderbijslag)",
+        "desc": "De maandelijkse kinderbijslag in Wallonië. Elk kind geboren sinds 2020 krijgt hetzelfde basisbedrag, ongeacht de plaats in het gezin; het stijgt op 18 jaar. Er kunnen toeslagen bijkomen, bijvoorbeeld voor lagere inkomens of alleenstaande ouders.",
+        "deadline": "Betaald vanaf de maand na de geboorte. Werd je geboortepremie uitbetaald, dan opent het fonds je dossier automatisch; anders stuur je het aanvraagformulier voor kinderbijslag in.",
+        "amount": "€200,51 per kind per maand (€213,44 van 18 tot 24 jaar)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Je aanvraag voor de geboortepremie — of, als die er niet was, het aanvraagformulier voor kinderbijslag"
+          },
+          {
+            "type": "id",
+            "label": "Je rekeningnummer (IBAN)"
+          }
+        ],
+        "steps": [
+          "Vraag tijdens de zwangerschap de geboortepremie (prime de naissance) aan — dat opent je recht op kinderbijslag",
+          "Geen geboortepremie aangevraagd? Vul het aanvraagformulier voor kinderbijslag van je fonds in",
+          "Vanaf de maand na de geboorte wordt de kinderbijslag elke maand betaald (begin van de volgende maand)",
+          "Meld wijzigingen zoals een verhuis of een nieuw rekeningnummer aan je fonds"
+        ]
+      },
+      "fr": {
+        "title": "Allocations Familiales (Wallonie)",
+        "desc": "Les allocations familiales mensuelles en Wallonie. Chaque enfant né depuis 2020 reçoit le même montant de base, quel que soit son rang dans la famille ; il augmente à 18 ans. Des suppléments peuvent s'y ajouter, par exemple pour les revenus modestes ou les familles monoparentales.",
+        "deadline": "Versées à partir du mois qui suit la naissance. Si votre allocation de naissance a été payée, la caisse ouvre votre dossier automatiquement ; sinon, envoyez le formulaire de demande d'allocations familiales.",
+        "amount": "200,51 € par enfant par mois (213,44 € de 18 à 24 ans)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Votre demande d'allocation de naissance — ou, à défaut, le formulaire de demande d'allocations familiales"
+          },
+          {
+            "type": "id",
+            "label": "Votre numéro de compte bancaire (IBAN)"
+          }
+        ],
+        "steps": [
+          "Demandez l'allocation de naissance pendant la grossesse — cela ouvre votre droit aux allocations familiales",
+          "Pas de demande d'allocation de naissance ? Remplissez le formulaire de demande d'allocations familiales de votre caisse",
+          "À partir du mois qui suit la naissance, les allocations sont versées chaque mois (au début du mois suivant)",
+          "Signalez à votre caisse tout changement, comme un déménagement ou un nouveau numéro de compte"
+        ]
+      },
+      "de": {
+        "title": "Allocations Familiales (Wallonisches Kindergeld)",
+        "desc": "Das monatliche Kindergeld in der Wallonie. Jedes seit 2020 geborene Kind erhält denselben Grundbetrag, unabhängig von seiner Stellung in der Familie; mit 18 steigt er. Zuschläge können hinzukommen, etwa für niedrigere Einkommen oder Alleinerziehende.",
+        "deadline": "Gezahlt ab dem Monat nach der Geburt. Wurde Ihre Geburtsbeihilfe ausgezahlt, eröffnet die Kasse Ihre Akte automatisch; andernfalls reichen Sie das Antragsformular für Kindergeld ein.",
+        "amount": "200,51 € pro Kind und Monat (213,44 € von 18 bis 24)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ihr Antrag auf Geburtsbeihilfe — oder, falls es keinen gab, das Antragsformular für Kindergeld"
+          },
+          {
+            "type": "id",
+            "label": "Ihre Kontonummer (IBAN)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie während der Schwangerschaft die Geburtsbeihilfe (prime de naissance) — das eröffnet Ihr Recht auf Kindergeld",
+          "Keine Geburtsbeihilfe beantragt? Füllen Sie das Antragsformular für Kindergeld Ihrer Kasse aus",
+          "Ab dem Monat nach der Geburt wird das Kindergeld monatlich gezahlt (Anfang des Folgemonats)",
+          "Melden Sie Änderungen wie Umzug oder neue Kontonummer Ihrer Kasse"
+        ]
+      }
+    }
+  },
+  {
+    "id": 23,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Famiris (or your Brussels family allowance fund)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://famiris.brussels/en/faq/payments-amounts-of-child-benefits/child-benefit-rates/",
+    "content": {
+      "en": {
+        "title": "Allocations Familiales / Kinderbijslag (Brussels Monthly Child Benefit)",
+        "desc": "Brussels' monthly child benefit. Every child born after 1 December 2019 gets the same base amount, whatever their place in the family; it rises with age. Supplements can come on top, for example for lower incomes.",
+        "deadline": "Paid from the month after the birth. If you applied for the Brussels birth allowance, the monthly payments start automatically.",
+        "amount": "€194.04 per child per month (age 0–11)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your Brussels birth allowance request (this opens your file)"
+          },
+          {
+            "type": "id",
+            "label": "Your bank account number (IBAN)"
+          }
+        ],
+        "steps": [
+          "Apply for the Brussels birth allowance during the pregnancy — the monthly payments then start automatically",
+          "Moving to Brussels or switching fund? Apply online with your Brussels fund",
+          "From the month after the birth, the allowance is paid every month: €194.04 (0–11), €206.98 (12–17)",
+          "Report changes such as a move or a new bank account to your fund"
+        ]
+      },
+      "nl": {
+        "title": "Kinderbijslag (Brusselse Maandelijkse Kinderbijslag)",
+        "desc": "De maandelijkse kinderbijslag in Brussel. Elk kind geboren na 1 december 2019 krijgt hetzelfde basisbedrag, ongeacht de plaats in het gezin; het stijgt met de leeftijd. Er kunnen toeslagen bijkomen, bijvoorbeeld voor lagere inkomens.",
+        "deadline": "Betaald vanaf de maand na de geboorte. Heb je de Brusselse geboortepremie aangevraagd, dan starten de maandelijkse betalingen automatisch.",
+        "amount": "€194,04 per kind per maand (0–11 jaar)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Je aanvraag voor de Brusselse geboortepremie (die opent je dossier)"
+          },
+          {
+            "type": "id",
+            "label": "Je rekeningnummer (IBAN)"
+          }
+        ],
+        "steps": [
+          "Vraag tijdens de zwangerschap de Brusselse geboortepremie aan — de maandelijkse betalingen starten dan automatisch",
+          "Verhuis je naar Brussel of verander je van fonds? Vraag het online aan bij je Brussels fonds",
+          "Vanaf de maand na de geboorte wordt de kinderbijslag elke maand betaald: €194,04 (0–11), €206,98 (12–17)",
+          "Meld wijzigingen zoals een verhuis of een nieuw rekeningnummer aan je fonds"
+        ]
+      },
+      "fr": {
+        "title": "Allocations Familiales (Bruxelles)",
+        "desc": "Les allocations familiales mensuelles à Bruxelles. Chaque enfant né après le 1er décembre 2019 reçoit le même montant de base, quel que soit son rang dans la famille ; il augmente avec l'âge. Des suppléments peuvent s'y ajouter, par exemple pour les revenus modestes.",
+        "deadline": "Versées à partir du mois qui suit la naissance. Si vous avez demandé l'allocation de naissance bruxelloise, les paiements mensuels démarrent automatiquement.",
+        "amount": "194,04 € par enfant par mois (0–11 ans)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Votre demande d'allocation de naissance bruxelloise (elle ouvre votre dossier)"
+          },
+          {
+            "type": "id",
+            "label": "Votre numéro de compte bancaire (IBAN)"
+          }
+        ],
+        "steps": [
+          "Demandez l'allocation de naissance bruxelloise pendant la grossesse — les paiements mensuels démarrent alors automatiquement",
+          "Vous emménagez à Bruxelles ou changez de caisse ? Faites la demande en ligne auprès de votre caisse bruxelloise",
+          "À partir du mois qui suit la naissance, les allocations sont versées chaque mois : 194,04 € (0–11 ans), 206,98 € (12–17 ans)",
+          "Signalez à votre caisse tout changement, comme un déménagement ou un nouveau numéro de compte"
+        ]
+      },
+      "de": {
+        "title": "Allocations Familiales (Brüsseler Kindergeld)",
+        "desc": "Das monatliche Kindergeld in Brüssel. Jedes nach dem 1. Dezember 2019 geborene Kind erhält denselben Grundbetrag, unabhängig von seiner Stellung in der Familie; er steigt mit dem Alter. Zuschläge können hinzukommen, etwa für niedrigere Einkommen.",
+        "deadline": "Gezahlt ab dem Monat nach der Geburt. Haben Sie die Brüsseler Geburtsbeihilfe beantragt, beginnen die monatlichen Zahlungen automatisch.",
+        "amount": "194,04 € pro Kind und Monat (0–11 Jahre)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ihr Antrag auf die Brüsseler Geburtsbeihilfe (er eröffnet Ihre Akte)"
+          },
+          {
+            "type": "id",
+            "label": "Ihre Kontonummer (IBAN)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie während der Schwangerschaft die Brüsseler Geburtsbeihilfe — die monatlichen Zahlungen beginnen dann automatisch",
+          "Umzug nach Brüssel oder Kassenwechsel? Beantragen Sie es online bei Ihrer Brüsseler Kasse",
+          "Ab dem Monat nach der Geburt wird das Kindergeld monatlich gezahlt: 194,04 € (0–11), 206,98 € (12–17)",
+          "Melden Sie Änderungen wie Umzug oder neue Kontonummer Ihrer Kasse"
+        ]
+      }
+    }
+  },
+  {
+    "id": 24,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "institution": "Ministerium der Deutschsprachigen Gemeinschaft (Ostbelgien Familie)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://ostbelgienfamilie.be/desktopdefault.aspx/tabid-5886/",
+    "content": {
+      "en": {
+        "title": "Kindergeld (German-speaking Community Child Benefit)",
+        "desc": "The monthly child benefit in the German-speaking Community. Every child living there gets the same base amount, whatever their place in the family, unconditionally until 18. Supplements can come on top, for example for large families or lower incomes.",
+        "deadline": "Starts the month after the birth. Submit your claim within 3 years — after that, the right to child benefit, supplements and premiums lapses.",
+        "amount": "€188.89 per child per month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your application to the Ministry (often made together with the birth premium)"
+          },
+          {
+            "type": "id",
+            "label": "Your bank account number (IBAN)"
+          }
+        ],
+        "steps": [
+          "Apply to the Ministry of the German-speaking Community — at the latest together with your birth premium request",
+          "Keep your file number: it is on every letter and you need it whenever you contact the Ministry",
+          "From the month after the birth, the base amount is paid every month",
+          "Report changes such as a move to the Ministry — the amount changes from the following month"
+        ]
+      },
+      "nl": {
+        "title": "Kindergeld (Kinderbijslag Duitstalige Gemeenschap)",
+        "desc": "De maandelijkse kinderbijslag in de Duitstalige Gemeenschap. Elk kind dat er woont krijgt hetzelfde basisbedrag, ongeacht de plaats in het gezin, onvoorwaardelijk tot 18 jaar. Er kunnen toeslagen bijkomen, bijvoorbeeld voor grote gezinnen of lagere inkomens.",
+        "deadline": "Start de maand na de geboorte. Dien je aanvraag in binnen 3 jaar — daarna vervalt het recht op kinderbijslag, toeslagen en premies.",
+        "amount": "€188,89 per kind per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Je aanvraag bij het Ministerie (vaak samen met de geboortepremie)"
+          },
+          {
+            "type": "id",
+            "label": "Je rekeningnummer (IBAN)"
+          }
+        ],
+        "steps": [
+          "Vraag het aan bij het Ministerie van de Duitstalige Gemeenschap — ten laatste samen met je aanvraag voor de geboortepremie",
+          "Bewaar je dossiernummer: het staat op elke brief en je hebt het nodig als je het Ministerie contacteert",
+          "Vanaf de maand na de geboorte wordt het basisbedrag elke maand betaald",
+          "Meld wijzigingen zoals een verhuis aan het Ministerie — het bedrag verandert vanaf de volgende maand"
+        ]
+      },
+      "fr": {
+        "title": "Kindergeld (Allocations familiales en Communauté germanophone)",
+        "desc": "Les allocations familiales mensuelles en Communauté germanophone. Chaque enfant qui y vit reçoit le même montant de base, quel que soit son rang dans la famille, sans condition jusqu'à 18 ans. Des suppléments peuvent s'y ajouter, par exemple pour les familles nombreuses ou les revenus modestes.",
+        "deadline": "Démarrent le mois qui suit la naissance. Introduisez votre demande dans les 3 ans — au-delà, le droit aux allocations, suppléments et primes est perdu.",
+        "amount": "188,89 € par enfant par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Votre demande auprès du Ministère (souvent en même temps que la prime de naissance)"
+          },
+          {
+            "type": "id",
+            "label": "Votre numéro de compte bancaire (IBAN)"
+          }
+        ],
+        "steps": [
+          "Faites la demande auprès du Ministère de la Communauté germanophone — au plus tard avec votre demande de prime de naissance",
+          "Conservez votre numéro de dossier : il figure sur chaque courrier et vous en aurez besoin pour contacter le Ministère",
+          "À partir du mois qui suit la naissance, le montant de base est versé chaque mois",
+          "Signalez tout changement, comme un déménagement, au Ministère — le montant change dès le mois suivant"
+        ]
+      },
+      "de": {
+        "title": "Kindergeld (Deutschsprachige Gemeinschaft)",
+        "desc": "Das monatliche Kindergeld in der Deutschsprachigen Gemeinschaft. Jedes Kind, das dort wohnt, erhält denselben Grundbetrag, unabhängig von seiner Stellung in der Familie, bis 18 bedingungslos. Zuschläge können hinzukommen, etwa für kinderreiche Familien oder niedrigere Einkommen.",
+        "deadline": "Beginnt im Monat nach der Geburt. Reichen Sie Ihren Antrag innerhalb von 3 Jahren ein — danach verfällt der Anspruch auf Kindergeld, Zuschläge und Prämien.",
+        "amount": "188,89 € pro Kind und Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ihr Antrag beim Ministerium (oft zusammen mit der Geburtsprämie)"
+          },
+          {
+            "type": "id",
+            "label": "Ihre Kontonummer (IBAN)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie es beim Ministerium der Deutschsprachigen Gemeinschaft — spätestens zusammen mit Ihrem Antrag auf die Geburtsprämie",
+          "Bewahren Sie Ihre Aktennummer auf: Sie steht auf jedem Schreiben und Sie brauchen sie bei jedem Kontakt mit dem Ministerium",
+          "Ab dem Monat nach der Geburt wird der Grundbetrag monatlich gezahlt",
+          "Melden Sie Änderungen wie einen Umzug dem Ministerium — der Betrag ändert sich ab dem Folgemonat"
+        ]
+      }
+    }
+  },
+  {
+    "id": 25,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Your health insurance fund (ziekenfonds / mutualité) — RIZIV-INAMI",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-werknemers-en-werklozen",
+    "content": {
+      "en": {
+        "title": "Maternity Benefit for Employees (Moederschapsuitkering)",
+        "desc": "During maternity leave your employer does not pay your salary — your health insurance fund pays a maternity benefit instead, but only once you send them the paperwork. Leave lasts 15 weeks (17 for twins or more). Unemployed? You get it through your fund too. Tip: ask HR whether your employer's group insurance tops up the difference — if it does, ask which form the insurer needs (often one signed by you and your doctor).",
+        "deadline": "Send the medical certificate to your fund before your leave starts. At least 1 week before and 9 weeks after the birth are mandatory.",
+        "amount": "82% of your gross salary for 30 days, then 75% (capped)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate with your due date and the date your leave starts"
+          },
+          {
+            "type": "doc",
+            "label": "After the birth: an extract of the birth certificate (or a medical certificate of the birth)"
+          }
+        ],
+        "steps": [
+          "Ask your gynaecologist or midwife for a certificate with your due date (mention twins or more)",
+          "Send it to your health insurance fund before your leave starts, and stop working from that date",
+          "After the birth, send the birth certificate extract so the fund can set your end date",
+          "Your fund pays 82% of your gross salary for the first 30 days (no cap), then 75% up to €141.63 gross per day; 11.11% tax is withheld"
+        ]
+      },
+      "nl": {
+        "title": "Moederschapsuitkering voor Werkneemsters",
+        "desc": "Tijdens je moederschapsrust betaalt je werkgever je loon niet — je ziekenfonds betaalt een moederschapsuitkering, maar pas als je hen de papieren bezorgt. De rust duurt 15 weken (17 bij een meerling). Werkloos? Ook dan krijg je ze via je ziekenfonds. Tip: vraag aan HR of de groepsverzekering van je werkgever het verschil bijpast — zo ja, vraag welk formulier de verzekeraar nodig heeft (vaak een formulier dat jij en je arts ondertekenen).",
+        "deadline": "Bezorg het medisch attest aan je ziekenfonds vóór je rust begint. Minstens 1 week vóór en 9 weken na de bevalling zijn verplicht.",
+        "amount": "82% van je brutoloon gedurende 30 dagen, daarna 75% (begrensd)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch attest met je vermoedelijke bevallingsdatum en de startdatum van je rust"
+          },
+          {
+            "type": "doc",
+            "label": "Na de geboorte: een uittreksel uit de geboorteakte (of een medisch attest van de geboorte)"
+          }
+        ],
+        "steps": [
+          "Vraag je gynaecoloog of vroedvrouw een attest met je vermoedelijke bevallingsdatum (vermeld een meerling)",
+          "Bezorg het aan je ziekenfonds vóór je rust begint, en stop met werken vanaf die datum",
+          "Bezorg na de geboorte het uittreksel uit de geboorteakte, zodat het ziekenfonds je einddatum kan vastleggen",
+          "Je ziekenfonds betaalt de eerste 30 dagen 82% van je brutoloon (zonder plafond), daarna 75% tot €141,63 bruto per dag; er wordt 11,11% voorheffing ingehouden"
+        ]
+      },
+      "fr": {
+        "title": "Indemnité de Maternité pour Salariées",
+        "desc": "Pendant votre congé de maternité, votre employeur ne verse pas votre salaire — c'est votre mutualité qui paie une indemnité de maternité, mais seulement après réception de vos documents. Le congé dure 15 semaines (17 en cas de naissance multiple). Au chômage ? Vous la recevez aussi via votre mutualité. Astuce : demandez aux RH si l'assurance groupe de votre employeur complète la différence — si oui, demandez quel formulaire l'assureur exige (souvent signé par vous et votre médecin).",
+        "deadline": "Envoyez le certificat médical à votre mutualité avant le début du congé. Au moins 1 semaine avant et 9 semaines après l'accouchement sont obligatoires.",
+        "amount": "82 % du salaire brut pendant 30 jours, puis 75 % (plafonné)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical avec la date prévue de l'accouchement et la date de début du congé"
+          },
+          {
+            "type": "doc",
+            "label": "Après la naissance : un extrait d'acte de naissance (ou un certificat médical de la naissance)"
+          }
+        ],
+        "steps": [
+          "Demandez à votre gynécologue ou sage-femme un certificat avec la date prévue (mentionnez une naissance multiple)",
+          "Envoyez-le à votre mutualité avant le début du congé, et arrêtez de travailler à partir de cette date",
+          "Après la naissance, envoyez l'extrait d'acte de naissance pour que la mutualité fixe la date de fin",
+          "Votre mutualité paie 82 % du salaire brut les 30 premiers jours (sans plafond), puis 75 % jusqu'à 141,63 € brut par jour ; 11,11 % de précompte est retenu"
+        ]
+      },
+      "de": {
+        "title": "Mutterschaftsgeld für Arbeitnehmerinnen",
+        "desc": "Während des Mutterschaftsurlaubs zahlt Ihr Arbeitgeber kein Gehalt — Ihre Krankenkasse zahlt stattdessen Mutterschaftsgeld, aber erst, wenn Sie ihr die Unterlagen schicken. Der Urlaub dauert 15 Wochen (17 bei Mehrlingen). Arbeitslos? Auch dann erhalten Sie es über Ihre Krankenkasse. Tipp: Fragen Sie die Personalabteilung, ob die Gruppenversicherung Ihres Arbeitgebers die Differenz aufstockt — falls ja, fragen Sie, welches Formular der Versicherer braucht (oft eines, das Sie und Ihr Arzt unterschreiben).",
+        "deadline": "Schicken Sie das ärztliche Attest vor Beginn des Urlaubs an Ihre Krankenkasse. Mindestens 1 Woche vor und 9 Wochen nach der Geburt sind Pflicht.",
+        "amount": "82 % des Bruttolohns für 30 Tage, danach 75 % (gedeckelt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliches Attest mit dem Geburtstermin und dem Beginn des Urlaubs"
+          },
+          {
+            "type": "doc",
+            "label": "Nach der Geburt: ein Auszug aus der Geburtsurkunde (oder ein ärztliches Attest über die Geburt)"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von Ihrer Gynäkologin oder Hebamme ein Attest mit dem Geburtstermin ausstellen (Mehrlinge angeben)",
+          "Schicken Sie es vor Beginn des Urlaubs an Ihre Krankenkasse und hören Sie ab diesem Datum auf zu arbeiten",
+          "Schicken Sie nach der Geburt den Auszug aus der Geburtsurkunde, damit die Kasse das Enddatum festlegen kann",
+          "Ihre Kasse zahlt in den ersten 30 Tagen 82 % des Bruttolohns (ohne Obergrenze), danach 75 % bis 141,63 € brutto pro Tag; 11,11 % Steuer werden einbehalten"
+        ]
+      }
+    }
+  },
+  {
+    "id": 26,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Your employer + your health insurance fund (ziekenfonds / mutualité)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/geboorteverlof-en-adoptieverlof/geboorteverlof-voor-werknemers",
+    "content": {
+      "en": {
+        "title": "Birth Leave for the Partner (Geboorteverlof)",
+        "desc": "The father or co-parent may take 20 days of birth leave. Your employer pays the first 3 days in full; your health insurance fund pays the other 17 — but only if you apply to the fund yourself.",
+        "deadline": "Take the days within 4 months of the birth. They can be spread out.",
+        "amount": "3 days' full salary + up to 17 days at 82% of gross salary",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the child's birth certificate (for your employer and your fund)"
+          },
+          {
+            "type": "doc",
+            "label": "Co-parent without a legal parent link: a signed sworn statement"
+          }
+        ],
+        "steps": [
+          "Tell your employer which days you will take and give them a copy of the birth certificate",
+          "Apply to your health insurance fund with an extract of the birth certificate",
+          "Fill in the 'beneficiary' part of the information form your fund sends you",
+          "The fund pays 82% of your gross salary (max. €154.71 gross per day, 11.11% tax withheld) within 30 days of your application"
+        ]
+      },
+      "nl": {
+        "title": "Geboorteverlof voor de Partner",
+        "desc": "De vader of meeouder mag 20 dagen geboorteverlof opnemen. Je werkgever betaalt de eerste 3 dagen volledig; je ziekenfonds betaalt de andere 17 — maar enkel als je het zelf aanvraagt bij je ziekenfonds.",
+        "deadline": "Neem de dagen op binnen 4 maanden na de bevalling. Je mag ze spreiden.",
+        "amount": "3 dagen volledig loon + tot 17 dagen aan 82% van je brutoloon",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte van het kind (voor je werkgever en je ziekenfonds)"
+          },
+          {
+            "type": "doc",
+            "label": "Meeouder zonder afstammingsband: een ondertekende verklaring op eer"
+          }
+        ],
+        "steps": [
+          "Laat je werkgever weten welke dagen je opneemt en bezorg een kopie van de geboorteakte",
+          "Dien een aanvraag in bij je ziekenfonds met een uittreksel uit de geboorteakte",
+          "Vul het deel 'gerechtigde' in van het inlichtingenblad dat je ziekenfonds je stuurt",
+          "Het ziekenfonds betaalt 82% van je brutoloon (max. €154,71 bruto per dag, 11,11% voorheffing) binnen 30 dagen na je aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Congé de Naissance pour le Partenaire",
+        "desc": "Le père ou co-parent peut prendre 20 jours de congé de naissance. L'employeur paie entièrement les 3 premiers jours ; la mutualité paie les 17 autres — mais seulement si vous en faites vous-même la demande auprès d'elle.",
+        "deadline": "Prenez les jours dans les 4 mois qui suivent l'accouchement. Vous pouvez les étaler.",
+        "amount": "3 jours de salaire complet + jusqu'à 17 jours à 82 % du salaire brut",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance de l'enfant (pour l'employeur et la mutualité)"
+          },
+          {
+            "type": "doc",
+            "label": "Co-parent sans lien de filiation : une déclaration sur l'honneur signée"
+          }
+        ],
+        "steps": [
+          "Informez votre employeur des jours que vous prendrez et remettez-lui une copie de l'acte de naissance",
+          "Introduisez une demande auprès de votre mutualité avec un extrait d'acte de naissance",
+          "Complétez la partie « titulaire » de la feuille de renseignements que la mutualité vous envoie",
+          "La mutualité paie 82 % du salaire brut (max. 154,71 € brut par jour, 11,11 % de précompte) dans les 30 jours suivant votre demande"
+        ]
+      },
+      "de": {
+        "title": "Geburtsurlaub für den Partner",
+        "desc": "Der Vater oder Mitelternteil kann 20 Tage Geburtsurlaub nehmen. Der Arbeitgeber zahlt die ersten 3 Tage voll; die Krankenkasse zahlt die übrigen 17 — aber nur, wenn Sie es selbst bei der Kasse beantragen.",
+        "deadline": "Nehmen Sie die Tage innerhalb von 4 Monaten nach der Geburt. Sie dürfen sie verteilen.",
+        "amount": "3 Tage voller Lohn + bis zu 17 Tage mit 82 % des Bruttolohns",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde des Kindes (für Arbeitgeber und Krankenkasse)"
+          },
+          {
+            "type": "doc",
+            "label": "Mitelternteil ohne rechtliche Abstammung: eine unterschriebene ehrenwörtliche Erklärung"
+          }
+        ],
+        "steps": [
+          "Teilen Sie Ihrem Arbeitgeber mit, welche Tage Sie nehmen, und geben Sie ihm eine Kopie der Geburtsurkunde",
+          "Stellen Sie bei Ihrer Krankenkasse einen Antrag mit einem Auszug aus der Geburtsurkunde",
+          "Füllen Sie den Teil „Berechtigter“ des Auskunftsblatts aus, das Ihnen die Kasse schickt",
+          "Die Kasse zahlt 82 % des Bruttolohns (max. 154,71 € brutto pro Tag, 11,11 % Steuer) innerhalb von 30 Tagen nach Ihrem Antrag"
+        ]
+      }
+    }
+  },
+  {
+    "id": 27,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Your health insurance fund + your social insurance fund (self-employed)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-zelfstandigen",
+    "content": {
+      "en": {
+        "title": "Maternity Benefit + Free Service Vouchers for Self-Employed Mothers",
+        "desc": "Self-employed mothers (and helpers or assisting spouses) get a fixed weekly maternity benefit from their health insurance fund, plus up to 105 free service vouchers for household help. Since 1 July 2026 you choose: fewer vouchers means more optional weeks of rest.",
+        "deadline": "Apply to your health insurance fund before your rest starts. The 3 weeks around the birth are mandatory; the voucher choice is final once made.",
+        "amount": "€917.33/week for 4 weeks, then €839.82/week + up to 105 vouchers",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The maternity form from your health insurance fund"
+          },
+          {
+            "type": "doc",
+            "label": "Medical certificate with your due date (mention twins or more)"
+          },
+          {
+            "type": "doc",
+            "label": "After the birth: an extract of the birth certificate"
+          }
+        ],
+        "steps": [
+          "Ask your health insurance fund for the maternity form and fill in your due date and the optional weeks you plan",
+          "Send it with the medical certificate before your rest starts; after the birth, send the birth certificate extract",
+          "Your social insurance fund contacts you to choose 0, 35, 70 or 105 free vouchers — fewer vouchers give up to 3 extra weeks of rest",
+          "Tell your health insurance fund within 2 days when you go back to work"
+        ]
+      },
+      "nl": {
+        "title": "Moederschapsuitkering + Gratis Dienstencheques voor Zelfstandigen",
+        "desc": "Zelfstandige moeders (en helpsters of meewerkende echtgenotes) krijgen van hun ziekenfonds een vaste wekelijkse moederschapsuitkering, plus tot 105 gratis dienstencheques voor huishoudhulp. Sinds 1 juli 2026 kies je: minder cheques betekent meer facultatieve rustweken.",
+        "deadline": "Vraag het aan bij je ziekenfonds vóór je rust begint. De 3 weken rond de bevalling zijn verplicht; je keuze voor dienstencheques ligt vast zodra je ze maakt.",
+        "amount": "€917,33/week gedurende 4 weken, daarna €839,82/week + tot 105 cheques",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier moederschapsrust van je ziekenfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Medisch attest met je vermoedelijke bevallingsdatum (vermeld een meerling)"
+          },
+          {
+            "type": "doc",
+            "label": "Na de geboorte: een uittreksel uit de geboorteakte"
+          }
+        ],
+        "steps": [
+          "Vraag het formulier moederschapsrust aan bij je ziekenfonds en vul je bevallingsdatum en geplande facultatieve weken in",
+          "Bezorg het met het medisch attest vóór je rust begint; na de geboorte bezorg je het uittreksel uit de geboorteakte",
+          "Je sociaal verzekeringsfonds contacteert je om te kiezen tussen 0, 35, 70 of 105 gratis cheques — minder cheques geven tot 3 extra rustweken",
+          "Meld je werkhervatting binnen 2 dagen aan je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Indemnité de Maternité + Titres-Services Gratuits pour Indépendantes",
+        "desc": "Les indépendantes (et aidantes ou conjointes aidantes) reçoivent de leur mutualité une indemnité de maternité forfaitaire par semaine, plus jusqu'à 105 titres-services gratuits pour l'aide ménagère. Depuis le 1er juillet 2026, vous choisissez : moins de titres-services, c'est plus de semaines de repos facultatives.",
+        "deadline": "Faites la demande auprès de votre mutualité avant le début du repos. Les 3 semaines autour de l'accouchement sont obligatoires ; le choix des titres-services est définitif.",
+        "amount": "917,33 €/semaine pendant 4 semaines, puis 839,82 €/semaine + jusqu'à 105 titres",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de repos de maternité de votre mutualité"
+          },
+          {
+            "type": "doc",
+            "label": "Certificat médical avec la date prévue de l'accouchement (mentionnez une naissance multiple)"
+          },
+          {
+            "type": "doc",
+            "label": "Après la naissance : un extrait d'acte de naissance"
+          }
+        ],
+        "steps": [
+          "Demandez à votre mutualité le formulaire de repos de maternité et indiquez la date prévue et les semaines facultatives envisagées",
+          "Envoyez-le avec le certificat médical avant le début du repos ; après la naissance, envoyez l'extrait d'acte de naissance",
+          "Votre caisse d'assurances sociales vous contacte pour choisir 0, 35, 70 ou 105 titres-services gratuits — moins de titres donne jusqu'à 3 semaines de repos en plus",
+          "Signalez la reprise du travail à votre mutualité dans les 2 jours"
+        ]
+      },
+      "de": {
+        "title": "Mutterschaftsgeld + Kostenlose Dienstleistungsschecks für Selbstständige",
+        "desc": "Selbstständige Mütter (und Helferinnen oder mithelfende Ehepartnerinnen) erhalten von ihrer Krankenkasse ein festes wöchentliches Mutterschaftsgeld sowie bis zu 105 kostenlose Dienstleistungsschecks für Haushaltshilfe. Seit dem 1. Juli 2026 wählen Sie: weniger Schecks bedeuten mehr freiwillige Ruhewochen.",
+        "deadline": "Beantragen Sie es vor Beginn der Ruhezeit bei Ihrer Krankenkasse. Die 3 Wochen rund um die Geburt sind Pflicht; die Wahl der Schecks ist endgültig.",
+        "amount": "917,33 €/Woche für 4 Wochen, danach 839,82 €/Woche + bis zu 105 Schecks",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Mutterschaftsformular Ihrer Krankenkasse"
+          },
+          {
+            "type": "doc",
+            "label": "Ärztliches Attest mit dem Geburtstermin (Mehrlinge angeben)"
+          },
+          {
+            "type": "doc",
+            "label": "Nach der Geburt: ein Auszug aus der Geburtsurkunde"
+          }
+        ],
+        "steps": [
+          "Fordern Sie bei Ihrer Krankenkasse das Mutterschaftsformular an und tragen Sie Geburtstermin und geplante freiwillige Wochen ein",
+          "Schicken Sie es mit dem ärztlichen Attest vor Beginn der Ruhezeit; nach der Geburt den Auszug aus der Geburtsurkunde",
+          "Ihre Sozialversicherungskasse kontaktiert Sie, um 0, 35, 70 oder 105 kostenlose Schecks zu wählen — weniger Schecks geben bis zu 3 zusätzliche Ruhewochen",
+          "Melden Sie die Wiederaufnahme der Arbeit innerhalb von 2 Tagen Ihrer Krankenkasse"
+        ]
+      }
+    }
+  },
+  {
+    "id": 28,
+    "category": "health",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Kind en Gezin (Opgroeien)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.kindengezin.be/nl/kind-en-gezin-diensten/aanbod-zwangerschap",
+    "content": {
+      "en": {
+        "title": "Kind en Gezin: Free Check-ups and Vaccinations",
+        "desc": "Free support from pregnancy onwards. During pregnancy you can have an intake conversation (startgesprek) with your local Kind en Gezin team and get the child's health booklet (Kindboekje). After the birth, the consultatiebureau offers free preventive check-ups for children under 3: your baby is measured and weighed, examined by a doctor and given free vaccinations.",
+        "deadline": "Start during the pregnancy. Heard nothing 10 days after the birth? Contact the Kind en Gezin-Lijn yourself.",
+        "amount": "Free",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme or eID to use Mijn Opgroeien (or contact the Kind en Gezin-Lijn)"
+          }
+        ],
+        "steps": [
+          "During the pregnancy, pass on your details via mijn.opgroeien.be or the Kind en Gezin-Lijn — applying for the startbedrag also passes them on",
+          "Have your intake conversation with your local team and receive the Kindboekje",
+          "After the birth the hospital informs your local team; no contact after 10 days? Call the Kind en Gezin-Lijn",
+          "Book free check-ups at the consultatiebureau until your child turns 3: growth, a doctor's exam and the vaccinations"
+        ]
+      },
+      "nl": {
+        "title": "Kind en Gezin: Gratis Consulten en Vaccinaties",
+        "desc": "Gratis ondersteuning vanaf de zwangerschap. Tijdens de zwangerschap kun je een startgesprek hebben met je Kind en Gezin-team in de buurt en krijg je het Kindboekje. Na de geboorte biedt het consultatiebureau gratis preventieve consulten voor kinderen jonger dan 3: je baby wordt gemeten en gewogen, onderzocht door een arts en krijgt gratis vaccinaties.",
+        "deadline": "Start tijdens de zwangerschap. Niets gehoord 10 dagen na de geboorte? Contacteer zelf de Kind en Gezin-Lijn.",
+        "amount": "Gratis",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme of eID om Mijn Opgroeien te gebruiken (of contacteer de Kind en Gezin-Lijn)"
+          }
+        ],
+        "steps": [
+          "Bezorg tijdens de zwangerschap je gegevens via mijn.opgroeien.be of de Kind en Gezin-Lijn — ook je aanvraag voor het startbedrag geeft ze door",
+          "Voer je startgesprek met je team in de buurt en ontvang het Kindboekje",
+          "Na de geboorte verwittigt het ziekenhuis je team; na 10 dagen geen contact? Bel de Kind en Gezin-Lijn",
+          "Maak een afspraak op het consultatiebureau voor gratis consulten tot je kind 3 is: groei, onderzoek door een arts en de vaccinaties"
+        ]
+      },
+      "fr": {
+        "title": "Kind en Gezin : Consultations et Vaccinations Gratuites",
+        "desc": "Un accompagnement gratuit dès la grossesse (offre néerlandophone, en Flandre et à Bruxelles). Pendant la grossesse, vous pouvez avoir un entretien d'accueil (startgesprek) avec l'équipe Kind en Gezin de votre quartier et recevoir le carnet de l'enfant (Kindboekje). Après la naissance, le consultatiebureau propose des consultations préventives gratuites pour les enfants de moins de 3 ans : votre bébé est mesuré et pesé, examiné par un médecin et reçoit des vaccins gratuits.",
+        "deadline": "Commencez pendant la grossesse. Aucune nouvelle 10 jours après la naissance ? Contactez vous-même la Kind en Gezin-Lijn.",
+        "amount": "Gratuit",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme ou eID pour utiliser Mijn Opgroeien (ou contactez la Kind en Gezin-Lijn)"
+          }
+        ],
+        "steps": [
+          "Pendant la grossesse, transmettez vos coordonnées via mijn.opgroeien.be ou la Kind en Gezin-Lijn — la demande de startbedrag les transmet aussi",
+          "Passez l'entretien d'accueil avec l'équipe de votre quartier et recevez le Kindboekje",
+          "Après la naissance, l'hôpital prévient votre équipe ; aucun contact après 10 jours ? Appelez la Kind en Gezin-Lijn",
+          "Prenez rendez-vous au consultatiebureau pour des consultations gratuites jusqu'aux 3 ans de l'enfant : croissance, examen médical et vaccins"
+        ]
+      },
+      "de": {
+        "title": "Kind en Gezin: Kostenlose Untersuchungen und Impfungen",
+        "desc": "Kostenlose Begleitung ab der Schwangerschaft (niederländischsprachiges Angebot in Flandern und Brüssel). Während der Schwangerschaft können Sie ein Erstgespräch (startgesprek) mit dem Kind-en-Gezin-Team in Ihrer Nähe führen und erhalten das Kinderheft (Kindboekje). Nach der Geburt bietet das consultatiebureau kostenlose Vorsorgeuntersuchungen für Kinder unter 3 Jahren: Ihr Baby wird gemessen und gewogen, ärztlich untersucht und kostenlos geimpft.",
+        "deadline": "Beginnen Sie während der Schwangerschaft. 10 Tage nach der Geburt nichts gehört? Kontaktieren Sie selbst die Kind en Gezin-Lijn.",
+        "amount": "Kostenlos",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme oder eID für Mijn Opgroeien (oder kontaktieren Sie die Kind en Gezin-Lijn)"
+          }
+        ],
+        "steps": [
+          "Geben Sie während der Schwangerschaft Ihre Daten über mijn.opgroeien.be oder die Kind en Gezin-Lijn weiter — auch der Antrag auf den Startbedrag leitet sie weiter",
+          "Führen Sie das Erstgespräch mit Ihrem Team vor Ort und erhalten Sie das Kindboekje",
+          "Nach der Geburt informiert das Krankenhaus Ihr Team; nach 10 Tagen kein Kontakt? Rufen Sie die Kind en Gezin-Lijn an",
+          "Vereinbaren Sie im consultatiebureau kostenlose Untersuchungen bis zum 3. Geburtstag: Wachstum, ärztliche Untersuchung und Impfungen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 29,
+    "category": "health",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia",
+      "Brussels"
+    ],
+    "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "institution": "ONE (Office de la Naissance et de l'Enfance)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://my.one.be/information/consultations-prenatales/",
+    "content": {
+      "en": {
+        "title": "ONE: Free Prenatal and Child Consultations",
+        "desc": "ONE (French-speaking, in Wallonia and Brussels) offers free prenatal consultations — in your neighbourhood or at the hospital — and free preventive consultations for children aged 0 to 6: medical check-ups, vaccinations and follow-up of your child's development. You receive the 0–18 health booklet (carnet de santé) at the maternity ward.",
+        "deadline": "Prenatal consultations during the pregnancy; child consultations from birth to age 6. Consultations are by appointment.",
+        "amount": "Free",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your child's health booklet (carnet de santé), given at the maternity ward"
+          }
+        ],
+        "steps": [
+          "Find a prenatal or child consultation near you on my.one.be",
+          "Call one of the Partenaires Enfants-Parents (PEP) listed for that location to book an appointment",
+          "Bring the carnet de santé to every visit so check-ups and vaccinations are recorded",
+          "Keep coming for check-ups and vaccinations until your child is 6 — all free"
+        ]
+      },
+      "nl": {
+        "title": "ONE: Gratis Prenatale en Kinderconsulten",
+        "desc": "ONE (Franstalig, in Wallonië en Brussel) biedt gratis prenatale consulten — in je buurt of in het ziekenhuis — en gratis preventieve consulten voor kinderen van 0 tot 6 jaar: medisch onderzoek, vaccinaties en opvolging van de ontwikkeling van je kind. Je krijgt het gezondheidsboekje 0–18 (carnet de santé) op de kraamafdeling.",
+        "deadline": "Prenatale consulten tijdens de zwangerschap; kinderconsulten van de geboorte tot 6 jaar. Consulten zijn op afspraak.",
+        "amount": "Gratis",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het gezondheidsboekje van je kind (carnet de santé), gekregen op de kraamafdeling"
+          }
+        ],
+        "steps": [
+          "Zoek een prenataal consult of kinderconsult in je buurt op my.one.be",
+          "Bel een van de Partenaires Enfants-Parents (PEP) die voor die locatie vermeld staan om een afspraak te maken",
+          "Breng het carnet de santé mee naar elk bezoek zodat onderzoeken en vaccinaties genoteerd worden",
+          "Blijf komen voor onderzoeken en vaccinaties tot je kind 6 is — allemaal gratis"
+        ]
+      },
+      "fr": {
+        "title": "ONE : Consultations Prénatales et pour Enfants Gratuites",
+        "desc": "L'ONE propose des consultations prénatales gratuites — de quartier ou à l'hôpital — et des consultations préventives gratuites pour les enfants de 0 à 6 ans : examens médicaux, vaccinations et suivi du développement de votre enfant. Le carnet de santé 0–18 ans vous est remis à la maternité.",
+        "deadline": "Consultations prénatales pendant la grossesse ; consultations pour enfants de la naissance à 6 ans. Sur rendez-vous.",
+        "amount": "Gratuit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le carnet de santé de votre enfant, remis à la maternité"
+          }
+        ],
+        "steps": [
+          "Trouvez une consultation prénatale ou pour enfants près de chez vous sur my.one.be",
+          "Appelez l'un des Partenaires Enfants-Parents (PEP) indiqués pour ce lieu afin de prendre rendez-vous",
+          "Apportez le carnet de santé à chaque visite pour y noter examens et vaccinations",
+          "Revenez pour les examens et vaccinations jusqu'aux 6 ans de votre enfant — tout est gratuit"
+        ]
+      },
+      "de": {
+        "title": "ONE: Kostenlose Schwangerschafts- und Kinderberatung",
+        "desc": "Das ONE (französischsprachig, in der Wallonie und in Brüssel) bietet kostenlose Schwangerschaftsberatungen — im Viertel oder im Krankenhaus — und kostenlose Vorsorgeberatungen für Kinder von 0 bis 6 Jahren: ärztliche Untersuchungen, Impfungen und Begleitung der Entwicklung Ihres Kindes. Das Gesundheitsheft 0–18 (carnet de santé) erhalten Sie auf der Entbindungsstation.",
+        "deadline": "Schwangerschaftsberatung während der Schwangerschaft; Kinderberatung von der Geburt bis 6 Jahre. Nach Terminvereinbarung.",
+        "amount": "Kostenlos",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Gesundheitsheft Ihres Kindes (carnet de santé), von der Entbindungsstation"
+          }
+        ],
+        "steps": [
+          "Suchen Sie auf my.one.be eine Schwangerschafts- oder Kinderberatung in Ihrer Nähe",
+          "Rufen Sie einen der dort genannten Partenaires Enfants-Parents (PEP) an, um einen Termin zu vereinbaren",
+          "Bringen Sie das carnet de santé zu jedem Besuch mit, damit Untersuchungen und Impfungen eingetragen werden",
+          "Kommen Sie bis zum 6. Geburtstag Ihres Kindes zu Untersuchungen und Impfungen — alles kostenlos"
+        ]
+      }
+    }
+  },
+  {
+    "id": 30,
+    "category": "health",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "institution": "Kaleido Ostbelgien",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.kaleido-ostbelgien.be/angebote/koerperliche-gesundheit-entwicklung/detail/kostenlose-impfungen",
+    "content": {
+      "en": {
+        "title": "Kaleido: Free Child Health Care and Vaccinations",
+        "desc": "Kaleido is the German-speaking Community's service for healthy child development. Its support starts during pregnancy, and its early-childhood check-up centres (Vorsorgestellen) give the free basic vaccinations between 2 and 15 months. Later boosters are given free at school health checks. All Kaleido services are free.",
+        "deadline": "Get in touch during the pregnancy; the basic vaccinations run from 2 to 15 months.",
+        "amount": "Free",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your child's vaccination card (Kaleido also keeps a vaccination register)"
+          }
+        ],
+        "steps": [
+          "Contact your local Kaleido office: Eupen, Kelmis, Büllingen or St. Vith",
+          "Agree the follow-up and vaccination appointments for your baby",
+          "Go to the Vorsorgestelle for the basic vaccinations between 2 and 15 months",
+          "Later boosters follow at the free school health checks"
+        ]
+      },
+      "nl": {
+        "title": "Kaleido: Gratis Kindergezondheidszorg en Vaccinaties",
+        "desc": "Kaleido is de dienst van de Duitstalige Gemeenschap voor een gezonde ontwikkeling van kinderen. De ondersteuning start tijdens de zwangerschap, en de Vorsorgestellen geven de gratis basisvaccinaties tussen 2 en 15 maanden. Latere boosters worden gratis gegeven tijdens het schoolmedisch onderzoek. Alle diensten van Kaleido zijn gratis.",
+        "deadline": "Neem contact op tijdens de zwangerschap; de basisvaccinaties lopen van 2 tot 15 maanden.",
+        "amount": "Gratis",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De vaccinatiekaart van je kind (Kaleido houdt ook een vaccinatieregister bij)"
+          }
+        ],
+        "steps": [
+          "Contacteer je Kaleido-kantoor: Eupen, Kelmis, Büllingen of St. Vith",
+          "Spreek de opvolgings- en vaccinatieafspraken voor je baby af",
+          "Ga naar de Vorsorgestelle voor de basisvaccinaties tussen 2 en 15 maanden",
+          "Latere boosters volgen tijdens het gratis schoolmedisch onderzoek"
+        ]
+      },
+      "fr": {
+        "title": "Kaleido : Suivi de Santé et Vaccins Gratuits",
+        "desc": "Kaleido est le service de la Communauté germanophone pour le développement sain des enfants. Son accompagnement commence pendant la grossesse, et ses centres de prévention de la petite enfance (Vorsorgestellen) administrent gratuitement les vaccins de base entre 2 et 15 mois. Les rappels sont ensuite faits gratuitement lors des examens de santé scolaire. Tous les services de Kaleido sont gratuits.",
+        "deadline": "Prenez contact pendant la grossesse ; les vaccins de base se font de 2 à 15 mois.",
+        "amount": "Gratuit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La carte de vaccination de votre enfant (Kaleido tient aussi un registre de vaccination)"
+          }
+        ],
+        "steps": [
+          "Contactez votre bureau Kaleido : Eupen, La Calamine (Kelmis), Bullange (Büllingen) ou Saint-Vith",
+          "Convenez des rendez-vous de suivi et de vaccination de votre bébé",
+          "Rendez-vous à la Vorsorgestelle pour les vaccins de base entre 2 et 15 mois",
+          "Les rappels suivent lors des examens de santé scolaire gratuits"
+        ]
+      },
+      "de": {
+        "title": "Kaleido: Kostenlose Kindergesundheit und Impfungen",
+        "desc": "Kaleido ist das Zentrum der Deutschsprachigen Gemeinschaft für die gesunde Entwicklung von Kindern. Die Begleitung beginnt bereits in der Schwangerschaft, und die Vorsorgestellen der frühkindlichen Entwicklung verabreichen die kostenlosen Grundimpfungen zwischen dem 2. und 15. Lebensmonat. Spätere Auffrischungen gibt es kostenlos bei den schulärztlichen Untersuchungen. Alle Dienstleistungen von Kaleido sind kostenlos.",
+        "deadline": "Nehmen Sie während der Schwangerschaft Kontakt auf; die Grundimpfungen erfolgen vom 2. bis 15. Lebensmonat.",
+        "amount": "Kostenlos",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der Impfpass Ihres Kindes (Kaleido führt zusätzlich ein Impfregister)"
+          }
+        ],
+        "steps": [
+          "Kontaktieren Sie Ihre Kaleido-Servicestelle: Eupen, Kelmis, Büllingen oder St. Vith",
+          "Vereinbaren Sie die Begleit- und Impftermine für Ihr Baby",
+          "Gehen Sie zur Vorsorgestelle für die Grundimpfungen zwischen 2 und 15 Monaten",
+          "Spätere Auffrischungen folgen bei den kostenlosen schulärztlichen Untersuchungen"
         ]
       }
     }

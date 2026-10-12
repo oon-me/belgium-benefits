@@ -10,6 +10,7 @@ const CATEGORIES = new Set(["housing", "family", "health", "employment", "other"
 const SITUATIONS = new Set(["pregnancy", "job-loss", "buying-home", "renting", "health-issue", "school"]);
 const REGIONS = new Set(["Flanders", "Wallonia", "Brussels", "Federal"]);
 const REQ_TYPES = new Set(["phone", "card", "id", "doc"]);
+const NOTICE_RECHECK_DAYS = 30;
 
 const errors = [];
 const warnings = [];
@@ -29,6 +30,19 @@ for (const b of benefits) {
   const age = ageInDays(b.verified);
   if (age !== null && age >= STALE_AFTER_DAYS) {
     warnings.push(`${at}: last verified ${age} days ago — re-check against ${new URL(b.source_url).hostname}`);
+  }
+
+  // A notice describes a change that is announced but not yet law. It goes out of date faster
+  // than an amount does — the change passes, is postponed or is dropped — so it gets a shorter fuse.
+  if (b.notice) {
+    const n = b.notice;
+    if (!/^https:\/\//.test(n.source_url ?? "")) errors.push(`${at}: notice.source_url must be https`);
+    if (!/^\d{1,2} \w{3} \d{4}$/.test(n.date ?? "")) errors.push(`${at}: notice.date must be "DD Mon YYYY"`);
+    for (const L of LANGS) if (!n.text?.[L]?.trim()) errors.push(`${at}: notice missing language "${L}"`);
+    const nAge = ageInDays(n.date);
+    if (nAge !== null && nAge >= NOTICE_RECHECK_DAYS) {
+      warnings.push(`${at}: notice announced ${nAge} days ago — check whether the change passed, moved or was dropped`);
+    }
   }
 
   // A commune name that does not resolve to a real municipality can never be matched, so a

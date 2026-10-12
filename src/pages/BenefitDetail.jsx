@@ -92,6 +92,20 @@ export default function BenefitDetail() {
           </div>
         </div>
 
+        {/* A change that has been announced but is not law yet: kept small and separate from the
+            amounts above, which always describe the rules in force today. */}
+        {benefit.notice && (
+          <aside className="mb-5 text-[11px] leading-relaxed max-w-prose" style={{ color: c.inkSoft }}>
+            <span className="font-semibold" style={{ color: c.ink }}>
+              ⓘ {t("noticeLabel")}:
+            </span>{" "}
+            {benefit.notice.text[lang] ?? benefit.notice.text.en}{" "}
+            <a href={benefit.notice.source_url} target="_blank" rel="noopener noreferrer" className="underline whitespace-nowrap">
+              ({t("noticeMeta").replace("{date}", benefit.notice.date)})
+            </a>
+          </aside>
+        )}
+
         {isStale(benefit.verified) && (
           <div className="rounded-xl p-4 mb-5 border-2" style={{ borderColor: c.clay, background: c.clayBg }}>
             <p className="text-xs font-bold mb-1" style={{ color: c.clay }}>

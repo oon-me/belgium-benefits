@@ -34,6 +34,8 @@ export const translations = {
     openOfficial: "Open official request page",
     lastVerified: "Last verified",
     entryNote: "Note on this entry",
+    noticeLabel: "For information",
+    noticeMeta: "Announced {date} · source",
     youCouldReceive: "You could receive",
     deadline: "Deadline",
     chatHeadline: "Ask what applies to you",
@@ -109,6 +111,8 @@ export const translations = {
     openOfficial: "Open officiële aanvraagpagina",
     lastVerified: "Laatst gecontroleerd op",
     entryNote: "Opmerking bij dit item",
+    noticeLabel: "Ter info",
+    noticeMeta: "Aangekondigd {date} · bron",
     youCouldReceive: "Je zou kunnen ontvangen",
     deadline: "Deadline",
     chatHeadline: "Vraag wat voor jou geldt",
@@ -184,6 +188,8 @@ export const translations = {
     openOfficial: "Ouvrir la page de demande officielle",
     lastVerified: "Dernière vérification le",
     entryNote: "Remarque sur cette fiche",
+    noticeLabel: "Pour info",
+    noticeMeta: "Annoncé le {date} · source",
     youCouldReceive: "Vous pourriez recevoir",
     deadline: "Échéance",
     chatHeadline: "Demandez ce qui s'applique à vous",
@@ -259,6 +265,8 @@ export const translations = {
     openOfficial: "Offizielle Antragsseite öffnen",
     lastVerified: "Zuletzt geprüft am",
     entryNote: "Hinweis zu diesem Eintrag",
+    noticeLabel: "Zur Info",
+    noticeMeta: "Angekündigt am {date} · Quelle",
     youCouldReceive: "Sie könnten erhalten",
     deadline: "Frist",
     chatHeadline: "Fragen Sie, was für Sie gilt",
@@ -304,10 +312,12 @@ export const translations = {
   },
 };
 
+// Dutch, French and German are all official languages of Belgium, so all three carry the Belgian
+// flag — the Netherlands', France's or Germany's would say the site is about the wrong country.
 export const langOptions = [
-  { id: "nl", flag: "🇳🇱" },
-  { id: "fr", flag: "🇫🇷" },
-  { id: "de", flag: "🇩🇪" },
+  { id: "nl", flag: "🇧🇪" },
+  { id: "fr", flag: "🇧🇪" },
+  { id: "de", flag: "🇧🇪" },
   { id: "en", flag: "🇬🇧" },
 ];
 
