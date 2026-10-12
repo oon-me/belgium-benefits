@@ -292,7 +292,9 @@ not re-checked against its source.
 
 Consequence, and it is the correct one: **Wallonia + "Renting" now returns nothing in the nine
 German-speaking communes**, because entry 7 was the region's only renting benefit. An empty
-result is the honest answer there. `npm run check` reports this as a warning.
+result is the honest answer there. `npm run check` reported this as a warning until entry 42
+(ÖWOB public rental housing) closed the gap on 12 Oct 2026. The Community's own rent allowance
+(Mietbeihilfe) stopped taking new applications on 1 Jan 2025, so it is deliberately not listed.
 
 ## Data validation
 
@@ -307,7 +309,7 @@ gaps. It imports the commune lists from `src/data/communes.js` — the same modu
 so a mistyped commune name cannot silently disable a rule. That matters for the German-speaking
 names, where `Büllingen` / `Bütgenbach` are easy to get wrong.
 
-Current state: no errors, 2 warnings (both content gaps, listed below).
+Current state (12 Oct 2026): no errors, no warnings.
 
 ## Removed before launch
 
@@ -429,13 +431,11 @@ if (commune && b.excluded_communes?.includes(commune)) return false;
 with `"excluded_communes": ["Eupen","Kelmis","Lontzen","Raeren","Amel","Büllingen","Burg-Reuland","Bütgenbach","Sankt Vith"]` on entry 7. Not applied — it edits verified
 research data, which is a content call.
 
-**Brussels + "Buying a home" returns nothing.** The three `buying-home` benefits are Flemish
-(5, 9) and Walloon (10). Content gap, not a matcher bug; it degrades to the existing
-"no matches" state.
-
-**The German-speaking Community has no renting benefit in the dataset.** A consequence of the
-entry 7 fix above, not a bug — but if such a scheme exists, it is a real gap for those nine
-municipalities.
+**Closed 12 Oct 2026:** Brussels + "Buying a home" (entry 41, the registration-duties
+abattement) and German-speaking Community + "Renting" (entry 42, ÖWOB public rental housing).
+To watch: specialist sites report that Brussels plans to raise the abattement ceiling from
+€600,000 to €800,000 in 2029. No official text was found, so there is no `notice` yet — add one
+once the Brussels government or be.brussels publishes it.
 
 **`note` is English-only.** The schema has one `note` string, so the caveat text shows in
 English in the NL / FR / DE interfaces. Needs translating to hold the four-language convention.

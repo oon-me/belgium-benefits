@@ -4145,5 +4145,225 @@
         ]
       }
     }
+  },
+  {
+    "id": 41,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Brussels Fiscaliteit / Bruxelles Fiscalité (via your notary)",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://be.brussels/en/taxes-finances/taxes/property-related-taxes/registration-duties/abatement",
+    "content": {
+      "en": {
+        "title": "Abattement (No Registration Duties on the First €200,000)",
+        "desc": "Buying your only home in Brussels? You pay no registration duties (12.5%) on the first €200,000 of the price — a saving of up to €25,000 — as long as the taxable amount is at most €600,000. It is not automatic: you must ask for it in the deed. Renovating to a better energy class can add €25,000 per class gained (from two classes up). Building land: €100,000, up to €300,000.",
+        "deadline": "Ask your notary to apply it in the deed. Then move in within 3 years and live there for 5 uninterrupted years — leave earlier and you repay part of the saving.",
+        "amount": "Up to €25,000 saved (no duties on the first €200,000)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "You buy as a private person, the whole property in full ownership"
+          },
+          {
+            "type": "doc",
+            "label": "You don't fully own another home when you sign the sale agreement"
+          }
+        ],
+        "steps": [
+          "Check the conditions before you sign: only home, price including charges at most €600,000",
+          "Ask your notary to apply the abattement (and, if you plan an energy renovation, the extra abatement)",
+          "Move your main residence there within 3 years of the deed being registered (5 years with an energy renovation)",
+          "Keep living there for 5 uninterrupted years, otherwise you repay part of the saving"
+        ]
+      },
+      "nl": {
+        "title": "Abattement (Geen Registratierechten op de Eerste €200.000)",
+        "desc": "Koop je je enige woning in Brussel? Dan betaal je geen registratierechten (12,5%) op de eerste €200.000 van de prijs — tot €25.000 besparing — zolang het belastbare bedrag maximaal €600.000 is. Het gaat niet automatisch: je moet het vragen in de akte. Een energierenovatie naar een betere klasse kan €25.000 per klasse extra opleveren (vanaf twee klassen). Bouwgrond: €100.000, tot €300.000.",
+        "deadline": "Vraag je notaris om het toe te passen in de akte. Vestig er daarna binnen 3 jaar je hoofdverblijfplaats en woon er 5 jaar ononderbroken — vertrek je vroeger, dan betaal je een deel terug.",
+        "amount": "Tot €25.000 besparing (geen rechten op de eerste €200.000)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Je koopt als natuurlijk persoon, het volledige goed in volle eigendom"
+          },
+          {
+            "type": "doc",
+            "label": "Je hebt geen andere woning in volle eigendom op het moment van de compromis"
+          }
+        ],
+        "steps": [
+          "Controleer de voorwaarden vóór je tekent: enige woning, prijs inclusief lasten maximaal €600.000",
+          "Vraag je notaris het abattement toe te passen (en, als je een energierenovatie plant, het extra abattement)",
+          "Vestig je hoofdverblijfplaats er binnen 3 jaar na registratie van de akte (5 jaar met energierenovatie)",
+          "Blijf er 5 jaar ononderbroken wonen, anders betaal je een deel van het voordeel terug"
+        ]
+      },
+      "fr": {
+        "title": "Abattement (Pas de Droits d'Enregistrement sur les Premiers 200.000 €)",
+        "desc": "Vous achetez votre seule habitation à Bruxelles ? Vous ne payez pas de droits d'enregistrement (12,5 %) sur les premiers 200.000 € du prix — jusqu'à 25.000 € d'économie — tant que la base imposable ne dépasse pas 600.000 €. Ce n'est pas automatique : il faut le demander dans l'acte. Une rénovation énergétique vers une meilleure classe peut ajouter 25.000 € par classe gagnée (à partir de deux classes). Terrain à bâtir : 100.000 €, jusqu'à 300.000 €.",
+        "deadline": "Demandez à votre notaire de l'appliquer dans l'acte. Établissez-y ensuite votre résidence principale dans les 3 ans et habitez-y 5 ans sans interruption — si vous partez plus tôt, vous remboursez une partie.",
+        "amount": "Jusqu'à 25.000 € d'économie (pas de droits sur les premiers 200.000 €)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Vous achetez en tant que personne physique, la totalité du bien en pleine propriété"
+          },
+          {
+            "type": "doc",
+            "label": "Vous ne possédez pas d'autre habitation en pleine propriété à la signature du compromis"
+          }
+        ],
+        "steps": [
+          "Vérifiez les conditions avant de signer : habitation unique, prix charges comprises de 600.000 € maximum",
+          "Demandez à votre notaire d'appliquer l'abattement (et, si vous prévoyez une rénovation énergétique, l'abattement supplémentaire)",
+          "Établissez-y votre résidence principale dans les 3 ans de l'enregistrement de l'acte (5 ans avec rénovation énergétique)",
+          "Habitez-y 5 ans sans interruption, sinon vous remboursez une partie de l'avantage"
+        ]
+      },
+      "de": {
+        "title": "Abattement (Keine Registrierungsgebühren auf die ersten 200.000 €)",
+        "desc": "Sie kaufen Ihre einzige Wohnung in Brüssel? Dann zahlen Sie keine Registrierungsgebühren (12,5 %) auf die ersten 200.000 € des Preises — bis zu 25.000 € Ersparnis —, solange der steuerpflichtige Betrag höchstens 600.000 € beträgt. Das geschieht nicht automatisch: Sie müssen es in der Urkunde beantragen. Eine energetische Renovierung in eine bessere Klasse bringt 25.000 € pro gewonnener Klasse zusätzlich (ab zwei Klassen). Bauland: 100.000 €, bis 300.000 €.",
+        "deadline": "Bitten Sie Ihren Notar, es in der Urkunde anzuwenden. Melden Sie dort innerhalb von 3 Jahren Ihren Hauptwohnsitz an und wohnen Sie 5 Jahre ununterbrochen dort — ziehen Sie früher aus, zahlen Sie einen Teil zurück.",
+        "amount": "Bis zu 25.000 € Ersparnis (keine Gebühren auf die ersten 200.000 €)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Sie kaufen als Privatperson das ganze Objekt in vollem Eigentum"
+          },
+          {
+            "type": "doc",
+            "label": "Sie besitzen bei Unterzeichnung des Vorvertrags keine andere Wohnung in vollem Eigentum"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie die Bedingungen vor der Unterschrift: einzige Wohnung, Preis inklusive Kosten höchstens 600.000 €",
+          "Bitten Sie Ihren Notar, das Abattement anzuwenden (und bei geplanter Energierenovierung das zusätzliche Abattement)",
+          "Melden Sie dort innerhalb von 3 Jahren nach Registrierung der Urkunde Ihren Hauptwohnsitz an (5 Jahre bei Energierenovierung)",
+          "Wohnen Sie 5 Jahre ununterbrochen dort, sonst zahlen Sie einen Teil des Vorteils zurück"
+        ]
+      }
+    }
+  },
+  {
+    "id": 42,
+    "category": "housing",
+    "situations": [
+      "renting"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "institution": "ÖWOB — Öffentlicher Wohnungsbau Ostbelgien",
+    "verified": "12 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.owob.be/mieten/",
+    "content": {
+      "en": {
+        "title": "ÖWOB Public Rental Housing (Rent Based on Income)",
+        "desc": "In the German-speaking Community, ÖWOB rents out public homes at rents set by your situation (social, balanced or middle rent). You can apply if you don't own a home and your taxable income is below €74,900 (single) or €91,400 for a household, plus €3,400 per dependent child. Homes go by a waiting list with priority points — so register early.",
+        "deadline": "Register as soon as you can: you earn a point for each year on the list (up to 6). Renew your registration every year in January–February, or it lapses.",
+        "amount": "Income-based rent — income limit €74,900 (single)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The ÖWOB registration form, filled in and signed"
+          },
+          {
+            "type": "doc",
+            "label": "The required documents on ÖWOB's list (income, household, current housing)"
+          }
+        ],
+        "steps": [
+          "Check the conditions with ÖWOB's online check or the tenant service (+32 87 63 97 60)",
+          "Register at an open consultation in Eupen, Kelmis or St. Vith, by post, or by email via mietkandidaten@owob.be",
+          "Choose as many communes as you can — it improves your chances — and keep the confirmation",
+          "Renew every year in January–February; in an urgent housing emergency, contact your commune's ÖSHZ"
+        ]
+      },
+      "nl": {
+        "title": "ÖWOB Sociale Huurwoning (Huur volgens Inkomen)",
+        "desc": "In de Duitstalige Gemeenschap verhuurt ÖWOB openbare woningen tegen een huur volgens je situatie (sociale, evenwichtige of middenhuur). Je komt in aanmerking als je geen woning bezit en je belastbaar inkomen lager is dan €74.900 (alleenstaande) of €91.400 voor een gezin, plus €3.400 per kind ten laste. Woningen worden toegewezen via een wachtlijst met prioriteitspunten — schrijf je dus vroeg in.",
+        "deadline": "Schrijf je zo snel mogelijk in: per jaar op de lijst krijg je een punt (tot 6). Hernieuw je inschrijving elk jaar in januari–februari, anders vervalt ze.",
+        "amount": "Huur volgens inkomen — inkomensgrens €74.900 (alleenstaande)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het inschrijvingsformulier van ÖWOB, ingevuld en ondertekend"
+          },
+          {
+            "type": "doc",
+            "label": "De vereiste documenten op de lijst van ÖWOB (inkomen, gezin, huidige woning)"
+          }
+        ],
+        "steps": [
+          "Controleer de voorwaarden met de onlinecheck van ÖWOB of de huurdersdienst (+32 87 63 97 60)",
+          "Schrijf je in tijdens een open spreekuur in Eupen, Kelmis of St. Vith, per post, of per e-mail via mietkandidaten@owob.be",
+          "Kies zoveel mogelijk gemeenten — dat vergroot je kansen — en bewaar de bevestiging",
+          "Hernieuw elk jaar in januari–februari; bij een dringende woonnood contacteer je het ÖSHZ (OCMW) van je gemeente"
+        ]
+      },
+      "fr": {
+        "title": "Logement Public ÖWOB (Loyer selon les Revenus)",
+        "desc": "En Communauté germanophone, l'ÖWOB loue des logements publics à un loyer fixé selon votre situation (loyer social, équilibré ou moyen). Vous pouvez vous inscrire si vous n'êtes pas propriétaire d'un logement et que votre revenu imposable est inférieur à 74.900 € (isolé) ou 91.400 € pour un ménage, plus 3.400 € par enfant à charge. Les logements sont attribués via une liste d'attente à points de priorité — inscrivez-vous tôt.",
+        "deadline": "Inscrivez-vous dès que possible : chaque année sur la liste rapporte un point (jusqu'à 6). Renouvelez votre inscription chaque année en janvier–février, sinon elle expire.",
+        "amount": "Loyer selon les revenus — plafond 74.900 € (isolé)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire d'inscription de l'ÖWOB, complété et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Les documents requis sur la liste de l'ÖWOB (revenus, ménage, logement actuel)"
+          }
+        ],
+        "steps": [
+          "Vérifiez les conditions avec le test en ligne de l'ÖWOB ou le service locataires (+32 87 63 97 60)",
+          "Inscrivez-vous lors d'une permanence à Eupen, La Calamine (Kelmis) ou Saint-Vith, par la poste, ou par e-mail via mietkandidaten@owob.be",
+          "Choisissez un maximum de communes — cela augmente vos chances — et gardez la confirmation",
+          "Renouvelez chaque année en janvier–février ; en cas d'urgence, contactez le CPAS (ÖSHZ) de votre commune"
+        ]
+      },
+      "de": {
+        "title": "ÖWOB-Mietwohnung (Miete nach Einkommen)",
+        "desc": "In der Deutschsprachigen Gemeinschaft vermietet die ÖWOB öffentlich geförderte Wohnungen zu einer Miete nach Ihrer Situation (Sozial-, ausgewogene oder mittlere Miete). Sie können sich einschreiben, wenn Sie keine Wohnung besitzen und Ihr steuerpflichtiges Einkommen unter 74.900 € (Alleinstehende) bzw. 91.400 € für einen Haushalt liegt, plus 3.400 € pro Kind zu Lasten. Die Vergabe läuft über eine Warteliste mit Prioritätspunkten — schreiben Sie sich also früh ein.",
+        "deadline": "Schreiben Sie sich so früh wie möglich ein: Jedes Jahr auf der Liste bringt einen Punkt (bis zu 6). Erneuern Sie Ihre Einschreibung jedes Jahr im Januar–Februar, sonst verfällt sie.",
+        "amount": "Miete nach Einkommen — Grenze 74.900 € (Alleinstehende)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Einschreibeformular der ÖWOB, ausgefüllt und unterschrieben"
+          },
+          {
+            "type": "doc",
+            "label": "Die Pflichtunterlagen laut ÖWOB-Liste (Einkommen, Haushalt, aktuelle Wohnung)"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie die Bedingungen mit dem Online-Check der ÖWOB oder beim Mieterdienst (+32 87 63 97 60)",
+          "Schreiben Sie sich in einer offenen Sprechstunde in Eupen, Kelmis oder St. Vith ein, per Post oder per E-Mail über mietkandidaten@owob.be",
+          "Wählen Sie möglichst viele Gemeinden — das erhöht Ihre Chancen — und bewahren Sie die Bestätigung auf",
+          "Erneuern Sie jedes Jahr im Januar–Februar; bei dringender Wohnungsnot wenden Sie sich an das ÖSHZ Ihrer Gemeinde"
+        ]
+      }
+    }
   }
 ]
