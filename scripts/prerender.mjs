@@ -117,7 +117,10 @@ for (const lang of LANGS) {
 
 let written = 0;
 for (const route of routes) {
-  const out = join(root, "dist", route.url, "index.html");
+  // `/nl/legal` is written as `nl/legal.html`, not `nl/legal/index.html`. Cloudflare Pages serves
+  // a matching .html file directly, but answers a folder's index.html with a 308 to `/nl/legal/` —
+  // which would make every canonical, hreflang and sitemap URL point at a redirect.
+  const out = join(root, "dist", `${route.url}.html`);
   await mkdir(dirname(out), { recursive: true });
   await writeFile(out, page(route.url, route.meta), "utf8");
   written++;
