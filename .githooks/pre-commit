@@ -1,0 +1,7 @@
+#!/bin/sh
+# Refuse a commit that would publish invalid benefit data. Skip with `git commit --no-verify`
+# only when you know why the check fails.
+if git diff --cached --name-only | grep -qE '^(src/|scripts/)'; then
+  [ -s "$HOME/.nvm/nvm.sh" ] && . "$HOME/.nvm/nvm.sh" >/dev/null
+  npm run --silent check || { echo "pre-commit: npm run check failed — commit stopped."; exit 1; }
+fi

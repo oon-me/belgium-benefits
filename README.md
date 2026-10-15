@@ -451,3 +451,8 @@ and 19 were last checked 21 Jul 2026; the rest 17–18 Sep 2026.
 - All four languages stay in sync — a change to one `deadline` is a change to four.
 - `deadline` is the most important field; it is the reason the app exists.
 - Keep the verified/community stamp visible.
+
+## Tooling
+`CLAUDE.md` holds the working rules for AI-assisted sessions. A pre-commit hook in `.githooks/`
+runs `npm run check` whenever `src/` or `scripts/` change; it is enabled per clone with
+`git config core.hooksPath .githooks`.
