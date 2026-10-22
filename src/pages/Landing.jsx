@@ -4,6 +4,7 @@ import { c, displayFont } from "../theme.js";
 import { useT, translations, langOptions, LANGS } from "../i18n.js";
 import { loadPrefs } from "../lib/prefs.js";
 import { usePageMeta } from "../lib/meta.js";
+import { communeName } from "../data/communes.js";
 
 export default function Landing() {
   const { lang } = useParams();
@@ -40,13 +41,20 @@ export default function Landing() {
             >
               {t("getStarted")} <ChevronRight size={16} />
             </Link>
+            <Link
+              to={`/${lang}/all`}
+              className="inline-flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 font-semibold text-sm border"
+              style={{ borderColor: "#3A4A57", color: "#D7DEE3" }}
+            >
+              {t("allCta")}
+            </Link>
             {hasPrefs && (
               <Link
                 to={`/${lang}/benefits`}
                 className="inline-flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 font-semibold text-sm border"
                 style={{ borderColor: "#3A4A57", color: "#D7DEE3" }}
               >
-                {t("yourBenefits")} · {prefs.commune}
+                {t("yourBenefits")} · {communeName(prefs.commune, lang)}
               </Link>
             )}
           </div>

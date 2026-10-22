@@ -99,6 +99,17 @@ for (const lang of LANGS) {
     }),
   });
   routes.push({
+    url: `/${lang}/all`,
+    meta: buildMeta({
+      lang,
+      title: t("allTitle"),
+      description: t("allSub"),
+      path: `/${lang}/all`,
+      alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}/all`])),
+      origin: ORIGIN,
+    }),
+  });
+  routes.push({
     url: `/${lang}/health-funds`,
     meta: buildMeta({
       lang,

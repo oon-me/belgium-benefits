@@ -14,6 +14,9 @@ export default function Footer() {
           {t("footerNotOfficial")}
         </p>
         <div className="flex gap-4">
+          <Link to={`/${lang}/all`} className="text-xs font-semibold" style={{ color: c.post }}>
+            {t("allTitle")}
+          </Link>
           <Link to={`/${lang}/health-funds`} className="text-xs font-semibold" style={{ color: c.post }}>
             {t("compareFunds")}
           </Link>
