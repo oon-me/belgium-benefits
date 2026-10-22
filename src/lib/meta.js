@@ -10,8 +10,9 @@ export const SITE_URL = (import.meta.env?.VITE_SITE_URL || "").replace(/\/$/, ""
  * rendered into static HTML by scripts/prerender.mjs. One function, so the crawler's view and
  * the browser's view cannot drift apart.
  */
-export function buildMeta({ lang, title, description, path, alternates, origin = "" }) {
-  const fullTitle = title ? `${title} · Belgium Benefits` : "Belgium Benefits";
+export function buildMeta({ lang, title, description, path, alternates, xDefault, home = false, origin = "" }) {
+  // Home pages lead with the name, so a search for "Belgium Benefits" matches the start of the title.
+  const fullTitle = !title ? "Belgium Benefits" : home ? `Belgium Benefits · ${title}` : `${title} · Belgium Benefits`;
   const map = alternates || Object.fromEntries(LANGS.map((l) => [l, `/${l}`]));
   return {
     lang,
@@ -19,7 +20,7 @@ export function buildMeta({ lang, title, description, path, alternates, origin =
     description: description || "",
     url: origin + (path || ""),
     alternates: Object.fromEntries(Object.entries(map).map(([k, v]) => [k, origin + v])),
-    xDefault: origin + (map.en || "/en"),
+    xDefault: origin + (xDefault || map.en || "/en"),
   };
 }
 

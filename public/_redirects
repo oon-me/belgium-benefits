@@ -1,8 +1,9 @@
 # SPA fallback for the routes that are NOT prerendered (/:lang/benefits, /:lang/start/*).
-# Status 200 (a rewrite, not a redirect) so the URL is preserved.
+# Status 200 (a rewrite, not a redirect) so the URL is preserved. The target is spa.html, the
+# empty shell: index.html is the prerendered home page and would flash English content here.
 #
 # Both Cloudflare Pages and Netlify resolve a real static file BEFORE consulting this rule,
 # so the 92 prerendered pages are served as themselves and are never shadowed by the SPA
 # shell. Do not add `force` / `!` here — that is precisely what would shadow them and quietly
 # destroy the SEO the prerendering exists for.
-/*  /index.html  200
+/*  /spa.html  200

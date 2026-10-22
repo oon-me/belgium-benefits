@@ -183,7 +183,8 @@ wins, so a link someone shares shows the sender's results rather than the recipi
 **Deployment note:** prerendering writes a real file for every benefit, landing, ask and
 submit page, so those are served directly. The interactive routes (`/:lang/benefits`,
 `/:lang/start/*`) are not prerendered, so the host still needs an SPA rewrite — serve
-`index.html` for any unmatched path. `vite dev` and `vite preview` already do this.
+`spa.html` (the empty shell) for any unmatched path; `index.html` is the prerendered home page
+for the bare domain. `vite dev` and `vite preview` fall back to `index.html`, which also works.
 
 ## Meta tags and prerendering
 

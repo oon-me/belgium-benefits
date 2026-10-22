@@ -42,6 +42,12 @@ function head(m) {
       tags.push(`<link rel="alternate" hreflang="${code}" href="${esc(href)}" />`);
     }
     tags.push(`<link rel="alternate" hreflang="x-default" href="${esc(m.xDefault)}" />`);
+    // Tells Google the site's name, so a search for it shows "Belgium Benefits" rather than the
+    // bare domain. Google reads it from the home page; it is repeated on each language's home.
+    if (m.home) {
+      const site = { "@context": "https://schema.org", "@type": "WebSite", name: "Belgium Benefits", alternateName: ["BelgiumBenefits", "belgiumbenefits.be"], url: `${ORIGIN}/` };
+      tags.push(`<script type="application/ld+json">${JSON.stringify(site).replace(/</g, "\\u003c")}</script>`);
+    }
   }
   return tags.join("\n    ");
 }
@@ -62,20 +68,27 @@ function page(url, meta) {
     .replace('<div id="root"></div>', `<div id="root">${html}</div>`);
 }
 
-const routes = [];
+const homeMeta = (lang, path) => ({
+  ...buildMeta({
+    lang,
+    title: translations[lang].homeTitle,
+    home: true,
+    description: translations[lang].sub0,
+    path,
+    alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}`])),
+    xDefault: "/",
+    origin: ORIGIN,
+  }),
+  home: true,
+});
+
+// The bare domain is what a search for the site's name lands on, so it must be a real page, not
+// the empty SPA shell. It carries the English home page (the browser then moves visitors to their
+// own language) and is the x-default of the four language homes.
+const routes = [{ url: "/", source: "/en", file: "index.html", meta: homeMeta("en", "/") }];
 for (const lang of LANGS) {
   const t = (k) => translations[lang][k] ?? translations.en[k];
-  routes.push({
-    url: `/${lang}`,
-    meta: buildMeta({
-      lang,
-      title: null,
-      description: t("sub0"),
-      path: `/${lang}`,
-      alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}`])),
-      origin: ORIGIN,
-    }),
-  });
+  routes.push({ url: `/${lang}`, meta: homeMeta(lang, `/${lang}`) });
   routes.push({
     url: `/${lang}/legal`,
     meta: buildMeta({
@@ -142,11 +155,15 @@ for (const route of routes) {
   // `/nl/legal` is written as `nl/legal.html`, not `nl/legal/index.html`. Cloudflare Pages serves
   // a matching .html file directly, but answers a folder's index.html with a 308 to `/nl/legal/` —
   // which would make every canonical, hreflang and sitemap URL point at a redirect.
-  const out = join(root, "dist", `${route.url}.html`);
+  const out = join(root, "dist", route.file || `${route.url}.html`);
   await mkdir(dirname(out), { recursive: true });
-  await writeFile(out, page(route.url, route.meta), "utf8");
+  await writeFile(out, page(route.source || route.url, route.meta), "utf8");
   written++;
 }
+
+// index.html is now the real home page, so the interactive routes (see public/_redirects) get
+// the untouched shell under its own name.
+await writeFile(join(root, "dist", "spa.html"), template, "utf8");
 
 // sitemap.xml only makes sense with a real origin.
 if (ORIGIN) {

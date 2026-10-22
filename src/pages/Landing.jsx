@@ -11,10 +11,12 @@ export default function Landing() {
   const t = useT(lang);
   usePageMeta({
     lang,
-    title: null,
+    title: t("homeTitle"),
+    home: true,
     description: t("sub0"),
     path: `/${lang}`,
     alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}`])),
+    xDefault: "/",
   });
   const prefs = loadPrefs();
   const hasPrefs = prefs.region && prefs.commune;
