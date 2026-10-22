@@ -100,9 +100,15 @@ Checked and set 2026-10-12. Each line says where it lives and how to confirm it 
 | Minimum TLS 1.2 | SSL/TLS → Edge Certificates | `curl -sI --tlsv1.1 --tls-max 1.1 https://belgiumbenefits.be` fails |
 | CAA: only Let's Encrypt, Google Trust Services, SSL.com (+ Cloudflare's own) may issue certificates; reports to `info@` | DNS → Records (CAA) | `dig CAA belgiumbenefits.be` |
 | DNSSEC — Cloudflare signs, DS record (key tag 2371, alg 13) at OVH | DNS → Settings; OVH → DS records | `dig +dnssec belgiumbenefits.be @1.1.1.1` shows the `ad` flag |
-| AI training crawlers blocked; search engines allowed | AI Crawl Control / managed `robots.txt` | `curl -s -A CCBot/2.0 -o /dev/null -w '%{http_code}' https://belgiumbenefits.be/en` → 403 |
+| AI training forbidden in `robots.txt` (`ai-train=no`, training crawlers `Disallow`); search engines allowed | Security → Settings → Configure AI bot policies: Search **Allow**, Agent **Allow**, Training **Disallow** (never **Block** — see below), Bot Preference Sync on | `curl -s https://belgiumbenefits.be/robots.txt \| grep -E 'ai-train\|GPTBot'` |
 | Dependabot alerts + security updates, secret scanning + push protection | GitHub → repo Settings → Code security | — |
 | `main` cannot be force-pushed or deleted (admins included) | GitHub → repo Settings → Branches | — |
+
+**Training must stay on Disallow, not Block.** In October 2026 the Block setting's managed rule
+("Block AI training crawlers - BOBA-199") also blocked the real Googlebot (AS15169), so Google got
+403 on every page it tried and indexed none of them. Disallow puts the same ban in `robots.txt`,
+which OpenAI, Anthropic, Common Crawl and Google-Extended honour, without the edge block. If pages
+drop out of Google, look first at Security → Analytics → Events for blocks from `66.249.*`.
 
 HSTS is deliberately not on the preload list: preloading is near-permanent, and the site may one
 day be wound down.
