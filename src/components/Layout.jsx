@@ -22,7 +22,10 @@ export default function Layout() {
     <div className="min-h-screen flex flex-col" style={{ background: c.paper, fontFamily: bodyFont }}>
       <header className="sticky top-0 z-20" style={{ background: c.ink }}>
         <div className="mx-auto w-full max-w-6xl px-4 md:px-6 h-14 flex items-center justify-between gap-4">
-          <NavLink to={`/${lang}`} className="text-base md:text-lg font-bold shrink-0" style={{ color: c.paper, fontFamily: displayFont }}>
+          <NavLink to={`/${lang}`} className="flex items-center gap-2 text-base md:text-lg font-bold shrink-0" style={{ color: c.paper, fontFamily: displayFont }}>
+            {/* The "bb" mark chosen in Oct 2026 (brand/logos/2-monogram.svg). On the dark header
+                its own dark tile would vanish, so it gets a thin light outline. */}
+            <img src="/favicon.svg" alt="" width="28" height="28" className="rounded-md" style={{ boxShadow: "0 0 0 1px #3A4A57" }} />
             Belgium Benefits
           </NavLink>
 
