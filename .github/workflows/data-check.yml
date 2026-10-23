@@ -34,11 +34,24 @@ jobs:
           npm run --silent check:sources > sources.txt 2>&1
           cat check.txt sources.txt
 
+          # A lapsed certificate makes browsers show "Your connection is not private" in place of
+          # the site, which is what visitors of other benefit sites have run into. Cloudflare renews
+          # ours automatically about a month before expiry, so fewer than 21 days left means
+          # renewal has failed (a CAA record, a DNS change). Same if no certificate is returned.
+          : > cert.txt
+          for h in belgiumbenefits.be www.belgiumbenefits.be; do
+            end=$(echo | openssl s_client -servername "$h" -connect "$h:443" 2>/dev/null | openssl x509 -noout -enddate 2>/dev/null | cut -d= -f2)
+            if [ -z "$end" ]; then echo "[CERT] $h: no valid certificate returned" >> cert.txt; continue; fi
+            days=$(( ( $(date -d "$end" +%s) - $(date +%s) ) / 86400 ))
+            if [ "$days" -lt 21 ]; then echo "[CERT] $h: certificate expires in $days days ($end)" >> cert.txt; fi
+          done
+          cat cert.txt
+
           # Coverage gaps ("no results: …") are known and permanent until new entries are written,
           # and the German-speaking Community's site blocks automated requests; neither is news.
           # What is news: an amount gone from its source page, an entry past its re-check date, an
           # announced change whose fate needs checking, or a data error.
-          attention=$( { grep -E '\[REVIEW' sources.txt; grep -E 'warn .*(last verified|notice announced)|ERROR' check.txt; } )
+          attention=$( { cat cert.txt; grep -E '\[REVIEW' sources.txt; grep -E 'warn .*(last verified|notice announced)|ERROR' check.txt; } )
           {
             echo 'report<<EOF'
             echo "$attention"

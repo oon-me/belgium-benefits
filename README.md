@@ -97,6 +97,7 @@ Checked and set 2026-10-12. Each line says where it lives and how to confirm it 
 | `noindex` on the `*.pages.dev` copies | `public/_headers` | `curl -sI https://belgium-benefits.pages.dev/en \| grep -i robots` |
 | `security.txt` — **`Expires` must be pushed forward every year** (now 2027-10-01) | `public/.well-known/security.txt` | open `/.well-known/security.txt` |
 | HSTS, 6 months, include subdomains, **no preload** | SSL/TLS → Edge Certificates | `curl -sI https://belgiumbenefits.be \| grep -i strict-transport` |
+| Certificates for `belgiumbenefits.be` and `www` renew automatically (Cloudflare); the weekly data check opens an issue if either has fewer than 21 days left | SSL/TLS → Edge Certificates | `echo \| openssl s_client -connect belgiumbenefits.be:443 2>/dev/null \| openssl x509 -noout -enddate` |
 | Minimum TLS 1.2 | SSL/TLS → Edge Certificates | `curl -sI --tlsv1.1 --tls-max 1.1 https://belgiumbenefits.be` fails |
 | CAA: only Let's Encrypt, Google Trust Services, SSL.com (+ Cloudflare's own) may issue certificates; reports to `info@` | DNS → Records (CAA) | `dig CAA belgiumbenefits.be` |
 | DNSSEC — Cloudflare signs, DS record (key tag 2371, alg 13) at OVH | DNS → Settings; OVH → DS records | `dig +dnssec belgiumbenefits.be @1.1.1.1` shows the `ad` flag |
