@@ -934,7 +934,7 @@
     "content": {
       "en": {
         "title": "Mijn VerbouwPremie (Renovation & Insulation Grant)",
-        "desc": "A Flemish government grant toward the cost of insulating or renovating your home, requested per type of work (e.g. roof insulation).",
+        "desc": "A Flemish government grant toward the cost of insulating or renovating your home, requested per type of work (e.g. roof insulation). Works include roof, wall and floor insulation and renovation, windows and doors, heat pumps (geothermal, hybrid, air/air, air/water) and heat-pump boilers. New solar water heaters no longer qualify since 1 July 2025.",
         "deadline": "Submit online after the work is done and invoiced; exact eligibility depends on your income category, and lower-income categories are being phased out of the roof-insulation premium from 1 March 2026 — check current rules before applying.",
         "amount": "Varies by income category and type of work (e.g. roof insulation is calculated per m² up to technical and invoice-based caps) — figures not confirmed on a directly-rendered official page",
         "requirements": [
@@ -960,7 +960,7 @@
       },
       "nl": {
         "title": "Mijn VerbouwPremie",
-        "desc": "Een premie van de Vlaamse overheid voor de kost van isolatie of renovatie van je woning, aan te vragen per soort werk (bv. dakisolatie).",
+        "desc": "Een premie van de Vlaamse overheid voor de kost van isolatie of renovatie van je woning, aan te vragen per soort werk (bv. dakisolatie). Werken die in aanmerking komen: isolatie en renovatie van dak, buitenmuren en vloer, ramen en deuren, warmtepompen (geothermisch, hybride, lucht/lucht, lucht/water) en warmtepompboilers. Voor een nieuwe zonneboiler kan je sinds 1 juli 2025 geen premie meer aanvragen.",
         "deadline": "Digitaal aan te vragen na uitvoering en facturatie van de werken; de exacte voorwaarden hangen af van je inkomenscategorie, en de laagste inkomenscategorieën verliezen vanaf 1 maart 2026 het recht op de dakisolatiepremie — controleer de actuele regels voor je aanvraagt.",
         "amount": "Varieert naargelang inkomenscategorie en type werk (dakisolatie wordt bv. per m² berekend, begrensd door technische normen en factuurbedrag) — cijfers niet bevestigd op een rechtstreeks geraadpleegde officiele pagina",
         "requirements": [
@@ -986,7 +986,7 @@
       },
       "fr": {
         "title": "Mijn VerbouwPremie (Prime Flamande de Rénovation et d'Isolation)",
-        "desc": "Une prime du gouvernement flamand pour le coût de l'isolation ou de la rénovation de votre logement, demandée par type de travaux (ex. isolation de toiture).",
+        "desc": "Une prime du gouvernement flamand pour le coût de l'isolation ou de la rénovation de votre logement, demandée par type de travaux (ex. isolation de toiture). Travaux concernés : isolation et rénovation du toit, des murs extérieurs et du sol, fenêtres et portes, pompes à chaleur (géothermique, hybride, air/air, air/eau) et boilers thermodynamiques. Les nouveaux chauffe-eau solaires ne sont plus admis depuis le 1er juillet 2025.",
         "deadline": "À soumettre en ligne après exécution et facturation des travaux ; les conditions exactes dépendent de votre catégorie de revenus, et les catégories de revenus les plus faibles perdent le droit à la prime d'isolation de toiture à partir du 1er mars 2026 — vérifiez les règles actuelles avant de demander.",
         "amount": "Varie selon la catégorie de revenus et le type de travaux (l'isolation de toiture est par exemple calculée par m², plafonnée par des normes techniques et le montant de la facture) — chiffres non confirmés sur une page officielle directement consultée",
         "requirements": [
@@ -1012,7 +1012,7 @@
       },
       "de": {
         "title": "Mijn VerbouwPremie (Flämische Renovierungs- und Dämmprämie)",
-        "desc": "Eine Prämie der flämischen Regierung für die Kosten der Dämmung oder Renovierung Ihrer Wohnung, beantragt je nach Art der Arbeiten (z. B. Dachdämmung).",
+        "desc": "Eine Prämie der flämischen Regierung für die Kosten der Dämmung oder Renovierung Ihrer Wohnung, beantragt je nach Art der Arbeiten (z. B. Dachdämmung). Gefördert werden u. a. Dämmung und Renovierung von Dach, Außenwänden und Boden, Fenster und Türen, Wärmepumpen (geothermisch, hybrid, Luft/Luft, Luft/Wasser) und Wärmepumpenboiler. Neue Solarwarmwasserbereiter sind seit dem 1. Juli 2025 nicht mehr förderfähig.",
         "deadline": "Online einzureichen nach Ausführung und Rechnungsstellung der Arbeiten; die genauen Bedingungen hängen von Ihrer Einkommenskategorie ab, und die niedrigsten Einkommenskategorien verlieren ab 1. März 2026 den Anspruch auf die Dachdämmungsprämie — prüfen Sie die aktuellen Regeln vor der Antragstellung.",
         "amount": "Variiert je nach Einkommenskategorie und Art der Arbeiten (Dachdämmung wird z. B. pro m² berechnet, begrenzt durch technische Normen und Rechnungsbetrag) — Zahlen nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt",
         "requirements": [
@@ -4425,6 +4425,568 @@
           "Schreiben Sie sich in einer offenen Sprechstunde in Eupen, Kelmis oder St. Vith ein, per Post oder per E-Mail über mietkandidaten@owob.be",
           "Wählen Sie möglichst viele Gemeinden — das erhöht Ihre Chancen — und bewahren Sie die Bestätigung auf",
           "Erneuern Sie jedes Jahr im Januar–Februar; bei dringender Wohnungsnot wenden Sie sich an das ÖSHZ Ihrer Gemeinde"
+        ]
+      }
+    }
+  },
+  {
+    "id": 43,
+    "category": "family",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "health_funds": [
+      "nzvl"
+    ],
+    "institution": "Neutraal Ziekenfonds Vlaanderen (NZVL)",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.nzvl.be/ons-aanbod/ziekenfonds/diensten-en-voordelen-van-a-z/geboortevoordelen",
+    "request_url": "https://mijn.nzvl.be/",
+    "content": {
+      "en": {
+        "title": "NZVL Birth and Adoption Premium",
+        "desc": "Neutraal Ziekenfonds Vlaanderen pays €300 per member parent at a birth or adoption, so up to €600 when both parents are NZVL members. For twins or more, it is paid for each child. NZVL also refunds nappies (up to €100 a year for three years) and maternity home help.",
+        "deadline": "Claims to a health fund lapse after two years. Send the birth or adoption certificate soon after registering your child.",
+        "amount": "€300 per member parent (from 2026), up to €600 per child",
+        "steps": [
+          "Register your baby with NZVL",
+          "Send the birth or adoption certificate from your commune via Mijn NZVL, by email to your nearest office, or in an NZVL letterbox",
+          "NZVL pays the premium to your account"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Birth or adoption certificate from your commune"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Geboorte- en adoptiepremie NZVL",
+        "desc": "Neutraal Ziekenfonds Vlaanderen betaalt €300 per aangesloten ouder bij een geboorte of adoptie, dus tot €600 als beide ouders lid zijn van NZVL. Bij een meerling wordt de premie per kind betaald. NZVL betaalt ook luiers terug (tot €100 per jaar, drie jaar lang) en kraamhulp.",
+        "deadline": "Aanvragen bij een ziekenfonds verjaren na twee jaar. Bezorg de geboorte- of adoptieakte snel nadat je je kind hebt ingeschreven.",
+        "amount": "€300 per aangesloten ouder (vanaf 2026), tot €600 per kind",
+        "steps": [
+          "Schrijf je baby in bij NZVL",
+          "Bezorg de geboorte- of adoptieakte van je gemeente via Mijn NZVL, per e-mail aan het dichtstbijzijnde kantoor of in een NZVL-brievenbus",
+          "NZVL stort de premie op je rekening"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Geboorte- of adoptieakte van je gemeente"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance et d'adoption NZVL",
+        "desc": "La Neutraal Ziekenfonds Vlaanderen verse 300 € par parent affilié lors d'une naissance ou d'une adoption, soit jusqu'à 600 € si les deux parents sont membres de la NZVL. En cas de naissance multiple, la prime est versée pour chaque enfant. La NZVL rembourse aussi des langes (jusqu'à 100 € par an pendant trois ans) et l'aide à la maternité.",
+        "deadline": "Les demandes auprès d'une mutualité se prescrivent après deux ans. Envoyez l'acte de naissance ou d'adoption peu après avoir inscrit votre enfant.",
+        "amount": "300 € par parent affilié (à partir de 2026), jusqu'à 600 € par enfant",
+        "steps": [
+          "Inscrivez votre bébé à la NZVL",
+          "Envoyez l'acte de naissance ou d'adoption de votre commune via Mijn NZVL, par e-mail au bureau le plus proche ou dans une boîte aux lettres NZVL",
+          "La NZVL verse la prime sur votre compte"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Acte de naissance ou d'adoption de votre commune"
+          }
+        ]
+      },
+      "de": {
+        "title": "Geburts- und Adoptionsprämie NZVL",
+        "desc": "Das Neutraal Ziekenfonds Vlaanderen zahlt bei einer Geburt oder Adoption 300 € pro versichertem Elternteil, also bis zu 600 €, wenn beide Eltern Mitglied der NZVL sind. Bei Mehrlingen wird die Prämie für jedes Kind gezahlt. Die NZVL erstattet außerdem Windeln (bis zu 100 € pro Jahr, drei Jahre lang) und Wochenbetthilfe.",
+        "deadline": "Anträge bei einer Krankenkasse verjähren nach zwei Jahren. Schicken Sie die Geburts- oder Adoptionsurkunde bald, nachdem Sie Ihr Kind eingeschrieben haben.",
+        "amount": "300 € pro versichertem Elternteil (ab 2026), bis zu 600 € pro Kind",
+        "steps": [
+          "Schreiben Sie Ihr Baby bei der NZVL ein",
+          "Schicken Sie die Geburts- oder Adoptionsurkunde Ihrer Gemeinde über Mijn NZVL, per E-Mail an das nächste Büro oder in einen NZVL-Briefkasten",
+          "Die NZVL überweist die Prämie auf Ihr Konto"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Geburts- oder Adoptionsurkunde Ihrer Gemeinde"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 44,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RIZIV-INAMI · ziekenfonds / mutualité",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/palliatieve-zorg/palliatief-forfait",
+    "amount_source_url": "https://www.riziv.fgov.be/SiteCollectionDocuments/tarief_forfaits_20260101.pdf",
+    "content": {
+      "en": {
+        "title": "Palliative Care Allowance at Home (Palliatief forfait)",
+        "desc": "A lump sum for someone who is terminally ill and wants to die at home, towards medicines, care materials and aids they would otherwise pay partly themselves. The doctor confirms that life expectancy is at most three months and that intensive care is needed.",
+        "deadline": "Requested by the GP once the conditions are met. It covers 30 days; if the patient is still alive after that, the GP can request it once more.",
+        "amount": "€850.51 per period (from 1 January 2026), at most twice",
+        "steps": [
+          "Ask your GP (huisarts) whether the palliative allowance applies",
+          "The GP fills in the 'Medische kennisgeving' form and sends it to the advising doctor of your health fund",
+          "Your health fund pays the allowance to the patient",
+          "Still at home after 30 days? The GP can send the form a second time"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "'Medische kennisgeving' form, filled in by the GP"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Palliatief forfait (thuis)",
+        "desc": "Een forfaitair bedrag voor iemand die ongeneeslijk ziek is en thuis wil sterven, voor geneesmiddelen, verzorgingsmateriaal en hulpmiddelen die je anders deels zelf betaalt. De arts bevestigt dat de levensverwachting hooguit drie maanden is en dat intensieve zorg nodig is.",
+        "deadline": "De huisarts vraagt het aan zodra aan de voorwaarden is voldaan. Het geldt voor 30 dagen; leeft de patiënt daarna nog, dan kan de huisarts het één keer opnieuw aanvragen.",
+        "amount": "€850,51 per periode (vanaf 1 januari 2026), hooguit twee keer",
+        "steps": [
+          "Vraag je huisarts of het palliatief forfait van toepassing is",
+          "De huisarts vult het formulier 'Medische kennisgeving' in en stuurt het naar de adviserend arts van je ziekenfonds",
+          "Je ziekenfonds betaalt het forfait uit aan de patiënt",
+          "Na 30 dagen nog thuis? Dan kan de huisarts het formulier een tweede keer sturen"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier 'Medische kennisgeving', ingevuld door de huisarts"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Forfait palliatif à domicile",
+        "desc": "Un montant forfaitaire pour une personne en fin de vie qui souhaite mourir à domicile, pour les médicaments, le matériel de soins et les aides qu'elle paierait sinon en partie elle-même. Le médecin confirme que l'espérance de vie est de trois mois au plus et que des soins intensifs sont nécessaires.",
+        "deadline": "Demandé par le médecin généraliste dès que les conditions sont remplies. Il couvre 30 jours ; si le patient est encore en vie ensuite, le médecin peut le demander une seconde fois.",
+        "amount": "850,51 € par période (à partir du 1er janvier 2026), deux fois au maximum",
+        "steps": [
+          "Demandez à votre médecin généraliste si le forfait palliatif s'applique",
+          "Le médecin remplit le formulaire « Notification médicale » et l'envoie au médecin-conseil de votre mutualité",
+          "Votre mutualité verse le forfait au patient",
+          "Toujours à domicile après 30 jours ? Le médecin peut renvoyer le formulaire une seconde fois"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire « Notification médicale », rempli par le médecin généraliste"
+          }
+        ]
+      },
+      "de": {
+        "title": "Palliativpauschale für zu Hause",
+        "desc": "Ein Pauschalbetrag für unheilbar kranke Menschen, die zu Hause sterben möchten, für Medikamente, Pflegematerial und Hilfsmittel, die sie sonst teilweise selbst bezahlen. Der Arzt bestätigt, dass die Lebenserwartung höchstens drei Monate beträgt und intensive Pflege nötig ist.",
+        "deadline": "Der Hausarzt beantragt sie, sobald die Bedingungen erfüllt sind. Sie gilt für 30 Tage; lebt der Patient danach noch, kann der Hausarzt sie ein zweites Mal beantragen.",
+        "amount": "850,51 € pro Zeitraum (ab 1. Januar 2026), höchstens zweimal",
+        "steps": [
+          "Fragen Sie Ihren Hausarzt, ob die Palliativpauschale infrage kommt",
+          "Der Hausarzt füllt das Formular „Medizinische Mitteilung“ aus und schickt es an den Vertrauensarzt Ihrer Krankenkasse",
+          "Ihre Krankenkasse zahlt die Pauschale an den Patienten aus",
+          "Nach 30 Tagen noch zu Hause? Dann kann der Hausarzt das Formular ein zweites Mal schicken"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular „Medizinische Mitteilung“, vom Hausarzt ausgefüllt"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 45,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/verlof-voor-mantelzorg",
+    "amount_source_url": "https://www.rva.be/documentatie/bedragen/loopbaanonderbreking-tijdskrediet/thematische-verloven",
+    "request_url": {
+      "nl": "https://www.socialsecurity.be/citizen/nl/static/applics/breakatwork/index.htm",
+      "fr": "https://www.socialsecurity.be/citizen/fr/static/applics/breakatwork/index.htm"
+    },
+    "content": {
+      "en": {
+        "title": "Care Leave with an RVA Allowance (Verlof voor mantelzorg)",
+        "desc": "Employees can stop work fully, half-time or by 1/5 to care for someone who depends on them because of age, illness or disability; it does not have to be a family member. The RVA pays a monthly allowance. You first need recognition as a carer (mantelzorger) from your health fund. Similar leave exists for palliative care and for medical assistance to a relative, with the same amounts.",
+        "deadline": "Tell your employer in writing first, then apply to the RVA. Over your whole career: up to 6 months full-time, 12 months half-time or 30 months at 1/5.",
+        "amount": "€1,080.08 gross a month full-time, €540.03 half-time, €183.20 for 1/5 (private sector, from 1 September 2026); more for single parents",
+        "steps": [
+          "Ask your health fund to recognise you as a carer (sworn statement; valid for 2 years)",
+          "Tell your employer in writing which form of leave you want and from when",
+          "Apply to the RVA online via Break@Work, or with form C61 - Mantelzorg",
+          "The RVA pays the monthly allowance by bank transfer"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Carer recognition from your health fund"
+          },
+          {
+            "type": "doc",
+            "label": "Your employer's part of the application"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Verlof voor mantelzorg met RVA-uitkering",
+        "desc": "Werknemers kunnen hun werk volledig, halftijds of met 1/5 onderbreken om te zorgen voor iemand die door leeftijd, ziekte of handicap van hen afhankelijk is; dat hoeft geen familielid te zijn. De RVA betaalt een maandelijkse uitkering. Je moet eerst door je ziekenfonds erkend zijn als mantelzorger. Voor palliatieve zorg en voor medische bijstand aan een familielid bestaat gelijkaardig verlof, met dezelfde bedragen.",
+        "deadline": "Laat het eerst schriftelijk weten aan je werkgever en vraag het daarna aan bij de RVA. Over je hele loopbaan: tot 6 maanden voltijds, 12 maanden halftijds of 30 maanden met 1/5.",
+        "amount": "€1.080,08 bruto per maand voltijds, €540,03 halftijds, €183,20 bij 1/5 (privésector, vanaf 1 september 2026); meer voor alleenstaande ouders",
+        "steps": [
+          "Vraag je ziekenfonds om je te erkennen als mantelzorger (verklaring op eer; 2 jaar geldig)",
+          "Laat je werkgever schriftelijk weten welke vorm van verlof je wil en vanaf wanneer",
+          "Vraag het aan bij de RVA, online via Break@Work of met formulier C61 - Mantelzorg",
+          "De RVA stort de maandelijkse uitkering op je rekening"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Erkenning als mantelzorger door je ziekenfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Het deel van de aanvraag dat je werkgever invult"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Congé pour aidant proche avec allocation de l'ONEM",
+        "desc": "Les travailleurs peuvent interrompre leur travail complètement, à mi-temps ou d'1/5 pour aider une personne dépendante en raison de son âge, d'une maladie ou d'un handicap ; ce n'est pas forcément un membre de la famille. L'ONEM verse une allocation mensuelle. Vous devez d'abord être reconnu(e) comme aidant proche par votre mutualité. Un congé similaire existe pour soins palliatifs et pour assistance médicale à un proche, avec les mêmes montants.",
+        "deadline": "Prévenez d'abord votre employeur par écrit, puis faites la demande à l'ONEM. Sur toute la carrière : jusqu'à 6 mois à temps plein, 12 mois à mi-temps ou 30 mois à 1/5.",
+        "amount": "1.080,08 € brut par mois à temps plein, 540,03 € à mi-temps, 183,20 € pour 1/5 (secteur privé, à partir du 1er septembre 2026) ; plus pour les parents isolés",
+        "steps": [
+          "Demandez à votre mutualité de vous reconnaître comme aidant proche (déclaration sur l'honneur ; valable 2 ans)",
+          "Informez votre employeur par écrit de la forme de congé choisie et de la date de début",
+          "Faites la demande à l'ONEM en ligne via Break@Work, ou avec le formulaire C61 - Aidant proche",
+          "L'ONEM verse l'allocation mensuelle sur votre compte"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Reconnaissance comme aidant proche par votre mutualité"
+          },
+          {
+            "type": "doc",
+            "label": "La partie de la demande remplie par votre employeur"
+          }
+        ]
+      },
+      "de": {
+        "title": "Urlaub für pflegende Angehörige mit LfA-Zulage",
+        "desc": "Arbeitnehmer können ihre Arbeit ganz, zur Hälfte oder um 1/5 unterbrechen, um eine Person zu pflegen, die wegen Alter, Krankheit oder Behinderung von ihnen abhängig ist; das muss kein Familienmitglied sein. Das Landesamt für Arbeitsbeschaffung (LfA) zahlt eine monatliche Zulage. Zuerst müssen Sie von Ihrer Krankenkasse als pflegender Angehöriger anerkannt sein. Ähnlichen Urlaub gibt es für Palliativpflege und für medizinischen Beistand für Angehörige, mit denselben Beträgen.",
+        "deadline": "Informieren Sie zuerst Ihren Arbeitgeber schriftlich und stellen Sie dann den Antrag beim LfA. Über die ganze Laufbahn: bis zu 6 Monate Vollzeit, 12 Monate Halbzeit oder 30 Monate mit 1/5.",
+        "amount": "1.080,08 € brutto pro Monat Vollzeit, 540,03 € Halbzeit, 183,20 € bei 1/5 (Privatsektor, ab 1. September 2026); mehr für Alleinerziehende",
+        "steps": [
+          "Lassen Sie sich von Ihrer Krankenkasse als pflegender Angehöriger anerkennen (ehrenwörtliche Erklärung; 2 Jahre gültig)",
+          "Teilen Sie Ihrem Arbeitgeber schriftlich mit, welche Form des Urlaubs Sie möchten und ab wann",
+          "Stellen Sie den Antrag beim LfA online über Break@Work oder mit dem Formular C61",
+          "Das LfA überweist die monatliche Zulage auf Ihr Konto"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Anerkennung als pflegender Angehöriger durch Ihre Krankenkasse"
+          },
+          {
+            "type": "doc",
+            "label": "Den Teil des Antrags, den Ihr Arbeitgeber ausfüllt"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 46,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RIZIV-INAMI · ziekenfonds / mutualité",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-terugbetaling-van-uw-dietetiek-en-podologische-sessies",
+    "content": {
+      "en": {
+        "title": "Free Podiatrist Sessions for People with Diabetes",
+        "desc": "If you have type 2 diabetes and follow a diabetes start or care trajectory, a self-management programme or a foot clinic, and your feet are at risk (for example loss of feeling, deformities or earlier foot wounds), two podiatrist sessions a year are fully reimbursed.",
+        "deadline": "Two sessions per calendar year, not on the same day.",
+        "amount": "2 sessions of 45 minutes a year, fully reimbursed",
+        "steps": [
+          "Ask your GP for a prescription for podiatry (they check you are in an eligible diabetes programme and risk group)",
+          "Book a podiatrist who has a RIZIV-INAMI number",
+          "After each session, the podiatrist gives you a certificate",
+          "Hand the certificate to your health fund for the refund"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription from your GP or diabetes specialist"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Gratis podologie voor mensen met diabetes",
+        "desc": "Heb je diabetes type 2 en volg je een opstart- of zorgtraject diabetes, een zelfregulatieprogramma of een voetkliniek, en lopen je voeten risico (bijvoorbeeld gevoelsverlies, misvormingen of eerdere voetwonden), dan worden twee sessies bij de podoloog per jaar volledig terugbetaald.",
+        "deadline": "Twee sessies per kalenderjaar, niet op dezelfde dag.",
+        "amount": "2 sessies van 45 minuten per jaar, volledig terugbetaald",
+        "steps": [
+          "Vraag je huisarts een voorschrift voor podologie (die kijkt na of je in een erkend diabetesprogramma en risicogroep zit)",
+          "Maak een afspraak bij een podoloog met een RIZIV-nummer",
+          "Na elke sessie krijg je een getuigschrift van de podoloog",
+          "Bezorg het getuigschrift aan je ziekenfonds voor de terugbetaling"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift van je huisarts of diabetesspecialist"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Séances de podologie gratuites pour les personnes diabétiques",
+        "desc": "Si vous avez un diabète de type 2 et suivez un prétrajet ou un trajet de soins diabète, un programme d'autogestion ou une clinique du pied, et que vos pieds sont à risque (par exemple perte de sensibilité, déformations ou plaies antérieures), deux séances de podologie par an sont entièrement remboursées.",
+        "deadline": "Deux séances par année civile, pas le même jour.",
+        "amount": "2 séances de 45 minutes par an, entièrement remboursées",
+        "steps": [
+          "Demandez à votre médecin généraliste une prescription de podologie (il vérifie que vous êtes dans un programme diabète et un groupe à risque reconnus)",
+          "Prenez rendez-vous chez un podologue disposant d'un numéro INAMI",
+          "Après chaque séance, le podologue vous remet une attestation",
+          "Remettez l'attestation à votre mutualité pour le remboursement"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription de votre médecin généraliste ou diabétologue"
+          }
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Podologie für Menschen mit Diabetes",
+        "desc": "Wenn Sie Diabetes Typ 2 haben und an einem Vor- oder Pflegepfad Diabetes, einem Selbstmanagement-Programm oder einer Fußklinik teilnehmen und Ihre Füße gefährdet sind (zum Beispiel Gefühlsverlust, Fehlstellungen oder frühere Fußwunden), werden zwei Sitzungen beim Podologen pro Jahr vollständig erstattet.",
+        "deadline": "Zwei Sitzungen pro Kalenderjahr, nicht am selben Tag.",
+        "amount": "2 Sitzungen von 45 Minuten pro Jahr, vollständig erstattet",
+        "steps": [
+          "Bitten Sie Ihren Hausarzt um eine Verschreibung für Podologie (er prüft, ob Sie in einem anerkannten Diabetesprogramm und einer Risikogruppe sind)",
+          "Vereinbaren Sie einen Termin bei einem Podologen mit LIKIV-Nummer",
+          "Nach jeder Sitzung erhalten Sie vom Podologen eine Bescheinigung",
+          "Geben Sie die Bescheinigung für die Erstattung bei Ihrer Krankenkasse ab"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verschreibung Ihres Hausarztes oder Diabetologen"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 47,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "school"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Departement Werk en Sociale Economie (Vlaanderen)",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/werken/opleiding-op-de-werkplek/als-werknemer-een-opleiding-volgen/vlaams-opleidingsverlof",
+    "amount_source_url": "https://www.vlaanderen.be/werken/opleiding-op-de-werkplek/als-werknemer-een-opleiding-volgen/vlaams-opleidingsverlof/hoeveel-uren-vlaams-opleidingsverlof-kan-een-werknemer-opnemen",
+    "content": {
+      "en": {
+        "title": "Flemish Training Leave (Vlaams opleidingsverlof)",
+        "desc": "Employees in the private sector who work at a site in the Flemish Region (at least half-time) can take paid time off to follow a recognised training of at least 32 contact hours or 3 study points. You keep your salary; the Flemish government reimburses your employer. What counts is where you work, not where you live.",
+        "deadline": "Give your enrolment certificate to your employer by 31 October for a school-year course, or within 15 days of enrolling for other courses.",
+        "amount": "Up to 125 hours a school year with your salary kept (scaled to your working time); up to 250 hours if you also follow a training your employer proposes",
+        "steps": [
+          "Check that your course is in the Flemish training database (use the simulator on vlaanderen.be)",
+          "Get the enrolment certificate from your training provider",
+          "Give it to your employer in time and plan the leave hours together",
+          "Your employer applies for the reimbursement"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Enrolment certificate from the training provider"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Vlaams opleidingsverlof",
+        "desc": "Werknemers in de privésector die (minstens halftijds) werken in een vestiging in het Vlaams Gewest, kunnen betaald verlof nemen om een erkende opleiding van minstens 32 contacturen of 3 studiepunten te volgen. Je behoudt je loon; de Vlaamse overheid betaalt je werkgever terug. Wat telt, is waar je werkt, niet waar je woont.",
+        "deadline": "Bezorg je inschrijvingsattest aan je werkgever uiterlijk op 31 oktober voor een opleiding die een schooljaar loopt, of binnen 15 dagen na je inschrijving voor andere opleidingen.",
+        "amount": "Tot 125 uur per schooljaar met behoud van loon (naar verhouding van je tewerkstelling); tot 250 uur als je ook een opleiding volgt die je werkgever voorstelt",
+        "steps": [
+          "Kijk na of je opleiding in de Vlaamse opleidingsdatabank staat (gebruik de simulator op vlaanderen.be)",
+          "Vraag het inschrijvingsattest aan je opleidingsverstrekker",
+          "Bezorg het op tijd aan je werkgever en plan samen de verlofuren in",
+          "Je werkgever vraagt de terugbetaling aan"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Inschrijvingsattest van de opleidingsverstrekker"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Congé-formation flamand (Vlaams opleidingsverlof)",
+        "desc": "Les travailleurs du secteur privé qui travaillent (au moins à mi-temps) dans un siège situé en Région flamande peuvent prendre un congé payé pour suivre une formation reconnue d'au moins 32 heures de cours ou 3 crédits. Vous gardez votre salaire ; la Flandre rembourse votre employeur. C'est le lieu de travail qui compte, pas le domicile.",
+        "deadline": "Remettez votre attestation d'inscription à votre employeur au plus tard le 31 octobre pour une formation sur l'année scolaire, ou dans les 15 jours de l'inscription pour les autres formations.",
+        "amount": "Jusqu'à 125 heures par année scolaire avec maintien du salaire (au prorata de votre temps de travail) ; jusqu'à 250 heures si vous suivez aussi une formation proposée par votre employeur",
+        "steps": [
+          "Vérifiez que votre formation figure dans la base de données flamande des formations (simulateur sur vlaanderen.be)",
+          "Demandez l'attestation d'inscription à l'organisme de formation",
+          "Remettez-la à temps à votre employeur et planifiez ensemble les heures de congé",
+          "Votre employeur demande le remboursement"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation d'inscription de l'organisme de formation"
+          }
+        ]
+      },
+      "de": {
+        "title": "Flämischer Bildungsurlaub (Vlaams opleidingsverlof)",
+        "desc": "Arbeitnehmer im Privatsektor, die (mindestens halbzeitig) in einer Niederlassung in der Flämischen Region arbeiten, können bezahlten Urlaub nehmen, um eine anerkannte Ausbildung von mindestens 32 Kontaktstunden oder 3 Studienpunkten zu besuchen. Sie behalten Ihren Lohn; Flandern erstattet ihn Ihrem Arbeitgeber. Entscheidend ist der Arbeitsort, nicht der Wohnort.",
+        "deadline": "Geben Sie Ihre Einschreibebescheinigung bis spätestens 31. Oktober ab, wenn die Ausbildung ein Schuljahr dauert, sonst innerhalb von 15 Tagen nach der Einschreibung.",
+        "amount": "Bis zu 125 Stunden pro Schuljahr bei vollem Lohn (anteilig zur Arbeitszeit); bis zu 250 Stunden, wenn Sie auch eine vom Arbeitgeber vorgeschlagene Ausbildung besuchen",
+        "steps": [
+          "Prüfen Sie, ob Ihre Ausbildung in der flämischen Ausbildungsdatenbank steht (Simulator auf vlaanderen.be)",
+          "Lassen Sie sich die Einschreibebescheinigung vom Ausbildungsanbieter geben",
+          "Geben Sie sie rechtzeitig Ihrem Arbeitgeber und planen Sie die Urlaubsstunden gemeinsam",
+          "Ihr Arbeitgeber beantragt die Erstattung"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Einschreibebescheinigung des Ausbildungsanbieters"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 48,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "school"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Bruxelles Économie et Emploi / Brussel Economie en Werkgelegenheid",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://economie-emploi.brussels/conge-education-beneficiaires",
+    "amount_source_url": "https://economie-emploi.brussels/conge-education-duree",
+    "content": {
+      "en": {
+        "title": "Paid Educational Leave in Brussels (Congé-éducation payé)",
+        "desc": "Private-sector employees who work at a site in the Brussels-Capital Region (at least 25% of full time) can take paid leave to follow a recognised training of at least 32 hours. Your employer keeps paying your wage and the Region reimburses the employer. Civil servants and teachers are excluded. What counts is where you work, not where you live.",
+        "deadline": "Give the school's special enrolment certificate to your employer by 31 October of the school year, or within 15 days of enrolling or changing employer.",
+        "amount": "Up to 80 hours a school year for general training, 120 hours for professional training, up to 180 hours in some cases (full-time figures)",
+        "steps": [
+          "Check that your training is recognised for paid educational leave",
+          "Ask your school for the special enrolment certificate for congé-éducation",
+          "Give it to your employer by registered post, or by email or in person with an acknowledgement of receipt",
+          "Send your employer an attendance certificate every quarter"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Special enrolment certificate from the school"
+          }
+        ]
+      },
+      "nl": {
+        "title": "Betaald educatief verlof in Brussel",
+        "desc": "Werknemers in de privésector die werken in een vestiging in het Brussels Hoofdstedelijk Gewest (minstens 25% van een voltijdse job) kunnen betaald verlof nemen om een erkende opleiding van minstens 32 uur te volgen. Je werkgever betaalt je loon door en het Gewest betaalt de werkgever terug. Ambtenaren en leerkrachten zijn uitgesloten. Wat telt, is waar je werkt, niet waar je woont.",
+        "deadline": "Bezorg het speciale inschrijvingsattest van de school aan je werkgever uiterlijk op 31 oktober van het schooljaar, of binnen 15 dagen na je inschrijving of na een verandering van werkgever.",
+        "amount": "Tot 80 uur per schooljaar voor een algemene opleiding, 120 uur voor een beroepsopleiding, in sommige gevallen tot 180 uur (bij een voltijdse job)",
+        "steps": [
+          "Kijk na of je opleiding erkend is voor betaald educatief verlof",
+          "Vraag je school het speciale inschrijvingsattest voor educatief verlof",
+          "Bezorg het aan je werkgever, aangetekend of per e-mail of persoonlijk met ontvangstbewijs",
+          "Bezorg je werkgever elk kwartaal een aanwezigheidsattest"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Speciaal inschrijvingsattest van de school"
+          }
+        ]
+      },
+      "fr": {
+        "title": "Congé-éducation payé à Bruxelles",
+        "desc": "Les travailleurs du secteur privé occupés dans un siège d'exploitation situé en Région de Bruxelles-Capitale (au moins 25 % d'un temps plein) peuvent prendre un congé payé pour suivre une formation reconnue d'au moins 32 heures. Votre employeur continue de payer votre salaire et la Région le rembourse. Les fonctionnaires et les enseignants sont exclus. C'est le lieu de travail qui compte, pas le domicile.",
+        "deadline": "Remettez l'attestation d'inscription spécifique de l'école à votre employeur au plus tard le 31 octobre de l'année scolaire, ou dans les 15 jours de l'inscription ou d'un changement d'employeur.",
+        "amount": "Jusqu'à 80 heures par année scolaire pour une formation générale, 120 heures pour une formation professionnelle, jusqu'à 180 heures dans certains cas (pour un temps plein)",
+        "steps": [
+          "Vérifiez que votre formation est reconnue pour le congé-éducation payé",
+          "Demandez à votre école l'attestation d'inscription spécifique au congé-éducation",
+          "Remettez-la à votre employeur par recommandé, ou par e-mail ou en main propre avec accusé de réception",
+          "Envoyez chaque trimestre une attestation d'assiduité à votre employeur"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation d'inscription spécifique de l'école"
+          }
+        ]
+      },
+      "de": {
+        "title": "Bezahlter Bildungsurlaub in Brüssel",
+        "desc": "Arbeitnehmer im Privatsektor, die in einer Niederlassung in der Region Brüssel-Hauptstadt arbeiten (mindestens 25 % einer Vollzeitstelle), können bezahlten Urlaub nehmen, um eine anerkannte Ausbildung von mindestens 32 Stunden zu besuchen. Ihr Arbeitgeber zahlt den Lohn weiter, und die Region erstattet ihn. Beamte und Lehrkräfte sind ausgeschlossen. Entscheidend ist der Arbeitsort, nicht der Wohnort.",
+        "deadline": "Geben Sie die spezielle Einschreibebescheinigung der Schule bis spätestens 31. Oktober des Schuljahres ab, oder innerhalb von 15 Tagen nach der Einschreibung oder einem Arbeitgeberwechsel.",
+        "amount": "Bis zu 80 Stunden pro Schuljahr für allgemeine Ausbildung, 120 Stunden für berufliche Ausbildung, in manchen Fällen bis zu 180 Stunden (bei Vollzeit)",
+        "steps": [
+          "Prüfen Sie, ob Ihre Ausbildung für den bezahlten Bildungsurlaub anerkannt ist",
+          "Bitten Sie Ihre Schule um die spezielle Einschreibebescheinigung für den Bildungsurlaub",
+          "Geben Sie sie Ihrem Arbeitgeber per Einschreiben oder per E-Mail bzw. persönlich gegen Empfangsbestätigung",
+          "Schicken Sie Ihrem Arbeitgeber jedes Quartal eine Anwesenheitsbescheinigung"
+        ],
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Spezielle Einschreibebescheinigung der Schule"
+          }
         ]
       }
     }

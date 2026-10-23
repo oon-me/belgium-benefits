@@ -45,6 +45,9 @@ export const healthFunds = [
   { id: "independent", short: "Helan / Partenamut", full: "Helan · Partenamut" },
   { id: "liberal", short: "LM / ML", full: "Liberale Mutualiteit · Mutualité Libérale" },
   { id: "neutral", short: "VNZ / Mutualia", full: "Vlaams & Neutraal Ziekenfonds · Mutualia · La Mutualité Neutre" },
+  // Same national union as VNZ (RIZIV no. 235 vs 203) but its own fund with its own extras, so it
+  // gets its own id: folding it into "neutral" would show its members VNZ's birth premium.
+  { id: "nzvl", short: "NZVL", full: "Neutraal Ziekenfonds Vlaanderen" },
   { id: "other", short: null, full: "HZIV/CAAMI, HR Rail…" },
 ];
 export const healthFundIds = new Set(healthFunds.map((f) => f.id));
