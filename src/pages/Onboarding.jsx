@@ -3,7 +3,7 @@ import { Navigate, useNavigate, useParams } from "react-router-dom";
 import { Check, ChevronRight, Search } from "lucide-react";
 import { c, bodyFont, displayFont } from "../theme.js";
 import { useT, LANGS } from "../i18n.js";
-import { situations, healthFunds } from "../constants.js";
+import { situations, healthFunds, statuses } from "../constants.js";
 import { regions, sortedCommunes, communeName, resolveCommune } from "../data/communes.js";
 import { usePrefs } from "../lib/prefs.js";
 import { usePageMeta } from "../lib/meta.js";
@@ -16,7 +16,9 @@ import { usePageMeta } from "../lib/meta.js";
 // four-language strings for it are still in i18n.js.
 // The health-fund step is optional: it only adds the fund's own extras (birth gifts and the like)
 // on top of the government benefits, so "skip" is always one tap away.
-const STEPS = ["location", "situation", "fund"];
+// The residence-status step (feedback item 9) never filters: it only picks the guidance shown
+// above the results, because nationality and permit conditions differ per benefit.
+const STEPS = ["location", "status", "situation", "fund"];
 
 export default function Onboarding() {
   const { lang, step } = useParams();
@@ -28,7 +30,7 @@ export default function Onboarding() {
   const index = STEPS.indexOf(step);
   const safeStep = index === -1 ? "location" : step;
 
-  const { region = null, commune = null, situations: picked = [], fund = null } = prefs;
+  const { region = null, commune = null, situations: picked = [], fund = null, status = null } = prefs;
   const selected = resolveCommune(commune);
 
   // 285 municipalities in Flanders alone, so the picker filters rather than listing buttons.
@@ -40,9 +42,9 @@ export default function Onboarding() {
     // Match on any official language name, so searching "Anvers" finds Antwerpen.
     return all.filter((cm) => ["nl", "fr", "de"].some((l) => cm[l].toLowerCase().includes(q)));
   }, [region, lang, communeQuery]);
-  const stepLabel = t("step").replace("{n}", Math.max(index, 0) + 2).replace("{total}", "4");
-  const headline = { location: t("headlineRegion"), situation: t("headlineSituation"), fund: t("headlineFund") }[safeStep];
-  const sub = { location: t("subRegion"), situation: t("subSituation"), fund: t("subFund") }[safeStep];
+  const stepLabel = t("step").replace("{n}", Math.max(index, 0) + 2).replace("{total}", STEPS.length + 1);
+  const headline = { location: t("headlineRegion"), status: t("headlineStatus"), situation: t("headlineSituation"), fund: t("headlineFund") }[safeStep];
+  const sub = { location: t("subRegion"), status: t("subStatus"), situation: t("subSituation"), fund: t("subFund") }[safeStep];
   usePageMeta({
     lang,
     title: headline.replace(/\n/g, " "),
@@ -151,6 +153,46 @@ export default function Onboarding() {
               style={{ background: c.gold, color: c.ink }}
             >
               {t("continueBtn")} <ChevronRight size={16} />
+            </button>
+          </div>
+        )}
+
+        {step === "status" && (
+          <div className="space-y-5">
+            <div className="grid gap-2.5">
+              {statuses.map((st) => {
+                const active = status === st.id;
+                return (
+                  <button
+                    key={st.id}
+                    onClick={() => setPrefs({ status: st.id })}
+                    className="flex items-center gap-3 rounded-2xl py-3.5 px-4 text-xs font-semibold border-2 text-left"
+                    style={{
+                      borderColor: active ? c.gold : "#3A4A57",
+                      background: active ? "rgba(184,134,59,0.18)" : "transparent",
+                      color: active ? c.gold : "#D7DEE3",
+                    }}
+                  >
+                    <span className="text-2xl leading-none">{st.emoji}</span>
+                    {t("statuses")[st.id]}
+                    {active && <Check size={18} className="ml-auto shrink-0" />}
+                  </button>
+                );
+              })}
+            </div>
+            <button
+              onClick={next}
+              className="w-full flex items-center justify-center gap-2 rounded-lg py-3.5 font-semibold text-sm"
+              style={{ background: c.gold, color: c.ink }}
+            >
+              {t("continueBtn")} <ChevronRight size={16} />
+            </button>
+            <button
+              onClick={() => { setPrefs({ status: null }); next(); }}
+              className="w-full text-xs underline"
+              style={{ color: "#8AA0AE" }}
+            >
+              {t("statusSkip")}
             </button>
           </div>
         )}

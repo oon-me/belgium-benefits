@@ -4,11 +4,11 @@ import benefits from "../src/data/benefits.json" with { type: "json" };
 import { communesByRegion, resolveCommune, communeName } from "../src/data/communes.js";
 import { matchesBenefit } from "../src/lib/match.js";
 import { ageInDays, STALE_AFTER_DAYS } from "../src/lib/freshness.js";
-import { healthFundIds } from "../src/constants.js";
+import { healthFundIds, situationIds } from "../src/constants.js";
 
 const LANGS = ["en", "nl", "fr", "de"];
 const CATEGORIES = new Set(["housing", "family", "health", "employment", "other"]);
-const SITUATIONS = new Set(["pregnancy", "job-loss", "buying-home", "renting", "health-issue", "school"]);
+const SITUATIONS = situationIds;
 const REGIONS = new Set(["Flanders", "Wallonia", "Brussels", "Federal"]);
 const REQ_TYPES = new Set(["phone", "card", "id", "doc"]);
 const NOTICE_RECHECK_DAYS = 30;

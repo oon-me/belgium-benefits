@@ -25,6 +25,8 @@ export default function Benefits() {
   const category = params.get("category") || null;
   const query = params.get("q") || "";
   const fund = params.get("fund") || prefs.fund || null;
+  const status = params.get("status") || prefs.status || null;
+  const statusNote = status ? t("statusNotes")[status] : null;
   const picked = params.has("situations")
     ? params.get("situations").split(",").filter(Boolean)
     : prefs.situations || [];
@@ -147,6 +149,17 @@ export default function Benefits() {
             </select>
           </label>
         </div>
+
+        {statusNote && (
+          <div className="rounded-xl p-3.5 mb-4 border" style={{ borderColor: c.line, background: c.paperDim }}>
+            <p className="text-[10px] uppercase tracking-wide mb-1 font-semibold" style={{ color: c.inkSoft }}>
+              {t("statusLabel")}: {t("statuses")[status]}
+            </p>
+            <p className="text-xs leading-relaxed" style={{ color: c.ink }}>
+              {statusNote}
+            </p>
+          </div>
+        )}
 
         {fundExtrasHidden && (
           <div className="rounded-xl p-3.5 mb-4 border flex flex-wrap items-center justify-between gap-2" style={{ borderColor: c.gold, background: "#F6EDDB" }}>

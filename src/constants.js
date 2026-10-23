@@ -1,4 +1,4 @@
-import { Building2, Baby, Heart, Briefcase, HelpCircle, Home, GraduationCap } from "lucide-react";
+import { Building2, Baby, Heart, Briefcase, HelpCircle, Home, GraduationCap, Users, Wallet, BadgeCheck, Store } from "lucide-react";
 
 export const categories = [
   { id: "housing", icon: Building2, emoji: "🏠" },
@@ -15,6 +15,23 @@ export const situations = [
   { id: "renting", icon: Home, emoji: "🔑" },
   { id: "health-issue", icon: Heart, emoji: "❤️" },
   { id: "school", icon: GraduationCap, emoji: "🎓" },
+  // Added Oct 2026 (feedback item 1). Each one only exists because entries carry it: a situation
+  // with nothing behind it would show an empty page. check-data warns when that happens.
+  { id: "children", icon: Users, emoji: "👨‍👩‍👧" },
+  { id: "low-income", icon: Wallet, emoji: "💶" },
+  { id: "employee", icon: BadgeCheck, emoji: "🧑‍💼" },
+  { id: "self-employed", icon: Store, emoji: "🛠️" },
+];
+export const situationIds = new Set(situations.map((s) => s.id));
+
+// Residence status (feedback item 9). It never hides a benefit: conditions on nationality and
+// residence permits differ per benefit and are on each official page. It changes the guidance
+// shown above the results, so nobody assumes everything applies to them.
+export const statuses = [
+  { id: "belgian", emoji: "🇧🇪" },
+  { id: "eu", emoji: "🇪🇺" },
+  { id: "non-eu", emoji: "🌍" },
+  { id: "intl-student", emoji: "🎓" },
 ];
 
 
