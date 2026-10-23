@@ -132,12 +132,12 @@ export default function Benefits() {
           <p className="text-xs" style={{ color: c.inkSoft }}>
             {items.length} {t(items.length === 1 ? "resultOne" : "resultMany")}
           </p>
-          <label className="flex items-center gap-2 text-xs" style={{ color: c.inkSoft }}>
+          <label className="flex items-center gap-2 text-xs min-w-0" style={{ color: c.inkSoft }}>
             {t("fundLabel")}
             <select
               value={fund ?? ""}
               onChange={(e) => chooseFund(e.target.value)}
-              className="rounded-md border px-2 py-1 text-xs bg-white"
+              className="rounded-md border px-2 py-1 text-xs bg-white min-w-0 max-w-[13rem]"
               style={{ borderColor: c.line, color: c.ink }}
             >
               <option value="">{t("fundNone")}</option>
