@@ -66,12 +66,12 @@ export default function HealthFunds() {
                         <p className="text-sm font-semibold" style={{ color: c.ink }}>
                           {entry.institution}
                         </p>
-                        <p className="text-[10px]" style={{ color: c.inkSoft }}>
+                        <p className="text-[13px]" style={{ color: c.inkSoft }}>
                           {fund.short}
                         </p>
                       </div>
                       <div>
-                        <p className="text-sm font-bold" style={{ color: c.gold, fontFamily: monoFont }}>
+                        <p className="text-sm font-bold" style={{ color: c.goldText, fontFamily: monoFont, fontVariantNumeric: "tabular-nums" }}>
                           {bc.amount}
                         </p>
                         <p className="text-xs mt-0.5" style={{ color: c.inkSoft }}>
@@ -86,7 +86,7 @@ export default function HealthFunds() {
           );
         })}
 
-        <p className="text-[11px] leading-relaxed max-w-prose" style={{ color: c.inkSoft }}>
+        <p className="text-xs leading-relaxed max-w-prose" style={{ color: c.inkSoft }}>
           {t("compareNote")}
         </p>
       </div>

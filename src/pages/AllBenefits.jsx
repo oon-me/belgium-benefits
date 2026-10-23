@@ -54,13 +54,13 @@ export default function AllBenefits() {
                           <span className="text-sm font-semibold" style={{ color: c.ink }}>
                             {bc.title}
                           </span>
-                          <span className="block text-[11px]" style={{ color: c.inkSoft }}>
+                          <span className="block text-xs" style={{ color: c.inkSoft }}>
                             {b.institution} · {b.region.join(", ")}
                           </span>
                         </span>
                         <span className="flex items-center gap-2 w-full sm:w-auto sm:max-w-xs justify-between sm:justify-end">
                           {/* The full amount lives on the benefit's own page; two lines are enough to scan. */}
-                          <span className="text-xs font-bold line-clamp-2 sm:text-right" style={{ color: c.gold, fontFamily: monoFont }}>
+                          <span className="text-xs font-bold line-clamp-2 sm:text-right" style={{ color: c.goldText, fontFamily: monoFont, fontVariantNumeric: "tabular-nums" }}>
                             {bc.amount}
                           </span>
                           <StampBadge status={b.status} t={t} />

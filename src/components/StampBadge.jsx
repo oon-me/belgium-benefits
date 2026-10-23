@@ -5,7 +5,7 @@ export default function StampBadge({ status, t }) {
   const verified = status === "verified";
   return (
     <div
-      className="flex items-center gap-1 rounded-full border px-2 py-0.5 text-[10px] font-semibold tracking-wide uppercase shrink-0"
+      className="flex items-center gap-1 rounded-full border px-2 py-0.5 text-[13px] font-semibold tracking-wide uppercase shrink-0"
       style={{
         borderColor: verified ? c.green : c.gold,
         color: verified ? c.green : c.gold,

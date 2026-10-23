@@ -22,16 +22,16 @@ export default function BenefitCard({ benefit, lang, t, to }) {
         {bc.desc}
       </p>
       {benefit.notice && (
-        <p className="text-[10px] leading-snug mb-3 line-clamp-2" style={{ color: c.inkSoft }}>
+        <p className="text-[13px] leading-snug mb-3 line-clamp-2" style={{ color: c.inkSoft }}>
           <span className="font-semibold" style={{ color: c.ink }}>ⓘ {t("noticeLabel")}:</span>{" "}
           {benefit.notice.text[lang] ?? benefit.notice.text.en}
         </p>
       )}
       <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
-        <span className="text-sm font-bold" style={{ color: c.gold, fontFamily: monoFont }}>
+        <span className="text-sm font-bold" style={{ color: c.goldText, fontFamily: monoFont, fontVariantNumeric: "tabular-nums" }}>
           {bc.amount}
         </span>
-        <span className="text-[11px]" style={{ color: c.inkSoft }}>
+        <span className="text-xs" style={{ color: c.inkSoft }}>
           {benefit.institution}
         </span>
       </div>

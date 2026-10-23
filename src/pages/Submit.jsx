@@ -22,7 +22,7 @@ export default function Submit() {
           <h1 className="text-xl md:text-3xl" style={{ color: c.paper, fontFamily: displayFont, fontWeight: 700 }}>
             {t("submitHeadline")}
           </h1>
-          <p className="text-[11px] md:text-sm mt-1" style={{ color: "#8AA0AE" }}>
+          <p className="text-xs md:text-sm mt-1" style={{ color: "#8AA0AE" }}>
             {t("submitSub")}
           </p>
         </div>

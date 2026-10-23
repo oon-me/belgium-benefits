@@ -249,7 +249,7 @@ export default function Onboarding() {
                     <span className="min-w-0">
                       <span className="block text-xs font-semibold">{f.short ?? t("fundOther")}</span>
                       {f.short && (
-                        <span className="block text-[10px] mt-0.5" style={{ color: "#8AA0AE" }}>
+                        <span className="block text-[13px] mt-0.5" style={{ color: "#8AA0AE" }}>
                           {f.full}
                         </span>
                       )}

@@ -74,10 +74,10 @@ export default function BenefitDetail() {
       <div className="mx-auto w-full max-w-3xl px-5 md:px-6 py-6 md:py-8">
         <div className="grid sm:grid-cols-2 gap-4 mb-6">
           <div className="rounded-xl p-4 text-center sm:text-left" style={{ background: "#F6EDDB" }}>
-            <p className="text-[10px] uppercase tracking-wide mb-1" style={{ color: c.gold }}>
+            <p className="text-[13px] uppercase tracking-wide mb-1" style={{ color: c.goldText }}>
               {t("youCouldReceive")}
             </p>
-            <p className="text-xl md:text-2xl font-bold" style={{ color: c.gold, fontFamily: monoFont }}>
+            <p className="text-xl md:text-2xl font-bold" style={{ color: c.goldText, fontFamily: monoFont, fontVariantNumeric: "tabular-nums" }}>
               {bc.amount}
             </p>
           </div>
@@ -98,7 +98,7 @@ export default function BenefitDetail() {
         {/* A change that has been announced but is not law yet: kept small and separate from the
             amounts above, which always describe the rules in force today. */}
         {benefit.notice && (
-          <aside className="mb-5 text-[11px] leading-relaxed max-w-prose" style={{ color: c.inkSoft }}>
+          <aside className="mb-5 text-xs leading-relaxed max-w-prose" style={{ color: c.inkSoft }}>
             <span className="font-semibold" style={{ color: c.ink }}>
               ⓘ {t("noticeLabel")}:
             </span>{" "}
@@ -122,10 +122,10 @@ export default function BenefitDetail() {
 
         {benefit.note && (
           <div className="rounded-xl p-3.5 mb-5 border" style={{ borderColor: c.gold, background: "#F6EDDB" }}>
-            <p className="text-[10px] uppercase tracking-wide mb-1 font-semibold" style={{ color: c.gold }}>
+            <p className="text-[13px] uppercase tracking-wide mb-1 font-semibold" style={{ color: c.goldText }}>
               {t("entryNote")}
             </p>
-            <p className="text-[11px] leading-relaxed" style={{ color: c.ink }}>
+            <p className="text-xs leading-relaxed" style={{ color: c.ink }}>
               {benefit.note}
             </p>
           </div>
@@ -155,10 +155,10 @@ export default function BenefitDetail() {
             </div>
             {bc.requirements.some((r) => r.type === "phone") && (
               <div className="mt-3 pt-3 border-t" style={{ borderColor: c.line }}>
-                <p className="text-[11px] font-semibold mb-1" style={{ color: c.post }}>
+                <p className="text-xs font-semibold mb-1" style={{ color: c.post }}>
                   {t("newToItsme")}
                 </p>
-                <p className="text-[11px] leading-relaxed" style={{ color: c.inkSoft }}>
+                <p className="text-xs leading-relaxed" style={{ color: c.inkSoft }}>
                   {t("itsmeTip")}
                 </p>
               </div>
@@ -172,7 +172,7 @@ export default function BenefitDetail() {
         <ol className="flex flex-col gap-2.5 mb-8">
           {bc.steps.map((s, i) => (
             <li key={i} className="flex gap-3 items-start">
-              <div className="w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-bold shrink-0 mt-0.5" style={{ background: c.post, color: "white" }}>
+              <div className="w-5 h-5 rounded-full flex items-center justify-center text-[13px] font-bold shrink-0 mt-0.5" style={{ background: c.post, color: "white" }}>
                 {i + 1}
               </div>
               <p className="text-xs md:text-sm pt-0.5" style={{ color: c.ink }}>
@@ -223,7 +223,7 @@ export default function BenefitDetail() {
                 </a>
               </div>
               {otherFunds.length > 0 && (
-                <p className="text-[11px] mb-3 flex flex-wrap items-center gap-x-3 gap-y-1" style={{ color: c.inkSoft }}>
+                <p className="text-xs mb-3 flex flex-wrap items-center gap-x-3 gap-y-1" style={{ color: c.inkSoft }}>
                   {t("requestViaFund")}
                   {otherFunds.map((l) => (
                     <a key={l.fund} href={l.url} target="_blank" rel="noopener noreferrer" className="font-semibold underline" style={{ color: c.post }}>
@@ -235,7 +235,7 @@ export default function BenefitDetail() {
             </>
           );
         })()}
-        <p className="text-[10px]" style={{ color: c.inkSoft }}>
+        <p className="text-[13px]" style={{ color: c.inkSoft }}>
           {t("lastVerified")} {benefit.verified}
         </p>
       </div>

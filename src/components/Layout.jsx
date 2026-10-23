@@ -81,7 +81,7 @@ export default function Layout() {
               {({ isActive }) => (
                 <>
                   <Icon size={18} color={isActive ? c.post : c.inkSoft} />
-                  <span className="text-[10px] font-medium">{it.label}</span>
+                  <span className="text-[13px] font-medium">{it.label}</span>
                 </>
               )}
             </NavLink>

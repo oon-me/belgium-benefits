@@ -95,7 +95,7 @@ export default function Benefits() {
                   setPrefs({ situations: [] });
                   setParam("situations", []);
                 }}
-                className="self-start flex items-center gap-1.5 rounded-full px-3 py-1.5 text-[11px] font-medium"
+                className="self-start flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-medium"
                 style={{ background: "rgba(184,134,59,0.18)", color: c.gold }}
               >
                 {t("matchedTo")} {situationLabels.join(", ")}
@@ -152,7 +152,7 @@ export default function Benefits() {
 
         {statusNote && (
           <div className="rounded-xl p-3.5 mb-4 border" style={{ borderColor: c.line, background: c.paperDim }}>
-            <p className="text-[10px] uppercase tracking-wide mb-1 font-semibold" style={{ color: c.inkSoft }}>
+            <p className="text-[13px] uppercase tracking-wide mb-1 font-semibold" style={{ color: c.inkSoft }}>
               {t("statusLabel")}: {t("statuses")[status]}
             </p>
             <p className="text-xs leading-relaxed" style={{ color: c.ink }}>
@@ -197,14 +197,14 @@ export default function Benefits() {
                       <p className="text-sm font-semibold" style={{ color: c.ink, fontFamily: displayFont }}>
                         {tc.title}
                       </p>
-                      <span className="text-[9px] font-bold uppercase tracking-wide px-2 py-0.5 rounded-full shrink-0" style={{ background: c.gold, color: "white" }}>
+                      <span className="text-[12px] font-bold uppercase tracking-wide px-2 py-0.5 rounded-full shrink-0" style={{ background: c.gold, color: "white" }}>
                         {t("communityTip")}
                       </span>
                     </div>
                     <p className="text-xs mb-2" style={{ color: c.inkSoft }}>
                       {tc.desc}
                     </p>
-                    <p className="text-[10px]" style={{ color: c.inkSoft }}>
+                    <p className="text-[13px]" style={{ color: c.inkSoft }}>
                       📍 {tc.address} · {t("notOfficial")}
                     </p>
                   </div>
