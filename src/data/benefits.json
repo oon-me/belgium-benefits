@@ -1792,85 +1792,101 @@
       "Federal"
     ],
     "communes": [],
-    "institution": "FOD Mobiliteit / employer",
-    "verified": "21 Jul 2026",
-    "status": "community",
-    "source_url": "https://mobilit.belgium.be/nl/duurzame-mobiliteit/voor-de-werkgevers/goede-praktijken-voor-woon-werkverplaatsingen/federaal",
-    "note": "mobilit.belgium.be did not render usable content for our fetch tool; mechanics come from consistent secondary HR/payroll sources. This is also arranged through your employer rather than requested directly from government, so it fits less neatly into the app's 'request this from a government body' framing — flagging that too.",
+    "institution": "Werkgever / Employeur (RSZ-ONSS)",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://mobiliteitsbudget.be/nl/1-wat-zijn-de-basisprincipes-van-het-mobiliteitsbudget",
     "content": {
       "en": {
         "title": "Mobiliteitsbudget (Mobility Budget)",
-        "desc": "If your employer offers a company car, you can trade it for a mobility budget to spend on an emission-free car, sustainable transport, or cash.",
-        "deadline": "Not something you request directly from government — you arrange it with your employer, who must offer it if they provide company cars (mandatory for such employers from 2026).",
-        "amount": "Equal to the yearly cost your employer would otherwise pay for your company car; unspent cash is paid out yearly after a 38.07% employee contribution (mechanics reported via secondary sources)",
+        "desc": "If you have a company car, or your job comes with the right to one, you can trade it for a yearly budget to spend on a zero-emission car, sustainable transport or housing near work, and cash.",
+        "deadline": "No deadline, but only if your employer has chosen to offer it. Employers are not obliged to. You ask in writing, and a yes becomes part of your employment contract.",
+        "amount": "The total yearly cost of the company car to your employer: at least €3,233 and at most €17,244 in 2026 (and no more than a fifth of your gross pay). What you don't spend is paid out once a year, minus a 38.07% employee contribution.",
         "requirements": [
           {
             "type": "doc",
-            "label": "Agreement with your employer"
+            "label": "Company car, or the right to one in your job"
+          },
+          {
+            "type": "doc",
+            "label": "Written request to your employer"
           }
         ],
         "steps": [
-          "Ask your employer whether they offer a mobility budget",
-          "Choose how to split it across the 3 pillars: an emission-free car, sustainable transport (bike, public transport, housing costs if you live close to work), and/or cash",
-          "Your employer arranges the administrative setup",
-          "Any unused budget is paid out in cash at year-end, minus the employee contribution"
+          "Ask your employer whether they offer a mobility budget, and on what conditions",
+          "Send your request in writing; the employer's answer is also in writing",
+          "Split the budget: pillar 1 a zero-emission company car, pillar 2 sustainable transport (bike, public transport, shared car…) or rent or mortgage if you live within 10 km of work, pillar 3 cash",
+          "What is left is paid out once a year (at the latest in January), minus the 38.07% contribution"
         ]
       },
       "nl": {
         "title": "Mobiliteitsbudget",
-        "desc": "Als je werkgever een bedrijfswagen aanbiedt, kan je die inruilen voor een mobiliteitsbudget te besteden aan een emissievrije wagen, duurzame mobiliteit, of cash.",
-        "deadline": "Iets wat je niet rechtstreeks bij de overheid aanvraagt — je regelt dit met je werkgever, die het moet aanbieden als hij bedrijfswagens aanbiedt (verplicht voor zulke werkgevers vanaf 2026).",
-        "amount": "Gelijk aan de jaarlijkse kost die je werkgever anders voor je bedrijfswagen zou betalen; niet-gebruikt saldo wordt jaarlijks uitbetaald na een werknemersbijdrage van 38,07% (mechaniek gerapporteerd via secundaire bronnen)",
+        "desc": "Heb je een bedrijfswagen, of heb je er recht op in je functie, dan kan je die inruilen voor een jaarlijks budget voor een wagen zonder CO₂-uitstoot, duurzaam vervoer of wonen dicht bij het werk, en geld.",
+        "deadline": "Geen termijn, maar alleen als je werkgever ervoor gekozen heeft het in te voeren. Werkgevers zijn daar niet toe verplicht. Je vraagt het schriftelijk aan, en een positieve beslissing wordt deel van je arbeidsovereenkomst.",
+        "amount": "De totale jaarlijkse kostprijs van de bedrijfswagen voor je werkgever: minimum €3.233 en maximum €17.244 in 2026 (en niet meer dan een vijfde van je brutoloon). Wat je niet besteedt, wordt één keer per jaar uitbetaald na een werknemersbijdrage van 38,07%.",
         "requirements": [
           {
             "type": "doc",
-            "label": "Overeenkomst met je werkgever"
+            "label": "Bedrijfswagen, of recht erop in je functie"
+          },
+          {
+            "type": "doc",
+            "label": "Schriftelijke aanvraag bij je werkgever"
           }
         ],
         "steps": [
-          "Vraag je werkgever of hij een mobiliteitsbudget aanbiedt",
-          "Kies hoe je het verdeelt over de 3 pijlers: een emissievrije wagen, duurzame mobiliteit (fiets, openbaar vervoer, huisvestingskosten als je dicht bij het werk woont), en/of cash",
-          "Je werkgever regelt de administratieve opstart",
-          "Niet-gebruikt budget wordt eind kalenderjaar cash uitbetaald, na inhouding van de werknemersbijdrage"
+          "Vraag je werkgever of hij een mobiliteitsbudget aanbiedt, en onder welke voorwaarden",
+          "Dien je aanvraag schriftelijk in; ook het antwoord van je werkgever is schriftelijk",
+          "Verdeel het budget: pijler 1 een bedrijfswagen zonder CO₂-uitstoot, pijler 2 duurzaam vervoer (fiets, openbaar vervoer, deelauto…) of huur of hypotheek als je binnen 10 km van je werk woont, pijler 3 geld",
+          "Het saldo wordt één keer per jaar uitbetaald (uiterlijk in januari), na aftrek van de bijdrage van 38,07%"
         ]
       },
       "fr": {
-        "title": "Budget Mobilité",
-        "desc": "Si votre employeur propose une voiture de société, vous pouvez l'échanger contre un budget mobilité à dépenser pour une voiture zéro émission, une mobilité durable, ou du cash.",
-        "deadline": "Ce n'est pas quelque chose que vous demandez directement à l'administration — vous l'organisez avec votre employeur, qui doit le proposer s'il offre des voitures de société (obligatoire pour ces employeurs à partir de 2026).",
-        "amount": "Égal au coût annuel que votre employeur paierait autrement pour votre voiture de société ; le solde non dépensé est versé annuellement après une cotisation salariale de 38,07% (mécanisme rapporté via des sources secondaires)",
+        "title": "Budget mobilité",
+        "desc": "Si vous avez une voiture de société, ou si votre fonction y donne droit, vous pouvez l'échanger contre un budget annuel pour une voiture sans émission de CO₂, des moyens de transport durables ou un logement proche du travail, et de l'argent.",
+        "deadline": "Pas de délai, mais seulement si votre employeur a choisi de l'instaurer. Les employeurs n'y sont pas obligés. Vous le demandez par écrit, et une décision positive fait partie de votre contrat de travail.",
+        "amount": "Le coût annuel total de la voiture de société pour votre employeur : minimum 3.233 € et maximum 17.244 € en 2026 (et pas plus d'un cinquième de votre salaire brut). Ce que vous ne dépensez pas est versé une fois par an, après une cotisation personnelle de 38,07 %.",
         "requirements": [
           {
             "type": "doc",
-            "label": "Accord avec votre employeur"
+            "label": "Voiture de société, ou droit à une voiture dans votre fonction"
+          },
+          {
+            "type": "doc",
+            "label": "Demande écrite à votre employeur"
           }
         ],
         "steps": [
-          "Demandez à votre employeur s'il propose un budget mobilité",
-          "Choisissez comment le répartir entre les 3 piliers : une voiture zéro émission, une mobilité durable (vélo, transports publics, frais de logement si vous habitez près du travail), et/ou du cash",
-          "Votre employeur organise la mise en place administrative",
-          "Tout budget non utilisé est versé en cash en fin d'année, moins la cotisation salariale"
+          "Demandez à votre employeur s'il propose un budget mobilité, et à quelles conditions",
+          "Introduisez votre demande par écrit ; la réponse de l'employeur est aussi écrite",
+          "Répartissez le budget : pilier 1 une voiture de société sans émission de CO₂, pilier 2 des transports durables (vélo, transports en commun, voiture partagée…) ou le loyer ou le crédit hypothécaire si vous habitez à moins de 10 km du travail, pilier 3 de l'argent",
+          "Le solde est versé une fois par an (au plus tard en janvier), après déduction de la cotisation de 38,07 %"
         ]
       },
       "de": {
         "title": "Mobilitätsbudget",
-        "desc": "Wenn Ihr Arbeitgeber einen Firmenwagen anbietet, können Sie ihn gegen ein Mobilitätsbudget eintauschen, das Sie für ein emissionsfreies Auto, nachhaltige Mobilität oder Bargeld ausgeben können.",
-        "deadline": "Dies beantragen Sie nicht direkt bei der Regierung — Sie regeln es mit Ihrem Arbeitgeber, der es anbieten muss, wenn er Firmenwagen zur Verfügung stellt (ab 2026 für solche Arbeitgeber verpflichtend).",
-        "amount": "Entspricht den jährlichen Kosten, die Ihr Arbeitgeber sonst für Ihren Firmenwagen zahlen würde; nicht genutztes Bargeld wird jährlich nach Abzug eines Arbeitnehmerbeitrags von 38,07% ausgezahlt (Mechanik über Sekundärquellen gemeldet)",
+        "desc": "Wenn Sie einen Firmenwagen haben oder Ihre Funktion Anspruch darauf gibt, können Sie ihn gegen ein Jahresbudget eintauschen: für ein Auto ohne CO₂-Ausstoß, nachhaltige Verkehrsmittel oder Wohnen nahe der Arbeit, und Geld.",
+        "deadline": "Keine Frist, aber nur, wenn Ihr Arbeitgeber es eingeführt hat. Arbeitgeber sind dazu nicht verpflichtet. Sie beantragen es schriftlich, und eine Zusage wird Teil Ihres Arbeitsvertrags.",
+        "amount": "Die gesamten jährlichen Kosten des Firmenwagens für Ihren Arbeitgeber: mindestens 3.233 € und höchstens 17.244 € im Jahr 2026 (und nicht mehr als ein Fünftel Ihres Bruttolohns). Was Sie nicht ausgeben, wird einmal im Jahr ausgezahlt, abzüglich eines Arbeitnehmerbeitrags von 38,07 %.",
         "requirements": [
           {
             "type": "doc",
-            "label": "Vereinbarung mit Ihrem Arbeitgeber"
+            "label": "Firmenwagen oder Anspruch darauf in Ihrer Funktion"
+          },
+          {
+            "type": "doc",
+            "label": "Schriftlicher Antrag beim Arbeitgeber"
           }
         ],
         "steps": [
-          "Fragen Sie Ihren Arbeitgeber, ob er ein Mobilitätsbudget anbietet",
-          "Wählen Sie, wie Sie es auf die 3 Säulen aufteilen: ein emissionsfreies Auto, nachhaltige Mobilität (Fahrrad, öffentliche Verkehrsmittel, Wohnkosten bei Wohnen in der Nähe der Arbeit), und/oder Bargeld",
-          "Ihr Arbeitgeber organisiert die administrative Einrichtung",
-          "Nicht genutztes Budget wird am Jahresende bar ausgezahlt, abzüglich des Arbeitnehmerbeitrags"
+          "Fragen Sie Ihren Arbeitgeber, ob er ein Mobilitätsbudget anbietet und zu welchen Bedingungen",
+          "Stellen Sie den Antrag schriftlich; auch die Antwort des Arbeitgebers erfolgt schriftlich",
+          "Teilen Sie das Budget auf: Säule 1 ein Firmenwagen ohne CO₂-Ausstoß, Säule 2 nachhaltige Verkehrsmittel (Fahrrad, öffentlicher Verkehr, Carsharing…) oder Miete bzw. Hypothek, wenn Sie höchstens 10 km von der Arbeit wohnen, Säule 3 Geld",
+          "Der Rest wird einmal im Jahr ausgezahlt (spätestens im Januar), abzüglich des Beitrags von 38,07 %"
         ]
       }
-    }
+    },
+    "amount_source_url": "https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/salary/particularcases/mobilitybudget.html"
   },
   {
     "id": 19,
@@ -1879,101 +1895,109 @@
       "health-issue"
     ],
     "region": [
-      "Federal"
+      "Flanders",
+      "Brussels"
     ],
     "communes": [],
-    "institution": "Mutualiteit / Ziekenfonds (example: CM)",
-    "verified": "21 Jul 2026",
-    "status": "community",
-    "source_url": "https://www.cm.be",
-    "note": "This is a private/mutual health-fund supplementary benefit, not a government scheme — amounts are set by each fund's own supplementary insurance plan and are not government-mandated, so this will always be 'community' rather than 'verified' against a .be government source. Included because the brief asked for 1-2 concrete mutualiteit examples; CM's figures are used as one illustrative example only.",
+    "health_funds": [
+      "cm"
+    ],
+    "institution": "CM (Christelijke Mutualiteit)",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.cm.be/nl/diensten-en-voordelen/brillen",
+    "amount_source_url": [
+      "https://www.cm.be/nl/diensten-en-voordelen/brillen",
+      "https://www.cm.be/nl/diensten-en-voordelen/orthodontie",
+      "https://www.cm.be/nl/zorgverleners/tandartsen/cm-tandvoordeel"
+    ],
     "content": {
       "en": {
-        "title": "Aanvullende Terugbetaling Bril/Tandzorg (Supplementary Health Fund Reimbursement — example: CM)",
-        "desc": "Extra reimbursement for costs like glasses or dental care from your compulsory health insurance fund's supplementary insurance — exact amounts differ per fund (mutualiteit) and per plan.",
-        "deadline": "No fixed deadline — submit your claim within your fund's standard claim period after the expense (commonly around 2 years).",
-        "amount": "Example (CM): up to €40–€50/year for glasses/lenses depending on age; up to 40–75% of dental prosthesis/implant costs (max ~€1,050/2 years); up to 60% of orthodontic costs (max €1,500/child) — amounts are fund-specific, not government-set",
+        "title": "CM-voordeel: glasses, lenses, braces and dentures",
+        "desc": "Included in every CM membership, with no waiting period: an extra refund for glasses and lenses, braces for under-22s, and dentures, crowns and implants. CM's paid insurances (CM-MediKo Plan, CM-Tandplan) are extra and not included here.",
+        "deadline": "CM gives no fixed deadline: send your documents after the purchase or treatment. For braces, report the start of treatment to CM first.",
+        "amount": "Glasses or lenses: up to €50 a year up to age 18, €40 from age 19. Braces started from 1 January 2026: 60% of your share and supplements, up to €1,500, once in a lifetime. Dentures, crowns, bridges, implants: 40% (75% with increased reimbursement), up to €1,050 per two calendar years.",
         "requirements": [
           {
             "type": "card",
-            "label": "Mutualiteit membership card"
+            "label": "CM membership, contribution paid"
           },
           {
             "type": "doc",
-            "label": "Receipt/invoice for the expense"
+            "label": "Invoice and proof of payment, or the treatment document from your dentist or orthodontist"
           }
         ],
         "steps": [
-          "Check your own health fund's (mutualiteit/mutuelle) supplementary insurance conditions — they differ from CM's",
-          "Keep your receipt/invoice for the glasses, dental care, or other covered cost",
-          "Submit the claim via your fund's app, website, or branch office",
-          "Reimbursement is paid to your account, usually within a few weeks"
+          "Check the condition: for glasses, lenses and dentures, the compulsory health insurance must pay nothing; for braces it must pay, and the patient must be under 22",
+          "For braces, report the start of treatment in Mijn CM ('Vraag een CM-voordeel aan' > 'Orthodontie') or with CM's application form",
+          "Send the documents to CM via the Mijn CM app or a CM letterbox; with electronic billing (eAttest) braces are refunded automatically",
+          "CM pays the refund into your account"
         ]
       },
       "nl": {
-        "title": "Aanvullende Terugbetaling Bril/Tandzorg (voorbeeld: CM)",
-        "desc": "Extra terugbetaling voor kosten zoals een bril of tandzorg via de aanvullende verzekering van je ziekenfonds — bedragen verschillen per ziekenfonds en per plan.",
-        "deadline": "Geen vaste deadline — dien je aanvraag in binnen de gewone termijn van je ziekenfonds na de uitgave (doorgaans ongeveer 2 jaar).",
-        "amount": "Voorbeeld (CM): tot €40–€50/jaar voor bril/lenzen afhankelijk van leeftijd; tot 40–75% van tandprothese/implantaatkosten (max ca. €1.050/2 jaar); tot 60% van orthodontiekosten (max €1.500/kind) — bedragen zijn ziekenfondsspecifiek, niet door de overheid bepaald",
+        "title": "CM-voordeel: brillen, lenzen, orthodontie en tandprothesen",
+        "desc": "Standaard in elk CM-lidmaatschap, zonder wachttijd: een extra terugbetaling voor brillen en lenzen, orthodontie voor jongeren tot 22 jaar, en tandprothesen, kronen en implantaten. De betalende verzekeringen van CM (CM-MediKo Plan, CM-Tandplan) komen daar nog bij en zitten hier niet in.",
+        "deadline": "CM geeft geen vaste termijn: bezorg je documenten na de aankoop of behandeling. Bij orthodontie meld je eerst de start van de behandeling aan CM.",
+        "amount": "Bril of lenzen: tot €50 per kalenderjaar tot en met 18 jaar, €40 vanaf 19 jaar. Orthodontie gestart vanaf 1 januari 2026: 60% van het remgeld en de supplementen, tot €1.500, één keer per leven. Tandprothesen, kronen, bruggen, implantaten: 40% (75% bij verhoogde tegemoetkoming), tot €1.050 per twee kalenderjaren.",
         "requirements": [
           {
             "type": "card",
-            "label": "Lidkaart van je ziekenfonds"
+            "label": "CM-lidmaatschap, bijdrage in orde"
           },
           {
             "type": "doc",
-            "label": "Kwitantie/factuur van de uitgave"
+            "label": "Factuur en betalingsbewijs, of het bewijsstuk van je tandarts of orthodontist"
           }
         ],
         "steps": [
-          "Controleer de voorwaarden van de aanvullende verzekering van je eigen ziekenfonds — die verschillen van die van CM",
-          "Bewaar je kwitantie/factuur voor de bril, tandzorg, of andere gedekte kost",
-          "Dien de aanvraag in via de app, website, of het kantoor van je ziekenfonds",
-          "Terugbetaling gebeurt op je rekening, meestal binnen enkele weken"
+          "Controleer de voorwaarde: voor brillen, lenzen en tandprothesen mag de ziekteverzekering niets terugbetalen; voor orthodontie moet ze wel terugbetalen, en de patiënt is niet ouder dan 22 jaar",
+          "Bij orthodontie: meld de start van de behandeling via Mijn CM ('Vraag een CM-voordeel aan' > 'Orthodontie') of met het aanvraagformulier van CM",
+          "Bezorg de documenten aan CM via de Mijn CM-app of de CM-brievenbus; rekent je orthodontist elektronisch af (eAttest), dan gaat het automatisch",
+          "CM stort de terugbetaling op je rekening"
         ]
       },
       "fr": {
-        "title": "Remboursement Complémentaire Lunettes/Soins Dentaires (exemple : CM)",
-        "desc": "Remboursement supplémentaire pour des frais comme les lunettes ou les soins dentaires via l'assurance complémentaire de votre mutualité — les montants exacts diffèrent selon la mutualité et le plan.",
-        "deadline": "Pas de délai fixe — soumettez votre demande dans le délai standard de votre mutualité après la dépense (généralement environ 2 ans).",
-        "amount": "Exemple (CM) : jusqu'à 40–50 €/an pour lunettes/lentilles selon l'âge ; jusqu'à 40–75% des coûts de prothèse/implant dentaire (max ~1.050 €/2 ans) ; jusqu'à 60% des coûts d'orthodontie (max 1.500 €/enfant) — montants spécifiques à la mutualité, non fixés par l'État",
+        "title": "Avantage CM : lunettes, lentilles, orthodontie et prothèses dentaires",
+        "desc": "Compris dans toute affiliation à la CM, sans stage d'attente : un remboursement supplémentaire pour les lunettes et lentilles, l'orthodontie jusqu'à 22 ans, et les prothèses, couronnes et implants dentaires. Les assurances payantes de la CM (CM-MediKo Plan, CM-Tandplan) s'y ajoutent et ne sont pas reprises ici.",
+        "deadline": "La CM ne fixe pas de délai : envoyez vos documents après l'achat ou le traitement. Pour l'orthodontie, signalez d'abord le début du traitement à la CM.",
+        "amount": "Lunettes ou lentilles : jusqu'à 50 € par année civile jusqu'à 18 ans, 40 € à partir de 19 ans. Orthodontie commencée à partir du 1er janvier 2026 : 60 % du ticket modérateur et des suppléments, jusqu'à 1.500 €, une fois dans la vie. Prothèses, couronnes, bridges, implants : 40 % (75 % avec intervention majorée), jusqu'à 1.050 € par deux années civiles.",
         "requirements": [
           {
             "type": "card",
-            "label": "Carte de membre de la mutualité"
+            "label": "Affiliation à la CM, cotisation en ordre"
           },
           {
             "type": "doc",
-            "label": "Reçu/facture de la dépense"
+            "label": "Facture et preuve de paiement, ou l'attestation de votre dentiste ou orthodontiste"
           }
         ],
         "steps": [
-          "Vérifiez les conditions de l'assurance complémentaire de votre propre mutualité — elles diffèrent de celles de CM",
-          "Conservez votre reçu/facture pour les lunettes, soins dentaires, ou autre coût couvert",
-          "Soumettez la demande via l'application, le site web, ou le bureau de votre mutualité",
-          "Le remboursement est versé sur votre compte, généralement sous quelques semaines"
+          "Vérifiez la condition : pour les lunettes, lentilles et prothèses, l'assurance maladie obligatoire ne doit rien rembourser ; pour l'orthodontie, elle doit rembourser, et le patient a 22 ans au plus",
+          "Pour l'orthodontie, signalez le début du traitement via Mijn CM ('Vraag een CM-voordeel aan' > 'Orthodontie') ou avec le formulaire de demande de la CM",
+          "Envoyez les documents à la CM via l'app Mijn CM ou une boîte aux lettres CM ; si l'orthodontiste facture électroniquement (eAttest), c'est automatique",
+          "La CM verse le remboursement sur votre compte"
         ]
       },
       "de": {
-        "title": "Zusätzliche Erstattung Brille/Zahnpflege (Beispiel: CM)",
-        "desc": "Zusätzliche Erstattung für Kosten wie Brille oder Zahnpflege über die Zusatzversicherung Ihrer Krankenkasse — genaue Beträge unterscheiden sich je nach Kasse und Plan.",
-        "deadline": "Keine feste Frist — reichen Sie Ihren Antrag innerhalb der üblichen Frist Ihrer Krankenkasse nach der Ausgabe ein (üblicherweise etwa 2 Jahre).",
-        "amount": "Beispiel (CM): bis zu 40–50 €/Jahr für Brille/Linsen je nach Alter; bis zu 40–75% der Kosten für Zahnprothese/Implantat (max. ca. 1.050 €/2 Jahre); bis zu 60% der Kieferorthopädie-Kosten (max. 1.500 €/Kind) — Beträge kassenspezifisch, nicht staatlich festgelegt",
+        "title": "CM-Vorteil: Brillen, Linsen, Kieferorthopädie und Zahnprothesen",
+        "desc": "In jeder CM-Mitgliedschaft enthalten, ohne Wartezeit: eine zusätzliche Erstattung für Brillen und Kontaktlinsen, Kieferorthopädie bis 22 Jahre sowie Zahnprothesen, Kronen und Implantate. Die kostenpflichtigen Versicherungen der CM (CM-MediKo Plan, CM-Tandplan) kommen hinzu und sind hier nicht enthalten.",
+        "deadline": "Die CM nennt keine feste Frist: Reichen Sie Ihre Unterlagen nach dem Kauf oder der Behandlung ein. Bei Kieferorthopädie melden Sie zuerst den Beginn der Behandlung bei der CM.",
+        "amount": "Brille oder Linsen: bis zu 50 € pro Kalenderjahr bis einschließlich 18 Jahre, 40 € ab 19 Jahren. Kieferorthopädie mit Beginn ab 1. Januar 2026: 60 % des Eigenanteils und der Zuschläge, bis zu 1.500 €, einmal im Leben. Zahnprothesen, Kronen, Brücken, Implantate: 40 % (75 % bei erhöhter Kostenbeteiligung), bis zu 1.050 € pro zwei Kalenderjahre.",
         "requirements": [
           {
             "type": "card",
-            "label": "Mitgliedskarte der Krankenkasse"
+            "label": "CM-Mitgliedschaft, Beitrag bezahlt"
           },
           {
             "type": "doc",
-            "label": "Quittung/Rechnung der Ausgabe"
+            "label": "Rechnung und Zahlungsnachweis oder die Bescheinigung Ihres Zahnarztes oder Kieferorthopäden"
           }
         ],
         "steps": [
-          "Prüfen Sie die Bedingungen der Zusatzversicherung Ihrer eigenen Krankenkasse — sie unterscheiden sich von denen der CM",
-          "Bewahren Sie Ihre Quittung/Rechnung für Brille, Zahnpflege oder andere gedeckte Kosten auf",
-          "Reichen Sie den Antrag über die App, Website oder Geschäftsstelle Ihrer Krankenkasse ein",
-          "Die Erstattung wird auf Ihr Konto ausgezahlt, meist innerhalb weniger Wochen"
+          "Prüfen Sie die Bedingung: Für Brillen, Linsen und Zahnprothesen darf die Pflichtkrankenversicherung nichts erstatten; für Kieferorthopädie muss sie erstatten, und der Patient ist höchstens 22 Jahre alt",
+          "Bei Kieferorthopädie melden Sie den Beginn der Behandlung über Mijn CM ('Vraag een CM-voordeel aan' > 'Orthodontie') oder mit dem Antragsformular der CM",
+          "Senden Sie die Unterlagen über die Mijn-CM-App oder einen CM-Briefkasten; rechnet der Kieferorthopäde elektronisch ab (eAttest), geschieht es automatisch",
+          "Die CM überweist die Erstattung auf Ihr Konto"
         ]
       }
     }

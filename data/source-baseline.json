@@ -1,20 +1,20 @@
 {
   "1": {
-    "checkedAt": "2026-10-11T15:28:05.014Z",
+    "checkedAt": "2026-10-23T13:11:54.070Z",
     "textLength": 3443,
     "claimed": [
       1310.75
     ]
   },
   "2": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
-    "textLength": 6965,
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 7029,
     "claimed": [
       1422.96
     ]
   },
   "3": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 8363,
     "claimed": [
       1422.96,
@@ -22,7 +22,7 @@
     ]
   },
   "5": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 3861,
     "claimed": [
       600,
@@ -30,7 +30,7 @@
     ]
   },
   "6": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 2134,
     "claimed": [
       188,
@@ -38,8 +38,8 @@
     ]
   },
   "7": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
-    "textLength": 6878,
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 6904,
     "claimed": [
       125,
       20,
@@ -47,7 +47,7 @@
     ]
   },
   "8": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 6054,
     "claimed": [
       142.85,
@@ -57,13 +57,13 @@
     ]
   },
   "9": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 5049,
     "claimed": []
   },
   "10": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
-    "textLength": 7945,
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 7976,
     "claimed": [
       20,
       26,
@@ -71,12 +71,12 @@
     ]
   },
   "11": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 3199,
     "claimed": []
   },
   "12": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 6150,
     "claimed": [
       90,
@@ -84,8 +84,8 @@
     ]
   },
   "14": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
-    "textLength": 26690,
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 26688,
     "claimed": [
       911.56,
       1367.34,
@@ -93,19 +93,19 @@
     ]
   },
   "15": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
-    "textLength": 2251,
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 2650,
     "claimed": [
       140
     ]
   },
   "16": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 9867,
     "claimed": []
   },
   "17": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 6695,
     "claimed": [
       500,
@@ -113,13 +113,148 @@
     ]
   },
   "18": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
-    "textLength": 10415,
-    "claimed": []
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 25460,
+    "claimed": [
+      3233,
+      17244
+    ]
   },
   "20": {
-    "checkedAt": "2026-10-11T15:28:05.017Z",
+    "checkedAt": "2026-10-23T13:11:54.073Z",
     "textLength": 12106,
     "claimed": []
+  },
+  "21": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 8831,
+    "claimed": [
+      190.66
+    ]
+  },
+  "22": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 7650,
+    "claimed": [
+      200.51,
+      213.44
+    ]
+  },
+  "23": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 11298,
+    "claimed": [
+      194.04
+    ]
+  },
+  "25": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 5677,
+    "claimed": [
+      141.63
+    ]
+  },
+  "26": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 4568,
+    "claimed": [
+      154.71
+    ]
+  },
+  "27": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 4577,
+    "claimed": [
+      917.33,
+      839.82
+    ]
+  },
+  "28": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 8691,
+    "claimed": []
+  },
+  "29": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 6812,
+    "claimed": []
+  },
+  "30": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 6558,
+    "claimed": []
+  },
+  "34": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 7223,
+    "claimed": [
+      400,
+      50
+    ]
+  },
+  "35": {
+    "checkedAt": "2026-10-23T13:07:13.356Z",
+    "textLength": 6375,
+    "claimed": [
+      500,
+      300,
+      200
+    ]
+  },
+  "36": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 7194,
+    "claimed": [
+      350,
+      500
+    ]
+  },
+  "37": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 6018,
+    "claimed": [
+      140,
+      270,
+      100,
+      170
+    ]
+  },
+  "38": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 9387,
+    "claimed": [
+      140,
+      470
+    ]
+  },
+  "39": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 5226,
+    "claimed": [
+      300,
+      600
+    ]
+  },
+  "40": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 5815,
+    "claimed": [
+      350
+    ]
+  },
+  "41": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 10036,
+    "claimed": [
+      25000,
+      200000
+    ]
+  },
+  "42": {
+    "checkedAt": "2026-10-23T13:11:54.073Z",
+    "textLength": 11035,
+    "claimed": [
+      74900
+    ]
   }
 }
