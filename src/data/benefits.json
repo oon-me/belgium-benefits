@@ -13,6 +13,7 @@
     "verified": "18 Sep 2026",
     "status": "verified",
     "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/startbedrag-bij-geboorte-of-adoptie",
+    "request_url": "https://www.vlaanderen.be/vlaams-groeipakket/aanvragen-en-aanpassingen",
     "content": {
       "en": {
         "title": "Startbedrag (Birth Grant)",
@@ -155,6 +156,7 @@
     "verified": "18 Sep 2026",
     "status": "verified",
     "source_url": "https://www.famiwal.be/accedez-aux-themes/naissance-et-adoption/allocation-prime-de-naissance",
+    "request_url": "https://famiwal.be/formulaires/formulaire-e-demande-dallocation-de-naissance",
     "content": {
       "en": {
         "title": "Prime de Naissance (Birth Grant)",
@@ -260,6 +262,11 @@
     "verified": "18 Sep 2026",
     "status": "verified",
     "source_url": "https://famiris.brussels/en/calculate-your-maternity-allowance/",
+    "request_url": {
+      "en": "https://famiris.brussels/en/",
+      "nl": "https://famiris.brussels/nl/",
+      "fr": "https://famiris.brussels/fr/"
+    },
     "content": {
       "en": {
         "title": "Prime de Naissance (Maternity / Birth Allowance)",
@@ -465,6 +472,7 @@
     "verified": "18 Sep 2026",
     "status": "verified",
     "source_url": "https://www.vlaamswoningfonds.be/onze-diensten/verzekering-gewaarborgd-wonen/kenmerken",
+    "request_url": "https://formulierenloket.vlaamswoningfonds.be/",
     "content": {
       "en": {
         "title": "Verzekering Gewaarborgd Wonen (Guaranteed Housing Insurance)",
@@ -793,6 +801,10 @@
     "verified": "18 Sep 2026",
     "status": "verified",
     "source_url": "https://be.brussels/en/housing/rental/rent-allowance/housing-allowance/rent-allowance-how-apply-and-eligibility-requirements",
+    "request_url": {
+      "fr": "https://admin.be.brussels/en/bhg/document/download/6927",
+      "nl": "https://admin.be.brussels/en/bhg/document/download/6928"
+    },
     "content": {
       "en": {
         "title": "Allocation Loyer (Brussels Rent Allowance)",
@@ -914,6 +926,7 @@
     "verified": "18 Sep 2026",
     "status": "community",
     "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie",
+    "request_url": "https://loket.mijnverbouwpremie.be/",
     "note": "Checked again 18 Sep 2026: the vlaanderen.be renovation-premium page loads, but the per-work amounts and the March 2026 phase-out for the lowest income categories sit behind expandable sections that were not confirmed directly. Figures still come from third-party contractor sites.",
     "content": {
       "en": {
@@ -1037,6 +1050,7 @@
     "verified": "18 Sep 2026",
     "status": "community",
     "source_url": "https://www.vlaanderen.be/studietoelage",
+    "request_url": "https://loket-studietoelagen-app.onderwijs-apps.vlaanderen.be/dossier/",
     "note": "Checked again 18 Sep 2026: vlaanderen.be/studietoelage confirms the scheme, the Digitaal loket and that 2026-2027 applications are open, but the exact application window, the 54-credit rule and the under-30 age limit sit behind collapsed accordion panels that were not confirmed directly.",
     "content": {
       "en": {
@@ -1144,6 +1158,7 @@
     "verified": "18 Sep 2026",
     "status": "verified",
     "source_url": "https://allocations-etudes.cfwb.be/conditions-et-montant/allocation-detudes-montant",
+    "request_url": "https://allocations-etudes.cfwb.be/introduire-ma-demande/formulaire-electronique",
     "note": "This benefit is run by the French Community (Fédération Wallonie-Bruxelles), which covers Wallonia AND French-speaking residents of Brussels. The schema's region enum has no 'French Community' option (only 'German-speaking Community' is listed alongside the 3 regions), so 'Wallonia' was used as the closest fit — flagging this as a schema gap worth revisiting.",
     "content": {
       "en": {
@@ -1438,6 +1453,7 @@
     "verified": "18 Sep 2026",
     "status": "verified",
     "source_url": "https://www.departementzorg.be/nl/het-zorgbudget",
+    "request_url": "https://www.departementzorg.be/nl/formulieren-voor-zorgbudgetten",
     "content": {
       "en": {
         "title": "Zorgbudget voor Zwaar Zorgbehoevenden (Care Budget for Serious Care Needs)",
@@ -1941,6 +1957,11 @@
     "verified": "18 Sep 2026",
     "status": "verified",
     "source_url": "https://handicap.belgium.be/nl/tegemoetkomingen/integratietegemoetkoming",
+    "request_url": {
+      "nl": "https://handicap.belgium.be/nl/myhandicap",
+      "fr": "https://handicap.belgium.be/fr/myhandicap",
+      "de": "https://handicap.belgium.be/de/myhandicap"
+    },
     "content": {
       "en": {
         "title": "Integratietegemoetkoming (Disability Integration Allowance)",
@@ -2078,6 +2099,7 @@
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/bedragen-en-betaaldata",
+    "request_url": "https://www.vlaanderen.be/vlaams-groeipakket/aanvragen-en-aanpassingen",
     "notice": {
       "date": "30 Sep 2026",
       "source_url": "https://www.vrt.be/vrtnws/nl/2026/09/30/kinderbijslag-kindergeld-huis-kopen-bereken-begroting-vlaams/",
@@ -2204,6 +2226,7 @@
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://www.famiwal.be/vos-allocations-familiales/vos-allocations-familiales-de-base",
+    "request_url": "https://famiwal.be/sites/default/files/forms/AA_Demande_Alloc_Fam_V07.pdf",
     "content": {
       "en": {
         "title": "Allocations Familiales (Walloon Monthly Child Benefit)",
@@ -2309,6 +2332,11 @@
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://famiris.brussels/en/faq/payments-amounts-of-child-benefits/child-benefit-rates/",
+    "request_url": {
+      "en": "https://famiris.brussels/en/",
+      "nl": "https://famiris.brussels/nl/",
+      "fr": "https://famiris.brussels/fr/"
+    },
     "content": {
       "en": {
         "title": "Allocations Familiales / Kinderbijslag (Brussels Monthly Child Benefit)",
@@ -2530,6 +2558,26 @@
     "status": "verified",
     "source_url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-werknemers-en-werklozen",
     "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/bedragen-en-loonplafonds/werknemers-werklozen/maximumbedrag-van-uw-uitkering-tijdens-uw-moederschapsrust-werkneemster",
+    "request_url": {
+      "nl": "https://www.riziv.fgov.be/nl/professionals/andere-professionals/ziekenfondsen/contacteer-de-ziekenfondsen",
+      "fr": "https://www.inami.fgov.be/fr/professionnels/autres-professionnels/mutualites/contactez-les-mutualites"
+    },
+    "request_by_fund": {
+      "cm": {
+        "nl": "https://www.cm.be/nl/diensten-en-voordelen/moederschapsrust#werknemers-werklozen",
+        "fr": "https://www.mc.be/fr/grossesse-naissance-adoption/demarches-salariee"
+      },
+      "independent": {
+        "nl": "https://www.helan.be/nl/zwangerschap-en-geboorte/moederschapsuitkering-werknemer-werkloze/",
+        "fr": "https://www.partenamut.be/fr/grossesse-et-naissance/conge-maternite-belgique"
+      },
+      "liberal": {
+        "nl": "https://www.lm-ml.be/nl/je-bent-werknemer-vraag-je-moederschapsuitkering-aan"
+      },
+      "neutral": {
+        "fr": "https://www.mutualia.be/fr/ma-situation/naissance-vos-droits-en-tant-que-salarie"
+      }
+    },
     "content": {
       "en": {
         "title": "Maternity Benefit for Employees (Moederschapsuitkering)",
@@ -2636,6 +2684,29 @@
     "status": "verified",
     "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/geboorteverlof-en-adoptieverlof/geboorteverlof-voor-werknemers",
     "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/bedragen-en-loonplafonds/werknemers-werklozen/maximumbedrag-van-uw-uitkering-tijdens-een-vaderschaps-of-geboorteverlof",
+    "request_url": {
+      "nl": "https://www.riziv.fgov.be/nl/professionals/andere-professionals/ziekenfondsen/contacteer-de-ziekenfondsen",
+      "fr": "https://www.inami.fgov.be/fr/professionnels/autres-professionnels/mutualites/contactez-les-mutualites"
+    },
+    "request_by_fund": {
+      "cm": {
+        "nl": "https://mijn.cm.be/form/overview/parentalleave",
+        "fr": "https://mc.be/demande-conge-naissance"
+      },
+      "independent": {
+        "nl": "https://www.helan.be/nl/zwangerschap-en-geboorte/geboorteverlof/",
+        "fr": "https://www.partenamut.be/fr/grossesse-et-naissance/conge-paternite-naissance-belgique"
+      },
+      "liberal": {
+        "nl": "https://www.lm-ml.be/nl/vaderschapsverlof-geboorteverlof-meeouder"
+      },
+      "neutral": {
+        "fr": "https://www.mutualia.be/fr/ma-situation/naissance-vos-droits-en-tant-que-salarie"
+      },
+      "solidaris": {
+        "fr": "https://www.solidaris-wallonie.be/que-faire-en-cas-de/naissance-et-adoption/conge-de-naissance/"
+      }
+    },
     "content": {
       "en": {
         "title": "Birth Leave for the Partner (Geboorteverlof)",
@@ -2742,6 +2813,22 @@
     "status": "verified",
     "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-zelfstandigen",
     "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/bedragen-en-loonplafonds/zelfstandigen/bedrag-van-de-forfaitaire-uitkering-tijdens-uw-moederschapsrust-als-zelfstandige",
+    "request_url": {
+      "nl": "https://www.riziv.fgov.be/nl/professionals/andere-professionals/ziekenfondsen/contacteer-de-ziekenfondsen",
+      "fr": "https://www.inami.fgov.be/fr/professionnels/autres-professionnels/mutualites/contactez-les-mutualites"
+    },
+    "request_by_fund": {
+      "cm": {
+        "nl": "https://mijn.cm.be/form/overview/maternalleaveselfemployed",
+        "fr": "https://www.mc.be/fr/grossesse-naissance-adoption/demarches-independante"
+      },
+      "liberal": {
+        "nl": "https://www.lm-ml.be/nl/je-bent-zelfstandige-vraag-je-moederschapsuitkering-aan"
+      },
+      "neutral": {
+        "fr": "https://www.mutualia.be/fr/ma-situation/naissance-vos-droits-en-tant-quindependant"
+      }
+    },
     "content": {
       "en": {
         "title": "Maternity Benefit + Free Service Vouchers for Self-Employed Mothers",
@@ -2864,6 +2951,7 @@
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://www.kindengezin.be/nl/kind-en-gezin-diensten/aanbod-zwangerschap",
+    "request_url": "https://mijn.opgroeien.be/apps/mijnafspraken/app",
     "content": {
       "en": {
         "title": "Kind en Gezin: Free Check-ups and Vaccinations",
@@ -4024,6 +4112,7 @@
       "https://www.mutualia.be/fr/nos-avantages/naissance-et-adoption",
       "https://www.lamn.be/avantages-et-services/prime-de-naissance-et-dadoption"
     ],
+    "request_url": "https://my.mutualia.be/",
     "content": {
       "en": {
         "title": "Mutualia / La Mutualité Neutre Birth Premium",
@@ -4224,6 +4313,10 @@
     "verified": "12 Oct 2026",
     "status": "verified",
     "source_url": "https://www.owob.be/mieten/",
+    "request_url": {
+      "de": "https://static.owob.be/wp-content/uploads/k11einschreibeformularde.pdf",
+      "fr": "https://static.owob.be/wp-content/uploads/2-formulaire-dinscription-fr.pdf"
+    },
     "content": {
       "en": {
         "title": "ÖWOB Public Rental Housing (Rent Based on Income)",

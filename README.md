@@ -400,6 +400,21 @@ them as unreachable rather than verifying them: CM (`cm.be`), MC (`mc.be`), Soli
 Not covered yet: the German-speaking Community's own health funds, Solidaris Brabant, and LM/ML
 regional funds other than those named.
 
+### Request links: `request_url` and `request_by_fund`
+
+Each detail page has two buttons. **All information** opens `source_url`, the official page that
+explains the conditions. **Request now** opens `request_url`, the page where you actually apply:
+a form, a portal or the payer's own page. Either field may be one URL or a per-language map
+(`{ "nl": …, "fr": … }`), because some forms exist only per language. With no `request_url`,
+only All information shows. Never point it at an aggregator.
+
+`request_by_fund` is for benefits paid through the health fund (maternity pay, birth leave):
+`{ "cm": { "nl": "<CM page>", "fr": "<MC page>" }, … }`. Someone who chose a fund goes straight
+to that fund's page; someone who didn't sees a row of fund links under the buttons, and
+`request_url` (RIZIV's list of all funds) stays as the fallback. A Dutch-speaking side is never
+offered to a French speaker or the other way round (`src/lib/request.js`). Not yet found (Oct 2026):
+Solidaris Vlaanderen, VNZ and ML pages for these three entries.
+
 ### Cadence and owner
 
 | | |

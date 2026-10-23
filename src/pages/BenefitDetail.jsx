@@ -7,6 +7,9 @@ import StampBadge from "../components/StampBadge.jsx";
 import { usePageMeta } from "../lib/meta.js";
 import { isStale, monthsSince } from "../lib/freshness.js";
 import { benefitPath, parseBenefitParam } from "../lib/slug.js";
+import { loadPrefs } from "../lib/prefs.js";
+import { pickLang, fundSide, fundRequestUrl, fundRequestLinks } from "../lib/request.js";
+import { healthFunds } from "../constants.js";
 
 export default function BenefitDetail() {
   const { lang, idSlug } = useParams();
@@ -179,15 +182,59 @@ export default function BenefitDetail() {
           ))}
         </ol>
 
-        <a
-          href={benefit.source_url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 font-semibold text-sm mb-3"
-          style={{ background: c.post, color: "white" }}
-        >
-          {t("openOfficial")} <ExternalLink size={14} />
-        </a>
+        {/* Two doors, as on a government results page: "Request now" goes straight to the form,
+            portal or payer where you apply; "All information" is the official page explaining
+            the conditions. Entries without a verified request page show only the second. */}
+        {(() => {
+          const prefs = loadPrefs();
+          const fund = prefs.fund || null;
+          const fundUrl = fund ? fundRequestUrl(benefit, fund, lang, prefs.region) : null;
+          const requestUrl = fundUrl || pickLang(benefit.request_url, lang);
+          const otherFunds = fundUrl ? [] : fundRequestLinks(benefit, lang, prefs.region);
+          // "CM / MC" names both sides of the union; show only the one this link goes to.
+          const fundShort = (id) => {
+            const names = (healthFunds.find((f) => f.id === id)?.short ?? id).split(" / ");
+            return names[fundSide(lang, prefs.region) === "fr" ? names.length - 1 : 0];
+          };
+          return (
+            <>
+              <div className="flex flex-col sm:flex-row gap-3 mb-3">
+                {requestUrl && (
+                  <a
+                    href={requestUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 font-semibold text-sm"
+                    style={{ background: c.post, color: "white" }}
+                  >
+                    {t("requestNow")}
+                    {fundUrl && <span className="font-normal opacity-80">· {fundShort(fund)}</span>}
+                    <ExternalLink size={14} />
+                  </a>
+                )}
+                <a
+                  href={pickLang(benefit.source_url, lang)}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full sm:w-auto inline-flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 font-semibold text-sm border-2"
+                  style={requestUrl ? { borderColor: c.post, color: c.post } : { background: c.post, borderColor: c.post, color: "white" }}
+                >
+                  {t("allInfo")} <ExternalLink size={14} />
+                </a>
+              </div>
+              {otherFunds.length > 0 && (
+                <p className="text-[11px] mb-3 flex flex-wrap items-center gap-x-3 gap-y-1" style={{ color: c.inkSoft }}>
+                  {t("requestViaFund")}
+                  {otherFunds.map((l) => (
+                    <a key={l.fund} href={l.url} target="_blank" rel="noopener noreferrer" className="font-semibold underline" style={{ color: c.post }}>
+                      {fundShort(l.fund)}
+                    </a>
+                  ))}
+                </p>
+              )}
+            </>
+          );
+        })()}
         <p className="text-[10px]" style={{ color: c.inkSoft }}>
           {t("lastVerified")} {benefit.verified}
         </p>

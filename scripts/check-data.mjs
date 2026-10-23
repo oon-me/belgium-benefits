@@ -29,6 +29,17 @@ for (const b of benefits) {
   if (b.amount_source_url !== undefined && ![].concat(b.amount_source_url).every((u) => /^https:\/\//.test(u))) {
     errors.push(`${at}: amount_source_url must be https (or a list of https URLs)`);
   }
+  // request_url: a URL or a per-language map; request_by_fund: fund → { nl, fr } (see src/lib/request.js).
+  if (b.request_url !== undefined) {
+    const urls = typeof b.request_url === "string" ? [b.request_url] : Object.entries(b.request_url).map(([l, u]) => (LANGS.includes(l) ? u : null));
+    if (!urls.length || !urls.every((u) => /^https:\/\//.test(u ?? ""))) errors.push(`${at}: request_url must be https (or a map of language → https URL)`);
+  }
+  for (const [f, sides] of Object.entries(b.request_by_fund ?? {})) {
+    if (!healthFundIds.has(f) || f === "other") errors.push(`${at}: request_by_fund has unknown fund "${f}"`);
+    for (const [side, u] of Object.entries(sides)) {
+      if (!["nl", "fr"].includes(side) || !/^https:\/\//.test(u)) errors.push(`${at}: request_by_fund.${f}.${side} must be an https URL under "nl" or "fr"`);
+    }
+  }
   for (const f of b.health_funds ?? []) {
     if (!healthFundIds.has(f) || f === "other") errors.push(`${at}: unknown health fund "${f}"`);
   }
