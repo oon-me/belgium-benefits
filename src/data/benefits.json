@@ -4990,5 +4990,139 @@
         ]
       }
     }
+  },
+  {
+    "id": 49,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [],
+    "excluded_communes": [
+      "Eupen",
+      "Kelmis",
+      "Lontzen",
+      "Raeren",
+      "Amel",
+      "Büllingen",
+      "Burg-Reuland",
+      "Bütgenbach",
+      "Sankt Vith"
+    ],
+    "institution": "Société wallonne du Crédit social (SWCS)",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.wallonie.be/fr/demarches/beneficier-du-financement-de-vos-travaux-de-renovation",
+    "amount_source_url": "https://www.swcs.be/actualites/reforme-des-aides-a-la-renovation-ce-qui-change",
+    "request_url": "https://appicredit.swcs.be/preinscription",
+    "content": {
+      "en": {
+        "title": "Rénopack (Walloon 0% Renovation Loan)",
+        "desc": "Since 1 October 2026 Wallonia no longer pays renovation grants; it lends instead. The Rénopack is a 0% loan from the Walloon social credit lender (SWCS) for people who live in their own home, over 15 years old, with a poor energy rating (PEB E, F or G). Part of the loan you never have to repay, depending on your income. Owners of another home or people with rental income cannot get it. Households earning more, landlords and co-owner associations can get the Rénoprêt instead, at a preferential rate.",
+        "deadline": "No closing date, but do not start the works or pay any deposit before you sign the loan contract: that can cost you the loan. SWCS expects to take full applications from early 2027; you can pre-register now.",
+        "amount": "0% loan of up to €75,000 for a house or €60,000 for an apartment. For a taxable household income up to €67,100 (€5,000 less per dependent person), you repay 45%, 35% or 10% less depending on your income bracket, plus 5% if you use eco or bio-based materials for the building envelope",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Home audit (audit logement) less than a year old"
+          },
+          {
+            "type": "doc",
+            "label": "Quotes for the planned works"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of household income"
+          }
+        ],
+        "steps": [
+          "Have a home audit done: a home rated PEB F or G must reach at least D after the works, a home rated E at least C",
+          "Get quotes for the works the audit recommends, such as roof, wall or floor insulation, windows, a heat pump or ventilation",
+          "Pre-register on the SWCS Appi-crédit platform; this is not yet an application, SWCS contacts you with the next steps",
+          "Submit your application when SWCS opens it, and only then sign the loan contract and start the works"
+        ]
+      },
+      "nl": {
+        "title": "Rénopack (Waalse renteloze renovatielening)",
+        "desc": "Sinds 1 oktober 2026 geeft Wallonië geen renovatiepremies meer, maar leningen. De Rénopack is een lening aan 0% van de Waalse sociale kredietmaatschappij (SWCS) voor wie zelf woont in een eigen woning van meer dan 15 jaar oud met een slecht energielabel (PEB E, F of G). Afhankelijk van je inkomen hoef je een deel van de lening nooit terug te betalen. Wie nog een andere woning bezit of huurinkomsten heeft, komt niet in aanmerking. Gezinnen met een hoger inkomen, verhuurders en verenigingen van mede-eigenaars kunnen in de plaats de Rénoprêt krijgen, aan een voordelige rente.",
+        "deadline": "Er is geen einddatum, maar begin niet aan de werken en betaal geen voorschot voor je het leningcontract ondertekent: dan kun je de lening verliezen. De SWCS verwacht volledige aanvragen te aanvaarden vanaf begin 2027; je kunt je nu al vooraf inschrijven.",
+        "amount": "Lening aan 0% tot €75.000 voor een huis of €60.000 voor een appartement. Bij een belastbaar gezinsinkomen tot €67.100 (€5.000 minder per persoon ten laste) betaal je 45%, 35% of 10% minder terug, naargelang je inkomenscategorie, plus 5% als je ecologische of biogebaseerde materialen gebruikt voor de gebouwschil",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Woningaudit (audit logement) van minder dan een jaar oud"
+          },
+          {
+            "type": "doc",
+            "label": "Offertes voor de geplande werken"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van het gezinsinkomen"
+          }
+        ],
+        "steps": [
+          "Laat een woningaudit uitvoeren: een woning met PEB F of G moet na de werken minstens D halen, een woning met E minstens C",
+          "Vraag offertes voor de werken die de audit aanbeveelt, zoals dak-, muur- of vloerisolatie, ramen, een warmtepomp of ventilatie",
+          "Schrijf je vooraf in op het Appi-crédit-platform van de SWCS; dat is nog geen aanvraag, de SWCS neemt contact op met de volgende stappen",
+          "Dien je aanvraag in zodra de SWCS ze opent, en onderteken pas daarna het leningcontract en begin aan de werken"
+        ]
+      },
+      "fr": {
+        "title": "Rénopack",
+        "desc": "Depuis le 1er octobre 2026, la Wallonie ne verse plus de primes à la rénovation : elle prête. Le Rénopack est un prêt à taux zéro de la Société wallonne du Crédit social (SWCS) pour les personnes qui occupent leur propre logement de plus de 15 ans avec une mauvaise performance énergétique (PEB E, F ou G). Selon vos revenus, une partie du prêt ne doit jamais être remboursée. Les propriétaires d'un autre logement ou les personnes percevant des revenus locatifs n'y ont pas droit. Les ménages aux revenus plus élevés, les propriétaires-bailleurs et les associations de copropriétaires peuvent obtenir le Rénoprêt, à taux préférentiel.",
+        "deadline": "Pas de date limite, mais ne commencez pas les travaux et ne versez aucun acompte avant la signature du contrat de crédit : vous risquez de perdre le prêt. La SWCS prévoit d'accepter les demandes complètes début 2027 ; vous pouvez déjà vous préinscrire.",
+        "amount": "Prêt à 0 % jusqu'à 75.000 € pour une maison ou 60.000 € pour un appartement. Pour des revenus imposables du ménage jusqu'à 67.100 € (5.000 € de moins par personne à charge), vous remboursez 45 %, 35 % ou 10 % de moins selon votre catégorie de revenus, plus 5 % si vous utilisez des écomatériaux ou matériaux biosourcés pour l'enveloppe",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Audit logement de moins d'un an"
+          },
+          {
+            "type": "doc",
+            "label": "Devis des travaux envisagés"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve des revenus du ménage"
+          }
+        ],
+        "steps": [
+          "Faites réaliser un audit logement : un logement classé PEB F ou G doit atteindre au moins D après travaux, un logement classé E au moins C",
+          "Demandez des devis pour les travaux recommandés par l'audit, par exemple isolation du toit, des murs ou des sols, châssis, pompe à chaleur ou ventilation",
+          "Préinscrivez-vous sur la plateforme Appi-crédit de la SWCS ; ce n'est pas encore une demande, la SWCS vous recontacte pour la suite",
+          "Introduisez votre demande dès que la SWCS l'ouvre, et seulement ensuite signez le contrat de crédit et commencez les travaux"
+        ]
+      },
+      "de": {
+        "title": "Rénopack (zinsloses Renovierungsdarlehen der Wallonie)",
+        "desc": "Seit dem 1. Oktober 2026 zahlt die Wallonie keine Renovierungsprämien mehr, sondern vergibt Darlehen. Das Rénopack ist ein Darlehen zu 0 % der Wallonischen Sozialkreditgesellschaft (SWCS) für Personen, die selbst in ihrer eigenen, über 15 Jahre alten Wohnung mit schlechter Energieeffizienz (PEB E, F oder G) wohnen. Je nach Einkommen müssen Sie einen Teil des Darlehens nie zurückzahlen. Wer eine weitere Wohnung besitzt oder Mieteinnahmen hat, ist ausgeschlossen. Haushalte mit höherem Einkommen, Vermieter und Miteigentümergemeinschaften können stattdessen das Rénoprêt zu einem Vorzugszins erhalten.",
+        "deadline": "Keine Frist, aber beginnen Sie die Arbeiten nicht und zahlen Sie keine Anzahlung, bevor Sie den Kreditvertrag unterzeichnet haben: Sie können sonst das Darlehen verlieren. Die SWCS erwartet, vollständige Anträge ab Anfang 2027 anzunehmen; Sie können sich schon jetzt voranmelden.",
+        "amount": "Darlehen zu 0 % bis 75.000 € für ein Haus oder 60.000 € für eine Wohnung. Bei einem steuerpflichtigen Haushaltseinkommen bis 67.100 € (5.000 € weniger je Person zu Lasten) zahlen Sie je nach Einkommenskategorie 45 %, 35 % oder 10 % weniger zurück, plus 5 %, wenn Sie für die Gebäudehülle ökologische oder biobasierte Materialien verwenden",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Wohnungsaudit (audit logement), weniger als ein Jahr alt"
+          },
+          {
+            "type": "doc",
+            "label": "Kostenvoranschläge für die geplanten Arbeiten"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis des Haushaltseinkommens"
+          }
+        ],
+        "steps": [
+          "Lassen Sie ein Wohnungsaudit durchführen: Eine Wohnung mit PEB F oder G muss nach den Arbeiten mindestens D erreichen, eine Wohnung mit E mindestens C",
+          "Holen Sie Kostenvoranschläge für die vom Audit empfohlenen Arbeiten ein, etwa Dach-, Wand- oder Bodendämmung, Fenster, Wärmepumpe oder Lüftung",
+          "Melden Sie sich auf der Plattform Appi-crédit der SWCS vorab an; das ist noch kein Antrag, die SWCS meldet sich mit den nächsten Schritten",
+          "Reichen Sie Ihren Antrag ein, sobald die SWCS ihn öffnet, und unterzeichnen Sie erst danach den Kreditvertrag und beginnen die Arbeiten"
+        ]
+      }
+    }
   }
 ]
