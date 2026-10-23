@@ -2,7 +2,7 @@ import { Link, useParams } from "react-router-dom";
 import { ChevronRight } from "lucide-react";
 import { c, displayFont } from "../theme.js";
 import { useT, translations, langOptions, LANGS } from "../i18n.js";
-import { loadPrefs } from "../lib/prefs.js";
+import { loadPrefs, savePrefs } from "../lib/prefs.js";
 import { usePageMeta } from "../lib/meta.js";
 import { communeName } from "../data/communes.js";
 
@@ -36,8 +36,12 @@ export default function Landing() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-3">
+            {/* Situations picked on an earlier visit would otherwise still be ticked, so someone who
+                once looked at pregnancy benefits and now picks "student" saw both. A new start
+                clears them; location and health fund are kept, they rarely change. */}
             <Link
               to={`/${lang}/start/location`}
+              onClick={() => savePrefs({ ...loadPrefs(), situations: [] })}
               className="inline-flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 font-semibold text-sm"
               style={{ background: c.gold, color: c.ink }}
             >
@@ -56,7 +60,7 @@ export default function Landing() {
                 className="inline-flex items-center justify-center gap-2 rounded-lg px-6 py-3.5 font-semibold text-sm border"
                 style={{ borderColor: "#3A4A57", color: "#D7DEE3" }}
               >
-                {t("yourBenefits")} · {communeName(prefs.commune, lang)}
+                {t("lastViewed")} · {communeName(prefs.commune, lang)}
               </Link>
             )}
           </div>
