@@ -582,85 +582,101 @@
       "Flanders"
     ],
     "communes": [],
-    "institution": "Wonen Vlaanderen",
-    "verified": "19 Sep 2026",
-    "status": "community",
-    "source_url": "https://www.wonenvlaanderen.be/huren/de-vlaamse-huurpremie",
+    "institution": "Wonen in Vlaanderen",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/vlaamse-huurpremie-voor-kandidaat-huurders-van-een-sociale-woning/vraag-de-vlaamse-huurpremie-aan",
     "content": {
       "en": {
-        "title": "Vlaamse Huurpremie (Flemish Rent Allowance)",
-        "desc": "A monthly allowance for private renters who have waited a long time on the list for social housing.",
-        "deadline": "You don't apply proactively — once you've been on the social housing waiting list for 4 uninterrupted years, a housing company automatically sends you an application form (look for the envelope with a yellow round sticker).",
-        "amount": "Roughly €188 to €345 per month, depending on income, household size, and municipality (figures not confirmed on a directly-rendered official page)",
+        "title": "Vlaamse Huurpremie (Flemish Rent Premium)",
+        "desc": "A monthly premium for private tenants who have been on the waiting list for a social home for 4 years without interruption.",
+        "deadline": "No deadline while you meet the conditions, but you must apply yourself and the premium is paid at most 6 months backdated. Apply as soon as you reach 4 years on the waiting list.",
+        "amount": "Up to €188.10 a month in 2026, plus €31.35 per dependent person (up to the 4th). In certain communes up to €206.91, plus €34.48 per dependent. The exact amount depends on your income, your home's location and your dependents.",
         "requirements": [
           {
             "type": "doc",
-            "label": "Proof of social housing waiting-list registration + your rental lease"
+            "label": "4 years without interruption on the social housing waiting list of your commune's housing company"
+          },
+          {
+            "type": "doc",
+            "label": "Full copy of the rental contract in your name"
           }
         ],
         "steps": [
-          "Register and stay on the waiting list for a social rental home with a housing company (woonmaatschappij) active in your municipality",
-          "Wait for the automatic application letter after 4 uninterrupted years on the list",
-          "Fill in and return the form with your lease and income details",
-          "Report any changes in your situation as required to keep receiving the premium"
+          "Register and stay registered, without interruption, on the waiting list of the housing company (woonmaatschappij) for the commune where you live",
+          "After 4 years, apply online in the Formulierenloket of Wonen in Vlaanderen (eID or itsme), or with the paper form that is posted to you automatically",
+          "Add a full copy of your rental contract (and if needed proof of co-parenting, a disability certificate, or proof of income if you are under 25); every adult in the household confirms the application",
+          "Wonen in Vlaanderen decides within 3 months and 10 days of a complete file; the premium is paid monthly and checked every year"
         ]
       },
       "nl": {
         "title": "Vlaamse Huurpremie",
-        "desc": "Een maandelijkse premie voor private huurders die al lang op de wachtlijst staan voor een sociale woning.",
-        "deadline": "Je vraagt dit niet zelf actief aan — zodra je 4 jaar onafgebroken op de wachtlijst voor een sociale woning staat, stuurt een woonmaatschappij je automatisch een aanvraagformulier (herkenbaar aan de gele ronde sticker op de envelop).",
-        "amount": "Ongeveer €188 tot €345 per maand, afhankelijk van inkomen, gezinsgrootte en gemeente (cijfers niet bevestigd op een rechtstreeks geraadpleegde officiele pagina)",
+        "desc": "Een maandelijkse premie voor private huurders die al 4 jaar ononderbroken op de wachtlijst voor een sociale woning staan.",
+        "deadline": "Geen termijn zolang je aan de voorwaarden voldoet, maar je moet de premie zelf aanvragen en ze wordt maximaal 6 maanden terug uitbetaald. Vraag aan zodra je 4 jaar op de wachtlijst staat.",
+        "amount": "Maximaal €188,10 per maand in 2026, plus €31,35 per persoon ten laste (tot en met de 4de). In een aantal gemeenten maximaal €206,91, plus €34,48 per persoon ten laste. Het exacte bedrag hangt af van je inkomen, de ligging van je woning en je personen ten laste.",
         "requirements": [
           {
             "type": "doc",
-            "label": "Bewijs van inschrijving op de wachtlijst sociale huisvesting + je huurcontract"
+            "label": "4 jaar ononderbroken op de wachtlijst voor een sociale woning bij de woonmaatschappij van je gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Volledige kopie van het huurcontract op jouw naam"
           }
         ],
         "steps": [
-          "Schrijf je in en blijf ingeschreven op de wachtlijst voor een sociale huurwoning bij een woonmaatschappij die actief is in jouw gemeente",
-          "Wacht op de automatische aanvraagbrief na 4 jaar onafgebroken inschrijving",
-          "Vul het formulier in en stuur het terug met je huurcontract en inkomensgegevens",
-          "Geef wijzigingen in je situatie tijdig door om de premie te behouden"
+          "Schrijf je in en blijf ononderbroken ingeschreven op de wachtlijst bij de woonmaatschappij van de gemeente waar je woont",
+          "Na 4 jaar vraag je aan via het Formulierenloket van Wonen in Vlaanderen (eID of itsme), of met het papieren formulier dat je automatisch met de post krijgt",
+          "Voeg een volledige kopie van je huurcontract toe (en zo nodig een bewijs co-ouderschap, een attest van handicap, of een inkomensbewijs als je jonger bent dan 25); alle meerderjarigen in je gezin bevestigen de aanvraag",
+          "Wonen in Vlaanderen beslist uiterlijk 3 maanden en 10 dagen na de volledigverklaring; de premie wordt maandelijks betaald en jaarlijks herberekend"
         ]
       },
       "fr": {
-        "title": "Vlaamse Huurpremie (Prime de Loyer Flamande)",
-        "desc": "Une allocation mensuelle pour les locataires privés qui attendent depuis longtemps sur la liste d'attente pour un logement social.",
-        "deadline": "Vous ne devez pas demander proactivement — une fois inscrit sans interruption pendant 4 ans sur la liste d'attente du logement social, une société de logement vous envoie automatiquement un formulaire de demande (repérable à l'autocollant rond jaune sur l'enveloppe).",
-        "amount": "Environ 188 à 345 € par mois, selon le revenu, la composition du ménage et la commune (chiffres non confirmés sur une page officielle directement consultée)",
+        "title": "Vlaamse Huurpremie (prime au loyer flamande)",
+        "desc": "Une prime mensuelle pour les locataires du privé inscrits depuis 4 ans sans interruption sur la liste d'attente d'un logement social.",
+        "deadline": "Pas de délai tant que vous remplissez les conditions, mais vous devez la demander vous-même et la prime n'est versée que jusqu'à 6 mois en arrière. Demandez-la dès que vous atteignez 4 ans sur la liste d'attente.",
+        "amount": "Jusqu'à 188,10 € par mois en 2026, plus 31,35 € par personne à charge (jusqu'à la 4e). Dans certaines communes jusqu'à 206,91 €, plus 34,48 € par personne à charge. Le montant exact dépend de vos revenus, de la situation du logement et des personnes à charge.",
         "requirements": [
           {
             "type": "doc",
-            "label": "Preuve d'inscription sur la liste d'attente du logement social + votre contrat de bail"
+            "label": "4 ans sans interruption sur la liste d'attente d'un logement social de la société de logement de votre commune"
+          },
+          {
+            "type": "doc",
+            "label": "Copie complète du bail à votre nom"
           }
         ],
         "steps": [
-          "Inscrivez-vous et restez sur la liste d'attente pour un logement social auprès d'une société de logement (woonmaatschappij) active dans votre commune",
-          "Attendez la lettre de demande automatique après 4 ans d'inscription ininterrompue",
-          "Complétez et renvoyez le formulaire avec votre bail et vos informations de revenus",
-          "Signalez tout changement de situation requis pour continuer à percevoir la prime"
+          "Inscrivez-vous et restez inscrit sans interruption sur la liste d'attente de la société de logement (woonmaatschappij) de la commune où vous habitez",
+          "Après 4 ans, demandez la prime en ligne dans le Formulierenloket de Wonen in Vlaanderen (eID ou itsme), ou avec le formulaire papier envoyé automatiquement par la poste",
+          "Joignez une copie complète de votre bail (et si nécessaire une preuve de coparentalité, une attestation de handicap ou une preuve de revenus si vous avez moins de 25 ans) ; chaque adulte du ménage confirme la demande",
+          "Wonen in Vlaanderen décide dans les 3 mois et 10 jours après que le dossier est complet ; la prime est versée chaque mois et recalculée chaque année"
         ]
       },
       "de": {
         "title": "Vlaamse Huurpremie (Flämische Mietprämie)",
-        "desc": "Eine monatliche Zulage für private Mieter, die schon lange auf der Warteliste für eine Sozialwohnung stehen.",
-        "deadline": "Sie beantragen dies nicht selbst aktiv — sobald Sie 4 Jahre ununterbrochen auf der Warteliste für eine Sozialwohnung stehen, schickt Ihnen eine Wohnungsgesellschaft automatisch ein Antragsformular (erkennbar am gelben runden Aufkleber auf dem Umschlag).",
-        "amount": "Etwa 188 bis 345 € pro Monat, abhängig von Einkommen, Haushaltsgröße und Gemeinde (Zahlen nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt)",
+        "desc": "Eine monatliche Prämie für private Mieter, die seit 4 Jahren ohne Unterbrechung auf der Warteliste für eine Sozialwohnung stehen.",
+        "deadline": "Keine Frist, solange Sie die Bedingungen erfüllen, aber Sie müssen die Prämie selbst beantragen und sie wird höchstens 6 Monate rückwirkend gezahlt. Beantragen Sie sie, sobald Sie 4 Jahre auf der Warteliste stehen.",
+        "amount": "Bis zu 188,10 € pro Monat im Jahr 2026, plus 31,35 € pro unterhaltsberechtigter Person (bis zur 4.). In bestimmten Gemeinden bis zu 206,91 €, plus 34,48 € pro unterhaltsberechtigter Person. Der genaue Betrag hängt von Ihrem Einkommen, der Lage der Wohnung und den unterhaltsberechtigten Personen ab.",
         "requirements": [
           {
             "type": "doc",
-            "label": "Nachweis der Einschreibung auf der Warteliste für Sozialwohnungen + Ihr Mietvertrag"
+            "label": "4 Jahre ohne Unterbrechung auf der Warteliste für eine Sozialwohnung bei der Wohnungsgesellschaft Ihrer Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Vollständige Kopie des Mietvertrags auf Ihren Namen"
           }
         ],
         "steps": [
-          "Melden Sie sich an und bleiben Sie auf der Warteliste für eine Sozialwohnung bei einer Wohnungsgesellschaft (woonmaatschappij), die in Ihrer Gemeinde tätig ist",
-          "Warten Sie nach 4 Jahren ununterbrochener Einschreibung auf den automatischen Antragsbrief",
-          "Füllen Sie das Formular aus und senden Sie es mit Mietvertrag und Einkommensangaben zurück",
-          "Melden Sie erforderliche Änderungen Ihrer Situation, um die Prämie zu behalten"
+          "Lassen Sie sich ohne Unterbrechung auf der Warteliste der Wohnungsgesellschaft (woonmaatschappij) Ihrer Wohngemeinde eintragen",
+          "Nach 4 Jahren beantragen Sie die Prämie online im Formulierenloket von Wonen in Vlaanderen (eID oder itsme) oder mit dem Papierformular, das Ihnen automatisch zugeschickt wird",
+          "Fügen Sie eine vollständige Kopie Ihres Mietvertrags bei (und falls nötig einen Nachweis über Co-Elternschaft, eine Behindertenbescheinigung oder einen Einkommensnachweis, wenn Sie unter 25 sind); jeder Erwachsene im Haushalt bestätigt den Antrag",
+          "Wonen in Vlaanderen entscheidet innerhalb von 3 Monaten und 10 Tagen nach Vollständigkeit der Akte; die Prämie wird monatlich gezahlt und jährlich neu berechnet"
         ]
       }
     },
-    "note": "Downgraded from verified to community on 19 Sep 2026. The €188–€345 range was never confirmed against a directly-rendered official page — the amount text says so itself — and an automated re-check of the cited wonenvlaanderen.be page on 19 Sep 2026 found neither figure on it. Treat the range as indicative until the entry is re-sourced."
+    "amount_source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/vlaamse-huurpremie-voor-kandidaat-huurders-van-een-sociale-woning/bedrag-van-de-vlaamse-huurpremie"
   },
   {
     "id": 7,
@@ -1007,96 +1023,6 @@
     }
   },
   {
-    "id": 10,
-    "category": "housing",
-    "situations": [
-      "buying-home"
-    ],
-    "region": [
-      "Wallonia"
-    ],
-    "communes": [],
-    "institution": "Service Public de Wallonie (SPW) — Énergie",
-    "verified": "19 Sep 2026",
-    "status": "community",
-    "source_url": "https://energie.wallonie.be",
-    "content": {
-      "en": {
-        "title": "Prime Isolation Toiture (Wallonia Roof Insulation Grant)",
-        "desc": "A Walloon government grant covering part of the cost of insulating your roof.",
-        "deadline": "Submit your application, including the final invoice, by 30 September 2026.",
-        "amount": "Roughly €20–€26/m² × an income-based coefficient (1–4), up to €156/m² for bio-based insulation in the lowest income category; capped at 50–70% of the invoice (figures not confirmed on a directly-rendered official page)",
-        "requirements": [
-          {
-            "type": "doc",
-            "label": "Final invoice for the insulation work"
-          }
-        ],
-        "steps": [
-          "Check your roof insulation meets the minimum R ≥ 4.5 m²K/W requirement",
-          "Have the work carried out and keep the final invoice",
-          "Apply via energie.wallonie.be before the 30 September 2026 deadline",
-          "Note: as of 2025, roof insulation alone no longer requires a home energy audit"
-        ]
-      },
-      "nl": {
-        "title": "Prime Isolation Toiture (Dakisolatiepremie Wallonië)",
-        "desc": "Een premie van de Waalse overheid voor een deel van de kost om je dak te isoleren.",
-        "deadline": "Dien je aanvraag, inclusief eindfactuur, ten laatste in op 30 september 2026.",
-        "amount": "Ongeveer €20–€26/m² × een inkomenscoëfficiënt (1–4), tot €156/m² voor biogebaseerde isolatie in de laagste inkomenscategorie; begrensd op 50–70% van het factuurbedrag (cijfers niet bevestigd op een rechtstreeks geraadpleegde officiele pagina)",
-        "requirements": [
-          {
-            "type": "doc",
-            "label": "Eindfactuur van de isolatiewerken"
-          }
-        ],
-        "steps": [
-          "Controleer of je dakisolatie voldoet aan de minimale eis R ≥ 4,5 m²K/W",
-          "Laat de werken uitvoeren en bewaar de eindfactuur",
-          "Vraag aan via energie.wallonie.be vóór de deadline van 30 september 2026",
-          "Opgelet: sinds 2025 is voor dakisolatie alleen geen energieaudit van de woning meer nodig"
-        ]
-      },
-      "fr": {
-        "title": "Prime Isolation Toiture",
-        "desc": "Une prime du gouvernement wallon couvrant une partie du coût de l'isolation de votre toiture.",
-        "deadline": "Soumettez votre demande, facture finale incluse, avant le 30 septembre 2026.",
-        "amount": "Environ 20–26 €/m² × un coefficient selon le revenu (1–4), jusqu'à 156 €/m² pour l'isolant biosourcé dans la catégorie de revenus la plus basse ; plafonné à 50–70% de la facture (chiffres non confirmés sur une page officielle directement consultée)",
-        "requirements": [
-          {
-            "type": "doc",
-            "label": "Facture finale des travaux d'isolation"
-          }
-        ],
-        "steps": [
-          "Vérifiez que votre isolation de toiture respecte l'exigence minimale R ≥ 4,5 m²K/W",
-          "Faites exécuter les travaux et conservez la facture finale",
-          "Demandez via energie.wallonie.be avant la date limite du 30 septembre 2026",
-          "Notez : depuis 2025, l'isolation de toiture seule ne nécessite plus d'audit énergétique du logement"
-        ]
-      },
-      "de": {
-        "title": "Prime Isolation Toiture (Dachdämmungsprämie Wallonien)",
-        "desc": "Eine Prämie der wallonischen Regierung, die einen Teil der Kosten für die Dämmung Ihres Dachs deckt.",
-        "deadline": "Reichen Sie Ihren Antrag, einschließlich Endrechnung, bis spätestens 30. September 2026 ein.",
-        "amount": "Etwa 20–26 €/m² × ein einkommensabhängiger Koeffizient (1–4), bis zu 156 €/m² für biobasierte Dämmung in der niedrigsten Einkommenskategorie; begrenzt auf 50–70% des Rechnungsbetrags (Zahlen nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt)",
-        "requirements": [
-          {
-            "type": "doc",
-            "label": "Endrechnung der Dämmarbeiten"
-          }
-        ],
-        "steps": [
-          "Prüfen Sie, ob Ihre Dachdämmung die Mindestanforderung R ≥ 4,5 m²K/W erfüllt",
-          "Lassen Sie die Arbeiten ausführen und bewahren Sie die Endrechnung auf",
-          "Beantragen Sie über energie.wallonie.be vor der Frist am 30. September 2026",
-          "Hinweis: Seit 2025 ist für Dachdämmung allein kein Energieaudit der Wohnung mehr erforderlich"
-        ]
-      }
-    },
-    "note": "Downgraded from verified to community on 19 Sep 2026. The per-m² figures were never confirmed against a directly-rendered official page — the amount text says so itself — and the cited source_url is the energie.wallonie.be site root rather than the premium's own page. An automated re-check on 19 Sep 2026 found none of the €20 / €26 / €156 figures. Needs a deep link to the scheme page and a fresh reading of the amounts."
-  },
-  {
     "id": 11,
     "category": "other",
     "situations": [
@@ -1404,14 +1330,14 @@
     ],
     "communes": [],
     "institution": "OCMW / CPAS (via POD Maatschappelijke Integratie)",
-    "verified": "19 Sep 2026",
-    "status": "community",
-    "source_url": "https://primabook.mi-is.be/nl/recht-op-maatschappelijke-integratie/de-categorieen-van-rechthebbenden-en-het-bedrag-van-het",
+    "verified": "23 Oct 2026",
+    "status": "verified",
+    "source_url": "https://primabook.mi-is.be/nl/recht-op-maatschappelijke-integratie/bedragen-leefloon",
     "content": {
       "en": {
         "title": "Leefloon (Social Integration Income via OCMW)",
         "desc": "A monthly minimum-income payment from your local OCMW if you don't have enough income to live on and meet the conditions.",
-        "deadline": "Apply as soon as you're in need — there's no fixed deadline, but payments only start from your application date, so don't delay.",
+        "deadline": "Apply as soon as you're in need. There's no fixed deadline, but the leefloon only counts from the date your application is received. The OCMW must decide within 30 days.",
         "amount": "€911.56/month if cohabiting, €1,367.34/month if single, €1,847.89/month with a dependent family (rates since 1 September 2026)",
         "requirements": [
           {
@@ -1427,13 +1353,13 @@
           "Contact the OCMW of the municipality where you live",
           "Provide ID and details of your income, assets, and household",
           "Take part in the OCMW's social investigation",
-          "Within 3 months of approval, agree an individualised integration plan (GPMI) with your OCMW"
+          "If a GPMI (individualised integration project) is required, for example because you had no leefloon in the past 3 months, you sign it with your OCMW within 3 months of the decision"
         ]
       },
       "nl": {
         "title": "Leefloon (OCMW)",
         "desc": "Een maandelijkse minimuminkomensuitkering van je lokale OCMW als je onvoldoende inkomen hebt om van te leven en aan de voorwaarden voldoet.",
-        "deadline": "Aan te vragen zodra je in nood verkeert — er is geen vaste deadline, maar uitbetaling start pas vanaf je aanvraagdatum, dus wacht niet te lang.",
+        "deadline": "Vraag aan zodra je in nood bent. Er is geen vaste termijn, maar het leefloon geldt pas vanaf de datum waarop je aanvraag ontvangen is. Het OCMW moet binnen 30 dagen beslissen.",
         "amount": "€911,56/maand voor samenwonenden, €1.367,34/maand voor alleenstaanden, €1.847,89/maand met gezinslast (bedragen sinds 1 september 2026)",
         "requirements": [
           {
@@ -1449,13 +1375,13 @@
           "Neem contact op met het OCMW van je woonplaats",
           "Bezorg je identiteitsgegevens en informatie over inkomen, vermogen en gezin",
           "Werk mee aan het sociaal onderzoek van het OCMW",
-          "Binnen 3 maanden na goedkeuring stel je samen met je OCMW een geïndividualiseerd project voor maatschappelijke integratie (GPMI) op"
+          "Is een GPMI (geïndividualiseerd project voor maatschappelijke integratie) verplicht, bijvoorbeeld omdat je de laatste 3 maanden geen leefloon kreeg, dan sluit je het af met je OCMW binnen 3 maanden na de beslissing"
         ]
       },
       "fr": {
         "title": "Revenu d'Intégration Sociale (via le CPAS)",
         "desc": "Un paiement mensuel de revenu minimum de votre CPAS local si vous n'avez pas suffisamment de revenus pour vivre et que vous remplissez les conditions.",
-        "deadline": "À demander dès que vous êtes dans le besoin — il n'y a pas de délai fixe, mais les paiements ne commencent qu'à partir de votre date de demande, donc ne tardez pas.",
+        "deadline": "Faites la demande dès que vous êtes dans le besoin. Il n'y a pas de délai fixe, mais le revenu d'intégration ne compte qu'à partir de la date de réception de votre demande. Le CPAS doit décider dans les 30 jours.",
         "amount": "911,56 €/mois pour les cohabitants, 1.367,34 €/mois pour les isolés, 1.847,89 €/mois avec charge de famille (montants depuis le 1er septembre 2026)",
         "requirements": [
           {
@@ -1471,13 +1397,13 @@
           "Contactez le CPAS de votre commune de résidence",
           "Fournissez votre identité et les informations sur vos revenus, votre patrimoine et votre ménage",
           "Participez à l'enquête sociale du CPAS",
-          "Dans les 3 mois suivant l'approbation, convenez avec votre CPAS d'un projet individualisé d'intégration sociale (PIIS)"
+          "Si un PIIS (projet individualisé d'intégration sociale) est obligatoire, par exemple parce que vous n'avez pas reçu de revenu d'intégration ces 3 derniers mois, vous le signez avec votre CPAS dans les 3 mois suivant la décision"
         ]
       },
       "de": {
         "title": "Leefloon (Sozialeingliederungseinkommen über das ÖSHZ/OCMW)",
         "desc": "Eine monatliche Mindesteinkommenszahlung Ihres örtlichen ÖSHZ, wenn Sie nicht genug Einkommen zum Leben haben und die Bedingungen erfüllen.",
-        "deadline": "Antragstellung, sobald Sie in Not sind — es gibt keine feste Frist, aber die Zahlungen beginnen erst ab Ihrem Antragsdatum, also warten Sie nicht zu lange.",
+        "deadline": "Stellen Sie den Antrag, sobald Sie in Not sind. Es gibt keine feste Frist, aber das Eingliederungseinkommen gilt erst ab dem Eingang Ihres Antrags. Das ÖSHZ muss innerhalb von 30 Tagen entscheiden.",
         "amount": "911,56 €/Monat bei Zusammenwohnenden, 1.367,34 €/Monat bei Alleinstehenden, 1.847,89 €/Monat mit Familienlast (Beträge seit 1. September 2026)",
         "requirements": [
           {
@@ -1493,11 +1419,10 @@
           "Kontaktieren Sie das ÖSHZ Ihrer Wohngemeinde",
           "Legen Sie Ihre Identität und Angaben zu Einkommen, Vermögen und Haushalt vor",
           "Nehmen Sie an der Sozialuntersuchung des ÖSHZ teil",
-          "Vereinbaren Sie innerhalb von 3 Monaten nach Genehmigung mit Ihrem ÖSHZ ein individuelles Eingliederungsprojekt (GPMI)"
+          "Ist ein individuelles Eingliederungsprojekt (PIIS/GPMI) verpflichtend, zum Beispiel weil Sie in den letzten 3 Monaten kein Eingliederungseinkommen bezogen haben, schließen Sie es innerhalb von 3 Monaten nach der Entscheidung mit Ihrem ÖSHZ ab"
         ]
       }
-    },
-    "note": "Downgraded from verified to community on 19 Sep 2026. The cited primabook.mi-is.be page sets out the three categories of beneficiary but displays no amounts at all — confirmed in a JavaScript-rendering browser, not only by automated fetch; the page refers to an overview of amounts that is not present on it. The figures (€911.56 cohabiting, €1,367.34 single, €1,847.89 with dependants, given as rates since 1 September 2026) could not be confirmed against this source. Re-source to a page that actually publishes the current leefloon amounts before relying on them."
+    }
   },
   {
     "id": 15,
