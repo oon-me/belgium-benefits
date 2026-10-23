@@ -10,6 +10,7 @@ import benefits from "../src/data/benefits.json" with { type: "json" };
 import { LANGS, translations, getContent } from "../src/i18n.js";
 import { buildMeta } from "../src/lib/meta.js";
 import { benefitPath } from "../src/lib/slug.js";
+import { about } from "../src/content/about.js";
 import { render } from "../dist-ssr/entry-server.js";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -119,6 +120,17 @@ for (const lang of LANGS) {
       description: t("allSub"),
       path: `/${lang}/all`,
       alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}/all`])),
+      origin: ORIGIN,
+    }),
+  });
+  routes.push({
+    url: `/${lang}/about`,
+    meta: buildMeta({
+      lang,
+      title: about[lang].title,
+      description: about[lang].intro,
+      path: `/${lang}/about`,
+      alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}/about`])),
       origin: ORIGIN,
     }),
   });

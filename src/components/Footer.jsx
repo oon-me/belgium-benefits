@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import { c } from "../theme.js";
 import { useT } from "../i18n.js";
+import { about } from "../content/about.js";
 
 // The "not official" line rides on every page, not just the legal one — people arrive from
 // search engines directly onto a benefit page and need to know whose site they are reading.
@@ -13,7 +14,10 @@ export default function Footer() {
         <p className="text-xs" style={{ color: c.inkSoft }}>
           {t("footerNotOfficial")}
         </p>
-        <div className="flex gap-4">
+        <div className="flex flex-wrap gap-x-4 gap-y-2">
+          <Link to={`/${lang}/about`} className="text-xs font-semibold" style={{ color: c.post }}>
+            {(about[lang] ?? about.en).title}
+          </Link>
           <Link to={`/${lang}/all`} className="text-xs font-semibold" style={{ color: c.post }}>
             {t("allTitle")}
           </Link>
