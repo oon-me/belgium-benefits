@@ -14,6 +14,10 @@ export const c = {
   line: "#DBD5C7",
 };
 
-export const displayFont = "Georgia, 'Iowan Old Style', 'Palatino Linotype', serif";
-export const bodyFont = "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif";
+// Arial everywhere (feedback 3): guidance for partially sighted and dyslexic readers (RNIB clear
+// print, British Dyslexia Association style guide) names plain sans-serif faces, Arial first.
+// It is installed on practically every device, so nothing is downloaded. Liberation Sans and
+// Arimo are metric-compatible stand-ins on Linux and ChromeOS.
+export const displayFont = "Arial, 'Liberation Sans', Arimo, Helvetica, sans-serif";
+export const bodyFont = displayFont;
 export const monoFont = "'SF Mono', 'IBM Plex Mono', ui-monospace, monospace";

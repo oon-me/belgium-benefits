@@ -82,8 +82,9 @@ These settings keep that true — check them if anything in Cloudflare is change
 - **Security → Settings → Email Address Obfuscation: off.** It rewrites `info@` in the prerendered
   HTML into a `/cdn-cgi/` link plus an injected decoder script, which breaks the address for
   readers without JavaScript and protects nothing — the address is in the JS bundle anyway.
-- **No third-party resources.** The Inter font is bundled (`@fontsource/inter`) rather than loaded
-  from Google Fonts, which would hand every visitor's IP address to Google. Keep it that way:
+- **No third-party resources.** The site uses Arial, the device's own font (Oct 2026, chosen for
+  low-vision and dyslexic readers), so no font is downloaded at all. Never load one from Google
+  Fonts, which would hand every visitor's IP address to Google. Keep it that way:
   `curl -s https://belgiumbenefits.be/en | grep -oE '(href|src)="https?://[^"]+"'` should list
   only links to official `.be` sources.
 

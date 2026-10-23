@@ -25,7 +25,7 @@ export default function LangSwitcher({ compact = false }) {
       >
         {langOptions.map((o) => (
           <option key={o.id} value={o.id} style={{ color: c.ink }}>
-            {o.flag} {o.id.toUpperCase()}
+            {o.short}
           </option>
         ))}
       </select>
@@ -46,7 +46,7 @@ export default function LangSwitcher({ compact = false }) {
             color: lang === o.id ? c.gold : "#B7C4CE",
           }}
         >
-          {o.flag} {o.id.toUpperCase()}
+          {o.short}
         </button>
       ))}
     </div>

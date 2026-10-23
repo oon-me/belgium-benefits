@@ -80,7 +80,7 @@ export default function Landing() {
                   color: lang === l.id ? c.gold : "#B7C4CE",
                 }}
               >
-                <span>{l.flag}</span> {translations[l.id].langLabel}
+                {translations[l.id].langLabel}
               </Link>
             ))}
           </div>
