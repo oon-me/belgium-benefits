@@ -455,6 +455,30 @@ the reader to confirm on the official source, and `npm run check` warns about th
 deliberate: silently serving a figure nobody has looked at in a year is the failure mode that
 would do real damage.
 
+### To do in December 2026: 90 or 180 days per commune
+
+Re-checking every commune entry every 90 days will cost the most once all 565 communes are in,
+and many commune premiums barely change: they follow a regulation that runs for years (Kortrijk's
+TIK premium, for example, runs from 29 Sep 2025 to 31 Dec 2031). In December, look at how often
+each commune's information actually changes, and move the stable ones to a **180-day** re-check.
+Federal and regional entries stay at 90 days, because they are indexed several times a year.
+
+What to look at, per commune:
+
+- **History:** how often its entries' amounts, deadlines or conditions changed. Use
+  `git log -p src/data/benefits.json` and the `data-check` issues. Note that no commune entry is
+  90 days old before late January 2027, so in December this only covers the older entries.
+- **Regulation dates:** whether the page names a regulation in force for several years, and
+  when the council last changed it.
+- **Source changes:** whether `npm run check:sources` ever reported its amounts missing
+  (`data/source-baseline.json`).
+
+Rule to start with: a commune whose entries follow a multi-year regulation and had no change
+in the period gets 180 days. Any change found at a re-check puts it back on 90. To build it,
+add an optional `recheck_days` field (90 or 180) and have `ageInDays` /
+`STALE_AFTER_DAYS` in `src/lib/freshness.js` and `scripts/check-data.mjs` use it in place of
+the fixed 90. Then add the review date and the communes moved to `data/commune-coverage.json`.
+
 ## Known issues
 
 **Tailwind 3 pulls in two build-time advisories (Oct 2026).** `braces` (high) and
