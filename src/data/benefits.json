@@ -5125,5 +5125,2301 @@
         ]
       }
     }
+  },
+  {
+    "id": 50,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Merelbeke-Melle"
+    ],
+    "institution": "Lokaal Bestuur Merelbeke-Melle",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.merelbeke-melle.be/geboortetoelage",
+    "content": {
+      "en": {
+        "title": "Geboortetoelage (Birth Gift, Merelbeke-Melle)",
+        "desc": "A local gift voucher from the municipality to celebrate the birth of a child registered in Merelbeke-Melle.",
+        "deadline": "After the birth, once you receive the municipality's letter.",
+        "amount": "€100, as a local gift voucher (Merelbeke-Mellebon)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The letter the municipality sends after the birth"
+          }
+        ],
+        "steps": [
+          "Register the birth; the child is entered in the Merelbeke-Melle population register",
+          "Wait for the municipality's letter with the child's national number",
+          "Collect the €100 voucher with that letter at the town hall (Hundelgemsesteenweg 353); on request also at the Dienstencentrum in Melle"
+        ]
+      },
+      "nl": {
+        "title": "Geboortetoelage (Merelbeke-Melle)",
+        "desc": "Een lokale cadeaubon van het lokaal bestuur om de geboorte te vieren van een kind dat in Merelbeke-Melle ingeschreven wordt.",
+        "deadline": "Na de geboorte, zodra je de brief van het lokaal bestuur ontvangt.",
+        "amount": "€100, als lokale cadeaubon (Merelbeke-Mellebon)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De brief die het lokaal bestuur na de geboorte stuurt"
+          }
+        ],
+        "steps": [
+          "Doe aangifte van de geboorte; het kind wordt ingeschreven in het bevolkingsregister van Merelbeke-Melle",
+          "Wacht op de brief van het lokaal bestuur met het rijksregisternummer van het kind",
+          "Haal met die brief de bon van €100 af in het gemeentehuis (Hundelgemsesteenweg 353); op aanvraag ook in het Dienstencentrum in Melle"
+        ]
+      },
+      "fr": {
+        "title": "Geboortetoelage (Cadeau de naissance, Merelbeke-Melle)",
+        "desc": "Un bon cadeau local offert par la commune pour fêter la naissance d'un enfant inscrit à Merelbeke-Melle.",
+        "deadline": "Après la naissance, dès réception du courrier de la commune.",
+        "amount": "100 €, en bon cadeau local (Merelbeke-Mellebon)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le courrier envoyé par la commune après la naissance"
+          }
+        ],
+        "steps": [
+          "Déclarez la naissance ; l'enfant est inscrit au registre de la population de Merelbeke-Melle",
+          "Attendez le courrier de la commune avec le numéro de registre national de l'enfant",
+          "Retirez le bon de 100 € avec ce courrier à la maison communale (Hundelgemsesteenweg 353) ; sur demande aussi au Dienstencentrum de Melle"
+        ]
+      },
+      "de": {
+        "title": "Geboortetoelage (Geburtsgeschenk, Merelbeke-Melle)",
+        "desc": "Ein lokaler Geschenkgutschein der Gemeinde zur Geburt eines Kindes, das in Merelbeke-Melle eingetragen wird.",
+        "deadline": "Nach der Geburt, sobald Sie den Brief der Gemeinde erhalten.",
+        "amount": "100 €, als lokaler Geschenkgutschein (Merelbeke-Mellebon)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der Brief, den die Gemeinde nach der Geburt schickt"
+          }
+        ],
+        "steps": [
+          "Melden Sie die Geburt an; das Kind wird im Bevölkerungsregister von Merelbeke-Melle eingetragen",
+          "Warten Sie auf den Brief der Gemeinde mit der Nationalregisternummer des Kindes",
+          "Holen Sie mit diesem Brief den Gutschein über 100 € im Gemeindehaus ab (Hundelgemsesteenweg 353); auf Anfrage auch im Dienstencentrum in Melle"
+        ]
+      }
+    }
+  },
+  {
+    "id": 51,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Merelbeke-Melle"
+    ],
+    "institution": "Lokaal Bestuur Merelbeke-Melle",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.merelbeke-melle.be/mantelzorgtoelage",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage (Informal Carer Allowance, Merelbeke-Melle)",
+        "desc": "A yearly allowance for residents who care, unpaid, for a resident of Merelbeke-Melle who needs help. Both must live in the municipality on 1 January of the care year.",
+        "deadline": "Apply during the year in which you give the care; apply again every year.",
+        "amount": "€120 per year",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Carer aged 18 or over"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of the care need (BelRAI screener, BEL scale of 30+ points via the health fund, or an FPS Social Security recognition of at least 12 points)"
+          }
+        ],
+        "steps": [
+          "Check that the person you care for meets one of the care-need scores and does not live in a care home",
+          "Fill in the form online or on paper; you and the person you care for sign a declaration on your care tasks",
+          "Add the proof of the care need and submit it to the municipality's Welzijn service (09 210 33 50)"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage (Merelbeke-Melle)",
+        "desc": "Een jaarlijkse toelage voor inwoners die onbetaald zorgen voor een hulpbehoevende inwoner van Merelbeke-Melle. Beiden wonen op 1 januari van het zorgjaar in de gemeente.",
+        "deadline": "Aan te vragen in het jaar waarin je de zorg geeft; elk jaar opnieuw aanvragen.",
+        "amount": "€120 per jaar",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Mantelzorger is minstens 18 jaar"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van zorgbehoevendheid (BelRAI-screener, BEL-schaal van minstens 30 punten via de mutualiteit, of erkenning van minstens 12 punten door de FOD Sociale Zekerheid)"
+          }
+        ],
+        "steps": [
+          "Controleer dat de zorgbehoevende aan een van de scores voldoet en niet in een residentiële instelling verblijft",
+          "Vul het formulier online of op papier in; jij en de zorgbehoevende ondertekenen een verklaring op eer over de mantelzorgtaken",
+          "Voeg het bewijs van erkenning toe en dien het in bij de dienst Welzijn (09 210 33 50)"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage (Allocation aidant proche, Merelbeke-Melle)",
+        "desc": "Une allocation annuelle pour les habitants qui s'occupent bénévolement d'un habitant de Merelbeke-Melle ayant besoin d'aide. Tous deux habitent la commune au 1er janvier de l'année de soins.",
+        "deadline": "À demander pendant l'année où vous donnez les soins ; à redemander chaque année.",
+        "amount": "120 € par an",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Aidant âgé d'au moins 18 ans"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve du besoin de soins (screener BelRAI, échelle BEL d'au moins 30 points via la mutualité, ou reconnaissance d'au moins 12 points par le SPF Sécurité sociale)"
+          }
+        ],
+        "steps": [
+          "Vérifiez que la personne aidée atteint l'un des scores et ne vit pas en institution résidentielle",
+          "Remplissez le formulaire en ligne ou sur papier ; vous et la personne aidée signez une déclaration sur l'honneur sur les tâches d'aide",
+          "Joignez la preuve de reconnaissance et déposez-le au service Welzijn (09 210 33 50)"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage (Zulage für pflegende Angehörige, Merelbeke-Melle)",
+        "desc": "Eine jährliche Zulage für Einwohner, die unbezahlt einen hilfsbedürftigen Einwohner von Merelbeke-Melle pflegen. Beide wohnen am 1. Januar des Pflegejahres in der Gemeinde.",
+        "deadline": "Im Jahr der Pflege beantragen; jedes Jahr neu beantragen.",
+        "amount": "120 € pro Jahr",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Pflegeperson mindestens 18 Jahre alt"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis des Pflegebedarfs (BelRAI-Screener, BEL-Skala ab 30 Punkten über die Krankenkasse oder Anerkennung ab 12 Punkten durch den FÖD Soziale Sicherheit)"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie, ob die gepflegte Person einen der Werte erreicht und nicht in einer Einrichtung wohnt",
+          "Füllen Sie das Formular online oder auf Papier aus; Sie und die gepflegte Person unterschreiben eine Erklärung zu den Pflegeaufgaben",
+          "Fügen Sie den Nachweis bei und reichen Sie alles beim Dienst Welzijn ein (09 210 33 50)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 52,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Merelbeke-Melle"
+    ],
+    "institution": "Lokaal Bestuur Merelbeke-Melle",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.merelbeke-melle.be/toelage-palliatieve-zorg",
+    "content": {
+      "en": {
+        "title": "Toelage palliatieve zorg (Palliative Care Allowance, Merelbeke-Melle)",
+        "desc": "A contribution towards medical care, care products and aids for residents receiving palliative care at home.",
+        "deadline": "Apply after the health fund has granted the palliative lump sum; like that lump sum, it can be requested twice.",
+        "amount": "€250, can be requested twice",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof that you receive the palliative lump sum (palliatief forfait) from your health fund"
+          }
+        ],
+        "steps": [
+          "Make sure the palliative lump sum from the health fund has been granted",
+          "Fill in the municipality's application form",
+          "Send it with the proof to the Welzijn service (welzijn@merelbeke-melle.be, 09 210 33 50)"
+        ]
+      },
+      "nl": {
+        "title": "Toelage palliatieve zorg (Merelbeke-Melle)",
+        "desc": "Een tussenkomst in geneeskundige verzorging, verzorgingsmiddelen en hulpmiddelen voor inwoners die palliatieve thuiszorg krijgen.",
+        "deadline": "Aan te vragen nadat de mutualiteit het palliatief forfait toekende; net als dat forfait twee keer aan te vragen.",
+        "amount": "€250, kan twee keer aangevraagd worden",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van ontvangst van het palliatief forfait van de mutualiteit"
+          }
+        ],
+        "steps": [
+          "Zorg dat het palliatief forfait van de mutualiteit toegekend is",
+          "Vul het aanvraagformulier van het lokaal bestuur in",
+          "Stuur het met het bewijs naar de dienst Welzijn (welzijn@merelbeke-melle.be, 09 210 33 50)"
+        ]
+      },
+      "fr": {
+        "title": "Toelage palliatieve zorg (Allocation soins palliatifs, Merelbeke-Melle)",
+        "desc": "Une intervention dans les soins médicaux, produits de soins et aides pour les habitants en soins palliatifs à domicile.",
+        "deadline": "À demander après l'octroi du forfait palliatif par la mutualité ; comme ce forfait, elle peut être demandée deux fois.",
+        "amount": "250 €, peut être demandée deux fois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve de réception du forfait palliatif de la mutualité"
+          }
+        ],
+        "steps": [
+          "Assurez-vous que le forfait palliatif de la mutualité est accordé",
+          "Remplissez le formulaire de demande de la commune",
+          "Envoyez-le avec la preuve au service Welzijn (welzijn@merelbeke-melle.be, 09 210 33 50)"
+        ]
+      },
+      "de": {
+        "title": "Toelage palliatieve zorg (Zulage Palliativpflege, Merelbeke-Melle)",
+        "desc": "Ein Zuschuss zu ärztlicher Versorgung, Pflegeprodukten und Hilfsmitteln für Einwohner in palliativer Pflege zu Hause.",
+        "deadline": "Nach Bewilligung der Palliativpauschale der Krankenkasse beantragen; wie diese Pauschale zweimal beantragbar.",
+        "amount": "250 €, kann zweimal beantragt werden",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis über die Palliativpauschale (palliatief forfait) der Krankenkasse"
+          }
+        ],
+        "steps": [
+          "Stellen Sie sicher, dass die Palliativpauschale der Krankenkasse bewilligt ist",
+          "Füllen Sie das Antragsformular der Gemeinde aus",
+          "Senden Sie es mit dem Nachweis an den Dienst Welzijn (welzijn@merelbeke-melle.be, 09 210 33 50)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 53,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Merelbeke-Melle"
+    ],
+    "institution": "Lokaal Bestuur Merelbeke-Melle",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.merelbeke-melle.be/huisvuiltoelage-voor-personen-met-incontinentie-stoma-en-thuisdialyse",
+    "content": {
+      "en": {
+        "title": "Huisvuiltoelage (Waste Bag Allowance for Incontinence, Stoma or Home Dialysis, Merelbeke-Melle)",
+        "desc": "A yearly contribution to the extra waste bags needed by residents (aged 3 or over, living at home) with full incontinence, a stoma or home dialysis.",
+        "deadline": "Apply any time of year; apply again every year.",
+        "amount": "€90 per year (€100 for childcare providers)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doctor's certificate (attached online, or filled in by the doctor on the paper form)"
+          }
+        ],
+        "steps": [
+          "Ask your doctor to certify the incontinence, stoma or home dialysis",
+          "Apply online or on the paper form",
+          "Submit it to the Welzijn service (09 210 33 50); repeat every year"
+        ]
+      },
+      "nl": {
+        "title": "Huisvuiltoelage bij incontinentie, stoma of thuisdialyse (Merelbeke-Melle)",
+        "desc": "Een jaarlijkse tussenkomst in de extra huisvuilzakken voor inwoners (minstens 3 jaar, thuiswonend) met volledige incontinentie, een stoma of thuisdialyse.",
+        "deadline": "Het hele jaar door aan te vragen; elk jaar opnieuw.",
+        "amount": "€90 per jaar (€100 voor kinderopvanginitiatieven)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de arts (digitaal toegevoegd, of door de arts ingevuld op het papieren formulier)"
+          }
+        ],
+        "steps": [
+          "Laat je arts de incontinentie, stoma of thuisdialyse attesteren",
+          "Vraag aan via het digitale of het papieren formulier",
+          "Dien het in bij de dienst Welzijn (09 210 33 50); herhaal elk jaar"
+        ]
+      },
+      "fr": {
+        "title": "Huisvuiltoelage (Allocation sacs poubelle incontinence, stomie ou dialyse, Merelbeke-Melle)",
+        "desc": "Une intervention annuelle dans les sacs poubelle supplémentaires pour les habitants (3 ans minimum, vivant à domicile) avec incontinence totale, stomie ou dialyse à domicile.",
+        "deadline": "À demander toute l'année ; à renouveler chaque année.",
+        "amount": "90 € par an (100 € pour les milieux d'accueil d'enfants)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du médecin (jointe en ligne, ou complétée par le médecin sur le formulaire papier)"
+          }
+        ],
+        "steps": [
+          "Faites attester l'incontinence, la stomie ou la dialyse par votre médecin",
+          "Introduisez la demande en ligne ou sur formulaire papier",
+          "Déposez-la au service Welzijn (09 210 33 50) ; à renouveler chaque année"
+        ]
+      },
+      "de": {
+        "title": "Huisvuiltoelage (Müllsackzulage bei Inkontinenz, Stoma oder Heimdialyse, Merelbeke-Melle)",
+        "desc": "Ein jährlicher Zuschuss zu den zusätzlichen Müllsäcken für Einwohner (ab 3 Jahren, zu Hause lebend) mit vollständiger Inkontinenz, Stoma oder Heimdialyse.",
+        "deadline": "Ganzjährig beantragbar; jedes Jahr neu.",
+        "amount": "90 € pro Jahr (100 € für Kinderbetreuungseinrichtungen)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung (online beigefügt oder vom Arzt auf dem Papierformular ausgefüllt)"
+          }
+        ],
+        "steps": [
+          "Lassen Sie Inkontinenz, Stoma oder Heimdialyse ärztlich bescheinigen",
+          "Beantragen Sie online oder mit dem Papierformular",
+          "Reichen Sie den Antrag beim Dienst Welzijn ein (09 210 33 50); jedes Jahr wiederholen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 54,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Wetteren"
+    ],
+    "institution": "Lokaal Bestuur Wetteren",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.wetteren.be/gemeentelijke-aanvullende-premie-na-aanpassingspremie",
+    "content": {
+      "en": {
+        "title": "Aanvullende premie na aanpassingspremie (Top-up to the Flemish Home Adaptation Premium, Wetteren)",
+        "desc": "An extra municipal premium for residents who received the Flemish adaptation premium (aanpassingspremie) to adapt their home to old age. Not available after a Flemish renovation premium or Mijn VerbouwPremie.",
+        "deadline": "Apply once the Flemish adaptation premium has been paid into your account.",
+        "amount": "20% of the Flemish premium received, minimum €250, maximum €1,250",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of the award letter from Wonen in Vlaanderen"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the bank statement showing the Flemish premium was paid"
+          }
+        ],
+        "steps": [
+          "Get the Flemish adaptation premium first and wait until it is paid",
+          "Fill in the municipal application form and add both copies",
+          "Post it, hand it in at the town hall reception or email woonenleef@wetteren.be; after the council's decision the money is paid within 90 days"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke aanvullende premie na aanpassingspremie (Wetteren)",
+        "desc": "Een extra gemeentelijke premie voor inwoners die de Vlaamse aanpassingspremie kregen om hun woning aan te passen aan het ouder worden. Niet na een Vlaamse renovatiepremie of Mijn VerbouwPremie.",
+        "deadline": "Aan te vragen zodra de Vlaamse aanpassingspremie op je rekening staat.",
+        "amount": "20% van de verkregen Vlaamse premie, minimum €250, maximum €1.250",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van de toekenningsbrief van Wonen in Vlaanderen"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van het rekeninguittreksel waaruit blijkt dat je de premie ontving"
+          }
+        ],
+        "steps": [
+          "Krijg eerst de Vlaamse aanpassingspremie en wacht tot ze gestort is",
+          "Vul het aanvraagformulier in en voeg beide kopieën toe",
+          "Bezorg het per post, aan het onthaal van het gemeentehuis of via woonenleef@wetteren.be; na de beslissing van het college volgt de betaling binnen 90 dagen"
+        ]
+      },
+      "fr": {
+        "title": "Aanvullende premie na aanpassingspremie (Complément à la prime flamande d'adaptation, Wetteren)",
+        "desc": "Une prime communale supplémentaire pour les habitants ayant reçu la prime flamande d'adaptation (aanpassingspremie) pour adapter leur logement au vieillissement. Pas après une prime flamande de rénovation ou Mijn VerbouwPremie.",
+        "deadline": "À demander dès que la prime flamande d'adaptation est versée sur votre compte.",
+        "amount": "20 % de la prime flamande reçue, minimum 250 €, maximum 1.250 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie du courrier d'octroi de Wonen in Vlaanderen"
+          },
+          {
+            "type": "doc",
+            "label": "Copie de l'extrait bancaire montrant le versement de la prime"
+          }
+        ],
+        "steps": [
+          "Obtenez d'abord la prime flamande d'adaptation et attendez son versement",
+          "Remplissez le formulaire communal et joignez les deux copies",
+          "Envoyez-le par la poste, déposez-le à l'accueil de la maison communale ou à woonenleef@wetteren.be ; après décision du collège, paiement dans les 90 jours"
+        ]
+      },
+      "de": {
+        "title": "Aanvullende premie na aanpassingspremie (Aufstockung der flämischen Anpassungsprämie, Wetteren)",
+        "desc": "Eine zusätzliche Gemeindeprämie für Einwohner, die die flämische Anpassungsprämie (aanpassingspremie) für den altersgerechten Umbau ihrer Wohnung erhalten haben. Nicht nach einer flämischen Renovierungsprämie oder Mijn VerbouwPremie.",
+        "deadline": "Beantragen, sobald die flämische Anpassungsprämie auf Ihrem Konto ist.",
+        "amount": "20 % der erhaltenen flämischen Prämie, mindestens 250 €, höchstens 1.250 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie des Bewilligungsschreibens von Wonen in Vlaanderen"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie des Kontoauszugs mit der Zahlung der Prämie"
+          }
+        ],
+        "steps": [
+          "Erhalten Sie zuerst die flämische Anpassungsprämie und warten Sie die Zahlung ab",
+          "Füllen Sie das Antragsformular aus und fügen Sie beide Kopien bei",
+          "Per Post, am Empfang des Gemeindehauses oder an woonenleef@wetteren.be; nach dem Beschluss des Kollegiums Zahlung innerhalb von 90 Tagen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 55,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Wetteren"
+    ],
+    "institution": "Lokaal Bestuur Wetteren",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.wetteren.be/gratis-vuilniszakken",
+    "content": {
+      "en": {
+        "title": "Gratis vuilniszakken (Free Waste Bags, Wetteren)",
+        "desc": "Free residual-waste bags each year for residents on the leefloon, the income guarantee for older people (IGO), the income replacement allowance for disability, or with incontinence, a stoma or home dialysis.",
+        "deadline": "From 1 January; you must be registered in Wetteren on 1 January of that year.",
+        "amount": "20 bags of 60 litres or 40 bags of 30 litres per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The certificate that proves your right: OCMW (leefloon), Federal Pension Service (IGO), FPS Social Security (income replacement allowance) or a doctor's statement"
+          }
+        ],
+        "steps": [
+          "Get the certificate that applies to you (a disability recognition alone is not enough: it must mention the income replacement allowance)",
+          "Bring it to the reception desk at the town hall from 1 January",
+          "Collect the bags there"
+        ]
+      },
+      "nl": {
+        "title": "Gratis vuilniszakken (Wetteren)",
+        "desc": "Jaarlijks gratis restafvalzakken voor inwoners met leefloon, inkomensgarantie voor ouderen (IGO), inkomensvervangende tegemoetkoming voor personen met een handicap, of met incontinentie, een stoma of thuisdialyse.",
+        "deadline": "Vanaf 1 januari; je bent op 1 januari van dat jaar in Wetteren ingeschreven.",
+        "amount": "20 zakken van 60 liter of 40 zakken van 30 liter per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het attest dat je recht bewijst: OCMW (leefloon), Federale Pensioendienst (IGO), FOD Sociale Zekerheid (inkomensvervangende tegemoetkoming) of een verklaring van de arts"
+          }
+        ],
+        "steps": [
+          "Haal het attest dat op jou van toepassing is (een attest van erkenning handicap alleen volstaat niet: de inkomensvervangende tegemoetkoming moet vermeld staan)",
+          "Breng het vanaf 1 januari naar de onthaalbalie van het gemeentehuis",
+          "Haal daar de zakken af"
+        ]
+      },
+      "fr": {
+        "title": "Gratis vuilniszakken (Sacs poubelle gratuits, Wetteren)",
+        "desc": "Des sacs pour déchets résiduels gratuits chaque année pour les habitants au revenu d'intégration (leefloon), à la garantie de revenus aux personnes âgées (GRAPA/IGO), à l'allocation de remplacement de revenus pour handicap, ou souffrant d'incontinence, de stomie ou en dialyse à domicile.",
+        "deadline": "À partir du 1er janvier ; vous devez être inscrit à Wetteren au 1er janvier de l'année.",
+        "amount": "20 sacs de 60 litres ou 40 sacs de 30 litres par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "L'attestation de votre droit : CPAS/OCMW (revenu d'intégration), Service fédéral des Pensions (GRAPA), SPF Sécurité sociale (allocation de remplacement de revenus) ou déclaration du médecin"
+          }
+        ],
+        "steps": [
+          "Procurez-vous l'attestation qui vous concerne (une simple reconnaissance de handicap ne suffit pas : l'allocation de remplacement de revenus doit y figurer)",
+          "Apportez-la à l'accueil de la maison communale à partir du 1er janvier",
+          "Retirez-y les sacs"
+        ]
+      },
+      "de": {
+        "title": "Gratis vuilniszakken (Kostenlose Müllsäcke, Wetteren)",
+        "desc": "Jährlich kostenlose Restmüllsäcke für Einwohner mit Eingliederungseinkommen (leefloon), Einkommensgarantie für Betagte (IGO), Einkommensersatzbeihilfe für Menschen mit Behinderung oder mit Inkontinenz, Stoma oder Heimdialyse.",
+        "deadline": "Ab 1. Januar; Sie müssen am 1. Januar des Jahres in Wetteren gemeldet sein.",
+        "amount": "20 Säcke à 60 Liter oder 40 Säcke à 30 Liter pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die Bescheinigung Ihres Anspruchs: ÖSHZ/OCMW (leefloon), Föderaler Pensionsdienst (IGO), FÖD Soziale Sicherheit (Einkommensersatzbeihilfe) oder ärztliche Erklärung"
+          }
+        ],
+        "steps": [
+          "Besorgen Sie die zutreffende Bescheinigung (eine Anerkennung der Behinderung allein reicht nicht: die Einkommensersatzbeihilfe muss genannt sein)",
+          "Bringen Sie sie ab 1. Januar zum Empfang des Gemeindehauses",
+          "Holen Sie dort die Säcke ab"
+        ]
+      }
+    }
+  },
+  {
+    "id": 56,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Kortrijk"
+    ],
+    "institution": "Stad Kortrijk",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.kortrijk.be/producten/thuis-in-kortrijk-premie-tik",
+    "content": {
+      "en": {
+        "title": "Thuis in Kortrijk-premie (TIK, Renovation Premium for Owner-Occupiers)",
+        "desc": "A city premium for owner-occupiers on a modest income who renovate a Kortrijk home built before 2006 (roof, windows and doors, facade, floor insulation, heat pump, first solar panels). Renovation coaching with a home visit before the works is required.",
+        "deadline": "Apply online after the works are done; invoices at most 2 years old. Open until 31 December 2031, while funds last.",
+        "amount": "30% of the cost (excl. VAT), up to €1,000 per category and €2,500 per home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Invoices from a registered contractor (max. 2 years old)"
+          },
+          {
+            "type": "doc",
+            "label": "Income within the lowest Mijn VerbouwPremie category (target group 4)"
+          }
+        ],
+        "steps": [
+          "Contact the city's renovation coaching (renovatie@kortrijk.be, 056 27 72 00) and get a home visit before the works start",
+          "Have the works done by a registered contractor",
+          "Apply online with the invoices; after the college approves, the premium is paid within 14 days"
+        ]
+      },
+      "nl": {
+        "title": "Thuis in Kortrijk-premie (TIK)",
+        "desc": "Een stadspremie voor eigenaar-bewoners met een bescheiden inkomen die een Kortrijkse woning van voor 2006 renoveren (dak, buitenschrijnwerk, gevel, vloerisolatie, warmtepomp, eerste zonnepanelen). Renovatiebegeleiding met een huisbezoek vóór de werken is verplicht.",
+        "deadline": "Online aan te vragen na de werken; facturen max. 2 jaar oud. Loopt tot 31 december 2031, zolang er middelen zijn.",
+        "amount": "30% van de kostprijs (excl. btw), max. €1.000 per categorie en €2.500 per woning",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Facturen van een erkende aannemer (max. 2 jaar oud)"
+          },
+          {
+            "type": "doc",
+            "label": "Inkomen binnen de laagste categorie van Mijn VerbouwPremie (doelgroep 4)"
+          }
+        ],
+        "steps": [
+          "Neem contact op met de renovatiebegeleiding van de stad (renovatie@kortrijk.be, 056 27 72 00) en krijg een huisbezoek vóór de start van de werken",
+          "Laat de werken uitvoeren door een erkende aannemer",
+          "Vraag online aan met de facturen; na goedkeuring door het college wordt de premie binnen 14 dagen betaald"
+        ]
+      },
+      "fr": {
+        "title": "Thuis in Kortrijk-premie (TIK, Prime rénovation propriétaires-occupants, Courtrai)",
+        "desc": "Une prime de la ville pour les propriétaires-occupants aux revenus modestes qui rénovent un logement à Courtrai construit avant 2006 (toit, menuiseries extérieures, façade, isolation du sol, pompe à chaleur, premiers panneaux solaires). Un accompagnement à la rénovation avec visite avant les travaux est obligatoire.",
+        "deadline": "À demander en ligne après les travaux ; factures de 2 ans maximum. Jusqu'au 31 décembre 2031, dans la limite des moyens.",
+        "amount": "30 % du coût (hors TVA), max. 1.000 € par catégorie et 2.500 € par logement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Factures d'un entrepreneur enregistré (2 ans maximum)"
+          },
+          {
+            "type": "doc",
+            "label": "Revenus dans la catégorie la plus basse de Mijn VerbouwPremie (groupe cible 4)"
+          }
+        ],
+        "steps": [
+          "Contactez l'accompagnement rénovation de la ville (renovatie@kortrijk.be, 056 27 72 00) et obtenez une visite avant le début des travaux",
+          "Faites réaliser les travaux par un entrepreneur enregistré",
+          "Demandez en ligne avec les factures ; après approbation du collège, paiement dans les 14 jours"
+        ]
+      },
+      "de": {
+        "title": "Thuis in Kortrijk-premie (TIK, Renovierungsprämie für Eigennutzer, Kortrijk)",
+        "desc": "Eine Stadtprämie für Eigentümer mit bescheidenem Einkommen, die eine vor 2006 gebaute Wohnung in Kortrijk renovieren (Dach, Außentüren und Fenster, Fassade, Bodendämmung, Wärmepumpe, erste Solaranlage). Eine Renovierungsbegleitung mit Hausbesuch vor den Arbeiten ist Pflicht.",
+        "deadline": "Online nach den Arbeiten beantragen; Rechnungen höchstens 2 Jahre alt. Bis 31. Dezember 2031, solange Mittel verfügbar sind.",
+        "amount": "30 % der Kosten (ohne MwSt.), höchstens 1.000 € pro Kategorie und 2.500 € pro Wohnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Rechnungen eines registrierten Unternehmers (höchstens 2 Jahre alt)"
+          },
+          {
+            "type": "doc",
+            "label": "Einkommen in der niedrigsten Kategorie der Mijn VerbouwPremie (Zielgruppe 4)"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an die Renovierungsbegleitung der Stadt (renovatie@kortrijk.be, 056 27 72 00) und erhalten Sie vor Beginn einen Hausbesuch",
+          "Lassen Sie die Arbeiten von einem registrierten Unternehmer ausführen",
+          "Beantragen Sie online mit den Rechnungen; nach Genehmigung durch das Kollegium Zahlung innerhalb von 14 Tagen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 57,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Kortrijk"
+    ],
+    "institution": "OCMW Kortrijk",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.kortrijk.be/ocmw/producten/thuiszorgtoelage",
+    "content": {
+      "en": {
+        "title": "Thuiszorgtoelage (Home Care Allowance, Kortrijk)",
+        "desc": "Monthly support for Kortrijk residents who need care and can stay at home thanks to professional help or informal carers, and who find the cost hard to bear. Several people in one household can receive it.",
+        "deadline": "Apply any time; a care worker visits within 2 weeks of the application.",
+        "amount": "€25 per month",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Right to the increased reimbursement (verhoogde tegemoetkoming) and to the Kortrijk social tariff"
+          },
+          {
+            "type": "doc",
+            "label": "Care-need score: BelRAI screener (4.5–5.4/12 ADL+IADL, 3–4/6 cognition, or 12/30) or 12–14 points of reduced self-reliance"
+          }
+        ],
+        "steps": [
+          "Check that you are 18 or over, live in Kortrijk and do not receive the Flemish care budget for severe care needs",
+          "Apply online or contact the wijkteam in your area",
+          "A care worker from your area plans a home visit within 2 weeks to check whether you qualify"
+        ]
+      },
+      "nl": {
+        "title": "Thuiszorgtoelage (Kortrijk)",
+        "desc": "Maandelijkse steun voor zorgbehoevende Kortrijkzanen die dankzij professionele hulp of mantelzorg thuis kunnen blijven wonen en de kosten moeilijk kunnen dragen. Meerdere personen per gezin kunnen ze krijgen.",
+        "deadline": "Altijd aan te vragen; een woonzorgverlener komt binnen 2 weken na de aanvraag op huisbezoek.",
+        "amount": "€25 per maand",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Recht op verhoogde tegemoetkoming en op het sociaal tarief in Kortrijk"
+          },
+          {
+            "type": "doc",
+            "label": "Zorgscore: BelRAI-screener (4,5–5,4/12 ADL+IADL, 3–4/6 cognitie of 12/30) of 12–14 punten verminderde zelfredzaamheid"
+          }
+        ],
+        "steps": [
+          "Controleer dat je minstens 18 bent, in Kortrijk woont en geen zorgbudget voor zwaar zorgbehoevenden krijgt",
+          "Vraag online aan of contacteer het wijkteam in je buurt",
+          "De woonzorgverlener plant binnen 2 weken een huisbezoek en bekijkt of je in aanmerking komt"
+        ]
+      },
+      "fr": {
+        "title": "Thuiszorgtoelage (Allocation soins à domicile, Courtrai)",
+        "desc": "Une aide mensuelle pour les habitants de Courtrai qui ont besoin de soins et peuvent rester chez eux grâce à une aide professionnelle ou des aidants proches, et qui peinent à en supporter le coût. Plusieurs personnes d'un même ménage peuvent la recevoir.",
+        "deadline": "À demander à tout moment ; un travailleur de soins passe dans les 2 semaines après la demande.",
+        "amount": "25 € par mois",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Droit à l'intervention majorée et au tarif social de Courtrai"
+          },
+          {
+            "type": "doc",
+            "label": "Score de dépendance : screener BelRAI (4,5–5,4/12 AVQ+AIVQ, 3–4/6 cognition, ou 12/30) ou 12 à 14 points de perte d'autonomie"
+          }
+        ],
+        "steps": [
+          "Vérifiez que vous avez 18 ans ou plus, habitez Courtrai et ne recevez pas le budget de soins flamand pour personnes fortement dépendantes",
+          "Demandez en ligne ou contactez l'équipe de quartier (wijkteam)",
+          "Un travailleur de soins planifie une visite dans les 2 semaines pour vérifier votre droit"
+        ]
+      },
+      "de": {
+        "title": "Thuiszorgtoelage (Zulage für häusliche Pflege, Kortrijk)",
+        "desc": "Monatliche Unterstützung für pflegebedürftige Einwohner von Kortrijk, die dank professioneller Hilfe oder pflegender Angehöriger zu Hause bleiben können und die Kosten schwer tragen. Mehrere Personen eines Haushalts können sie erhalten.",
+        "deadline": "Jederzeit beantragbar; innerhalb von 2 Wochen nach dem Antrag folgt ein Hausbesuch.",
+        "amount": "25 € pro Monat",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Anspruch auf erhöhte Kostenerstattung (verhoogde tegemoetkoming) und auf den Sozialtarif in Kortrijk"
+          },
+          {
+            "type": "doc",
+            "label": "Pflegewert: BelRAI-Screener (4,5–5,4/12 ADL+IADL, 3–4/6 Kognition oder 12/30) oder 12–14 Punkte verminderte Selbstständigkeit"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie, dass Sie mindestens 18 sind, in Kortrijk wohnen und kein flämisches Pflegebudget für schwer Pflegebedürftige erhalten",
+          "Beantragen Sie online oder wenden Sie sich an das Viertelteam (wijkteam)",
+          "Eine Pflegekraft plant innerhalb von 2 Wochen einen Hausbesuch und prüft Ihren Anspruch"
+        ]
+      }
+    }
+  },
+  {
+    "id": 58,
+    "category": "other",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Zottegem"
+    ],
+    "institution": "Stad Zottegem",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://zottegem.be/cultuur-sport-en-vrije-tijd/uitpas/premie-voor-vrijetijdsmateriaal",
+    "content": {
+      "en": {
+        "title": "Premie voor vrijetijdsmateriaal (Leisure Equipment Premium, Zottegem)",
+        "desc": "A refund on equipment for under-26s in Zottegem with a UiTPAS at the reduced (kansentarief) rate who are enrolled in an activity of a city service or recognised Zottegem club.",
+        "deadline": "Per calendar year, with a valid proof of payment.",
+        "amount": "90% of the price, up to €150 per child or young person and €500 per family per calendar year",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "UiTPAS with kansentarief"
+          },
+          {
+            "type": "doc",
+            "label": "Valid proof of payment for the equipment"
+          }
+        ],
+        "steps": [
+          "Enrol in an activity of a city service or a recognised Zottegem club",
+          "Buy the equipment and keep the receipt",
+          "Apply via the city's form for the leisure equipment premium"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor vrijetijdsmateriaal (Zottegem)",
+        "desc": "Een terugbetaling van materiaal voor -26-jarigen in Zottegem met een UiTPAS met kansentarief die ingeschreven zijn voor een activiteit van een stadsdienst of erkende Zottegemse vereniging.",
+        "deadline": "Per kalenderjaar, met een geldig betaalbewijs.",
+        "amount": "90% van de prijs, max. €150 per kind/jongere en €500 per gezin per kalenderjaar",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "UiTPAS met kansentarief"
+          },
+          {
+            "type": "doc",
+            "label": "Geldig betaalbewijs van het materiaal"
+          }
+        ],
+        "steps": [
+          "Schrijf je in voor een activiteit van een stadsdienst of erkende Zottegemse vereniging",
+          "Koop het materiaal en bewaar het betaalbewijs",
+          "Vraag de premie aan via het formulier van de stad"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor vrijetijdsmateriaal (Prime matériel de loisirs, Zottegem)",
+        "desc": "Un remboursement de matériel pour les moins de 26 ans à Zottegem titulaires d'une UiTPAS au tarif réduit (kansentarief) et inscrits à une activité d'un service de la ville ou d'une association reconnue de Zottegem.",
+        "deadline": "Par année civile, avec une preuve de paiement valable.",
+        "amount": "90 % du prix, max. 150 € par enfant ou jeune et 500 € par famille par année civile",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "UiTPAS avec kansentarief"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement valable du matériel"
+          }
+        ],
+        "steps": [
+          "Inscrivez-vous à une activité d'un service de la ville ou d'une association reconnue de Zottegem",
+          "Achetez le matériel et gardez la preuve de paiement",
+          "Demandez la prime via le formulaire de la ville"
+        ]
+      },
+      "de": {
+        "title": "Premie voor vrijetijdsmateriaal (Prämie für Freizeitmaterial, Zottegem)",
+        "desc": "Eine Erstattung von Material für unter 26-Jährige in Zottegem mit UiTPAS zum ermäßigten Tarif (kansentarief), die bei einer Aktivität eines städtischen Dienstes oder eines anerkannten Vereins in Zottegem angemeldet sind.",
+        "deadline": "Pro Kalenderjahr, mit gültigem Zahlungsbeleg.",
+        "amount": "90 % des Preises, höchstens 150 € pro Kind oder Jugendlichem und 500 € pro Familie und Kalenderjahr",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "UiTPAS mit kansentarief"
+          },
+          {
+            "type": "doc",
+            "label": "Gültiger Zahlungsbeleg für das Material"
+          }
+        ],
+        "steps": [
+          "Melden Sie sich bei einer Aktivität eines städtischen Dienstes oder eines anerkannten Vereins in Zottegem an",
+          "Kaufen Sie das Material und bewahren Sie den Beleg auf",
+          "Beantragen Sie die Prämie mit dem Formular der Stadt"
+        ]
+      }
+    }
+  },
+  {
+    "id": 59,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Roeselare"
+    ],
+    "institution": "Stad Roeselare (Welzijnshuis)",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.roeselare.be/nl/zorg-opvang-en-sociale-hulp/zorgondersteuning-en-subsidies/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Informal Carer Premium, Roeselare)",
+        "desc": "A premium for adults who care, unpaid, for a Roeselare resident aged 18 or over who receives the Flemish care budget for severe care needs and does not live permanently in a care home.",
+        "deadline": "The premium starts from the date your application reaches the city; the care fund must already have granted the care budget by then.",
+        "amount": "€15 per month, paid once a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The care fund's decision granting the care budget for severe care needs (zorgbudget voor zwaar zorgbehoevenden)"
+          }
+        ],
+        "steps": [
+          "Make sure the person you care for has the Flemish care budget for severe care needs",
+          "Apply to the city's Welzijnshuis (Gasthuisstraat 10, 051 80 59 00) with the care fund's decision",
+          "Report any change in your situation; it cannot be combined with the city's social-pedagogical allowance"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Roeselare)",
+        "desc": "Een premie voor volwassenen die onbetaald zorgen voor een Roeselarenaar van minstens 18 jaar die het zorgbudget voor zwaar zorgbehoevenden krijgt en niet permanent in een woonzorgcentrum verblijft.",
+        "deadline": "De premie start vanaf de datum waarop je aanvraag bij de stad toekomt; de zorgkas moet dan al beslist hebben over het zorgbudget.",
+        "amount": "€15 per maand, één keer per jaar uitbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Beslissing van de zorgkas over het recht op het zorgbudget voor zwaar zorgbehoevenden"
+          }
+        ],
+        "steps": [
+          "Zorg dat de zorgbehoevende het zorgbudget voor zwaar zorgbehoevenden krijgt",
+          "Vraag aan bij het Welzijnshuis (Gasthuisstraat 10, 051 80 59 00) met de beslissing van de zorgkas",
+          "Meld elke wijziging; niet te combineren met de sociaal-pedagogische toelage van de stad"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (Prime aidant proche, Roulers)",
+        "desc": "Une prime pour les adultes qui s'occupent bénévolement d'un habitant de Roulers de 18 ans ou plus bénéficiant du budget de soins flamand pour personnes fortement dépendantes et ne vivant pas en permanence en maison de repos.",
+        "deadline": "La prime court à partir de la date de réception de la demande par la ville ; la caisse de soins doit déjà avoir accordé le budget de soins.",
+        "amount": "15 € par mois, versés une fois par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Décision de la caisse de soins accordant le budget de soins pour personnes fortement dépendantes (zorgbudget voor zwaar zorgbehoevenden)"
+          }
+        ],
+        "steps": [
+          "Assurez-vous que la personne aidée reçoit le budget de soins flamand pour personnes fortement dépendantes",
+          "Demandez au Welzijnshuis de la ville (Gasthuisstraat 10, 051 80 59 00) avec la décision de la caisse de soins",
+          "Signalez tout changement ; non cumulable avec l'allocation socio-pédagogique de la ville"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Roeselare)",
+        "desc": "Eine Prämie für Erwachsene, die unbezahlt einen Einwohner von Roeselare ab 18 Jahren pflegen, der das flämische Pflegebudget für schwer Pflegebedürftige erhält und nicht dauerhaft in einem Pflegeheim lebt.",
+        "deadline": "Die Prämie läuft ab dem Eingang Ihres Antrags bei der Stadt; die Pflegekasse muss das Pflegebudget dann schon bewilligt haben.",
+        "amount": "15 € pro Monat, einmal jährlich ausgezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Entscheidung der Pflegekasse über das Pflegebudget für schwer Pflegebedürftige (zorgbudget voor zwaar zorgbehoevenden)"
+          }
+        ],
+        "steps": [
+          "Stellen Sie sicher, dass die gepflegte Person das Pflegebudget für schwer Pflegebedürftige erhält",
+          "Beantragen Sie beim Welzijnshuis der Stadt (Gasthuisstraat 10, 051 80 59 00) mit der Entscheidung der Pflegekasse",
+          "Melden Sie jede Änderung; nicht kombinierbar mit der sozialpädagogischen Zulage der Stadt"
+        ]
+      }
+    }
+  },
+  {
+    "id": 60,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Roeselare"
+    ],
+    "institution": "Stad Roeselare (Welzijnshuis)",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.roeselare.be/nl/zorg-opvang-en-sociale-hulp/zorgondersteuning-en-premies/toelage-restafvalzakken-bij-incontinentie",
+    "content": {
+      "en": {
+        "title": "Toelage restafvalzakken (Waste Bag Allowance for Incontinence or Dialysis, Roeselare)",
+        "desc": "A yearly allowance towards extra waste bags for Roeselare residents cared for at home who have a definitive incontinence diagnosis or do home dialysis, and who have the increased reimbursement from their health fund.",
+        "deadline": "Yearly.",
+        "amount": "€35 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form filled in by your GP"
+          },
+          {
+            "type": "card",
+            "label": "Certificate of increased reimbursement (verhoogde tegemoetkoming)"
+          }
+        ],
+        "steps": [
+          "Ask your GP to fill in the application form",
+          "Make an appointment at the Welzijnshuis (Gasthuisstraat 10, 051 80 59 00)",
+          "Bring the form and the certificate of increased reimbursement"
+        ]
+      },
+      "nl": {
+        "title": "Toelage restafvalzakken bij incontinentie of dialyse (Roeselare)",
+        "desc": "Een jaarlijkse toelage voor extra restafvalzakken voor thuis verzorgde Roeselarenaars met een definitieve erkenning van incontinentie of thuisdialyse, en met recht op verhoogde tegemoetkoming van het ziekenfonds.",
+        "deadline": "Jaarlijks.",
+        "amount": "€35 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier ingevuld door je huisarts"
+          },
+          {
+            "type": "card",
+            "label": "Attest verhoogde tegemoetkoming"
+          }
+        ],
+        "steps": [
+          "Vraag je huisarts het aanvraagformulier in te vullen",
+          "Maak een afspraak bij het Welzijnshuis (Gasthuisstraat 10, 051 80 59 00)",
+          "Breng het formulier en het attest verhoogde tegemoetkoming mee"
+        ]
+      },
+      "fr": {
+        "title": "Toelage restafvalzakken (Allocation sacs poubelle incontinence ou dialyse, Roulers)",
+        "desc": "Une allocation annuelle pour des sacs poubelle supplémentaires pour les habitants de Roulers soignés à domicile, avec un diagnostic définitif d'incontinence ou en dialyse à domicile, et bénéficiant de l'intervention majorée de leur mutualité.",
+        "deadline": "Chaque année.",
+        "amount": "35 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété par votre médecin généraliste"
+          },
+          {
+            "type": "card",
+            "label": "Attestation d'intervention majorée"
+          }
+        ],
+        "steps": [
+          "Demandez à votre médecin généraliste de compléter le formulaire",
+          "Prenez rendez-vous au Welzijnshuis (Gasthuisstraat 10, 051 80 59 00)",
+          "Apportez le formulaire et l'attestation d'intervention majorée"
+        ]
+      },
+      "de": {
+        "title": "Toelage restafvalzakken (Müllsackzulage bei Inkontinenz oder Dialyse, Roeselare)",
+        "desc": "Eine jährliche Zulage für zusätzliche Restmüllsäcke für zu Hause gepflegte Einwohner von Roeselare mit endgültiger Inkontinenzdiagnose oder Heimdialyse und mit erhöhter Kostenerstattung der Krankenkasse.",
+        "deadline": "Jährlich.",
+        "amount": "35 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vom Hausarzt ausgefülltes Antragsformular"
+          },
+          {
+            "type": "card",
+            "label": "Bescheinigung der erhöhten Kostenerstattung (verhoogde tegemoetkoming)"
+          }
+        ],
+        "steps": [
+          "Lassen Sie Ihren Hausarzt das Antragsformular ausfüllen",
+          "Vereinbaren Sie einen Termin im Welzijnshuis (Gasthuisstraat 10, 051 80 59 00)",
+          "Bringen Sie das Formular und die Bescheinigung mit"
+        ]
+      }
+    }
+  },
+  {
+    "id": 61,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "46021"
+    ],
+    "institution": "Stad Sint-Niklaas",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.sint-niklaas.be/onze-dienstverlening/gezondheid-en-zorg/stedelijke-mantelzorgpremie-voor-mantelzorgers-van-inwonende-ouderen-met-een-zorgbehoefte",
+    "content": {
+      "en": {
+        "title": "Stedelijke mantelzorgpremie (City Carer Premium, Sint-Niklaas)",
+        "desc": "A yearly premium for carers who give long-term, unpaid care at home to their partner, or to a person aged 65 or over who lives at the same address. Not the same as the Flemish care budget (€140 a month), which you can also claim.",
+        "deadline": "Apply every year between 1 January and 31 December, for the care given in the previous year. After the first time, the form arrives by post each year.",
+        "amount": "Up to €300 a year when caring for a partner (4 × €75); up to €500 a year when caring for an older person living with you (4 × €125)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form (partners, or older people living with you)"
+          },
+          {
+            "type": "doc",
+            "label": "The certificates listed on the form (care need and income conditions are in the city regulation)"
+          }
+        ],
+        "steps": [
+          "Download the 2026 form for your situation or pick it up at the welzijnshuis",
+          "Add the certificates the form asks for",
+          "Hand it in at the welzijnshuis reception desk"
+        ]
+      },
+      "nl": {
+        "title": "Stedelijke mantelzorgpremie (Sint-Niklaas)",
+        "desc": "Een jaarlijkse premie voor mantelzorgers die langdurig en onbetaald thuiszorg geven aan hun partner of aan een 65-plusser die op hetzelfde adres woont. Niet te verwarren met het Vlaamse zorgbudget (€140 per maand), dat je ook kan krijgen.",
+        "deadline": "Jaarlijks aan te vragen tussen 1 januari en 31 december, voor de zorg van het vorige jaar. Na de eerste keer krijg je het formulier elk jaar in de bus.",
+        "amount": "Max. €300 per jaar voor de zorg voor je partner (4 × €75); max. €500 per jaar voor een inwonende oudere (4 × €125)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier (partners, of inwonende ouderen)"
+          },
+          {
+            "type": "doc",
+            "label": "De attesten die op het formulier staan (zorgbehoefte en inkomensvoorwaarden staan in het stedelijk reglement)"
+          }
+        ],
+        "steps": [
+          "Download het formulier 2026 voor jouw situatie of haal het af in het welzijnshuis",
+          "Voeg de gevraagde attesten toe",
+          "Dien het in aan de onthaalbalie van het welzijnshuis"
+        ]
+      },
+      "fr": {
+        "title": "Stedelijke mantelzorgpremie (Prime communale aidant proche, Saint-Nicolas)",
+        "desc": "Une prime annuelle pour les aidants qui apportent à domicile des soins durables et bénévoles à leur partenaire, ou à une personne de 65 ans ou plus vivant à la même adresse. À ne pas confondre avec le budget de soins flamand (140 € par mois), auquel vous pouvez aussi avoir droit.",
+        "deadline": "À demander chaque année entre le 1er janvier et le 31 décembre, pour les soins de l'année précédente. Après la première fois, le formulaire arrive chaque année par la poste.",
+        "amount": "Max. 300 € par an pour votre partenaire (4 × 75 €) ; max. 500 € par an pour une personne âgée vivant chez vous (4 × 125 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande (partenaires, ou personnes âgées cohabitantes)"
+          },
+          {
+            "type": "doc",
+            "label": "Les attestations mentionnées sur le formulaire (besoin de soins et conditions de revenus dans le règlement communal)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire 2026 correspondant ou retirez-le au welzijnshuis",
+          "Joignez les attestations demandées",
+          "Déposez-le à l'accueil du welzijnshuis"
+        ]
+      },
+      "de": {
+        "title": "Stedelijke mantelzorgpremie (Städtische Prämie für pflegende Angehörige, Sint-Niklaas)",
+        "desc": "Eine jährliche Prämie für pflegende Angehörige, die ihren Partner oder eine Person ab 65 Jahren an derselben Adresse langfristig und unbezahlt zu Hause pflegen. Nicht zu verwechseln mit dem flämischen Pflegebudget (140 € pro Monat), das Sie ebenfalls erhalten können.",
+        "deadline": "Jährlich zwischen 1. Januar und 31. Dezember für die Pflege des Vorjahres beantragen. Nach dem ersten Mal kommt das Formular jedes Jahr per Post.",
+        "amount": "Höchstens 300 € pro Jahr für die Pflege des Partners (4 × 75 €); höchstens 500 € pro Jahr für eine mitwohnende ältere Person (4 × 125 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular (Partner oder mitwohnende ältere Personen)"
+          },
+          {
+            "type": "doc",
+            "label": "Die auf dem Formular genannten Bescheinigungen (Pflegebedarf und Einkommensbedingungen in der städtischen Regelung)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular 2026 für Ihre Situation herunter oder holen Sie es im welzijnshuis ab",
+          "Fügen Sie die geforderten Bescheinigungen bei",
+          "Geben Sie es am Empfang des welzijnshuis ab"
+        ]
+      }
+    }
+  },
+  {
+    "id": 62,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Dendermonde"
+    ],
+    "institution": "Stad Dendermonde",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.dendermonde.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Informal Carer Premium, Dendermonde)",
+        "desc": "A yearly premium for an adult family member, friend or neighbour who gives long-term unpaid care at home to a Dendermonde resident aged 18 or over who needs help with daily life. One carer per care situation.",
+        "deadline": "Apply between 1 February and 31 July; apply again every year. Paid in the 2nd or 3rd quarter.",
+        "amount": "€150 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Signed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of care need: care budget for severe care needs, 9 points of reduced self-care (FPS Social Security), or a BelRAI score of 11 (or 3.5 ADL+IADL)"
+          }
+        ],
+        "steps": [
+          "Check that the person you care for has lived in Dendermonde for at least 3 months and does not receive a personal assistance budget, increased child benefit or the city's premium for raising a child with care needs",
+          "Fill in the form and add one of the certificates",
+          "Hand it in at the Sociaal Huis (Gentsesteenweg 1) or a local service centre (Zilverpand, Zonnebloem, 't Plein)"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Dendermonde)",
+        "desc": "Een jaarlijkse premie voor een volwassen familielid, vriend, kennis of buur die langdurig en onbezoldigd thuiszorg geeft aan een Dendermondenaar van minstens 18 jaar die hulp nodig heeft in het dagelijks leven. Eén mantelzorger per zorgsituatie.",
+        "deadline": "Aan te vragen van 1 februari tot en met 31 juli; elk jaar opnieuw. Uitbetaling in het 2de of 3de kwartaal.",
+        "amount": "€150 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld en ondertekend aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van zorgbehoefte: zorgbudget voor zwaar zorgbehoevenden, 9 punten verminderd zelfzorgvermogen (FOD Sociale Zekerheid) of BelRAI-score van 11 (of 3,5 som ADL+IADL)"
+          }
+        ],
+        "steps": [
+          "Controleer dat de zorgbehoevende minstens 3 maanden in Dendermonde ingeschreven is en geen persoonlijk assistentiebudget, verhoogde kinderbijslag of premie thuis opvoeden kind met zorgbehoefte krijgt",
+          "Vul het formulier in en voeg een van de attesten toe",
+          "Bezorg het aan het Sociaal Huis (Gentsesteenweg 1) of een lokaal dienstencentrum (Zilverpand, Zonnebloem, 't Plein)"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (Prime aidant proche, Termonde)",
+        "desc": "Une prime annuelle pour un membre de la famille, ami ou voisin adulte qui apporte des soins durables et non rémunérés à domicile à un habitant de Termonde de 18 ans ou plus ayant besoin d'aide au quotidien. Un seul aidant par situation de soins.",
+        "deadline": "À demander du 1er février au 31 juillet ; à renouveler chaque année. Paiement au 2e ou 3e trimestre.",
+        "amount": "150 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve du besoin de soins : budget de soins pour personnes fortement dépendantes, 9 points de perte d'autonomie (SPF Sécurité sociale) ou score BelRAI de 11 (ou 3,5 AVQ+AIVQ)"
+          }
+        ],
+        "steps": [
+          "Vérifiez que la personne aidée est inscrite à Termonde depuis au moins 3 mois et ne reçoit ni budget d'assistance personnelle, ni allocations familiales majorées, ni la prime communale pour l'éducation à domicile d'un enfant ayant des besoins de soins",
+          "Remplissez le formulaire et joignez une des attestations",
+          "Déposez-le au Sociaal Huis (Gentsesteenweg 1) ou dans un centre de services local (Zilverpand, Zonnebloem, 't Plein)"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Dendermonde)",
+        "desc": "Eine jährliche Prämie für ein erwachsenes Familienmitglied, einen Freund oder Nachbarn, der einen Einwohner von Dendermonde ab 18 Jahren mit Hilfebedarf im Alltag langfristig und unbezahlt zu Hause pflegt. Eine Pflegeperson pro Pflegesituation.",
+        "deadline": "Vom 1. Februar bis 31. Juli beantragen; jedes Jahr neu. Auszahlung im 2. oder 3. Quartal.",
+        "amount": "150 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes und unterschriebenes Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis des Pflegebedarfs: Pflegebudget für schwer Pflegebedürftige, 9 Punkte verminderte Selbstversorgung (FÖD Soziale Sicherheit) oder BelRAI-Wert 11 (oder 3,5 ADL+IADL)"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie, dass die gepflegte Person seit mindestens 3 Monaten in Dendermonde gemeldet ist und kein persönliches Assistenzbudget, kein erhöhtes Kindergeld und keine städtische Prämie für die Erziehung eines Kindes mit Pflegebedarf erhält",
+          "Füllen Sie das Formular aus und fügen Sie eine der Bescheinigungen bei",
+          "Geben Sie es im Sociaal Huis (Gentsesteenweg 1) oder einem lokalen Dienstleistungszentrum ab (Zilverpand, Zonnebloem, 't Plein)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 63,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Knokke-Heist"
+    ],
+    "institution": "Gemeente Knokke-Heist",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.knokke-heist.be/geboorte-en-overlijden/gemeentelijke-geboortepremie",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke geboortepremie (Birth Premium, Knokke-Heist)",
+        "desc": "A one-off premium for families registered in Knokke-Heist on the child's date of birth, and for parents who adopt a child under 10 who never received a birth premium. Also granted for a stillborn child whose certificate was registered.",
+        "deadline": "Apply within 6 months of the birth.",
+        "amount": "€150",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Parent's identity card"
+          }
+        ],
+        "steps": [
+          "Make an appointment with Burgerzaken to apply for the birth premium (050 63 02 94, burgerzaken@knokke-heist.be)",
+          "Apply within 6 months of the birth",
+          "The premium is paid by the municipality"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke geboortepremie (Knokke-Heist)",
+        "desc": "Een eenmalige premie voor gezinnen die op de geboortedatum in Knokke-Heist ingeschreven zijn, en voor ouders die een kind jonger dan 10 jaar adopteren waarvoor nog nooit een geboortepremie betaald werd. Ook voor een doodgeboren kind waarvan de akte ingeschreven werd.",
+        "deadline": "Aan te vragen binnen 6 maanden na de geboorte.",
+        "amount": "€150",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Identiteitskaart van de ouder"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak bij Burgerzaken voor de aanvraag van de geboortepremie (050 63 02 94, burgerzaken@knokke-heist.be)",
+          "Vraag aan binnen 6 maanden na de geboorte",
+          "De gemeente betaalt de premie uit"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke geboortepremie (Prime de naissance, Knokke-Heist)",
+        "desc": "Une prime unique pour les familles inscrites à Knokke-Heist à la date de naissance de l'enfant, et pour les parents qui adoptent un enfant de moins de 10 ans n'ayant jamais reçu de prime de naissance. Aussi pour un enfant mort-né dont l'acte a été inscrit.",
+        "deadline": "À demander dans les 6 mois suivant la naissance.",
+        "amount": "150 €",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Carte d'identité du parent"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous au service Burgerzaken pour demander la prime (050 63 02 94, burgerzaken@knokke-heist.be)",
+          "Demandez-la dans les 6 mois après la naissance",
+          "La commune verse la prime"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke geboortepremie (Geburtsprämie, Knokke-Heist)",
+        "desc": "Eine einmalige Prämie für Familien, die am Geburtsdatum in Knokke-Heist gemeldet sind, und für Eltern, die ein Kind unter 10 Jahren adoptieren, für das noch nie eine Geburtsprämie gezahlt wurde. Auch für ein totgeborenes Kind, dessen Urkunde eingetragen wurde.",
+        "deadline": "Innerhalb von 6 Monaten nach der Geburt beantragen.",
+        "amount": "150 €",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Personalausweis des Elternteils"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin bei Burgerzaken für den Antrag (050 63 02 94, burgerzaken@knokke-heist.be)",
+          "Beantragen Sie innerhalb von 6 Monaten nach der Geburt",
+          "Die Gemeinde zahlt die Prämie aus"
+        ]
+      }
+    }
+  },
+  {
+    "id": 64,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Blankenberge"
+    ],
+    "institution": "Stad Blankenberge",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.blankenberge.be/Geboortepremie",
+    "content": {
+      "en": {
+        "title": "Geboortepremie (Birth Premium, Blankenberge)",
+        "desc": "A one-off premium for each birth or adoption, paid to the parent with whom the child is registered in Blankenberge. Also for an adopted child under 18 who never received one, and for a stillborn child.",
+        "deadline": "Apply within 3 months of the birth or adoption.",
+        "amount": "€125",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form you receive after registering the birth or adoption"
+          }
+        ],
+        "steps": [
+          "Register the birth; the city then sends you the application form",
+          "Return the completed form to Burgerzaken (J.F. Kennedyplein 1)",
+          "The premium is paid into your account (after deducting any debts to the city)"
+        ]
+      },
+      "nl": {
+        "title": "Geboortepremie (Blankenberge)",
+        "desc": "Een eenmalige premie voor elke geboorte of adoptie, voor de ouder bij wie het kind in Blankenberge gedomicilieerd is. Ook voor een geadopteerd kind jonger dan 18 jaar waarvoor nog nooit een premie betaald werd, en voor een doodgeboren kind.",
+        "deadline": "Aan te vragen binnen 3 maanden na de geboorte of adoptie.",
+        "amount": "€125",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier dat je na de geboorteaangifte of adoptie krijgt"
+          }
+        ],
+        "steps": [
+          "Doe aangifte van de geboorte; je krijgt daarna het aanvraagformulier",
+          "Bezorg het ingevulde formulier aan de dienst Burgerzaken (J.F. Kennedyplein 1)",
+          "De premie wordt op je rekening gestort (na verrekening van eventuele openstaande schulden bij de stad)"
+        ]
+      },
+      "fr": {
+        "title": "Geboortepremie (Prime de naissance, Blankenberge)",
+        "desc": "Une prime unique pour chaque naissance ou adoption, versée au parent chez qui l'enfant est domicilié à Blankenberge. Aussi pour un enfant adopté de moins de 18 ans n'en ayant jamais reçu, et pour un enfant mort-né.",
+        "deadline": "À demander dans les 3 mois suivant la naissance ou l'adoption.",
+        "amount": "125 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande reçu après la déclaration de naissance ou l'adoption"
+          }
+        ],
+        "steps": [
+          "Déclarez la naissance ; la ville vous envoie ensuite le formulaire",
+          "Renvoyez le formulaire complété au service Burgerzaken (J.F. Kennedyplein 1)",
+          "La prime est versée sur votre compte (après déduction d'éventuelles dettes envers la ville)"
+        ]
+      },
+      "de": {
+        "title": "Geboortepremie (Geburtsprämie, Blankenberge)",
+        "desc": "Eine einmalige Prämie für jede Geburt oder Adoption, gezahlt an den Elternteil, bei dem das Kind in Blankenberge gemeldet ist. Auch für ein adoptiertes Kind unter 18 Jahren, für das noch keine Prämie gezahlt wurde, und für ein totgeborenes Kind.",
+        "deadline": "Innerhalb von 3 Monaten nach Geburt oder Adoption beantragen.",
+        "amount": "125 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, das Sie nach der Geburtsanmeldung oder Adoption erhalten"
+          }
+        ],
+        "steps": [
+          "Melden Sie die Geburt an; die Stadt schickt Ihnen danach das Formular",
+          "Senden Sie das ausgefüllte Formular an Burgerzaken (J.F. Kennedyplein 1)",
+          "Die Prämie wird auf Ihr Konto überwiesen (nach Verrechnung offener Schulden bei der Stadt)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 65,
+    "category": "other",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Blankenberge"
+    ],
+    "institution": "Stad Blankenberge (Sociaal Huis)",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.blankenberge.be/vrijetijdstoelage",
+    "content": {
+      "en": {
+        "title": "Vrijetijdstoelage (Leisure Allowance, Blankenberge)",
+        "desc": "A yearly allowance from the Sociaal Huis for leisure costs: tickets, day trips, camps in Belgium, school trips, club and library memberships, a non-electric bike, or equipment for club activities. For activities where you cannot use the UiTPAS reduced rate. The conditions are in the Sociaal Infopunt brochure.",
+        "deadline": "Once a year.",
+        "amount": "Up to €250 a year for children and young people in school (up to age 25); up to €50 a year for adults",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of participation from the organiser or club, and purchase receipts"
+          },
+          {
+            "type": "card",
+            "label": "Bank statement of the purchase and a copy of your bank card"
+          }
+        ],
+        "steps": [
+          "Check the conditions in the Sociaal Infopunt brochure or ask the Sociaal Huis (Kerkstraat 155, 050 235 800)",
+          "Keep proof of participation and receipts",
+          "Bring them to the Sociaal Huis to apply"
+        ]
+      },
+      "nl": {
+        "title": "Vrijetijdstoelage (Blankenberge)",
+        "desc": "Een jaarlijkse toelage van het Sociaal Huis voor vrijetijdskosten: tickets, uitstappen, kampen in België, schooluitstappen, lidmaatschap van clubs en bibliotheek, een niet-elektrische fiets of materiaal voor clubactiviteiten. Voor activiteiten waar je de UiTPAS met kansentarief niet kan gebruiken. De voorwaarden staan in de brochure Sociaal Infopunt.",
+        "deadline": "Eén keer per jaar.",
+        "amount": "Max. €250 per jaar voor minderjarige en/of schoolgaande kinderen en jongeren (tot 25 jaar); max. €50 per jaar voor volwassenen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van deelname van de organisator of vereniging, en aankoopbewijzen"
+          },
+          {
+            "type": "card",
+            "label": "Rekeninguittreksel van de aankoop en een kopie van je bankkaart"
+          }
+        ],
+        "steps": [
+          "Bekijk de voorwaarden in de brochure Sociaal Infopunt of vraag het Sociaal Huis (Kerkstraat 155, 050 235 800)",
+          "Bewaar het bewijs van deelname en de aankoopbewijzen",
+          "Breng ze mee naar het Sociaal Huis om aan te vragen"
+        ]
+      },
+      "fr": {
+        "title": "Vrijetijdstoelage (Allocation loisirs, Blankenberge)",
+        "desc": "Une allocation annuelle du Sociaal Huis pour les frais de loisirs : billets, excursions, camps en Belgique, voyages scolaires, cotisations de clubs et bibliothèque, vélo non électrique ou matériel pour les activités de club. Pour les activités où le tarif réduit UiTPAS n'est pas utilisable. Les conditions figurent dans la brochure Sociaal Infopunt.",
+        "deadline": "Une fois par an.",
+        "amount": "Max. 250 € par an pour les enfants et jeunes mineurs et/ou scolarisés (jusqu'à 25 ans) ; max. 50 € par an pour les adultes",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve de participation de l'organisateur ou du club, et preuves d'achat"
+          },
+          {
+            "type": "card",
+            "label": "Extrait bancaire de l'achat et copie de votre carte bancaire"
+          }
+        ],
+        "steps": [
+          "Consultez les conditions dans la brochure Sociaal Infopunt ou au Sociaal Huis (Kerkstraat 155, 050 235 800)",
+          "Conservez la preuve de participation et les preuves d'achat",
+          "Apportez-les au Sociaal Huis pour la demande"
+        ]
+      },
+      "de": {
+        "title": "Vrijetijdstoelage (Freizeitzulage, Blankenberge)",
+        "desc": "Eine jährliche Zulage des Sociaal Huis für Freizeitkosten: Eintrittskarten, Ausflüge, Lager in Belgien, Schulausflüge, Vereins- und Bibliotheksbeiträge, ein Fahrrad ohne Motor oder Material für Vereinsaktivitäten. Für Aktivitäten, bei denen der ermäßigte UiTPAS-Tarif nicht nutzbar ist. Die Bedingungen stehen in der Broschüre Sociaal Infopunt.",
+        "deadline": "Einmal pro Jahr.",
+        "amount": "Höchstens 250 € pro Jahr für minderjährige und/oder schulpflichtige Kinder und Jugendliche (bis 25 Jahre); höchstens 50 € pro Jahr für Erwachsene",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Teilnahmebescheinigung des Veranstalters oder Vereins und Kaufbelege"
+          },
+          {
+            "type": "card",
+            "label": "Kontoauszug des Kaufs und Kopie Ihrer Bankkarte"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie die Bedingungen in der Broschüre Sociaal Infopunt oder fragen Sie im Sociaal Huis (Kerkstraat 155, 050 235 800)",
+          "Bewahren Sie Teilnahmebescheinigung und Kaufbelege auf",
+          "Bringen Sie sie zum Antrag ins Sociaal Huis"
+        ]
+      }
+    }
+  },
+  {
+    "id": 66,
+    "category": "housing",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Antwerpen"
+    ],
+    "institution": "Stad Antwerpen (Loket Wonen en Energie)",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.antwerpen.be/product/premie-voor-periodiek-onderhoud-ketel",
+    "content": {
+      "en": {
+        "title": "Premie voor periodiek onderhoud ketel (Boiler Maintenance Premium, Antwerp)",
+        "desc": "A city premium for Antwerp residents who meet the income conditions of the Mijn Energiescan (or are in debt counselling with the city/OCMW within Mijn VerbouwPremie category 3) and have their heating boiler serviced. Woonhaven social tenants are not eligible.",
+        "deadline": "First get a free Mijn Energiescan home visit; apply within one year of the maintenance invoice date, or you lose the premium.",
+        "amount": "Up to €192 in 2026 (may be indexed)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Maintenance invoice in your name and address"
+          },
+          {
+            "type": "doc",
+            "label": "Cleaning and combustion certificate from a recognised technician"
+          }
+        ],
+        "steps": [
+          "Request a free Mijn Energiescan at home via the city's e-counter",
+          "Have a recognised technician service your boiler",
+          "Apply with the e-form within a year of the invoice; you hear within 30 days (lwe@antwerpen.be, 03 338 60 66)"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor periodiek onderhoud ketel (Antwerpen)",
+        "desc": "Een stadspremie voor Antwerpenaren die voldoen aan de inkomensvoorwaarden van de Mijn Energiescan (of schuldhulpverlening volgen bij stad/OCMW binnen categorie 3 van Mijn VerbouwPremie) en hun verwarmingsketel laten onderhouden. Sociale huurders van Woonhaven komen niet in aanmerking.",
+        "deadline": "Eerst een gratis Mijn Energiescan aan huis; aanvragen binnen het jaar na de factuurdatum van het onderhoud, anders mis je de premie.",
+        "amount": "Max. €192 in 2026 (indexatie mogelijk)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Factuur van het onderhoud op jouw naam en adres"
+          },
+          {
+            "type": "doc",
+            "label": "Reinigings- en verbrandingsattest van een erkende technicus"
+          }
+        ],
+        "steps": [
+          "Vraag een gratis Mijn Energiescan aan huis aan via het e-loket",
+          "Laat een erkende technicus je ketel onderhouden",
+          "Vraag aan met het e-formulier binnen het jaar na de factuur; je hoort binnen 30 dagen (lwe@antwerpen.be, 03 338 60 66)"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor periodiek onderhoud ketel (Prime entretien de chaudière, Anvers)",
+        "desc": "Une prime de la ville pour les habitants d'Anvers qui remplissent les conditions de revenus du Mijn Energiescan (ou suivent une médiation de dettes auprès de la ville/CPAS dans la catégorie 3 de Mijn VerbouwPremie) et font entretenir leur chaudière. Les locataires sociaux de Woonhaven ne sont pas éligibles.",
+        "deadline": "D'abord une visite gratuite Mijn Energiescan ; demande dans l'année suivant la date de la facture d'entretien, sinon la prime est perdue.",
+        "amount": "Max. 192 € en 2026 (indexation possible)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Facture d'entretien à votre nom et adresse"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de nettoyage et de combustion d'un technicien agréé"
+          }
+        ],
+        "steps": [
+          "Demandez un Mijn Energiescan gratuit à domicile via le guichet en ligne",
+          "Faites entretenir votre chaudière par un technicien agréé",
+          "Demandez via le formulaire en ligne dans l'année suivant la facture ; réponse sous 30 jours (lwe@antwerpen.be, 03 338 60 66)"
+        ]
+      },
+      "de": {
+        "title": "Premie voor periodiek onderhoud ketel (Prämie für Heizkesselwartung, Antwerpen)",
+        "desc": "Eine Stadtprämie für Einwohner von Antwerpen, die die Einkommensbedingungen des Mijn Energiescan erfüllen (oder bei Stadt/ÖSHZ in Schuldnerberatung sind innerhalb Kategorie 3 der Mijn VerbouwPremie) und ihren Heizkessel warten lassen. Sozialmieter von Woonhaven sind ausgeschlossen.",
+        "deadline": "Zuerst ein kostenloser Mijn Energiescan zu Hause; Antrag innerhalb eines Jahres nach dem Rechnungsdatum der Wartung, sonst entfällt die Prämie.",
+        "amount": "Höchstens 192 € im Jahr 2026 (Indexierung möglich)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Wartungsrechnung auf Ihren Namen und Ihre Adresse"
+          },
+          {
+            "type": "doc",
+            "label": "Reinigungs- und Verbrennungsbescheinigung eines anerkannten Technikers"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie einen kostenlosen Mijn Energiescan über den Online-Schalter",
+          "Lassen Sie den Kessel von einem anerkannten Techniker warten",
+          "Beantragen Sie mit dem Online-Formular innerhalb eines Jahres nach der Rechnung; Antwort binnen 30 Tagen (lwe@antwerpen.be, 03 338 60 66)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 67,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "Bruxelles"
+    ],
+    "institution": "Ville de Bruxelles",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.bruxelles.be/prime-langes-lavables",
+    "content": {
+      "en": {
+        "title": "Prime langes lavables (Washable Nappies Premium, City of Brussels)",
+        "desc": "A premium for buying washable nappies or using a nappy rental and washing service, for the parent or guardian of a child registered in the City of Brussels. Accessories and delivery are not covered. One application per five years.",
+        "deadline": "Within 3 months of the purchase or of signing the rental contract.",
+        "amount": "€100 per child (doubled for twins)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copies of the purchase or rental invoices, and proof they were paid"
+          },
+          {
+            "type": "doc",
+            "label": "Birth certificate extract, household composition, pregnancy certificate (max. 3 months before the due date) or adoption certificate"
+          }
+        ],
+        "steps": [
+          "Buy or rent washable nappies (several invoices can be combined)",
+          "Fill in the application form",
+          "Email it with the documents to urb.primes@brucity.be within 3 months (02 279 33 10)"
+        ]
+      },
+      "nl": {
+        "title": "Prime langes lavables (Premie herbruikbare luiers, Stad Brussel)",
+        "desc": "Een premie voor de aankoop van herbruikbare luiers of een huur- en wasdienst, voor de ouder of voogd van een kind dat in de Stad Brussel gedomicilieerd is. Accessoires en levering tellen niet mee. Eén aanvraag per vijf jaar.",
+        "deadline": "Binnen 3 maanden na de aankoop of de ondertekening van het huurcontract.",
+        "amount": "€100 per kind (verdubbeld bij een tweeling)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van de aankoop- of huurfacturen en bewijs van betaling"
+          },
+          {
+            "type": "doc",
+            "label": "Uittreksel uit de geboorteakte, gezinssamenstelling, zwangerschapsattest (max. 3 maanden voor de uitgerekende datum) of adoptieattest"
+          }
+        ],
+        "steps": [
+          "Koop of huur herbruikbare luiers (meerdere facturen mogen samen)",
+          "Vul het aanvraagformulier in",
+          "Mail het met de documenten naar urb.primes@brucity.be binnen 3 maanden (02 279 33 10)"
+        ]
+      },
+      "fr": {
+        "title": "Prime langes lavables (Ville de Bruxelles)",
+        "desc": "Une prime pour l'achat de langes lavables ou un service de location (ramassage et nettoyage), pour le parent ou tuteur d'un enfant domicilié sur le territoire de la Ville de Bruxelles. Accessoires et livraison exclus. Une seule demande par période de cinq ans.",
+        "deadline": "Dans les 3 mois suivant l'achat ou la signature du contrat de location.",
+        "amount": "100 € par enfant (doublé pour des jumeaux)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie des factures d'achat ou de location et preuve de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "Extrait d'acte de naissance, composition de ménage, attestation de grossesse (max. 3 mois avant le terme) ou certificat d'adoption"
+          }
+        ],
+        "steps": [
+          "Achetez ou louez des langes lavables (plusieurs factures cumulables)",
+          "Remplissez le formulaire de demande",
+          "Envoyez-le avec les documents à urb.primes@brucity.be dans les 3 mois (02 279 33 10)"
+        ]
+      },
+      "de": {
+        "title": "Prime langes lavables (Prämie für Stoffwindeln, Stadt Brüssel)",
+        "desc": "Eine Prämie für den Kauf von Stoffwindeln oder einen Miet- und Waschservice, für Eltern oder Vormund eines Kindes mit Wohnsitz in der Stadt Brüssel. Zubehör und Lieferung zählen nicht. Ein Antrag pro fünf Jahre.",
+        "deadline": "Innerhalb von 3 Monaten nach dem Kauf oder der Unterzeichnung des Mietvertrags.",
+        "amount": "100 € pro Kind (bei Zwillingen verdoppelt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie der Kauf- oder Mietrechnungen und Zahlungsnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Auszug aus der Geburtsurkunde, Haushaltszusammensetzung, Schwangerschaftsbescheinigung (höchstens 3 Monate vor dem Termin) oder Adoptionsbescheinigung"
+          }
+        ],
+        "steps": [
+          "Kaufen oder mieten Sie Stoffwindeln (mehrere Rechnungen möglich)",
+          "Füllen Sie das Antragsformular aus",
+          "Senden Sie es mit den Unterlagen innerhalb von 3 Monaten an urb.primes@brucity.be (02 279 33 10)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 68,
+    "category": "housing",
+    "situations": [
+      "renting",
+      "low-income"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "Liège"
+    ],
+    "institution": "CPAS de Liège",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.liege.be/cpas/les-services/logement/aides-a-linstallation",
+    "content": {
+      "en": {
+        "title": "Prime à l'installation (Settling-in Premium, CPAS of Liège)",
+        "desc": "A premium for anyone in Liège who stops being homeless (leaving the street, temporary stays with friends, prison, a shelter, or a Red Cross or federal reception centre) by moving into a home that becomes their main residence. It helps to furnish and equip the new home.",
+        "deadline": "Ask once you have moved into your new home.",
+        "amount": "One month of the integration income (revenu d'intégration) at the 'head of household' rate",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of your new main residence"
+          }
+        ],
+        "steps": [
+          "Move into a home that becomes your main residence",
+          "Contact your local CPAS social office (antenne sociale)",
+          "The CPAS checks your situation and pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'installation (Installatiepremie, OCMW Luik)",
+        "desc": "Een premie voor wie in Luik niet langer dakloos is (van de straat, tijdelijk verblijf bij kennissen, uit de gevangenis, een opvangtehuis of een opvangcentrum van het Rode Kruis of Fedasil) en een woning betrekt als hoofdverblijfplaats. Ze helpt om de nieuwe woning in te richten.",
+        "deadline": "Aan te vragen zodra je in je nieuwe woning woont.",
+        "amount": "Eén maand leefloon (revenu d'intégration) aan het tarief 'gezinshoofd'",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van je nieuwe hoofdverblijfplaats"
+          }
+        ],
+        "steps": [
+          "Betrek een woning die je hoofdverblijfplaats wordt",
+          "Neem contact op met je sociale antenne van het OCMW",
+          "Het OCMW onderzoekt je situatie en betaalt de premie uit"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'installation (CPAS de Liège)",
+        "desc": "Une prime pour toute personne qui perd sa qualité de sans-abri à Liège (sortie de rue, d'hébergement temporaire chez des connaissances, de prison, de maison d'accueil, d'un centre Croix-Rouge ou fédéral, d'une ILA) en occupant un logement qui devient sa résidence principale. Elle sert à aménager et équiper le nouveau logement.",
+        "deadline": "À demander une fois installé dans le nouveau logement.",
+        "amount": "Un mois du revenu d'intégration au taux « chef de famille »",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve de votre nouvelle résidence principale"
+          }
+        ],
+        "steps": [
+          "Occupez un logement qui devient votre résidence principale",
+          "Contactez votre antenne sociale du CPAS",
+          "Le CPAS examine votre situation et verse la prime"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'installation (Einrichtungsprämie, ÖSHZ Lüttich)",
+        "desc": "Eine Prämie für alle in Lüttich, die nicht mehr obdachlos sind (von der Straße, aus vorübergehender Unterkunft bei Bekannten, aus dem Gefängnis, einem Aufnahmeheim oder einem Zentrum des Roten Kreuzes oder des Föderalstaats) und eine Wohnung als Hauptwohnsitz beziehen. Sie hilft, die neue Wohnung einzurichten.",
+        "deadline": "Beantragen, sobald Sie in der neuen Wohnung wohnen.",
+        "amount": "Ein Monat Eingliederungseinkommen (revenu d'intégration) zum Satz „Haushaltsvorstand“",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis Ihres neuen Hauptwohnsitzes"
+          }
+        ],
+        "steps": [
+          "Beziehen Sie eine Wohnung als Hauptwohnsitz",
+          "Wenden Sie sich an Ihre soziale Außenstelle (antenne sociale) des ÖSHZ",
+          "Das ÖSHZ prüft Ihre Lage und zahlt die Prämie aus"
+        ]
+      }
+    }
+  },
+  {
+    "id": 69,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Kuurne"
+    ],
+    "institution": "Gemeente Kuurne (Sociaal Huis)",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.kuurne.be/sociaalhuis/producten/toelage-voor-specifieke-gezondheidszorgen",
+    "content": {
+      "en": {
+        "title": "Toelage voor specifieke gezondheidszorgen (Allowance for Incontinence or Stoma, Kuurne)",
+        "desc": "A yearly allowance for Kuurne residents living at home (not permanently in a care home) who have incontinence or a stoma.",
+        "deadline": "You must be registered in Kuurne on 1 January of the year you apply.",
+        "amount": "€45",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doctor's certificate and the application form"
+          }
+        ],
+        "steps": [
+          "Get a doctor's certificate",
+          "Fill in the application form online or on paper",
+          "Submit it to the Sociaal Huis (Kortrijksestraat 2, 056 73 70 11, sociaalhuis@kuurne.be)"
+        ]
+      },
+      "nl": {
+        "title": "Toelage voor specifieke gezondheidszorgen (Kuurne)",
+        "desc": "Een jaarlijkse toelage voor thuiswonende inwoners van Kuurne (niet bestendig in een woonzorgcentrum) die aan incontinentie lijden of stomapatiënt zijn.",
+        "deadline": "Je bent op 1 januari van het jaar van de aanvraag in Kuurne gedomicilieerd.",
+        "amount": "€45",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de dokter en het aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vraag een attest aan je dokter",
+          "Vul het aanvraagformulier digitaal of op papier in",
+          "Dien het in bij het Sociaal Huis (Kortrijksestraat 2, 056 73 70 11, sociaalhuis@kuurne.be)"
+        ]
+      },
+      "fr": {
+        "title": "Toelage voor specifieke gezondheidszorgen (Allocation incontinence ou stomie, Kuurne)",
+        "desc": "Une allocation annuelle pour les habitants de Kuurne vivant à domicile (pas en permanence en maison de repos) souffrant d'incontinence ou porteurs d'une stomie.",
+        "deadline": "Vous devez être domicilié à Kuurne au 1er janvier de l'année de la demande.",
+        "amount": "45 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du médecin et formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Demandez une attestation à votre médecin",
+          "Remplissez le formulaire en ligne ou sur papier",
+          "Déposez-le au Sociaal Huis (Kortrijksestraat 2, 056 73 70 11, sociaalhuis@kuurne.be)"
+        ]
+      },
+      "de": {
+        "title": "Toelage voor specifieke gezondheidszorgen (Zulage bei Inkontinenz oder Stoma, Kuurne)",
+        "desc": "Eine jährliche Zulage für zu Hause lebende Einwohner von Kuurne (nicht dauerhaft im Pflegeheim) mit Inkontinenz oder Stoma.",
+        "deadline": "Sie müssen am 1. Januar des Antragsjahres in Kuurne gemeldet sein.",
+        "amount": "45 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung und Antragsformular"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich eine ärztliche Bescheinigung geben",
+          "Füllen Sie das Antragsformular online oder auf Papier aus",
+          "Reichen Sie es im Sociaal Huis ein (Kortrijksestraat 2, 056 73 70 11, sociaalhuis@kuurne.be)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 70,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Harelbeke"
+    ],
+    "institution": "Stad Harelbeke",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.harelbeke.be/producten/premie-voor-wasbare-luiers-incontinentiemateriaal",
+    "content": {
+      "en": {
+        "title": "Premie voor wasbare luiers (Washable Nappies Premium, Harelbeke)",
+        "desc": "A city premium towards buying washable nappies (second-hand purchases count too). The same page also offers a subsidy for washable incontinence products.",
+        "deadline": "After the purchase.",
+        "amount": "Half of the invoice, up to €200",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Invoice for the washable nappies"
+          }
+        ],
+        "steps": [
+          "Buy washable nappies and keep the invoice",
+          "Read the regulation and fill in the application form (on paper or via the city's site)",
+          "Submit it to the city of Harelbeke"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor wasbare luiers (Harelbeke)",
+        "desc": "Een stadspremie voor de aankoop van herbruikbare luiers (ook tweedehands). Op dezelfde pagina staat ook een subsidie voor wasbaar incontinentiemateriaal.",
+        "deadline": "Na de aankoop.",
+        "amount": "De helft van de factuurprijs, max. €200",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Factuur van de herbruikbare luiers"
+          }
+        ],
+        "steps": [
+          "Koop herbruikbare luiers en bewaar de factuur",
+          "Lees het reglement en vul het aanvraagformulier in (op papier of via de site van de stad)",
+          "Dien het in bij Stad Harelbeke"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor wasbare luiers (Prime langes lavables, Harelbeke)",
+        "desc": "Une prime de la ville pour l'achat de langes lavables (y compris d'occasion). La même page propose aussi un subside pour le matériel d'incontinence lavable.",
+        "deadline": "Après l'achat.",
+        "amount": "La moitié de la facture, max. 200 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Facture des langes lavables"
+          }
+        ],
+        "steps": [
+          "Achetez des langes lavables et gardez la facture",
+          "Lisez le règlement et remplissez le formulaire (papier ou via le site de la ville)",
+          "Déposez-le auprès de la ville de Harelbeke"
+        ]
+      },
+      "de": {
+        "title": "Premie voor wasbare luiers (Prämie für Stoffwindeln, Harelbeke)",
+        "desc": "Eine Stadtprämie für den Kauf von Stoffwindeln (auch gebraucht). Auf derselben Seite gibt es auch einen Zuschuss für waschbares Inkontinenzmaterial.",
+        "deadline": "Nach dem Kauf.",
+        "amount": "Die Hälfte der Rechnung, höchstens 200 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Rechnung der Stoffwindeln"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie Stoffwindeln und bewahren Sie die Rechnung auf",
+          "Lesen Sie die Regelung und füllen Sie das Antragsformular aus (auf Papier oder über die Website der Stadt)",
+          "Reichen Sie es bei der Stadt Harelbeke ein"
+        ]
+      }
+    }
+  },
+  {
+    "id": 71,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Harelbeke"
+    ],
+    "institution": "Stad Harelbeke (Huis van Welzijn)",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.harelbeke.be/huisvanwelzijn/zorgtoelage-tot-en-met-18-jaar",
+    "content": {
+      "en": {
+        "title": "Zorgtoelage tot en met 18 jaar (Care Allowance for a Child with a Disability, Harelbeke)",
+        "desc": "A yearly allowance for the parent caring for a child (up to 18) with a disability who lives in Harelbeke on 1 January and receives the Groeipakket care supplement for children with a specific support need, whether the child lives at home or at boarding school. Can be combined with the holiday allowance.",
+        "deadline": "Apply before 31 January of the following year; renew every year. Paid by 1 May.",
+        "amount": "€180 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate of the care supplement for children with a specific support need, from your Groeipakket payer"
+          }
+        ],
+        "steps": [
+          "Ask your Groeipakket payer for the certificate of the care supplement",
+          "Fill in the city's online form",
+          "Submit it before 31 January; the allowance is paid by 1 May"
+        ]
+      },
+      "nl": {
+        "title": "Zorgtoelage tot en met 18 jaar (Harelbeke)",
+        "desc": "Een jaarlijkse toelage voor de ouder die zorgt voor een kind (tot 18 jaar) met een beperking dat op 1 januari in Harelbeke woont en recht heeft op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, ongeacht of het kind thuis of op internaat verblijft. Te combineren met de vakantietoelage.",
+        "deadline": "Aan te vragen voor 31 januari van het volgende jaar; elk jaar hernieuwen. Uitbetaling uiterlijk 1 mei.",
+        "amount": "€180 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte van je uitbetalingsactor van het Groeipakket"
+          }
+        ],
+        "steps": [
+          "Vraag het attest zorgtoeslag aan bij je uitbetalingsactor van het Groeipakket",
+          "Vul het online formulier van de stad in",
+          "Dien het in voor 31 januari; de toelage wordt uiterlijk 1 mei betaald"
+        ]
+      },
+      "fr": {
+        "title": "Zorgtoelage tot en met 18 jaar (Allocation de soins enfant handicapé, Harelbeke)",
+        "desc": "Une allocation annuelle pour le parent qui s'occupe d'un enfant (jusqu'à 18 ans) en situation de handicap, domicilié à Harelbeke au 1er janvier et bénéficiant du supplément de soins du Groeipakket pour enfants ayant un besoin de soutien spécifique, qu'il vive à la maison ou en internat. Cumulable avec l'allocation vacances.",
+        "deadline": "À demander avant le 31 janvier de l'année suivante ; à renouveler chaque année. Paiement au plus tard le 1er mai.",
+        "amount": "180 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du supplément de soins pour enfants ayant un besoin de soutien spécifique, délivrée par votre caisse du Groeipakket"
+          }
+        ],
+        "steps": [
+          "Demandez l'attestation du supplément de soins à votre caisse du Groeipakket",
+          "Remplissez le formulaire en ligne de la ville",
+          "Introduisez-le avant le 31 janvier ; paiement au plus tard le 1er mai"
+        ]
+      },
+      "de": {
+        "title": "Zorgtoelage tot en met 18 jaar (Pflegezulage für ein Kind mit Behinderung, Harelbeke)",
+        "desc": "Eine jährliche Zulage für den Elternteil, der ein Kind (bis 18 Jahre) mit Behinderung betreut, das am 1. Januar in Harelbeke wohnt und den Groeipakket-Pflegezuschlag für Kinder mit besonderem Unterstützungsbedarf erhält, ob zu Hause oder im Internat. Kombinierbar mit der Ferienzulage.",
+        "deadline": "Vor dem 31. Januar des Folgejahres beantragen; jährlich erneuern. Zahlung spätestens am 1. Mai.",
+        "amount": "180 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung über den Pflegezuschlag für Kinder mit besonderem Unterstützungsbedarf von Ihrer Groeipakket-Kasse"
+          }
+        ],
+        "steps": [
+          "Fordern Sie bei Ihrer Groeipakket-Kasse die Bescheinigung über den Pflegezuschlag an",
+          "Füllen Sie das Online-Formular der Stadt aus",
+          "Reichen Sie es vor dem 31. Januar ein; Zahlung spätestens am 1. Mai"
+        ]
+      }
+    }
+  },
+  {
+    "id": 72,
+    "category": "housing",
+    "situations": [
+      "renting",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Leuven"
+    ],
+    "institution": "Stad Leuven",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://leuven.be/huurpremie",
+    "content": {
+      "en": {
+        "title": "Leuvense huurpremie (Leuven Rent Premium)",
+        "desc": "A monthly rent contribution for Leuven residents who have been on the Dijledal social housing waiting list for at least a year and rent privately in Leuven. For single people, or households with at least one dependent child. Not combinable with the Flemish rent premium or rent subsidy.",
+        "deadline": "Apply after you receive a letter from the housing company saying you can.",
+        "amount": "Per month: single €20; single parent €40 + €15 per child; couple with children €20 + €15 per child; +€10 after 4 years on the waiting list",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The housing company's letter saying you can apply"
+          },
+          {
+            "type": "doc",
+            "label": "Your private rental contract (rent of at least €250 after deducting the premium)"
+          }
+        ],
+        "steps": [
+          "Check that you have been on the Dijledal waiting list for at least a year and rent privately in Leuven",
+          "Wait for the housing company's letter",
+          "Apply as described on leuven.be/huurpremie"
+        ]
+      },
+      "nl": {
+        "title": "Leuvense huurpremie",
+        "desc": "Een maandelijkse bijdrage in de huur voor Leuvenaars die minstens een jaar op de wachtlijst voor een sociale woning bij Dijledal staan en privé huren in Leuven. Voor alleenstaanden of gezinnen met minstens 1 kind ten laste. Niet te combineren met de Vlaamse huurpremie of huursubsidie.",
+        "deadline": "Aan te vragen nadat je een brief van de huisvestingsmaatschappij kreeg dat je de premie kan aanvragen.",
+        "amount": "Per maand: alleenstaand €20; alleenstaand met kinderen €40 + €15 per kind; koppel met kinderen €20 + €15 per kind; +€10 na 4 jaar op de wachtlijst",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De brief van de huisvestingsmaatschappij dat je kan aanvragen"
+          },
+          {
+            "type": "doc",
+            "label": "Je huurcontract met een particuliere verhuurder (huur min. €250 na aftrek van de premie)"
+          }
+        ],
+        "steps": [
+          "Controleer dat je minstens 1 jaar op de wachtlijst van Dijledal staat en privé huurt in Leuven",
+          "Wacht op de brief van de huisvestingsmaatschappij",
+          "Vraag aan zoals beschreven op leuven.be/huurpremie"
+        ]
+      },
+      "fr": {
+        "title": "Leuvense huurpremie (Prime au loyer de Louvain)",
+        "desc": "Une contribution mensuelle au loyer pour les habitants de Louvain inscrits depuis au moins un an sur la liste d'attente de logement social de Dijledal et locataires privés à Louvain. Pour les isolés ou les ménages avec au moins un enfant à charge. Non cumulable avec la prime ou l'allocation-loyer flamande.",
+        "deadline": "À demander après réception d'un courrier de la société de logement indiquant que vous pouvez la demander.",
+        "amount": "Par mois : isolé 20 € ; parent seul 40 € + 15 € par enfant ; couple avec enfants 20 € + 15 € par enfant ; +10 € après 4 ans sur la liste d'attente",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le courrier de la société de logement vous invitant à demander la prime"
+          },
+          {
+            "type": "doc",
+            "label": "Votre bail privé (loyer d'au moins 250 € après déduction de la prime)"
+          }
+        ],
+        "steps": [
+          "Vérifiez que vous êtes depuis au moins 1 an sur la liste d'attente de Dijledal et locataire privé à Louvain",
+          "Attendez le courrier de la société de logement",
+          "Introduisez la demande comme indiqué sur leuven.be/huurpremie"
+        ]
+      },
+      "de": {
+        "title": "Leuvense huurpremie (Mietprämie Löwen)",
+        "desc": "Ein monatlicher Mietzuschuss für Einwohner von Löwen, die seit mindestens einem Jahr auf der Warteliste für eine Sozialwohnung bei Dijledal stehen und privat in Löwen mieten. Für Alleinstehende oder Haushalte mit mindestens einem unterhaltsberechtigten Kind. Nicht kombinierbar mit der flämischen Mietprämie oder Mietbeihilfe.",
+        "deadline": "Beantragen, nachdem Sie einen Brief der Wohnungsgesellschaft erhalten haben, dass Sie antragsberechtigt sind.",
+        "amount": "Pro Monat: alleinstehend 20 €; alleinerziehend 40 € + 15 € pro Kind; Paar mit Kindern 20 € + 15 € pro Kind; +10 € nach 4 Jahren auf der Warteliste",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der Brief der Wohnungsgesellschaft, dass Sie beantragen können"
+          },
+          {
+            "type": "doc",
+            "label": "Ihr privater Mietvertrag (Miete mindestens 250 € nach Abzug der Prämie)"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie, dass Sie seit mindestens 1 Jahr auf der Warteliste von Dijledal stehen und privat in Löwen mieten",
+          "Warten Sie auf den Brief der Wohnungsgesellschaft",
+          "Beantragen Sie wie auf leuven.be/huurpremie beschrieben"
+        ]
+      }
+    }
+  },
+  {
+    "id": 73,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Leuven"
+    ],
+    "institution": "Stad Leuven",
+    "verified": "24 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.leuven.be/gratis-huisvuilzakken",
+    "content": {
+      "en": {
+        "title": "Gratis huisvuilzakken (Free Waste Bags for New Parents, Leuven)",
+        "desc": "Free waste bags (or a credit or nappy premium instead) for Leuven residents who had a child, or adopted or fostered a child under 2. Residents with the increased reimbursement from their health fund can also get free bags.",
+        "deadline": "No application needed for the bags: collect them with the certificate.",
+        "amount": "Choose once: 4 rolls of large or 8 rolls of small brown bags, €90 on your DifTar account, or a €150 premium for washable nappies",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate from the birth registration (or proof of adoption or foster care)"
+          }
+        ],
+        "steps": [
+          "Get the certificate when you register the birth (for births elsewhere or adoption it follows a few months later; foster carers ask Pleegzorg Vlaams-Brabant & Brussel)",
+          "Choose bags, the DifTar credit or the nappy premium",
+          "Collect the bags at the city office without an appointment, or apply online for the DifTar credit"
+        ]
+      },
+      "nl": {
+        "title": "Gratis huisvuilzakken (Leuven)",
+        "desc": "Gratis huisvuilzakken (of in de plaats daarvan een tegoed of luierpremie) voor Leuvenaars die een kind kregen, of een kind jonger dan 2 jaar adopteerden of in pleegzorg hebben. Ook inwoners met verhoogde tegemoetkoming van het ziekenfonds kunnen gratis zakken krijgen.",
+        "deadline": "Voor de zakken hoef je niets aan te vragen: haal ze af met het attest.",
+        "amount": "Kies één keer: 4 rollen grote of 8 rollen kleine bruine zakken, €90 op je DifTar-rekening, of een premie van €150 voor herbruikbare luiers",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de geboorteaangifte (of bewijs van adoptie of pleegzorg)"
+          }
+        ],
+        "steps": [
+          "Je krijgt het attest bij de geboorteaangifte (bij geboorte elders of adoptie enkele maanden later; pleegouders vragen een bewijs bij Pleegzorg Vlaams-Brabant & Brussel)",
+          "Kies zakken, het DifTar-tegoed of de luierpremie",
+          "Haal de zakken zonder afspraak af in het stadskantoor, of vraag het DifTar-tegoed online aan"
+        ]
+      },
+      "fr": {
+        "title": "Gratis huisvuilzakken (Sacs poubelle gratuits pour jeunes parents, Louvain)",
+        "desc": "Des sacs poubelle gratuits (ou un crédit ou une prime langes à la place) pour les habitants de Louvain qui ont eu un enfant, ou adopté ou accueilli un enfant de moins de 2 ans. Les habitants bénéficiant de l'intervention majorée de la mutualité peuvent aussi recevoir des sacs gratuits.",
+        "deadline": "Pas de demande pour les sacs : retirez-les avec l'attestation.",
+        "amount": "Au choix, une fois : 4 rouleaux de grands ou 8 rouleaux de petits sacs bruns, 90 € sur votre compte DifTar, ou une prime de 150 € pour des langes lavables",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation de la déclaration de naissance (ou preuve d'adoption ou d'accueil familial)"
+          }
+        ],
+        "steps": [
+          "Vous recevez l'attestation lors de la déclaration de naissance (naissance ailleurs ou adoption : quelques mois plus tard ; familles d'accueil : auprès de Pleegzorg Vlaams-Brabant & Brussel)",
+          "Choisissez les sacs, le crédit DifTar ou la prime langes",
+          "Retirez les sacs sans rendez-vous au bureau de la ville, ou demandez le crédit DifTar en ligne"
+        ]
+      },
+      "de": {
+        "title": "Gratis huisvuilzakken (Kostenlose Müllsäcke für junge Eltern, Löwen)",
+        "desc": "Kostenlose Müllsäcke (oder stattdessen ein Guthaben oder eine Windelprämie) für Einwohner von Löwen, die ein Kind bekommen oder ein Kind unter 2 Jahren adoptiert oder in Pflege genommen haben. Auch Einwohner mit erhöhter Kostenerstattung der Krankenkasse können kostenlose Säcke erhalten.",
+        "deadline": "Für die Säcke ist kein Antrag nötig: Abholung mit der Bescheinigung.",
+        "amount": "Einmalige Wahl: 4 Rollen große oder 8 Rollen kleine braune Säcke, 90 € auf Ihrem DifTar-Konto oder eine Prämie von 150 € für Stoffwindeln",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Geburtsanmeldung (oder Nachweis von Adoption oder Pflegschaft)"
+          }
+        ],
+        "steps": [
+          "Sie erhalten die Bescheinigung bei der Geburtsanmeldung (bei Geburt anderswo oder Adoption einige Monate später; Pflegeeltern bei Pleegzorg Vlaams-Brabant & Brussel)",
+          "Wählen Sie Säcke, DifTar-Guthaben oder Windelprämie",
+          "Holen Sie die Säcke ohne Termin im Stadtbüro ab oder beantragen Sie das DifTar-Guthaben online"
+        ]
+      }
+    }
   }
 ]
