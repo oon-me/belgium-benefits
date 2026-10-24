@@ -1,0 +1,2336 @@
+{
+  "_about": "Commune-by-commune research for belgiumbenefits.be. 'done' lists each commune checked, the date and the benefit ids added (an empty list means nothing household-facing was found on its official site). 'queue' is the order for the remaining communes: take the first 10 each day and move them to 'done'.",
+  "done": [
+    {
+      "nis": "44088",
+      "name": "Merelbeke-Melle",
+      "checked": "24 Oct 2026",
+      "ids": [
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "nis": "42025",
+      "name": "Wetteren",
+      "checked": "24 Oct 2026",
+      "ids": [
+        54,
+        55
+      ]
+    },
+    {
+      "nis": "34022",
+      "name": "Kortrijk / Courtrai",
+      "checked": "24 Oct 2026",
+      "ids": [
+        56,
+        57
+      ]
+    },
+    {
+      "nis": "41081",
+      "name": "Zottegem",
+      "checked": "24 Oct 2026",
+      "ids": [
+        58
+      ]
+    },
+    {
+      "nis": "36015",
+      "name": "Roeselare / Roulers",
+      "checked": "24 Oct 2026",
+      "ids": [
+        59,
+        60
+      ]
+    },
+    {
+      "nis": "46021",
+      "name": "Sint-Niklaas / Saint-Nicolas",
+      "checked": "24 Oct 2026",
+      "ids": [
+        61
+      ]
+    },
+    {
+      "nis": "42006",
+      "name": "Dendermonde / Termonde",
+      "checked": "24 Oct 2026",
+      "ids": [
+        62
+      ]
+    },
+    {
+      "nis": "31043",
+      "name": "Knokke-Heist",
+      "checked": "24 Oct 2026",
+      "ids": [
+        63
+      ]
+    },
+    {
+      "nis": "31004",
+      "name": "Blankenberge",
+      "checked": "24 Oct 2026",
+      "ids": [
+        64,
+        65
+      ]
+    },
+    {
+      "nis": "11002",
+      "name": "Antwerpen / Anvers",
+      "checked": "24 Oct 2026",
+      "ids": [
+        66
+      ]
+    },
+    {
+      "nis": "21004",
+      "name": "Brussel / Bruxelles",
+      "checked": "24 Oct 2026",
+      "ids": [
+        67
+      ]
+    },
+    {
+      "nis": "62063",
+      "name": "Luik / Liège",
+      "checked": "24 Oct 2026",
+      "ids": [
+        68
+      ]
+    },
+    {
+      "nis": "34023",
+      "name": "Kuurne",
+      "checked": "24 Oct 2026",
+      "ids": [
+        69
+      ]
+    },
+    {
+      "nis": "34013",
+      "name": "Harelbeke",
+      "checked": "24 Oct 2026",
+      "ids": [
+        70,
+        71
+      ]
+    },
+    {
+      "nis": "24062",
+      "name": "Leuven / Louvain",
+      "checked": "24 Oct 2026",
+      "ids": [
+        72,
+        73
+      ]
+    }
+  ],
+  "queue": [
+    {
+      "nis": "44021",
+      "name": "Gent / Gand"
+    },
+    {
+      "nis": "52011",
+      "name": "Charleroi"
+    },
+    {
+      "nis": "21015",
+      "name": "Schaarbeek / Schaerbeek"
+    },
+    {
+      "nis": "21001",
+      "name": "Anderlecht"
+    },
+    {
+      "nis": "31005",
+      "name": "Brugge / Bruges"
+    },
+    {
+      "nis": "92094",
+      "name": "Namen / Namur"
+    },
+    {
+      "nis": "21012",
+      "name": "Sint-Jans-Molenbeek / Molenbeek-Saint-Jean"
+    },
+    {
+      "nis": "21009",
+      "name": "Elsene / Ixelles"
+    },
+    {
+      "nis": "53053",
+      "name": "Bergen / Mons"
+    },
+    {
+      "nis": "41002",
+      "name": "Aalst / Alost"
+    },
+    {
+      "nis": "12025",
+      "name": "Mechelen / Malines"
+    },
+    {
+      "nis": "21016",
+      "name": "Ukkel / Uccle"
+    },
+    {
+      "nis": "58001",
+      "name": "La Louvière"
+    },
+    {
+      "nis": "71072",
+      "name": "Hasselt"
+    },
+    {
+      "nis": "71016",
+      "name": "Genk"
+    },
+    {
+      "nis": "35013",
+      "name": "Oostende / Ostende"
+    },
+    {
+      "nis": "57081",
+      "name": "Doornik / Tournai"
+    },
+    {
+      "nis": "62096",
+      "name": "Seraing"
+    },
+    {
+      "nis": "21018",
+      "name": "Sint-Lambrechts-Woluwe / Woluwe-Saint-Lambert"
+    },
+    {
+      "nis": "63079",
+      "name": "Verviers"
+    },
+    {
+      "nis": "57096",
+      "name": "Moeskroen / Mouscron"
+    },
+    {
+      "nis": "21007",
+      "name": "Vorst / Forest"
+    },
+    {
+      "nis": "21010",
+      "name": "Jette"
+    },
+    {
+      "nis": "13040",
+      "name": "Turnhout"
+    },
+    {
+      "nis": "21005",
+      "name": "Etterbeek"
+    },
+    {
+      "nis": "21006",
+      "name": "Evere"
+    },
+    {
+      "nis": "12014",
+      "name": "Heist-op-den-Berg"
+    },
+    {
+      "nis": "46029",
+      "name": "Lokeren"
+    },
+    {
+      "nis": "23088",
+      "name": "Vilvoorde / Vilvorde"
+    },
+    {
+      "nis": "72020",
+      "name": "Lommel"
+    },
+    {
+      "nis": "33011",
+      "name": "Ieper / Ypres"
+    },
+    {
+      "nis": "71004",
+      "name": "Beringen"
+    },
+    {
+      "nis": "21013",
+      "name": "Sint-Gillis / Saint-Gilles"
+    },
+    {
+      "nis": "62051",
+      "name": "Herstal"
+    },
+    {
+      "nis": "25112",
+      "name": "Waver / Wavre"
+    },
+    {
+      "nis": "52012",
+      "name": "Châtelet"
+    },
+    {
+      "nis": "41048",
+      "name": "Ninove"
+    },
+    {
+      "nis": "34040",
+      "name": "Waregem"
+    },
+    {
+      "nis": "13008",
+      "name": "Geel"
+    },
+    {
+      "nis": "23027",
+      "name": "Halle / Hal"
+    },
+    {
+      "nis": "25014",
+      "name": "Eigenbrakel / Braine-lAlleud"
+    },
+    {
+      "nis": "13025",
+      "name": "Mol"
+    },
+    {
+      "nis": "12021",
+      "name": "Lier / Lierre"
+    },
+    {
+      "nis": "21019",
+      "name": "Sint-Pieters-Woluwe / Woluwe-Saint-Pierre"
+    },
+    {
+      "nis": "21002",
+      "name": "Oudergem / Auderghem"
+    },
+    {
+      "nis": "21017",
+      "name": "Watermaal-Bosvoorde / Watermael-Boitsfort"
+    },
+    {
+      "nis": "21011",
+      "name": "Koekelberg"
+    },
+    {
+      "nis": "21008",
+      "name": "Ganshoren"
+    },
+    {
+      "nis": "21003",
+      "name": "Sint-Agatha-Berchem / Berchem-Sainte-Agathe"
+    },
+    {
+      "nis": "21014",
+      "name": "Sint-Joost-ten-Node / Saint-Josse-ten-Noode"
+    },
+    {
+      "nis": "71053",
+      "name": "Sint-Truiden / Saint-Trond"
+    },
+    {
+      "nis": "73111",
+      "name": "Tongeren-Borgloon / Tongres-Looz"
+    },
+    {
+      "nis": "46030",
+      "name": "Beveren-Kruibeke-Zwijndrecht"
+    },
+    {
+      "nis": "63023",
+      "name": "Eupen"
+    },
+    {
+      "nis": "81001",
+      "name": "Aarlen / Arlon"
+    },
+    {
+      "nis": "25121",
+      "name": "Ottignies-Louvain-la-Neuve"
+    },
+    {
+      "nis": "25072",
+      "name": "Nijvel / Nivelles"
+    },
+    {
+      "nis": "52015",
+      "name": "Courcelles"
+    },
+    {
+      "nis": "58002",
+      "name": "Binche"
+    },
+    {
+      "nis": "62003",
+      "name": "Ans"
+    },
+    {
+      "nis": "44084",
+      "name": "Aalter"
+    },
+    {
+      "nis": "51004",
+      "name": "Aat / Ath"
+    },
+    {
+      "nis": "24001",
+      "name": "Aarschot"
+    },
+    {
+      "nis": "52074",
+      "name": "Aiseau-Presles"
+    },
+    {
+      "nis": "11001",
+      "name": "Aartselaar"
+    },
+    {
+      "nis": "61003",
+      "name": "Amay"
+    },
+    {
+      "nis": "23105",
+      "name": "Affligem"
+    },
+    {
+      "nis": "63001",
+      "name": "Amel / Amblève"
+    },
+    {
+      "nis": "73001",
+      "name": "Alken"
+    },
+    {
+      "nis": "92003",
+      "name": "Andenne"
+    },
+    {
+      "nis": "38002",
+      "name": "Alveringem"
+    },
+    {
+      "nis": "56001",
+      "name": "Anderlues"
+    },
+    {
+      "nis": "91005",
+      "name": "Anhée"
+    },
+    {
+      "nis": "34002",
+      "name": "Anzegem"
+    },
+    {
+      "nis": "37020",
+      "name": "Ardooie"
+    },
+    {
+      "nis": "61079",
+      "name": "Anthisnes"
+    },
+    {
+      "nis": "13001",
+      "name": "Arendonk"
+    },
+    {
+      "nis": "57003",
+      "name": "Antoing"
+    },
+    {
+      "nis": "71002",
+      "name": "As"
+    },
+    {
+      "nis": "92006",
+      "name": "Assesse"
+    },
+    {
+      "nis": "23002",
+      "name": "Asse"
+    },
+    {
+      "nis": "81003",
+      "name": "Attert"
+    },
+    {
+      "nis": "43002",
+      "name": "Assenede"
+    },
+    {
+      "nis": "81004",
+      "name": "Aubange"
+    },
+    {
+      "nis": "34003",
+      "name": "Avelgem"
+    },
+    {
+      "nis": "63003",
+      "name": "Aubel"
+    },
+    {
+      "nis": "13002",
+      "name": "Baarle-Hertog / Baerle-Duc"
+    },
+    {
+      "nis": "62006",
+      "name": "Awans"
+    },
+    {
+      "nis": "13003",
+      "name": "Balen"
+    },
+    {
+      "nis": "62009",
+      "name": "Aywaille"
+    },
+    {
+      "nis": "31003",
+      "name": "Beernem"
+    },
+    {
+      "nis": "63004",
+      "name": "Baelen"
+    },
+    {
+      "nis": "13004",
+      "name": "Beerse"
+    },
+    {
+      "nis": "82039",
+      "name": "Bastenaken / Bastogne"
+    },
+    {
+      "nis": "23003",
+      "name": "Beersel"
+    },
+    {
+      "nis": "56005",
+      "name": "Beaumont"
+    },
+    {
+      "nis": "24007",
+      "name": "Begijnendijk"
+    },
+    {
+      "nis": "91013",
+      "name": "Beauraing"
+    },
+    {
+      "nis": "24008",
+      "name": "Bekkevoort"
+    },
+    {
+      "nis": "51008",
+      "name": "Beloeil"
+    },
+    {
+      "nis": "12002",
+      "name": "Berlaar"
+    },
+    {
+      "nis": "64008",
+      "name": "Berloz"
+    },
+    {
+      "nis": "42003",
+      "name": "Berlare"
+    },
+    {
+      "nis": "51009",
+      "name": "Bernissart"
+    },
+    {
+      "nis": "24009",
+      "name": "Bertem"
+    },
+    {
+      "nis": "84009",
+      "name": "Bertrix"
+    },
+    {
+      "nis": "23009",
+      "name": "Bever / Biévène"
+    },
+    {
+      "nis": "25005",
+      "name": "Bevekom / Beauvechain"
+    },
+    {
+      "nis": "62015",
+      "name": "Beyne-Heusay"
+    },
+    {
+      "nis": "24011",
+      "name": "Bierbeek"
+    },
+    {
+      "nis": "91015",
+      "name": "Bièvre"
+    },
+    {
+      "nis": "73110",
+      "name": "Bilzen-Hoeselt"
+    },
+    {
+      "nis": "62011",
+      "name": "Bitsingen / Bassenge"
+    },
+    {
+      "nis": "72003",
+      "name": "Bocholt"
+    },
+    {
+      "nis": "62119",
+      "name": "Blegny"
+    },
+    {
+      "nis": "11004",
+      "name": "Boechout"
+    },
+    {
+      "nis": "64074",
+      "name": "Borgworm / Waremme"
+    },
+    {
+      "nis": "12005",
+      "name": "Bonheiden"
+    },
+    {
+      "nis": "84010",
+      "name": "Bouillon"
+    },
+    {
+      "nis": "11005",
+      "name": "Boom"
+    },
+    {
+      "nis": "53014",
+      "name": "Boussu"
+    },
+    {
+      "nis": "24014",
+      "name": "Boortmeerbeek"
+    },
+    {
+      "nis": "64015",
+      "name": "Braives"
+    },
+    {
+      "nis": "12007",
+      "name": "Bornem"
+    },
+    {
+      "nis": "51012",
+      "name": "Brugelette"
+    },
+    {
+      "nis": "24016",
+      "name": "Boutersem"
+    },
+    {
+      "nis": "57093",
+      "name": "Brunehaut"
+    },
+    {
+      "nis": "45059",
+      "name": "Brakel"
+    },
+    {
+      "nis": "63012",
+      "name": "Büllingen / Bullange"
+    },
+    {
+      "nis": "11008",
+      "name": "Brasschaat"
+    },
+    {
+      "nis": "61010",
+      "name": "Burdinne"
+    },
+    {
+      "nis": "11009",
+      "name": "Brecht"
+    },
+    {
+      "nis": "63087",
+      "name": "Burg-Reuland"
+    },
+    {
+      "nis": "35002",
+      "name": "Bredene"
+    },
+    {
+      "nis": "63013",
+      "name": "Bütgenbach / Butgenbach"
+    },
+    {
+      "nis": "72004",
+      "name": "Bree"
+    },
+    {
+      "nis": "57018",
+      "name": "Celles"
+    },
+    {
+      "nis": "93010",
+      "name": "Cerfontaine"
+    },
+    {
+      "nis": "42004",
+      "name": "Buggenhout"
+    },
+    {
+      "nis": "52010",
+      "name": "Chapelle-lez-Herlaimont"
+    },
+    {
+      "nis": "31006",
+      "name": "Damme"
+    },
+    {
+      "nis": "35029",
+      "name": "De Haan"
+    },
+    {
+      "nis": "25117",
+      "name": "Chastre"
+    },
+    {
+      "nis": "38008",
+      "name": "De Panne / La Panne"
+    },
+    {
+      "nis": "34009",
+      "name": "Deerlijk"
+    },
+    {
+      "nis": "62022",
+      "name": "Chaudfontaine"
+    },
+    {
+      "nis": "44083",
+      "name": "Deinze"
+    },
+    {
+      "nis": "25018",
+      "name": "Chaumont-Gistoux"
+    },
+    {
+      "nis": "41011",
+      "name": "Denderleeuw"
+    },
+    {
+      "nis": "51014",
+      "name": "Chièvres"
+    },
+    {
+      "nis": "56016",
+      "name": "Chimay"
+    },
+    {
+      "nis": "37002",
+      "name": "Dentergem"
+    },
+    {
+      "nis": "85007",
+      "name": "Chiny"
+    },
+    {
+      "nis": "13006",
+      "name": "Dessel"
+    },
+    {
+      "nis": "91030",
+      "name": "Ciney"
+    },
+    {
+      "nis": "44013",
+      "name": "Destelbergen"
+    },
+    {
+      "nis": "61012",
+      "name": "Clavier"
+    },
+    {
+      "nis": "71011",
+      "name": "Diepenbeek"
+    },
+    {
+      "nis": "53082",
+      "name": "Colfontaine"
+    },
+    {
+      "nis": "24020",
+      "name": "Diest"
+    },
+    {
+      "nis": "62026",
+      "name": "Comblain-au-Pont"
+    },
+    {
+      "nis": "32003",
+      "name": "Diksmuide / Dixmude"
+    },
+    {
+      "nis": "23016",
+      "name": "Dilbeek"
+    },
+    {
+      "nis": "25023",
+      "name": "Court-Saint-Etienne"
+    },
+    {
+      "nis": "72041",
+      "name": "Dilsen-Stokkem"
+    },
+    {
+      "nis": "93014",
+      "name": "Couvin"
+    },
+    {
+      "nis": "23098",
+      "name": "Drogenbos"
+    },
+    {
+      "nis": "64021",
+      "name": "Crisnée"
+    },
+    {
+      "nis": "12009",
+      "name": "Duffel"
+    },
+    {
+      "nis": "62027",
+      "name": "Dalhem"
+    },
+    {
+      "nis": "11013",
+      "name": "Edegem"
+    },
+    {
+      "nis": "84016",
+      "name": "Daverdisse"
+    },
+    {
+      "nis": "43005",
+      "name": "Eeklo"
+    },
+    {
+      "nis": "91034",
+      "name": "Dinant"
+    },
+    {
+      "nis": "41082",
+      "name": "Erpe-Mere"
+    },
+    {
+      "nis": "63020",
+      "name": "Dison"
+    },
+    {
+      "nis": "11016",
+      "name": "Essen"
+    },
+    {
+      "nis": "93018",
+      "name": "Doische"
+    },
+    {
+      "nis": "44019",
+      "name": "Evergem"
+    },
+    {
+      "nis": "64023",
+      "name": "Donceel"
+    },
+    {
+      "nis": "44020",
+      "name": "Gavere"
+    },
+    {
+      "nis": "53020",
+      "name": "Dour"
+    },
+    {
+      "nis": "24028",
+      "name": "Geetbets"
+    },
+    {
+      "nis": "83012",
+      "name": "Durbuy"
+    },
+    {
+      "nis": "55050",
+      "name": "Ecaussinnes"
+    },
+    {
+      "nis": "51067",
+      "name": "Edingen / Enghien"
+    },
+    {
+      "nis": "41018",
+      "name": "Geraardsbergen / Grammont"
+    },
+    {
+      "nis": "92035",
+      "name": "Eghezée"
+    },
+    {
+      "nis": "71017",
+      "name": "Gingelom"
+    },
+    {
+      "nis": "35005",
+      "name": "Gistel"
+    },
+    {
+      "nis": "51017",
+      "name": "Elzele / Ellezelles"
+    },
+    {
+      "nis": "24137",
+      "name": "Glabbeek"
+    },
+    {
+      "nis": "61080",
+      "name": "Engis"
+    },
+    {
+      "nis": "23025",
+      "name": "Grimbergen"
+    },
+    {
+      "nis": "83013",
+      "name": "Erezée"
+    },
+    {
+      "nis": "13010",
+      "name": "Grobbendonk"
+    },
+    {
+      "nis": "56022",
+      "name": "Erquelinnes"
+    },
+    {
+      "nis": "24033",
+      "name": "Haacht"
+    },
+    {
+      "nis": "62032",
+      "name": "Esneux"
+    },
+    {
+      "nis": "41024",
+      "name": "Haaltert"
+    },
+    {
+      "nis": "57027",
+      "name": "Estaimpuis"
+    },
+    {
+      "nis": "71020",
+      "name": "Halen"
+    },
+    {
+      "nis": "58003",
+      "name": "Estinnes"
+    },
+    {
+      "nis": "85009",
+      "name": "Etalle"
+    },
+    {
+      "nis": "42008",
+      "name": "Hamme"
+    },
+    {
+      "nis": "72037",
+      "name": "Hamont-Achel"
+    },
+    {
+      "nis": "64076",
+      "name": "Faimes"
+    },
+    {
+      "nis": "52018",
+      "name": "Farciennes"
+    },
+    {
+      "nis": "82009",
+      "name": "Fauvillers"
+    },
+    {
+      "nis": "72038",
+      "name": "Hechtel-Eksel"
+    },
+    {
+      "nis": "92138",
+      "name": "Fernelmont"
+    },
+    {
+      "nis": "73022",
+      "name": "Heers"
+    },
+    {
+      "nis": "61019",
+      "name": "Ferrières"
+    },
+    {
+      "nis": "64025",
+      "name": "Fexhe-le-Haut-Clocher"
+    },
+    {
+      "nis": "11018",
+      "name": "Hemiksem"
+    },
+    {
+      "nis": "62120",
+      "name": "Flémalle"
+    },
+    {
+      "nis": "24038",
+      "name": "Herent"
+    },
+    {
+      "nis": "62038",
+      "name": "Fléron"
+    },
+    {
+      "nis": "13011",
+      "name": "Herentals"
+    },
+    {
+      "nis": "52021",
+      "name": "Fleurus"
+    },
+    {
+      "nis": "13012",
+      "name": "Herenthout"
+    },
+    {
+      "nis": "92045",
+      "name": "Floreffe"
+    },
+    {
+      "nis": "71024",
+      "name": "Herk-de-Stad / Herck-la-Ville"
+    },
+    {
+      "nis": "93022",
+      "name": "Florennes"
+    },
+    {
+      "nis": "13013",
+      "name": "Herselt"
+    },
+    {
+      "nis": "85011",
+      "name": "Florenville"
+    },
+    {
+      "nis": "73028",
+      "name": "Herstappe"
+    },
+    {
+      "nis": "52022",
+      "name": "Fontaine-lEvêque"
+    },
+    {
+      "nis": "41027",
+      "name": "Herzele"
+    },
+    {
+      "nis": "92048",
+      "name": "Fosses-la-Ville"
+    },
+    {
+      "nis": "71070",
+      "name": "Heusden-Zolder"
+    },
+    {
+      "nis": "53028",
+      "name": "Frameries"
+    },
+    {
+      "nis": "33039",
+      "name": "Heuvelland"
+    },
+    {
+      "nis": "51065",
+      "name": "Frasnes-lez-Anvaing"
+    },
+    {
+      "nis": "24041",
+      "name": "Hoegaarden"
+    },
+    {
+      "nis": "56029",
+      "name": "Froidchapelle"
+    },
+    {
+      "nis": "23033",
+      "name": "Hoeilaart"
+    },
+    {
+      "nis": "91054",
+      "name": "Gedinne"
+    },
+    {
+      "nis": "24043",
+      "name": "Holsbeek"
+    },
+    {
+      "nis": "64029",
+      "name": "Geer"
+    },
+    {
+      "nis": "36006",
+      "name": "Hooglede"
+    },
+    {
+      "nis": "25048",
+      "name": "Geldenaken / Jodoigne"
+    },
+    {
+      "nis": "13014",
+      "name": "Hoogstraten"
+    },
+    {
+      "nis": "92142",
+      "name": "Gembloux"
+    },
+    {
+      "nis": "45062",
+      "name": "Horebeke"
+    },
+    {
+      "nis": "25031",
+      "name": "Genepiën / Genappe"
+    },
+    {
+      "nis": "72039",
+      "name": "Houthalen-Helchteren"
+    },
+    {
+      "nis": "52025",
+      "name": "Gerpinnes"
+    },
+    {
+      "nis": "32006",
+      "name": "Houthulst"
+    },
+    {
+      "nis": "92054",
+      "name": "Gesves"
+    },
+    {
+      "nis": "11021",
+      "name": "Hove"
+    },
+    {
+      "nis": "82037",
+      "name": "Gouvy"
+    },
+    {
+      "nis": "24045",
+      "name": "Huldenberg"
+    },
+    {
+      "nis": "62118",
+      "name": "Grâce-Hollogne"
+    },
+    {
+      "nis": "13016",
+      "name": "Hulshout"
+    },
+    {
+      "nis": "25037",
+      "name": "Graven / Grez-Doiceau"
+    },
+    {
+      "nis": "35006",
+      "name": "Ichtegem"
+    },
+    {
+      "nis": "85046",
+      "name": "Habay"
+    },
+    {
+      "nis": "56086",
+      "name": "Ham-sur-Heure-Nalinnes"
+    },
+    {
+      "nis": "36007",
+      "name": "Ingelmunster"
+    },
+    {
+      "nis": "61024",
+      "name": "Hamoir"
+    },
+    {
+      "nis": "36008",
+      "name": "Izegem"
+    },
+    {
+      "nis": "91059",
+      "name": "Hamois"
+    },
+    {
+      "nis": "31012",
+      "name": "Jabbeke"
+    },
+    {
+      "nis": "64034",
+      "name": "Hannuit / Hannut"
+    },
+    {
+      "nis": "11022",
+      "name": "Kalmthout"
+    },
+    {
+      "nis": "91142",
+      "name": "Hastière"
+    },
+    {
+      "nis": "23038",
+      "name": "Kampenhout"
+    },
+    {
+      "nis": "91064",
+      "name": "Havelange"
+    },
+    {
+      "nis": "23039",
+      "name": "Kapelle-op-den-Bos"
+    },
+    {
+      "nis": "25118",
+      "name": "Hélécine"
+    },
+    {
+      "nis": "11023",
+      "name": "Kapellen"
+    },
+    {
+      "nis": "53039",
+      "name": "Hensies"
+    },
+    {
+      "nis": "43007",
+      "name": "Kaprijke"
+    },
+    {
+      "nis": "84029",
+      "name": "Herbeumont"
+    },
+    {
+      "nis": "13017",
+      "name": "Kasterlee"
+    },
+    {
+      "nis": "61028",
+      "name": "Héron"
+    },
+    {
+      "nis": "24048",
+      "name": "Keerbergen"
+    },
+    {
+      "nis": "72018",
+      "name": "Kinrooi"
+    },
+    {
+      "nis": "63035",
+      "name": "Herve"
+    },
+    {
+      "nis": "45060",
+      "name": "Kluisbergen"
+    },
+    {
+      "nis": "61031",
+      "name": "Hoei / Huy"
+    },
+    {
+      "nis": "53083",
+      "name": "Honnelles"
+    },
+    {
+      "nis": "32010",
+      "name": "Koekelare"
+    },
+    {
+      "nis": "83028",
+      "name": "Hotton"
+    },
+    {
+      "nis": "38014",
+      "name": "Koksijde"
+    },
+    {
+      "nis": "82014",
+      "name": "Houffalize"
+    },
+    {
+      "nis": "11024",
+      "name": "Kontich"
+    },
+    {
+      "nis": "91072",
+      "name": "Houyet"
+    },
+    {
+      "nis": "32011",
+      "name": "Kortemark"
+    },
+    {
+      "nis": "25043",
+      "name": "Incourt"
+    },
+    {
+      "nis": "24054",
+      "name": "Kortenaken"
+    },
+    {
+      "nis": "25044",
+      "name": "Itter / Ittre"
+    },
+    {
+      "nis": "24055",
+      "name": "Kortenberg"
+    },
+    {
+      "nis": "63038",
+      "name": "Jalhay"
+    },
+    {
+      "nis": "92140",
+      "name": "Jemeppe-sur-Sambre"
+    },
+    {
+      "nis": "23099",
+      "name": "Kraainem"
+    },
+    {
+      "nis": "62060",
+      "name": "Juprelle"
+    },
+    {
+      "nis": "45068",
+      "name": "Kruisem"
+    },
+    {
+      "nis": "53044",
+      "name": "Jurbeke / Jurbise"
+    },
+    {
+      "nis": "25015",
+      "name": "Kasteelbrakel / Braine-le-Château"
+    },
+    {
+      "nis": "13053",
+      "name": "Laakdal"
+    },
+    {
+      "nis": "63040",
+      "name": "Kelmis / La Calamine"
+    },
+    {
+      "nis": "42010",
+      "name": "Laarne"
+    },
+    {
+      "nis": "57097",
+      "name": "Komen-Waasten / Comines-Warneton"
+    },
+    {
+      "nis": "73042",
+      "name": "Lanaken"
+    },
+    {
+      "nis": "92141",
+      "name": "La Bruyère"
+    },
+    {
+      "nis": "24059",
+      "name": "Landen"
+    },
+    {
+      "nis": "33040",
+      "name": "Langemark-Poelkapelle"
+    },
+    {
+      "nis": "83031",
+      "name": "La Roche-en-Ardenne"
+    },
+    {
+      "nis": "42011",
+      "name": "Lebbeke"
+    },
+    {
+      "nis": "25119",
+      "name": "Lasne"
+    },
+    {
+      "nis": "41034",
+      "name": "Lede"
+    },
+    {
+      "nis": "55035",
+      "name": "Le Roeulx"
+    },
+    {
+      "nis": "36010",
+      "name": "Ledegem"
+    },
+    {
+      "nis": "84033",
+      "name": "Léglise"
+    },
+    {
+      "nis": "34025",
+      "name": "Lendelede"
+    },
+    {
+      "nis": "53046",
+      "name": "Lens"
+    },
+    {
+      "nis": "23104",
+      "name": "Lennik"
+    },
+    {
+      "nis": "52075",
+      "name": "Les Bons Villers"
+    },
+    {
+      "nis": "71034",
+      "name": "Leopoldsburg / Bourg-Léopold"
+    },
+    {
+      "nis": "51069",
+      "name": "Lessen / Lessines"
+    },
+    {
+      "nis": "57094",
+      "name": "Leuze-en-Hainaut"
+    },
+    {
+      "nis": "36011",
+      "name": "Lichtervelde"
+    },
+    {
+      "nis": "84035",
+      "name": "Libin"
+    },
+    {
+      "nis": "23044",
+      "name": "Liedekerke"
+    },
+    {
+      "nis": "84077",
+      "name": "Libramont-Chevigny"
+    },
+    {
+      "nis": "63045",
+      "name": "Lierneux"
+    },
+    {
+      "nis": "45063",
+      "name": "Lierde"
+    },
+    {
+      "nis": "64047",
+      "name": "Lijsem / Lincent"
+    },
+    {
+      "nis": "44085",
+      "name": "Lievegem"
+    },
+    {
+      "nis": "63046",
+      "name": "Limburg / Limbourg"
+    },
+    {
+      "nis": "13019",
+      "name": "Lille"
+    },
+    {
+      "nis": "56044",
+      "name": "Lobbes"
+    },
+    {
+      "nis": "23100",
+      "name": "Linkebeek"
+    },
+    {
+      "nis": "63048",
+      "name": "Lontzen"
+    },
+    {
+      "nis": "11025",
+      "name": "Lint"
+    },
+    {
+      "nis": "24133",
+      "name": "Linter"
+    },
+    {
+      "nis": "63049",
+      "name": "Malmedy"
+    },
+    {
+      "nis": "32030",
+      "name": "Lo-Reninge"
+    },
+    {
+      "nis": "55086",
+      "name": "Manage"
+    },
+    {
+      "nis": "44087",
+      "name": "Lochristi"
+    },
+    {
+      "nis": "83055",
+      "name": "Manhay"
+    },
+    {
+      "nis": "83034",
+      "name": "Marche-en-Famenne"
+    },
+    {
+      "nis": "61039",
+      "name": "Marchin"
+    },
+    {
+      "nis": "23045",
+      "name": "Londerzeel"
+    },
+    {
+      "nis": "81013",
+      "name": "Martelange"
+    },
+    {
+      "nis": "24066",
+      "name": "Lubbeek"
+    },
+    {
+      "nis": "85024",
+      "name": "Meix-devant-Virton"
+    },
+    {
+      "nis": "71037",
+      "name": "Lummen"
+    },
+    {
+      "nis": "56049",
+      "name": "Merbes-le-Château"
+    },
+    {
+      "nis": "45064",
+      "name": "Maarkedal"
+    },
+    {
+      "nis": "81015",
+      "name": "Messancy"
+    },
+    {
+      "nis": "72021",
+      "name": "Maaseik"
+    },
+    {
+      "nis": "92087",
+      "name": "Mettet"
+    },
+    {
+      "nis": "73107",
+      "name": "Maasmechelen"
+    },
+    {
+      "nis": "61041",
+      "name": "Modave"
+    },
+    {
+      "nis": "23047",
+      "name": "Machelen"
+    },
+    {
+      "nis": "43010",
+      "name": "Maldegem"
+    },
+    {
+      "nis": "56051",
+      "name": "Momignies"
+    },
+    {
+      "nis": "11057",
+      "name": "Malle"
+    },
+    {
+      "nis": "57095",
+      "name": "Mont-de-lEnclus"
+    },
+    {
+      "nis": "25068",
+      "name": "Mont-Saint-Guibert"
+    },
+    {
+      "nis": "13021",
+      "name": "Meerhout"
+    },
+    {
+      "nis": "52048",
+      "name": "Montigny-le-Tilleul"
+    },
+    {
+      "nis": "23050",
+      "name": "Meise"
+    },
+    {
+      "nis": "58004",
+      "name": "Morlanwelz"
+    },
+    {
+      "nis": "34027",
+      "name": "Menen / Menin"
+    },
+    {
+      "nis": "85026",
+      "name": "Musson"
+    },
+    {
+      "nis": "23052",
+      "name": "Merchtem"
+    },
+    {
+      "nis": "61043",
+      "name": "Nandrin"
+    },
+    {
+      "nis": "13023",
+      "name": "Merksplas"
+    },
+    {
+      "nis": "83040",
+      "name": "Nassogne"
+    },
+    {
+      "nis": "33016",
+      "name": "Mesen / Messines"
+    },
+    {
+      "nis": "84043",
+      "name": "Neufchâteau"
+    },
+    {
+      "nis": "35011",
+      "name": "Middelkerke"
+    },
+    {
+      "nis": "62121",
+      "name": "Neupré"
+    },
+    {
+      "nis": "36012",
+      "name": "Moorslede"
+    },
+    {
+      "nis": "64056",
+      "name": "Oerle / Oreye"
+    },
+    {
+      "nis": "11029",
+      "name": "Mortsel"
+    },
+    {
+      "nis": "92097",
+      "name": "Ohey"
+    },
+    {
+      "nis": "44086",
+      "name": "Nazareth-De Pinte"
+    },
+    {
+      "nis": "63057",
+      "name": "Olne"
+    },
+    {
+      "nis": "11030",
+      "name": "Niel"
+    },
+    {
+      "nis": "91103",
+      "name": "Onhaye"
+    },
+    {
+      "nis": "71045",
+      "name": "Nieuwerkerken"
+    },
+    {
+      "nis": "51068",
+      "name": "Opzullik / Silly"
+    },
+    {
+      "nis": "38016",
+      "name": "Nieuwpoort / Nieuport"
+    },
+    {
+      "nis": "25120",
+      "name": "Orp-Jauche"
+    },
+    {
+      "nis": "12026",
+      "name": "Nijlen"
+    },
+    {
+      "nis": "61048",
+      "name": "Ouffet"
+    },
+    {
+      "nis": "13029",
+      "name": "Olen"
+    },
+    {
+      "nis": "62079",
+      "name": "Oupeye"
+    },
+    {
+      "nis": "84050",
+      "name": "Paliseul"
+    },
+    {
+      "nis": "44052",
+      "name": "Oosterzele"
+    },
+    {
+      "nis": "57062",
+      "name": "Pecq"
+    },
+    {
+      "nis": "31022",
+      "name": "Oostkamp"
+    },
+    {
+      "nis": "63058",
+      "name": "Pepinster"
+    },
+    {
+      "nis": "37010",
+      "name": "Oostrozebeke"
+    },
+    {
+      "nis": "57064",
+      "name": "Péruwelz"
+    },
+    {
+      "nis": "23060",
+      "name": "Opwijk"
+    },
+    {
+      "nis": "25084",
+      "name": "Perwijs / Perwez"
+    },
+    {
+      "nis": "24086",
+      "name": "Oud-Heverlee"
+    },
+    {
+      "nis": "93056",
+      "name": "Philippeville"
+    },
+    {
+      "nis": "13031",
+      "name": "Oud-Turnhout"
+    },
+    {
+      "nis": "63088",
+      "name": "Plombières"
+    },
+    {
+      "nis": "45035",
+      "name": "Oudenaarde / Audenarde"
+    },
+    {
+      "nis": "52055",
+      "name": "Pont-à-Celles"
+    },
+    {
+      "nis": "35014",
+      "name": "Oudenburg"
+    },
+    {
+      "nis": "92101",
+      "name": "Profondeville"
+    },
+    {
+      "nis": "72042",
+      "name": "Oudsbergen"
+    },
+    {
+      "nis": "53065",
+      "name": "Quaregnon"
+    },
+    {
+      "nis": "23062",
+      "name": "Overijse"
+    },
+    {
+      "nis": "53084",
+      "name": "Quévy"
+    },
+    {
+      "nis": "23106",
+      "name": "Pajottegem"
+    },
+    {
+      "nis": "53068",
+      "name": "Quiévrain"
+    },
+    {
+      "nis": "72030",
+      "name": "Peer"
+    },
+    {
+      "nis": "63061",
+      "name": "Raeren"
+    },
+    {
+      "nis": "72043",
+      "name": "Pelt"
+    },
+    {
+      "nis": "25122",
+      "name": "Ramillies"
+    },
+    {
+      "nis": "23064",
+      "name": "Pepingen"
+    },
+    {
+      "nis": "25123",
+      "name": "Rebecq"
+    },
+    {
+      "nis": "37011",
+      "name": "Pittem"
+    },
+    {
+      "nis": "64063",
+      "name": "Remicourt"
+    },
+    {
+      "nis": "33021",
+      "name": "Poperinge"
+    },
+    {
+      "nis": "83044",
+      "name": "Rendeux"
+    },
+    {
+      "nis": "12029",
+      "name": "Putte"
+    },
+    {
+      "nis": "25091",
+      "name": "Rixensart"
+    },
+    {
+      "nis": "12041",
+      "name": "Puurs-Sint-Amands"
+    },
+    {
+      "nis": "91114",
+      "name": "Rochefort"
+    },
+    {
+      "nis": "11035",
+      "name": "Ranst"
+    },
+    {
+      "nis": "85047",
+      "name": "Rouvroy"
+    },
+    {
+      "nis": "13035",
+      "name": "Ravels"
+    },
+    {
+      "nis": "57072",
+      "name": "Rumes"
+    },
+    {
+      "nis": "13036",
+      "name": "Retie"
+    },
+    {
+      "nis": "55004",
+      "name": "s Gravenbrakel / Braine-le-Comte"
+    },
+    {
+      "nis": "73066",
+      "name": "Riemst"
+    },
+    {
+      "nis": "64065",
+      "name": "Saint-Georges-sur-Meuse"
+    },
+    {
+      "nis": "13037",
+      "name": "Rijkevorsel"
+    },
+    {
+      "nis": "53070",
+      "name": "Saint-Ghislain"
+    },
+    {
+      "nis": "84059",
+      "name": "Saint-Hubert"
+    },
+    {
+      "nis": "45041",
+      "name": "Ronse / Renaix"
+    },
+    {
+      "nis": "85034",
+      "name": "Saint-Léger"
+    },
+    {
+      "nis": "23097",
+      "name": "Roosdaal"
+    },
+    {
+      "nis": "62093",
+      "name": "Saint-Nicolas"
+    },
+    {
+      "nis": "24094",
+      "name": "Rotselaar"
+    },
+    {
+      "nis": "82038",
+      "name": "Sainte-Ode"
+    },
+    {
+      "nis": "11037",
+      "name": "Rumst"
+    },
+    {
+      "nis": "92137",
+      "name": "Sambreville"
+    },
+    {
+      "nis": "11038",
+      "name": "Schelle"
+    },
+    {
+      "nis": "63067",
+      "name": "Sankt Vith / Saint-Vith"
+    },
+    {
+      "nis": "24134",
+      "name": "Scherpenheuvel-Zichem / Montaigu-Zichem"
+    },
+    {
+      "nis": "55085",
+      "name": "Seneffe"
+    },
+    {
+      "nis": "11039",
+      "name": "Schilde"
+    },
+    {
+      "nis": "11040",
+      "name": "Schoten"
+    },
+    {
+      "nis": "56088",
+      "name": "Sivry-Rance"
+    },
+    {
+      "nis": "23101",
+      "name": "Sint-Genesius-Rode / Rhode-Saint-Genèse"
+    },
+    {
+      "nis": "92114",
+      "name": "Sombreffe"
+    },
+    {
+      "nis": "46020",
+      "name": "Sint-Gillis-Waas"
+    },
+    {
+      "nis": "91120",
+      "name": "Somme-Leuze"
+    },
+    {
+      "nis": "12035",
+      "name": "Sint-Katelijne-Waver"
+    },
+    {
+      "nis": "62099",
+      "name": "Soumagne"
+    },
+    {
+      "nis": "43014",
+      "name": "Sint-Laureins"
+    },
+    {
+      "nis": "63072",
+      "name": "Spa"
+    },
+    {
+      "nis": "41063",
+      "name": "Sint-Lievens-Houtem"
+    },
+    {
+      "nis": "62100",
+      "name": "Sprimont"
+    },
+    {
+      "nis": "44064",
+      "name": "Sint-Martens-Latem"
+    },
+    {
+      "nis": "63073",
+      "name": "Stavelot"
+    },
+    {
+      "nis": "63075",
+      "name": "Stoumont"
+    },
+    {
+      "nis": "23077",
+      "name": "Sint-Pieters-Leeuw"
+    },
+    {
+      "nis": "84068",
+      "name": "Tellin"
+    },
+    {
+      "nis": "83049",
+      "name": "Tenneville"
+    },
+    {
+      "nis": "34043",
+      "name": "Spiere-Helkijn / Espierres-Helchin"
+    },
+    {
+      "nis": "25050",
+      "name": "Terhulpen / La Hulpe"
+    },
+    {
+      "nis": "11044",
+      "name": "Stabroek"
+    },
+    {
+      "nis": "63076",
+      "name": "Theux"
+    },
+    {
+      "nis": "36019",
+      "name": "Staden"
+    },
+    {
+      "nis": "63089",
+      "name": "Thimister-Clermont"
+    },
+    {
+      "nis": "23081",
+      "name": "Steenokkerzeel"
+    },
+    {
+      "nis": "56078",
+      "name": "Thuin"
+    },
+    {
+      "nis": "46024",
+      "name": "Stekene"
+    },
+    {
+      "nis": "61081",
+      "name": "Tinlot"
+    },
+    {
+      "nis": "46025",
+      "name": "Temse / Tamise"
+    },
+    {
+      "nis": "85039",
+      "name": "Tintigny"
+    },
+    {
+      "nis": "23086",
+      "name": "Ternat"
+    },
+    {
+      "nis": "63086",
+      "name": "Trois-Ponts"
+    },
+    {
+      "nis": "24104",
+      "name": "Tervuren"
+    },
+    {
+      "nis": "62122",
+      "name": "Trooz"
+    },
+    {
+      "nis": "71071",
+      "name": "Tessenderlo-Ham"
+    },
+    {
+      "nis": "25105",
+      "name": "Tubeke / Tubize"
+    },
+    {
+      "nis": "37022",
+      "name": "Tielt"
+    },
+    {
+      "nis": "82036",
+      "name": "Vaux-sur-Sûre"
+    },
+    {
+      "nis": "24135",
+      "name": "Tielt-Winge"
+    },
+    {
+      "nis": "61063",
+      "name": "Verlaine"
+    },
+    {
+      "nis": "24107",
+      "name": "Tienen / Tirlemont"
+    },
+    {
+      "nis": "82032",
+      "name": "Vielsalm"
+    },
+    {
+      "nis": "31033",
+      "name": "Torhout"
+    },
+    {
+      "nis": "25107",
+      "name": "Villers-la-Ville"
+    },
+    {
+      "nis": "24109",
+      "name": "Tremelo"
+    },
+    {
+      "nis": "61068",
+      "name": "Villers-Le-Bouillet"
+    },
+    {
+      "nis": "93090",
+      "name": "Viroinval"
+    },
+    {
+      "nis": "38025",
+      "name": "Veurne / Furnes"
+    },
+    {
+      "nis": "85045",
+      "name": "Virton"
+    },
+    {
+      "nis": "51019",
+      "name": "Vloesberg / Flobecq"
+    },
+    {
+      "nis": "33041",
+      "name": "Vleteren"
+    },
+    {
+      "nis": "91143",
+      "name": "Vresse-sur-Semois"
+    },
+    {
+      "nis": "73109",
+      "name": "Voeren / Fourons"
+    },
+    {
+      "nis": "93088",
+      "name": "Walcourt"
+    },
+    {
+      "nis": "13044",
+      "name": "Vorselaar"
+    },
+    {
+      "nis": "25124",
+      "name": "Walhain"
+    },
+    {
+      "nis": "13046",
+      "name": "Vosselaar"
+    },
+    {
+      "nis": "61072",
+      "name": "Wanze"
+    },
+    {
+      "nis": "42023",
+      "name": "Waasmunster"
+    },
+    {
+      "nis": "64075",
+      "name": "Wasseiges"
+    },
+    {
+      "nis": "25110",
+      "name": "Waterloo"
+    },
+    {
+      "nis": "73098",
+      "name": "Wellen"
+    },
+    {
+      "nis": "23102",
+      "name": "Wemmel"
+    },
+    {
+      "nis": "63080",
+      "name": "Weismes / Waimes"
+    },
+    {
+      "nis": "33029",
+      "name": "Wervik"
+    },
+    {
+      "nis": "63084",
+      "name": "Welkenraedt"
+    },
+    {
+      "nis": "13049",
+      "name": "Westerlo"
+    },
+    {
+      "nis": "84075",
+      "name": "Wellin"
+    },
+    {
+      "nis": "62108",
+      "name": "Wezet / Visé"
+    },
+    {
+      "nis": "34041",
+      "name": "Wevelgem"
+    },
+    {
+      "nis": "91141",
+      "name": "Yvoir"
+    },
+    {
+      "nis": "23103",
+      "name": "Wezembeek-Oppem"
+    },
+    {
+      "nis": "55040",
+      "name": "Zinnik / Soignies"
+    },
+    {
+      "nis": "42026",
+      "name": "Wichelen"
+    },
+    {
+      "nis": "37017",
+      "name": "Wielsbeke"
+    },
+    {
+      "nis": "11050",
+      "name": "Wijnegem"
+    },
+    {
+      "nis": "12040",
+      "name": "Willebroek"
+    },
+    {
+      "nis": "37021",
+      "name": "Wingene"
+    },
+    {
+      "nis": "11052",
+      "name": "Wommelgem"
+    },
+    {
+      "nis": "45061",
+      "name": "Wortegem-Petegem"
+    },
+    {
+      "nis": "11053",
+      "name": "Wuustwezel"
+    },
+    {
+      "nis": "11054",
+      "name": "Zandhoven"
+    },
+    {
+      "nis": "23094",
+      "name": "Zaventem"
+    },
+    {
+      "nis": "31040",
+      "name": "Zedelgem"
+    },
+    {
+      "nis": "42028",
+      "name": "Zele"
+    },
+    {
+      "nis": "43018",
+      "name": "Zelzate"
+    },
+    {
+      "nis": "23096",
+      "name": "Zemst"
+    },
+    {
+      "nis": "11055",
+      "name": "Zoersel"
+    },
+    {
+      "nis": "71066",
+      "name": "Zonhoven"
+    },
+    {
+      "nis": "33037",
+      "name": "Zonnebeke"
+    },
+    {
+      "nis": "24130",
+      "name": "Zoutleeuw / Léau"
+    },
+    {
+      "nis": "31042",
+      "name": "Zuienkerke"
+    },
+    {
+      "nis": "44081",
+      "name": "Zulte"
+    },
+    {
+      "nis": "71067",
+      "name": "Zutendaal"
+    },
+    {
+      "nis": "45065",
+      "name": "Zwalm / Zwalin"
+    },
+    {
+      "nis": "34042",
+      "name": "Zwevegem"
+    }
+  ]
+}

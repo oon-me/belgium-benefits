@@ -242,6 +242,29 @@ an umlaut typo from silently disabling the entry 7 exclusion.
 Stored preferences and the `?commune=` parameter hold the NIS code; the picker filters across
 all three language names, so typing "Anvers" finds Antwerpen.
 
+### Commune-level benefits (daily research, from 24 Oct 2026)
+
+`data/commune-coverage.json` tracks the work: `done` lists every commune already checked
+(date and the benefit ids added; an empty list means nothing household-facing was found), and
+`queue` is the order for the rest. Ten communes a day, taken from the top of `queue`.
+
+Per commune:
+
+1. Find the premium pages on the commune's (or its OCMW/CPAS's) own site: search
+   `site:<domain> premie OR toelage` (or `prime OR allocation`), or list its URLs.
+2. Keep what a household can request and whose amount is on that page: birth premiums,
+   carer premiums, incontinence/waste-bag allowances, leisure allowances, rent and renovation
+   top-ups, washable nappies, and the like. Leave out business and association subsidies,
+   automatic payments, district-only schemes, and schemes that only repeat a Flemish, Walloon,
+   Brussels or federal one (those get one region-wide entry, not 565 copies).
+3. Write one entry per premium: `communes` holds that commune (a NIS code when the Statbel
+   name carries a qualifier, e.g. `46021` for Sint-Niklaas), `institution` the official name,
+   `source_url` the page, `verified` today. Only figures from the page.
+4. Move the commune from `queue` to `done` with the ids, even when nothing was added.
+
+All entries are bundled into the client, about 6 KB each. Split the data per region or load
+commune entries on demand before it passes about 1.5 MB.
+
 ## Responsive behaviour
 
 Mobile-first, breaking at Tailwind's `md` (768px).
