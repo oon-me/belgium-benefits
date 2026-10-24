@@ -1,6 +1,6 @@
 // The About page, in the four site languages. Structure follows the feedback example
 // (waarwonen.be/over-ons): what it is, why, our data, our approach, who is behind it.
-// {name} and {email} are filled from the publisher config, as on the legal page.
+// {email} is filled from the publisher config, as on the legal page.
 export const about = {
   en: {
     title: "About us",
@@ -26,17 +26,16 @@ export const about = {
       {
         heading: "Our approach",
         body: [
-          "We only use official sources: government websites and the health funds' own sites. Never comparison sites, blogs or aggregators.",
+          "We only use official sources: government websites and the health funds' own sites.",
           "Every entry shows the date it was last checked. An automatic check runs every week, and an entry that has not been re-checked for 90 days shows a warning.",
           "Changes that have been announced but are not law yet are shown separately and never change the amounts.",
-          "We stay neutral: no advertising, no paid listings, no affiliate links and no tracking. Health funds are compared on what they publish themselves.",
           "The list is not complete. If the information here differs from the official body, the official body is always right.",
         ],
       },
       {
-        heading: "Who is behind it?",
+        heading: "Contact",
         body: [
-          "Belgium Benefits is run by {name}, in a private capacity. It is not a government website and it is not affiliated with any authority or health fund. What you read here is information, not advice.",
+          "Belgium Benefits is a private project. It is not a government website and it is not affiliated with any authority or health fund. What you read here is information, not advice.",
           "Questions, corrections or a benefit we missed? Write to {email}.",
         ],
       },
@@ -66,17 +65,16 @@ export const about = {
       {
         heading: "Onze aanpak",
         body: [
-          "We gebruiken enkel officiële bronnen: overheidswebsites en de eigen websites van de ziekenfondsen. Nooit vergelijkingssites, blogs of verzamelsites.",
+          "We gebruiken enkel officiële bronnen: overheidswebsites en de eigen websites van de ziekenfondsen.",
           "Bij elk voordeel staat wanneer het laatst gecontroleerd werd. Elke week loopt een automatische controle, en een voordeel dat 90 dagen niet opnieuw gecontroleerd is, krijgt een waarschuwing.",
           "Wijzigingen die aangekondigd zijn maar nog geen wet zijn, tonen we apart. Ze veranderen nooit de bedragen.",
-          "We blijven neutraal: geen reclame, geen betaalde vermeldingen, geen affiliatelinks en geen tracking. Ziekenfondsen vergelijken we op wat ze zelf publiceren.",
           "De lijst is niet volledig. Wijkt de informatie hier af van die van de officiële instantie, dan heeft de officiële instantie altijd gelijk.",
         ],
       },
       {
-        heading: "Wie zit erachter?",
+        heading: "Contact",
         body: [
-          "Belgium Benefits wordt in eigen naam uitgegeven door {name}. Het is geen overheidswebsite en is niet verbonden aan een overheid of ziekenfonds. Wat je hier leest is informatie, geen advies.",
+          "Belgium Benefits is een privéproject. Het is geen overheidswebsite en is niet verbonden aan een overheid of ziekenfonds. Wat je hier leest is informatie, geen advies.",
           "Vragen, correcties of een voordeel dat we gemist hebben? Schrijf naar {email}.",
         ],
       },
@@ -106,17 +104,16 @@ export const about = {
       {
         heading: "Notre approche",
         body: [
-          "Nous n'utilisons que des sources officielles : les sites des autorités et ceux des mutualités elles-mêmes. Jamais de comparateurs, de blogs ou d'agrégateurs.",
+          "Nous n'utilisons que des sources officielles : les sites des autorités et ceux des mutualités elles-mêmes.",
           "Chaque fiche indique sa date de dernière vérification. Un contrôle automatique a lieu chaque semaine, et une fiche non revérifiée depuis 90 jours affiche un avertissement.",
           "Les changements annoncés mais pas encore en vigueur sont affichés à part et ne modifient jamais les montants.",
-          "Nous restons neutres : pas de publicité, pas de mises en avant payantes, pas de liens d'affiliation et pas de suivi. Les mutualités sont comparées sur ce qu'elles publient elles-mêmes.",
           "La liste n'est pas complète. Si les informations ici diffèrent de celles de l'organisme officiel, c'est toujours l'organisme officiel qui fait foi.",
         ],
       },
       {
-        heading: "Qui est derrière ce site ?",
+        heading: "Contact",
         body: [
-          "Belgium Benefits est publié à titre privé par {name}. Ce n'est pas un site officiel et il n'est lié à aucune autorité ni mutualité. Ce que vous lisez ici est de l'information, pas un conseil.",
+          "Belgium Benefits est un projet privé. Ce n'est pas un site officiel et il n'est lié à aucune autorité ni mutualité. Ce que vous lisez ici est de l'information, pas un conseil.",
           "Une question, une correction ou un avantage oublié ? Écrivez à {email}.",
         ],
       },
@@ -146,17 +143,16 @@ export const about = {
       {
         heading: "Unsere Arbeitsweise",
         body: [
-          "Wir nutzen nur offizielle Quellen: Websites der Behörden und die eigenen Websites der Krankenkassen. Nie Vergleichsportale, Blogs oder Sammelseiten.",
+          "Wir nutzen nur offizielle Quellen: Websites der Behörden und die eigenen Websites der Krankenkassen.",
           "Bei jedem Eintrag steht, wann er zuletzt geprüft wurde. Jede Woche läuft eine automatische Prüfung, und ein Eintrag, der 90 Tage nicht erneut geprüft wurde, zeigt einen Hinweis.",
           "Angekündigte, aber noch nicht geltende Änderungen zeigen wir getrennt an. Sie ändern nie die Beträge.",
-          "Wir bleiben neutral: keine Werbung, keine bezahlten Einträge, keine Affiliate-Links und kein Tracking. Krankenkassen vergleichen wir anhand dessen, was sie selbst veröffentlichen.",
           "Die Liste ist nicht vollständig. Weichen die Angaben hier von denen der zuständigen Stelle ab, gilt immer die zuständige Stelle.",
         ],
       },
       {
-        heading: "Wer steckt dahinter?",
+        heading: "Kontakt",
         body: [
-          "Belgium Benefits wird privat von {name} herausgegeben. Es ist keine Website einer Behörde und mit keiner Behörde oder Krankenkasse verbunden. Was Sie hier lesen, ist Information, keine Beratung.",
+          "Belgium Benefits ist ein privates Projekt. Es ist keine Website einer Behörde und mit keiner Behörde oder Krankenkasse verbunden. Was Sie hier lesen, ist Information, keine Beratung.",
           "Fragen, Korrekturen oder eine Vergünstigung, die wir übersehen haben? Schreiben Sie an {email}.",
         ],
       },
