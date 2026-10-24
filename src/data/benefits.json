@@ -1262,15 +1262,16 @@
       "Sankt Vith"
     ],
     "institution": "Ministerium der Deutschsprachigen Gemeinschaft",
-    "verified": "17 Sep 2026",
+    "verified": "24 Oct 2026",
     "status": "verified",
     "source_url": "https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2336/",
+    "amount_source_url": "https://ostbelgienlive.be/desktopdefault.aspx/tabid-71/211_read-77301/",
     "content": {
       "en": {
         "title": "Studienbeihilfe (Study Grant, German-speaking Community)",
         "desc": "Financial help from the German-speaking Community toward secondary or higher-education costs, based on income.",
-        "deadline": "Apply by 31 October of the relevant school year.",
-        "amount": "Roughly €59–€259/year if living at home, or €176–€777/year if boarding or renting a room (figures not confirmed on a directly-rendered official page)",
+        "deadline": "For the 2026-2027 school year, apply by 30 November 2026 (extended by one month this year; normally 31 October).",
+        "amount": "Depends on household income and the number of dependants. Raised by 50% for 2026-2027. Maximum household income: €22,411.79 with no dependants, €36,416.97 with 1, €47,620.04 with 2, €58,126.80 with 3",
         "requirements": [
           {
             "type": "doc",
@@ -1278,17 +1279,17 @@
           }
         ],
         "steps": [
-          "Get the application form from ostbelgienbildung.be",
           "Gather income details for yourself and whoever supports you financially",
-          "Submit to the relevant community service (Eupen, Brussels, Mons, or Liège office, depending on your school) by 31 October",
+          "Apply online via Mon Espace (one form for secondary school, one for higher education), or on paper by registered post or in person at the Ministry",
+          "Submit by 30 November 2026",
           "Contact studienbeihilfen@dgov.be if you need help"
         ]
       },
       "nl": {
         "title": "Studienbeihilfe (Studiebeurs Duitstalige Gemeenschap)",
         "desc": "Financiële steun van de Duitstalige Gemeenschap voor kosten van secundair of hoger onderwijs, gebaseerd op inkomen.",
-        "deadline": "Aan te vragen ten laatste 31 oktober van het betrokken schooljaar.",
-        "amount": "Ongeveer €59–€259/jaar als je thuis woont, of €176–€777/jaar als je op kot zit of intern verblijft (cijfers niet bevestigd op een rechtstreeks geraadpleegde officiele pagina)",
+        "deadline": "Voor schooljaar 2026-2027 aan te vragen ten laatste 30 november 2026 (dit jaar met een maand verlengd; normaal 31 oktober).",
+        "amount": "Hangt af van het gezinsinkomen en het aantal personen ten laste. Voor 2026-2027 met 50% verhoogd. Maximaal gezinsinkomen: €22.411,79 zonder personen ten laste, €36.416,97 met 1, €47.620,04 met 2, €58.126,80 met 3",
         "requirements": [
           {
             "type": "doc",
@@ -1296,17 +1297,17 @@
           }
         ],
         "steps": [
-          "Haal het aanvraagformulier op via ostbelgienbildung.be",
           "Verzamel inkomensgegevens van jezelf en van wie voor je onderhoud instaat",
-          "Dien in bij de bevoegde dienst (Eupen, Brussel, Mons of Luik, afhankelijk van je school) ten laatste 31 oktober",
+          "Vraag online aan via Mon Espace (één formulier voor het secundair, één voor het hoger onderwijs), of op papier per aangetekende brief of persoonlijk bij het Ministerie",
+          "Dien in ten laatste 30 november 2026",
           "Neem contact op met studienbeihilfen@dgov.be als je hulp nodig hebt"
         ]
       },
       "fr": {
         "title": "Studienbeihilfe (Bourse d'Études, Communauté germanophone)",
         "desc": "Une aide financière de la Communauté germanophone pour les frais d'enseignement secondaire ou supérieur, basée sur le revenu.",
-        "deadline": "À demander au plus tard le 31 octobre de l'année scolaire concernée.",
-        "amount": "Environ 59–259 €/an si vous vivez chez vous, ou 176–777 €/an en internat ou en kot (chiffres non confirmés sur une page officielle directement consultée)",
+        "deadline": "Pour l'année scolaire 2026-2027, à demander au plus tard le 30 novembre 2026 (prolongé d'un mois cette année ; normalement le 31 octobre).",
+        "amount": "Dépend du revenu du ménage et du nombre de personnes à charge. Augmentée de 50 % pour 2026-2027. Revenu maximal du ménage : 22.411,79 € sans personne à charge, 36.416,97 € avec 1, 47.620,04 € avec 2, 58.126,80 € avec 3",
         "requirements": [
           {
             "type": "doc",
@@ -1314,17 +1315,17 @@
           }
         ],
         "steps": [
-          "Procurez-vous le formulaire de demande sur ostbelgienbildung.be",
           "Rassemblez les informations de revenus pour vous-même et la personne qui subvient à votre entretien",
-          "Soumettez au service communautaire compétent (bureau d'Eupen, Bruxelles, Mons ou Liège, selon votre école) avant le 31 octobre",
+          "Faites la demande en ligne via Mon Espace (un formulaire pour le secondaire, un pour le supérieur), ou sur papier par recommandé ou en personne au Ministère",
+          "Soumettez au plus tard le 30 novembre 2026",
           "Contactez studienbeihilfen@dgov.be si vous avez besoin d'aide"
         ]
       },
       "de": {
         "title": "Studienbeihilfe (Deutschsprachige Gemeinschaft)",
         "desc": "Finanzielle Unterstützung der Deutschsprachigen Gemeinschaft für Kosten der Sekundarschul- oder Hochschulbildung, abhängig vom Einkommen.",
-        "deadline": "Antragstellung bis spätestens 31. Oktober des betreffenden Schuljahres.",
-        "amount": "Etwa 59–259 €/Jahr bei Wohnen zu Hause, oder 176–777 €/Jahr bei Internat oder Zimmermiete (Zahlen nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt)",
+        "deadline": "Für das Schuljahr 2026-2027 Antragstellung bis spätestens 30. November 2026 (in diesem Jahr um einen Monat verlängert; normalerweise 31. Oktober).",
+        "amount": "Hängt vom Haushaltseinkommen und der Anzahl Personen zu Lasten ab. Für 2026-2027 um 50 % erhöht. Maximales Haushaltseinkommen: 22.411,79 € ohne Personen zu Lasten, 36.416,97 € mit 1, 47.620,04 € mit 2, 58.126,80 € mit 3",
         "requirements": [
           {
             "type": "doc",
@@ -1332,9 +1333,9 @@
           }
         ],
         "steps": [
-          "Holen Sie sich das Antragsformular auf ostbelgienbildung.be",
           "Sammeln Sie Einkommensangaben für sich selbst und die Person, die für Ihren Unterhalt aufkommt",
-          "Reichen Sie es bei der zuständigen Gemeinschaftsdienststelle ein (Eupen, Brüssel, Mons oder Lüttich, je nach Schule), bis spätestens 31. Oktober",
+          "Beantragen Sie online über Mon Espace (ein Formular für die Sekundarschule, eines für Hochschule und Universität), oder auf Papier per Einschreiben oder persönlich im Ministerium",
+          "Reichen Sie den Antrag bis spätestens 30. November 2026 ein",
           "Kontaktieren Sie studienbeihilfen@dgov.be, falls Sie Hilfe benötigen"
         ]
       }

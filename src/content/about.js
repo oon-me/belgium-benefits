@@ -26,7 +26,6 @@ export const about = {
       {
         heading: "Our approach",
         body: [
-          "We only use official sources: government websites and the health funds' own sites.",
           "Every entry shows the date it was last checked. An automatic check runs every week, and an entry that has not been re-checked for 90 days shows a warning.",
           "Changes that have been announced but are not law yet are shown separately and never change the amounts.",
           "The list is not complete. If the information here differs from the official body, the official body is always right.",
@@ -65,7 +64,6 @@ export const about = {
       {
         heading: "Onze aanpak",
         body: [
-          "We gebruiken enkel officiële bronnen: overheidswebsites en de eigen websites van de ziekenfondsen.",
           "Bij elk voordeel staat wanneer het laatst gecontroleerd werd. Elke week loopt een automatische controle, en een voordeel dat 90 dagen niet opnieuw gecontroleerd is, krijgt een waarschuwing.",
           "Wijzigingen die aangekondigd zijn maar nog geen wet zijn, tonen we apart. Ze veranderen nooit de bedragen.",
           "De lijst is niet volledig. Wijkt de informatie hier af van die van de officiële instantie, dan heeft de officiële instantie altijd gelijk.",
@@ -104,7 +102,6 @@ export const about = {
       {
         heading: "Notre approche",
         body: [
-          "Nous n'utilisons que des sources officielles : les sites des autorités et ceux des mutualités elles-mêmes.",
           "Chaque fiche indique sa date de dernière vérification. Un contrôle automatique a lieu chaque semaine, et une fiche non revérifiée depuis 90 jours affiche un avertissement.",
           "Les changements annoncés mais pas encore en vigueur sont affichés à part et ne modifient jamais les montants.",
           "La liste n'est pas complète. Si les informations ici diffèrent de celles de l'organisme officiel, c'est toujours l'organisme officiel qui fait foi.",
@@ -143,7 +140,6 @@ export const about = {
       {
         heading: "Unsere Arbeitsweise",
         body: [
-          "Wir nutzen nur offizielle Quellen: Websites der Behörden und die eigenen Websites der Krankenkassen.",
           "Bei jedem Eintrag steht, wann er zuletzt geprüft wurde. Jede Woche läuft eine automatische Prüfung, und ein Eintrag, der 90 Tage nicht erneut geprüft wurde, zeigt einen Hinweis.",
           "Angekündigte, aber noch nicht geltende Änderungen zeigen wir getrennt an. Sie ändern nie die Beträge.",
           "Die Liste ist nicht vollständig. Weichen die Angaben hier von denen der zuständigen Stelle ab, gilt immer die zuständige Stelle.",
