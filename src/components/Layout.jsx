@@ -4,6 +4,7 @@ import { c, bodyFont, displayFont } from "../theme.js";
 import { useT } from "../i18n.js";
 import LangSwitcher from "./LangSwitcher.jsx";
 import Footer from "./Footer.jsx";
+import HistoryArrows from "./HistoryArrows.jsx";
 
 // Nav lives in one place and renders twice: a top bar from md up, a tab bar below it.
 function navItems(lang, t) {
@@ -56,6 +57,7 @@ export default function Layout() {
 
       {/* pb-20 on mobile keeps the tab bar from covering the last card */}
       <main className="flex-1">
+        <HistoryArrows t={t} />
         <Outlet />
       </main>
 
