@@ -5,8 +5,8 @@ import { c } from "../theme.js";
 import { loadPrefs, PREFS_EVENT } from "../lib/prefs.js";
 
 // The main path through the site, first page to last: home, the four questions, the results.
-// On these pages the arrows step along this path, so the home page has only "Forward" and the
-// results page only "Back". Past the location question you need a commune, as with "Next".
+// On these pages the arrows step along this path: none on the home page, only "Back" on the
+// results page. Past the location question you need a commune, as with "Next".
 const FLOW = ["", "start/location", "start/status", "start/situation", "start/fund", "benefits"];
 
 // Other pages (a benefit, About, Legal…) follow the visitor's own history. Browsers don't say
@@ -51,6 +51,8 @@ export default function HistoryArrows({ t }) {
 
   const rest = location.pathname.replace(new RegExp(`^/${lang}/?`), "").replace(/\/$/, "");
   const i = FLOW.indexOf(rest);
+  // The home page has its own "start" button and no arrows.
+  if (i === 0) return null;
   const go = (p) => () => navigate(`/${lang}${p ? `/${p}` : ""}`);
   let back = null;
   let forward = null;
