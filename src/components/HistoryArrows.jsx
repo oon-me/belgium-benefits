@@ -16,6 +16,10 @@ const FLOW = ["", "start/location", "start/status", "start/situation", "start/fu
 const KEY = "bb-history-max";
 const readMax = () => { try { return Number(sessionStorage.getItem(KEY)) || 0; } catch { return 0; } };
 const saveMax = (n) => { try { sessionStorage.setItem(KEY, String(n)); } catch { /* storage blocked */ } };
+// The first page of a visit counts as a new page unless it was a reload or the browser's own
+// back/forward, which keep what lies ahead.
+let firstLoad = true;
+const keepsForward = () => ["reload", "back_forward"].includes(performance.getEntriesByType?.("navigation")[0]?.type);
 
 export default function HistoryArrows({ t }) {
   const { lang } = useParams();
@@ -30,7 +34,9 @@ export default function HistoryArrows({ t }) {
     if (typeof idx !== "number") {
       setHist({ back: window.history.length > 1, forward: false });
     } else {
-      const max = type === "POP" ? Math.max(readMax(), idx) : idx;
+      const pop = firstLoad ? keepsForward() : type === "POP";
+      firstLoad = false;
+      const max = pop ? Math.max(readMax(), idx) : idx;
       saveMax(max);
       setHist({ back: idx > 0, forward: idx < max });
     }
