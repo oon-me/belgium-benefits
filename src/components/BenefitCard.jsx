@@ -23,7 +23,7 @@ export default function BenefitCard({ benefit, lang, t, to, status = null }) {
         </p>
         <StampBadge status={benefit.status} t={t} />
       </div>
-      <p className="text-xs mb-3 flex-1" style={{ color: c.inkSoft }}>
+      <p className="text-xs mb-3" style={{ color: c.inkSoft }}>
         {bc.desc}
       </p>
       {conditions.length > 0 && (
@@ -44,6 +44,8 @@ export default function BenefitCard({ benefit, lang, t, to, status = null }) {
           {rule.text[lang] ?? rule.text.en}
         </p>
       )}
+      {/* Pushes the notice and amount to the bottom so cards in a row line up. */}
+      <div className="flex-1" />
       {benefit.notice && (
         <p className="text-[13px] leading-snug mb-3 line-clamp-2" style={{ color: c.inkSoft }}>
           <span className="font-semibold" style={{ color: c.ink }}>ⓘ {t("noticeLabel")}:</span>{" "}
