@@ -925,18 +925,17 @@
       "Flanders"
     ],
     "communes": [],
-    "institution": "Vlaams Energie- en Klimaatagentschap / Fluvius",
-    "verified": "18 Sep 2026",
-    "status": "community",
-    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie",
+    "institution": "Vlaamse overheid – Wonen in Vlaanderen",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/mijn-verbouwpremie",
     "request_url": "https://loket.mijnverbouwpremie.be/",
-    "note": "Checked again 18 Sep 2026: the vlaanderen.be renovation-premium page loads, but the per-work amounts and the March 2026 phase-out for the lowest income categories sit behind expandable sections that were not confirmed directly. Figures still come from third-party contractor sites.",
     "content": {
       "en": {
-        "title": "Mijn VerbouwPremie (Renovation & Insulation Grant)",
-        "desc": "A Flemish government grant toward the cost of insulating or renovating your home, requested per type of work (e.g. roof insulation). Works include roof, wall and floor insulation and renovation, windows and doors, heat pumps (geothermal, hybrid, air/air, air/water) and heat-pump boilers. New solar water heaters no longer qualify since 1 July 2025.",
-        "deadline": "Submit online after the work is done and invoiced; exact eligibility depends on your income category, and lower-income categories are being phased out of the roof-insulation premium from 1 March 2026 — check current rules before applying.",
-        "amount": "Varies by income category and type of work (e.g. roof insulation is calculated per m² up to technical and invoice-based caps) — figures not confirmed on a directly-rendered official page",
+        "title": "Mijn VerbouwPremie (Flemish renovation grant)",
+        "desc": "A Flemish government grant for renovation and energy-saving work on a house or apartment in the Flemish Region: roof, outer walls, floor, windows and doors, damp treatment, electrics and pipes, heat pumps and heat-pump boilers. What you get depends on your income category (4 = lowest incomes, 1 = highest). Since 1 March 2026, owner-occupiers in categories 1 and 2 can only get a premium for a heat pump or heat-pump boiler.",
+        "deadline": "Apply online after the work is finished, at the latest 2 years after the date of the final invoice.",
+        "amount": "Owner-occupiers, category 4: 50% of the invoice excl. VAT, e.g. roof up to €5,750, windows and doors up to €5,250, outer walls up to €5,000. Category 3: 35% (roof up to €4,025). Categories 1 and 2: heat pump only, e.g. air-to-water €1,500, max 25% (category 2) or 20% (category 1) of the invoice. Category 4 for a single person means a taxable income up to €24,750; for a couple up to €37,110, plus €4,420 per extra dependant (applications from 1 Jan 2026).",
         "requirements": [
           {
             "type": "phone",
@@ -944,25 +943,25 @@
           },
           {
             "type": "card",
-            "label": "Belgian eID card + reader (via mijn.vlaanderen.be)"
+            "label": "Belgian eID card + card reader"
           },
           {
             "type": "doc",
-            "label": "Final invoices for the work"
+            "label": "Final invoices, contractor certificates and before/after photos"
           }
         ],
         "steps": [
-          "Make sure the work meets the technical requirements (e.g. roof insulation Rd ≥ 4.5 m²K/W)",
-          "Have the work carried out by a contractor and keep the invoices",
-          "Apply digitally via Mijn VerbouwPremie on vlaanderen.be, logging in with itsme or your eID",
-          "Also check separately whether a Fluvius energy (REG) premium applies — it is not automatically included"
+          "Check your income category and premium in the official Mijn VerbouwPremie simulator",
+          "Have the work done and collect the invoices, contractor and technical certificates and photos",
+          "Log in to Mijn VerbouwLoket with itsme or your eID and start a new application (you can include several categories of work)",
+          "Upload each invoice separately and submit within 2 years of the final invoice; your municipality's housing desk or Energiehuis can help you apply"
         ]
       },
       "nl": {
         "title": "Mijn VerbouwPremie",
-        "desc": "Een premie van de Vlaamse overheid voor de kost van isolatie of renovatie van je woning, aan te vragen per soort werk (bv. dakisolatie). Werken die in aanmerking komen: isolatie en renovatie van dak, buitenmuren en vloer, ramen en deuren, warmtepompen (geothermisch, hybride, lucht/lucht, lucht/water) en warmtepompboilers. Voor een nieuwe zonneboiler kan je sinds 1 juli 2025 geen premie meer aanvragen.",
-        "deadline": "Digitaal aan te vragen na uitvoering en facturatie van de werken; de exacte voorwaarden hangen af van je inkomenscategorie, en de laagste inkomenscategorieën verliezen vanaf 1 maart 2026 het recht op de dakisolatiepremie — controleer de actuele regels voor je aanvraagt.",
-        "amount": "Varieert naargelang inkomenscategorie en type werk (dakisolatie wordt bv. per m² berekend, begrensd door technische normen en factuurbedrag) — cijfers niet bevestigd op een rechtstreeks geraadpleegde officiele pagina",
+        "desc": "Een premie van de Vlaamse overheid voor renovatie en energiebesparende werken aan een woning of appartement in het Vlaamse Gewest: dak, buitenmuur, vloer, ramen en deuren, vochtbestrijding, elektriciteit en leidingen, warmtepomp en warmtepompboiler. Wat je krijgt hangt af van je inkomenscategorie (4 = laagste inkomens, 1 = hoogste). Sinds 1 maart 2026 krijgen eigenaar-bewoners uit categorie 1 en 2 alleen nog een premie voor een warmtepomp of warmtepompboiler.",
+        "deadline": "Online aanvragen na de werken, uiterlijk 2 jaar na de datum van de eindfactuur.",
+        "amount": "Eigenaar-bewoners, categorie 4: 50% van de factuur zonder btw, bv. dak tot €5.750, ramen en deuren tot €5.250, buitenmuur tot €5.000. Categorie 3: 35% (dak tot €4.025). Categorie 1 en 2: alleen warmtepomp, bv. lucht-water €1.500, max. 25% (categorie 2) of 20% (categorie 1) van de factuur. Categorie 4 betekent voor een alleenstaande een belastbaar inkomen tot €24.750; voor een koppel tot €37.110, plus €4.420 per extra persoon ten laste (aanvragen vanaf 1 jan 2026).",
         "requirements": [
           {
             "type": "phone",
@@ -970,25 +969,25 @@
           },
           {
             "type": "card",
-            "label": "Belgische eID-kaart + kaartlezer (via mijn.vlaanderen.be)"
+            "label": "Belgische eID + kaartlezer"
           },
           {
             "type": "doc",
-            "label": "Eindfacturen van de werken"
+            "label": "Eindfacturen, aannemersattesten en foto's voor en na de werken"
           }
         ],
         "steps": [
-          "Zorg dat de werken voldoen aan de technische eisen (bv. dakisolatie Rd ≥ 4,5 m²K/W)",
-          "Laat de werken uitvoeren door een aannemer en bewaar de facturen",
-          "Vraag digitaal aan via Mijn VerbouwPremie op vlaanderen.be, met inloggen via itsme of je eID",
-          "Controleer ook apart of een Fluvius-energiepremie (REG) van toepassing is — die zit hier niet automatisch in"
+          "Bekijk je inkomenscategorie en premie in de officiële simulator van Mijn VerbouwPremie",
+          "Laat de werken uitvoeren en verzamel facturen, aannemers- en technische attesten en foto's",
+          "Meld je aan in Mijn VerbouwLoket met itsme of je eID en start een nieuwe aanvraag (je kunt meerdere categorieën van werken tegelijk aanvragen)",
+          "Laad elke factuur apart op en dien in binnen 2 jaar na de eindfactuur; het woonloket van je gemeente of het Energiehuis kan je helpen"
         ]
       },
       "fr": {
-        "title": "Mijn VerbouwPremie (Prime Flamande de Rénovation et d'Isolation)",
-        "desc": "Une prime du gouvernement flamand pour le coût de l'isolation ou de la rénovation de votre logement, demandée par type de travaux (ex. isolation de toiture). Travaux concernés : isolation et rénovation du toit, des murs extérieurs et du sol, fenêtres et portes, pompes à chaleur (géothermique, hybride, air/air, air/eau) et boilers thermodynamiques. Les nouveaux chauffe-eau solaires ne sont plus admis depuis le 1er juillet 2025.",
-        "deadline": "À soumettre en ligne après exécution et facturation des travaux ; les conditions exactes dépendent de votre catégorie de revenus, et les catégories de revenus les plus faibles perdent le droit à la prime d'isolation de toiture à partir du 1er mars 2026 — vérifiez les règles actuelles avant de demander.",
-        "amount": "Varie selon la catégorie de revenus et le type de travaux (l'isolation de toiture est par exemple calculée par m², plafonnée par des normes techniques et le montant de la facture) — chiffres non confirmés sur une page officielle directement consultée",
+        "title": "Mijn VerbouwPremie (prime flamande à la rénovation)",
+        "desc": "Une prime du gouvernement flamand pour des travaux de rénovation et d'économie d'énergie dans une maison ou un appartement en Région flamande : toiture, murs extérieurs, sol, fenêtres et portes, traitement de l'humidité, électricité et conduites, pompe à chaleur et chauffe-eau thermodynamique. Le montant dépend de votre catégorie de revenus (4 = revenus les plus bas, 1 = les plus élevés). Depuis le 1er mars 2026, les propriétaires occupants des catégories 1 et 2 ne peuvent plus obtenir qu'une prime pour une pompe à chaleur ou un chauffe-eau thermodynamique.",
+        "deadline": "Demande en ligne une fois les travaux terminés, au plus tard 2 ans après la date de la facture finale.",
+        "amount": "Propriétaires occupants, catégorie 4 : 50 % de la facture hors TVA, p. ex. toiture jusqu'à 5.750 €, fenêtres et portes jusqu'à 5.250 €, murs extérieurs jusqu'à 5.000 €. Catégorie 3 : 35 % (toiture jusqu'à 4.025 €). Catégories 1 et 2 : pompe à chaleur uniquement, p. ex. air-eau 1.500 €, max. 25 % (catégorie 2) ou 20 % (catégorie 1) de la facture. La catégorie 4 correspond, pour une personne seule, à un revenu imposable jusqu'à 24.750 € ; pour un couple jusqu'à 37.110 €, plus 4.420 € par personne à charge supplémentaire (demandes à partir du 1er janv. 2026).",
         "requirements": [
           {
             "type": "phone",
@@ -996,25 +995,25 @@
           },
           {
             "type": "card",
-            "label": "carte eID belge + lecteur (via mijn.vlaanderen.be)"
+            "label": "carte eID belge + lecteur"
           },
           {
             "type": "doc",
-            "label": "Factures finales des travaux"
+            "label": "Factures finales, attestations de l'entrepreneur et photos avant/après"
           }
         ],
         "steps": [
-          "Assurez-vous que les travaux respectent les exigences techniques (ex. isolation de toiture Rd ≥ 4,5 m²K/W)",
-          "Faites exécuter les travaux par un entrepreneur et conservez les factures",
-          "Demandez numériquement via Mijn VerbouwPremie sur vlaanderen.be, en vous connectant avec itsme ou votre eID",
-          "Vérifiez aussi séparément si une prime énergie (REG) de Fluvius s'applique — elle n'est pas incluse automatiquement"
+          "Vérifiez votre catégorie de revenus et la prime dans le simulateur officiel de Mijn VerbouwPremie (en néerlandais)",
+          "Faites réaliser les travaux et rassemblez les factures, les attestations de l'entrepreneur et techniques et les photos",
+          "Connectez-vous à Mijn VerbouwLoket avec itsme ou votre eID et lancez une nouvelle demande (plusieurs catégories de travaux possibles)",
+          "Chargez chaque facture séparément et introduisez la demande dans les 2 ans suivant la facture finale ; le guichet logement de votre commune ou l'Energiehuis peut vous aider"
         ]
       },
       "de": {
-        "title": "Mijn VerbouwPremie (Flämische Renovierungs- und Dämmprämie)",
-        "desc": "Eine Prämie der flämischen Regierung für die Kosten der Dämmung oder Renovierung Ihrer Wohnung, beantragt je nach Art der Arbeiten (z. B. Dachdämmung). Gefördert werden u. a. Dämmung und Renovierung von Dach, Außenwänden und Boden, Fenster und Türen, Wärmepumpen (geothermisch, hybrid, Luft/Luft, Luft/Wasser) und Wärmepumpenboiler. Neue Solarwarmwasserbereiter sind seit dem 1. Juli 2025 nicht mehr förderfähig.",
-        "deadline": "Online einzureichen nach Ausführung und Rechnungsstellung der Arbeiten; die genauen Bedingungen hängen von Ihrer Einkommenskategorie ab, und die niedrigsten Einkommenskategorien verlieren ab 1. März 2026 den Anspruch auf die Dachdämmungsprämie — prüfen Sie die aktuellen Regeln vor der Antragstellung.",
-        "amount": "Variiert je nach Einkommenskategorie und Art der Arbeiten (Dachdämmung wird z. B. pro m² berechnet, begrenzt durch technische Normen und Rechnungsbetrag) — Zahlen nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt",
+        "title": "Mijn VerbouwPremie (flämische Renovierungsprämie)",
+        "desc": "Eine Prämie der flämischen Regierung für Renovierungs- und Energiesparmaßnahmen an einem Haus oder einer Wohnung in der Flämischen Region: Dach, Außenwände, Boden, Fenster und Türen, Feuchtigkeitsbehandlung, Elektrik und Leitungen, Wärmepumpe und Wärmepumpenboiler. Die Höhe hängt von Ihrer Einkommenskategorie ab (4 = niedrigste Einkommen, 1 = höchste). Seit dem 1. März 2026 erhalten selbst nutzende Eigentümer der Kategorien 1 und 2 nur noch eine Prämie für eine Wärmepumpe oder einen Wärmepumpenboiler.",
+        "deadline": "Online-Antrag nach Abschluss der Arbeiten, spätestens 2 Jahre nach dem Datum der Schlussrechnung.",
+        "amount": "Selbst nutzende Eigentümer, Kategorie 4: 50 % der Rechnung ohne MwSt., z. B. Dach bis 5.750 €, Fenster und Türen bis 5.250 €, Außenwände bis 5.000 €. Kategorie 3: 35 % (Dach bis 4.025 €). Kategorien 1 und 2: nur Wärmepumpe, z. B. Luft-Wasser 1.500 €, max. 25 % (Kategorie 2) oder 20 % (Kategorie 1) der Rechnung. Kategorie 4 bedeutet für Alleinstehende ein steuerpflichtiges Einkommen bis 24.750 €, für Paare bis 37.110 €, plus 4.420 € je weitere unterhaltsberechtigte Person (Anträge ab 1. Jan. 2026).",
         "requirements": [
           {
             "type": "phone",
@@ -1022,21 +1021,25 @@
           },
           {
             "type": "card",
-            "label": "belgische eID-Karte + Lesegerät (über mijn.vlaanderen.be)"
+            "label": "belgischer eID + Kartenleser"
           },
           {
             "type": "doc",
-            "label": "Endrechnungen der Arbeiten"
+            "label": "Schlussrechnungen, Bescheinigungen des Unternehmers und Fotos vorher/nachher"
           }
         ],
         "steps": [
-          "Stellen Sie sicher, dass die Arbeiten die technischen Anforderungen erfüllen (z. B. Dachdämmung Rd ≥ 4,5 m²K/W)",
-          "Lassen Sie die Arbeiten von einem Unternehmer ausführen und bewahren Sie die Rechnungen auf",
-          "Beantragen Sie digital über Mijn VerbouwPremie auf vlaanderen.be, mit Anmeldung über itsme oder Ihre eID",
-          "Prüfen Sie außerdem separat, ob eine Fluvius-Energieprämie (REG) gilt — diese ist nicht automatisch enthalten"
+          "Prüfen Sie Ihre Einkommenskategorie und die Prämie im offiziellen Simulator von Mijn VerbouwPremie (auf Niederländisch)",
+          "Lassen Sie die Arbeiten ausführen und sammeln Sie Rechnungen, Unternehmer- und technische Bescheinigungen sowie Fotos",
+          "Melden Sie sich bei Mijn VerbouwLoket mit itsme oder Ihrer eID an und starten Sie einen neuen Antrag (mehrere Kategorien von Arbeiten möglich)",
+          "Laden Sie jede Rechnung einzeln hoch und reichen Sie den Antrag innerhalb von 2 Jahren nach der Schlussrechnung ein; der Wohnschalter Ihrer Gemeinde oder das Energiehuis hilft Ihnen dabei"
         ]
       }
-    }
+    },
+    "amount_source_url": [
+      "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/mijn-verbouwpremie/wie-in-aanmerking-komt-voor-mijn-verbouwpremie/mijn-verbouwpremie-voor-eigenaar-bewoner",
+      "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/mijn-verbouwpremie/vraag-mijn-verbouwpremie-aan"
+    ]
   },
   {
     "id": 11,
@@ -1050,102 +1053,90 @@
       "Brussels"
     ],
     "communes": [],
-    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
-    "verified": "18 Sep 2026",
-    "status": "community",
-    "source_url": "https://www.vlaanderen.be/studietoelage",
+    "institution": "Vlaamse overheid – Dienst Studietoelagen",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/studietoelage",
     "request_url": "https://loket-studietoelagen-app.onderwijs-apps.vlaanderen.be/dossier/",
-    "note": "Checked again 18 Sep 2026: vlaanderen.be/studietoelage confirms the scheme, the Digitaal loket and that 2026-2027 applications are open, but the exact application window, the 54-credit rule and the under-30 age limit sit behind collapsed accordion panels that were not confirmed directly.",
     "content": {
       "en": {
-        "title": "Studietoelage (Flemish School/Study Grant)",
-        "desc": "Financial help from the Flemish government toward school or higher-education costs, based on household income.",
-        "deadline": "For higher education, apply between 2 June 2026 and 1 June 2027 for the 2026–2027 academic year; from this year you must study at least 54 credits and be under 30.",
-        "amount": "Varies by income, household size, and boarding status — typically a few hundred to over a thousand euros per year (exact scale not confirmed on a directly-rendered official page)",
+        "title": "Studietoelage (Flemish study grant for higher education)",
+        "desc": "A yearly grant from the Flemish government toward the costs of higher education, such as tuition, books, transport and a student room. Whether you qualify depends on your income, family situation, nationality, age and course. With a grant you also pay the lowest tuition fee at your Flemish college or university. For nursery, primary and secondary school, study costs go through the Groeipakket instead.",
+        "deadline": "Apply between 2 June 2026 and 1 June 2027 for the 2026–2027 academic year. From 2026–2027 you must be enrolled for at least 54 credits and be under 30 on 31 December 2026; exceptions exist (e.g. final year, working student, disability, medical reasons).",
+        "amount": "2026–2027, for 60 credits: minimum grant €343.20; full grant €3,187.74 (€5,311.19 if you live in a student room); exceptional grant €4,625.87 (€7,150.80 in a student room). The amount depends on household income and drops if you take fewer credits.",
         "requirements": [
           {
-            "type": "phone",
-            "label": "itsme app, or"
-          },
-          {
             "type": "card",
-            "label": "Belgian eID card + reader"
+            "label": "Electronic eID with digital certificates (Belgian national register or bis number)"
           }
         ],
         "steps": [
-          "Go to vlaanderen.be/studietoelage and log in with itsme or your eID",
-          "Fill in your (or your child's) enrollment and household income details",
-          "Submit before 1 June of the relevant academic year",
-          "You'll get a confirmation email; school allowances for younger children in Flanders/Brussels are paid automatically, no application needed"
+          "Go to the Digitaal Loket Studietoelagen (via vlaanderen.be/studietoelage) and log in; only the student can apply",
+          "Set up your profile between 2 June and 1 June of the academic year, for this year only or for as long as you study",
+          "Check and complete your details and add any documents the portal asks for; your institution's student services can help",
+          "You get a decision letter, which also states your tuition rate; if your income, household or credits change, ask for a review"
         ]
       },
       "nl": {
-        "title": "Studietoelage",
-        "desc": "Financiële steun van de Vlaamse overheid voor schoolkosten of kosten hoger onderwijs, gebaseerd op je gezinsinkomen.",
-        "deadline": "Voor hoger onderwijs aan te vragen tussen 2 juni 2026 en 1 juni 2027 voor het academiejaar 2026-2027; vanaf dit jaar moet je minstens 54 studiepunten opnemen en jonger zijn dan 30.",
-        "amount": "Varieert naargelang inkomen, gezinsgrootte en kot-status — doorgaans enkele honderden tot meer dan duizend euro per jaar (exacte schaal niet bevestigd op een rechtstreeks geraadpleegde officiele pagina)",
+        "title": "Studietoelage hoger onderwijs",
+        "desc": "Een jaarlijkse toelage van de Vlaamse overheid voor de kosten van hoger onderwijs, zoals studiegeld, boeken, vervoer en kot. Of je recht hebt hangt af van je inkomen, je gezinssituatie, je nationaliteit, je leeftijd en je opleiding. Met een studietoelage betaal je ook het laagste studiegeld bij je Vlaamse hogeschool of universiteit. Voor kleuter-, lager en secundair onderwijs loopt studiefinanciering via het Groeipakket.",
+        "deadline": "Aanvragen tussen 2 juni 2026 en 1 juni 2027 voor academiejaar 2026–2027. Vanaf 2026–2027 moet je ingeschreven zijn voor minstens 54 studiepunten en jonger zijn dan 30 op 31 december 2026; er zijn uitzonderingen (bv. diplomajaar, werkstudent, functiebeperking, medische redenen).",
+        "amount": "2026–2027, voor 60 studiepunten: minimumtoelage €343,20; volledige toelage €3.187,74 (€5.311,19 als je op kot gaat); uitzonderlijke toelage €4.625,87 (€7.150,80 op kot). Het bedrag hangt af van het gezinsinkomen en daalt als je minder studiepunten opneemt.",
         "requirements": [
           {
-            "type": "phone",
-            "label": "itsme-app, of"
-          },
-          {
             "type": "card",
-            "label": "Belgische eID-kaart + kaartlezer"
+            "label": "Elektronische eID met digitale certificaten (Belgisch rijksregister- of bisnummer)"
           }
         ],
         "steps": [
-          "Ga naar vlaanderen.be/studietoelage en log in met itsme of je eID",
-          "Vul je (of je kinds) inschrijvings- en gezinsinkomensgegevens in",
-          "Dien in vóór 1 juni van het betrokken academiejaar",
-          "Je krijgt een bevestigingsmail; de schooltoeslag voor jongere kinderen in Vlaanderen/Brussel wordt automatisch uitbetaald, geen aanvraag nodig"
+          "Ga naar het Digitaal Loket Studietoelagen (via vlaanderen.be/studietoelage) en meld je aan; alleen de student zelf kan aanvragen",
+          "Stel je profiel in tussen 2 juni en 1 juni van het academiejaar, voor dit jaar alleen of zolang je studeert",
+          "Controleer en vervolledig je gegevens en voeg documenten toe als het loket erom vraagt; de studentenvoorzieningen van je instelling kunnen helpen",
+          "Je krijgt een beslissingsbrief, met ook je inschrijvingstarief; wijzigt je inkomen, gezin of aantal studiepunten, vraag dan een herziening aan"
         ]
       },
       "fr": {
-        "title": "Studietoelage (Bourse d'Études Flamande)",
-        "desc": "Une aide financière du gouvernement flamand pour les frais scolaires ou d'enseignement supérieur, basée sur le revenu du ménage.",
-        "deadline": "Pour l'enseignement supérieur, demandez entre le 2 juin 2026 et le 1er juin 2027 pour l'année académique 2026-2027 ; à partir de cette année, vous devez suivre au moins 54 crédits et avoir moins de 30 ans.",
-        "amount": "Varie selon le revenu, la taille du ménage et le statut d'internat — généralement de quelques centaines à plus de mille euros par an (échelle exacte non confirmée sur une page officielle directement consultée)",
+        "title": "Studietoelage (bourse d'études flamande pour l'enseignement supérieur)",
+        "desc": "Une allocation annuelle du gouvernement flamand pour les frais d'études supérieures, comme le minerval, les livres, le transport et le kot. Le droit dépend de vos revenus, de votre situation familiale, de votre nationalité, de votre âge et de la formation suivie. Avec une bourse, vous payez aussi le minerval le plus bas dans votre haute école ou université flamande. Pour l'enseignement maternel, primaire et secondaire, l'aide passe par le Groeipakket.",
+        "deadline": "Demande entre le 2 juin 2026 et le 1er juin 2027 pour l'année académique 2026–2027. À partir de 2026–2027, vous devez être inscrit pour au moins 54 crédits et avoir moins de 30 ans au 31 décembre 2026 ; il existe des exceptions (p. ex. année de diplôme, étudiant-travailleur, handicap, raisons médicales).",
+        "amount": "2026–2027, pour 60 crédits : allocation minimale 343,20 € ; allocation complète 3.187,74 € (5.311,19 € si vous logez en kot) ; allocation exceptionnelle 4.625,87 € (7.150,80 € en kot). Le montant dépend des revenus du ménage et diminue si vous prenez moins de crédits.",
         "requirements": [
           {
-            "type": "phone",
-            "label": "Application itsme, ou"
-          },
-          {
             "type": "card",
-            "label": "carte eID belge + lecteur"
+            "label": "eID électronique avec certificats numériques (numéro de registre national belge ou numéro bis)"
           }
         ],
         "steps": [
-          "Allez sur vlaanderen.be/studietoelage et connectez-vous avec itsme ou votre eID",
-          "Complétez les informations d'inscription et de revenu du ménage (le vôtre ou celui de votre enfant)",
-          "Soumettez avant le 1er juin de l'année académique concernée",
-          "Vous recevrez un e-mail de confirmation ; l'allocation scolaire pour les jeunes enfants en Flandre/Bruxelles est versée automatiquement, aucune demande n'est nécessaire"
+          "Allez sur le Digitaal Loket Studietoelagen (via vlaanderen.be/studietoelage) et connectez-vous ; seul l'étudiant peut introduire la demande",
+          "Créez votre profil entre le 2 juin et le 1er juin de l'année académique, pour cette année seulement ou pour toute la durée de vos études",
+          "Vérifiez et complétez vos données et ajoutez les documents demandés ; les services aux étudiants de votre établissement peuvent vous aider",
+          "Vous recevez une lettre de décision, qui indique aussi votre minerval ; si vos revenus, votre ménage ou vos crédits changent, demandez une révision"
         ]
       },
       "de": {
-        "title": "Studietoelage (Flämisches Schul-/Studienstipendium)",
-        "desc": "Finanzielle Unterstützung der flämischen Regierung für Schul- oder Hochschulkosten, basierend auf dem Haushaltseinkommen.",
-        "deadline": "Für die Hochschulbildung Antragstellung zwischen 2. Juni 2026 und 1. Juni 2027 für das Studienjahr 2026-2027; ab diesem Jahr müssen Sie mindestens 54 Studienpunkte belegen und unter 30 Jahre alt sein.",
-        "amount": "Variiert je nach Einkommen, Haushaltsgröße und Internatsstatus — üblicherweise einige hundert bis über tausend Euro pro Jahr (genaue Staffelung nicht anhand einer direkt aufgerufenen offiziellen Seite bestätigt)",
+        "title": "Studietoelage (flämisches Studienstipendium für die Hochschule)",
+        "desc": "Ein jährlicher Zuschuss der flämischen Regierung zu den Kosten eines Hochschulstudiums, etwa Studiengebühren, Bücher, Fahrten und Studentenzimmer. Ob Sie Anspruch haben, hängt von Einkommen, Familiensituation, Staatsangehörigkeit, Alter und Studiengang ab. Mit einem Stipendium zahlen Sie außerdem die niedrigste Studiengebühr an Ihrer flämischen Hochschule oder Universität. Für Kindergarten, Grund- und Sekundarschule läuft die Unterstützung über das Groeipakket.",
+        "deadline": "Antrag zwischen dem 2. Juni 2026 und dem 1. Juni 2027 für das Studienjahr 2026–2027. Ab 2026–2027 müssen Sie für mindestens 54 Studienpunkte eingeschrieben und am 31. Dezember 2026 jünger als 30 sein; es gibt Ausnahmen (z. B. Abschlussjahr, Werkstudent, Behinderung, medizinische Gründe).",
+        "amount": "2026–2027, für 60 Studienpunkte: Mindestbetrag 343,20 €; volles Stipendium 3.187,74 € (5.311,19 € mit Studentenzimmer); außergewöhnliches Stipendium 4.625,87 € (7.150,80 € mit Studentenzimmer). Der Betrag hängt vom Haushaltseinkommen ab und sinkt bei weniger Studienpunkten.",
         "requirements": [
           {
-            "type": "phone",
-            "label": "itsme-App, oder"
-          },
-          {
             "type": "card",
-            "label": "belgische eID-Karte + Lesegerät"
+            "label": "Elektronischer eID mit digitalen Zertifikaten (belgische Nationalregister- oder Bis-Nummer)"
           }
         ],
         "steps": [
-          "Gehen Sie auf vlaanderen.be/studietoelage und melden Sie sich mit itsme oder Ihrer eID an",
-          "Geben Sie Ihre (oder die Ihres Kindes) Einschreibungs- und Haushaltseinkommensdaten ein",
-          "Reichen Sie den Antrag vor dem 1. Juni des betreffenden Studienjahres ein",
-          "Sie erhalten eine Bestätigungs-E-Mail; der Schulzuschlag für jüngere Kinder in Flandern/Brüssel wird automatisch ausgezahlt, kein Antrag nötig"
+          "Öffnen Sie den Digitaal Loket Studietoelagen (über vlaanderen.be/studietoelage) und melden Sie sich an; nur der Studierende selbst kann den Antrag stellen",
+          "Richten Sie Ihr Profil zwischen dem 2. Juni und dem 1. Juni des Studienjahres ein, nur für dieses Jahr oder für die ganze Studienzeit",
+          "Prüfen und ergänzen Sie Ihre Angaben und fügen Sie angeforderte Dokumente hinzu; der Studierendendienst Ihrer Hochschule hilft dabei",
+          "Sie erhalten einen Bescheid, der auch Ihre Studiengebühr nennt; ändern sich Einkommen, Haushalt oder Studienpunkte, beantragen Sie eine Überprüfung"
         ]
       }
-    }
+    },
+    "amount_source_url": [
+      "https://www.vlaanderen.be/onderwijs-en-vorming/studietoelage/bedrag",
+      "https://www.vlaanderen.be/onderwijs-en-vorming/studietoelage/extra-voorwaarden-voor-een-studietoelage-voor-academiejaar-2026-2027-en-bijhorende-uitzonderingen",
+      "https://www.vlaanderen.be/onderwijs-en-vorming/studietoelage/procedure"
+    ]
   },
   {
     "id": 12,
