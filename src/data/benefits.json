@@ -9302,5 +9302,1083 @@
         ]
       }
     }
+  },
+  {
+    "id": 74,
+    "category": "family",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Gent"
+    ],
+    "institution": "Stad Gent (OCMW Gent)",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://stad.gent/nl/samenleven-welzijn-gezondheid/tussenkomst-voor-de-aankoop-van-eerste-en-tweedeleeftijdsmelk",
+    "content": {
+      "en": {
+        "title": "Tussenkomst eerste- en tweedeleeftijdsmelk (Baby Formula Support, Ghent)",
+        "desc": "OCMW Gent reimburses infant formula (first- and second-stage milk) bought at the pharmacy for Ghent families on a low income with a baby up to one year old, after a social and financial check.",
+        "deadline": "While your baby is under 12 months; the support of up to €600 applies until the baby is 6 months old.",
+        "amount": "Up to €600",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Referral letter for first- and second-stage milk from Kind & Gezin"
+          },
+          {
+            "type": "id",
+            "label": "Your identity card"
+          }
+        ],
+        "steps": [
+          "Ask Kind & Gezin for the referral letter for infant milk",
+          "Go to your social worker, or to a welzijnsbureau if you are not yet an OCMW client",
+          "After approval, buy the milk at the pharmacy and hand in the receipts for reimbursement"
+        ]
+      },
+      "nl": {
+        "title": "Tussenkomst voor de aankoop van eerste- en tweedeleeftijdsmelk (Gent)",
+        "desc": "OCMW Gent betaalt eerste- en tweedeleeftijdsmelk terug die je bij de apotheker koopt, voor Gentse gezinnen met een laag inkomen en een baby van maximaal een jaar, na een sociaal en financieel onderzoek.",
+        "deadline": "Zolang je baby jonger is dan 12 maanden; de tussenkomst tot €600 geldt tot je baby 6 maanden oud is.",
+        "amount": "Tot €600",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doorverwijsbrief eerste- en tweedeleeftijdsmelk van Kind & Gezin"
+          },
+          {
+            "type": "id",
+            "label": "Je identiteitskaart"
+          }
+        ],
+        "steps": [
+          "Vraag Kind & Gezin om de doorverwijsbrief voor zuigelingenmelk",
+          "Ga naar je maatschappelijk werker, of naar een welzijnsbureau als je nog geen cliënt bent",
+          "Na goedkeuring koop je de melk bij de apotheker en bezorg je de bewijzen voor terugbetaling"
+        ]
+      },
+      "fr": {
+        "title": "Tussenkomst eerste- en tweedeleeftijdsmelk (Aide pour le lait infantile, Gand)",
+        "desc": "Le CPAS de Gand rembourse le lait infantile (premier et deuxième âge) acheté en pharmacie aux familles gantoises à faibles revenus ayant un bébé de un an maximum, après une enquête sociale et financière.",
+        "deadline": "Tant que votre bébé a moins de 12 mois ; l'aide jusqu'à 600 € vaut jusqu'aux 6 mois du bébé.",
+        "amount": "Jusqu'à 600 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Lettre d'orientation de Kind & Gezin pour le lait premier et deuxième âge"
+          },
+          {
+            "type": "id",
+            "label": "Votre carte d'identité"
+          }
+        ],
+        "steps": [
+          "Demandez à Kind & Gezin la lettre d'orientation pour le lait infantile",
+          "Adressez-vous à votre assistant social, ou à un welzijnsbureau si vous n'êtes pas encore client du CPAS",
+          "Après accord, achetez le lait en pharmacie et remettez les preuves pour remboursement"
+        ]
+      },
+      "de": {
+        "title": "Tussenkomst eerste- en tweedeleeftijdsmelk (Zuschuss für Säuglingsmilch, Gent)",
+        "desc": "Das ÖSHZ Gent erstattet in der Apotheke gekaufte Säuglingsmilch (Anfangs- und Folgemilch) für Genter Familien mit geringem Einkommen und einem Baby bis zu einem Jahr, nach einer sozialen und finanziellen Prüfung.",
+        "deadline": "Solange Ihr Baby jünger als 12 Monate ist; der Zuschuss bis 600 € gilt bis zum Alter von 6 Monaten.",
+        "amount": "Bis zu 600 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Überweisungsschreiben von Kind & Gezin für Anfangs- und Folgemilch"
+          },
+          {
+            "type": "id",
+            "label": "Ihr Personalausweis"
+          }
+        ],
+        "steps": [
+          "Bitten Sie Kind & Gezin um das Überweisungsschreiben für Säuglingsmilch",
+          "Wenden Sie sich an Ihren Sozialarbeiter oder an ein welzijnsbureau, wenn Sie noch kein Klient des ÖSHZ sind",
+          "Nach der Zusage kaufen Sie die Milch in der Apotheke und reichen die Belege zur Erstattung ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://stad.gent/nl/samenleven-welzijn-gezondheid/tussenkomst-voor-de-aankoop-van-eerste-en-tweedeleeftijdsmelk",
+      "conditions": {
+        "en": [
+          "You live in Ghent and have a baby of at most one year old.",
+          "You receive a living wage (or equivalent) or have increased reimbursement (verhoogde tegemoetkoming), and have less than €6,200 in savings.",
+          "You let OCMW Gent check your financial and family situation and have a referral letter from Kind & Gezin."
+        ],
+        "nl": [
+          "Je woont in Gent en hebt een baby van maximaal een jaar oud.",
+          "Je hebt een (equivalent) leefloon of het statuut verhoogde tegemoetkoming, en minder dan €6.200 spaargeld.",
+          "Je laat OCMW Gent je financiële en gezinssituatie bekijken en hebt een doorverwijsbrief van Kind & Gezin."
+        ],
+        "fr": [
+          "Vous habitez à Gand et avez un bébé de un an maximum.",
+          "Vous percevez un revenu d'intégration (ou équivalent) ou avez l'intervention majorée, et moins de 6.200 € d'épargne.",
+          "Vous acceptez que le CPAS de Gand examine votre situation financière et familiale et avez une lettre d'orientation de Kind & Gezin."
+        ],
+        "de": [
+          "Sie wohnen in Gent und haben ein Baby von höchstens einem Jahr.",
+          "Sie beziehen ein Eingliederungseinkommen (oder Gleichwertiges) oder haben die erhöhte Kostenbeteiligung und weniger als 6.200 € Ersparnisse.",
+          "Sie lassen das ÖSHZ Gent Ihre finanzielle und familiäre Lage prüfen und haben ein Überweisungsschreiben von Kind & Gezin."
+        ]
+      }
+    }
+  },
+  {
+    "id": 75,
+    "category": "other",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "Charleroi"
+    ],
+    "institution": "Ville de Charleroi",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.charleroi.be/vivre/sport/le-cheque-sports",
+    "content": {
+      "en": {
+        "title": "Chèque Sports (Sports Voucher, Charleroi)",
+        "desc": "Up to €100 off the yearly membership of a sports club in Charleroi, for young people aged 4 to 18 and for pensioners in Charleroi on a modest income. Once per person per sports season; paid directly to the club.",
+        "deadline": "Once per sports season, while the budget lasts (the 2025-2026 budget is used up; the 2026-2027 form is online).",
+        "amount": "Up to €100 per season (never more than the membership fee)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Household composition certificate"
+          },
+          {
+            "type": "doc",
+            "label": "Last tax assessment, or a certificate from your unemployment or health-fund payer; pensioners: pension document"
+          },
+          {
+            "type": "doc",
+            "label": "Club certificate showing membership for the current season"
+          }
+        ],
+        "steps": [
+          "Download the form and the club certificate from charleroi.be",
+          "Have the club fill in the certificate",
+          "Send everything to the Sports department (Centre Hélios, Rue de Montigny 101, 6000 Charleroi) or by email; the voucher arrives by post as a QR code for the club"
+        ]
+      },
+      "nl": {
+        "title": "Chèque Sports (Sportcheque, Charleroi)",
+        "desc": "Tot €100 korting op het jaarlijkse lidgeld van een sportclub in Charleroi, voor jongeren van 4 tot 18 jaar en gepensioneerden in Charleroi met een bescheiden inkomen. Eén keer per persoon per sportseizoen; rechtstreeks betaald aan de club.",
+        "deadline": "Eén keer per sportseizoen, zolang het budget strekt (het budget 2025-2026 is op; het formulier 2026-2027 staat online).",
+        "amount": "Tot €100 per seizoen (nooit meer dan het lidgeld)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "Laatste aanslagbiljet, of attest van je uitbetalingsinstelling (werkloosheid of ziekenfonds); gepensioneerden: pensioendocument"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de club dat je ingeschreven bent voor het lopende seizoen"
+          }
+        ],
+        "steps": [
+          "Download het formulier en het clubattest op charleroi.be",
+          "Laat de club het attest invullen",
+          "Stuur alles naar de sportdienst (Centre Hélios, Rue de Montigny 101, 6000 Charleroi) of per e-mail; de cheque komt per post als QR-code voor de club"
+        ]
+      },
+      "fr": {
+        "title": "Chèque Sports (Charleroi)",
+        "desc": "Jusqu'à 100 € de réduction sur la cotisation annuelle d'un club sportif carolo, pour les jeunes de 4 à 18 ans et les pensionnés de Charleroi aux revenus modestes. Une fois par personne et par saison sportive ; versé directement au club.",
+        "deadline": "Une fois par saison sportive, dans la limite du budget (le budget 2025-2026 est épuisé ; le formulaire 2026-2027 est en ligne).",
+        "amount": "Jusqu'à 100 € par saison (jamais plus que la cotisation)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat de composition de ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Dernier avertissement-extrait de rôle, ou attestation de l'organisme de paiement (chômage ou mutuelle) ; pensionnés : document de pension"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation du club prouvant l'inscription pour la saison en cours"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire et l'attestation club sur charleroi.be",
+          "Faites compléter l'attestation par le club",
+          "Envoyez le tout au Service des Sports (Centre Hélios, rue de Montigny 101, 6000 Charleroi) ou par e-mail ; le chèque arrive par la poste sous forme de QR code à remettre au club"
+        ]
+      },
+      "de": {
+        "title": "Chèque Sports (Sportscheck, Charleroi)",
+        "desc": "Bis zu 100 € Ermäßigung auf den Jahresbeitrag eines Sportvereins in Charleroi, für Jugendliche von 4 bis 18 Jahren und Rentner in Charleroi mit bescheidenem Einkommen. Einmal pro Person und Sportsaison; direkt an den Verein gezahlt.",
+        "deadline": "Einmal pro Sportsaison, solange das Budget reicht (das Budget 2025-2026 ist ausgeschöpft; das Formular 2026-2027 ist online).",
+        "amount": "Bis zu 100 € pro Saison (nie mehr als der Mitgliedsbeitrag)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Letzter Steuerbescheid oder Bescheinigung der Zahlstelle (Arbeitslosigkeit oder Krankenkasse); Rentner: Rentendokument"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung des Vereins über die Mitgliedschaft in der laufenden Saison"
+          }
+        ],
+        "steps": [
+          "Laden Sie Formular und Vereinsbescheinigung auf charleroi.be herunter",
+          "Lassen Sie die Bescheinigung vom Verein ausfüllen",
+          "Senden Sie alles an den Sportdienst (Centre Hélios, Rue de Montigny 101, 6000 Charleroi) oder per E-Mail; der Scheck kommt per Post als QR-Code für den Verein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.charleroi.be/vivre/sport/le-cheque-sports",
+        "https://www.charleroi.be/assets/files/Reglement-cheques-sports-enfants-et-aines.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Charleroi and are 4 to 18 years old, or are a pensioner (proven by your pension body); you are a member of a sports club in Charleroi.",
+          "Your household receives no help from the CPAS.",
+          "Young people: household taxable income last year below €33,600 (1 dependant), €39,200 (2), €44,800 (3), €50,400 (4), €56,000 (5), +€5,600 per extra dependant. Pensioners: below €24,640 (single pension) or €30,240 (household pension)."
+        ],
+        "nl": [
+          "Je woont in Charleroi en bent 4 tot 18 jaar, of gepensioneerd (bewezen met een document van je pensioeninstelling); je bent lid van een sportclub in Charleroi.",
+          "Je gezin krijgt geen hulp van het OCMW (CPAS).",
+          "Jongeren: belastbaar gezinsinkomen vorig jaar onder €33.600 (1 persoon ten laste), €39.200 (2), €44.800 (3), €50.400 (4), €56.000 (5), +€5.600 per extra persoon. Gepensioneerden: onder €24.640 (pensioen alleenstaande) of €30.240 (gezinspensioen)."
+        ],
+        "fr": [
+          "Vous êtes domicilié(e) à Charleroi et avez 4 à 18 ans, ou êtes pensionné(e) (preuve de votre organisme de pension) ; vous êtes affilié(e) à un club sportif de Charleroi.",
+          "Votre ménage ne bénéficie d'aucune aide du CPAS.",
+          "Jeunes : revenus imposables du ménage de l'année précédente inférieurs à 33.600 € (1 personne à charge), 39.200 € (2), 44.800 € (3), 50.400 € (4), 56.000 € (5), +5.600 € par personne supplémentaire. Aînés : inférieurs à 24.640 € (pension d'isolé) ou 30.240 € (pension de ménage)."
+        ],
+        "de": [
+          "Sie wohnen in Charleroi und sind 4 bis 18 Jahre alt oder Rentner (Nachweis Ihrer Rentenstelle); Sie sind Mitglied eines Sportvereins in Charleroi.",
+          "Ihr Haushalt erhält keine Hilfe vom ÖSHZ (CPAS).",
+          "Jugendliche: steuerpflichtiges Haushaltseinkommen im Vorjahr unter 33.600 € (1 Person zu Lasten), 39.200 € (2), 44.800 € (3), 50.400 € (4), 56.000 € (5), +5.600 € pro weitere Person. Rentner: unter 24.640 € (Alleinstehendenrente) oder 30.240 € (Haushaltsrente)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 76,
+    "category": "other",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "Schaerbeek"
+    ],
+    "institution": "Commune de Schaerbeek",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.1030.be/fr/demarche/cheques-sport",
+    "request_url": "https://my.1030.be/fr/group/guest/my-dossiers/-/dossiers/create/CHEQUE_SPORT_Version56",
+    "content": {
+      "en": {
+        "title": "Chèque sport (Sports Voucher, Schaerbeek)",
+        "desc": "A €60 contribution to the sports-club or VGC Sportdienst fees of young Schaerbeek residents under 21, for households under the regional income ceilings. An extra cheque goes to children with increased family allowance and to disability-sport athletes of any age.",
+        "deadline": "Apply in the year of club registration, between 1 September and 30 November, while the budget lasts.",
+        "amount": "€60 per young person (an extra cheque in some cases)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Child's ID card or household composition, and the parent's ID card"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment of the club fee and your bank account number"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of your tax assessment (avertissement-extrait de rôle)"
+          }
+        ],
+        "steps": [
+          "Register your child with a sports club or VGC Sportdienst activity",
+          "Apply online at my.1030.be between 1 September and 30 November",
+          "Upload the documents and wait for the decision"
+        ]
+      },
+      "nl": {
+        "title": "Sportcheque (Schaarbeek)",
+        "desc": "Een bijdrage van €60 in het lidgeld van een sportclub of VGC-sportactiviteit voor jonge Schaarbekenaars onder 21 jaar, voor gezinnen onder de gewestelijke inkomensgrenzen. Een extra cheque gaat naar kinderen met verhoogde kinderbijslag en naar G-sporters van elke leeftijd.",
+        "deadline": "Aan te vragen in het jaar van inschrijving, tussen 1 september en 30 november, zolang het budget strekt.",
+        "amount": "€60 per jongere (in sommige gevallen een extra cheque)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Identiteitskaart of gezinssamenstelling van het kind, en de identiteitskaart van de ouder"
+          },
+          {
+            "type": "doc",
+            "label": "Betalingsbewijs van het lidgeld en je rekeningnummer"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van je aanslagbiljet"
+          }
+        ],
+        "steps": [
+          "Schrijf je kind in bij een sportclub of VGC-sportactiviteit",
+          "Vraag online aan via my.1030.be tussen 1 september en 30 november",
+          "Voeg de documenten toe en wacht op de beslissing"
+        ]
+      },
+      "fr": {
+        "title": "Chèque sport (Schaerbeek)",
+        "desc": "Une contribution de 60 € à la cotisation d'un club sportif ou d'une activité de la VGC (Sportdienst) pour les jeunes Schaerbeekois de moins de 21 ans, pour les ménages sous les plafonds de revenus régionaux. Un chèque supplémentaire est accordé aux enfants bénéficiant d'allocations familiales majorées et aux pratiquants du handisport sans limite d'âge.",
+        "deadline": "À demander durant l'année de l'inscription, entre le 1er septembre et le 30 novembre, dans la limite du budget.",
+        "amount": "60 € par jeune (un chèque supplémentaire dans certains cas)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Carte d'identité ou composition de ménage de l'enfant, et carte d'identité du représentant"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement de la cotisation et numéro de compte bancaire"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de votre avertissement-extrait de rôle"
+          }
+        ],
+        "steps": [
+          "Inscrivez votre enfant dans un club sportif ou une activité de la VGC",
+          "Introduisez la démarche en ligne sur my.1030.be entre le 1er septembre et le 30 novembre",
+          "Joignez les documents et attendez la décision"
+        ]
+      },
+      "de": {
+        "title": "Chèque sport (Sportscheck, Schaerbeek)",
+        "desc": "Ein Zuschuss von 60 € zum Beitrag eines Sportvereins oder einer VGC-Sportaktivität für junge Einwohner von Schaerbeek unter 21 Jahren, für Haushalte unter den regionalen Einkommensgrenzen. Einen zusätzlichen Scheck erhalten Kinder mit erhöhtem Kindergeld und Behindertensportler jeden Alters.",
+        "deadline": "Im Jahr der Anmeldung zwischen dem 1. September und dem 30. November beantragen, solange das Budget reicht.",
+        "amount": "60 € pro Jugendlichem (in manchen Fällen ein zusätzlicher Scheck)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Personalausweis oder Haushaltszusammensetzung des Kindes und Personalausweis des Elternteils"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis des Beitrags und Ihre Kontonummer"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie Ihres Steuerbescheids"
+          }
+        ],
+        "steps": [
+          "Melden Sie Ihr Kind bei einem Sportverein oder einer VGC-Sportaktivität an",
+          "Beantragen Sie online auf my.1030.be zwischen dem 1. September und dem 30. November",
+          "Laden Sie die Unterlagen hoch und warten Sie auf die Entscheidung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.1030.be/fr/demarche/cheques-sport",
+        "https://www.1030.be/data/media/document/chequesportmodificationdureglementapprob-deliberation.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The young person is under 21 and lives in Schaerbeek, or at least one legal representative does.",
+          "He or she is a regular member of a sports club or a VGC (Sportdienst) activity.",
+          "Household taxable income at most €73,884 (single or single parent) or €94,034 (other households) with no dependants, +€5,000 per dependant."
+        ],
+        "nl": [
+          "De jongere is jonger dan 21 en woont in Schaarbeek, of minstens één wettelijke vertegenwoordiger woont er.",
+          "Hij of zij is regelmatig ingeschreven in een sportclub of een VGC-activiteit (Sportdienst).",
+          "Belastbaar gezinsinkomen maximaal €73.884 (alleenstaande of eenoudergezin) of €94.034 (ander gezin) zonder personen ten laste, +€5.000 per persoon ten laste."
+        ],
+        "fr": [
+          "Le jeune a moins de 21 ans et est domicilié à Schaerbeek, ou au moins un de ses représentants légaux l'est.",
+          "Il ou elle est inscrit(e) régulièrement dans un club sportif ou une activité de la VGC (Sportdienst).",
+          "Revenus imposables du ménage d'au plus 73.884 € (isolé ou famille monoparentale) ou 94.034 € (autre ménage) sans personne à charge, +5.000 € par personne à charge."
+        ],
+        "de": [
+          "Der Jugendliche ist unter 21 und wohnt in Schaerbeek, oder mindestens ein gesetzlicher Vertreter wohnt dort.",
+          "Er oder sie ist regelmäßig in einem Sportverein oder einer VGC-Aktivität (Sportdienst) angemeldet.",
+          "Steuerpflichtiges Haushaltseinkommen höchstens 73.884 € (Alleinstehende oder Alleinerziehende) oder 94.034 € (andere Haushalte) ohne Personen zu Lasten, +5.000 € pro Person zu Lasten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 77,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Brugge"
+    ],
+    "institution": "Stad Brugge (OCMW Brugge)",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.brugge.be/zorg-welzijn/zorg/mantelzorg/mantelzorgpremie",
+    "request_url": "https://www.brugge.be/formulieren/mantelzorgpremie-aanvragen",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Bruges)",
+        "desc": "A premium for volunteer carers of someone in Bruges who lives at home and is entitled to the Flemish care budget for people with a high care need. Carers with increased reimbursement get €50 a month (paid every 3 months); other carers get a €60 Bruges gift voucher each year.",
+        "deadline": "No fixed deadline; the voucher needs at least 2 months of caring in the calendar year.",
+        "amount": "€50/month (with increased reimbursement) or a €60 gift voucher per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "National register numbers of the carer and the person cared for, and the carer's bank account number"
+          },
+          {
+            "type": "doc",
+            "label": "Proof that the person cared for is entitled to the Flemish care budget for people with a high care need"
+          }
+        ],
+        "steps": [
+          "Fill in the online form on brugge.be (or the paper form signed by both of you)",
+          "Paper forms go to the Huis van de Bruggeling, Frank Van Ackerpromenade 2",
+          "You receive the decision by email"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Brugge)",
+        "desc": "Een premie voor vrijwillige mantelzorgers van iemand in Brugge die thuis woont en recht heeft op het Vlaamse zorgbudget voor zwaar zorgbehoevenden. Mantelzorgers met verhoogde tegemoetkoming krijgen €50 per maand (per 3 maanden uitbetaald); andere mantelzorgers een jaarlijkse Brugse cadeaubon van €60.",
+        "deadline": "Geen vaste termijn; voor de cadeaubon moet je minstens 2 maanden in hetzelfde kalenderjaar mantelzorger zijn.",
+        "amount": "€50/maand (met verhoogde tegemoetkoming) of een cadeaubon van €60 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Rijksregisternummers van de mantelzorger en de zorgbehoevende, en het rekeningnummer van de mantelzorger"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs dat de zorgbehoevende recht heeft op het Vlaamse zorgbudget voor zwaar zorgbehoevenden"
+          }
+        ],
+        "steps": [
+          "Vul het online formulier in op brugge.be (of het papieren formulier, ondertekend door jullie beiden)",
+          "Papieren aanvragen bezorg je in het Huis van de Bruggeling, Frank Van Ackerpromenade 2",
+          "Je krijgt de beslissing per mail"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (Prime aidant proche, Bruges)",
+        "desc": "Une prime pour les aidants proches bénévoles d'une personne domiciliée à Bruges, vivant à domicile et ayant droit au budget flamand de soins pour personnes lourdement dépendantes. Les aidants avec l'intervention majorée reçoivent 50 € par mois (versés par trimestre) ; les autres un bon-cadeau brugeois annuel de 60 €.",
+        "deadline": "Pas de délai fixe ; pour le bon-cadeau, il faut être aidant au moins 2 mois dans l'année civile.",
+        "amount": "50 €/mois (avec intervention majorée) ou un bon-cadeau de 60 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Numéros de registre national de l'aidant et de la personne aidée, et numéro de compte de l'aidant"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve du droit de la personne aidée au budget flamand de soins pour personnes lourdement dépendantes"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en ligne sur brugge.be (ou le formulaire papier signé par vous deux)",
+          "Les formulaires papier se déposent au Huis van de Bruggeling, Frank Van Ackerpromenade 2",
+          "Vous recevez la décision par e-mail"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Brügge)",
+        "desc": "Eine Prämie für ehrenamtlich pflegende Angehörige einer in Brügge zu Hause lebenden Person mit Anspruch auf das flämische Pflegebudget für schwer Pflegebedürftige. Pflegende mit erhöhter Kostenbeteiligung erhalten 50 € pro Monat (vierteljährlich ausgezahlt); andere einen jährlichen Brügger Geschenkgutschein von 60 €.",
+        "deadline": "Keine feste Frist; für den Gutschein mindestens 2 Monate Pflege im Kalenderjahr.",
+        "amount": "50 €/Monat (mit erhöhter Kostenbeteiligung) oder ein Gutschein von 60 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nationalregisternummern der pflegenden und der gepflegten Person sowie Kontonummer der pflegenden Person"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis des Anspruchs der gepflegten Person auf das flämische Pflegebudget für schwer Pflegebedürftige"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Online-Formular auf brugge.be aus (oder das Papierformular, von beiden unterschrieben)",
+          "Papieranträge geben Sie im Huis van de Bruggeling, Frank Van Ackerpromenade 2, ab",
+          "Sie erhalten die Entscheidung per E-Mail"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.brugge.be/zorg-welzijn/zorg/mantelzorg/mantelzorgpremie",
+      "conditions": {
+        "en": [
+          "The person cared for lives at home, is domiciled in Bruges and is entitled to the Flemish care budget for people with a high care need. The carer need not live in Bruges.",
+          "The carer is at least 14, cares voluntarily, long-term and intensively (more than admin help), and does not need care themselves.",
+          "Not for care given as part of a job or already paid with a (volunteer) allowance. The €50 a month needs increased reimbursement (verhoogde tegemoetkoming)."
+        ],
+        "nl": [
+          "De zorgbehoevende woont thuis, is gedomicilieerd in Brugge en heeft recht op het Vlaamse zorgbudget voor zwaar zorgbehoevenden. De mantelzorger hoeft niet in Brugge te wonen.",
+          "De mantelzorger is minstens 14 jaar, zorgt vrijwillig, langdurig en intensief (meer dan administratieve hulp) en is zelf niet zorgbehoevend.",
+          "Niet voor zorg als onderdeel van een job of waarvoor al een (vrijwilligers)vergoeding betaald wordt. De €50 per maand vraagt het statuut verhoogde tegemoetkoming."
+        ],
+        "fr": [
+          "La personne aidée vit à domicile, est domiciliée à Bruges et a droit au budget flamand de soins pour personnes lourdement dépendantes. L'aidant ne doit pas habiter Bruges.",
+          "L'aidant a au moins 14 ans, aide bénévolement, durablement et intensivement (plus qu'une aide administrative) et n'est pas lui-même dépendant.",
+          "Pas pour des soins fournis dans le cadre d'un emploi ou déjà indemnisés (y compris en volontariat). Les 50 € par mois exigent l'intervention majorée."
+        ],
+        "de": [
+          "Die gepflegte Person lebt zu Hause, ist in Brügge gemeldet und hat Anspruch auf das flämische Pflegebudget für schwer Pflegebedürftige. Die pflegende Person muss nicht in Brügge wohnen.",
+          "Die pflegende Person ist mindestens 14, pflegt freiwillig, langfristig und intensiv (mehr als Verwaltungshilfe) und ist selbst nicht pflegebedürftig.",
+          "Nicht für Pflege im Rahmen eines Jobs oder die bereits (ehrenamtlich) vergütet wird. Die 50 € pro Monat setzen die erhöhte Kostenbeteiligung voraus."
+        ]
+      }
+    }
+  },
+  {
+    "id": 78,
+    "category": "other",
+    "situations": [
+      "low-income",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "Brugge"
+    ],
+    "institution": "Stad Brugge (Brugs Netwerk Vrijetijdsparticipatie)",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.brugge.be/vrije-tijd/betaalbare-en-toegankelijke-vrije-tijd/terugbetaling-van-kosten-voor-vrijetijd",
+    "content": {
+      "en": {
+        "title": "Terugbetaling van kosten voor vrijetijd (Leisure Costs Refund, Bruges)",
+        "desc": "Bruges refunds 80% of the cost of sport, youth work, concerts, cinema and the like, plus home internet and digital TV, for people on a low income, up to €240 per adult and €120 per dependent child a year for sport, culture and youth work.",
+        "deadline": "Receipts must arrive in the week before Christmas; you come in at least once a year for the income check.",
+        "amount": "80% of costs, up to €240 per adult and €120 per dependent child a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of income (wages, benefits, Groeipakket, maintenance, savings), or of budget management with debt repayment or collective debt settlement"
+          },
+          {
+            "type": "doc",
+            "label": "Receipts for your leisure costs"
+          }
+        ],
+        "steps": [
+          "Make an appointment at the Huis van de Bruggeling for the social and financial check",
+          "Hand in your receipts at the sessions, to your OCMW social worker or by email to vrijetijdsparticipatie@ocmw-brugge.be",
+          "The 80% refund is paid from 2 January"
+        ]
+      },
+      "nl": {
+        "title": "Terugbetaling van kosten voor vrijetijd (Brugge)",
+        "desc": "Brugge betaalt 80% terug van kosten voor sport, jeugdwerk, concerten, bioscoop en dergelijke, en van internet thuis en digitale televisie, voor mensen met een beperkt inkomen, tot €240 per volwassene en €120 per kind ten laste per jaar voor sport, cultuur en jeugdwerk.",
+        "deadline": "De betaalbewijzen moeten binnen zijn in de week voor Kerstmis; je komt minstens 1 keer per jaar langs voor het inkomensonderzoek.",
+        "amount": "80% van de kosten, tot €240 per volwassene en €120 per kind ten laste per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Inkomstenbewijzen (loon, vervangingsinkomen, groeipakket, onderhoudsgeld, spaargeld), of bewijs van budgetbeheer met afbetaling van schulden of collectieve schuldenregeling"
+          },
+          {
+            "type": "doc",
+            "label": "Betaalbewijzen van je vrijetijdskosten"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak in het Huis van de Bruggeling voor het sociaal en financieel onderzoek",
+          "Bezorg je betaalbewijzen op de zitdagen, aan je maatschappelijk werker of per mail aan vrijetijdsparticipatie@ocmw-brugge.be",
+          "De tegemoetkoming van 80% wordt vanaf 2 januari uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Terugbetaling van kosten voor vrijetijd (Remboursement des loisirs, Bruges)",
+        "desc": "Bruges rembourse 80 % des frais de sport, mouvements de jeunesse, concerts, cinéma, etc., ainsi que d'internet à domicile et de télévision numérique, aux personnes à revenus limités, jusqu'à 240 € par adulte et 120 € par enfant à charge par an pour le sport, la culture et la jeunesse.",
+        "deadline": "Les preuves de paiement doivent arriver la semaine avant Noël ; vous passez au moins une fois par an pour l'enquête sur les revenus.",
+        "amount": "80 % des frais, jusqu'à 240 € par adulte et 120 € par enfant à charge par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuves de revenus (salaire, revenus de remplacement, Groeipakket, pension alimentaire, épargne), ou de gestion budgétaire avec remboursement de dettes ou de règlement collectif de dettes"
+          },
+          {
+            "type": "doc",
+            "label": "Preuves de paiement de vos frais de loisirs"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous au Huis van de Bruggeling pour l'enquête sociale et financière",
+          "Remettez vos preuves de paiement aux permanences, à votre assistant social ou par e-mail à vrijetijdsparticipatie@ocmw-brugge.be",
+          "Le remboursement de 80 % est versé à partir du 2 janvier"
+        ]
+      },
+      "de": {
+        "title": "Terugbetaling van kosten voor vrijetijd (Erstattung von Freizeitkosten, Brügge)",
+        "desc": "Brügge erstattet Menschen mit geringem Einkommen 80 % der Kosten für Sport, Jugendarbeit, Konzerte, Kino usw. sowie für Internet zu Hause und Digitalfernsehen, bis zu 240 € pro Erwachsenem und 120 € pro unterhaltsberechtigtem Kind und Jahr für Sport, Kultur und Jugendarbeit.",
+        "deadline": "Die Belege müssen in der Woche vor Weihnachten eingehen; Sie kommen mindestens einmal im Jahr zur Einkommensprüfung.",
+        "amount": "80 % der Kosten, bis zu 240 € pro Erwachsenem und 120 € pro Kind zu Lasten und Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Einkommensnachweise (Lohn, Ersatzeinkommen, Groeipakket, Unterhalt, Ersparnisse) oder Nachweis von Budgetverwaltung mit Schuldentilgung bzw. kollektiver Schuldenregelung"
+          },
+          {
+            "type": "doc",
+            "label": "Belege Ihrer Freizeitkosten"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin im Huis van de Bruggeling für die soziale und finanzielle Prüfung",
+          "Reichen Sie Ihre Belege in der Sprechstunde, bei Ihrem Sozialarbeiter oder per E-Mail an vrijetijdsparticipatie@ocmw-brugge.be ein",
+          "Die 80-%-Erstattung wird ab dem 2. Januar ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.brugge.be/vrije-tijd/betaalbare-en-toegankelijke-vrije-tijd/terugbetaling-van-kosten-voor-vrijetijd",
+      "conditions": {
+        "en": [
+          "Your income is below the European poverty line, or you are in budget management with debt repayment or collective debt settlement.",
+          "You live at a private address in Bruges, or are supported only by a welfare organisation in Bruges and live in a commune without its own leisure network (other rules if you live in a psychiatric hospital, shelter, care home or disability facility).",
+          "No refund for costs that already get 80% off through UiTPAS with opportunity rate or vrijuit.nu."
+        ],
+        "nl": [
+          "Je inkomen ligt onder de Europese armoedegrens, of je zit in budgetbeheer met afbetaling van schulden of collectieve schuldenregeling.",
+          "Je woont op een privéadres in Brugge, of je bent enkel in Brugge in begeleiding bij een welzijnsorganisatie en woont in een gemeente zonder eigen netwerk vrijetijdsparticipatie (andere regels als je in een psychiatrisch ziekenhuis, opvang voor daklozen, RVT of voorziening voor personen met een beperking woont).",
+          "Geen tegemoetkoming voor kosten waarvoor je al 80% korting krijgt via UiTPAS met kansentarief of vrijuit.nu."
+        ],
+        "fr": [
+          "Vos revenus sont sous le seuil de pauvreté européen, ou vous êtes en gestion budgétaire avec remboursement de dettes ou en règlement collectif de dettes.",
+          "Vous habitez à une adresse privée à Bruges, ou êtes accompagné(e) uniquement par une organisation sociale brugeoise et habitez une commune sans réseau local de participation aux loisirs (autres règles si vous vivez en hôpital psychiatrique, foyer pour sans-abri, MRS ou institution pour personnes handicapées).",
+          "Pas de remboursement pour les frais qui bénéficient déjà de 80 % de réduction via l'UiTPAS à tarif réduit ou vrijuit.nu."
+        ],
+        "de": [
+          "Ihr Einkommen liegt unter der europäischen Armutsgrenze, oder Sie sind in Budgetverwaltung mit Schuldentilgung oder kollektiver Schuldenregelung.",
+          "Sie wohnen an einer Privatadresse in Brügge, oder werden nur von einer Sozialorganisation in Brügge begleitet und wohnen in einer Gemeinde ohne eigenes Freizeitnetzwerk (andere Regeln, wenn Sie in einer psychiatrischen Klinik, Obdachlosenunterkunft, Pflegeeinrichtung oder Einrichtung für Menschen mit Behinderung leben).",
+          "Keine Erstattung für Kosten, die bereits über UiTPAS mit Chancentarif oder vrijuit.nu um 80 % ermäßigt sind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 79,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "Molenbeek-Saint-Jean"
+    ],
+    "institution": "Commune de Molenbeek-Saint-Jean",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.molenbeek.brussels/fr/fichiers/logement/prime-au-logement-2026-fr.pdf",
+    "content": {
+      "en": {
+        "title": "Prime logement 2026 (Homeowner Premium, Molenbeek)",
+        "desc": "A yearly premium of up to €300 for people in Molenbeek who own and live in their only property, to soften the rise in the communal surcharge on the property tax (précompte immobilier). It is 85% of the rise in that surcharge compared with tax year 2022.",
+        "deadline": "Within 6 months from the third working day after the property-tax assessment was sent.",
+        "amount": "Up to €300 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's 2026 application form"
+          },
+          {
+            "type": "doc",
+            "label": "Your 2026 property-tax assessment (avertissement-extrait de rôle)"
+          }
+        ],
+        "steps": [
+          "Download the 2026 form from molenbeek.brussels",
+          "Send it complete, with the documents, to the College (Rue du Comte de Flandre 20) or prime.logement@molenbeek.brussels",
+          "Do it within 6 months of receiving the property-tax assessment"
+        ]
+      },
+      "nl": {
+        "title": "Huisvestingspremie 2026 (Sint-Jans-Molenbeek)",
+        "desc": "Een jaarlijkse premie tot €300 voor Molenbekenaars die eigenaar zijn van hun enige woning en er zelf wonen, om de stijging van de gemeentelijke opcentiemen op de onroerende voorheffing te verzachten. Ze bedraagt 85% van de stijging van die opcentiemen ten opzichte van aanslagjaar 2022.",
+        "deadline": "Binnen 6 maanden vanaf de derde werkdag na verzending van het aanslagbiljet onroerende voorheffing.",
+        "amount": "Tot €300 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier 2026 van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Je aanslagbiljet onroerende voorheffing 2026"
+          }
+        ],
+        "steps": [
+          "Download het formulier 2026 op molenbeek.brussels",
+          "Stuur het volledig, met de documenten, naar het College (Graaf van Vlaanderenstraat 20) of prime.logement@molenbeek.brussels",
+          "Doe dit binnen 6 maanden na ontvangst van het aanslagbiljet"
+        ]
+      },
+      "fr": {
+        "title": "Prime logement 2026 (Molenbeek-Saint-Jean)",
+        "desc": "Une prime annuelle jusqu'à 300 € pour les Molenbeekois propriétaires de leur unique logement qu'ils occupent, afin d'atténuer la hausse des centimes additionnels communaux au précompte immobilier. Elle vaut 85 % de la hausse de ces centimes par rapport à l'exercice 2022.",
+        "deadline": "Dans les 6 mois à compter du troisième jour ouvrable suivant l'envoi de l'avertissement-extrait de rôle du précompte immobilier.",
+        "amount": "Jusqu'à 300 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande 2026 de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Votre avertissement-extrait de rôle du précompte immobilier 2026"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire 2026 sur molenbeek.brussels",
+          "Envoyez-le complet, avec les documents, au Collège (rue du Comte de Flandre 20) ou à prime.logement@molenbeek.brussels",
+          "Faites-le dans les 6 mois suivant la réception de l'avertissement-extrait de rôle"
+        ]
+      },
+      "de": {
+        "title": "Prime logement 2026 (Wohnprämie, Molenbeek)",
+        "desc": "Eine jährliche Prämie bis 300 € für Einwohner von Molenbeek, die ihre einzige Immobilie besitzen und selbst bewohnen, um den Anstieg der Gemeindezuschläge auf den Immobiliensteuervorabzug abzufedern. Sie beträgt 85 % dieses Anstiegs gegenüber dem Steuerjahr 2022.",
+        "deadline": "Innerhalb von 6 Monaten ab dem dritten Werktag nach Versand des Bescheids über den Immobiliensteuervorabzug.",
+        "amount": "Bis zu 300 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular 2026 der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Ihr Bescheid über den Immobiliensteuervorabzug 2026"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular 2026 auf molenbeek.brussels herunter",
+          "Senden Sie es vollständig mit den Unterlagen an das Kollegium (Rue du Comte de Flandre 20) oder an prime.logement@molenbeek.brussels",
+          "Tun Sie dies innerhalb von 6 Monaten nach Erhalt des Bescheids"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.molenbeek.brussels/fr/fichiers/logement/prime-au-logement-2026-fr.pdf",
+      "conditions": {
+        "en": [
+          "You are a private person subject to personal income tax in Molenbeek-Saint-Jean.",
+          "You own (or hold usufruct or a long lease on) one single property in Molenbeek, which is your own home, fully occupied by you and your only real estate (or part of a recognised intergenerational housing project).",
+          "A complete application within the 6-month deadline; granted within the commune's budget."
+        ],
+        "nl": [
+          "Je bent een natuurlijke persoon die in Sint-Jans-Molenbeek onderworpen is aan de personenbelasting.",
+          "Je bent eigenaar (of vruchtgebruiker of erfpachter) van één enkel onroerend goed in Molenbeek, dat je eigen woning is, volledig door jou bewoond en je enige onroerend goed (of deel van een erkend intergenerationeel woonproject).",
+          "Een volledige aanvraag binnen de termijn van 6 maanden; toegekend binnen het budget van de gemeente."
+        ],
+        "fr": [
+          "Vous êtes une personne physique soumise à l'impôt des personnes physiques à Molenbeek-Saint-Jean.",
+          "Vous êtes propriétaire (ou usufruitier ou emphytéote) d'un seul bien à Molenbeek, votre habitation propre, entièrement occupée par vous et votre unique bien immobilier (ou faisant partie d'un projet de logement intergénérationnel reconnu).",
+          "Une demande complète dans le délai de 6 mois ; octroyée dans la limite du crédit budgétaire."
+        ],
+        "de": [
+          "Sie sind eine natürliche Person, die in Molenbeek-Saint-Jean der Einkommensteuer unterliegt.",
+          "Sie sind Eigentümer (oder Nießbraucher oder Erbpächter) einer einzigen Immobilie in Molenbeek, die Ihre eigene, vollständig von Ihnen bewohnte Wohnung und Ihre einzige Immobilie ist (oder Teil eines anerkannten Mehrgenerationen-Wohnprojekts).",
+          "Ein vollständiger Antrag innerhalb der 6-Monats-Frist; gewährt im Rahmen des Gemeindebudgets."
+        ]
+      }
+    }
+  },
+  {
+    "id": 80,
+    "category": "other",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "Mons"
+    ],
+    "institution": "Ville de Mons",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.mons.be/fr/que-faire/sports/cheques-sport/cheques-sport-1",
+    "content": {
+      "en": {
+        "title": "Chèques sport (Sports Voucher, Mons)",
+        "desc": "A contribution of €20 to €40 per child aged 3 to 18 towards the fee of a sports club in Mons, depending on household income. One cheque per child per season, paid into your bank account.",
+        "deadline": "Apply between 2 September 2026 and 31 May 2027, while the budget lasts.",
+        "amount": "€40 (income up to €35,000), €35 (up to €45,000), €30 (up to €55,000), €20 (above) per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form (one per child) and the club's membership certificate with proof of payment"
+          },
+          {
+            "type": "doc",
+            "label": "Household composition (less than 3 months old) and the last tax assessment of every adult in it"
+          }
+        ],
+        "steps": [
+          "Enrol your child in a sports club in Mons and pay the fee",
+          "Download the form from mons.be and gather the documents",
+          "Hand in the complete file at the Sports department of the City of Mons"
+        ]
+      },
+      "nl": {
+        "title": "Sportcheque (Bergen)",
+        "desc": "Een bijdrage van €20 tot €40 per kind van 3 tot 18 jaar in het lidgeld van een sportclub in Bergen, afhankelijk van het gezinsinkomen. Eén cheque per kind per seizoen, gestort op je rekening.",
+        "deadline": "Aan te vragen tussen 2 september 2026 en 31 mei 2027, zolang het budget strekt.",
+        "amount": "€40 (inkomen tot €35.000), €35 (tot €45.000), €30 (tot €55.000), €20 (daarboven) per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier (één per kind) en het lidmaatschapsattest van de club met betalingsbewijs"
+          },
+          {
+            "type": "doc",
+            "label": "Gezinssamenstelling (minder dan 3 maanden oud) en het laatste aanslagbiljet van elke volwassene erin"
+          }
+        ],
+        "steps": [
+          "Schrijf je kind in bij een sportclub in Bergen en betaal het lidgeld",
+          "Download het formulier op mons.be en verzamel de documenten",
+          "Dien het volledige dossier in bij de sportdienst van de Stad Bergen"
+        ]
+      },
+      "fr": {
+        "title": "Chèques sport (Mons)",
+        "desc": "Une aide de 20 à 40 € par enfant de 3 à 18 ans pour la cotisation d'un club sportif montois, selon les revenus du ménage. Un chèque par enfant et par saison, versé sur votre compte.",
+        "deadline": "Demandes entre le 2 septembre 2026 et le 31 mai 2027, sous réserve du budget disponible.",
+        "amount": "40 € (revenus jusqu'à 35.000 €), 35 € (jusqu'à 45.000 €), 30 € (jusqu'à 55.000 €), 20 € (au-delà) par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande (un par enfant) et l'attestation d'affiliation du club avec la preuve de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "Composition de ménage (de moins de 3 mois) et dernier avertissement-extrait de rôle de chaque membre majeur"
+          }
+        ],
+        "steps": [
+          "Inscrivez votre enfant dans un club sportif montois et payez la cotisation",
+          "Téléchargez le formulaire sur mons.be et rassemblez les documents",
+          "Déposez le dossier complet au service des Sports de la Ville de Mons"
+        ]
+      },
+      "de": {
+        "title": "Chèques sport (Sportscheck, Mons)",
+        "desc": "Ein Zuschuss von 20 bis 40 € pro Kind von 3 bis 18 Jahren zum Beitrag eines Sportvereins in Mons, je nach Haushaltseinkommen. Ein Scheck pro Kind und Saison, auf Ihr Konto überwiesen.",
+        "deadline": "Anträge zwischen dem 2. September 2026 und dem 31. Mai 2027, solange das Budget reicht.",
+        "amount": "40 € (Einkommen bis 35.000 €), 35 € (bis 45.000 €), 30 € (bis 55.000 €), 20 € (darüber) pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular (eines pro Kind) und die Mitgliedsbescheinigung des Vereins mit Zahlungsnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Haushaltszusammensetzung (unter 3 Monate alt) und letzter Steuerbescheid jedes Erwachsenen darin"
+          }
+        ],
+        "steps": [
+          "Melden Sie Ihr Kind bei einem Sportverein in Mons an und zahlen Sie den Beitrag",
+          "Laden Sie das Formular auf mons.be herunter und sammeln Sie die Unterlagen",
+          "Reichen Sie die vollständige Akte beim Sportdienst der Stadt Mons ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.mons.be/fr/que-faire/sports/cheques-sport/cheques-sport-1",
+        "https://www.mons.be/fr/que-faire/sports/cheques-sport/fichiers-cheques-sport/fichiers-cheques-sport/cheques-sports-reglement-definitif.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The child is 3 to 18 years old on the day of the application and lives in Mons.",
+          "The child is a member of a sports club in Mons with a fee above €40; one cheque per child per season.",
+          "Your household is up to date with payments owed to the commune."
+        ],
+        "nl": [
+          "Het kind is 3 tot 18 jaar op de dag van de aanvraag en woont in Bergen.",
+          "Het kind is lid van een sportclub in Bergen met een lidgeld boven €40; één cheque per kind per seizoen.",
+          "Je gezin is in orde met betalingen aan de gemeente."
+        ],
+        "fr": [
+          "L'enfant a de 3 à 18 ans à la date de la demande et est domicilié à Mons.",
+          "L'enfant est inscrit dans un club sportif montois dont la cotisation dépasse 40 € ; un chèque par enfant et par saison.",
+          "Le ménage est en ordre de paiement auprès de la commune."
+        ],
+        "de": [
+          "Das Kind ist am Tag des Antrags 3 bis 18 Jahre alt und wohnt in Mons.",
+          "Das Kind ist Mitglied eines Sportvereins in Mons mit einem Beitrag über 40 €; ein Scheck pro Kind und Saison.",
+          "Ihr Haushalt hat keine offenen Zahlungen bei der Gemeinde."
+        ]
+      }
+    }
+  },
+  {
+    "id": 81,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "41002"
+    ],
+    "institution": "Stad Aalst",
+    "verified": "26 Oct 2026",
+    "status": "verified",
+    "source_url": "https://aalst.be/groen-afval-en-milieu/afval-en-recyclage/tegemoetkoming-gewogen-diftar",
+    "content": {
+      "en": {
+        "title": "Tegemoetkoming gewogen diftar – incontinentie (Waste-Cost Allowance for Incontinence, Aalst)",
+        "desc": "A yearly €75 towards the extra weighed-waste costs for Aalst residents living at home with chronic incontinence who receive an RIZIV incontinence allowance. From 2026 everyone, including past recipients, must apply again.",
+        "deadline": "Apply by the end of the calendar year; send a new certificate when the old one expires.",
+        "amount": "€75 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The signed application form"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate or letter from your health fund confirming you receive an RIZIV incontinence allowance"
+          }
+        ],
+        "steps": [
+          "Fill in and sign the form",
+          "Add your health fund's certificate",
+          "Send both via the online form on aalst.be, to natuurenduurzaamheid@aalst.be or to Team Natuur en Duurzaamheid, Werf 9, 9300 Aalst"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming gewogen diftar voor personen met incontinentie (Aalst)",
+        "desc": "Een jaarlijkse €75 voor de extra kosten van gewogen diftar voor thuiswonende inwoners van Aalst met chronische incontinentie die een incontinentieforfait van het RIZIV krijgen. Vanaf 2026 moet iedereen, ook wie de tegemoetkoming al kreeg, opnieuw aanvragen.",
+        "deadline": "Aan te vragen tot het einde van het kalenderjaar; bezorg een nieuw attest zodra het vorige vervalt.",
+        "amount": "€75 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ondertekende aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest of brief van je ziekenfonds of Hulpkas dat je een incontinentieforfait van het RIZIV ontvangt"
+          }
+        ],
+        "steps": [
+          "Vul het formulier in en onderteken het",
+          "Voeg het attest van je ziekenfonds toe",
+          "Bezorg beide via het online formulier op aalst.be, aan natuurenduurzaamheid@aalst.be of aan Team Natuur en Duurzaamheid, Werf 9, 9300 Aalst"
+        ]
+      },
+      "fr": {
+        "title": "Tegemoetkoming gewogen diftar – incontinentie (Allocation déchets pour incontinence, Alost)",
+        "desc": "Une allocation annuelle de 75 € pour les frais supplémentaires de déchets pesés, pour les habitants d'Alost vivant à domicile avec une incontinence chronique et percevant un forfait incontinence de l'INAMI. Dès 2026, chacun, y compris les anciens bénéficiaires, doit refaire la demande.",
+        "deadline": "À demander avant la fin de l'année civile ; envoyez une nouvelle attestation dès que la précédente expire.",
+        "amount": "75 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation ou lettre de votre mutuelle confirmant que vous percevez un forfait incontinence de l'INAMI"
+          }
+        ],
+        "steps": [
+          "Remplissez et signez le formulaire",
+          "Joignez l'attestation de votre mutuelle",
+          "Envoyez les deux via le formulaire en ligne sur aalst.be, à natuurenduurzaamheid@aalst.be ou au Team Natuur en Duurzaamheid, Werf 9, 9300 Alost"
+        ]
+      },
+      "de": {
+        "title": "Tegemoetkoming gewogen diftar – Inkontinenz (Abfallkostenzuschuss bei Inkontinenz, Aalst)",
+        "desc": "Ein jährlicher Zuschuss von 75 € für die zusätzlichen Kosten der gewogenen Abfallgebühr für zu Hause lebende Einwohner von Aalst mit chronischer Inkontinenz, die eine Inkontinenzpauschale des LIKIV erhalten. Ab 2026 müssen alle, auch bisherige Empfänger, neu beantragen.",
+        "deadline": "Bis Ende des Kalenderjahres beantragen; senden Sie eine neue Bescheinigung, sobald die alte abläuft.",
+        "amount": "75 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das unterschriebene Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung oder ein Schreiben Ihrer Krankenkasse, dass Sie eine LIKIV-Inkontinenzpauschale erhalten"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular aus und unterschreiben Sie es",
+          "Fügen Sie die Bescheinigung Ihrer Krankenkasse bei",
+          "Senden Sie beides über das Online-Formular auf aalst.be, an natuurenduurzaamheid@aalst.be oder an Team Natuur en Duurzaamheid, Werf 9, 9300 Aalst"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://aalst.be/groen-afval-en-milieu/afval-en-recyclage/tegemoetkoming-gewogen-diftar",
+      "conditions": {
+        "en": [
+          "On 1 January of the year concerned you are registered in Aalst's population or foreigners' register (bevolkings- of vreemdelingenregister).",
+          "You do not live in a residential facility, service flat, assisted-living home, hospital, care home or short-stay centre.",
+          "You receive an RIZIV incontinence allowance (for untreatable urinary incontinence or for dependent persons), proven by your health fund or the Hulpkas."
+        ],
+        "nl": [
+          "Je bent op 1 januari van het betrokken jaar ingeschreven in het bevolkings- of vreemdelingenregister van Stad Aalst.",
+          "Je woont niet in een residentiële voorziening, serviceflat, assistentiewoning, ziekenhuis, woonzorgcentrum of centrum voor kortverblijf.",
+          "Je ontvangt een incontinentieforfait van het RIZIV (voor onbehandelbare urinaire incontinentie of voor afhankelijke personen), gestaafd met een bewijs van je ziekenfonds of Hulpkas."
+        ],
+        "fr": [
+          "Au 1er janvier de l'année concernée, vous êtes inscrit(e) au registre de la population ou des étrangers d'Alost.",
+          "Vous ne vivez pas en institution résidentielle, résidence-services, logement assisté, hôpital, maison de repos ou centre de court séjour.",
+          "Vous percevez un forfait incontinence de l'INAMI (incontinence urinaire incurable ou personnes dépendantes), prouvé par votre mutuelle ou la CAAMI."
+        ],
+        "de": [
+          "Am 1. Januar des betreffenden Jahres sind Sie im Bevölkerungs- oder Fremdenregister von Aalst eingetragen.",
+          "Sie leben nicht in einer Wohneinrichtung, Servicewohnung, betreuten Wohnung, Klinik, Pflegeeinrichtung oder Kurzzeitpflege.",
+          "Sie erhalten eine LIKIV-Inkontinenzpauschale (bei unheilbarer Harninkontinenz oder für pflegebedürftige Personen), nachgewiesen durch Ihre Krankenkasse oder die Hilfskasse."
+        ]
+      }
+    }
   }
 ]

@@ -129,49 +129,84 @@
         72,
         73
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "44021",
-      "name": "Gent / Gand"
+      "name": "Gent / Gand",
+      "checked": "26 Oct 2026",
+      "ids": [
+        74
+      ]
     },
     {
       "nis": "52011",
-      "name": "Charleroi"
+      "name": "Charleroi",
+      "checked": "26 Oct 2026",
+      "ids": [
+        75
+      ]
     },
     {
       "nis": "21015",
-      "name": "Schaarbeek / Schaerbeek"
+      "name": "Schaarbeek / Schaerbeek",
+      "checked": "26 Oct 2026",
+      "ids": [
+        76
+      ]
     },
     {
       "nis": "21001",
-      "name": "Anderlecht"
+      "name": "Anderlecht",
+      "checked": "26 Oct 2026",
+      "ids": []
     },
     {
       "nis": "31005",
-      "name": "Brugge / Bruges"
+      "name": "Brugge / Bruges",
+      "checked": "26 Oct 2026",
+      "ids": [
+        77,
+        78
+      ]
     },
     {
       "nis": "92094",
-      "name": "Namen / Namur"
+      "name": "Namen / Namur",
+      "checked": "26 Oct 2026",
+      "ids": []
     },
     {
       "nis": "21012",
-      "name": "Sint-Jans-Molenbeek / Molenbeek-Saint-Jean"
+      "name": "Sint-Jans-Molenbeek / Molenbeek-Saint-Jean",
+      "checked": "26 Oct 2026",
+      "ids": [
+        79
+      ]
     },
     {
       "nis": "21009",
-      "name": "Elsene / Ixelles"
+      "name": "Elsene / Ixelles",
+      "checked": "26 Oct 2026",
+      "ids": []
     },
     {
       "nis": "53053",
-      "name": "Bergen / Mons"
+      "name": "Bergen / Mons",
+      "checked": "26 Oct 2026",
+      "ids": [
+        80
+      ]
     },
     {
       "nis": "41002",
-      "name": "Aalst / Alost"
-    },
+      "name": "Aalst / Alost",
+      "checked": "26 Oct 2026",
+      "ids": [
+        81
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "12025",
       "name": "Mechelen / Malines"
