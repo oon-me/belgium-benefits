@@ -112,7 +112,10 @@ export default function Search() {
             <SearchIcon size={20} color={c.inkSoft} aria-hidden="true" className="shrink-0" />
             <input
               ref={input}
-              type="search"
+              // type="text" (not "search"): browsers add their own clear button to search fields,
+              // which would sit next to ours.
+              type="text"
+              inputMode="search"
               value={text}
               onChange={(e) => setText(e.target.value)}
               onKeyDown={onKeyDown}
