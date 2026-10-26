@@ -259,10 +259,11 @@ Per commune:
    Brussels or federal one (those get one region-wide entry, not 565 copies).
 3. Write one entry per premium: `communes` holds that commune (a NIS code when the Statbel
    name carries a qualifier, e.g. `46021` for Sint-Niklaas), `institution` the official name,
-   `source_url` the page, `verified` today. Only figures from the page.
+   `source_url` the page, `verified` today. Only figures from the page. Add `eligibility`
+   (see "Who can get it" below): the page's conditions in four languages.
 4. Move the commune from `queue` to `done` with the ids, even when nothing was added.
 
-All entries are bundled into the client, about 6 KB each. Split the data per region or load
+All entries are bundled into the client, about 11 KB each with their conditions. Split the data per region or load
 commune entries on demand before it passes about 1.5 MB.
 
 ## Responsive behaviour
@@ -405,6 +406,38 @@ It shows in small print as "Ter info / For information / Pour info / Zur Info" o
 the detail page, with its date and source. The amounts above it always describe the rules in
 force today. `npm run check` warns once a notice is **30 days** old: by then the change may have
 passed (update the entry, drop the notice), moved, or been dropped.
+
+### Who can get it: `eligibility` (from 26 Oct 2026)
+
+The site shows *receivable* benefits, not a list of everything that exists. Every entry carries the
+legal conditions from its official page, and `npm run check` fails without them:
+
+```json
+"eligibility": {
+  "checked": "26 Oct 2026",
+  "source_url": ["https://…the page that states who can apply…"],
+  "conditions": { "en": ["…", "…"], "nl": […], "fr": […], "de": […] },
+  "statuses": {
+    "intl-student": { "verdict": "no", "text": { "en": "Not open to you: …", "nl": …, "fr": …, "de": … } },
+    "non-eu": { "verdict": "conditional", "text": { … } }
+  }
+}
+```
+
+- `conditions` are shown on every card and on the benefit page. Same count in all four
+  languages. Quote the page's own conditions (residence or registration, nationality or permit,
+  work status, membership, income, age, deadlines); never infer one.
+- `statuses` uses the onboarding residence statuses (`belgian`, `eu`, `non-eu`, `intl-student`).
+  `"no"` means the law closes the benefit to that status: it is removed from that person's
+  results and listed underneath with the reason. `"conditional"` adds a line for that status on
+  the card. A status not listed has no special rule.
+- `intl-student` means a student from outside the EU on a study permit, or another temporary
+  stay; EU students choose `eu`. Rules found in Oct 2026: a study permit gives no family
+  benefits for the student, but the student's child can qualify (GPedia toelichtingsnota 2,
+  Walloon decree of 8 Feb 2018 as amended 25 Apr 2024, Famiris); leefloon and the integration
+  allowance need the population register; full-time studies end unemployment benefit; the Flemish
+  study grant excludes permits granted for higher education.
+- `checked` follows the same 180-day re-check as `verified`.
 
 ### Health-fund extras: `health_funds`
 

@@ -42,11 +42,16 @@ export default function Benefits() {
   };
 
   const communeLabel = communeName(commune, lang);
-  const items = filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund });
+  const items = filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund, status });
+  // What would match without the status rule: those benefits are named, not silently dropped,
+  // so the person knows why they are missing and can read the official reason.
+  const closedByStatus = status
+    ? filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund }).filter((b) => !items.includes(b))
+    : [];
   // Would any fund's own extras show up here if the person told us their fund?
   const fundExtrasHidden =
     !fund &&
-    healthFunds.some((f) => filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund: f.id }).length > items.length);
+    healthFunds.some((f) => filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund: f.id, status }).length > items.length);
   const chooseFund = (value) => {
     setPrefs({ fund: value || null });
     setParam("fund", value || null);
@@ -174,9 +179,25 @@ export default function Benefits() {
 
         <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-3">
           {items.map((b) => (
-            <BenefitCard key={b.id} benefit={b} lang={lang} t={t} to={benefitPath(lang, b)} />
+            <BenefitCard key={b.id} benefit={b} lang={lang} t={t} to={benefitPath(lang, b)} status={status} />
           ))}
         </div>
+        {closedByStatus.length > 0 && (
+          <div className="mt-6 text-xs" style={{ color: c.inkSoft }}>
+            <p className="mb-1.5">{t("hiddenByStatus")}</p>
+            <ul className="list-disc pl-4 space-y-1">
+              {closedByStatus.map((b) => (
+                <li key={b.id}>
+                  <Link to={benefitPath(lang, b)} className="underline" style={{ color: c.post }}>
+                    {getContent(b, lang).title}
+                  </Link>
+                  {" — "}
+                  {b.eligibility.statuses[status].text[lang] ?? b.eligibility.statuses[status].text.en}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
         {items.length === 0 && (
           <p className="text-sm text-center py-14" style={{ color: c.inkSoft }}>
             {t("noMatches")}

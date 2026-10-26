@@ -4,11 +4,12 @@ import benefits from "../src/data/benefits.json" with { type: "json" };
 import { communesByRegion, resolveCommune, communeName } from "../src/data/communes.js";
 import { matchesBenefit } from "../src/lib/match.js";
 import { ageInDays, STALE_AFTER_DAYS } from "../src/lib/freshness.js";
-import { healthFundIds, situationIds } from "../src/constants.js";
+import { healthFundIds, situationIds, statuses } from "../src/constants.js";
 
 const LANGS = ["en", "nl", "fr", "de"];
 const CATEGORIES = new Set(["housing", "family", "health", "employment", "other"]);
 const SITUATIONS = situationIds;
+const STATUSES = new Set(statuses.map((s) => s.id));
 const REGIONS = new Set(["Flanders", "Wallonia", "Brussels", "Federal"]);
 const REQ_TYPES = new Set(["phone", "card", "id", "doc"]);
 const NOTICE_RECHECK_DAYS = 30;
@@ -60,6 +61,32 @@ for (const b of benefits) {
     const nAge = ageInDays(n.date);
     if (nAge !== null && nAge >= NOTICE_RECHECK_DAYS) {
       warnings.push(`${at}: notice announced ${nAge} days ago — check whether the change passed, moved or was dropped`);
+    }
+  }
+
+  // Who can legally receive it. A result is shown as a match, so every entry must say what decides
+  // that, from an official page, in all four languages; and a residence status the law excludes
+  // must be marked "no" so that status never sees it as a match.
+  const el = b.eligibility;
+  if (!el) {
+    errors.push(`${at}: no eligibility (legal conditions) — every entry needs them`);
+  } else {
+    if (![].concat(el.source_url ?? []).length || ![].concat(el.source_url).every((u) => /^https:\/\//.test(u))) {
+      errors.push(`${at}: eligibility.source_url must be https (or a list of https URLs)`);
+    }
+    if (!/^\d{1,2} \w{3} \d{4}$/.test(el.checked ?? "")) errors.push(`${at}: eligibility.checked must be "DD Mon YYYY"`);
+    const counts = LANGS.map((L) => el.conditions?.[L]?.length ?? 0);
+    if (counts.some((n) => n === 0)) errors.push(`${at}: eligibility.conditions missing in a language`);
+    if (new Set(counts).size > 1) errors.push(`${at}: eligibility.conditions count differs between languages`);
+    for (const L of LANGS) for (const line of el.conditions?.[L] ?? []) if (!line?.trim()) errors.push(`${at}.${L}: empty eligibility condition`);
+    for (const [st, rule] of Object.entries(el.statuses ?? {})) {
+      if (!STATUSES.has(st)) errors.push(`${at}: eligibility.statuses has unknown status "${st}"`);
+      if (!["no", "conditional"].includes(rule.verdict)) errors.push(`${at}: eligibility.statuses.${st}.verdict must be "no" or "conditional"`);
+      for (const L of LANGS) if (!rule.text?.[L]?.trim()) errors.push(`${at}: eligibility.statuses.${st} missing language "${L}"`);
+    }
+    const elAge = ageInDays(el.checked);
+    if (elAge !== null && elAge >= STALE_AFTER_DAYS) {
+      warnings.push(`${at}: conditions last checked ${elAge} days ago — re-check who can apply`);
     }
   }
 

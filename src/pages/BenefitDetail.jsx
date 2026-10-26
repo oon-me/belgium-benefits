@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import { Link, Navigate, useParams } from "react-router-dom";
 import { ChevronLeft, Clock, ExternalLink, Smartphone, CreditCard, FileText } from "lucide-react";
 import { c, displayFont, monoFont } from "../theme.js";
@@ -9,7 +10,8 @@ import { isStale, monthsSince } from "../lib/freshness.js";
 import { benefitPath, parseBenefitParam } from "../lib/slug.js";
 import { loadPrefs } from "../lib/prefs.js";
 import { pickLang, fundSide, fundRequestUrl, fundRequestLinks } from "../lib/request.js";
-import { healthFunds } from "../constants.js";
+import { healthFunds, statuses } from "../constants.js";
+import { statusRule } from "../lib/match.js";
 
 export default function BenefitDetail() {
   const { lang, idSlug } = useParams();
@@ -18,6 +20,10 @@ export default function BenefitDetail() {
   const benefit = benefits.find((b) => String(b.id) === id);
   const bc = benefit ? getContent(benefit, lang) : null;
   const canonical = benefit ? benefitPath(lang, benefit) : null;
+  // Read after mounting: the prerendered HTML has no preferences, and the first client render
+  // must match it.
+  const [status, setStatus] = useState(null);
+  useEffect(() => setStatus(loadPrefs().status || null), []);
 
   usePageMeta({
     lang,
@@ -134,6 +140,58 @@ export default function BenefitDetail() {
         <p className="text-sm md:text-base mb-6 max-w-prose" style={{ color: c.ink }}>
           {bc.desc}
         </p>
+
+        {benefit.eligibility && (() => {
+          const el = benefit.eligibility;
+          const pick = (m) => m[lang] ?? m.en;
+          const mine = statusRule(benefit, status);
+          const rules = statuses.filter((st) => el.statuses?.[st.id]);
+          return (
+            <section className="rounded-xl p-4 mb-6 border-2" style={{ borderColor: c.post, background: "white" }}>
+              {mine?.verdict === "no" && (
+                <div className="rounded-lg p-3 mb-3" style={{ background: c.clayBg, border: `1px solid ${c.clay}` }}>
+                  <p className="text-xs font-bold mb-0.5" style={{ color: c.clay }}>
+                    {t("notOpenHeading")}: {t("statuses")[status]}
+                  </p>
+                  <p className="text-xs leading-relaxed" style={{ color: c.ink }}>
+                    {pick(mine.text)}
+                  </p>
+                </div>
+              )}
+              <p className="text-xs font-semibold uppercase tracking-wide mb-2" style={{ color: c.post }}>
+                ✅ {t("whoCanGet")}
+              </p>
+              <ul className="text-xs md:text-sm list-disc pl-5 space-y-1 mb-3" style={{ color: c.ink }}>
+                {pick(el.conditions).map((line, i) => (
+                  <li key={i}>{line}</li>
+                ))}
+              </ul>
+              {rules.length > 0 && (
+                <>
+                  <p className="text-[13px] font-semibold mb-1.5" style={{ color: c.ink }}>
+                    {t("statusRulesHeading")}
+                  </p>
+                  <ul className="text-xs space-y-1.5 mb-3" style={{ color: c.ink }}>
+                    {rules.map((st) => (
+                      <li key={st.id} className={st.id === status ? "font-semibold" : ""}>
+                        {st.emoji} {t("statuses")[st.id]}: {pick(el.statuses[st.id].text)}
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              )}
+              <p className="text-[13px]" style={{ color: c.inkSoft }}>
+                {t("conditionsChecked").replace("{date}", el.checked)}:{" "}
+                {[].concat(el.source_url).map((u, i) => (
+                  <a key={u} href={u} target="_blank" rel="noopener noreferrer" className="underline mr-2" style={{ color: c.post }}>
+                    {new URL(u).hostname.replace(/^www\./, "")}
+                    {[].concat(el.source_url).length > 1 ? ` (${i + 1})` : ""}
+                  </a>
+                ))}
+              </p>
+            </section>
+          );
+        })()}
 
         {bc.requirements && bc.requirements.length > 0 && (
           <div className="rounded-xl p-4 mb-6" style={{ background: c.paperDim, border: `1px solid ${c.line}` }}>

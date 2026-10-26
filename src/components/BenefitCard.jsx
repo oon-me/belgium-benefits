@@ -1,11 +1,16 @@
 import { Link } from "react-router-dom";
 import { c, displayFont, monoFont } from "../theme.js";
 import { getContent } from "../i18n.js";
+import { statusRule } from "../lib/match.js";
 import StampBadge from "./StampBadge.jsx";
 
 // A real <Link>, so the card is middle-clickable, openable in a new tab and shareable.
-export default function BenefitCard({ benefit, lang, t, to }) {
+// The legal conditions sit on the card itself: a result is only a match if the person can
+// actually receive it, so what decides that must be visible before anyone clicks.
+export default function BenefitCard({ benefit, lang, t, to, status = null }) {
   const bc = getContent(benefit, lang);
+  const conditions = benefit.eligibility?.conditions?.[lang] ?? benefit.eligibility?.conditions?.en ?? [];
+  const rule = statusRule(benefit, status);
   return (
     <Link
       to={to}
@@ -21,6 +26,24 @@ export default function BenefitCard({ benefit, lang, t, to }) {
       <p className="text-xs mb-3 flex-1" style={{ color: c.inkSoft }}>
         {bc.desc}
       </p>
+      {conditions.length > 0 && (
+        <div className="mb-3">
+          <p className="text-[12px] font-semibold uppercase tracking-wide mb-1" style={{ color: c.ink }}>
+            {t("whoCanGet")}
+          </p>
+          <ul className="text-[13px] leading-snug list-disc pl-4 space-y-0.5" style={{ color: c.ink }}>
+            {conditions.map((line, i) => (
+              <li key={i}>{line}</li>
+            ))}
+          </ul>
+        </div>
+      )}
+      {rule && (
+        <p className="text-[13px] leading-snug mb-3 rounded-md px-2.5 py-2" style={{ background: c.clayBg, color: c.ink }}>
+          <span className="font-semibold" style={{ color: c.clay }}>{t("yourStatusRule")}:</span>{" "}
+          {rule.text[lang] ?? rule.text.en}
+        </p>
+      )}
       {benefit.notice && (
         <p className="text-[13px] leading-snug mb-3 line-clamp-2" style={{ color: c.inkSoft }}>
           <span className="font-semibold" style={{ color: c.ink }}>ⓘ {t("noticeLabel")}:</span>{" "}

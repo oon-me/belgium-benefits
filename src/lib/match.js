@@ -9,8 +9,16 @@ import { resolveCommune } from "../data/communes.js";
 // that says "Kelmis".
 const nisOf = (value) => resolveCommune(value)?.nis || null;
 
-export function matchesBenefit(b, { region, commune, category, situations = [], query, lang = "en", fund = null } = {}) {
+// What the law says about a residence status for this benefit: "no" (closed to it),
+// "conditional" (open under an extra condition, shown to the person) or null (no special rule).
+export function statusRule(b, status) {
+  return (status && b.eligibility?.statuses?.[status]) || null;
+}
+
+export function matchesBenefit(b, { region, commune, category, situations = [], query, lang = "en", fund = null, status = null } = {}) {
   const userNis = nisOf(commune);
+  // A benefit the law closes to this residence status is never shown as a match.
+  if (statusRule(b, status)?.verdict === "no") return false;
 
   // "Federal" means available anywhere in Belgium, so it matches every region.
   if (region && !b.region.includes("Federal") && !b.region.includes(region)) return false;

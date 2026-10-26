@@ -129,6 +129,46 @@
         "fr": "Changement prévu, pas encore en vigueur : dans son budget de septembre 2026, le gouvernement flamand a décidé que le startbedrag ne serait plus versé que pour un premier enfant. En cas de naissance multiple, chaque enfant y aura encore droit, et une exception est prévue pour les familles recomposées. Aucune date d'entrée en vigueur n'est fixée — aujourd'hui, il est encore versé pour chaque enfant.",
         "de": "Geplante Änderung, noch kein Gesetz: Im Haushalt vom September 2026 hat die flämische Regierung beschlossen, den Startbedrag nur noch für ein erstes Kind zu zahlen. Bei Mehrlingen erhält ihn weiterhin jedes Kind, und für Patchwork-Familien gibt es eine Ausnahme. Ein Startdatum steht noch nicht fest — derzeit wird er noch für jedes Kind gezahlt."
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/het-vlaams-groeipakket/het-vlaams-groeipakket-voor-een-kind-met-niet-belgische-nationaliteit",
+        "https://gpedia.groeipakket.be/nl/richtlijnen/toelichtingsnotas/regelgeving-pagina/toelichtingsnota-2-van-27"
+      ],
+      "conditions": {
+        "en": [
+          "Your child lives in Flanders.",
+          "Your child is Belgian or has a residence right of more than 3 months (or a parent has one).",
+          "Paid before the birth only if the mother has a residence right of more than 3 months; otherwise after the birth."
+        ],
+        "nl": [
+          "Je kind woont in Vlaanderen.",
+          "Je kind is Belg of heeft een verblijfsrecht van meer dan 3 maanden (of een ouder heeft dat).",
+          "Vóór de geboorte enkel als de moeder een verblijfsrecht van meer dan 3 maanden heeft; anders na de geboorte."
+        ],
+        "fr": [
+          "Votre enfant habite en Flandre.",
+          "Votre enfant est belge ou a un droit de séjour de plus de 3 mois (ou un parent en a un).",
+          "Versé avant la naissance seulement si la mère a un droit de séjour de plus de 3 mois ; sinon après la naissance."
+        ],
+        "de": [
+          "Ihr Kind wohnt in Flandern.",
+          "Ihr Kind ist Belgier oder hat ein Aufenthaltsrecht von mehr als 3 Monaten (oder ein Elternteil hat eines).",
+          "Vor der Geburt nur, wenn die Mutter ein Aufenthaltsrecht von mehr als 3 Monaten hat; sonst nach der Geburt."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "A permit for studies gives you no family benefits for yourself, but children of students do meet the residence condition (Opgroeien guidance). Register your child at the commune with its own residence right.",
+            "nl": "Een verblijfsvergunning voor studies geeft jou zelf geen recht op gezinsbijslagen, maar kinderen van studenten voldoen wel aan de verblijfsvoorwaarde (richtlijn van Opgroeien). Schrijf je kind in de gemeente in met een eigen verblijfsrecht.",
+            "fr": "Un titre de séjour pour études ne vous ouvre aucun droit aux allocations pour vous-même, mais les enfants d'étudiants remplissent bien la condition de séjour (directive d'Opgroeien). Inscrivez votre enfant à la commune avec son propre droit de séjour.",
+            "de": "Eine Aufenthaltserlaubnis zum Studium gibt Ihnen selbst keinen Anspruch auf Familienleistungen, aber Kinder von Studierenden erfüllen die Aufenthaltsbedingung (Richtlinie von Opgroeien). Melden Sie Ihr Kind mit eigenem Aufenthaltsrecht bei der Gemeinde an."
+          }
+        }
+      }
     }
   },
   {
@@ -246,6 +286,42 @@
           "Die Auszahlung erfolgt 2 Monate vor dem Geburtstermin; damit wird auch Ihre laufende Kindergeldakte eröffnet"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://wallonie.be/fr/demarches/beneficier-dallocations-familiales-en-wallonie",
+        "https://wallex.wallonie.be/eli/loi-decret/2018/02/08/2018201006"
+      ],
+      "conditions": {
+        "en": [
+          "Your child is domiciled or lives in Wallonia (outside the German-speaking Community).",
+          "Your child is Belgian or holds a residence permit; a child under 12 without one qualifies if a parent holds one."
+        ],
+        "nl": [
+          "Je kind is gedomicilieerd of woont in Wallonië (buiten de Duitstalige Gemeenschap).",
+          "Je kind is Belg of heeft een verblijfstitel; een kind jonger dan 12 zonder verblijfstitel komt in aanmerking als een ouder er een heeft."
+        ],
+        "fr": [
+          "Votre enfant est domicilié ou réside en Wallonie (hors Communauté germanophone).",
+          "Votre enfant est belge ou bénéficiaire d'un titre de séjour ; un enfant de moins de 12 ans sans titre de séjour ouvre le droit si un parent en a un."
+        ],
+        "de": [
+          "Ihr Kind hat seinen Wohnsitz oder lebt in der Wallonie (außerhalb der Deutschsprachigen Gemeinschaft).",
+          "Ihr Kind ist Belgier oder hat einen Aufenthaltstitel; ein Kind unter 12 ohne Titel ist berechtigt, wenn ein Elternteil einen hat."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "A stay allowed for studies does not count as a residence permit here (Walloon decree, as amended on 25 April 2024), including for EU students, so it cannot open the right for your child. Your child needs its own residence permit.",
+            "nl": "Een verblijf toegestaan voor studies telt hier niet als verblijfstitel (Waals decreet, gewijzigd op 25 april 2024), ook niet voor EU-studenten, en kan dus geen recht openen voor je kind. Je kind heeft een eigen verblijfstitel nodig.",
+            "fr": "Un séjour autorisé pour études ne compte pas ici comme titre de séjour (décret wallon modifié le 25 avril 2024), y compris pour les étudiants de l'UE, et ne peut donc pas ouvrir le droit pour votre enfant. Votre enfant doit avoir son propre titre de séjour.",
+            "de": "Ein Aufenthalt zum Studium gilt hier nicht als Aufenthaltstitel (wallonisches Dekret, geändert am 25. April 2024), auch nicht für EU-Studierende, und kann daher keinen Anspruch für Ihr Kind eröffnen. Ihr Kind braucht einen eigenen Aufenthaltstitel."
+          }
+        }
+      }
     }
   },
   {
@@ -356,6 +432,42 @@
           "Melden Sie die Geburt innerhalb von 15 Tagen bei Ihrer Gemeinde an, damit das monatliche Kindergeld zügig startet"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://famiris.brussels/fr/faq/allocations-familiales/conditions-pour-les-allocations-familiales-bruxelloises/",
+        "https://famiris.brussels/en/faq/students-and-school-leavers/child-benefit-for-international-students-starting-from-the-2025-2026-academic-year/"
+      ],
+      "conditions": {
+        "en": [
+          "Your child lives in the Brussels-Capital Region.",
+          "Your child is Belgian or is allowed to stay in Belgium."
+        ],
+        "nl": [
+          "Je kind woont in het Brussels Hoofdstedelijk Gewest.",
+          "Je kind is Belg of mag in België verblijven."
+        ],
+        "fr": [
+          "Votre enfant habite dans la Région de Bruxelles-Capitale.",
+          "Votre enfant est belge ou autorisé à séjourner en Belgique."
+        ],
+        "de": [
+          "Ihr Kind wohnt in der Region Brüssel-Hauptstadt.",
+          "Ihr Kind ist Belgier oder darf sich in Belgien aufhalten."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Since 1 September 2025, new students on a student visa get no Brussels child benefit for themselves. For your child the general rule applies: it must live in Brussels and be allowed to stay in Belgium.",
+            "nl": "Sinds 1 september 2025 krijgen nieuwe studenten met een studentenvisum zelf geen Brusselse kinderbijslag. Voor je kind geldt de algemene regel: het woont in Brussel en mag in België verblijven.",
+            "fr": "Depuis le 1er septembre 2025, les nouveaux étudiants avec un visa étudiant ne reçoivent plus d'allocations familiales bruxelloises pour eux-mêmes. Pour votre enfant, la règle générale s'applique : il habite à Bruxelles et est autorisé à séjourner en Belgique.",
+            "de": "Seit dem 1. September 2025 erhalten neue Studierende mit Studentenvisum selbst kein Brüsseler Kindergeld mehr. Für Ihr Kind gilt die allgemeine Regel: Es wohnt in Brüssel und darf sich in Belgien aufhalten."
+          }
+        }
+      }
     }
   },
   {
@@ -453,6 +565,28 @@
           "Reichen Sie es beim Ministerium der Deutschsprachigen Gemeinschaft ein",
           "Ein Vorschuss wird ab 2 Monate vor dem Geburtstermin ausgezahlt",
           "Der Restbetrag wird nach der Anmeldung der Geburt abgerechnet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://ostbelgienfamilie.be/desktopdefault.aspx/tabid-5886/",
+      "conditions": {
+        "en": [
+          "Your child's first residence is in the German-speaking Community, and the mother lives there at the birth.",
+          "Adoption: the adoption request (or deed) exists, the child lives with you and is entitled to Kindergeld."
+        ],
+        "nl": [
+          "De eerste woonplaats van je kind ligt in de Duitstalige Gemeenschap en de moeder woont daar bij de geboorte.",
+          "Adoptie: er is een adoptieverzoek (of -akte), het kind woont bij jou en heeft recht op kinderbijslag."
+        ],
+        "fr": [
+          "La première résidence de votre enfant est en Communauté germanophone et la mère y est domiciliée à la naissance.",
+          "Adoption : une demande (ou un acte) d'adoption existe, l'enfant vit avec vous et a droit aux allocations familiales."
+        ],
+        "de": [
+          "Der erste Wohnsitz Ihres Kindes liegt in der Deutschsprachigen Gemeinschaft und die Mutter wohnt bei der Geburt dort.",
+          "Adoption: Ein Adoptionsantrag (oder eine Urkunde) liegt vor, das Kind wohnt bei Ihnen und ist kindergeldberechtigt."
         ]
       }
     }
@@ -578,6 +712,36 @@
           "Der Versicherer zahlt monatlich direkt an Ihre Kreditinstitution, für den bewilligten Zeitraum"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.vlaamswoningfonds.be/onze-diensten/verzekering-gewaarborgd-wonen/voorwaarden-verzekering-gewaarborgd-wonen",
+      "conditions": {
+        "en": [
+          "A mortgage of at least €50,000 to build or buy (or €25,000 for renovation only), for your main home in the Flemish Region valued at most €401,290.",
+          "You apply within 1 year of the first drawdown of the loan.",
+          "You worked without a break for the 12 months before applying (employee at least part-time, or self-employed as main occupation).",
+          "It pays only after 3 months of involuntary unemployment or incapacity for work."
+        ],
+        "nl": [
+          "Een hypothecaire lening van minstens € 50.000 om te bouwen of te kopen (of € 25.000 voor enkel renovatie), voor je hoofdverblijfplaats in het Vlaams Gewest met een geschatte waarde van hoogstens € 401.290.",
+          "Je vraagt aan binnen 1 jaar na de eerste kapitaalsopname van de lening.",
+          "Je werkte ononderbroken de 12 maanden vóór de aanvraag (werknemer minstens deeltijds, of zelfstandige in hoofdberoep).",
+          "Het keert pas uit na 3 maanden onvrijwillige werkloosheid of arbeidsongeschiktheid."
+        ],
+        "fr": [
+          "Un prêt hypothécaire d'au moins 50.000 € pour construire ou acheter (ou 25.000 € pour une rénovation seule), pour votre résidence principale en Région flamande estimée à 401.290 € maximum.",
+          "Vous introduisez la demande dans l'année qui suit le premier prélèvement du prêt.",
+          "Vous avez travaillé sans interruption les 12 mois précédant la demande (salarié au moins à temps partiel, ou indépendant à titre principal).",
+          "Elle n'intervient qu'après 3 mois de chômage involontaire ou d'incapacité de travail."
+        ],
+        "de": [
+          "Ein Hypothekendarlehen von mindestens 50.000 € zum Bauen oder Kaufen (oder 25.000 € nur für Renovierung), für Ihren Hauptwohnsitz in der Flämischen Region mit einem Schätzwert von höchstens 401.290 €.",
+          "Sie beantragen innerhalb eines Jahres nach der ersten Auszahlung des Darlehens.",
+          "Sie haben in den 12 Monaten vor dem Antrag ohne Unterbrechung gearbeitet (Arbeitnehmer mindestens in Teilzeit oder Selbstständiger im Hauptberuf).",
+          "Sie zahlt erst nach 3 Monaten unfreiwilliger Arbeitslosigkeit oder Arbeitsunfähigkeit."
+        ]
+      }
     }
   },
   {
@@ -685,7 +849,37 @@
         ]
       }
     },
-    "amount_source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/vlaamse-huurpremie-voor-kandidaat-huurders-van-een-sociale-woning/bedrag-van-de-vlaamse-huurpremie"
+    "amount_source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/vlaamse-huurpremie-voor-kandidaat-huurders-van-een-sociale-woning/bedrag-van-de-vlaamse-huurpremie",
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/vlaamse-huurpremie-voor-kandidaat-huurders-van-een-sociale-woning/wie-de-vlaamse-huurpremie-kan-krijgen",
+      "conditions": {
+        "en": [
+          "You have been on the social-housing waiting list of your commune's housing company for at least 4 years without a break.",
+          "You rent privately in the Flemish Region, in your own name, as your main residence and domicile, and the home meets the quality standards.",
+          "Rent at most €762.28 a month (room €609.83) in 2026, more with dependants or in some communes.",
+          "Household income at most €31,361 (single) or €47,039 (others), plus €2,629 per dependant; not renting from family up to the 2nd degree at the same address."
+        ],
+        "nl": [
+          "Je staat al minstens 4 jaar ononderbroken op de wachtlijst voor een sociale huurwoning bij de woonmaatschappij van je gemeente.",
+          "Je huurt privé in het Vlaams Gewest, op jouw naam, als hoofdverblijfplaats en domicilie, en de woning voldoet aan de kwaliteitsnormen.",
+          "Huurprijs hoogstens € 762,28 per maand (kamer € 609,83) in 2026, meer met personen ten laste of in sommige gemeenten.",
+          "Gezinsinkomen hoogstens € 31.361 (alleenstaande) of € 47.039 (anderen), plus € 2.629 per persoon ten laste; niet huren van familie tot de 2de graad op hetzelfde adres."
+        ],
+        "fr": [
+          "Vous êtes inscrit(e) depuis au moins 4 ans sans interruption sur la liste d'attente d'un logement social auprès de la société de logement de votre commune.",
+          "Vous louez dans le privé en Région flamande, à votre nom, comme résidence principale et domicile, et le logement respecte les normes de qualité.",
+          "Loyer de 762,28 € par mois maximum (chambre 609,83 €) en 2026, davantage avec des personnes à charge ou dans certaines communes.",
+          "Revenus du ménage de 31.361 € maximum (isolé) ou 47.039 € (autres), plus 2.629 € par personne à charge ; ne pas louer à un parent jusqu'au 2e degré vivant à la même adresse."
+        ],
+        "de": [
+          "Sie stehen seit mindestens 4 Jahren ohne Unterbrechung auf der Warteliste für eine Sozialwohnung bei der Wohnungsgesellschaft Ihrer Gemeinde.",
+          "Sie mieten privat in der Flämischen Region, auf Ihren Namen, als Hauptwohnsitz, und die Wohnung erfüllt die Qualitätsnormen.",
+          "Miete höchstens 762,28 € im Monat (Zimmer 609,83 €) im Jahr 2026, mehr mit Unterhaltsberechtigten oder in einigen Gemeinden.",
+          "Haushaltseinkommen höchstens 31.361 € (Alleinstehende) oder 47.039 € (andere), plus 2.629 € je Unterhaltsberechtigten; keine Miete bei Verwandten bis zum 2. Grad an derselben Adresse."
+        ]
+      }
+    }
   },
   {
     "id": 7,
@@ -787,7 +981,37 @@
         ]
       }
     },
-    "note": "Amounts confirmed on the official wallonie.be page on 18 Sep 2026, but that page carries 'Mis à jour le 15.03.2023' — the €125/€185 figures may predate later indexation. The page also states the scheme excludes the German-speaking Community and French-language Wallonia only."
+    "note": "Amounts confirmed on the official wallonie.be page on 18 Sep 2026, but that page carries 'Mis à jour le 15.03.2023' — the €125/€185 figures may predate later indexation. The page also states the scheme excludes the German-speaking Community and French-language Wallonia only.",
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.wallonie.be/fr/actualites/allocation-pour-les-menages-en-attente-dun-logement-social",
+      "conditions": {
+        "en": [
+          "You are 18 or older (or an emancipated minor), and Belgian or hold a Belgian residence permit.",
+          "You rent privately in Wallonia (outside the German-speaking Community) and live there.",
+          "You have been on a social-housing waiting list for at least 18 months and do not fully own a home.",
+          "Taxable income (two years back) at most €15,500 (single) or €21,200 (cohabitants), plus €2,900 per child or disabled dependant; no ADeL rent allowance."
+        ],
+        "nl": [
+          "Je bent minstens 18 (of een ontvoogde minderjarige), en Belg of houder van een Belgische verblijfstitel.",
+          "Je huurt privé in Wallonië (buiten de Duitstalige Gemeenschap) en woont er.",
+          "Je staat minstens 18 maanden op een wachtlijst voor een sociale woning en bent geen volle eigenaar van een woning.",
+          "Belastbaar inkomen (twee jaar terug) hoogstens € 15.500 (alleenstaande) of € 21.200 (samenwonenden), plus € 2.900 per kind of persoon met een handicap ten laste; geen ADeL-huurtoelage."
+        ],
+        "fr": [
+          "Vous avez au moins 18 ans (ou êtes mineur émancipé), et êtes belge ou détenteur d'un titre de séjour en Belgique.",
+          "Vous êtes titulaire d'un bail privé en Wallonie (hors Communauté germanophone) et y résidez.",
+          "Vous êtes sur liste d'attente d'un logement d'utilité publique depuis au moins 18 mois et n'êtes pas plein propriétaire.",
+          "Revenus imposables (N-2) de 15.500 € maximum (isolé) ou 21.200 € (cohabitants), majorés de 2.900 € par enfant ou personne handicapée à charge ; pas d'allocation de loyer ADeL."
+        ],
+        "de": [
+          "Sie sind mindestens 18 (oder ein mündig erklärter Minderjähriger) und Belgier oder Inhaber eines belgischen Aufenthaltstitels.",
+          "Sie mieten privat in der Wallonie (außerhalb der Deutschsprachigen Gemeinschaft) und wohnen dort.",
+          "Sie stehen seit mindestens 18 Monaten auf einer Warteliste für eine Sozialwohnung und sind nicht Volleigentümer einer Wohnung.",
+          "Steuerpflichtiges Einkommen (zwei Jahre zuvor) höchstens 15.500 € (Alleinstehende) oder 21.200 € (Zusammenwohnende), plus 2.900 € je Kind oder behinderte Person zu Lasten; keine ADeL-Mietbeihilfe."
+        ]
+      }
+    }
   },
   {
     "id": 8,
@@ -911,6 +1135,32 @@
           "Prüfen Sie, ob Ihr Haushaltseinkommen unter der geltenden Grenze liegt (16.408,11 € alleinstehend / 22.174,69 € Mehrpersonenhaushalt / bis 29.236,66 € für Alleinerziehende)",
           "Beantragen Sie online über das Bürgerportal (crm.irisbox.brussels) mit eID oder itsme, oder senden Sie das Papierformular an Brüssel Wohnen",
           "Warten Sie 2 bis 4 Monate auf eine Entscheidung über Ihre vollständige Akte"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://be.brussels/en/housing/rental/rent-allowance/housing-allowance/rent-allowance-how-apply-and-eligibility-requirements",
+      "conditions": {
+        "en": [
+          "You are on a Brussels social-housing waiting list (SISP) with enough priority points, and your income is within the limits on the page.",
+          "No one in your household owns property.",
+          "You officially live in the rented home in Brussels; it is not rented through an AIS or SISP, nor owned by family up to the 2nd degree; no other rent aid."
+        ],
+        "nl": [
+          "Je staat op een Brusselse wachtlijst voor een sociale woning (OVM) met voldoende voorrangspunten, en je inkomen blijft binnen de grenzen op de pagina.",
+          "Niemand in je gezin is eigenaar van een woning.",
+          "Je woont officieel in de huurwoning in Brussel; ze wordt niet verhuurd via een SVK of OVM, en is geen eigendom van familie tot de 2de graad; geen andere huurhulp."
+        ],
+        "fr": [
+          "Vous êtes inscrit(e) sur une liste d'attente d'une SISP bruxelloise avec assez de points de priorité, et vos revenus restent dans les plafonds de la page.",
+          "Aucun membre de votre ménage n'est propriétaire d'un bien.",
+          "Vous résidez officiellement dans le logement loué à Bruxelles ; il n'est pas loué via une AIS ou une SISP, ni propriété d'un parent jusqu'au 2e degré ; pas d'autre aide au loyer."
+        ],
+        "de": [
+          "Sie stehen auf einer Brüsseler Warteliste für eine Sozialwohnung (SISP) mit genügend Vorrangpunkten, und Ihr Einkommen liegt innerhalb der Grenzen auf der Seite.",
+          "Niemand in Ihrem Haushalt besitzt eine Immobilie.",
+          "Sie wohnen offiziell in der Mietwohnung in Brüssel; sie wird nicht über eine AIS oder SISP vermietet und gehört keinem Verwandten bis zum 2. Grad; keine andere Mietbeihilfe."
         ]
       }
     }
@@ -1039,7 +1289,33 @@
     "amount_source_url": [
       "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/mijn-verbouwpremie/wie-in-aanmerking-komt-voor-mijn-verbouwpremie/mijn-verbouwpremie-voor-eigenaar-bewoner",
       "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/mijn-verbouwpremie/vraag-mijn-verbouwpremie-aan"
-    ]
+    ],
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/mijn-verbouwpremie/wie-in-aanmerking-komt-voor-mijn-verbouwpremie/mijn-verbouwpremie-voor-eigenaar-bewoner",
+      "conditions": {
+        "en": [
+          "You own the house or apartment in the Flemish Region and live in it as your main residence.",
+          "Your income category decides what you get; categories 1 and 2 (highest incomes) only for a heat pump or heat-pump boiler.",
+          "You apply within 2 years of the final invoice."
+        ],
+        "nl": [
+          "Je bent eigenaar van het huis of appartement in het Vlaams Gewest en woont er als hoofdverblijfplaats.",
+          "Je inkomenscategorie bepaalt wat je krijgt; categorie 1 en 2 (hoogste inkomens) enkel voor een warmtepomp of warmtepompboiler.",
+          "Je vraagt aan binnen 2 jaar na de eindfactuur."
+        ],
+        "fr": [
+          "Vous êtes propriétaire de la maison ou de l'appartement en Région flamande et y habitez comme résidence principale.",
+          "Votre catégorie de revenus détermine ce que vous recevez ; catégories 1 et 2 (revenus les plus élevés) uniquement pour une pompe à chaleur ou un chauffe-eau thermodynamique.",
+          "Vous introduisez la demande dans les 2 ans suivant la facture finale."
+        ],
+        "de": [
+          "Sie sind Eigentümer des Hauses oder der Wohnung in der Flämischen Region und wohnen dort als Hauptwohnsitz.",
+          "Ihre Einkommenskategorie bestimmt, was Sie erhalten; Kategorien 1 und 2 (höchste Einkommen) nur für eine Wärmepumpe oder einen Wärmepumpenboiler.",
+          "Sie beantragen innerhalb von 2 Jahren nach der Schlussrechnung."
+        ]
+      }
+    }
   },
   {
     "id": 11,
@@ -1136,7 +1412,61 @@
       "https://www.vlaanderen.be/onderwijs-en-vorming/studietoelage/bedrag",
       "https://www.vlaanderen.be/onderwijs-en-vorming/studietoelage/extra-voorwaarden-voor-een-studietoelage-voor-academiejaar-2026-2027-en-bijhorende-uitzonderingen",
       "https://www.vlaanderen.be/onderwijs-en-vorming/studietoelage/procedure"
-    ]
+    ],
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.vlaanderen.be/onderwijs-en-vorming/studietoelage/voorwaarden/nationaliteitsvoorwaarden",
+        "https://www.vlaanderen.be/onderwijs-en-vorming/studietoelage/voorwaarden"
+      ],
+      "conditions": {
+        "en": [
+          "Nationality condition: Belgian; or an EU citizen living in Belgium for 5 years; or an EEA citizen who worked 12 of the last 24 months; or a non-EEA citizen with card D, EU+ or K.",
+          "Enrolled for at least 54 credits and under 30 on 31 December 2026 (with exceptions), and household income within the limits."
+        ],
+        "nl": [
+          "Nationaliteitsvoorwaarde: Belg; of EU-burger die 5 jaar in België woont; of EER-burger die 12 van de laatste 24 maanden werkte; of niet-EER-burger met kaart D, EU+ of K.",
+          "Ingeschreven voor minstens 54 studiepunten en jonger dan 30 op 31 december 2026 (met uitzonderingen), en gezinsinkomen binnen de grenzen."
+        ],
+        "fr": [
+          "Condition de nationalité : belge ; ou citoyen de l'UE vivant en Belgique depuis 5 ans ; ou citoyen de l'EEE ayant travaillé 12 des 24 derniers mois ; ou ressortissant hors EEE avec une carte D, EU+ ou K.",
+          "Inscrit(e) pour au moins 54 crédits et âgé(e) de moins de 30 ans au 31 décembre 2026 (avec exceptions), et revenus du ménage dans les plafonds."
+        ],
+        "de": [
+          "Staatsangehörigkeit: Belgier; oder EU-Bürger, der seit 5 Jahren in Belgien wohnt; oder EWR-Bürger, der 12 der letzten 24 Monate gearbeitet hat; oder Nicht-EWR-Bürger mit Karte D, EU+ oder K.",
+          "Für mindestens 54 Studienpunkte eingeschrieben und am 31. Dezember 2026 unter 30 (mit Ausnahmen), und Haushaltseinkommen innerhalb der Grenzen."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: a residence permit granted to follow higher education does not meet the nationality condition.",
+            "nl": "Niet voor jou: een verblijfsvergunning verleend om hoger onderwijs te volgen voldoet niet aan de nationaliteitsvoorwaarde.",
+            "fr": "Pas accessible : un titre de séjour accordé pour suivre l'enseignement supérieur ne remplit pas la condition de nationalité.",
+            "de": "Nicht für Sie: Eine Aufenthaltserlaubnis zum Hochschulstudium erfüllt die Staatsangehörigkeitsbedingung nicht."
+          }
+        },
+        "eu": {
+          "verdict": "conditional",
+          "text": {
+            "en": "As an EU citizen you need 5 years of uninterrupted residence in Belgium, or 12 months of work in Belgium in the last 2 years (at least 32 hours a month).",
+            "nl": "Als EU-burger moet je 5 jaar onafgebroken in België wonen, of in de laatste 2 jaar 12 maanden in België gewerkt hebben (minstens 32 uur per maand).",
+            "fr": "En tant que citoyen(ne) de l'UE, il faut 5 ans de résidence ininterrompue en Belgique, ou 12 mois de travail en Belgique au cours des 2 dernières années (au moins 32 heures par mois).",
+            "de": "Als EU-Bürger brauchen Sie 5 Jahre ununterbrochenen Wohnsitz in Belgien oder 12 Monate Arbeit in Belgien in den letzten 2 Jahren (mindestens 32 Stunden im Monat)."
+          }
+        },
+        "non-eu": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Only with card D, EU+ or K, 5 years with an EU card, or at least 12 months on a permit not granted for studies or work (other specific permits on the page).",
+            "nl": "Enkel met kaart D, EU+ of K, 5 jaar met een EU-kaart, of minstens 12 maanden met een verblijfsvergunning die niet voor studies of werk werd verleend (andere specifieke vergunningen op de pagina).",
+            "fr": "Uniquement avec une carte D, EU+ ou K, 5 ans avec une carte EU, ou au moins 12 mois avec un titre de séjour non accordé pour études ou travail (autres titres spécifiques sur la page).",
+            "de": "Nur mit Karte D, EU+ oder K, 5 Jahren mit einer EU-Karte oder mindestens 12 Monaten mit einem Aufenthaltstitel, der nicht für Studium oder Arbeit erteilt wurde (weitere Titel auf der Seite)."
+          }
+        }
+      }
+    }
   },
   {
     "id": 12,
@@ -1228,6 +1558,57 @@
           "Reichen Sie online oder per Post zwischen 1. Juli und 31. Oktober 2026 ein",
           "Die Auszahlung erfolgt einmalig auf Ihr Bankkonto nach Genehmigung — keine rückwirkende Zahlung bei verspäteter Antragstellung"
         ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://allocations-etudes.cfwb.be/conditions-et-montant/enseignement-superieur",
+      "conditions": {
+        "en": [
+          "Belgian, with a household composition in Belgium; or an EU citizen with permanent residence or working in Belgium (student jobs do not count), or whose parent or spouse is; or a non-EU citizen living in Belgium for 5 years by 31 October 2026, or with an EEA/Swiss parent working in Belgium; or a refugee, stateless person or under subsidiary protection for at least 1 year.",
+          "You receive no study aid from another country, and household income and studies meet the conditions."
+        ],
+        "nl": [
+          "Belg, met een gezinssamenstelling in België; of EU-burger met duurzaam verblijf of werk in België (studentenjobs tellen niet), of van wie een ouder of partner dat heeft; of niet-EU-burger die op 31 oktober 2026 al 5 jaar in België woont, of met een EER/Zwitserse ouder die in België werkt; of minstens 1 jaar erkend vluchteling, staatloze of subsidiair beschermd.",
+          "Je krijgt geen studiehulp van een ander land, en gezinsinkomen en studies voldoen aan de voorwaarden."
+        ],
+        "fr": [
+          "Belge, avec une composition de ménage en Belgique ; ou citoyen de l'UE avec un droit de séjour permanent ou travaillant en Belgique (les jobs étudiants ne comptent pas), ou dont un parent ou conjoint l'est ; ou ressortissant hors UE résidant en Belgique depuis 5 ans au 31 octobre 2026, ou avec un parent de l'EEE/Suisse travaillant en Belgique ; ou réfugié, apatride ou protection subsidiaire depuis au moins 1 an.",
+          "Vous ne recevez pas d'aide financière d'un autre pays, et les revenus du ménage et les études remplissent les conditions."
+        ],
+        "de": [
+          "Belgier mit Haushaltszusammensetzung in Belgien; oder EU-Bürger mit Daueraufenthalt oder Arbeit in Belgien (Studentenjobs zählen nicht) oder dessen Elternteil oder Ehepartner dies erfüllt; oder Nicht-EU-Bürger, der am 31. Oktober 2026 seit 5 Jahren in Belgien wohnt oder einen in Belgien arbeitenden EWR/Schweizer Elternteil hat; oder seit mindestens 1 Jahr anerkannter Flüchtling, Staatenloser oder subsidiär Schutzberechtigter.",
+          "Sie erhalten keine Studienhilfe aus einem anderen Land, und Haushaltseinkommen und Studium erfüllen die Bedingungen."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Only after 5 years of residence in Belgium by 31 October 2026, or with an EEA or Swiss parent working in Belgium; otherwise not open to you.",
+            "nl": "Enkel na 5 jaar verblijf in België op 31 oktober 2026, of met een EER- of Zwitserse ouder die in België werkt; anders niet voor jou.",
+            "fr": "Uniquement après 5 ans de résidence en Belgique au 31 octobre 2026, ou avec un parent de l'EEE ou suisse travaillant en Belgique ; sinon pas accessible.",
+            "de": "Nur nach 5 Jahren Aufenthalt in Belgien am 31. Oktober 2026 oder mit einem in Belgien arbeitenden EWR- oder Schweizer Elternteil; sonst nicht für Sie."
+          }
+        },
+        "eu": {
+          "verdict": "conditional",
+          "text": {
+            "en": "As an EU citizen you need permanent residence or a job in Belgium (student jobs do not count), or a parent or spouse who has one.",
+            "nl": "Als EU-burger heb je duurzaam verblijf of werk in België nodig (studentenjobs tellen niet), of een ouder of partner die dat heeft.",
+            "fr": "En tant que citoyen(ne) de l'UE, il faut un droit de séjour permanent ou un emploi en Belgique (les jobs étudiants ne comptent pas), ou un parent ou conjoint qui en a un.",
+            "de": "Als EU-Bürger brauchen Sie einen Daueraufenthalt oder eine Arbeit in Belgien (Studentenjobs zählen nicht) oder einen Elternteil oder Ehepartner, der dies hat."
+          }
+        },
+        "non-eu": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Only with 5 years of residence in Belgium by 31 October 2026, an EEA or Swiss parent working in Belgium, or refugee, stateless or subsidiary-protection status for at least 1 year.",
+            "nl": "Enkel met 5 jaar verblijf in België op 31 oktober 2026, een EER- of Zwitserse ouder die in België werkt, of minstens 1 jaar het statuut van vluchteling, staatloze of subsidiaire bescherming.",
+            "fr": "Uniquement avec 5 ans de résidence en Belgique au 31 octobre 2026, un parent de l'EEE ou suisse travaillant en Belgique, ou le statut de réfugié, d'apatride ou de protection subsidiaire depuis au moins 1 an.",
+            "de": "Nur mit 5 Jahren Aufenthalt in Belgien am 31. Oktober 2026, einem in Belgien arbeitenden EWR- oder Schweizer Elternteil oder seit mindestens 1 Jahr dem Status als Flüchtling, Staatenloser oder subsidiär Schutzberechtigter."
+          }
+        }
       }
     }
   },
@@ -1328,6 +1709,32 @@
           "Beantragen Sie online über Mon Espace (ein Formular für die Sekundarschule, eines für Hochschule und Universität), oder auf Papier per Einschreiben oder persönlich im Ministerium",
           "Reichen Sie den Antrag bis spätestens 30. November 2026 ein",
           "Kontaktieren Sie studienbeihilfen@dgov.be, falls Sie Hilfe benötigen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2338/",
+      "conditions": {
+        "en": [
+          "You live in the German-speaking Community.",
+          "Higher education: a first degree at the AHS in Eupen or at a public university or college abroad (secondary school has its own form).",
+          "The income of whoever supports you is within the limits, and you apply by 30 November 2026."
+        ],
+        "nl": [
+          "Je woont in de Duitstalige Gemeenschap.",
+          "Hoger onderwijs: een eerste opleiding aan de AHS in Eupen of aan een openbare hogeschool of universiteit in het buitenland (secundair onderwijs heeft een eigen formulier).",
+          "Het inkomen van wie voor je onderhoud zorgt blijft binnen de grenzen, en je vraagt aan vóór 30 november 2026."
+        ],
+        "fr": [
+          "Vous habitez en Communauté germanophone.",
+          "Supérieur : un premier diplôme à l'AHS d'Eupen ou dans une haute école ou université publique à l'étranger (le secondaire a son propre formulaire).",
+          "Les revenus de la personne qui subvient à vos besoins restent dans les plafonds, et vous introduisez la demande avant le 30 novembre 2026."
+        ],
+        "de": [
+          "Sie wohnen in der Deutschsprachigen Gemeinschaft.",
+          "Hochschule: Erststudium an der AHS in Eupen oder an einer öffentlichen Hochschule oder Universität im Ausland (die Sekundarschule hat ein eigenes Formular).",
+          "Das Einkommen der unterhaltspflichtigen Person liegt innerhalb der Grenzen, und Sie beantragen bis zum 30. November 2026."
         ]
       }
     }
@@ -1436,6 +1843,61 @@
           "Ist ein individuelles Eingliederungsprojekt (PIIS/GPMI) verpflichtend, zum Beispiel weil Sie in den letzten 3 Monaten kein Eingliederungseinkommen bezogen haben, schließen Sie es innerhalb von 3 Monaten nach der Entscheidung mit Ihrem ÖSHZ ab"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://primabook.mi-is.be/nl/recht-op-maatschappelijke-integratie/de-voorwaarden",
+      "conditions": {
+        "en": [
+          "You actually live in Belgium and are 18 or older (or a minor who is married, pregnant or has a child).",
+          "Belgian; EU citizen (workers right away, others after 3 months with a residence right of more than 3 months); foreigner in the population register; refugee or subsidiary protection.",
+          "You lack sufficient means, are willing to work (unless health or fairness prevents it) and claim the other benefits you are entitled to."
+        ],
+        "nl": [
+          "Je verblijft werkelijk in België en bent minstens 18 (of minderjarig en gehuwd, zwanger of met een kind).",
+          "Belg; EU-burger (werknemers meteen, anderen na 3 maanden met een verblijfsrecht van meer dan 3 maanden); vreemdeling in het bevolkingsregister; vluchteling of subsidiair beschermde.",
+          "Je hebt onvoldoende bestaansmiddelen, bent werkbereid (tenzij gezondheid of billijkheid dat verhindert) en vraagt de andere uitkeringen aan waarop je recht hebt."
+        ],
+        "fr": [
+          "Vous résidez effectivement en Belgique et avez au moins 18 ans (ou êtes mineur(e) marié(e), enceinte ou avec un enfant).",
+          "Belge ; citoyen de l'UE (travailleurs immédiatement, les autres après 3 mois avec un droit de séjour de plus de 3 mois) ; étranger inscrit au registre de la population ; réfugié ou protection subsidiaire.",
+          "Vous n'avez pas de ressources suffisantes, êtes disposé(e) à travailler (sauf raisons de santé ou d'équité) et faites valoir vos droits aux autres prestations."
+        ],
+        "de": [
+          "Sie leben tatsächlich in Belgien und sind mindestens 18 (oder minderjährig und verheiratet, schwanger oder mit Kind).",
+          "Belgier; EU-Bürger (Arbeitnehmer sofort, andere nach 3 Monaten mit einem Aufenthaltsrecht von mehr als 3 Monaten); Ausländer im Bevölkerungsregister; Flüchtling oder subsidiär Schutzberechtigter.",
+          "Sie haben keine ausreichenden Mittel, sind arbeitsbereit (außer aus Gesundheits- oder Billigkeitsgründen) und beantragen die anderen Leistungen, auf die Sie Anspruch haben."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: you must be in the population register, and a temporary study permit puts you in the foreigners' register.",
+            "nl": "Niet voor jou: je moet in het bevolkingsregister staan, en met een tijdelijke verblijfsvergunning voor studies sta je in het vreemdelingenregister.",
+            "fr": "Pas accessible : il faut être inscrit(e) au registre de la population, et un titre de séjour temporaire pour études vous inscrit au registre des étrangers.",
+            "de": "Nicht für Sie: Sie müssen im Bevölkerungsregister stehen, und eine vorübergehende Aufenthaltserlaubnis zum Studium führt ins Fremdenregister."
+          }
+        },
+        "non-eu": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Only if you are in the population register (not the foreigners' register), or are a recognised refugee or have subsidiary protection.",
+            "nl": "Enkel als je in het bevolkingsregister staat (niet het vreemdelingenregister), of erkend vluchteling bent of subsidiaire bescherming hebt.",
+            "fr": "Uniquement si vous êtes inscrit(e) au registre de la population (pas au registre des étrangers), ou réfugié(e) reconnu(e) ou bénéficiaire de la protection subsidiaire.",
+            "de": "Nur wenn Sie im Bevölkerungsregister stehen (nicht im Fremdenregister) oder anerkannter Flüchtling oder subsidiär Schutzberechtigter sind."
+          }
+        },
+        "eu": {
+          "verdict": "conditional",
+          "text": {
+            "en": "EU workers and self-employed qualify right away; EU students, jobseekers and people with sufficient means only after 3 months of actual stay with a residence right of more than 3 months.",
+            "nl": "EU-werknemers en -zelfstandigen komen meteen in aanmerking; EU-studenten, werkzoekenden en wie voldoende bestaansmiddelen heeft pas na 3 maanden werkelijk verblijf met een verblijfsrecht van meer dan 3 maanden.",
+            "fr": "Les travailleurs salariés et indépendants de l'UE y ont droit immédiatement ; les étudiants, demandeurs d'emploi et personnes aux ressources suffisantes de l'UE seulement après 3 mois de séjour effectif avec un droit de séjour de plus de 3 mois.",
+            "de": "EU-Arbeitnehmer und -Selbstständige sofort; EU-Studierende, Arbeitsuchende und Personen mit ausreichenden Mitteln erst nach 3 Monaten tatsächlichem Aufenthalt mit einem Aufenthaltsrecht von mehr als 3 Monaten."
+          }
+        }
+      }
     }
   },
   {
@@ -1524,6 +1986,35 @@
           "Wenn Sie zu Hause wohnen: füllen Sie das Formular für häusliche/familiäre Pflege aus und fügen Sie einen Nachweis Ihres Pflegebedarfs bei",
           "Wenn Sie in einem Pflegeheim oder einer psychiatrischen Pflegeeinrichtung wohnen: nutzen Sie das Formular für stationäre Pflege — Ihr Aufenthalt dort gilt als Nachweis",
           "Reichen Sie das unterschriebene Formular bei Ihrer Pflegekasse ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.departementzorg.be/nl/zorgbudget-voor-zwaar-zorgbehoevenden",
+        "https://www.vlaanderen.be/gezondheid-en-welzijn/gezondheid/zorgkassen-in-vlaanderen/zorgbudget-van-de-vlaamse-sociale-bescherming/zorgbudget-voor-zwaar-zorgbehoevenden-van-de-vlaamse-sociale-bescherming"
+      ],
+      "conditions": {
+        "en": [
+          "You are a member of a care fund (zorgkas) and have paid the yearly care premium.",
+          "You once lived at least 5 consecutive calendar years in Flanders or Brussels (registered there), or are socially insured in the EU, EEA or Switzerland; under 18 exempt.",
+          "Your serious and lasting care need is recognised."
+        ],
+        "nl": [
+          "Je bent aangesloten bij een zorgkas en hebt de jaarlijkse zorgpremie betaald.",
+          "Je woonde ooit minstens 5 opeenvolgende kalenderjaren in Vlaanderen of Brussel (ingeschreven), of bent sociaal verzekerd in de EU, EER of Zwitserland; onder 18 vrijgesteld.",
+          "Je ernstige en langdurige zorgnood is erkend."
+        ],
+        "fr": [
+          "Vous êtes affilié(e) à une caisse d'assurance soins (zorgkas) et avez payé la prime annuelle.",
+          "Vous avez déjà habité au moins 5 années civiles consécutives en Flandre ou à Bruxelles (inscrit(e)), ou êtes socialement assuré(e) dans l'UE, l'EEE ou en Suisse ; dispense avant 18 ans.",
+          "Votre besoin de soins grave et durable est reconnu."
+        ],
+        "de": [
+          "Sie sind Mitglied einer Pflegekasse (zorgkas) und haben die jährliche Pflegeprämie bezahlt.",
+          "Sie haben einmal mindestens 5 aufeinanderfolgende Kalenderjahre in Flandern oder Brüssel gewohnt (gemeldet) oder sind in der EU, im EWR oder in der Schweiz sozialversichert; unter 18 befreit.",
+          "Ihr schwerer und dauerhafter Pflegebedarf ist anerkannt."
         ]
       }
     }
@@ -1632,7 +2123,47 @@
         ]
       }
     },
-    "note": "Reform rules confirmed on rva.be (page last updated 09.09.2026). A Constitutional Court ruling of 10 September 2026 upheld the reform in general but annulled part of the TRANSITIONAL regime for some long-term unemployed; RVA is still working out the practical consequences, so transitional cases are in flux. The exact qualifying day-count sits in infoblad T200, which was not directly confirmed."
+    "note": "Reform rules confirmed on rva.be (page last updated 09.09.2026). A Constitutional Court ruling of 10 September 2026 upheld the reform in general but annulled part of the TRANSITIONAL regime for some long-term unemployed; RVA is still working out the practical consequences, so transitional cases are in flux. The exact qualifying day-count sits in infoblad T200, which was not directly confirmed.",
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://hvw-capac.fgov.be/nl/uitkeringen/werkloosheid/volledig-werkloos/volledig-werkloos-na-tewerkstelling/volledig-werkloos-na",
+        "https://www.rva.be/burgers/volledige-werkloosheid/kunt-u-van-bepaalde-verplichtingen-vrijgesteld-worden/u-bent-een-uitkeringsgerechtigd-werkloze-en-u-wenst-studies-een-opleiding-of-een-stage-te-volgen"
+      ],
+      "conditions": {
+        "en": [
+          "For claims from 1 March 2026: 312 working days (or equivalent days) as an employee in the last 36 months; self-employed work does not count.",
+          "You lost your job involuntarily and are registered as a jobseeker.",
+          "Full-time studies without an exemption end the right to benefits."
+        ],
+        "nl": [
+          "Voor aanvragen vanaf 1 maart 2026: 312 arbeidsdagen (of gelijkgestelde dagen) als werknemer in de laatste 36 maanden; werk als zelfstandige telt niet.",
+          "Je verloor je job onvrijwillig en bent ingeschreven als werkzoekende.",
+          "Studies met volledig leerplan zonder vrijstelling doen het recht op uitkeringen vervallen."
+        ],
+        "fr": [
+          "Pour les demandes à partir du 1er mars 2026 : 312 jours de travail (ou assimilés) comme salarié au cours des 36 derniers mois ; le travail indépendant ne compte pas.",
+          "Vous avez perdu votre emploi involontairement et êtes inscrit(e) comme demandeur d'emploi.",
+          "Des études de plein exercice sans dispense font perdre le droit aux allocations."
+        ],
+        "de": [
+          "Für Anträge ab dem 1. März 2026: 312 Arbeitstage (oder gleichgestellte Tage) als Arbeitnehmer in den letzten 36 Monaten; selbstständige Arbeit zählt nicht.",
+          "Sie haben Ihre Arbeit unfreiwillig verloren und sind als Arbeitsuchender gemeldet.",
+          "Ein Vollzeitstudium ohne Freistellung beendet den Anspruch auf Leistungen."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you while you study full-time: full-time studies without an exemption end the right to unemployment benefit.",
+            "nl": "Niet voor jou zolang je voltijds studeert: studies met volledig leerplan zonder vrijstelling doen het recht op werkloosheidsuitkering vervallen.",
+            "fr": "Pas accessible tant que vous étudiez à plein temps : des études de plein exercice sans dispense font perdre le droit aux allocations de chômage.",
+            "de": "Nicht für Sie, solange Sie in Vollzeit studieren: Ein Vollzeitstudium ohne Freistellung beendet den Anspruch auf Arbeitslosengeld."
+          }
+        }
+      }
+    }
   },
   {
     "id": 17,
@@ -1720,6 +2251,32 @@
           "Lassen Sie die Anwesenheitsbescheinigung von Ihrer Schule oder Ausbildungsstätte unterschreiben",
           "Füllen Sie das Antragsformular von actiris.brussels aus",
           "Reichen Sie beide Dokumente innerhalb von 3 Monaten nach Ende des Schuljahres bei Actiris ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.actiris.brussels/nl/burgers/duaal-leren/",
+      "conditions": {
+        "en": [
+          "You are domiciled in the Brussels Region and were under 18 at the start of your training cycle.",
+          "Part-time or full-time secondary education with a work placement of at least 4 months under a dual-learning, industrial apprenticeship or middle-class apprenticeship contract.",
+          "You apply within 3 months after the end of the school year."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in het Brussels Gewest en was jonger dan 18 bij de start van je opleidingscyclus.",
+          "Deeltijds of voltijds secundair onderwijs met een stage van minstens 4 maanden onder een overeenkomst alternerende opleiding, industriële leerovereenkomst of leerovereenkomst middenstand.",
+          "Je vraagt aan binnen 3 maanden na het einde van het schooljaar."
+        ],
+        "fr": [
+          "Vous êtes domicilié(e) en Région bruxelloise et aviez moins de 18 ans au début de votre cycle de formation.",
+          "Enseignement secondaire à temps partiel ou plein avec un stage d'au moins 4 mois sous contrat de formation en alternance, d'apprentissage industriel ou des classes moyennes.",
+          "Vous introduisez la demande dans les 3 mois suivant la fin de l'année scolaire."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in der Region Brüssel und waren zu Beginn Ihres Ausbildungszyklus unter 18.",
+          "Teilzeit- oder Vollzeit-Sekundarunterricht mit einem Praktikum von mindestens 4 Monaten im Rahmen eines dualen Ausbildungs-, Industrielehr- oder Mittelstandslehrvertrags.",
+          "Sie beantragen innerhalb von 3 Monaten nach Ende des Schuljahres."
         ]
       }
     }
@@ -1828,7 +2385,29 @@
         ]
       }
     },
-    "amount_source_url": "https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/salary/particularcases/mobilitybudget.html"
+    "amount_source_url": "https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/salary/particularcases/mobilitybudget.html",
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/salary/particularcases/mobilitybudget.html",
+      "conditions": {
+        "en": [
+          "Your employer chooses to offer a mobility budget (it is not obliged to).",
+          "You have a company car or are entitled to one in your job, and it was not given in place of salary."
+        ],
+        "nl": [
+          "Je werkgever kiest ervoor een mobiliteitsbudget aan te bieden (dat is niet verplicht).",
+          "Je hebt een bedrijfswagen of hebt er in je functie recht op, en die werd niet toegekend in ruil voor loon."
+        ],
+        "fr": [
+          "Votre employeur choisit de proposer un budget mobilité (il n'y est pas obligé).",
+          "Vous avez une voiture de société ou y avez droit dans votre fonction, et elle n'a pas été accordée en remplacement de salaire."
+        ],
+        "de": [
+          "Ihr Arbeitgeber entscheidet sich, ein Mobilitätsbudget anzubieten (er ist nicht dazu verpflichtet).",
+          "Sie haben einen Firmenwagen oder Anspruch darauf in Ihrer Funktion, und er wurde nicht anstelle von Lohn gewährt."
+        ]
+      }
+    }
   },
   {
     "id": 19,
@@ -1940,6 +2519,28 @@
           "Bei Kieferorthopädie melden Sie den Beginn der Behandlung über Mijn CM ('Vraag een CM-voordeel aan' > 'Orthodontie') oder mit dem Antragsformular der CM",
           "Senden Sie die Unterlagen über die Mijn-CM-App oder einen CM-Briefkasten; rechnet der Kieferorthopäde elektronisch ab (eAttest), geschieht es automatisch",
           "Die CM überweist die Erstattung auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.cm.be/nl/diensten-en-voordelen/brillen",
+      "conditions": {
+        "en": [
+          "You are a CM member and your contribution is paid.",
+          "Glasses, lenses and dentures: the compulsory health insurance pays nothing for them; braces: it does pay, and the patient is under 22."
+        ],
+        "nl": [
+          "Je bent lid van CM en je bijdrage is betaald.",
+          "Brillen, lenzen en tandprothesen: de verplichte ziekteverzekering betaalt er niets voor terug; beugels: die betaalt wel terug, en de patiënt is jonger dan 22."
+        ],
+        "fr": [
+          "Vous êtes membre de la CM et votre cotisation est payée.",
+          "Lunettes, lentilles et prothèses : l'assurance obligatoire ne rembourse rien ; appareil dentaire : elle rembourse, et le patient a moins de 22 ans."
+        ],
+        "de": [
+          "Sie sind CM-Mitglied und Ihr Beitrag ist bezahlt.",
+          "Brillen, Linsen und Zahnersatz: Die Pflichtversicherung erstattet nichts; Zahnspange: Sie erstattet, und der Patient ist unter 22."
         ]
       }
     }
@@ -2085,6 +2686,52 @@
           "Ein Arzt der DG Personen mit Behinderung bewertet Ihre Akte; wenden Sie sich an Ihre Krankenkasse, Gemeinde, das ÖSHZ oder einen Sozialarbeiter, wenn Sie Hilfe benötigen"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://handicap.belgium.be/nl/tegemoetkomingen/integratietegemoetkoming",
+      "conditions": {
+        "en": [
+          "You are 18 to 66, registered in the population register, domiciled and actually living in Belgium.",
+          "Nationality: Belgian, EU citizen, refugee, stateless, subsidiary protection, or another group listed on the page.",
+          "At least 7 points of reduced self-reliance, and income within the limits."
+        ],
+        "nl": [
+          "Je bent 18 tot 66 jaar, ingeschreven in het bevolkingsregister, gedomicilieerd en werkelijk verblijvend in België.",
+          "Nationaliteit: Belg, EU-burger, vluchteling, staatloze, subsidiair beschermde, of een andere groep op de pagina.",
+          "Minstens 7 punten verminderde zelfredzaamheid, en inkomen binnen de grenzen."
+        ],
+        "fr": [
+          "Vous avez entre 18 et 66 ans, êtes inscrit(e) au registre de la population, domicilié(e) et résidant effectivement en Belgique.",
+          "Nationalité : belge, citoyen de l'UE, réfugié, apatride, protection subsidiaire, ou un autre groupe repris sur la page.",
+          "Au moins 7 points de réduction d'autonomie, et revenus dans les plafonds."
+        ],
+        "de": [
+          "Sie sind 18 bis 66 Jahre alt, im Bevölkerungsregister eingetragen, in Belgien gemeldet und wohnen tatsächlich dort.",
+          "Staatsangehörigkeit: Belgier, EU-Bürger, Flüchtling, Staatenloser, subsidiär Schutzberechtigter oder eine andere Gruppe auf der Seite.",
+          "Mindestens 7 Punkte verminderte Selbstständigkeit und Einkommen innerhalb der Grenzen."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: you must be in the population register, and a temporary study permit puts you in the foreigners' register.",
+            "nl": "Niet voor jou: je moet in het bevolkingsregister staan, en met een tijdelijke verblijfsvergunning voor studies sta je in het vreemdelingenregister.",
+            "fr": "Pas accessible : il faut être inscrit(e) au registre de la population, et un titre de séjour temporaire pour études vous inscrit au registre des étrangers.",
+            "de": "Nicht für Sie: Sie müssen im Bevölkerungsregister stehen, und eine vorübergehende Aufenthaltserlaubnis zum Studium führt ins Fremdenregister."
+          }
+        },
+        "non-eu": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Only if you are in the population register, or are a refugee, stateless or under subsidiary protection (or in another group listed on the page).",
+            "nl": "Enkel als je in het bevolkingsregister staat, of vluchteling, staatloze of subsidiair beschermde bent (of in een andere groep op de pagina).",
+            "fr": "Uniquement si vous êtes inscrit(e) au registre de la population, ou réfugié(e), apatride ou sous protection subsidiaire (ou dans un autre groupe repris sur la page).",
+            "de": "Nur wenn Sie im Bevölkerungsregister stehen oder Flüchtling, Staatenloser oder subsidiär Schutzberechtigter sind (oder zu einer anderen Gruppe auf der Seite gehören)."
+          }
+        }
+      }
     }
   },
   {
@@ -2201,6 +2848,42 @@
           "Ab dem Monat nach der Geburt wird der Grundbetrag monatlich gezahlt (Anfang des Folgemonats)",
           "Melden Sie Änderungen wie Umzug, Trennung oder ein Studium nach 18 Ihrer Kasse"
         ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/het-vlaams-groeipakket/het-vlaams-groeipakket-voor-een-kind-met-niet-belgische-nationaliteit",
+        "https://gpedia.groeipakket.be/nl/richtlijnen/toelichtingsnotas/regelgeving-pagina/toelichtingsnota-2-van-27"
+      ],
+      "conditions": {
+        "en": [
+          "Your child lives in Flanders.",
+          "Your child is Belgian or has a residence right of more than 3 months (or a parent has one)."
+        ],
+        "nl": [
+          "Je kind woont in Vlaanderen.",
+          "Je kind is Belg of heeft een verblijfsrecht van meer dan 3 maanden (of een ouder heeft dat)."
+        ],
+        "fr": [
+          "Votre enfant habite en Flandre.",
+          "Votre enfant est belge ou a un droit de séjour de plus de 3 mois (ou un parent en a un)."
+        ],
+        "de": [
+          "Ihr Kind wohnt in Flandern.",
+          "Ihr Kind ist Belgier oder hat ein Aufenthaltsrecht von mehr als 3 Monaten (oder ein Elternteil hat eines)."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "A permit for studies gives you no family benefits for yourself, but children of students do meet the residence condition (Opgroeien guidance). Register your child at the commune with its own residence right.",
+            "nl": "Een verblijfsvergunning voor studies geeft jou zelf geen recht op gezinsbijslagen, maar kinderen van studenten voldoen wel aan de verblijfsvoorwaarde (richtlijn van Opgroeien). Schrijf je kind in de gemeente in met een eigen verblijfsrecht.",
+            "fr": "Un titre de séjour pour études ne vous ouvre aucun droit aux allocations pour vous-même, mais les enfants d'étudiants remplissent bien la condition de séjour (directive d'Opgroeien). Inscrivez votre enfant à la commune avec son propre droit de séjour.",
+            "de": "Eine Aufenthaltserlaubnis zum Studium gibt Ihnen selbst keinen Anspruch auf Familienleistungen, aber Kinder von Studierenden erfüllen die Aufenthaltsbedingung (Richtlinie von Opgroeien). Melden Sie Ihr Kind mit eigenem Aufenthaltsrecht bei der Gemeinde an."
+          }
+        }
       }
     }
   },
@@ -2320,6 +3003,42 @@
           "Melden Sie Änderungen wie Umzug oder neue Kontonummer Ihrer Kasse"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://wallonie.be/fr/demarches/beneficier-dallocations-familiales-en-wallonie",
+        "https://wallex.wallonie.be/eli/loi-decret/2018/02/08/2018201006"
+      ],
+      "conditions": {
+        "en": [
+          "Your child is domiciled or lives in Wallonia (outside the German-speaking Community).",
+          "Your child is Belgian or holds a residence permit; a child under 12 without one qualifies if a parent holds one."
+        ],
+        "nl": [
+          "Je kind is gedomicilieerd of woont in Wallonië (buiten de Duitstalige Gemeenschap).",
+          "Je kind is Belg of heeft een verblijfstitel; een kind jonger dan 12 zonder verblijfstitel komt in aanmerking als een ouder er een heeft."
+        ],
+        "fr": [
+          "Votre enfant est domicilié ou réside en Wallonie (hors Communauté germanophone).",
+          "Votre enfant est belge ou bénéficiaire d'un titre de séjour ; un enfant de moins de 12 ans sans titre de séjour ouvre le droit si un parent en a un."
+        ],
+        "de": [
+          "Ihr Kind hat seinen Wohnsitz oder lebt in der Wallonie (außerhalb der Deutschsprachigen Gemeinschaft).",
+          "Ihr Kind ist Belgier oder hat einen Aufenthaltstitel; ein Kind unter 12 ohne Titel ist berechtigt, wenn ein Elternteil einen hat."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "A stay allowed for studies does not count as a residence permit here (Walloon decree, as amended on 25 April 2024), including for EU students, so it cannot open the right for your child. Your child needs its own residence permit.",
+            "nl": "Een verblijf toegestaan voor studies telt hier niet als verblijfstitel (Waals decreet, gewijzigd op 25 april 2024), ook niet voor EU-studenten, en kan dus geen recht openen voor je kind. Je kind heeft een eigen verblijfstitel nodig.",
+            "fr": "Un séjour autorisé pour études ne compte pas ici comme titre de séjour (décret wallon modifié le 25 avril 2024), y compris pour les étudiants de l'UE, et ne peut donc pas ouvrir le droit pour votre enfant. Votre enfant doit avoir son propre titre de séjour.",
+            "de": "Ein Aufenthalt zum Studium gilt hier nicht als Aufenthaltstitel (wallonisches Dekret, geändert am 25. April 2024), auch nicht für EU-Studierende, und kann daher keinen Anspruch für Ihr Kind eröffnen. Ihr Kind braucht einen eigenen Aufenthaltstitel."
+          }
+        }
+      }
     }
   },
   {
@@ -2430,6 +3149,42 @@
           "Ab dem Monat nach der Geburt wird das Kindergeld monatlich gezahlt: 194,04 € (0–11), 206,98 € (12–17)",
           "Melden Sie Änderungen wie Umzug oder neue Kontonummer Ihrer Kasse"
         ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://famiris.brussels/fr/faq/allocations-familiales/conditions-pour-les-allocations-familiales-bruxelloises/",
+        "https://famiris.brussels/en/faq/students-and-school-leavers/child-benefit-for-international-students-starting-from-the-2025-2026-academic-year/"
+      ],
+      "conditions": {
+        "en": [
+          "Your child lives in the Brussels-Capital Region.",
+          "Your child is Belgian or is allowed to stay in Belgium."
+        ],
+        "nl": [
+          "Je kind woont in het Brussels Hoofdstedelijk Gewest.",
+          "Je kind is Belg of mag in België verblijven."
+        ],
+        "fr": [
+          "Votre enfant habite dans la Région de Bruxelles-Capitale.",
+          "Votre enfant est belge ou autorisé à séjourner en Belgique."
+        ],
+        "de": [
+          "Ihr Kind wohnt in der Region Brüssel-Hauptstadt.",
+          "Ihr Kind ist Belgier oder darf sich in Belgien aufhalten."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Since 1 September 2025, new students on a student visa get no Brussels child benefit for themselves. For your child the general rule applies: it must live in Brussels and be allowed to stay in Belgium.",
+            "nl": "Sinds 1 september 2025 krijgen nieuwe studenten met een studentenvisum zelf geen Brusselse kinderbijslag. Voor je kind geldt de algemene regel: het woont in Brussel en mag in België verblijven.",
+            "fr": "Depuis le 1er septembre 2025, les nouveaux étudiants avec un visa étudiant ne reçoivent plus d'allocations familiales bruxelloises pour eux-mêmes. Pour votre enfant, la règle générale s'applique : il habite à Bruxelles et est autorisé à séjourner en Belgique.",
+            "de": "Seit dem 1. September 2025 erhalten neue Studierende mit Studentenvisum selbst kein Brüsseler Kindergeld mehr. Für Ihr Kind gilt die allgemeine Regel: Es wohnt in Brüssel und darf sich in Belgien aufhalten."
+          }
+        }
       }
     }
   },
@@ -2545,6 +3300,24 @@
           "Bewahren Sie Ihre Aktennummer auf: Sie steht auf jedem Schreiben und Sie brauchen sie bei jedem Kontakt mit dem Ministerium",
           "Ab dem Monat nach der Geburt wird der Grundbetrag monatlich gezahlt",
           "Melden Sie Änderungen wie einen Umzug dem Ministerium — der Betrag ändert sich ab dem Folgemonat"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://ostbelgienfamilie.be/desktopdefault.aspx/tabid-5886/",
+      "conditions": {
+        "en": [
+          "Your child officially lives in the German-speaking Community."
+        ],
+        "nl": [
+          "Je kind woont officieel in de Duitstalige Gemeenschap."
+        ],
+        "fr": [
+          "Votre enfant habite officiellement en Communauté germanophone."
+        ],
+        "de": [
+          "Ihr Kind lebt offiziell in der Deutschsprachigen Gemeinschaft."
         ]
       }
     }
@@ -2673,6 +3446,43 @@
           "Schicken Sie nach der Geburt den Auszug aus der Geburtsurkunde, damit die Kasse das Enddatum festlegen kann",
           "Ihre Kasse zahlt in den ersten 30 Tagen 82 % des Bruttolohns (ohne Obergrenze), danach 75 % bis 141,63 € brutto pro Tag; 11,11 % Steuer werden einbehalten"
         ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.inami.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-werknemers-en-werklozen",
+      "conditions": {
+        "en": [
+          "You work as an employee, or you are unemployed with benefits.",
+          "Health-fund pay needs a 6-month waiting period: 120 working days full-time (or 400 hours part-time) in those 6 months, with enough social contributions.",
+          "For a birth only; adoption has its own adoption leave."
+        ],
+        "nl": [
+          "Je werkt als werknemer, of je bent uitkeringsgerechtigd werkloos.",
+          "Een uitkering van het ziekenfonds vraagt een wachttijd van 6 maanden: 120 arbeidsdagen voltijds (of 400 uren deeltijds) in die 6 maanden, met voldoende sociale bijdragen.",
+          "Enkel bij een geboorte; voor adoptie bestaat apart adoptieverlof."
+        ],
+        "fr": [
+          "Vous êtes salariée, ou chômeuse indemnisée.",
+          "L'indemnité de la mutualité exige un stage de 6 mois : 120 jours de travail à temps plein (ou 400 heures à temps partiel) pendant ces 6 mois, avec assez de cotisations sociales.",
+          "Uniquement pour une naissance ; l'adoption a son propre congé d'adoption."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmerin oder arbeitslos mit Leistungen.",
+          "Die Leistung der Krankenkasse setzt eine Wartezeit von 6 Monaten voraus: 120 Arbeitstage in Vollzeit (oder 400 Stunden in Teilzeit) in diesen 6 Monaten, mit ausreichenden Sozialbeiträgen.",
+          "Nur bei einer Geburt; für eine Adoption gibt es einen eigenen Adoptionsurlaub."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Being a student does not give this right: it depends on your own work as an employee. Ask your health fund whether your work counts towards the waiting period.",
+            "nl": "Student zijn geeft dit recht niet: het hangt af van je eigen werk als werknemer. Vraag je ziekenfonds of je werk meetelt voor de wachttijd.",
+            "fr": "Être étudiant(e) n'ouvre pas ce droit : il dépend de votre propre travail salarié. Demandez à votre mutualité si votre travail compte pour le stage.",
+            "de": "Studierende haben dieses Recht nicht als solche: Es hängt von Ihrer eigenen Arbeit als Arbeitnehmer ab. Fragen Sie Ihre Krankenkasse, ob Ihre Arbeit für die Wartezeit zählt."
+          }
+        }
       }
     }
   },
@@ -2803,6 +3613,47 @@
           "Füllen Sie den Teil „Berechtigter“ des Auskunftsblatts aus, das Ihnen die Kasse schickt",
           "Die Kasse zahlt 82 % des Bruttolohns (max. 154,71 € brutto pro Tag, 11,11 % Steuer) innerhalb von 30 Tagen nach Ihrem Antrag"
         ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/geboorteverlof-en-adoptieverlof/geboorteverlof-voor-werknemers",
+      "conditions": {
+        "en": [
+          "You have an employment contract.",
+          "You are the father or co-mother, or you lived with the mother at the birth.",
+          "You take the leave within 4 months of the birth.",
+          "Health-fund pay needs a 6-month waiting period: 120 working days full-time (or 400 hours part-time) in those 6 months, with enough social contributions."
+        ],
+        "nl": [
+          "Je hebt een arbeidsovereenkomst.",
+          "Je bent de vader of meemoeder, of je woonde bij de geboorte samen met de moeder.",
+          "Je neemt het verlof op binnen 4 maanden na de geboorte.",
+          "Een uitkering van het ziekenfonds vraagt een wachttijd van 6 maanden: 120 arbeidsdagen voltijds (of 400 uren deeltijds) in die 6 maanden, met voldoende sociale bijdragen."
+        ],
+        "fr": [
+          "Vous avez un contrat de travail.",
+          "Vous êtes le père ou la coparente, ou vous viviez avec la mère à la naissance.",
+          "Vous prenez le congé dans les 4 mois qui suivent la naissance.",
+          "L'indemnité de la mutualité exige un stage de 6 mois : 120 jours de travail à temps plein (ou 400 heures à temps partiel) pendant ces 6 mois, avec assez de cotisations sociales."
+        ],
+        "de": [
+          "Sie haben einen Arbeitsvertrag.",
+          "Sie sind Vater oder Mitmutter oder lebten bei der Geburt mit der Mutter zusammen.",
+          "Sie nehmen den Urlaub innerhalb von 4 Monaten nach der Geburt.",
+          "Die Leistung der Krankenkasse setzt eine Wartezeit von 6 Monaten voraus: 120 Arbeitstage in Vollzeit (oder 400 Stunden in Teilzeit) in diesen 6 Monaten, mit ausreichenden Sozialbeiträgen."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Being a student does not give this right: it depends on your own work as an employee. Ask your health fund whether your work counts towards the waiting period.",
+            "nl": "Student zijn geeft dit recht niet: het hangt af van je eigen werk als werknemer. Vraag je ziekenfonds of je werk meetelt voor de wachttijd.",
+            "fr": "Être étudiant(e) n'ouvre pas ce droit : il dépend de votre propre travail salarié. Demandez à votre mutualité si votre travail compte pour le stage.",
+            "de": "Studierende haben dieses Recht nicht als solche: Es hängt von Ihrer eigenen Arbeit als Arbeitnehmer ab. Fragen Sie Ihre Krankenkasse, ob Ihre Arbeit für die Wartezeit zählt."
+          }
+        }
       }
     }
   },
@@ -2943,6 +3794,28 @@
           "Melden Sie die Wiederaufnahme der Arbeit innerhalb von 2 Tagen Ihrer Krankenkasse"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-zelfstandigen",
+      "conditions": {
+        "en": [
+          "You are insured in Belgium as self-employed, helper or assisting spouse, under the same conditions as for incapacity benefits.",
+          "You stop all work in the weeks of full rest; 3 weeks are compulsory."
+        ],
+        "nl": [
+          "Je bent in België verzekerd als zelfstandige, helper of meewerkende echtgenote, onder dezelfde voorwaarden als voor arbeidsongeschiktheid.",
+          "Je stopt alle activiteit in de weken van volledige rust; 3 weken zijn verplicht."
+        ],
+        "fr": [
+          "Vous êtes assurée en Belgique comme indépendante, aidante ou conjointe aidante, aux mêmes conditions que pour l'incapacité de travail.",
+          "Vous arrêtez toute activité pendant les semaines de repos complet ; 3 semaines sont obligatoires."
+        ],
+        "de": [
+          "Sie sind in Belgien als Selbstständige, Helferin oder mitarbeitende Ehepartnerin versichert, zu denselben Bedingungen wie bei Arbeitsunfähigkeit.",
+          "Sie stellen in den Wochen der vollen Ruhe jede Tätigkeit ein; 3 Wochen sind Pflicht."
+        ]
+      }
     }
   },
   {
@@ -3033,6 +3906,24 @@
           "Führen Sie das Erstgespräch mit Ihrem Team vor Ort und erhalten Sie das Kindboekje",
           "Nach der Geburt informiert das Krankenhaus Ihr Team; nach 10 Tagen kein Kontakt? Rufen Sie die Kind en Gezin-Lijn an",
           "Vereinbaren Sie im consultatiebureau kostenlose Untersuchungen bis zum 3. Geburtstag: Wachstum, ärztliche Untersuchung und Impfungen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.kindengezin.be/nl/kind-en-gezin-diensten/aanbod-zwangerschap",
+      "conditions": {
+        "en": [
+          "Free; Kind en Gezin sets no conditions for this offer."
+        ],
+        "nl": [
+          "Gratis; Kind en Gezin stelt geen voorwaarden voor dit aanbod."
+        ],
+        "fr": [
+          "Gratuit ; Kind en Gezin ne fixe aucune condition pour cette offre."
+        ],
+        "de": [
+          "Kostenlos; Kind en Gezin stellt für dieses Angebot keine Bedingungen."
         ]
       }
     }
@@ -3137,6 +4028,24 @@
           "Kommen Sie bis zum 6. Geburtstag Ihres Kindes zu Untersuchungen und Impfungen — alles kostenlos"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://my.one.be/information/consultations-prenatales/",
+      "conditions": {
+        "en": [
+          "Free and open to everyone, says ONE."
+        ],
+        "nl": [
+          "Gratis en open voor iedereen, aldus ONE."
+        ],
+        "fr": [
+          "Gratuites et ouvertes à toutes et tous, selon l'ONE."
+        ],
+        "de": [
+          "Laut ONE kostenlos und für alle offen."
+        ]
+      }
     }
   },
   {
@@ -3237,6 +4146,24 @@
           "Spätere Auffrischungen folgen bei den kostenlosen schulärztlichen Untersuchungen"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.kaleido-ostbelgien.be/angebote/koerperliche-gesundheit-entwicklung/detail/kostenlose-impfungen",
+      "conditions": {
+        "en": [
+          "Free, for families in the German-speaking Community."
+        ],
+        "nl": [
+          "Gratis, voor gezinnen in de Duitstalige Gemeenschap."
+        ],
+        "fr": [
+          "Gratuit, pour les familles de la Communauté germanophone."
+        ],
+        "de": [
+          "Kostenlos, für Familien in der Deutschsprachigen Gemeinschaft."
+        ]
+      }
     }
   },
   {
@@ -3324,6 +4251,28 @@
             "type": "doc",
             "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
           }
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.cm.be/nl/diensten-en-voordelen/cm-groeibudget/geboortevoordelen-en-babygeschenk",
+      "conditions": {
+        "en": [
+          "You are a member of CM and your contributions are paid.",
+          "For a birth, or the adoption or long-term foster care of a child under 2; you choose your gift within the deadline."
+        ],
+        "nl": [
+          "Je bent lid van CM en je bijdragen zijn betaald.",
+          "Bij een geboorte, of de adoptie of langdurige pleegzorg van een kind jonger dan 2; je kiest je geschenk binnen de termijn."
+        ],
+        "fr": [
+          "Vous êtes membre de la CM et vos cotisations sont en ordre.",
+          "Pour une naissance, ou l'adoption ou l'accueil familial de longue durée d'un enfant de moins de 2 ans ; vous choisissez votre cadeau dans le délai."
+        ],
+        "de": [
+          "Sie sind Mitglied von CM und Ihre Beiträge sind bezahlt.",
+          "Bei einer Geburt oder der Adoption oder langfristigen Pflege eines Kindes unter 2; Sie wählen Ihr Geschenk innerhalb der Frist."
         ]
       }
     }
@@ -3426,6 +4375,28 @@
           }
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.mc.be/fr/avantages-remboursements/prime-de-naissance-et-cadeau-grossesse",
+      "conditions": {
+        "en": [
+          "You are a member of the MC and your contributions are paid.",
+          "Pregnancy gift from 3 months of pregnancy; the premium once your baby is registered with the MC."
+        ],
+        "nl": [
+          "Je bent lid van MC en je bijdragen zijn betaald.",
+          "Zwangerschapsgeschenk vanaf 3 maanden zwangerschap; de premie zodra je baby bij MC is ingeschreven."
+        ],
+        "fr": [
+          "Vous êtes membre de la MC et vos cotisations sont en ordre.",
+          "Cadeau grossesse dès 3 mois de grossesse ; la prime une fois votre bébé inscrit à la MC."
+        ],
+        "de": [
+          "Sie sind Mitglied von der MC und Ihre Beiträge sind bezahlt.",
+          "Schwangerschaftsgeschenk ab dem 3. Monat; die Prämie, sobald Ihr Baby bei der MC eingeschrieben ist."
+        ]
+      }
     }
   },
   {
@@ -3512,6 +4483,24 @@
             "type": "doc",
             "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
           }
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.solidaris-vlaanderen.be/geboortepremie-en-voordelen",
+      "conditions": {
+        "en": [
+          "You are a member of Solidaris (Antwerpen, Limburg, Oost- or West-Vlaanderen) and your contributions are paid."
+        ],
+        "nl": [
+          "Je bent lid van Solidaris (Antwerpen, Limburg, Oost- of West-Vlaanderen) en je bijdragen zijn betaald."
+        ],
+        "fr": [
+          "Vous êtes membre de Solidaris (Anvers, Limbourg, Flandre orientale ou occidentale) et vos cotisations sont en ordre."
+        ],
+        "de": [
+          "Sie sind Mitglied von Solidaris (Antwerpen, Limburg, Ost- oder Westflandern) und Ihre Beiträge sind bezahlt."
         ]
       }
     }
@@ -3613,6 +4602,24 @@
           }
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.solidaris-wallonie.be/avantages/naissance-et-adoption/",
+      "conditions": {
+        "en": [
+          "You are a member of Solidaris Wallonie, including the supplementary insurance, and your contributions are paid."
+        ],
+        "nl": [
+          "Je bent lid van Solidaris Wallonie, ook voor de aanvullende verzekering, en je bijdragen zijn betaald."
+        ],
+        "fr": [
+          "Vous êtes membre de Solidaris Wallonie, assurance complémentaire comprise, et vos cotisations sont en ordre."
+        ],
+        "de": [
+          "Sie sind Mitglied von Solidaris Wallonie, einschließlich der Zusatzversicherung, und Ihre Beiträge sind bezahlt."
+        ]
+      }
     }
   },
   {
@@ -3700,6 +4707,24 @@
             "type": "doc",
             "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
           }
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.helan.be/nl/ons-aanbod/ziekenfonds/voordelen-en-terugbetalingen/babypremie/",
+      "conditions": {
+        "en": [
+          "You are a member of Helan and your contributions are paid."
+        ],
+        "nl": [
+          "Je bent lid van Helan en je bijdragen zijn betaald."
+        ],
+        "fr": [
+          "Vous êtes membre de Helan et vos cotisations sont en ordre."
+        ],
+        "de": [
+          "Sie sind Mitglied von Helan und Ihre Beiträge sind bezahlt."
         ]
       }
     }
@@ -3802,6 +4827,28 @@
           }
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.partenamut.be/fr/remboursements-avantages/maternite-et-adoption/prime-naissance",
+      "conditions": {
+        "en": [
+          "You are a member of Partenamut and your contributions are paid.",
+          "It goes to the parent who registers the child as a dependant."
+        ],
+        "nl": [
+          "Je bent lid van Partenamut en je bijdragen zijn betaald.",
+          "De premie gaat naar de ouder die het kind als persoon ten laste inschrijft."
+        ],
+        "fr": [
+          "Vous êtes membre de Partenamut et vos cotisations sont en ordre.",
+          "La prime va au parent qui inscrit l'enfant à sa charge."
+        ],
+        "de": [
+          "Sie sind Mitglied von Partenamut und Ihre Beiträge sind bezahlt.",
+          "Die Prämie geht an den Elternteil, der das Kind als Unterhaltsberechtigten einträgt."
+        ]
+      }
     }
   },
   {
@@ -3893,6 +4940,28 @@
             "type": "doc",
             "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
           }
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.lm-ml.be/nl/voordelen-en-diensten/lm-mutplusbe-geboorte-en-adoptiepremie",
+      "conditions": {
+        "en": [
+          "You are a member of a Liberale Mutualiteit fund and your contributions are paid.",
+          "The amount depends on your LM fund."
+        ],
+        "nl": [
+          "Je bent lid van een Liberale Mutualiteit en je bijdragen zijn betaald.",
+          "Het bedrag hangt af van je LM-fonds."
+        ],
+        "fr": [
+          "Vous êtes membre de une Mutualité Libérale et vos cotisations sont en ordre.",
+          "Le montant dépend de votre mutualité libérale."
+        ],
+        "de": [
+          "Sie sind Mitglied von einer Liberalen Krankenkasse und Ihre Beiträge sind bezahlt.",
+          "Der Betrag hängt von Ihrer LM-Kasse ab."
         ]
       }
     }
@@ -4000,6 +5069,24 @@
           }
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.lm-ml.be/fr/avantages-et-services/ml-hainaut-namur-naissance",
+      "conditions": {
+        "en": [
+          "You are a member of a Mutualité Libérale fund, including the supplementary contribution, and your contributions are paid."
+        ],
+        "nl": [
+          "Je bent lid van een Liberale Mutualiteit, ook voor de aanvullende bijdrage, en je bijdragen zijn betaald."
+        ],
+        "fr": [
+          "Vous êtes membre de une Mutualité Libérale, cotisation complémentaire comprise, et vos cotisations sont en ordre."
+        ],
+        "de": [
+          "Sie sind Mitglied von einer Liberalen Krankenkasse, einschließlich Zusatzbeitrag, und Ihre Beiträge sind bezahlt."
+        ]
+      }
     }
   },
   {
@@ -4087,6 +5174,28 @@
             "type": "doc",
             "label": "Eine Kopie der Geburtsurkunde (von Ihrer Gemeinde)"
           }
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://vnz.be/voordelen/geboortepremie/",
+      "conditions": {
+        "en": [
+          "You are a member of Vlaams & Neutraal Ziekenfonds and your contributions are paid.",
+          "Paid per member parent; also for stillbirth from 26 weeks, adoption and long-term foster care."
+        ],
+        "nl": [
+          "Je bent lid van Vlaams & Neutraal Ziekenfonds en je bijdragen zijn betaald.",
+          "Per ouder die lid is; ook bij doodgeboorte vanaf 26 weken, adoptie en langdurige pleegzorg."
+        ],
+        "fr": [
+          "Vous êtes membre de Vlaams & Neutraal Ziekenfonds et vos cotisations sont en ordre.",
+          "Par parent membre ; aussi pour une naissance sans vie dès 26 semaines, une adoption et un accueil familial de longue durée."
+        ],
+        "de": [
+          "Sie sind Mitglied von Vlaams & Neutraal Ziekenfonds und Ihre Beiträge sind bezahlt.",
+          "Je Elternteil, der Mitglied ist; auch bei Totgeburt ab 26 Wochen, Adoption und langfristiger Pflege."
         ]
       }
     }
@@ -4194,6 +5303,31 @@
           }
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.mutualia.be/fr/nos-avantages/naissance-et-adoption",
+        "https://www.lamn.be/avantages-et-services/prime-de-naissance-et-dadoption"
+      ],
+      "conditions": {
+        "en": [
+          "You are a member of Mutualia or La Mutualité Neutre and your contributions are paid.",
+          "The child is registered as a dependant with the fund; adoption up to age 18 (Mutualia) or 19 (La Mutualité Neutre)."
+        ],
+        "nl": [
+          "Je bent lid van Mutualia of La Mutualité Neutre en je bijdragen zijn betaald.",
+          "Het kind is als persoon ten laste ingeschreven bij het ziekenfonds; adoptie tot 18 jaar (Mutualia) of 19 jaar (La Mutualité Neutre)."
+        ],
+        "fr": [
+          "Vous êtes membre de Mutualia ou La Mutualité Neutre et vos cotisations sont en ordre.",
+          "L'enfant est inscrit à charge auprès de la mutualité ; adoption jusqu'à 18 ans (Mutualia) ou 19 ans (La Mutualité Neutre)."
+        ],
+        "de": [
+          "Sie sind Mitglied von Mutualia oder La Mutualité Neutre und Ihre Beiträge sind bezahlt.",
+          "Das Kind ist bei der Kasse als Unterhaltsberechtigter eingetragen; Adoption bis 18 (Mutualia) oder 19 Jahre (La Mutualité Neutre)."
+        ]
+      }
     }
   },
   {
@@ -4297,6 +5431,32 @@
           "Bitten Sie Ihren Notar, das Abattement anzuwenden (und bei geplanter Energierenovierung das zusätzliche Abattement)",
           "Melden Sie dort innerhalb von 3 Jahren nach Registrierung der Urkunde Ihren Hauptwohnsitz an (5 Jahre bei Energierenovierung)",
           "Wohnen Sie 5 Jahre ununterbrochen dort, sonst zahlen Sie einen Teil des Vorteils zurück"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://be.brussels/en/taxes-finances/taxes/property-related-taxes/registration-duties/abatement",
+      "conditions": {
+        "en": [
+          "You buy as a private person the whole property in full ownership, and do not fully own another home when you sign.",
+          "The taxable amount is at most €600,000, and you ask for it in the deed.",
+          "You move in within 3 years (5 with an energy renovation) and live there for 5 uninterrupted years."
+        ],
+        "nl": [
+          "Je koopt als natuurlijke persoon het volledige goed in volle eigendom, en bent bij de ondertekening geen volle eigenaar van een andere woning.",
+          "Het belastbaar bedrag is hoogstens € 600.000, en je vraagt het aan in de akte.",
+          "Je gaat er binnen 3 jaar wonen (5 bij een energierenovatie) en woont er 5 jaar ononderbroken."
+        ],
+        "fr": [
+          "Vous achetez en tant que personne physique la totalité du bien en pleine propriété, et n'êtes pas plein propriétaire d'un autre logement à la signature.",
+          "La base imposable est de 600.000 € maximum, et vous le demandez dans l'acte.",
+          "Vous y établissez votre résidence dans les 3 ans (5 avec une rénovation énergétique) et y habitez 5 ans sans interruption."
+        ],
+        "de": [
+          "Sie kaufen als Privatperson die gesamte Immobilie zu vollem Eigentum und besitzen bei der Unterzeichnung keine andere Wohnung zu vollem Eigentum.",
+          "Die Bemessungsgrundlage beträgt höchstens 600.000 €, und Sie beantragen ihn in der Urkunde.",
+          "Sie ziehen innerhalb von 3 Jahren ein (5 bei einer energetischen Renovierung) und wohnen dort 5 Jahre ununterbrochen."
         ]
       }
     }
@@ -4419,6 +5579,28 @@
           "Erneuern Sie jedes Jahr im Januar–Februar; bei dringender Wohnungsnot wenden Sie sich an das ÖSHZ Ihrer Gemeinde"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.owob.be/mieten/",
+      "conditions": {
+        "en": [
+          "You do not own or have the usufruct of a habitable home.",
+          "Taxable yearly income below €74,900 (single) or €91,400 (household), plus €3,400 per dependent child."
+        ],
+        "nl": [
+          "Je bent geen eigenaar of vruchtgebruiker van een bewoonbare woning.",
+          "Belastbaar jaarinkomen lager dan € 74.900 (alleenstaande) of € 91.400 (gezin), plus € 3.400 per kind ten laste."
+        ],
+        "fr": [
+          "Vous n'êtes ni propriétaire ni usufruitier d'un logement habitable.",
+          "Revenu annuel imposable inférieur à 74.900 € (isolé) ou 91.400 € (ménage), plus 3.400 € par enfant à charge."
+        ],
+        "de": [
+          "Sie besitzen oder nießbrauchen keine bewohnbare Wohnung.",
+          "Steuerpflichtiges Jahreseinkommen unter 74.900 € (Alleinstehende) oder 91.400 € (Haushalt), plus 3.400 € je unterhaltsberechtigtes Kind."
+        ]
+      }
     }
   },
   {
@@ -4509,6 +5691,28 @@
           }
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.nzvl.be/ons-aanbod/ziekenfonds/diensten-en-voordelen-van-a-z/geboortevoordelen",
+      "conditions": {
+        "en": [
+          "You are a member of Neutraal Ziekenfonds Vlaanderen and your contributions are paid.",
+          "Paid per member parent, for a birth or adoption."
+        ],
+        "nl": [
+          "Je bent lid van Neutraal Ziekenfonds Vlaanderen en je bijdragen zijn betaald.",
+          "Per ouder die lid is, bij een geboorte of adoptie."
+        ],
+        "fr": [
+          "Vous êtes membre de Neutraal Ziekenfonds Vlaanderen et vos cotisations sont en ordre.",
+          "Par parent membre, pour une naissance ou une adoption."
+        ],
+        "de": [
+          "Sie sind Mitglied von Neutraal Ziekenfonds Vlaanderen und Ihre Beiträge sind bezahlt.",
+          "Je Elternteil, der Mitglied ist, bei Geburt oder Adoption."
+        ]
+      }
     }
   },
   {
@@ -4597,6 +5801,32 @@
             "type": "doc",
             "label": "Formular „Medizinische Mitteilung“, vom Hausarzt ausgefüllt"
           }
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/palliatieve-zorg/palliatief-forfait",
+      "conditions": {
+        "en": [
+          "The illness is irreversible, the condition is getting seriously worse and no therapy improves it.",
+          "Life expectancy is at most 3 months, the needs require intensive care, and the patient intends to die at home.",
+          "The patient is insured with a Belgian health fund; the GP sends the notification."
+        ],
+        "nl": [
+          "De ziekte is onomkeerbaar, de toestand gaat ernstig achteruit en geen therapie verbetert hem.",
+          "De levensverwachting is hoogstens 3 maanden, de noden vragen intensieve zorg, en de patiënt wil thuis sterven.",
+          "De patiënt is aangesloten bij een Belgisch ziekenfonds; de huisarts stuurt de kennisgeving."
+        ],
+        "fr": [
+          "La maladie est irréversible, l'état se dégrade gravement et aucune thérapie ne l'améliore.",
+          "L'espérance de vie est de 3 mois au plus, les besoins exigent des soins intensifs, et le patient souhaite mourir à domicile.",
+          "Le patient est affilié à une mutualité belge ; le médecin généraliste envoie la notification."
+        ],
+        "de": [
+          "Die Krankheit ist unumkehrbar, der Zustand verschlechtert sich schwer und keine Therapie verbessert ihn.",
+          "Die Lebenserwartung beträgt höchstens 3 Monate, die Bedürfnisse erfordern intensive Pflege, und der Patient möchte zu Hause sterben.",
+          "Der Patient ist bei einer belgischen Krankenkasse versichert; der Hausarzt sendet die Mitteilung."
         ]
       }
     }
@@ -4710,6 +5940,32 @@
           }
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/verlof-voor-mantelzorg",
+      "conditions": {
+        "en": [
+          "You are an employee (private sector or contractual public staff) or statutory staff of a government; no seniority needed.",
+          "Your health fund recognises you as the carer (mantelzorger) of the person.",
+          "At most 6 months full-time equivalent over your career."
+        ],
+        "nl": [
+          "Je bent werknemer (privésector of contractueel bij de overheid) of statutair personeelslid van een overheid; geen anciënniteit nodig.",
+          "Je ziekenfonds erkent je als mantelzorger van de persoon.",
+          "Hoogstens 6 maanden voltijds equivalent over je loopbaan."
+        ],
+        "fr": [
+          "Vous êtes salarié(e) (secteur privé ou contractuel du secteur public) ou agent statutaire d'une autorité ; aucune ancienneté requise.",
+          "Votre mutualité vous reconnaît comme aidant proche de la personne.",
+          "Au maximum 6 mois équivalent temps plein sur votre carrière."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer (Privatsektor oder Vertragsbediensteter im öffentlichen Dienst) oder Beamter einer Behörde; keine Dienstzeit nötig.",
+          "Ihre Krankenkasse erkennt Sie als pflegenden Angehörigen der Person an.",
+          "Höchstens 6 Monate Vollzeitäquivalent über Ihre Laufbahn."
+        ]
+      }
     }
   },
   {
@@ -4797,6 +6053,28 @@
             "type": "doc",
             "label": "Verschreibung Ihres Hausarztes oder Diabetologen"
           }
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-terugbetaling-van-uw-dietetiek-en-podologische-sessies",
+      "conditions": {
+        "en": [
+          "You have type 2 diabetes and follow a diabetes start or care trajectory, a self-management programme or a foot clinic.",
+          "Your feet are at risk, you have a prescription from your doctor, and you are insured with a Belgian health fund."
+        ],
+        "nl": [
+          "Je hebt diabetes type 2 en volgt een diabetesstarttraject of zorgtraject, een zelfmanagementprogramma of een voetkliniek.",
+          "Je voeten lopen risico, je hebt een voorschrift van je arts, en je bent aangesloten bij een Belgisch ziekenfonds."
+        ],
+        "fr": [
+          "Vous avez un diabète de type 2 et suivez un trajet de démarrage ou de soins diabète, un programme d'autogestion ou une clinique du pied.",
+          "Vos pieds sont à risque, vous avez une prescription de votre médecin, et êtes affilié(e) à une mutualité belge."
+        ],
+        "de": [
+          "Sie haben Typ-2-Diabetes und folgen einem Diabetes-Start- oder Pflegepfad, einem Selbstmanagementprogramm oder einer Fußklinik.",
+          "Ihre Füße sind gefährdet, Sie haben ein ärztliches Rezept und sind bei einer belgischen Krankenkasse versichert."
         ]
       }
     }
@@ -4890,6 +6168,28 @@
           }
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/werken/opleiding-op-de-werkplek/als-werknemer-een-opleiding-volgen/vlaams-opleidingsverlof",
+      "conditions": {
+        "en": [
+          "You are an employee in the private sector working at a site in the Flemish Region (at least half-time).",
+          "The training is in the Flemish training database and lasts at least 32 contact hours or 3 study points."
+        ],
+        "nl": [
+          "Je bent werknemer in de privésector en werkt in een vestiging in het Vlaams Gewest (minstens halftijds).",
+          "De opleiding staat in de Vlaamse opleidingsdatabank en telt minstens 32 contacturen of 3 studiepunten."
+        ],
+        "fr": [
+          "Vous êtes salarié(e) du secteur privé et travaillez dans un siège en Région flamande (au moins à mi-temps).",
+          "La formation figure dans la base de données flamande et compte au moins 32 heures de contact ou 3 crédits."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer im Privatsektor und arbeiten an einem Standort in der Flämischen Region (mindestens halbzeit).",
+          "Die Ausbildung steht in der flämischen Ausbildungsdatenbank und umfasst mindestens 32 Kontaktstunden oder 3 Studienpunkte."
+        ]
+      }
     }
   },
   {
@@ -4979,6 +6279,28 @@
             "type": "doc",
             "label": "Spezielle Einschreibebescheinigung der Schule"
           }
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://economie-emploi.brussels/conge-education-beneficiaires",
+      "conditions": {
+        "en": [
+          "You work in the private sector (or as contract staff of bpost or Proximus) at a site in the Brussels-Capital Region, at least 25% of full time; a student contract counts.",
+          "Not for staff of the state, communities, regions, provinces, communes, CPAS or teaching staff; the training is recognised and lasts at least 32 hours."
+        ],
+        "nl": [
+          "Je werkt in de privésector (of als contractueel bij bpost of Proximus) in een vestiging in het Brussels Hoofdstedelijk Gewest, minstens 25% van voltijds; een studentenovereenkomst telt mee.",
+          "Niet voor personeel van de staat, gemeenschappen, gewesten, provincies, gemeenten, OCMW's of onderwijzend personeel; de opleiding is erkend en duurt minstens 32 uur."
+        ],
+        "fr": [
+          "Vous travaillez dans le secteur privé (ou comme contractuel chez bpost ou Proximus) dans un siège en Région de Bruxelles-Capitale, au moins à 25 % d'un temps plein ; un contrat d'étudiant compte.",
+          "Pas pour le personnel de l'État, des Communautés, des Régions, des provinces, des communes, des CPAS ni le personnel enseignant ; la formation est reconnue et compte au moins 32 heures."
+        ],
+        "de": [
+          "Sie arbeiten im Privatsektor (oder als Vertragsbediensteter bei bpost oder Proximus) an einem Standort in der Region Brüssel-Hauptstadt, mindestens 25 % einer Vollzeitstelle; ein Studentenvertrag zählt.",
+          "Nicht für Personal des Staates, der Gemeinschaften, Regionen, Provinzen, Gemeinden, ÖSHZ oder Lehrkräfte; die Ausbildung ist anerkannt und umfasst mindestens 32 Stunden."
         ]
       }
     }
@@ -5115,6 +6437,35 @@
           "Reichen Sie Ihren Antrag ein, sobald die SWCS ihn öffnet, und unterzeichnen Sie erst danach den Kreditvertrag und beginnen die Arbeiten"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.swcs.be/actualites/reforme-des-aides-a-la-renovation-ce-qui-change",
+        "https://www.wallonie.be/fr/demarches/beneficier-du-financement-de-vos-travaux-de-renovation"
+      ],
+      "conditions": {
+        "en": [
+          "You live in the home you renovate, own no other home and have no rental income.",
+          "Household taxable income at most €67,100 (€5,000 less per dependant).",
+          "The home is over 15 years old and rated PEB E, F or G, and must reach at least C (from E) or D (from F or G)."
+        ],
+        "nl": [
+          "Je woont in de woning die je renoveert, bezit geen andere woning en hebt geen huurinkomsten.",
+          "Belastbaar gezinsinkomen hoogstens € 67.100 (€ 5.000 minder per persoon ten laste).",
+          "De woning is ouder dan 15 jaar en heeft EPB-label E, F of G, en moet minstens C (vanuit E) of D (vanuit F of G) halen."
+        ],
+        "fr": [
+          "Vous occupez le logement rénové, n'êtes propriétaire d'aucun autre logement et ne percevez pas de revenus locatifs.",
+          "Revenus imposables du ménage de 67.100 € maximum (5.000 € de moins par personne à charge).",
+          "Le logement a plus de 15 ans et est classé PEB E, F ou G, et doit atteindre au moins C (depuis E) ou D (depuis F ou G)."
+        ],
+        "de": [
+          "Sie bewohnen die renovierte Wohnung, besitzen keine andere Wohnung und haben keine Mieteinnahmen.",
+          "Steuerpflichtiges Haushaltseinkommen höchstens 67.100 € (5.000 € weniger je Unterhaltsberechtigten).",
+          "Die Wohnung ist über 15 Jahre alt, hat die Energieklasse E, F oder G und muss mindestens C (von E) oder D (von F oder G) erreichen."
+        ]
+      }
     }
   },
   {
@@ -5201,6 +6552,24 @@
           "Melden Sie die Geburt an; das Kind wird im Bevölkerungsregister von Merelbeke-Melle eingetragen",
           "Warten Sie auf den Brief der Gemeinde mit der Nationalregisternummer des Kindes",
           "Holen Sie mit diesem Brief den Gutschein über 100 € im Gemeindehaus ab (Hundelgemsesteenweg 353); auf Anfrage auch im Dienstencentrum in Melle"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.merelbeke-melle.be/geboortetoelage",
+      "conditions": {
+        "en": [
+          "At the birth, your child is entered in the population register (bevolkingsregister) of Merelbeke-Melle."
+        ],
+        "nl": [
+          "Bij de geboorte wordt je kind ingeschreven in het bevolkingsregister van Merelbeke-Melle."
+        ],
+        "fr": [
+          "À la naissance, votre enfant est inscrit au registre de la population (bevolkingsregister) de Merelbeke-Melle."
+        ],
+        "de": [
+          "Bei der Geburt wird Ihr Kind im Bevölkerungsregister (bevolkingsregister) von Merelbeke-Melle eingetragen."
         ]
       }
     }
@@ -5306,6 +6675,28 @@
           "Fügen Sie den Nachweis bei und reichen Sie alles beim Dienst Welzijn ein (09 210 33 50)"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.merelbeke-melle.be/mantelzorgtoelage",
+      "conditions": {
+        "en": [
+          "You and the person you care for both live in Merelbeke-Melle on 1 January of the care year; you are 18 or older and unpaid.",
+          "The person cared for does not live in a care home and has a recognised care need (BelRAI screener, BEL scale of 30, or 12 points of reduced self-reliance)."
+        ],
+        "nl": [
+          "Jij en de persoon voor wie je zorgt wonen allebei in Merelbeke-Melle op 1 januari van het zorgjaar; je bent minstens 18 en onbetaald.",
+          "De zorgbehoevende woont niet in een residentiële instelling en heeft een erkende zorgnood (BelRAI-screener, BEL-schaal 30 of 12 punten verminderde zelfredzaamheid)."
+        ],
+        "fr": [
+          "Vous et la personne aidée habitez tous deux à Merelbeke-Melle au 1er janvier de l'année ; vous avez au moins 18 ans et n'êtes pas rémunéré(e).",
+          "La personne aidée ne vit pas en institution et a un besoin de soins reconnu (screener BelRAI, échelle BEL de 30 ou 12 points de réduction d'autonomie)."
+        ],
+        "de": [
+          "Sie und die gepflegte Person wohnen beide am 1. Januar des Pflegejahres in Merelbeke-Melle; Sie sind mindestens 18 und unbezahlt.",
+          "Die gepflegte Person lebt nicht in einer Einrichtung und hat einen anerkannten Pflegebedarf (BelRAI-Screener, BEL-Skala 30 oder 12 Punkte verminderte Selbstständigkeit)."
+        ]
+      }
     }
   },
   {
@@ -5393,6 +6784,28 @@
           "Senden Sie es mit dem Nachweis an den Dienst Welzijn (welzijn@merelbeke-melle.be, 09 210 33 50)"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.merelbeke-melle.be/toelage-palliatieve-zorg",
+      "conditions": {
+        "en": [
+          "You live in Merelbeke-Melle (registered there) when you apply.",
+          "You are entitled to the palliative lump sum from your health fund."
+        ],
+        "nl": [
+          "Je woont in Merelbeke-Melle (ingeschreven) op het moment van de aanvraag.",
+          "Je hebt recht op het palliatief forfait van je ziekenfonds."
+        ],
+        "fr": [
+          "Vous habitez à Merelbeke-Melle (inscrit(e)) au moment de la demande.",
+          "Vous avez droit au forfait palliatif de votre mutualité."
+        ],
+        "de": [
+          "Sie wohnen in Merelbeke-Melle (dort gemeldet) zum Zeitpunkt des Antrags.",
+          "Sie haben Anspruch auf die Palliativpauschale Ihrer Krankenkasse."
+        ]
+      }
     }
   },
   {
@@ -5478,6 +6891,28 @@
           "Lassen Sie Inkontinenz, Stoma oder Heimdialyse ärztlich bescheinigen",
           "Beantragen Sie online oder mit dem Papierformular",
           "Reichen Sie den Antrag beim Dienst Welzijn ein (09 210 33 50); jedes Jahr wiederholen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.merelbeke-melle.be/huisvuiltoelage-voor-personen-met-incontinentie-stoma-en-thuisdialyse",
+      "conditions": {
+        "en": [
+          "You live in Merelbeke-Melle (registered there) when you apply.",
+          "A doctor certifies total incontinence, a stoma or home dialysis."
+        ],
+        "nl": [
+          "Je woont in Merelbeke-Melle (ingeschreven) op het moment van de aanvraag.",
+          "Een arts attesteert volledige incontinentie, een stoma of thuisdialyse."
+        ],
+        "fr": [
+          "Vous habitez à Merelbeke-Melle (inscrit(e)) au moment de la demande.",
+          "Un médecin atteste une incontinence totale, une stomie ou une dialyse à domicile."
+        ],
+        "de": [
+          "Sie wohnen in Merelbeke-Melle (dort gemeldet) zum Zeitpunkt des Antrags.",
+          "Ein Arzt bescheinigt vollständige Inkontinenz, ein Stoma oder Heimdialyse."
         ]
       }
     }
@@ -5583,6 +7018,28 @@
           "Per Post, am Empfang des Gemeindehauses oder an woonenleef@wetteren.be; nach dem Beschluss des Kollegiums Zahlung innerhalb von 90 Tagen"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.wetteren.be/gemeentelijke-aanvullende-premie-na-aanpassingspremie",
+      "conditions": {
+        "en": [
+          "You live in Wetteren (registered there).",
+          "You received the Flemish adaptation premium (aanpassingspremie); not after a Flemish renovation premium or Mijn VerbouwPremie."
+        ],
+        "nl": [
+          "Je woont in Wetteren (ingeschreven).",
+          "Je kreeg de Vlaamse aanpassingspremie; niet na een Vlaamse renovatiepremie of Mijn VerbouwPremie."
+        ],
+        "fr": [
+          "Vous habitez à Wetteren (inscrit(e)).",
+          "Vous avez reçu la prime flamande d'adaptation (aanpassingspremie) ; pas après une prime flamande à la rénovation ou Mijn VerbouwPremie."
+        ],
+        "de": [
+          "Sie wohnen in Wetteren (dort gemeldet).",
+          "Sie haben die flämische Anpassungsprämie (aanpassingspremie) erhalten; nicht nach einer flämischen Renovierungsprämie oder Mijn VerbouwPremie."
+        ]
+      }
     }
   },
   {
@@ -5669,6 +7126,28 @@
           "Besorgen Sie die zutreffende Bescheinigung (eine Anerkennung der Behinderung allein reicht nicht: die Einkommensersatzbeihilfe muss genannt sein)",
           "Bringen Sie sie ab 1. Januar zum Empfang des Gemeindehauses",
           "Holen Sie dort die Säcke ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.wetteren.be/gratis-vuilniszakken",
+      "conditions": {
+        "en": [
+          "You live in Wetteren (registered there) on 1 January of the year you apply.",
+          "On 1 January you receive the leefloon, the income guarantee for older people (IGO) or the income replacement allowance for people with a disability, or a doctor confirms incontinence material, a stoma or home dialysis."
+        ],
+        "nl": [
+          "Je woont in Wetteren (ingeschreven) op 1 januari van het jaar van aanvraag.",
+          "Op 1 januari heb je recht op het leefloon, de inkomensgarantie voor ouderen (IGO) of de inkomensvervangende tegemoetkoming voor personen met een handicap, of een arts bevestigt incontinentiemateriaal, een stoma of thuisdialyse."
+        ],
+        "fr": [
+          "Vous habitez à Wetteren (inscrit(e)) au 1er janvier de l'année de la demande.",
+          "Au 1er janvier vous percevez le revenu d'intégration, la garantie de revenus aux personnes âgées (GRAPA) ou l'allocation de remplacement de revenus pour personnes handicapées, ou un médecin confirme du matériel d'incontinence, une stomie ou une dialyse à domicile."
+        ],
+        "de": [
+          "Sie wohnen in Wetteren (dort gemeldet) am 1. Januar des Antragsjahres.",
+          "Am 1. Januar beziehen Sie das Eingliederungseinkommen, die Einkommensgarantie für Betagte oder die Einkommensersatzbeihilfe für Menschen mit Behinderung, oder ein Arzt bestätigt Inkontinenzmaterial, ein Stoma oder Heimdialyse."
         ]
       }
     }
@@ -5775,6 +7254,28 @@
           "Beantragen Sie online mit den Rechnungen; nach Genehmigung durch das Kollegium Zahlung innerhalb von 14 Tagen"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.kortrijk.be/producten/thuis-in-kortrijk-premie-tik",
+      "conditions": {
+        "en": [
+          "You own the home in Kortrijk and live in it as your main residence; no other home or building land in full ownership.",
+          "Your income is within the lowest Mijn VerbouwPremie category (4), the home was built before 2006, and renovation guidance with a home visit comes first."
+        ],
+        "nl": [
+          "Je bent eigenaar van de woning in Kortrijk en woont er als hoofdverblijfplaats; geen andere woning of bouwgrond in volle eigendom.",
+          "Je inkomen valt binnen de laagste categorie (4) van Mijn VerbouwPremie, de woning is gebouwd vóór 2006, en er loopt eerst renovatiebegeleiding met een huisbezoek."
+        ],
+        "fr": [
+          "Vous êtes propriétaire du logement à Courtrai et y habitez comme résidence principale ; aucun autre logement ni terrain à bâtir en pleine propriété.",
+          "Vos revenus relèvent de la catégorie la plus basse (4) de Mijn VerbouwPremie, le logement a été construit avant 2006, et un accompagnement à la rénovation avec visite précède les travaux."
+        ],
+        "de": [
+          "Sie sind Eigentümer der Wohnung in Kortrijk und wohnen dort als Hauptwohnsitz; keine andere Wohnung und kein Bauland zu vollem Eigentum.",
+          "Ihr Einkommen liegt in der niedrigsten Kategorie (4) von Mijn VerbouwPremie, die Wohnung wurde vor 2006 gebaut, und zuerst gibt es eine Renovierungsbegleitung mit Hausbesuch."
+        ]
+      }
     }
   },
   {
@@ -5877,6 +7378,32 @@
           "Prüfen Sie, dass Sie mindestens 18 sind, in Kortrijk wohnen und kein flämisches Pflegebudget für schwer Pflegebedürftige erhalten",
           "Beantragen Sie online oder wenden Sie sich an das Viertelteam (wijkteam)",
           "Eine Pflegekraft plant innerhalb von 2 Wochen einen Hausbesuch und prüft Ihren Anspruch"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.kortrijk.be/ocmw/producten/thuiszorgtoelage",
+      "conditions": {
+        "en": [
+          "You live and are domiciled in Kortrijk and are 18 or older.",
+          "You have the increased reimbursement (verhoogde tegemoetkoming) from your health fund.",
+          "You have the Kortrijk social tariff and a measured care need, and do not receive the Flemish care budget for severe care needs."
+        ],
+        "nl": [
+          "Je woont en bent gedomicilieerd in Kortrijk en bent minstens 18.",
+          "Je hebt recht op de verhoogde tegemoetkoming bij je ziekenfonds.",
+          "Je hebt recht op het sociaal tarief in Kortrijk en een gemeten zorgnood, en krijgt geen zorgbudget voor zwaar zorgbehoevenden."
+        ],
+        "fr": [
+          "Vous habitez et êtes domicilié(e) à Courtrai et avez au moins 18 ans.",
+          "Vous bénéficiez de l'intervention majorée de votre mutualité.",
+          "Vous avez droit au tarif social de Courtrai et un besoin de soins mesuré, et ne recevez pas le budget de soins flamand pour personnes lourdement dépendantes."
+        ],
+        "de": [
+          "Sie wohnen und sind gemeldet in Kortrijk und mindestens 18.",
+          "Sie haben Anspruch auf die erhöhte Kostenbeteiligung Ihrer Krankenkasse.",
+          "Sie haben Anspruch auf den Sozialtarif in Kortrijk und einen gemessenen Pflegebedarf und erhalten kein flämisches Pflegebudget für schwer Pflegebedürftige."
         ]
       }
     }
@@ -5983,6 +7510,28 @@
           "Beantragen Sie die Prämie mit dem Formular der Stadt"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://zottegem.be/cultuur-sport-en-vrije-tijd/uitpas/premie-voor-vrijetijdsmateriaal",
+      "conditions": {
+        "en": [
+          "You are under 26, domiciled in Zottegem and have a UiTPAS at the reduced (kansentarief) rate.",
+          "You are enrolled in an activity of a city service or a recognised Zottegem club."
+        ],
+        "nl": [
+          "Je bent jonger dan 26, gedomicilieerd in Zottegem en hebt een UiTPAS met kansentarief.",
+          "Je bent ingeschreven voor een activiteit van een stadsdienst of erkende Zottegemse vereniging."
+        ],
+        "fr": [
+          "Vous avez moins de 26 ans, êtes domicilié(e) à Zottegem et avez une UiTPAS au tarif réduit (kansentarief).",
+          "Vous êtes inscrit(e) à une activité d'un service communal ou d'une association reconnue de Zottegem."
+        ],
+        "de": [
+          "Sie sind unter 26, in Zottegem gemeldet und haben einen UiTPAS mit ermäßigtem Tarif (kansentarief).",
+          "Sie sind für eine Aktivität eines städtischen Dienstes oder eines anerkannten Zottegemer Vereins angemeldet."
+        ]
+      }
     }
   },
   {
@@ -6068,6 +7617,28 @@
           "Stellen Sie sicher, dass die gepflegte Person das Pflegebudget für schwer Pflegebedürftige erhält",
           "Beantragen Sie beim Welzijnshuis der Stadt (Gasthuisstraat 10, 051 80 59 00) mit der Entscheidung der Pflegekasse",
           "Melden Sie jede Änderung; nicht kombinierbar mit der sozialpädagogischen Zulage der Stadt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.roeselare.be/nl/zorg-opvang-en-sociale-hulp/zorgondersteuning-en-subsidies/mantelzorgpremie",
+      "conditions": {
+        "en": [
+          "The person you care for officially lives in Roeselare, is 18 or older, does not live permanently in a care home and receives the care budget for severe care needs.",
+          "You are 18 or older, help voluntarily and do not need care yourself."
+        ],
+        "nl": [
+          "De persoon voor wie je zorgt woont officieel in Roeselare, is minstens 18, verblijft niet permanent in een woonzorgcentrum en krijgt het zorgbudget voor zwaar zorgbehoevenden.",
+          "Je bent minstens 18, helpt vrijwillig en bent zelf niet zorgbehoevend."
+        ],
+        "fr": [
+          "La personne aidée habite officiellement à Roulers, a au moins 18 ans, ne vit pas en permanence en maison de repos et reçoit le budget de soins pour personnes lourdement dépendantes.",
+          "Vous avez au moins 18 ans, aidez bénévolement et n'êtes pas vous-même dépendant(e)."
+        ],
+        "de": [
+          "Die gepflegte Person wohnt offiziell in Roeselare, ist mindestens 18, lebt nicht dauerhaft in einem Pflegeheim und erhält das Pflegebudget für schwer Pflegebedürftige.",
+          "Sie sind mindestens 18, helfen freiwillig und sind selbst nicht pflegebedürftig."
         ]
       }
     }
@@ -6174,6 +7745,32 @@
           "Bringen Sie das Formular und die Bescheinigung mit"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.roeselare.be/nl/zorg-opvang-en-sociale-hulp/zorgondersteuning-en-premies/toelage-restafvalzakken-bij-incontinentie",
+      "conditions": {
+        "en": [
+          "You live in Roeselare and are cared for at home.",
+          "You have the increased reimbursement (verhoogde tegemoetkoming) from your health fund.",
+          "Your GP fills in the form (definitive incontinence or home dialysis)."
+        ],
+        "nl": [
+          "Je woont in Roeselare en wordt thuis verzorgd.",
+          "Je hebt recht op de verhoogde tegemoetkoming bij je ziekenfonds.",
+          "Je huisarts vult het formulier in (definitieve incontinentie of thuisdialyse)."
+        ],
+        "fr": [
+          "Vous habitez à Roulers et êtes soigné(e) à domicile.",
+          "Vous bénéficiez de l'intervention majorée de votre mutualité.",
+          "Votre médecin généraliste remplit le formulaire (incontinence définitive ou dialyse à domicile)."
+        ],
+        "de": [
+          "Sie wohnen in Roeselare und werden zu Hause gepflegt.",
+          "Sie haben Anspruch auf die erhöhte Kostenbeteiligung Ihrer Krankenkasse.",
+          "Ihr Hausarzt füllt das Formular aus (dauerhafte Inkontinenz oder Heimdialyse)."
+        ]
+      }
     }
   },
   {
@@ -6275,6 +7872,28 @@
           "Laden Sie das Formular 2026 für Ihre Situation herunter oder holen Sie es im welzijnshuis ab",
           "Fügen Sie die geforderten Bescheinigungen bei",
           "Geben Sie es am Empfang des welzijnshuis ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.sint-niklaas.be/onze-dienstverlening/gezondheid-en-zorg/stedelijke-mantelzorgpremie-voor-mantelzorgers-van-inwonende-ouderen-met-een-zorgbehoefte",
+      "conditions": {
+        "en": [
+          "You give long-term unpaid care at home to your partner, or to a person aged 65 or over who lives at your address in Sint-Niklaas.",
+          "The degree of care need and the income conditions are set in the city regulation."
+        ],
+        "nl": [
+          "Je geeft langdurig en onbetaald thuiszorg aan je partner, of aan een 65-plusser die op jouw adres in Sint-Niklaas woont.",
+          "De graad van zorgbehoevendheid en de inkomensvoorwaarden staan in het stedelijk reglement."
+        ],
+        "fr": [
+          "Vous apportez des soins à domicile de longue durée et non rémunérés à votre partenaire, ou à une personne de 65 ans ou plus vivant à votre adresse à Saint-Nicolas.",
+          "Le degré de dépendance et les conditions de revenus figurent dans le règlement communal."
+        ],
+        "de": [
+          "Sie leisten langfristig und unbezahlt häusliche Pflege für Ihren Partner oder eine Person ab 65, die an Ihrer Adresse in Sint-Niklaas wohnt.",
+          "Der Grad der Pflegebedürftigkeit und die Einkommensbedingungen stehen in der städtischen Regelung."
         ]
       }
     }
@@ -6380,6 +7999,32 @@
           "Geben Sie es im Sociaal Huis (Gentsesteenweg 1) oder einem lokalen Dienstleistungszentrum ab (Zilverpand, Zonnebloem, 't Plein)"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.dendermonde.be/mantelzorgpremie",
+      "conditions": {
+        "en": [
+          "The person cared for lives at home in Dendermonde, has been in its population or foreigners' register for at least 3 months, and is 18 or older.",
+          "A recognised care need: care budget for severe care needs, 9 points of reduced self-care, or a BelRAI score of 11 (or 3.5 ADL+IADL); no personal assistance budget.",
+          "You are an adult family member, friend or neighbour giving long-term unpaid care; apply between 1 February and 31 July."
+        ],
+        "nl": [
+          "De zorgbehoevende woont thuis in Dendermonde, staat al minstens 3 maanden in het bevolkings- of vreemdelingenregister van Dendermonde en is minstens 18.",
+          "Een erkende zorgnood: zorgbudget voor zwaar zorgbehoevenden, 9 punten verminderd zelfzorgvermogen, of een BelRAI-score van 11 (of 3,5 ADL+IADL); geen persoonlijk assistentiebudget.",
+          "Je bent een volwassen familielid, vriend of buur die langdurig onbetaald zorgt; aanvragen tussen 1 februari en 31 juli."
+        ],
+        "fr": [
+          "La personne aidée vit à domicile à Termonde, est inscrite depuis au moins 3 mois au registre de la population ou des étrangers de Termonde et a au moins 18 ans.",
+          "Un besoin de soins reconnu : budget de soins pour personnes lourdement dépendantes, 9 points de réduction d'autonomie, ou un score BelRAI de 11 (ou 3,5 AVQ+AIVQ) ; pas de budget d'assistance personnelle.",
+          "Vous êtes un membre de la famille, ami ou voisin adulte qui aide durablement sans rémunération ; demande entre le 1er février et le 31 juillet."
+        ],
+        "de": [
+          "Die gepflegte Person wohnt zu Hause in Dendermonde, steht seit mindestens 3 Monaten im Bevölkerungs- oder Fremdenregister von Dendermonde und ist mindestens 18.",
+          "Ein anerkannter Pflegebedarf: Pflegebudget für schwer Pflegebedürftige, 9 Punkte verminderte Selbstversorgung oder ein BelRAI-Wert von 11 (oder 3,5 ADL+IADL); kein persönliches Assistenzbudget.",
+          "Sie sind ein erwachsenes Familienmitglied, Freund oder Nachbar, der langfristig unbezahlt pflegt; Antrag zwischen 1. Februar und 31. Juli."
+        ]
+      }
     }
   },
   {
@@ -6466,6 +8111,28 @@
           "Vereinbaren Sie einen Termin bei Burgerzaken für den Antrag (050 63 02 94, burgerzaken@knokke-heist.be)",
           "Beantragen Sie innerhalb von 6 Monaten nach der Geburt",
           "Die Gemeinde zahlt die Prämie aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.knokke-heist.be/geboorte-en-overlijden/gemeentelijke-geboortepremie",
+      "conditions": {
+        "en": [
+          "Your family is in the population or foreigners' register of Knokke-Heist on the child's birth date (or on the date the adoption is registered).",
+          "You apply within 6 months; an adopted child must be under 10 and never have received a birth premium."
+        ],
+        "nl": [
+          "Je gezin staat op de geboortedatum van het kind (of de datum van overschrijving van de adoptie) in het bevolkings- of vreemdelingenregister van Knokke-Heist.",
+          "Je vraagt aan binnen 6 maanden; een geadopteerd kind is jonger dan 10 en kreeg nooit eerder een geboortepremie."
+        ],
+        "fr": [
+          "Votre famille est inscrite au registre de la population ou des étrangers de Knokke-Heist à la date de naissance (ou de transcription de l'adoption).",
+          "Vous introduisez la demande dans les 6 mois ; un enfant adopté a moins de 10 ans et n'a jamais reçu de prime de naissance."
+        ],
+        "de": [
+          "Ihre Familie steht am Geburtsdatum des Kindes (oder am Tag der Eintragung der Adoption) im Bevölkerungs- oder Fremdenregister von Knokke-Heist.",
+          "Sie beantragen innerhalb von 6 Monaten; ein adoptiertes Kind ist unter 10 und hat nie eine Geburtsprämie erhalten."
         ]
       }
     }
@@ -6556,6 +8223,28 @@
           "Die Prämie wird auf Ihr Konto überwiesen (nach Verrechnung offener Schulden bei der Stadt)"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.blankenberge.be/Geboortepremie",
+      "conditions": {
+        "en": [
+          "You and your child are domiciled in Blankenberge on the birth date (or on the date the adoption is registered).",
+          "You apply within 3 months; an adopted child must be under 18 and never have received a birth premium."
+        ],
+        "nl": [
+          "Jij en je kind zijn gedomicilieerd in Blankenberge op de geboortedatum (of de datum van overschrijving van de adoptie).",
+          "Je vraagt aan binnen 3 maanden; een geadopteerd kind is jonger dan 18 en kreeg nooit eerder een geboortepremie."
+        ],
+        "fr": [
+          "Vous et votre enfant êtes domiciliés à Blankenberge à la date de naissance (ou de transcription de l'adoption).",
+          "Vous introduisez la demande dans les 3 mois ; un enfant adopté a moins de 18 ans et n'a jamais reçu de prime de naissance."
+        ],
+        "de": [
+          "Sie und Ihr Kind sind am Geburtsdatum (oder am Tag der Eintragung der Adoption) in Blankenberge gemeldet.",
+          "Sie beantragen innerhalb von 3 Monaten; ein adoptiertes Kind ist unter 18 und hat nie eine Geburtsprämie erhalten."
+        ]
+      }
     }
   },
   {
@@ -6572,13 +8261,13 @@
       "Blankenberge"
     ],
     "institution": "Stad Blankenberge (Sociaal Huis)",
-    "verified": "24 Oct 2026",
+    "verified": "26 Oct 2026",
     "status": "verified",
     "source_url": "https://www.blankenberge.be/vrijetijdstoelage",
     "content": {
       "en": {
         "title": "Vrijetijdstoelage (Leisure Allowance, Blankenberge)",
-        "desc": "A yearly allowance from the Sociaal Huis for leisure costs: tickets, day trips, camps in Belgium, school trips, club and library memberships, a non-electric bike, or equipment for club activities. For activities where you cannot use the UiTPAS reduced rate. The conditions are in the Sociaal Infopunt brochure.",
+        "desc": "A yearly allowance from the Sociaal Huis for leisure costs: tickets, day trips, camps in Belgium, school trips, club and library memberships, a non-electric bike, or equipment for club activities. For activities where you cannot use the UiTPAS reduced rate. For households in which at least one adult has the increased reimbursement from the health fund.",
         "deadline": "Once a year.",
         "amount": "Up to €250 a year for children and young people in school (up to age 25); up to €50 a year for adults",
         "requirements": [
@@ -6599,7 +8288,7 @@
       },
       "nl": {
         "title": "Vrijetijdstoelage (Blankenberge)",
-        "desc": "Een jaarlijkse toelage van het Sociaal Huis voor vrijetijdskosten: tickets, uitstappen, kampen in België, schooluitstappen, lidmaatschap van clubs en bibliotheek, een niet-elektrische fiets of materiaal voor clubactiviteiten. Voor activiteiten waar je de UiTPAS met kansentarief niet kan gebruiken. De voorwaarden staan in de brochure Sociaal Infopunt.",
+        "desc": "Een jaarlijkse toelage van het Sociaal Huis voor vrijetijdskosten: tickets, uitstappen, kampen in België, schooluitstappen, lidmaatschap van clubs en bibliotheek, een niet-elektrische fiets of materiaal voor clubactiviteiten. Voor activiteiten waar je de UiTPAS met kansentarief niet kan gebruiken. Voor gezinnen waarin minstens één volwassene recht heeft op de verhoogde tegemoetkoming bij het ziekenfonds.",
         "deadline": "Eén keer per jaar.",
         "amount": "Max. €250 per jaar voor minderjarige en/of schoolgaande kinderen en jongeren (tot 25 jaar); max. €50 per jaar voor volwassenen",
         "requirements": [
@@ -6620,7 +8309,7 @@
       },
       "fr": {
         "title": "Vrijetijdstoelage (Allocation loisirs, Blankenberge)",
-        "desc": "Une allocation annuelle du Sociaal Huis pour les frais de loisirs : billets, excursions, camps en Belgique, voyages scolaires, cotisations de clubs et bibliothèque, vélo non électrique ou matériel pour les activités de club. Pour les activités où le tarif réduit UiTPAS n'est pas utilisable. Les conditions figurent dans la brochure Sociaal Infopunt.",
+        "desc": "Une allocation annuelle du Sociaal Huis pour les frais de loisirs : billets, excursions, camps en Belgique, voyages scolaires, cotisations de clubs et bibliothèque, vélo non électrique ou matériel pour les activités de club. Pour les activités où le tarif réduit UiTPAS n'est pas utilisable. Pour les ménages dont au moins un adulte bénéficie de l'intervention majorée de la mutualité.",
         "deadline": "Une fois par an.",
         "amount": "Max. 250 € par an pour les enfants et jeunes mineurs et/ou scolarisés (jusqu'à 25 ans) ; max. 50 € par an pour les adultes",
         "requirements": [
@@ -6641,7 +8330,7 @@
       },
       "de": {
         "title": "Vrijetijdstoelage (Freizeitzulage, Blankenberge)",
-        "desc": "Eine jährliche Zulage des Sociaal Huis für Freizeitkosten: Eintrittskarten, Ausflüge, Lager in Belgien, Schulausflüge, Vereins- und Bibliotheksbeiträge, ein Fahrrad ohne Motor oder Material für Vereinsaktivitäten. Für Aktivitäten, bei denen der ermäßigte UiTPAS-Tarif nicht nutzbar ist. Die Bedingungen stehen in der Broschüre Sociaal Infopunt.",
+        "desc": "Eine jährliche Zulage des Sociaal Huis für Freizeitkosten: Eintrittskarten, Ausflüge, Lager in Belgien, Schulausflüge, Vereins- und Bibliotheksbeiträge, ein Fahrrad ohne Motor oder Material für Vereinsaktivitäten. Für Aktivitäten, bei denen der ermäßigte UiTPAS-Tarif nicht nutzbar ist. Für Haushalte, in denen mindestens ein Erwachsener Anspruch auf die erhöhte Kostenbeteiligung der Krankenkasse hat.",
         "deadline": "Einmal pro Jahr.",
         "amount": "Höchstens 250 € pro Jahr für minderjährige und/oder schulpflichtige Kinder und Jugendliche (bis 25 Jahre); höchstens 50 € pro Jahr für Erwachsene",
         "requirements": [
@@ -6658,6 +8347,31 @@
           "Prüfen Sie die Bedingungen in der Broschüre Sociaal Infopunt oder fragen Sie im Sociaal Huis (Kerkstraat 155, 050 235 800)",
           "Bewahren Sie Teilnahmebescheinigung und Kaufbelege auf",
           "Bringen Sie sie zum Antrag ins Sociaal Huis"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": [
+        "https://www.blankenberge.be/vrijetijdstoelage",
+        "https://www.blankenberge.be/file_uploads/19591.pdf?sc=E70B81AFA9B3077624BF4F7F9C45805F"
+      ],
+      "conditions": {
+        "en": [
+          "At least one adult in your household has the increased reimbursement (verhoogde tegemoetkoming) from the health fund.",
+          "Only for activities where you cannot use the UiTPAS reduced rate."
+        ],
+        "nl": [
+          "Minstens één volwassene in je gezin heeft recht op de verhoogde tegemoetkoming bij het ziekenfonds.",
+          "Enkel voor activiteiten waarvoor je de UiTPAS met kansentarief niet kunt gebruiken."
+        ],
+        "fr": [
+          "Au moins un adulte de votre ménage bénéficie de l'intervention majorée de la mutualité.",
+          "Uniquement pour des activités où vous ne pouvez pas utiliser l'UiTPAS au tarif réduit."
+        ],
+        "de": [
+          "Mindestens ein Erwachsener in Ihrem Haushalt hat Anspruch auf die erhöhte Kostenbeteiligung der Krankenkasse.",
+          "Nur für Aktivitäten, bei denen Sie den UiTPAS mit ermäßigtem Tarif nicht nutzen können."
         ]
       }
     }
@@ -6761,6 +8475,28 @@
           "Beantragen Sie einen kostenlosen Mijn Energiescan über den Online-Schalter",
           "Lassen Sie den Kessel von einem anerkannten Techniker warten",
           "Beantragen Sie mit dem Online-Formular innerhalb eines Jahres nach der Rechnung; Antwort binnen 30 Tagen (lwe@antwerpen.be, 03 338 60 66)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.antwerpen.be/product/premie-voor-periodiek-onderhoud-ketel",
+      "conditions": {
+        "en": [
+          "You live in Antwerp and meet the income conditions of the Mijn Energiescan (or are in debt counselling with the city or OCMW with Mijn VerbouwPremie category 3 income).",
+          "Not for Woonhaven social tenants; apply within 1 year of the maintenance invoice."
+        ],
+        "nl": [
+          "Je woont in Antwerpen en voldoet aan de inkomensvoorwaarden van de Mijn Energiescan (of je loopt schuldhulpverlening bij Stad Antwerpen of OCMW met een inkomen van categorie 3 van Mijn VerbouwPremie).",
+          "Niet voor sociale huurders van Woonhaven; aanvragen binnen 1 jaar na de onderhoudsfactuur."
+        ],
+        "fr": [
+          "Vous habitez à Anvers et remplissez les conditions de revenus du Mijn Energiescan (ou êtes en guidance de dettes auprès de la Ville ou du CPAS avec des revenus de catégorie 3 de Mijn VerbouwPremie).",
+          "Pas pour les locataires sociaux de Woonhaven ; demande dans l'année qui suit la facture d'entretien."
+        ],
+        "de": [
+          "Sie wohnen in Antwerpen und erfüllen die Einkommensbedingungen des Mijn Energiescan (oder sind in Schuldnerberatung bei Stadt oder ÖSHZ mit einem Einkommen der Kategorie 3 von Mijn VerbouwPremie).",
+          "Nicht für Sozialmieter von Woonhaven; Antrag innerhalb eines Jahres nach der Wartungsrechnung."
         ]
       }
     }
@@ -6867,6 +8603,28 @@
           "Senden Sie es mit den Unterlagen innerhalb von 3 Monaten an urb.primes@brucity.be (02 279 33 10)"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.bruxelles.be/prime-langes-lavables",
+      "conditions": {
+        "en": [
+          "You are the parent or legal guardian who paid, and your child is domiciled in the City of Brussels.",
+          "You apply within 3 months of the purchase or rental contract; one application per five years."
+        ],
+        "nl": [
+          "Je bent de ouder of voogd die betaalde, en je kind is gedomicilieerd in de Stad Brussel.",
+          "Je vraagt aan binnen 3 maanden na de aankoop of het huurcontract; één aanvraag per vijf jaar."
+        ],
+        "fr": [
+          "Vous êtes le parent ou tuteur légal qui a payé, et votre enfant est domicilié sur le territoire de la Ville de Bruxelles.",
+          "Vous introduisez la demande dans les 3 mois suivant l'achat ou le contrat de location ; une demande par période de cinq ans."
+        ],
+        "de": [
+          "Sie sind der Elternteil oder Vormund, der bezahlt hat, und Ihr Kind ist in der Stadt Brüssel gemeldet.",
+          "Sie beantragen innerhalb von 3 Monaten nach Kauf oder Mietvertrag; ein Antrag pro fünf Jahre."
+        ]
+      }
     }
   },
   {
@@ -6955,6 +8713,24 @@
           "Das ÖSHZ prüft Ihre Lage und zahlt die Prämie aus"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.liege.be/cpas/les-services/logement/aides-a-linstallation",
+      "conditions": {
+        "en": [
+          "You stop being homeless (street, temporary stay with others, prison, shelter, Red Cross or federal reception centre, ILA) by moving into a home in Liège that becomes your main residence."
+        ],
+        "nl": [
+          "Je bent niet langer dakloos (straat, tijdelijk bij anderen, gevangenis, opvanghuis, opvangcentrum van het Rode Kruis of Fedasil, LOI) doordat je een woning in Luik betrekt die je hoofdverblijfplaats wordt."
+        ],
+        "fr": [
+          "Vous perdez la qualité de sans-abri (rue, hébergement temporaire chez des connaissances, prison, maison d'accueil, centre Croix-Rouge ou fédéral, ILA) en occupant à Liège un logement qui devient votre résidence principale."
+        ],
+        "de": [
+          "Sie sind nicht mehr obdachlos (Straße, vorübergehend bei anderen, Gefängnis, Aufnahmehaus, Aufnahmezentrum des Roten Kreuzes oder des Bundes, LAI), weil Sie in Lüttich eine Wohnung beziehen, die Ihr Hauptwohnsitz wird."
+        ]
+      }
     }
   },
   {
@@ -7040,6 +8816,28 @@
           "Lassen Sie sich eine ärztliche Bescheinigung geben",
           "Füllen Sie das Antragsformular online oder auf Papier aus",
           "Reichen Sie es im Sociaal Huis ein (Kortrijksestraat 2, 056 73 70 11, sociaalhuis@kuurne.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.kuurne.be/sociaalhuis/producten/toelage-voor-specifieke-gezondheidszorgen",
+      "conditions": {
+        "en": [
+          "You are domiciled in Kuurne on 1 January of the year you apply and live at home, not permanently in a care home.",
+          "A doctor certifies incontinence or a stoma."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in Kuurne op 1 januari van het jaar van aanvraag en woont thuis, niet bestendig in een woonzorgcentrum.",
+          "Een arts attesteert incontinentie of een stoma."
+        ],
+        "fr": [
+          "Vous êtes domicilié(e) à Kuurne au 1er janvier de l'année de la demande et vivez à domicile, pas en permanence en maison de repos.",
+          "Un médecin atteste une incontinence ou une stomie."
+        ],
+        "de": [
+          "Sie sind am 1. Januar des Antragsjahres in Kuurne gemeldet und wohnen zu Hause, nicht dauerhaft in einem Pflegeheim.",
+          "Ein Arzt bescheinigt Inkontinenz oder ein Stoma."
         ]
       }
     }
@@ -7130,6 +8928,28 @@
           "Reichen Sie es bei der Stadt Harelbeke ein"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.harelbeke.be/producten/premie-voor-wasbare-luiers-incontinentiemateriaal",
+      "conditions": {
+        "en": [
+          "You have the invoice for the washable nappies (second-hand counts); the city refunds half, up to €200.",
+          "Other conditions are in the city regulation; check it before you buy."
+        ],
+        "nl": [
+          "Je hebt de factuur van de wasbare luiers (ook tweedehands); de stad betaalt de helft terug, tot € 200.",
+          "De andere voorwaarden staan in het stedelijk reglement; lees het vóór je koopt."
+        ],
+        "fr": [
+          "Vous avez la facture des langes lavables (seconde main comprise) ; la ville rembourse la moitié, jusqu'à 200 €.",
+          "Les autres conditions figurent dans le règlement communal ; consultez-le avant l'achat."
+        ],
+        "de": [
+          "Sie haben die Rechnung für die Stoffwindeln (auch gebraucht); die Stadt erstattet die Hälfte, bis 200 €.",
+          "Die übrigen Bedingungen stehen in der städtischen Regelung; lesen Sie sie vor dem Kauf."
+        ]
+      }
     }
   },
   {
@@ -7216,6 +9036,28 @@
           "Fordern Sie bei Ihrer Groeipakket-Kasse die Bescheinigung über den Pflegezuschlag an",
           "Füllen Sie das Online-Formular der Stadt aus",
           "Reichen Sie es vor dem 31. Januar ein; Zahlung spätestens am 1. Mai"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.harelbeke.be/huisvanwelzijn/zorgtoelage-tot-en-met-18-jaar",
+      "conditions": {
+        "en": [
+          "Your child is 18 or younger and lives in Harelbeke on 1 January of the year.",
+          "Your child receives the Groeipakket care supplement for children with a specific support need; apply before 31 January of the following year."
+        ],
+        "nl": [
+          "Je kind is maximum 18 jaar en woont op 1 januari van het jaar in Harelbeke.",
+          "Je kind heeft recht op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte van het Groeipakket; aanvragen vóór 31 januari van het volgende jaar."
+        ],
+        "fr": [
+          "Votre enfant a 18 ans au plus et habite à Harelbeke au 1er janvier de l'année.",
+          "Votre enfant reçoit le supplément de soins du Groeipakket pour enfants ayant un besoin de soutien spécifique ; demande avant le 31 janvier de l'année suivante."
+        ],
+        "de": [
+          "Ihr Kind ist höchstens 18 und wohnt am 1. Januar des Jahres in Harelbeke.",
+          "Ihr Kind erhält den Pflegezuschlag des Groeipakket für Kinder mit besonderem Unterstützungsbedarf; Antrag vor dem 31. Januar des Folgejahres."
         ]
       }
     }
@@ -7322,6 +9164,32 @@
           "Beantragen Sie wie auf leuven.be/huurpremie beschrieben"
         ]
       }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://leuven.be/huurpremie",
+      "conditions": {
+        "en": [
+          "You live in Leuven, are single or have at least one dependent child, and have been on the Dijledal social-housing waiting list for at least 1 year.",
+          "You rent privately in Leuven, received the housing company's letter, and your rent is at least €250 after the premium.",
+          "Not if you are entitled to the Flemish rent premium or rent subsidy."
+        ],
+        "nl": [
+          "Je woont in Leuven, bent alleenstaand of hebt minstens 1 kind ten laste, en staat minstens 1 jaar op de wachtlijst voor een sociale huurwoning bij Dijledal.",
+          "Je huurt privé in Leuven, kreeg de brief van de huisvestingsmaatschappij, en je huur is minstens € 250 na aftrek van de premie.",
+          "Niet als je recht hebt op de Vlaamse huurpremie of huursubsidie."
+        ],
+        "fr": [
+          "Vous habitez à Louvain, êtes isolé(e) ou avez au moins un enfant à charge, et êtes inscrit(e) depuis au moins 1 an sur la liste d'attente de Dijledal.",
+          "Vous louez dans le privé à Louvain, avez reçu la lettre de la société de logement, et votre loyer est d'au moins 250 € après la prime.",
+          "Pas si vous avez droit à la prime ou à l'allocation de loyer flamande."
+        ],
+        "de": [
+          "Sie wohnen in Löwen, sind alleinstehend oder haben mindestens ein unterhaltsberechtigtes Kind und stehen seit mindestens 1 Jahr auf der Warteliste von Dijledal.",
+          "Sie mieten privat in Löwen, haben das Schreiben der Wohnungsgesellschaft erhalten, und Ihre Miete beträgt nach der Prämie mindestens 250 €.",
+          "Nicht, wenn Sie Anspruch auf die flämische Mietprämie oder Mietbeihilfe haben."
+        ]
+      }
     }
   },
   {
@@ -7409,6 +9277,28 @@
           "Sie erhalten die Bescheinigung bei der Geburtsanmeldung (bei Geburt anderswo oder Adoption einige Monate später; Pflegeeltern bei Pleegzorg Vlaams-Brabant & Brussel)",
           "Wählen Sie Säcke, DifTar-Guthaben oder Windelprämie",
           "Holen Sie die Säcke ohne Termin im Stadtbüro ab oder beantragen Sie das DifTar-Guthaben online"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Oct 2026",
+      "source_url": "https://www.leuven.be/gratis-huisvuilzakken",
+      "conditions": {
+        "en": [
+          "You had a child, or adopted or took in foster care a child under 2.",
+          "You officially lived in Leuven at the birth or at the start of the adoption or foster care."
+        ],
+        "nl": [
+          "Je kreeg een kind, of adopteerde een kind jonger dan 2 of nam het in pleegzorg.",
+          "Je woonde officieel in Leuven bij de geboorte of de start van de adoptie of pleegzorg."
+        ],
+        "fr": [
+          "Vous avez eu un enfant, ou adopté ou accueilli en famille d'accueil un enfant de moins de 2 ans.",
+          "Vous habitiez officiellement à Louvain à la naissance ou au début de l'adoption ou de l'accueil."
+        ],
+        "de": [
+          "Sie haben ein Kind bekommen oder ein Kind unter 2 adoptiert oder in Pflege genommen.",
+          "Sie wohnten bei der Geburt oder zu Beginn der Adoption oder Pflege offiziell in Löwen."
         ]
       }
     }
