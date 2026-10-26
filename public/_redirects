@@ -1,4 +1,4 @@
-# Rewrites for the routes that are NOT prerendered (/:lang/benefits, /:lang/start/*) to the
+# Rewrites for the routes that are NOT prerendered (/:lang/benefits, /:lang/search, /:lang/start/*) to the
 # empty SPA shell, spa.html. Status 200 (a rewrite, not a redirect) so the URL is preserved.
 #
 # Keep these rules narrow. Cloudflare Pages applies _redirects BEFORE static files, so a
@@ -10,10 +10,14 @@
 # Any other unknown path falls through to Pages' built-in fallback, index.html (the home page),
 # and the app sends it on to the right language.
 /en/benefits  /spa  200
+/en/search  /spa  200
 /en/start/*  /spa  200
 /nl/benefits  /spa  200
+/nl/search  /spa  200
 /nl/start/*  /spa  200
 /fr/benefits  /spa  200
+/fr/search  /spa  200
 /fr/start/*  /spa  200
 /de/benefits  /spa  200
+/de/search  /spa  200
 /de/start/*  /spa  200

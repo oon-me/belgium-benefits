@@ -1,5 +1,6 @@
-import { NavLink, Outlet, useParams } from "react-router-dom";
-import { Home, PlusCircle } from "lucide-react";
+import { useEffect } from "react";
+import { NavLink, Outlet, useNavigate, useParams } from "react-router-dom";
+import { Home, PlusCircle, Search } from "lucide-react";
 import { c, bodyFont, displayFont } from "../theme.js";
 import { useT } from "../i18n.js";
 import LangSwitcher from "./LangSwitcher.jsx";
@@ -18,6 +19,33 @@ export default function Layout() {
   const { lang } = useParams();
   const t = useT(lang);
   const items = navItems(lang, t);
+  const navigate = useNavigate();
+
+  // "/" or Ctrl/Cmd+K opens search from anywhere, unless you are already typing somewhere.
+  useEffect(() => {
+    const onKey = (e) => {
+      const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName) || e.target.isContentEditable;
+      if ((e.key === "/" && !typing) || ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k")) {
+        e.preventDefault();
+        navigate(`/${lang}/search`);
+      }
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [lang, navigate]);
+
+  const searchButton = (
+    <NavLink
+      to={`/${lang}/search`}
+      aria-label={t("searchNav")}
+      title={`${t("searchNav")} (/)`}
+      className="inline-flex items-center justify-center gap-1.5 rounded-md p-2 md:px-3 md:py-1.5 text-sm font-medium"
+      style={({ isActive }) => ({ color: isActive ? c.gold : "#B7C4CE", background: isActive ? "rgba(184,134,59,0.12)" : "transparent" })}
+    >
+      <Search size={18} aria-hidden="true" />
+      <span className="hidden md:inline">{t("searchNav")}</span>
+    </NavLink>
+  );
 
   return (
     <div className="min-h-screen flex flex-col" style={{ background: c.paper, fontFamily: bodyFont }}>
@@ -46,11 +74,14 @@ export default function Layout() {
             ))}
           </nav>
 
-          <div className="hidden md:block">
-            <LangSwitcher />
-          </div>
-          <div className="md:hidden">
-            <LangSwitcher compact />
+          <div className="flex items-center gap-1 md:gap-3">
+            {searchButton}
+            <div className="hidden md:block">
+              <LangSwitcher />
+            </div>
+            <div className="md:hidden">
+              <LangSwitcher compact />
+            </div>
           </div>
         </div>
       </header>

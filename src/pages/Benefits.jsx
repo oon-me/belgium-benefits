@@ -7,6 +7,7 @@ import benefits from "../data/benefits.json";
 import { localTips } from "../data/local-tips.js";
 import { communeName, resolveCommune } from "../data/communes.js";
 import { filterBenefits } from "../lib/match.js";
+import { scoreBenefit } from "../lib/search.js";
 import { usePrefs } from "../lib/prefs.js";
 import BenefitCard from "../components/BenefitCard.jsx";
 import { usePageMeta } from "../lib/meta.js";
@@ -42,16 +43,18 @@ export default function Benefits() {
   };
 
   const communeLabel = communeName(commune, lang);
-  const items = filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund, status });
+  const matched = filterBenefits(benefits, { region, commune, category, situations: picked, query, fund, status });
+  // With a search word, the best matches come first.
+  const items = query ? [...matched].sort((x, y) => scoreBenefit(y, query).score - scoreBenefit(x, query).score) : matched;
   // What would match without the status rule: those benefits are named, not silently dropped,
   // so the person knows why they are missing and can read the official reason.
   const closedByStatus = status
-    ? filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund }).filter((b) => !items.includes(b))
+    ? filterBenefits(benefits, { region, commune, category, situations: picked, query, fund }).filter((b) => !matched.includes(b))
     : [];
   // Would any fund's own extras show up here if the person told us their fund?
   const fundExtrasHidden =
     !fund &&
-    healthFunds.some((f) => filterBenefits(benefits, { region, commune, category, situations: picked, query, lang, fund: f.id, status }).length > items.length);
+    healthFunds.some((f) => filterBenefits(benefits, { region, commune, category, situations: picked, query, fund: f.id, status }).length > items.length);
   const chooseFund = (value) => {
     setPrefs({ fund: value || null });
     setParam("fund", value || null);
@@ -167,13 +170,10 @@ export default function Benefits() {
         )}
 
         {fundExtrasHidden && (
-          <div className="rounded-xl p-3.5 mb-4 border flex flex-wrap items-center justify-between gap-2" style={{ borderColor: c.gold, background: "#F6EDDB" }}>
+          <div className="rounded-xl p-3.5 mb-4 border" style={{ borderColor: c.gold, background: "#F6EDDB" }}>
             <p className="text-xs" style={{ color: c.ink }}>
               🎁 {t("fundCallout")}
             </p>
-            <Link to={`/${lang}/health-funds`} className="text-xs font-semibold underline whitespace-nowrap" style={{ color: c.post }}>
-              {t("compareFunds")} →
-            </Link>
           </div>
         )}
 
