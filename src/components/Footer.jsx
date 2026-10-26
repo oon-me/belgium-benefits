@@ -21,9 +21,6 @@ export default function Footer() {
           <Link to={`/${lang}/all`} className="text-xs font-semibold" style={{ color: c.post }}>
             {t("allTitle")}
           </Link>
-          <Link to={`/${lang}/health-funds`} className="text-xs font-semibold" style={{ color: c.post }}>
-            {t("compareFunds")}
-          </Link>
           <Link to={`/${lang}/legal`} className="text-xs font-semibold" style={{ color: c.post }}>
             {t("footerLegal")}
           </Link>
