@@ -8,7 +8,7 @@ import { fileURLToPath } from "node:url";
 
 import benefits from "../src/data/benefits.json" with { type: "json" };
 import { LANGS, translations, getContent } from "../src/i18n.js";
-import { buildMeta } from "../src/lib/meta.js";
+import { buildMeta, homePath, homeAlternates } from "../src/lib/meta.js";
 import { benefitPath } from "../src/lib/slug.js";
 import { about } from "../src/content/about.js";
 import { render } from "../dist-ssr/entry-server.js";
@@ -76,7 +76,7 @@ const homeMeta = (lang, path) => ({
     home: true,
     description: translations[lang].sub0,
     path,
-    alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}`])),
+    alternates: homeAlternates(),
     xDefault: "/",
     origin: ORIGIN,
   }),
@@ -89,7 +89,7 @@ const homeMeta = (lang, path) => ({
 const routes = [{ url: "/", source: "/en", file: "index.html", meta: homeMeta("en", "/") }];
 for (const lang of LANGS) {
   const t = (k) => translations[lang][k] ?? translations.en[k];
-  routes.push({ url: `/${lang}`, meta: homeMeta(lang, `/${lang}`) });
+  routes.push({ url: `/${lang}`, meta: homeMeta(lang, homePath(lang)) });
   routes.push({
     url: `/${lang}/legal`,
     meta: buildMeta({
@@ -175,11 +175,20 @@ for (const route of routes) {
 
 // index.html is now the real home page, so the interactive routes (see public/_redirects) get
 // the untouched shell under its own name.
-await writeFile(join(root, "dist", "spa.html"), template, "utf8");
+// The shell serves personal and interactive pages (your results, search, the questions): nothing
+// there is worth a search listing, and without a commune /benefits redirects. noindex says so,
+// instead of leaving Google to report "Page with redirect".
+await writeFile(
+  join(root, "dist", "spa.html"),
+  template.replace("</head>", '  <meta name="robots" content="noindex" />\n  </head>'),
+  "utf8"
+);
 
 // sitemap.xml only makes sense with a real origin.
 if (ORIGIN) {
+  // Only canonical addresses belong in the sitemap (/en points to / and is left out).
   const urls = routes
+    .filter((r) => !r.meta.url || r.meta.url === ORIGIN + r.url)
     .map((r) => `  <url><loc>${esc(ORIGIN + r.url)}</loc></url>`)
     .join("\n");
   await writeFile(

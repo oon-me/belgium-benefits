@@ -10,6 +10,11 @@ export const SITE_URL = (import.meta.env?.VITE_SITE_URL || "").replace(/\/$/, ""
  * rendered into static HTML by scripts/prerender.mjs. One function, so the crawler's view and
  * the browser's view cannot drift apart.
  */
+// The language homes. English lives at the bare domain: Google merged /en into / (same page), so
+// / is the English home's one address, and /en points to it as canonical.
+export const homePath = (lang) => (lang === "en" ? "/" : `/${lang}`);
+export const homeAlternates = () => Object.fromEntries(LANGS.map((l) => [l, homePath(l)]));
+
 export function buildMeta({ lang, title, description, path, alternates, xDefault, home = false, origin = "" }) {
   // Home pages lead with the name, so a search for "Belgium Benefits" matches the start of the title.
   const fullTitle = !title ? "Belgium Benefits" : home ? `Belgium Benefits · ${title}` : `${title} · Belgium Benefits`;

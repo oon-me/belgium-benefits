@@ -1,9 +1,9 @@
 import { Link, useParams } from "react-router-dom";
 import { ChevronRight } from "lucide-react";
 import { c, displayFont } from "../theme.js";
-import { useT, translations, langOptions, LANGS } from "../i18n.js";
+import { useT, translations, langOptions } from "../i18n.js";
 import { loadPrefs, savePrefs } from "../lib/prefs.js";
-import { usePageMeta } from "../lib/meta.js";
+import { usePageMeta, homePath, homeAlternates } from "../lib/meta.js";
 import { communeName } from "../data/communes.js";
 
 export default function Landing() {
@@ -14,8 +14,8 @@ export default function Landing() {
     title: t("homeTitle"),
     home: true,
     description: t("sub0"),
-    path: `/${lang}`,
-    alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}`])),
+    path: homePath(lang),
+    alternates: homeAlternates(),
     xDefault: "/",
   });
   const prefs = loadPrefs();
