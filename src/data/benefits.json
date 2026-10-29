@@ -11123,5 +11123,1841 @@
         ]
       }
     }
+  },
+  {
+    "id": 87,
+    "category": "other",
+    "situations": [
+      "low-income",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Economie / SPF Économie · CREG",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://economie.fgov.be/nl/themas/energie/sociale-energie/sociaal-tarief-voor-energie",
+    "content": {
+      "en": {
+        "title": "Social Energy Tariff (Sociaal tarief voor energie)",
+        "desc": "A lower price for electricity, natural gas or heat for households where someone receives certain social benefits. The rate is the same throughout Belgium, whatever your supplier or grid operator. There are no fixed fees or meter rental in the social rate.",
+        "deadline": "Mostly applied automatically from the first day of the quarter in which you qualify, until 31 December, and renewed each year. With a paper certificate it can be applied up to 2 years back.",
+        "amount": "Social price set by the CREG each quarter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Only if it is not applied automatically: a paper certificate from the body that pays your benefit"
+          }
+        ],
+        "steps": [
+          "Check via the FOD Economie page (online check tool) whether you get it automatically, for which contract and for how long",
+          "Make sure your energy contract uses your name and address exactly as in the National Register",
+          "Not applied (for example your right started more than a quarter ago)? Ask the body paying your benefit for a paper certificate and send it to your supplier",
+          "Tenant of a social flat with collective heating? The building manager applies to the supplier"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal tarief voor energie",
+        "desc": "Een lagere prijs voor elektriciteit, aardgas of warmte voor gezinnen waarin iemand bepaalde sociale uitkeringen krijgt. Het tarief is overal in België hetzelfde, ongeacht je leverancier of netbeheerder. Het sociaal tarief bevat geen vaste kosten of meterhuur.",
+        "deadline": "Meestal automatisch, vanaf de eerste dag van het trimester waarin je recht krijgt, tot 31 december, en elk jaar opnieuw. Met een papieren attest kan het tot 2 jaar terugwerken.",
+        "amount": "Sociale prijs, elk trimester vastgelegd door de CREG",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Enkel als het niet automatisch gebeurt: een papieren attest van de instelling die je uitkering betaalt"
+          }
+        ],
+        "steps": [
+          "Controleer via de pagina van de FOD Economie (online controletool) of je het automatisch krijgt, voor welk contract en hoe lang",
+          "Zorg dat je energiecontract je naam en adres precies zo vermeldt als in het Rijksregister",
+          "Niet toegepast (bijvoorbeeld omdat je recht meer dan een trimester geleden begon)? Vraag een papieren attest aan de instelling die je uitkering betaalt en bezorg het aan je leverancier",
+          "Huurder van een sociaal appartement met collectieve verwarming? De beheerder van het gebouw vraagt het aan bij de leverancier"
+        ]
+      },
+      "fr": {
+        "title": "Tarif social pour l'énergie",
+        "desc": "Un prix plus bas pour l'électricité, le gaz naturel ou la chaleur pour les ménages dont un membre perçoit certaines allocations sociales. Le tarif est le même dans toute la Belgique, quel que soit votre fournisseur ou gestionnaire de réseau. Le tarif social ne comprend ni frais fixes ni location de compteur.",
+        "deadline": "Généralement automatique, à partir du premier jour du trimestre où vous y avez droit, jusqu'au 31 décembre, et renouvelé chaque année. Avec une attestation papier, il peut s'appliquer jusqu'à 2 ans en arrière.",
+        "amount": "Prix social fixé chaque trimestre par la CREG",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Seulement s'il n'est pas appliqué automatiquement : une attestation papier de l'organisme qui verse votre allocation"
+          }
+        ],
+        "steps": [
+          "Vérifiez via la page du SPF Économie (outil de vérification en ligne) si vous le recevez automatiquement, pour quel contrat et pour combien de temps",
+          "Veillez à ce que votre contrat d'énergie reprenne votre nom et votre adresse exactement comme au Registre national",
+          "Pas appliqué (par exemple si votre droit a commencé il y a plus d'un trimestre) ? Demandez une attestation papier à l'organisme qui verse votre allocation et envoyez-la à votre fournisseur",
+          "Locataire d'un appartement social avec chauffage collectif ? Le gestionnaire de l'immeuble en fait la demande auprès du fournisseur"
+        ]
+      },
+      "de": {
+        "title": "Sozialtarif für Energie",
+        "desc": "Ein günstigerer Preis für Strom, Erdgas oder Wärme für Haushalte, in denen jemand bestimmte Sozialleistungen erhält. Der Tarif ist in ganz Belgien gleich, unabhängig von Ihrem Lieferanten oder Netzbetreiber. Der Sozialtarif enthält keine Fixkosten oder Zählermiete.",
+        "deadline": "Meist automatisch, ab dem ersten Tag des Quartals, in dem Sie Anspruch haben, bis zum 31. Dezember, und jedes Jahr neu. Mit einer Papierbescheinigung kann er bis zu 2 Jahre rückwirkend gelten.",
+        "amount": "Sozialpreis, jedes Quartal von der CREG festgelegt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nur wenn er nicht automatisch angewendet wird: eine Papierbescheinigung der Stelle, die Ihre Leistung zahlt"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie über die Seite des FÖD Wirtschaft (Online-Prüftool), ob Sie ihn automatisch erhalten, für welchen Vertrag und wie lange",
+          "Achten Sie darauf, dass Ihr Energievertrag Ihren Namen und Ihre Adresse genau wie im Nationalregister nennt",
+          "Nicht angewendet (zum Beispiel weil Ihr Anspruch vor mehr als einem Quartal begann)? Fordern Sie eine Papierbescheinigung bei der zahlenden Stelle an und schicken Sie sie Ihrem Lieferanten",
+          "Mieter einer Sozialwohnung mit Sammelheizung? Der Verwalter des Gebäudes beantragt ihn beim Lieferanten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": [
+        "https://economie.fgov.be/nl/themas/energie/sociale-energie/sociaal-tarief-voor-energie",
+        "https://economie.fgov.be/nl/themas/energie/sociale-energie/sociaal-tarief-voor-energie/veelgestelde-vragen-over-het"
+      ],
+      "conditions": {
+        "en": [
+          "You are a residential customer buying energy for your own household, at your domicile address (not a second home).",
+          "You or someone domiciled with you receives e.g. leefloon or equivalent OCMW aid, the income guarantee for older people (IGO), a federal disability allowance (IVT, integration allowance, help from third parties), the Flemish care budget for older people or a regional allowance for help to the elderly.",
+          "Or you rent a social flat whose heating runs on a collective gas or heat installation.",
+          "The increased reimbursement (verhoogde tegemoetkoming) alone no longer gives the right (it did only until 30 June 2023)."
+        ],
+        "nl": [
+          "Je bent een residentiële klant die energie koopt voor je eigen gezin, op je domicilieadres (geen tweede verblijf).",
+          "Jij of iemand die bij jou gedomicilieerd is, krijgt bv. een leefloon of gelijkwaardige OCMW-steun, de inkomensgarantie voor ouderen (IGO), een federale tegemoetkoming voor personen met een handicap (IVT, integratietegemoetkoming, hulp van derden), het Vlaamse zorgbudget voor ouderen of een gewestelijke tegemoetkoming voor hulp aan bejaarden.",
+          "Of je huurt een sociaal appartement waarvan de verwarming op een collectieve aardgas- of warmte-installatie werkt.",
+          "De verhoogde tegemoetkoming alleen geeft geen recht meer (dat gold enkel tot 30 juni 2023)."
+        ],
+        "fr": [
+          "Vous êtes un client résidentiel qui achète de l'énergie pour votre propre ménage, à votre adresse de domicile (pas une seconde résidence).",
+          "Vous ou une personne domiciliée chez vous percevez par ex. le revenu d'intégration ou une aide équivalente du CPAS, la garantie de revenus aux personnes âgées (GRAPA), une allocation fédérale aux personnes handicapées (ARR, allocation d'intégration, aide d'une tierce personne), le budget de soins flamand pour personnes âgées ou une allocation régionale pour l'aide aux personnes âgées.",
+          "Ou vous louez un appartement social chauffé par une installation collective au gaz ou à la chaleur.",
+          "L'intervention majorée seule ne donne plus droit au tarif (ce n'était le cas que jusqu'au 30 juin 2023)."
+        ],
+        "de": [
+          "Sie sind Privatkunde und kaufen Energie für Ihren eigenen Haushalt, an Ihrer Wohnsitzadresse (kein Zweitwohnsitz).",
+          "Sie oder eine bei Ihnen gemeldete Person erhalten z. B. das Eingliederungseinkommen oder gleichwertige ÖSHZ-Hilfe, die Einkommensgarantie für Betagte (EGB), eine föderale Beihilfe für Personen mit Behinderung (Einkommensersatz-, Eingliederungsbeihilfe, Hilfe Dritter), das flämische Pflegebudget für Senioren oder eine regionale Beihilfe zur Unterstützung von Betagten.",
+          "Oder Sie mieten eine Sozialwohnung, deren Heizung über eine gemeinsame Gas- oder Wärmeanlage läuft.",
+          "Die erhöhte Kostenbeteiligung allein gibt kein Anrecht mehr (das galt nur bis zum 30. Juni 2023)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 88,
+    "category": "health",
+    "situations": [
+      "low-income",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/de-verhoogde-tegemoetkoming",
+    "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/verhoogde-tegemoetkoming-grensbedragen-van-de-inkomsten",
+    "content": {
+      "en": {
+        "title": "Increased Reimbursement for Health Care (Verhoogde tegemoetkoming)",
+        "desc": "Your health fund reimburses more, so consultations, medicines and hospital stays cost you less. You get it automatically with certain social benefits; otherwise you apply on the basis of your household income. 2026 income limits for one person: €28,054.93 (last year's income) or €29,236.66 (current income in special situations such as invalidity, pension or single parent, from 1 Sept 2026), plus €5,193.74 / €5,412.51 per extra household member.",
+        "deadline": "Automatic with certain benefits; otherwise apply at your health fund at any time. It applies straight away and your income is checked afterwards.",
+        "amount": "Lower personal share for your care",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "If you apply yourself: a statement of household income and your latest tax assessment (aanslagbiljet)"
+          }
+        ],
+        "steps": [
+          "Receiving leefloon, the IGO, a federal disability allowance or the Flemish care budget for older people? Your health fund grants it automatically",
+          "Otherwise ask your health fund to apply and fill in the declaration about your household income",
+          "Add the proof your health fund asks for, in particular your latest tax assessment",
+          "If you qualify it applies at once; the income you declared is checked afterwards"
+        ]
+      },
+      "nl": {
+        "title": "Verhoogde tegemoetkoming",
+        "desc": "Je ziekenfonds betaalt meer terug, zodat raadplegingen, geneesmiddelen en ziekenhuisopnames goedkoper zijn. Met bepaalde sociale uitkeringen krijg je ze automatisch; anders vraag je ze aan op basis van je gezinsinkomen. Inkomensgrenzen 2026 voor één persoon: €28.054,93 (inkomen vorig jaar) of €29.236,66 (huidig inkomen in bijzondere situaties zoals invaliditeit, pensioen of eenoudergezin, vanaf 1 sept. 2026), plus €5.193,74 / €5.412,51 per extra gezinslid.",
+        "deadline": "Automatisch bij bepaalde uitkeringen; anders op elk moment aan te vragen bij je ziekenfonds. Ze geldt meteen en je inkomen wordt nadien gecontroleerd.",
+        "amount": "Lager persoonlijk aandeel in je zorgkosten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Als je zelf aanvraagt: een verklaring over je gezinsinkomen en je laatste aanslagbiljet"
+          }
+        ],
+        "steps": [
+          "Krijg je een leefloon, de IGO, een federale tegemoetkoming voor personen met een handicap of het Vlaamse zorgbudget voor ouderen? Dan kent je ziekenfonds ze automatisch toe",
+          "Anders vraag je ze aan bij je ziekenfonds en vul je de verklaring over je gezinsinkomen in",
+          "Voeg de bewijzen toe die je ziekenfonds vraagt, vooral je laatste aanslagbiljet",
+          "Voldoe je aan de voorwaarden, dan geldt ze meteen; je aangegeven inkomen wordt nadien gecontroleerd"
+        ]
+      },
+      "fr": {
+        "title": "Intervention majorée",
+        "desc": "Votre mutualité rembourse davantage : consultations, médicaments et hospitalisations vous coûtent moins cher. Vous l'obtenez automatiquement avec certaines allocations sociales ; sinon, vous la demandez sur la base des revenus de votre ménage. Plafonds 2026 pour une personne : 28.054,93 € (revenus de l'année précédente) ou 29.236,66 € (revenus actuels dans des situations particulières comme l'invalidité, la pension ou une famille monoparentale, au 1er sept. 2026), plus 5.193,74 € / 5.412,51 € par membre supplémentaire du ménage.",
+        "deadline": "Automatique avec certaines allocations ; sinon à demander à tout moment auprès de votre mutualité. Elle s'applique immédiatement et vos revenus sont contrôlés ensuite.",
+        "amount": "Quote-part personnelle réduite pour vos soins",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Si vous faites la demande : une déclaration des revenus du ménage et votre dernier avertissement-extrait de rôle"
+          }
+        ],
+        "steps": [
+          "Vous percevez le revenu d'intégration, la GRAPA, une allocation fédérale aux personnes handicapées ou le budget de soins flamand pour personnes âgées ? Votre mutualité l'accorde automatiquement",
+          "Sinon, faites la demande à votre mutualité et remplissez la déclaration sur les revenus de votre ménage",
+          "Joignez les preuves demandées, en particulier votre dernier avertissement-extrait de rôle",
+          "Si vous remplissez les conditions, elle s'applique tout de suite ; vos revenus déclarés sont contrôlés ensuite"
+        ]
+      },
+      "de": {
+        "title": "Erhöhte Kostenbeteiligung",
+        "desc": "Ihre Krankenkasse erstattet mehr, sodass Arztbesuche, Medikamente und Krankenhausaufenthalte günstiger werden. Bei bestimmten Sozialleistungen erhalten Sie sie automatisch; sonst beantragen Sie sie aufgrund Ihres Haushaltseinkommens. Einkommensgrenzen 2026 für eine Person: 28.054,93 € (Einkommen des Vorjahres) oder 29.236,66 € (aktuelles Einkommen in besonderen Situationen wie Invalidität, Pension oder Alleinerziehende, ab 1. Sept. 2026), plus 5.193,74 € / 5.412,51 € pro weiterem Haushaltsmitglied.",
+        "deadline": "Automatisch bei bestimmten Leistungen; sonst jederzeit bei Ihrer Krankenkasse zu beantragen. Sie gilt sofort, Ihr Einkommen wird danach geprüft.",
+        "amount": "Geringerer Eigenanteil an Ihren Gesundheitskosten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Wenn Sie selbst beantragen: eine Erklärung zum Haushaltseinkommen und Ihr letzter Steuerbescheid"
+          }
+        ],
+        "steps": [
+          "Erhalten Sie das Eingliederungseinkommen, die EGB, eine föderale Beihilfe für Personen mit Behinderung oder das flämische Pflegebudget für Senioren? Dann gewährt Ihre Krankenkasse sie automatisch",
+          "Sonst beantragen Sie sie bei Ihrer Krankenkasse und füllen die Erklärung zum Haushaltseinkommen aus",
+          "Fügen Sie die verlangten Nachweise bei, vor allem Ihren letzten Steuerbescheid",
+          "Erfüllen Sie die Bedingungen, gilt sie sofort; Ihr angegebenes Einkommen wird danach geprüft"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/de-verhoogde-tegemoetkoming",
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/verhoogde-tegemoetkoming-grensbedragen-van-de-inkomsten"
+      ],
+      "conditions": {
+        "en": [
+          "Automatic with leefloon (received for 3 months), the income guarantee for older people, a federal disability allowance, the Flemish care budget for older people or the Walloon/Brussels allowance for help to the elderly.",
+          "Also automatic for a child with a recognised disability of at least 66%, an unaccompanied foreign minor, or an orphan who lost both parents.",
+          "Otherwise your gross taxable household income (including foreign income) must be below the yearly limit for your household size."
+        ],
+        "nl": [
+          "Automatisch met een leefloon (dat je 3 maanden krijgt), de inkomensgarantie voor ouderen, een federale tegemoetkoming voor personen met een handicap, het Vlaamse zorgbudget voor ouderen of de Waalse/Brusselse tegemoetkoming voor hulp aan bejaarden.",
+          "Ook automatisch voor een kind met een erkende handicap van minstens 66%, een niet-begeleide minderjarige vreemdeling, of een wees die beide ouders verloor.",
+          "Anders moet je bruto belastbaar gezinsinkomen (ook buitenlands inkomen) onder het jaarlijkse grensbedrag voor je gezinsgrootte liggen."
+        ],
+        "fr": [
+          "Automatique avec le revenu d'intégration (perçu depuis 3 mois), la garantie de revenus aux personnes âgées, une allocation fédérale aux personnes handicapées, le budget de soins flamand pour personnes âgées ou l'allocation wallonne/bruxelloise pour l'aide aux personnes âgées.",
+          "Aussi automatique pour un enfant atteint d'un handicap reconnu d'au moins 66 %, un mineur étranger non accompagné, ou un orphelin de père et de mère.",
+          "Sinon, les revenus bruts imposables de votre ménage (revenus étrangers compris) doivent être inférieurs au plafond annuel pour la taille de votre ménage."
+        ],
+        "de": [
+          "Automatisch mit dem Eingliederungseinkommen (seit 3 Monaten bezogen), der Einkommensgarantie für Betagte, einer föderalen Beihilfe für Personen mit Behinderung, dem flämischen Pflegebudget für Senioren oder der wallonischen/Brüsseler Beihilfe zur Unterstützung von Betagten.",
+          "Ebenfalls automatisch für ein Kind mit anerkannter Behinderung von mindestens 66 %, einen unbegleiteten minderjährigen Ausländer oder ein Vollwaisenkind.",
+          "Sonst muss Ihr steuerpflichtiges Bruttohaushaltseinkommen (auch aus dem Ausland) unter der Jahresgrenze für Ihre Haushaltsgröße liegen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 89,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/de-maximumfactuur-maf",
+    "amount_source_url": [
+      "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/types-van-maximumfactuur-maf",
+      "https://www.riziv.fgov.be/SiteCollectionDocuments/maximumfactuur-inkomensschijven-plafonds.docx"
+    ],
+    "content": {
+      "en": {
+        "title": "Maximum Bill for Medical Costs (Maximumfactuur, MAF)",
+        "desc": "A yearly ceiling on what your household pays itself for reimbursed health care. Once your household's personal shares reach the ceiling, your health fund refunds everything above it. The ceiling depends on net household income; it is €548.55 with increased reimbursement, €792.35 per child under 19, and €121.90 lower if someone is chronically ill.",
+        "deadline": "Automatic for each calendar year; refunds are paid monthly once the ceiling is reached (for the income MAF usually from early summer).",
+        "amount": "Everything above your yearly ceiling refunded (2026: €270.60 to €2,194.20)",
+        "requirements": [],
+        "steps": [
+          "Nothing to apply for: your health fund keeps track of the personal shares of everyone in your household",
+          "When the household reaches its ceiling, the health fund refunds further personal shares automatically every month",
+          "You receive a certificate with the first MAF payment",
+          "Income dropped sharply (e.g. long-term unemployment or incapacity)? Ask your health fund to review your ceiling on your current income"
+        ]
+      },
+      "nl": {
+        "title": "Maximumfactuur (MAF)",
+        "desc": "Een jaarlijks plafond op wat je gezin zelf betaalt voor terugbetaalde gezondheidszorg. Bereiken de persoonlijke aandelen van je gezin dat plafond, dan betaalt je ziekenfonds alles daarboven terug. Het plafond hangt af van het netto gezinsinkomen; het is €548,55 met verhoogde tegemoetkoming, €792,35 per kind jonger dan 19, en €121,90 lager bij een chronisch zieke.",
+        "deadline": "Automatisch per kalenderjaar; de terugbetaling gebeurt maandelijks zodra het plafond bereikt is (voor de inkomens-MAF meestal vanaf het begin van de zomer).",
+        "amount": "Alles boven je jaarplafond terugbetaald (2026: €270,60 tot €2.194,20)",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: je ziekenfonds houdt de persoonlijke aandelen van al je gezinsleden bij",
+          "Bereikt je gezin zijn plafond, dan betaalt het ziekenfonds de volgende persoonlijke aandelen automatisch elke maand terug",
+          "Bij de eerste MAF-terugbetaling krijg je een attest",
+          "Is je inkomen sterk gedaald (bv. door langdurige werkloosheid of arbeidsongeschiktheid)? Vraag je ziekenfonds je plafond te herbekijken op basis van je huidige inkomen"
+        ]
+      },
+      "fr": {
+        "title": "Maximum à facturer (MAF)",
+        "desc": "Un plafond annuel sur ce que votre ménage paie lui-même pour les soins remboursés. Dès que les quotes-parts personnelles du ménage atteignent ce plafond, votre mutualité rembourse tout ce qui dépasse. Le plafond dépend des revenus nets du ménage ; il est de 548,55 € avec intervention majorée, de 792,35 € par enfant de moins de 19 ans, et 121,90 € plus bas en cas de maladie chronique.",
+        "deadline": "Automatique par année civile ; les remboursements sont versés chaque mois dès que le plafond est atteint (pour le MAF revenus, généralement à partir du début de l'été).",
+        "amount": "Tout ce qui dépasse votre plafond annuel remboursé (2026 : de 270,60 € à 2.194,20 €)",
+        "requirements": [],
+        "steps": [
+          "Rien à demander : votre mutualité suit les quotes-parts personnelles de tous les membres de votre ménage",
+          "Quand le ménage atteint son plafond, la mutualité rembourse automatiquement chaque mois les quotes-parts suivantes",
+          "Vous recevez une attestation avec le premier remboursement MAF",
+          "Vos revenus ont fortement baissé (par ex. chômage ou incapacité de longue durée) ? Demandez à votre mutualité de revoir votre plafond sur vos revenus actuels"
+        ]
+      },
+      "de": {
+        "title": "Höchstbetrag der Gesundheitskosten (Maximale Gesundheitsrechnung, MAF)",
+        "desc": "Eine jährliche Obergrenze für das, was Ihr Haushalt selbst für erstattete Gesundheitsleistungen zahlt. Erreichen die Eigenanteile Ihres Haushalts diese Grenze, erstattet Ihre Krankenkasse alles darüber. Die Obergrenze hängt vom Nettohaushaltseinkommen ab; sie beträgt 548,55 € mit erhöhter Kostenbeteiligung, 792,35 € pro Kind unter 19 und liegt 121,90 € niedriger bei chronischer Krankheit.",
+        "deadline": "Automatisch für jedes Kalenderjahr; Erstattungen erfolgen monatlich, sobald die Grenze erreicht ist (beim Einkommens-MAF meist ab Frühsommer).",
+        "amount": "Alles über Ihrer Jahresobergrenze erstattet (2026: 270,60 € bis 2.194,20 €)",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: Ihre Krankenkasse verfolgt die Eigenanteile aller Haushaltsmitglieder",
+          "Erreicht der Haushalt seine Obergrenze, erstattet die Krankenkasse weitere Eigenanteile automatisch jeden Monat",
+          "Mit der ersten MAF-Erstattung erhalten Sie eine Bescheinigung",
+          "Ist Ihr Einkommen stark gesunken (z. B. durch Langzeitarbeitslosigkeit oder Arbeitsunfähigkeit)? Bitten Sie Ihre Krankenkasse, Ihre Grenze nach Ihrem aktuellen Einkommen zu überprüfen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/de-maximumfactuur-maf",
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/types-van-maximumfactuur-maf"
+      ],
+      "conditions": {
+        "en": [
+          "Every household insured with a Belgian health fund qualifies for the income MAF; the household is everyone living at the same official address on 1 January.",
+          "Counted: personal shares for doctors, dentists, physiotherapists, nurses, reimbursed medicines, technical procedures and hospital day prices.",
+          "The social MAF requires the increased reimbursement; the child MAF applies to children under 19."
+        ],
+        "nl": [
+          "Elk gezin dat bij een Belgisch ziekenfonds verzekerd is, komt in aanmerking voor de inkomens-MAF; het gezin is iedereen die op 1 januari op hetzelfde officiële adres woont.",
+          "Wat meetelt: persoonlijke aandelen voor artsen, tandartsen, kinesitherapeuten, verpleegkundigen, terugbetaalde geneesmiddelen, technische prestaties en de ligdagprijs in het ziekenhuis.",
+          "Voor de sociale MAF heb je de verhoogde tegemoetkoming nodig; de MAF voor kinderen geldt voor kinderen jonger dan 19."
+        ],
+        "fr": [
+          "Tout ménage assuré auprès d'une mutualité belge a droit au MAF revenus ; le ménage regroupe toutes les personnes vivant à la même adresse officielle au 1er janvier.",
+          "Sont comptées : les quotes-parts pour médecins, dentistes, kinésithérapeutes, infirmiers, médicaments remboursés, prestations techniques et prix de journée à l'hôpital.",
+          "Le MAF social nécessite l'intervention majorée ; le MAF enfant s'applique aux enfants de moins de 19 ans."
+        ],
+        "de": [
+          "Jeder bei einer belgischen Krankenkasse versicherte Haushalt hat Anrecht auf den Einkommens-MAF; zum Haushalt zählen alle, die am 1. Januar an derselben offiziellen Adresse wohnen.",
+          "Berücksichtigt werden: Eigenanteile für Ärzte, Zahnärzte, Physiotherapeuten, Pflegekräfte, erstattete Medikamente, technische Leistungen und den Tagespreis im Krankenhaus.",
+          "Der soziale MAF setzt die erhöhte Kostenbeteiligung voraus; der Kinder-MAF gilt für Kinder unter 19."
+        ]
+      }
+    }
+  },
+  {
+    "id": 90,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "DG Personen met een Handicap (FOD Sociale Zekerheid)",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://handicap.belgium.be/nl/tegemoetkomingen/inkomensvervangende-tegemoetkoming",
+    "request_url": {
+      "nl": "https://handicap.belgium.be/nl/myhandicap",
+      "fr": "https://handicap.belgium.be/fr/myhandicap",
+      "de": "https://handicap.belgium.be/de/myhandicap"
+    },
+    "content": {
+      "en": {
+        "title": "Income Replacement Allowance for People with a Disability (Inkomensvervangende tegemoetkoming, IVT)",
+        "desc": "A federal monthly allowance if your disability reduces what you can earn. It replaces the income you would have if you had no disability.",
+        "deadline": "Apply any time between 18 and 66 (younger if you are or were married, have a dependent child, or became disabled after child benefit stopped); paid monthly once recognised.",
+        "amount": "Depends on your household category (A, B or C) and your household's taxable income — use the official simulator on handicap.belgium.be for an estimate",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + reader (for the My Handicap portal)"
+          },
+          {
+            "type": "id",
+            "label": "Belgian National Registry number"
+          },
+          {
+            "type": "doc",
+            "label": "Your doctor's details and bank account number"
+          }
+        ],
+        "steps": [
+          "Log in to My Handicap (handicap.belgium.be) with itsme or your eID",
+          "In 'Mijn dossier', choose 'Tegemoetkoming aanvragen + Handicap vaststellen' — the same form covers the integration allowance",
+          "Give as many concrete examples as possible of how your disability affects your daily life and work",
+          "A doctor or evaluator of the DG assesses your earning capacity; your health fund, commune or OCMW can help you apply"
+        ]
+      },
+      "nl": {
+        "title": "Inkomensvervangende tegemoetkoming (IVT)",
+        "desc": "Een federale maandelijkse tegemoetkoming als je handicap je verdienvermogen vermindert. Ze vervangt het inkomen dat je zou hebben zonder handicap.",
+        "deadline": "Aan te vragen op elk moment tussen 18 en 66 jaar (jonger als je gehuwd bent of was, een kind ten laste hebt, of je handicap kreeg nadat de kinderbijslag stopte); maandelijks uitbetaald na erkenning.",
+        "amount": "Hangt af van je gezinscategorie (A, B of C) en het belastbaar inkomen van je gezin — gebruik de officiële simulatietool op handicap.belgium.be voor een schatting",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer (voor het portaal My Handicap)"
+          },
+          {
+            "type": "id",
+            "label": "Belgisch rijksregisternummer"
+          },
+          {
+            "type": "doc",
+            "label": "Gegevens van je behandelend arts en je rekeningnummer"
+          }
+        ],
+        "steps": [
+          "Log in op My Handicap (handicap.belgium.be) met itsme of je eID",
+          "Kies in 'Mijn dossier' voor 'Tegemoetkoming aanvragen + Handicap vaststellen' — hetzelfde formulier geldt voor de integratietegemoetkoming",
+          "Geef zoveel mogelijk concrete voorbeelden van de impact van je handicap op je dagelijks leven en werk",
+          "Een arts of evaluator van de DG beoordeelt je verdienvermogen; je ziekenfonds, gemeente of OCMW kan je helpen met de aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Allocation de remplacement de revenus (ARR)",
+        "desc": "Une allocation fédérale mensuelle si votre handicap réduit votre capacité de gain. Elle remplace le revenu que vous auriez sans handicap.",
+        "deadline": "À demander à tout moment entre 18 et 66 ans (plus jeune si vous êtes ou avez été marié(e), avez un enfant à charge, ou êtes devenu(e) handicapé(e) après la fin des allocations familiales) ; versée chaque mois après reconnaissance.",
+        "amount": "Dépend de votre catégorie familiale (A, B ou C) et des revenus imposables du ménage — utilisez le simulateur officiel sur handicap.belgium.be pour une estimation",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "Carte eID belge + lecteur (pour le portail My Handicap)"
+          },
+          {
+            "type": "id",
+            "label": "Numéro de registre national belge"
+          },
+          {
+            "type": "doc",
+            "label": "Coordonnées de votre médecin et numéro de compte bancaire"
+          }
+        ],
+        "steps": [
+          "Connectez-vous à My Handicap (handicap.belgium.be) avec itsme ou votre eID",
+          "Dans « Mon dossier », choisissez la demande d'allocation et de reconnaissance du handicap — le même formulaire vaut pour l'allocation d'intégration",
+          "Donnez un maximum d'exemples concrets de l'impact de votre handicap sur votre vie quotidienne et votre travail",
+          "Un médecin ou évaluateur de la DG évalue votre capacité de gain ; votre mutualité, commune ou CPAS peut vous aider à introduire la demande"
+        ]
+      },
+      "de": {
+        "title": "Einkommensersatzbeihilfe (EEB)",
+        "desc": "Eine föderale monatliche Beihilfe, wenn Ihre Behinderung Ihre Erwerbsfähigkeit mindert. Sie ersetzt das Einkommen, das Sie ohne Behinderung hätten.",
+        "deadline": "Jederzeit zwischen 18 und 66 Jahren zu beantragen (jünger, wenn Sie verheiratet sind oder waren, ein Kind zu Lasten haben oder die Behinderung nach Ende des Kindergelds eintrat); monatlich nach Anerkennung gezahlt.",
+        "amount": "Hängt von Ihrer Haushaltskategorie (A, B oder C) und dem steuerpflichtigen Haushaltseinkommen ab — nutzen Sie den offiziellen Simulator auf handicap.belgium.be für eine Schätzung",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-Karte + Lesegerät (für das Portal My Handicap)"
+          },
+          {
+            "type": "id",
+            "label": "Belgische Nationalregisternummer"
+          },
+          {
+            "type": "doc",
+            "label": "Angaben zu Ihrem behandelnden Arzt und Ihre Kontonummer"
+          }
+        ],
+        "steps": [
+          "Melden Sie sich bei My Handicap (handicap.belgium.be) mit itsme oder Ihrer eID an",
+          "Wählen Sie unter „Mijn dossier“ den Antrag auf Beihilfe und Feststellung der Behinderung — dasselbe Formular gilt für die Eingliederungsbeihilfe",
+          "Nennen Sie möglichst viele konkrete Beispiele dafür, wie Ihre Behinderung Alltag und Arbeit beeinflusst",
+          "Ein Arzt oder Gutachter der GD bewertet Ihre Erwerbsfähigkeit; Krankenkasse, Gemeinde oder ÖSHZ helfen beim Antrag"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://handicap.belgium.be/nl/tegemoetkomingen/inkomensvervangende-tegemoetkoming",
+      "conditions": {
+        "en": [
+          "You are 18 to 66 (younger in some cases), registered in the population register, domiciled and actually living in Belgium.",
+          "Because of your disability you cannot work, or can earn at most 1/3 of what someone without a disability earns on the regular labour market.",
+          "Nationality: Belgian, EU citizen, refugee, subsidiary protection, stateless, or another group listed on the page; household income within the limits."
+        ],
+        "nl": [
+          "Je bent 18 tot 66 jaar (in sommige gevallen jonger), ingeschreven in het bevolkingsregister, gedomicilieerd en werkelijk verblijvend in België.",
+          "Door je handicap kun je niet werken, of kun je hooguit 1/3 verdienen van wat iemand zonder handicap op de reguliere arbeidsmarkt verdient.",
+          "Nationaliteit: Belg, EU-burger, vluchteling, subsidiair beschermde, staatloze, of een andere groep op de pagina; gezinsinkomen binnen de grenzen."
+        ],
+        "fr": [
+          "Vous avez entre 18 et 66 ans (plus jeune dans certains cas), êtes inscrit(e) au registre de la population, domicilié(e) et résidant effectivement en Belgique.",
+          "En raison de votre handicap, vous ne pouvez pas travailler, ou pouvez gagner au maximum 1/3 de ce que gagne une personne valide sur le marché général du travail.",
+          "Nationalité : belge, citoyen de l'UE, réfugié, protection subsidiaire, apatride, ou un autre groupe repris sur la page ; revenus du ménage dans les plafonds."
+        ],
+        "de": [
+          "Sie sind 18 bis 66 Jahre alt (in manchen Fällen jünger), im Bevölkerungsregister eingetragen, in Belgien gemeldet und wohnen tatsächlich dort.",
+          "Wegen Ihrer Behinderung können Sie nicht arbeiten oder höchstens 1/3 dessen verdienen, was eine Person ohne Behinderung auf dem regulären Arbeitsmarkt verdient.",
+          "Staatsangehörigkeit: Belgier, EU-Bürger, Flüchtling, subsidiär Schutzberechtigter, Staatenloser oder eine andere Gruppe auf der Seite; Haushaltseinkommen innerhalb der Grenzen."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: you must be in the population register, and a temporary study permit puts you in the foreigners' register.",
+            "nl": "Niet voor jou: je moet in het bevolkingsregister staan, en met een tijdelijke verblijfsvergunning voor studies sta je in het vreemdelingenregister.",
+            "fr": "Pas accessible : il faut être inscrit(e) au registre de la population, et un titre de séjour temporaire pour études vous inscrit au registre des étrangers.",
+            "de": "Nicht für Sie: Sie müssen im Bevölkerungsregister stehen, und eine vorübergehende Aufenthaltserlaubnis zum Studium führt ins Fremdenregister."
+          }
+        },
+        "non-eu": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Only if you are in the population register, or are a refugee, stateless or under subsidiary protection (or in another group listed on the page).",
+            "nl": "Enkel als je in het bevolkingsregister staat, of vluchteling, staatloze of subsidiair beschermde bent (of in een andere groep op de pagina).",
+            "fr": "Uniquement si vous êtes inscrit(e) au registre de la population, ou réfugié(e), apatride ou sous protection subsidiaire (ou dans un autre groupe repris sur la page).",
+            "de": "Nur wenn Sie im Bevölkerungsregister stehen oder Flüchtling, Staatenloser oder subsidiär Schutzberechtigter sind (oder zu einer anderen Gruppe auf der Seite gehören)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 91,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Federale Pensioendienst / Service fédéral des Pensions",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/igo",
+    "request_url": "https://www.mypension.be/nl/mylegalpension/myrequest",
+    "content": {
+      "en": {
+        "title": "Income Guarantee for Older People (Inkomensgarantie voor ouderen, IGO)",
+        "desc": "A monthly payment for people who have reached the legal pension age and do not have enough resources. It tops your income up to a guaranteed amount.",
+        "deadline": "Examined automatically when you apply for a pension at legal pension age, or reach that age while receiving a pension, a disability allowance or leefloon; otherwise apply yourself. Paid at the earliest from the month after you reach pension age, or the month after you apply.",
+        "amount": "Up to €1,644.28 a month living alone, €1,096.18 living with others",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "eID or itsme to apply on mypension.be — or apply at your commune"
+          }
+        ],
+        "steps": [
+          "Applying for a pension, or already receiving one from the Pension Service? The IGO is examined automatically",
+          "Otherwise apply on mypension.be, through the Pension Line (+32 225 17 65) or at your commune",
+          "The Pension Service examines all resources of you and your partner: pensions, income, property and savings",
+          "While you receive the IGO, stay in Belgium: at most 29 days abroad a year, and report stays of more than 5 days beforehand"
+        ]
+      },
+      "nl": {
+        "title": "Inkomensgarantie voor ouderen (IGO)",
+        "desc": "Een maandelijkse uitkering voor wie de wettelijke pensioenleeftijd bereikt heeft en niet over voldoende bestaansmiddelen beschikt. Ze vult je inkomen aan tot een gewaarborgd bedrag.",
+        "deadline": "Wordt automatisch onderzocht als je je pensioen aanvraagt op de wettelijke pensioenleeftijd, of die leeftijd bereikt met een pensioen, een tegemoetkoming voor personen met een handicap of een leefloon; anders vraag je ze zelf aan. Uitbetaling ten vroegste vanaf de maand na je wettelijke pensioenleeftijd, of de maand na je aanvraag.",
+        "amount": "Tot €1.644,28 per maand als alleenstaande, €1.096,18 als samenwonende",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "eID of itsme om aan te vragen op mypension.be — of vraag aan bij je gemeente"
+          }
+        ],
+        "steps": [
+          "Vraag je je pensioen aan of krijg je al een pensioen van de Pensioendienst? Dan wordt de IGO automatisch onderzocht",
+          "Anders vraag je ze aan op mypension.be, via de Pensioenlijn (+32 225 17 65) of bij je gemeente",
+          "De Pensioendienst onderzoekt alle bestaansmiddelen van jou en je partner: pensioenen, inkomsten, eigendommen en spaargeld",
+          "Zolang je de IGO krijgt, blijf je in België: hooguit 29 dagen per jaar in het buitenland, en verblijven van meer dan 5 dagen meld je vooraf"
+        ]
+      },
+      "fr": {
+        "title": "Garantie de revenus aux personnes âgées (GRAPA)",
+        "desc": "Une allocation mensuelle pour les personnes qui ont atteint l'âge légal de la pension et ne disposent pas de ressources suffisantes. Elle complète vos revenus jusqu'à un montant garanti.",
+        "deadline": "Examinée automatiquement si vous demandez votre pension à l'âge légal, ou atteignez cet âge en percevant une pension, une allocation aux personnes handicapées ou le revenu d'intégration ; sinon, faites la demande vous-même. Versée au plus tôt le mois qui suit l'âge légal de la pension, ou le mois qui suit votre demande.",
+        "amount": "Jusqu'à 1.644,28 € par mois si vous vivez seul(e), 1.096,18 € en cohabitation",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "eID ou itsme pour la demande sur mypension.be — ou demandez à votre commune"
+          }
+        ],
+        "steps": [
+          "Vous demandez votre pension ou en percevez déjà une du Service des Pensions ? La GRAPA est examinée automatiquement",
+          "Sinon, faites la demande sur mypension.be, via la Ligne Pension (+32 225 17 65) ou à votre commune",
+          "Le Service des Pensions examine toutes vos ressources et celles de votre partenaire : pensions, revenus, biens et épargne",
+          "Pendant la GRAPA, restez en Belgique : 29 jours maximum par an à l'étranger, et signalez à l'avance tout séjour de plus de 5 jours"
+        ]
+      },
+      "de": {
+        "title": "Einkommensgarantie für Betagte (EGB)",
+        "desc": "Eine monatliche Leistung für Menschen, die das gesetzliche Pensionsalter erreicht haben und nicht über genügend Existenzmittel verfügen. Sie ergänzt Ihr Einkommen bis zu einem garantierten Betrag.",
+        "deadline": "Wird automatisch geprüft, wenn Sie Ihre Pension zum gesetzlichen Pensionsalter beantragen oder dieses Alter mit einer Pension, einer Behindertenbeihilfe oder dem Eingliederungseinkommen erreichen; sonst beantragen Sie sie selbst. Zahlung frühestens ab dem Monat nach Erreichen des Pensionsalters oder nach Ihrem Antrag.",
+        "amount": "Bis zu 1.644,28 € pro Monat allein lebend, 1.096,18 € zusammenwohnend",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "eID oder itsme für den Antrag auf mypension.be — oder Antrag bei Ihrer Gemeinde"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie Ihre Pension oder erhalten Sie bereits eine vom Pensionsdienst? Dann wird die EGB automatisch geprüft",
+          "Sonst beantragen Sie sie auf mypension.be, über die Pensionslinie (+32 225 17 65) oder bei Ihrer Gemeinde",
+          "Der Pensionsdienst prüft alle Existenzmittel von Ihnen und Ihrem Partner: Pensionen, Einkommen, Eigentum und Ersparnisse",
+          "Solange Sie die EGB erhalten, bleiben Sie in Belgien: höchstens 29 Tage pro Jahr im Ausland, Aufenthalte von mehr als 5 Tagen melden Sie vorher"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/igo",
+      "conditions": {
+        "en": [
+          "You have reached the legal pension age.",
+          "Your monthly resources are below €1,644.28 (living alone) or €1,096.18 (living with others), after an extensive means test of you and your partner.",
+          "You are Belgian or in an assimilated situation (e.g. covered by EU Regulation 883/2004, refugee, subsidiary protection, stateless).",
+          "Your main residence is in Belgium and you actually live there without interruption."
+        ],
+        "nl": [
+          "Je hebt de wettelijke pensioenleeftijd bereikt.",
+          "Je bestaansmiddelen liggen onder €1.644,28 (alleenstaand) of €1.096,18 (samenwonend) per maand, na een uitgebreid onderzoek van jou en je partner.",
+          "Je bent Belg of in een gelijkgestelde situatie (bv. onder EU-verordening 883/2004, vluchteling, subsidiair beschermde, staatloze).",
+          "Je hoofdverblijfplaats is in België en je verblijft er werkelijk en zonder onderbreking."
+        ],
+        "fr": [
+          "Vous avez atteint l'âge légal de la pension.",
+          "Vos ressources mensuelles sont inférieures à 1.644,28 € (isolé) ou 1.096,18 € (cohabitant), après une enquête approfondie sur vous et votre partenaire.",
+          "Vous êtes belge ou dans une situation assimilée (par ex. relevant du règlement UE 883/2004, réfugié, protection subsidiaire, apatride).",
+          "Votre résidence principale est en Belgique et vous y séjournez effectivement et sans interruption."
+        ],
+        "de": [
+          "Sie haben das gesetzliche Pensionsalter erreicht.",
+          "Ihre monatlichen Existenzmittel liegen unter 1.644,28 € (alleinstehend) oder 1.096,18 € (zusammenwohnend), nach einer umfassenden Prüfung bei Ihnen und Ihrem Partner.",
+          "Sie sind Belgier oder in einer gleichgestellten Situation (z. B. unter EU-Verordnung 883/2004, Flüchtling, subsidiär Schutzberechtigter, Staatenloser).",
+          "Ihr Hauptwohnsitz ist in Belgien und Sie halten sich dort tatsächlich und ununterbrochen auf."
+        ]
+      },
+      "statuses": {
+        "non-eu": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Only if you are a refugee, under subsidiary protection or stateless, or if you have a right to a Belgian pension and are a long-term resident or have worked at least 312 full-time days in Belgium.",
+            "nl": "Enkel als je vluchteling, subsidiair beschermde of staatloze bent, of als je recht hebt op een Belgisch pensioen én langdurig ingezetene bent of minstens 312 voltijdse dagen in België gewerkt hebt.",
+            "fr": "Uniquement si vous êtes réfugié(e), sous protection subsidiaire ou apatride, ou si vous avez droit à une pension belge et êtes résident(e) de longue durée ou avez travaillé au moins 312 jours à temps plein en Belgique.",
+            "de": "Nur wenn Sie Flüchtling, subsidiär Schutzberechtigter oder staatenlos sind, oder Anspruch auf eine belgische Pension haben und langfristig aufenthaltsberechtigt sind oder mindestens 312 Vollzeittage in Belgien gearbeitet haben."
+          }
+        },
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Only if you are a refugee, under subsidiary protection or stateless, or if you have a right to a Belgian pension and are a long-term resident or have worked at least 312 full-time days in Belgium.",
+            "nl": "Enkel als je vluchteling, subsidiair beschermde of staatloze bent, of als je recht hebt op een Belgisch pensioen én langdurig ingezetene bent of minstens 312 voltijdse dagen in België gewerkt hebt.",
+            "fr": "Uniquement si vous êtes réfugié(e), sous protection subsidiaire ou apatride, ou si vous avez droit à une pension belge et êtes résident(e) de longue durée ou avez travaillé au moins 312 jours à temps plein en Belgique.",
+            "de": "Nur wenn Sie Flüchtling, subsidiär Schutzberechtigter oder staatenlos sind, oder Anspruch auf eine belgische Pension haben und langfristig aufenthaltsberechtigt sind oder mindestens 312 Vollzeittage in Belgien gearbeitet haben."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 92,
+    "category": "health",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tandzorg-kinderen-onder-19-jaar",
+    "content": {
+      "en": {
+        "title": "Free Dental Care for Children under 19",
+        "desc": "Your health fund fully reimburses basic dental care for children under 19: check-ups, fillings, root canal treatment and extractions. At a dentist who charges the official rates, it is completely free. Braces are only partly reimbursed; crowns, bridges and most implants are not.",
+        "deadline": "Until the child's 19th birthday; the twice-yearly preventive check-up with cleaning until 18, then a yearly check-up and scaling until 19.",
+        "amount": "Free basic dental care at a conventioned dentist",
+        "requirements": [],
+        "steps": [
+          "Check that the dentist is conventioned: RIZIV's 'Een zorgverlener zoeken' tool, your health fund, or ask the dentist",
+          "If the dentist uses the third-party payment system, you pay nothing for reimbursed care",
+          "Otherwise pay the dentist and hand in the care certificate (getuigschrift): your health fund refunds the basic care in full"
+        ]
+      },
+      "nl": {
+        "title": "Gratis tandzorg voor kinderen onder 19 jaar",
+        "desc": "Je ziekenfonds betaalt de basistandzorg voor kinderen onder 19 jaar volledig terug: mondonderzoek, vullingen, zenuwbehandelingen en tanden trekken. Bij een tandarts die de officiële tarieven volgt, is ze dus helemaal gratis. Beugels worden maar gedeeltelijk terugbetaald; kronen, bruggen en de meeste implantaten niet.",
+        "deadline": "Tot de 19de verjaardag; het halfjaarlijkse preventieve mondonderzoek met reiniging tot 18 jaar, daarna een jaarlijks mondonderzoek en tandsteen verwijderen tot 19.",
+        "amount": "Gratis basistandzorg bij een geconventioneerde tandarts",
+        "requirements": [],
+        "steps": [
+          "Ga na of de tandarts geconventioneerd is: via de RIZIV-toepassing 'Een zorgverlener zoeken', je ziekenfonds of de tandarts zelf",
+          "Werkt de tandarts met de derdebetalersregeling, dan betaal je niets voor terugbetaalde zorg",
+          "Anders betaal je de tandarts en bezorg je het getuigschrift aan je ziekenfonds, dat de basiszorg volledig terugbetaalt"
+        ]
+      },
+      "fr": {
+        "title": "Soins dentaires gratuits pour les enfants de moins de 19 ans",
+        "desc": "Votre mutualité rembourse intégralement les soins dentaires de base des enfants de moins de 19 ans : examens buccaux, obturations, traitements de racine et extractions. Chez un dentiste qui respecte les tarifs officiels, ils sont donc entièrement gratuits. Les appareils orthodontiques ne sont remboursés qu'en partie ; couronnes, bridges et la plupart des implants ne le sont pas.",
+        "deadline": "Jusqu'au 19e anniversaire ; l'examen préventif semestriel avec nettoyage jusqu'à 18 ans, puis un examen annuel et le détartrage jusqu'à 19 ans.",
+        "amount": "Soins dentaires de base gratuits chez un dentiste conventionné",
+        "requirements": [],
+        "steps": [
+          "Vérifiez si le dentiste est conventionné : via l'outil de l'INAMI « Rechercher un dispensateur de soins », votre mutualité ou le dentiste lui-même",
+          "Si le dentiste applique le tiers payant, vous ne payez rien pour les soins remboursés",
+          "Sinon, payez le dentiste et remettez l'attestation de soins à votre mutualité, qui rembourse intégralement les soins de base"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Zahnpflege für Kinder unter 19 Jahren",
+        "desc": "Ihre Krankenkasse erstattet die zahnärztliche Grundversorgung von Kindern unter 19 Jahren vollständig: Untersuchungen, Füllungen, Wurzelbehandlungen und Zahnziehen. Bei einem Zahnarzt, der die offiziellen Tarife einhält, ist sie völlig kostenlos. Zahnspangen werden nur teilweise erstattet; Kronen, Brücken und die meisten Implantate nicht.",
+        "deadline": "Bis zum 19. Geburtstag; die halbjährliche Vorsorgeuntersuchung mit Reinigung bis 18, danach eine jährliche Untersuchung und Zahnsteinentfernung bis 19.",
+        "amount": "Kostenlose zahnärztliche Grundversorgung bei einem konventionierten Zahnarzt",
+        "requirements": [],
+        "steps": [
+          "Prüfen Sie, ob der Zahnarzt konventioniert ist: über das LIKIV-Suchtool für Gesundheitsdienstleister, Ihre Krankenkasse oder den Zahnarzt selbst",
+          "Wendet der Zahnarzt das Drittzahlersystem an, zahlen Sie für erstattete Leistungen nichts",
+          "Sonst bezahlen Sie den Zahnarzt und reichen die Behandlungsbescheinigung bei Ihrer Krankenkasse ein, die die Grundversorgung voll erstattet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tandzorg-kinderen-onder-19-jaar",
+      "conditions": {
+        "en": [
+          "The child is under 19 and covered by a Belgian health fund.",
+          "Fully free only at a conventioned dentist; a non-conventioned dentist may charge a supplement."
+        ],
+        "nl": [
+          "Het kind is jonger dan 19 en gedekt door een Belgisch ziekenfonds.",
+          "Volledig gratis enkel bij een geconventioneerde tandarts; een niet-geconventioneerde tandarts kan een supplement aanrekenen."
+        ],
+        "fr": [
+          "L'enfant a moins de 19 ans et est couvert par une mutualité belge.",
+          "Entièrement gratuit uniquement chez un dentiste conventionné ; un dentiste non conventionné peut demander un supplément."
+        ],
+        "de": [
+          "Das Kind ist unter 19 und über eine belgische Krankenkasse versichert.",
+          "Völlig kostenlos nur bei einem konventionierten Zahnarzt; ein nicht konventionierter Zahnarzt kann einen Zuschlag berechnen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 93,
+    "category": "health",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/nieuws/het-riziv-vergoedt-doktersbezoek-volledig-voor-financieel-kwetsbare-kinderen-en-jongeren",
+    "content": {
+      "en": {
+        "title": "Free Doctor Visits for Young People with Increased Reimbursement",
+        "desc": "Children and young people up to and including 24 who have the increased reimbursement and a global medical file (GMD) pay nothing for consultations and home visits by a conventioned GP or specialist. Night, weekend and holiday supplements are included; a non-conventioned doctor may still charge supplements.",
+        "deadline": "In force since 1 October 2023; applies as long as the young person is 24 or younger and keeps the increased reimbursement.",
+        "amount": "€0 per visit at a conventioned doctor",
+        "requirements": [],
+        "steps": [
+          "Make sure the child or young person has the increased reimbursement at the health fund",
+          "Ask the GP to open a global medical file (GMD) — it is free",
+          "Go to a conventioned GP or specialist; GPs must apply the third-party payment system, so you advance nothing"
+        ]
+      },
+      "nl": {
+        "title": "Gratis doktersbezoek voor jongeren met verhoogde tegemoetkoming",
+        "desc": "Kinderen en jongeren tot en met 24 jaar met een verhoogde tegemoetkoming en een globaal medisch dossier (GMD) betalen niets voor raadplegingen en huisbezoeken bij een geconventioneerde huisarts of specialist. Supplementen 's nachts, in het weekend en op feestdagen zijn inbegrepen; een niet-geconventioneerde arts kan wel supplementen aanrekenen.",
+        "deadline": "Van kracht sinds 1 oktober 2023; geldt zolang de jongere 24 jaar of jonger is en de verhoogde tegemoetkoming heeft.",
+        "amount": "€0 per bezoek bij een geconventioneerde arts",
+        "requirements": [],
+        "steps": [
+          "Zorg dat het kind of de jongere de verhoogde tegemoetkoming heeft bij het ziekenfonds",
+          "Vraag de huisarts een globaal medisch dossier (GMD) te openen — dat is gratis",
+          "Ga naar een geconventioneerde huisarts of specialist; huisartsen moeten de derdebetalersregeling toepassen, zodat je niets voorschiet"
+        ]
+      },
+      "fr": {
+        "title": "Consultations médicales gratuites pour les jeunes bénéficiant de l'intervention majorée",
+        "desc": "Les enfants et jeunes jusqu'à 24 ans inclus qui ont l'intervention majorée et un dossier médical global (DMG) ne paient rien pour les consultations et visites à domicile d'un généraliste ou spécialiste conventionné. Les suppléments de nuit, de week-end et de jours fériés sont compris ; un médecin non conventionné peut encore demander des suppléments.",
+        "deadline": "En vigueur depuis le 1er octobre 2023 ; s'applique tant que le jeune a 24 ans ou moins et conserve l'intervention majorée.",
+        "amount": "0 € par consultation chez un médecin conventionné",
+        "requirements": [],
+        "steps": [
+          "Vérifiez que l'enfant ou le jeune a l'intervention majorée auprès de la mutualité",
+          "Demandez au généraliste d'ouvrir un dossier médical global (DMG) — c'est gratuit",
+          "Consultez un généraliste ou spécialiste conventionné ; les généralistes doivent appliquer le tiers payant, vous n'avancez donc rien"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Arztbesuche für junge Menschen mit erhöhter Kostenbeteiligung",
+        "desc": "Kinder und junge Menschen bis einschließlich 24 Jahre mit erhöhter Kostenbeteiligung und einer globalen medizinischen Akte (GMA) zahlen nichts für Sprechstunden und Hausbesuche bei einem konventionierten Hausarzt oder Facharzt. Nacht-, Wochenend- und Feiertagszuschläge sind inbegriffen; ein nicht konventionierter Arzt kann dennoch Zuschläge berechnen.",
+        "deadline": "Gilt seit dem 1. Oktober 2023, solange die junge Person 24 oder jünger ist und die erhöhte Kostenbeteiligung hat.",
+        "amount": "0 € pro Besuch bei einem konventionierten Arzt",
+        "requirements": [],
+        "steps": [
+          "Sorgen Sie dafür, dass das Kind oder die junge Person die erhöhte Kostenbeteiligung bei der Krankenkasse hat",
+          "Bitten Sie den Hausarzt, eine globale medizinische Akte (GMA) anzulegen — das ist kostenlos",
+          "Gehen Sie zu einem konventionierten Haus- oder Facharzt; Hausärzte müssen das Drittzahlersystem anwenden, Sie strecken also nichts vor"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/nieuws/het-riziv-vergoedt-doktersbezoek-volledig-voor-financieel-kwetsbare-kinderen-en-jongeren",
+      "conditions": {
+        "en": [
+          "The child or young person is 24 or younger.",
+          "They are entitled to the increased reimbursement (verhoogde tegemoetkoming).",
+          "They have a global medical file (GMD) with their GP; fully free only at a conventioned doctor."
+        ],
+        "nl": [
+          "Het kind of de jongere is 24 jaar of jonger.",
+          "Het heeft recht op de verhoogde tegemoetkoming.",
+          "Het heeft een globaal medisch dossier (GMD) bij de huisarts; volledig gratis enkel bij een geconventioneerde arts."
+        ],
+        "fr": [
+          "L'enfant ou le jeune a 24 ans ou moins.",
+          "Il a droit à l'intervention majorée.",
+          "Il a un dossier médical global (DMG) chez son généraliste ; entièrement gratuit uniquement chez un médecin conventionné."
+        ],
+        "de": [
+          "Das Kind oder die junge Person ist 24 oder jünger.",
+          "Es besteht Anspruch auf die erhöhte Kostenbeteiligung.",
+          "Es gibt eine globale medizinische Akte (GMA) beim Hausarzt; völlig kostenlos nur bei einem konventionierten Arzt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 94,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RIZIV-INAMI · netwerken geestelijke gezondheid / réseaux de santé mentale",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+    "request_url": "https://webappsa.riziv-inami.fgov.be/silverpages/Psychologist/",
+    "content": {
+      "en": {
+        "title": "Reimbursed Psychological Care (Eerstelijns psychologische zorg)",
+        "desc": "Sessions with a clinical psychologist or orthopedagogue who works with a mental health network are largely paid for by the health insurance. For people with psychological vulnerability or mild to moderate problems. From 24 the first individual session is free; group sessions are free or €2.50.",
+        "deadline": "Per 12 months — adults: up to 8 individual support sessions, or on average 8 (max 20) treatment sessions; up to 23: 10 support sessions or on average 10 (max 20) treatment sessions. Group sessions unlimited.",
+        "amount": "Free up to 23; from 24 €11 a session (€4 with increased reimbursement)",
+        "requirements": [],
+        "steps": [
+          "Find a conventioned clinical psychologist or orthopedagogue via the RIZIV search tool, which leads to your mental health network",
+          "Make an appointment — no referral is needed for support sessions or group sessions",
+          "For treatment sessions the psychologist first draws up a functional assessment after the first session",
+          "You pay only the personal share; the rest is settled directly with your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Eerstelijns psychologische zorg (terugbetaald)",
+        "desc": "Sessies bij een klinisch psycholoog of orthopedagoog die samenwerkt met een netwerk voor geestelijke gezondheid worden grotendeels betaald door de ziekteverzekering. Voor mensen met een psychische kwetsbaarheid of lichte tot matige problemen. Vanaf 24 jaar is de eerste individuele sessie gratis; groepssessies zijn gratis of €2,50.",
+        "deadline": "Per 12 maanden — volwassenen: maximaal 8 individuele ondersteuningssessies, of gemiddeld 8 (max. 20) behandelsessies; tot 23 jaar: 10 ondersteuningssessies of gemiddeld 10 (max. 20) behandelsessies. Groepssessies onbeperkt.",
+        "amount": "Gratis tot 23 jaar; vanaf 24 €11 per sessie (€4 met verhoogde tegemoetkoming)",
+        "requirements": [],
+        "steps": [
+          "Zoek een geconventioneerde klinisch psycholoog of orthopedagoog via de zoekmachine van het RIZIV, die je doorverwijst naar je netwerk voor geestelijke gezondheid",
+          "Maak een afspraak — voor ondersteuningssessies en groepssessies heb je geen voorschrift nodig",
+          "Voor behandelsessies stelt de psycholoog na de eerste sessie eerst een functioneel bilan op",
+          "Je betaalt enkel het persoonlijk aandeel; de rest wordt rechtstreeks met je ziekenfonds geregeld"
+        ]
+      },
+      "fr": {
+        "title": "Soins psychologiques de première ligne (remboursés)",
+        "desc": "Les séances chez un psychologue clinicien ou orthopédagogue clinicien conventionné avec un réseau de santé mentale sont en grande partie prises en charge par l'assurance soins de santé. Pour les personnes en situation de vulnérabilité psychique ou ayant des problèmes légers à modérés. Dès 24 ans, la première séance individuelle est gratuite ; les séances de groupe sont gratuites ou à 2,50 €.",
+        "deadline": "Par période de 12 mois — adultes : jusqu'à 8 séances individuelles de soutien, ou en moyenne 8 (max. 20) séances de traitement ; jusqu'à 23 ans : 10 séances de soutien ou en moyenne 10 (max. 20) séances de traitement. Séances de groupe illimitées.",
+        "amount": "Gratuit jusqu'à 23 ans ; dès 24 ans 11 € la séance (4 € avec intervention majorée)",
+        "requirements": [],
+        "steps": [
+          "Trouvez un psychologue ou orthopédagogue clinicien conventionné via le moteur de recherche de l'INAMI, qui vous renvoie vers votre réseau de santé mentale",
+          "Prenez rendez-vous — aucune prescription n'est nécessaire pour les séances de soutien ou de groupe",
+          "Pour les séances de traitement, le psychologue établit d'abord un bilan fonctionnel après la première séance",
+          "Vous ne payez que la quote-part personnelle ; le reste est réglé directement avec votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Erstattete psychologische Erstversorgung",
+        "desc": "Sitzungen bei einem klinischen Psychologen oder Orthopädagogen, der mit einem Netzwerk für psychische Gesundheit zusammenarbeitet, werden größtenteils von der Krankenversicherung bezahlt. Für Menschen mit psychischer Verletzlichkeit oder leichten bis mittelschweren Problemen. Ab 24 ist die erste Einzelsitzung kostenlos; Gruppensitzungen sind kostenlos oder kosten 2,50 €.",
+        "deadline": "Pro 12 Monate — Erwachsene: bis zu 8 Einzelsitzungen zur Unterstützung oder durchschnittlich 8 (max. 20) Behandlungssitzungen; bis 23 Jahre: 10 Unterstützungs- oder durchschnittlich 10 (max. 20) Behandlungssitzungen. Gruppensitzungen unbegrenzt.",
+        "amount": "Bis 23 kostenlos; ab 24 11 € pro Sitzung (4 € mit erhöhter Kostenbeteiligung)",
+        "requirements": [],
+        "steps": [
+          "Suchen Sie über die Suchmaschine des LIKIV einen konventionierten klinischen Psychologen oder Orthopädagogen; sie leitet Sie zu Ihrem Netzwerk für psychische Gesundheit",
+          "Vereinbaren Sie einen Termin — für Unterstützungs- und Gruppensitzungen ist keine Überweisung nötig",
+          "Für Behandlungssitzungen erstellt der Psychologe nach der ersten Sitzung zunächst eine funktionelle Bilanz",
+          "Sie zahlen nur den Eigenanteil; der Rest wird direkt mit Ihrer Krankenkasse abgerechnet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/eerstelijns-psychologische-zorg-in-een-netwerk-voor-geestelijke-gezondheid",
+      "conditions": {
+        "en": [
+          "For children, young people and adults with psychological vulnerability or mild to moderate problems; the psychologist decides at the first contact whether you are in the target group.",
+          "Only with a clinical psychologist or orthopedagogue who has an agreement with a mental health network; their reimbursed hours are limited.",
+          "Networks for children and adolescents (up to 23) and for adults (from 15)."
+        ],
+        "nl": [
+          "Voor kinderen, jongeren en volwassenen met een psychische kwetsbaarheid of lichte tot matige problemen; de psycholoog beslist bij het eerste contact of je tot de doelgroep behoort.",
+          "Enkel bij een klinisch psycholoog of orthopedagoog met een overeenkomst met een netwerk voor geestelijke gezondheid; hun vergoede uren zijn beperkt.",
+          "Netwerken voor kinderen en adolescenten (tot en met 23 jaar) en voor volwassenen (vanaf 15 jaar)."
+        ],
+        "fr": [
+          "Pour les enfants, jeunes et adultes en situation de vulnérabilité psychique ou ayant des problèmes légers à modérés ; le psychologue décide au premier contact si vous faites partie du groupe cible.",
+          "Uniquement chez un psychologue ou orthopédagogue clinicien ayant une convention avec un réseau de santé mentale ; ses heures remboursées sont limitées.",
+          "Réseaux pour enfants et adolescents (jusqu'à 23 ans) et pour adultes (à partir de 15 ans)."
+        ],
+        "de": [
+          "Für Kinder, Jugendliche und Erwachsene mit psychischer Verletzlichkeit oder leichten bis mittelschweren Problemen; der Psychologe entscheidet beim ersten Kontakt, ob Sie zur Zielgruppe gehören.",
+          "Nur bei einem klinischen Psychologen oder Orthopädagogen mit Vereinbarung mit einem Netzwerk für psychische Gesundheit; dessen erstattete Stunden sind begrenzt.",
+          "Netzwerke für Kinder und Jugendliche (bis 23) und für Erwachsene (ab 15)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 95,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Zorgkas (Vlaamse Sociale Bescherming) / Departement Zorg",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.departementzorg.be/nl/zorgbudget-voor-ouderen-met-een-zorgnood",
+    "request_url": "https://www.vlaamsesocialebescherming.be/ezbo",
+    "content": {
+      "en": {
+        "title": "Care Budget for Older People with Care Needs (Zorgbudget voor ouderen met een zorgnood)",
+        "desc": "A tax-free monthly budget from the Flemish social protection for people aged 66 and over with a limited income whose health problems affect daily life. It replaces the former allowance for help to the elderly. The amount depends on your care category (1 to 5) and income, and is indexed.",
+        "deadline": "Apply from your 66th birthday. The decision usually takes 3 to 4 months; you are entitled from the month after your application.",
+        "amount": "€112 to €754 a month, tax-free",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Belgian eID card + card reader + PIN"
+          },
+          {
+            "type": "doc",
+            "label": "Your bank account number"
+          }
+        ],
+        "steps": [
+          "Apply online at vlaamsesocialebescherming.be/ezbo — or get help from your health fund's social service, the OCMW or your commune",
+          "Your zorgkas checks your income and requests an assessment of your reduced self-reliance (at home with the BelRAI Screener since 1 March 2026)",
+          "You receive the decision by letter, usually within 3 to 4 months",
+          "The budget is paid monthly; report changes in your income or health to your zorgkas"
+        ]
+      },
+      "nl": {
+        "title": "Zorgbudget voor ouderen met een zorgnood",
+        "desc": "Een onbelast maandelijks zorgbudget van de Vlaamse sociale bescherming voor 66-plussers met een beperkt inkomen en gezondheidsproblemen die hun dagelijks leven beïnvloeden. Vroeger heette dit de tegemoetkoming voor hulp aan bejaarden. Het bedrag hangt af van je zorgcategorie (1 tot 5) en je inkomen, en wordt geïndexeerd.",
+        "deadline": "Aan te vragen vanaf je 66ste verjaardag. De beslissing duurt meestal 3 à 4 maanden; je hebt recht vanaf de maand na je aanvraag.",
+        "amount": "€112 tot €754 per maand, onbelast",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer + pincode"
+          },
+          {
+            "type": "doc",
+            "label": "Je rekeningnummer"
+          }
+        ],
+        "steps": [
+          "Vraag online aan via vlaamsesocialebescherming.be/ezbo — of vraag hulp aan de dienst maatschappelijk werk van je ziekenfonds, het OCMW of je gemeente",
+          "Je zorgkas controleert je inkomen en vraagt een onderzoek van je verminderde zelfredzaamheid aan (thuis sinds 1 maart 2026 met de BelRAI Screener)",
+          "Je krijgt de beslissing per brief, meestal binnen 3 à 4 maanden",
+          "Het zorgbudget wordt maandelijks betaald; meld wijzigingen in inkomen of gezondheid aan je zorgkas"
+        ]
+      },
+      "fr": {
+        "title": "Budget de soins pour personnes âgées en besoin de soins (Zorgbudget voor ouderen)",
+        "desc": "Un budget mensuel non imposable de la protection sociale flamande pour les personnes de 66 ans et plus aux revenus limités dont les problèmes de santé affectent la vie quotidienne. Il remplace l'ancienne allocation pour l'aide aux personnes âgées. Le montant dépend de votre catégorie de soins (1 à 5) et de vos revenus, et il est indexé.",
+        "deadline": "À demander dès votre 66e anniversaire. La décision prend généralement 3 à 4 mois ; le droit commence le mois qui suit votre demande.",
+        "amount": "De 112 € à 754 € par mois, non imposable",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Carte eID belge + lecteur de carte + code PIN"
+          },
+          {
+            "type": "doc",
+            "label": "Votre numéro de compte bancaire"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne sur vlaamsesocialebescherming.be/ezbo — ou demandez l'aide du service social de votre mutualité, du CPAS ou de votre commune",
+          "Votre zorgkas vérifie vos revenus et demande une évaluation de votre perte d'autonomie (à domicile avec le BelRAI Screener depuis le 1er mars 2026)",
+          "Vous recevez la décision par courrier, généralement dans les 3 à 4 mois",
+          "Le budget est versé chaque mois ; signalez à votre zorgkas tout changement de revenus ou de santé"
+        ]
+      },
+      "de": {
+        "title": "Pflegebudget für Senioren mit Pflegebedarf (Zorgbudget voor ouderen)",
+        "desc": "Ein steuerfreies monatliches Budget des flämischen Sozialschutzes für Menschen ab 66 Jahren mit begrenztem Einkommen, deren Gesundheitsprobleme den Alltag beeinträchtigen. Es ersetzt die frühere Beihilfe zur Unterstützung von Betagten. Der Betrag hängt von Ihrer Pflegekategorie (1 bis 5) und Ihrem Einkommen ab und wird indexiert.",
+        "deadline": "Ab dem 66. Geburtstag zu beantragen. Die Entscheidung dauert meist 3 bis 4 Monate; der Anspruch beginnt im Monat nach dem Antrag.",
+        "amount": "112 € bis 754 € pro Monat, steuerfrei",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Belgische eID-Karte + Kartenlesegerät + PIN"
+          },
+          {
+            "type": "doc",
+            "label": "Ihre Kontonummer"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie es online auf vlaamsesocialebescherming.be/ezbo — oder lassen Sie sich vom Sozialdienst Ihrer Krankenkasse, dem ÖSHZ oder Ihrer Gemeinde helfen",
+          "Ihre Pflegekasse prüft Ihr Einkommen und lässt Ihre verminderte Selbstständigkeit bewerten (zu Hause seit 1. März 2026 mit dem BelRAI Screener)",
+          "Sie erhalten die Entscheidung per Brief, meist innerhalb von 3 bis 4 Monaten",
+          "Das Budget wird monatlich gezahlt; melden Sie Änderungen bei Einkommen oder Gesundheit Ihrer Pflegekasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.departementzorg.be/nl/zorgbudget-voor-ouderen-met-een-zorgnood",
+      "conditions": {
+        "en": [
+          "You are at least 66 and affiliated with a Flemish zorgkas (from age 26 you pay the yearly care premium).",
+          "For at least 5 consecutive calendar years you lived in Flanders or Brussels (population or foreigners' register) or were socially insured in the EU, EEA or Switzerland on 1 January.",
+          "Your health problem reduces your self-reliance and your household income (including savings and property) stays under the limits.",
+          "It cannot be combined with the IVT or the integration allowance; Brussels residents apply to Iriscare instead."
+        ],
+        "nl": [
+          "Je bent minstens 66 jaar en aangesloten bij een Vlaamse zorgkas (vanaf 26 jaar betaal je de jaarlijkse zorgpremie).",
+          "Je woonde minstens 5 opeenvolgende kalenderjaren in Vlaanderen of Brussel (bevolkings- of vreemdelingenregister) of was op 1 januari sociaal verzekerd in de EU, de EER of Zwitserland.",
+          "Je gezondheidsprobleem vermindert je zelfredzaamheid en je gezinsinkomen (ook spaargeld en eigendommen) blijft onder de grenzen.",
+          "Niet te combineren met een IVT of integratietegemoetkoming; inwoners van Brussel vragen aan bij Iriscare."
+        ],
+        "fr": [
+          "Vous avez au moins 66 ans et êtes affilié(e) à une zorgkas flamande (à partir de 26 ans, vous payez la prime de soins annuelle).",
+          "Pendant au moins 5 années civiles consécutives, vous avez habité en Flandre ou à Bruxelles (registre de la population ou des étrangers) ou étiez assuré(e) social(e) dans l'UE, l'EEE ou en Suisse au 1er janvier.",
+          "Votre problème de santé réduit votre autonomie et les revenus du ménage (épargne et biens compris) restent sous les plafonds.",
+          "Non cumulable avec l'ARR ou l'allocation d'intégration ; les Bruxellois s'adressent à Iriscare."
+        ],
+        "de": [
+          "Sie sind mindestens 66 und bei einer flämischen Pflegekasse angeschlossen (ab 26 zahlen Sie die jährliche Pflegeprämie).",
+          "Mindestens 5 aufeinanderfolgende Kalenderjahre wohnten Sie in Flandern oder Brüssel (Bevölkerungs- oder Fremdenregister) oder waren am 1. Januar in der EU, im EWR oder in der Schweiz sozialversichert.",
+          "Ihr Gesundheitsproblem mindert Ihre Selbstständigkeit und Ihr Haushaltseinkommen (auch Ersparnisse und Eigentum) bleibt unter den Grenzen.",
+          "Nicht mit der Einkommensersatz- oder Eingliederungsbeihilfe kombinierbar; Einwohner Brüssels wenden sich an Iriscare."
+        ]
+      }
+    }
+  },
+  {
+    "id": 96,
+    "category": "housing",
+    "situations": [
+      "renting",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse overheid – Wonen in Vlaanderen",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/tegemoetkoming-in-de-huurprijs-vlaamse-huursubsidie",
+    "amount_source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/tegemoetkoming-in-de-huurprijs-vlaamse-huursubsidie/bedrag-van-de-vlaamse-huursubsidie",
+    "request_url": "https://formulieren-wonen.vlaanderen.be",
+    "content": {
+      "en": {
+        "title": "Flemish Rent Subsidy (Vlaamse huursubsidie)",
+        "desc": "A monthly contribution to your rent if you have a modest income and move to a good private rental after being homeless, or from a poor-quality or unsuitable home. In some communes up to €206.91 + €34.48 per dependant (up to the 4th); you also get a one-off installation premium of 3 × the monthly amount.",
+        "deadline": "Apply within 9 months of the start of your new lease (the right starts at most 2 months before your application). Paid for up to 9 years; no limit from 65 or with a serious disability.",
+        "amount": "Up to €188.10 a month + €31.35 per dependant (2026)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + reader"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the lease in your name"
+          }
+        ],
+        "steps": [
+          "Move first and make sure you are registered at your new address",
+          "Log in at formulieren-wonen.vlaanderen.be with eID or itsme and click 'Start aanvraag huursubsidie' (a paper form also exists)",
+          "Upload your lease and, if relevant, proof of co-parenting or a recognised disability; every adult in the household confirms and submits",
+          "Wonen in Vlaanderen may inspect the home, decides within 3 months and 10 days, and pays the first time within 4 months"
+        ]
+      },
+      "nl": {
+        "title": "Vlaamse huursubsidie (tegemoetkoming in de huurprijs)",
+        "desc": "Een maandelijkse tegemoetkoming in je huur als je een bescheiden inkomen hebt en verhuist naar een goede private huurwoning nadat je dakloos was, of vanuit een slechte of onaangepaste woning. In sommige gemeenten tot €206,91 + €34,48 per persoon ten laste (tot de 4de); je krijgt ook een eenmalige installatiepremie van 3 × het maandbedrag.",
+        "deadline": "Aan te vragen binnen 9 maanden na de start van je nieuwe huurcontract (het recht start ten vroegste 2 maanden vóór je aanvraag). Maximaal 9 jaar; zonder limiet vanaf 65 jaar of met een ernstige handicap.",
+        "amount": "Tot €188,10 per maand + €31,35 per persoon ten laste (2026)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van het huurcontract op jouw naam"
+          }
+        ],
+        "steps": [
+          "Verhuis eerst en zorg dat je officieel op je nieuwe adres ingeschreven bent",
+          "Log in op formulieren-wonen.vlaanderen.be met eID of itsme en klik op 'Start aanvraag huursubsidie' (er is ook een papieren formulier)",
+          "Laad je huurcontract op en eventueel een bewijs van co-ouderschap of erkende handicap; elke meerderjarige in het gezin bevestigt en dient in",
+          "Wonen in Vlaanderen kan de woning controleren, beslist binnen 3 maanden en 10 dagen, en betaalt de eerste keer binnen 4 maanden"
+        ]
+      },
+      "fr": {
+        "title": "Allocation-loyer flamande (Vlaamse huursubsidie)",
+        "desc": "Une intervention mensuelle dans votre loyer si vous avez un revenu modeste et emménagez dans un bon logement locatif privé après avoir été sans abri, ou en quittant un logement de mauvaise qualité ou inadapté. Dans certaines communes jusqu'à 206,91 € + 34,48 € par personne à charge (jusqu'à la 4e) ; vous recevez aussi une prime d'installation unique de 3 × le montant mensuel.",
+        "deadline": "À demander dans les 9 mois suivant le début de votre nouveau bail (le droit commence au plus tôt 2 mois avant la demande). Pendant 9 ans maximum ; sans limite à partir de 65 ans ou en cas de handicap grave.",
+        "amount": "Jusqu'à 188,10 € par mois + 31,35 € par personne à charge (2026)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "Carte eID belge + lecteur"
+          },
+          {
+            "type": "doc",
+            "label": "Copie du bail à votre nom"
+          }
+        ],
+        "steps": [
+          "Déménagez d'abord et veillez à être inscrit(e) à votre nouvelle adresse",
+          "Connectez-vous sur formulieren-wonen.vlaanderen.be avec eID ou itsme et cliquez sur « Start aanvraag huursubsidie » (un formulaire papier existe aussi)",
+          "Téléchargez votre bail et, le cas échéant, une preuve de coparentalité ou de handicap reconnu ; chaque adulte du ménage confirme et introduit la demande",
+          "Wonen in Vlaanderen peut contrôler le logement, décide dans les 3 mois et 10 jours et effectue le premier paiement dans les 4 mois"
+        ]
+      },
+      "de": {
+        "title": "Flämischer Mietzuschuss (Vlaamse huursubsidie)",
+        "desc": "Ein monatlicher Zuschuss zur Miete, wenn Sie ein bescheidenes Einkommen haben und nach Obdachlosigkeit oder aus einer schlechten oder ungeeigneten Wohnung in eine gute private Mietwohnung ziehen. In manchen Gemeinden bis zu 206,91 € + 34,48 € pro Person zu Lasten (bis zur 4.); dazu kommt eine einmalige Einzugsprämie von 3 × dem Monatsbetrag.",
+        "deadline": "Innerhalb von 9 Monaten nach Beginn des neuen Mietvertrags zu beantragen (der Anspruch beginnt frühestens 2 Monate vor dem Antrag). Höchstens 9 Jahre; ohne Begrenzung ab 65 oder bei schwerer Behinderung.",
+        "amount": "Bis zu 188,10 € pro Monat + 31,35 € pro Person zu Lasten (2026)",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-Karte + Lesegerät"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie des Mietvertrags auf Ihren Namen"
+          }
+        ],
+        "steps": [
+          "Ziehen Sie zuerst um und lassen Sie sich an der neuen Adresse anmelden",
+          "Melden Sie sich auf formulieren-wonen.vlaanderen.be mit eID oder itsme an und klicken Sie auf „Start aanvraag huursubsidie“ (es gibt auch ein Papierformular)",
+          "Laden Sie den Mietvertrag hoch und ggf. einen Nachweis über Co-Elternschaft oder anerkannte Behinderung; jeder Erwachsene im Haushalt bestätigt und reicht ein",
+          "Wonen in Vlaanderen kann die Wohnung prüfen, entscheidet innerhalb von 3 Monaten und 10 Tagen und zahlt das erste Mal innerhalb von 4 Monaten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/tegemoetkoming-in-de-huurprijs-vlaamse-huursubsidie/wie-de-vlaamse-huursubsidie-kan-krijgen",
+      "conditions": {
+        "en": [
+          "You rent after being homeless, or move from a poor-quality home to a conforming private rental, or from an unsuitable to a suitable and conforming rental.",
+          "Household income for 2026 applications: at most €31,361 (single without dependants), €33,988 (single with a disability) or €47,039 (+€2,629 per dependant); you own no home or building plot (with some exceptions).",
+          "The new home is in the Flemish Region, is not social housing, is conforming and not overcrowded, and you are domiciled there; rent at most €762.28 a month (€838.51 in some communes), +20% per dependant up to +50%.",
+          "Under 25 on the application date: you must show your own income (other than child benefit) to pay the rest of the rent."
+        ],
+        "nl": [
+          "Je huurt na dakloosheid, of verhuist van een slechte woning naar een conforme private huurwoning, of van een onaangepaste naar een aangepaste en conforme huurwoning.",
+          "Gezinsinkomen voor aanvragen in 2026: maximaal €31.361 (alleenstaande zonder personen ten laste), €33.988 (alleenstaande met handicap) of €47.039 (+€2.629 per persoon ten laste); je hebt geen woning of bouwgrond in eigendom (op enkele uitzonderingen na).",
+          "De nieuwe woning ligt in het Vlaamse Gewest, is geen sociale huurwoning, is conform en niet overbewoond, en je bent er gedomicilieerd; huur maximaal €762,28 per maand (€838,51 in sommige gemeenten), +20% per persoon ten laste tot +50%.",
+          "Jonger dan 25 op de aanvraagdatum: je toont een eigen inkomen (geen Groeipakket) aan om de rest van de huur te betalen."
+        ],
+        "fr": [
+          "Vous louez après avoir été sans abri, ou quittez un logement de mauvaise qualité pour un logement locatif privé conforme, ou un logement inadapté pour un logement adapté et conforme.",
+          "Revenus du ménage pour les demandes en 2026 : maximum 31.361 € (isolé sans personne à charge), 33.988 € (isolé handicapé) ou 47.039 € (+2.629 € par personne à charge) ; vous ne possédez ni logement ni terrain à bâtir (sauf exceptions).",
+          "Le nouveau logement se trouve en Région flamande, n'est pas un logement social, est conforme et non surpeuplé, et vous y êtes domicilié(e) ; loyer maximum 762,28 € par mois (838,51 € dans certaines communes), +20 % par personne à charge jusqu'à +50 %.",
+          "Moins de 25 ans à la date de la demande : vous prouvez un revenu propre (hors allocations familiales) pour payer le reste du loyer."
+        ],
+        "de": [
+          "Sie mieten nach Obdachlosigkeit, oder ziehen aus einer schlechten Wohnung in eine konforme private Mietwohnung oder aus einer ungeeigneten in eine angepasste und konforme Mietwohnung.",
+          "Haushaltseinkommen für Anträge 2026: höchstens 31.361 € (alleinstehend ohne Personen zu Lasten), 33.988 € (alleinstehend mit Behinderung) oder 47.039 € (+2.629 € pro Person zu Lasten); Sie besitzen keine Wohnung und kein Baugrundstück (mit einigen Ausnahmen).",
+          "Die neue Wohnung liegt in der Flämischen Region, ist keine Sozialwohnung, ist konform und nicht überbelegt, und Sie sind dort gemeldet; Miete höchstens 762,28 € pro Monat (838,51 € in manchen Gemeinden), +20 % pro Person zu Lasten bis +50 %.",
+          "Unter 25 am Antragsdatum: Sie weisen ein eigenes Einkommen (kein Kindergeld) nach, um den Rest der Miete zu zahlen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 97,
+    "category": "family",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Groeipakket",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/sociale-toeslag",
+    "content": {
+      "en": {
+        "title": "Social Supplement (Sociale toeslag, Groeipakket)",
+        "desc": "An extra monthly amount on top of the Groeipakket basic amount for families with a lower income, to help with the cost of raising children. For children born from 2019: €76.09 (1–2 children, income under €42,020.32) or €38.53 (up to €49,023.71); with 3+ children €111.83 (under €42,020.32) or €88.01 (up to €79,041.20). Other amounts apply to children born before 2019.",
+        "deadline": "Examined automatically every year on the tax assessment of 2 years earlier; paid monthly with the basic amount, around the 8th of the following month.",
+        "amount": "€38.53 to €111.83 per child a month",
+        "requirements": [],
+        "steps": [
+          "If your child already gets the Groeipakket, you usually do not have to do anything: your payer checks the right automatically",
+          "Has your income dropped sharply recently, or did you become single? Contact your Groeipakket payer (alarm-bell procedure)",
+          "Prove with the form from your payer that your income was under the limit for at least 6 consecutive recent months"
+        ]
+      },
+      "nl": {
+        "title": "Sociale toeslag (Groeipakket)",
+        "desc": "Een extra maandelijks bedrag bovenop het basisbedrag van het Groeipakket voor gezinnen met een lager inkomen, om de kosten van de opvoeding beter te dragen. Voor kinderen geboren vanaf 2019: €76,09 (1–2 kinderen, inkomen onder €42.020,32) of €38,53 (tot €49.023,71); met 3+ kinderen €111,83 (onder €42.020,32) of €88,01 (tot €79.041,20). Voor kinderen geboren vóór 2019 gelden andere bedragen.",
+        "deadline": "Wordt elk jaar automatisch onderzocht op basis van het aanslagbiljet van 2 jaar eerder; maandelijks uitbetaald samen met het basisbedrag, rond de 8ste van de maand erna.",
+        "amount": "€38,53 tot €111,83 per kind per maand",
+        "requirements": [],
+        "steps": [
+          "Krijgt je kind al het Groeipakket, dan hoef je meestal niets te doen: je uitbetaler onderzoekt het recht automatisch",
+          "Is je inkomen recent sterk gedaald, of ben je alleenstaande geworden? Neem contact op met je uitbetaler (alarmbelprocedure)",
+          "Toon met het formulier van je uitbetaler aan dat je inkomen minstens 6 opeenvolgende recente maanden onder de grens lag"
+        ]
+      },
+      "fr": {
+        "title": "Supplément social (Groeipakket flamand)",
+        "desc": "Un montant mensuel supplémentaire en plus du montant de base du Groeipakket pour les familles aux revenus plus faibles, afin de mieux supporter le coût de l'éducation. Pour les enfants nés à partir de 2019 : 76,09 € (1–2 enfants, revenus sous 42.020,32 €) ou 38,53 € (jusqu'à 49.023,71 €) ; avec 3 enfants ou plus 111,83 € (sous 42.020,32 €) ou 88,01 € (jusqu'à 79.041,20 €). D'autres montants valent pour les enfants nés avant 2019.",
+        "deadline": "Examiné automatiquement chaque année sur la base de l'avertissement-extrait de rôle d'il y a 2 ans ; versé chaque mois avec le montant de base, vers le 8 du mois suivant.",
+        "amount": "De 38,53 € à 111,83 € par enfant et par mois",
+        "requirements": [],
+        "steps": [
+          "Si votre enfant reçoit déjà le Groeipakket, vous n'avez généralement rien à faire : votre caisse examine le droit automatiquement",
+          "Vos revenus ont fortement baissé récemment, ou vous vivez désormais seul(e) ? Contactez votre caisse du Groeipakket (procédure « sonnette d'alarme »)",
+          "Prouvez avec le formulaire de votre caisse que vos revenus étaient sous le plafond pendant au moins 6 mois récents consécutifs"
+        ]
+      },
+      "de": {
+        "title": "Sozialzuschlag (flämisches Groeipakket)",
+        "desc": "Ein zusätzlicher monatlicher Betrag zum Grundbetrag des Groeipakket für Familien mit geringerem Einkommen, um die Erziehungskosten besser zu tragen. Für ab 2019 geborene Kinder: 76,09 € (1–2 Kinder, Einkommen unter 42.020,32 €) oder 38,53 € (bis 49.023,71 €); bei 3+ Kindern 111,83 € (unter 42.020,32 €) oder 88,01 € (bis 79.041,20 €). Für vor 2019 geborene Kinder gelten andere Beträge.",
+        "deadline": "Wird jedes Jahr automatisch anhand des Steuerbescheids von vor 2 Jahren geprüft; monatlich mit dem Grundbetrag gezahlt, um den 8. des Folgemonats.",
+        "amount": "38,53 € bis 111,83 € pro Kind und Monat",
+        "requirements": [],
+        "steps": [
+          "Erhält Ihr Kind bereits das Groeipakket, müssen Sie meist nichts tun: Ihre Zahlstelle prüft den Anspruch automatisch",
+          "Ist Ihr Einkommen kürzlich stark gesunken oder sind Sie alleinstehend geworden? Wenden Sie sich an Ihre Groeipakket-Zahlstelle (Alarmverfahren)",
+          "Weisen Sie mit dem Formular Ihrer Zahlstelle nach, dass Ihr Einkommen mindestens 6 aufeinanderfolgende Monate unter der Grenze lag"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/sociale-toeslag",
+        "https://www.vlaanderen.be/vlaams-groeipakket/het-vlaams-groeipakket/het-vlaams-groeipakket-voor-een-kind-met-niet-belgische-nationaliteit",
+        "https://gpedia.groeipakket.be/nl/richtlijnen/toelichtingsnotas/regelgeving-pagina/toelichtingsnota-2-van-27"
+      ],
+      "conditions": {
+        "en": [
+          "Your child receives the Vlaams Groeipakket.",
+          "Household income (yours, plus your partner's if you live together) is under the limit for your number of children.",
+          "With 3 or more children, at least one child must receive the new basic amount (born from 2019)."
+        ],
+        "nl": [
+          "Je kind krijgt het Vlaams Groeipakket.",
+          "Het gezinsinkomen (het jouwe, plus dat van je partner als jullie samenwonen) ligt onder de grens voor je aantal kinderen.",
+          "Met 3 of meer kinderen moet minstens één kind het nieuwe basisbedrag krijgen (geboren vanaf 2019)."
+        ],
+        "fr": [
+          "Votre enfant reçoit le Groeipakket flamand.",
+          "Les revenus du ménage (les vôtres, plus ceux de votre partenaire si vous cohabitez) sont sous le plafond pour votre nombre d'enfants.",
+          "Avec 3 enfants ou plus, au moins un enfant doit recevoir le nouveau montant de base (né à partir de 2019)."
+        ],
+        "de": [
+          "Ihr Kind erhält das flämische Groeipakket.",
+          "Das Haushaltseinkommen (Ihres, plus das Ihres Partners, wenn Sie zusammenwohnen) liegt unter der Grenze für Ihre Kinderzahl.",
+          "Bei 3 oder mehr Kindern muss mindestens ein Kind den neuen Grundbetrag erhalten (ab 2019 geboren)."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "A permit for studies gives you no family benefits for yourself, but children of students do meet the residence condition (Opgroeien guidance). Register your child at the commune with its own residence right.",
+            "nl": "Een verblijfsvergunning voor studies geeft jou zelf geen recht op gezinsbijslagen, maar kinderen van studenten voldoen wel aan de verblijfsvoorwaarde (richtlijn van Opgroeien). Schrijf je kind in de gemeente in met een eigen verblijfsrecht.",
+            "fr": "Un titre de séjour pour études ne vous ouvre aucun droit aux allocations pour vous-même, mais les enfants d'étudiants remplissent bien la condition de séjour (directive d'Opgroeien). Inscrivez votre enfant à la commune avec son propre droit de séjour.",
+            "de": "Eine Aufenthaltserlaubnis zum Studium gibt Ihnen selbst keinen Anspruch auf Familienleistungen, aber Kinder von Studierenden erfüllen die Aufenthaltsbedingung (Richtlinie von Opgroeien). Melden Sie Ihr Kind mit eigenem Aufenthaltsrecht bei der Gemeinde an."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 98,
+    "category": "family",
+    "situations": [
+      "school",
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Vlaams Groeipakket",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/schooltoeslag",
+    "content": {
+      "en": {
+        "title": "School Supplement (Schooltoeslag, Groeipakket)",
+        "desc": "A yearly amount for families with a low income whose children go to a Dutch-language nursery, primary or secondary school in Flanders or Brussels. It is not the same as the school bonus or the higher-education study grant. Nursery €131.10; primary €152.98–€237.92 (exceptional €308.92); full-time secondary €295.48–€1,192.46 (exceptional €1,400.13), more for boarders and the final year of technical or vocational school.",
+        "deadline": "Granted automatically; paid between the end of August and December. The child must stay enrolled until the last school day and attend school enough.",
+        "amount": "€131.10 to €1,192.46 a year (2026-2027)",
+        "requirements": [],
+        "steps": [
+          "You do not have to apply: your Groeipakket payer checks school, attendance and income automatically",
+          "Child at a recognised school abroad, in the French or German-speaking Community, or at a private school? Contact your payer",
+          "Child turning 25 in basic nursing or special secondary education? Apply yourself through your payer"
+        ]
+      },
+      "nl": {
+        "title": "Schooltoeslag (Groeipakket)",
+        "desc": "Een jaarlijks bedrag voor gezinnen met een laag inkomen van wie de kinderen naar een Nederlandstalige kleuter-, lagere of secundaire school in Vlaanderen of Brussel gaan. Niet hetzelfde als de schoolbonus of de studietoelage voor hoger onderwijs. Kleuteronderwijs €131,10; lager €152,98–€237,92 (uitzonderlijk €308,92); voltijds secundair €295,48–€1.192,46 (uitzonderlijk €1.400,13), meer voor internen en het laatste jaar technisch of beroeps.",
+        "deadline": "Automatisch toegekend; uitbetaald tussen eind augustus en december. Je kind moet ingeschreven blijven tot de laatste schooldag en voldoende aanwezig zijn.",
+        "amount": "€131,10 tot €1.192,46 per jaar (2026-2027)",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: je uitbetaler van het Groeipakket controleert school, aanwezigheid en inkomen automatisch",
+          "Volgt je kind erkend onderwijs in het buitenland, in de Franse of Duitstalige Gemeenschap, of in een privéschool? Neem contact op met je uitbetaler",
+          "Wordt je kind 25 in basisverpleegkunde of buitengewoon secundair onderwijs? Vraag het dan zelf aan via je uitbetaler"
+        ]
+      },
+      "fr": {
+        "title": "Allocation scolaire (Schooltoeslag, Groeipakket flamand)",
+        "desc": "Un montant annuel pour les familles à faibles revenus dont les enfants fréquentent une école maternelle, primaire ou secondaire néerlandophone en Flandre ou à Bruxelles. À ne pas confondre avec le bonus scolaire ou l'allocation d'études de l'enseignement supérieur. Maternelle 131,10 € ; primaire 152,98 €–237,92 € (exceptionnelle 308,92 €) ; secondaire à temps plein 295,48 €–1.192,46 € (exceptionnelle 1.400,13 €), davantage pour les internes et la dernière année du technique ou professionnel.",
+        "deadline": "Accordée automatiquement ; versée entre fin août et décembre. L'enfant doit rester inscrit jusqu'au dernier jour d'école et être suffisamment présent.",
+        "amount": "De 131,10 € à 1.192,46 € par an (2026-2027)",
+        "requirements": [],
+        "steps": [
+          "Aucune demande : votre caisse du Groeipakket vérifie automatiquement école, présence et revenus",
+          "Votre enfant suit un enseignement reconnu à l'étranger, en Communauté française ou germanophone, ou dans une école privée ? Contactez votre caisse",
+          "Votre enfant atteint 25 ans en soins infirmiers de base ou en enseignement secondaire spécialisé ? Faites vous-même la demande via votre caisse"
+        ]
+      },
+      "de": {
+        "title": "Schulzuschlag (Schooltoeslag, flämisches Groeipakket)",
+        "desc": "Ein jährlicher Betrag für Familien mit geringem Einkommen, deren Kinder eine niederländischsprachige Kindergarten-, Grund- oder Sekundarschule in Flandern oder Brüssel besuchen. Nicht zu verwechseln mit dem Schulbonus oder der Studienbeihilfe für die Hochschule. Kindergarten 131,10 €; Grundschule 152,98 €–237,92 € (außergewöhnlich 308,92 €); Vollzeit-Sekundarschule 295,48 €–1.192,46 € (außergewöhnlich 1.400,13 €), mehr für Internatsschüler und das letzte Jahr der technischen oder beruflichen Ausbildung.",
+        "deadline": "Automatisch gewährt; Auszahlung zwischen Ende August und Dezember. Das Kind muss bis zum letzten Schultag eingeschrieben bleiben und ausreichend anwesend sein.",
+        "amount": "131,10 € bis 1.192,46 € pro Jahr (2026-2027)",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: Ihre Groeipakket-Zahlstelle prüft Schule, Anwesenheit und Einkommen automatisch",
+          "Besucht Ihr Kind eine anerkannte Schule im Ausland, in der Französischen oder Deutschsprachigen Gemeinschaft oder eine Privatschule? Wenden Sie sich an Ihre Zahlstelle",
+          "Wird Ihr Kind in der Grundausbildung Krankenpflege oder im Förderschulwesen 25? Dann beantragen Sie es selbst über Ihre Zahlstelle"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/schooltoeslag",
+      "conditions": {
+        "en": [
+          "The child attends a Dutch-language nursery, primary or secondary school in Flanders or Brussels (or basic nursing or dual learning), stays enrolled until the last school day and attends enough; not home education or adult secondary education.",
+          "Secondary pupils up to and including the school year in which they turn 22 (no age limit for basic nursing and special secondary education).",
+          "Household income is not too high for the size of your family.",
+          "The child is Belgian, or has its own residence right of more than 3 months, or is a recognised unaccompanied minor, a victim of trafficking, or in foster care for over a year."
+        ],
+        "nl": [
+          "Het kind gaat naar een Nederlandstalige kleuter-, lagere of secundaire school in Vlaanderen of Brussel (of volgt basisverpleegkunde of duaal leren), blijft ingeschreven tot de laatste schooldag en is voldoende aanwezig; geen huisonderwijs of secundair volwassenenonderwijs.",
+          "Leerlingen secundair tot en met het schooljaar waarin ze 22 worden (geen leeftijdsgrens voor basisverpleegkunde en buitengewoon secundair onderwijs).",
+          "Het gezinsinkomen is niet te hoog voor de grootte van je gezin.",
+          "Het kind is Belg, of heeft een eigen verblijfsrecht van meer dan 3 maanden, of is erkend als niet-begeleide minderjarige, slachtoffer van mensenhandel, of verblijft langer dan 1 jaar in een pleeggezin."
+        ],
+        "fr": [
+          "L'enfant fréquente une école maternelle, primaire ou secondaire néerlandophone en Flandre ou à Bruxelles (ou suit les soins infirmiers de base ou l'apprentissage dual), reste inscrit jusqu'au dernier jour d'école et est suffisamment présent ; pas d'enseignement à domicile ni d'enseignement secondaire pour adultes.",
+          "Élèves du secondaire jusqu'à l'année scolaire de leurs 22 ans incluse (pas de limite d'âge en soins infirmiers de base et dans l'enseignement secondaire spécialisé).",
+          "Les revenus du ménage ne sont pas trop élevés pour la taille de votre famille.",
+          "L'enfant est belge, ou a son propre droit de séjour de plus de 3 mois, ou est reconnu mineur non accompagné, victime de la traite, ou est en famille d'accueil depuis plus d'un an."
+        ],
+        "de": [
+          "Das Kind besucht eine niederländischsprachige Kindergarten-, Grund- oder Sekundarschule in Flandern oder Brüssel (oder die Grundausbildung Krankenpflege bzw. duales Lernen), bleibt bis zum letzten Schultag eingeschrieben und ist ausreichend anwesend; kein Hausunterricht und kein Sekundarunterricht für Erwachsene.",
+          "Sekundarschüler bis einschließlich des Schuljahrs, in dem sie 22 werden (keine Altersgrenze für Grundausbildung Krankenpflege und Förderschulwesen).",
+          "Das Haushaltseinkommen ist für die Größe Ihrer Familie nicht zu hoch.",
+          "Das Kind ist Belgier, hat ein eigenes Aufenthaltsrecht von mehr als 3 Monaten, ist als unbegleiteter Minderjähriger oder Opfer von Menschenhandel anerkannt oder lebt seit über einem Jahr in einer Pflegefamilie."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "Your child needs its own residence right of more than 3 months: a residence card for studies, volunteering or au pair work, or the residence right of a parent, does not give the right.",
+            "nl": "Je kind heeft een eigen verblijfsrecht van meer dan 3 maanden nodig: een verblijfskaart voor studies, vrijwilligerswerk of au-pairwerk, of het verblijfsrecht van een ouder, geeft geen recht.",
+            "fr": "Votre enfant doit avoir son propre droit de séjour de plus de 3 mois : une carte de séjour pour études, volontariat ou travail au pair, ou le droit de séjour d'un parent, ne donne pas droit à l'allocation.",
+            "de": "Ihr Kind braucht ein eigenes Aufenthaltsrecht von mehr als 3 Monaten: eine Aufenthaltskarte für Studium, Freiwilligenarbeit oder Au-pair-Tätigkeit oder das Aufenthaltsrecht eines Elternteils gibt keinen Anspruch."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 99,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "renting"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse overheid – Wonen in Vlaanderen",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/vlaamse-aanpassingspremie-om-de-woning-aan-te-passen-aan-een-oudere-bewoner",
+    "amount_source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/vlaamse-aanpassingspremie-om-de-woning-aan-te-passen-aan-een-oudere-bewoner/bedrag-van-de-vlaamse-aanpassingspremie",
+    "request_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/vlaamse-aanpassingspremie-om-de-woning-aan-te-passen-aan-een-oudere-bewoner/vraag-de-vlaamse-aanpassingspremie-aan",
+    "content": {
+      "en": {
+        "title": "Flemish Home Adaptation Premium for Over-65s (Vlaamse aanpassingspremie)",
+        "desc": "A premium for adapting a home in Flanders to the needs of a resident aged 65 or over: technical aids, or alterations that make the home safer and easier to get around. You need at least €1,200 of invoices (incl. VAT) per category.",
+        "deadline": "Apply after the works are finished, with invoices at most 2 years old. Decision within 3 months; payment 3 months after approval. Each of the 2 categories once per 10 years.",
+        "amount": "50% of your invoices, up to €1,250 per category",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copies of the invoices (at least €1,200 incl. VAT, at most 2 years old)"
+          },
+          {
+            "type": "doc",
+            "label": "Signed paper application form (Word or PDF on vlaanderen.be)"
+          }
+        ],
+        "steps": [
+          "Carry out the works: technical aids, or alterations for safety and accessibility",
+          "Fill in the paper application form; all adult co-residents sign it",
+          "Send it by post to Wonen in Vlaanderen with copies of the invoices and any certificates — applications by email are not accepted",
+          "You receive an acknowledgement with your file number, a decision within 3 months, and payment 3 months later"
+        ]
+      },
+      "nl": {
+        "title": "Vlaamse aanpassingspremie (voor 65-plussers)",
+        "desc": "Een premie om een woning in Vlaanderen aan te passen aan de noden van een (inwonende) 65-plusser: technische hulpmiddelen, of verbouwingen die de woning veiliger en beter toegankelijk maken. Je hebt minstens €1.200 aan facturen (incl. btw) per categorie nodig.",
+        "deadline": "Aan te vragen na de uitvoering van de werken, met facturen van maximaal 2 jaar oud. Beslissing binnen 3 maanden; uitbetaling 3 maanden na een positieve beslissing. Elk van de 2 categorieën één keer per 10 jaar.",
+        "amount": "50% van je facturen, tot €1.250 per categorie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopies van de facturen (minstens €1.200 incl. btw, maximaal 2 jaar oud)"
+          },
+          {
+            "type": "doc",
+            "label": "Ondertekend papieren aanvraagformulier (Word of pdf op vlaanderen.be)"
+          }
+        ],
+        "steps": [
+          "Voer de werken uit: technische hulpmiddelen, of verbouwingen voor veiligheid en toegankelijkheid",
+          "Vul het papieren aanvraagformulier in; alle meerderjarige medebewoners ondertekenen mee",
+          "Stuur het per post naar Wonen in Vlaanderen met kopies van de facturen en eventuele attesten — aanvragen per e-mail worden niet aanvaard",
+          "Je krijgt een ontvangstmelding met dossiernummer, een beslissing binnen 3 maanden, en de uitbetaling 3 maanden later"
+        ]
+      },
+      "fr": {
+        "title": "Prime flamande d'adaptation pour les plus de 65 ans (Vlaamse aanpassingspremie)",
+        "desc": "Une prime pour adapter un logement en Flandre aux besoins d'un occupant de 65 ans ou plus : aides techniques, ou transformations rendant le logement plus sûr et plus accessible. Il faut au moins 1.200 € de factures (TVA comprise) par catégorie.",
+        "deadline": "À demander après les travaux, avec des factures de 2 ans maximum. Décision dans les 3 mois ; paiement 3 mois après une décision favorable. Chacune des 2 catégories une fois tous les 10 ans.",
+        "amount": "50 % de vos factures, jusqu'à 1.250 € par catégorie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copies des factures (au moins 1.200 € TVA comprise, 2 ans maximum)"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande papier signé (Word ou PDF sur vlaanderen.be)"
+          }
+        ],
+        "steps": [
+          "Réalisez les travaux : aides techniques, ou transformations pour la sécurité et l'accessibilité",
+          "Remplissez le formulaire de demande papier ; tous les cohabitants majeurs le signent",
+          "Envoyez-le par la poste à Wonen in Vlaanderen avec les copies des factures et attestations éventuelles — les demandes par e-mail ne sont pas acceptées",
+          "Vous recevez un accusé de réception avec numéro de dossier, une décision dans les 3 mois et le paiement 3 mois plus tard"
+        ]
+      },
+      "de": {
+        "title": "Flämische Anpassungsprämie für über 65-Jährige (Vlaamse aanpassingspremie)",
+        "desc": "Eine Prämie, um eine Wohnung in Flandern an die Bedürfnisse eines Bewohners ab 65 Jahren anzupassen: technische Hilfsmittel oder Umbauten, die die Wohnung sicherer und zugänglicher machen. Sie brauchen mindestens 1.200 € an Rechnungen (inkl. MwSt.) pro Kategorie.",
+        "deadline": "Nach Abschluss der Arbeiten zu beantragen, mit Rechnungen von höchstens 2 Jahren. Entscheidung innerhalb von 3 Monaten; Zahlung 3 Monate nach positiver Entscheidung. Jede der 2 Kategorien einmal pro 10 Jahre.",
+        "amount": "50 % Ihrer Rechnungen, bis zu 1.250 € pro Kategorie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopien der Rechnungen (mindestens 1.200 € inkl. MwSt., höchstens 2 Jahre alt)"
+          },
+          {
+            "type": "doc",
+            "label": "Unterschriebenes Antragsformular auf Papier (Word oder PDF auf vlaanderen.be)"
+          }
+        ],
+        "steps": [
+          "Führen Sie die Arbeiten aus: technische Hilfsmittel oder Umbauten für Sicherheit und Zugänglichkeit",
+          "Füllen Sie das Antragsformular auf Papier aus; alle volljährigen Mitbewohner unterschreiben mit",
+          "Schicken Sie es per Post an Wonen in Vlaanderen, mit Rechnungskopien und eventuellen Bescheinigungen — Anträge per E-Mail werden nicht angenommen",
+          "Sie erhalten eine Eingangsbestätigung mit Aktenzeichen, eine Entscheidung innerhalb von 3 Monaten und die Zahlung 3 Monate später"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/premies-voor-renovatie/vlaamse-aanpassingspremie-om-de-woning-aan-te-passen-aan-een-oudere-bewoner/wie-in-aanmerking-komt-voor-de-vlaamse-aanpassingspremie",
+      "conditions": {
+        "en": [
+          "You, your partner or a co-resident are at least 65 on the application date.",
+          "You own and live in the home, rent it privately with a lease of at least 3 years, adapt your home for a co-resident relative aged 65+ (up to 2nd degree), or rent it to a woonmaatschappij for at least 9 years.",
+          "The home is in the Flemish Region and is the main residence of the over-65; they own no other home outright.",
+          "Income for 2026 applications: at most €39,300 (one over-65, no dependants) or €55,010 (+€4,410 per dependant)."
+        ],
+        "nl": [
+          "Jij, je partner of een inwonend gezinslid is minstens 65 jaar op de aanvraagdatum.",
+          "Je bent eigenaar-bewoner, huurt privé met een huurcontract van minstens 3 jaar, past je woning aan voor een inwonende 65-plusser (bloed- of aanverwant tot de 2de graad), of verhuurt minstens 9 jaar aan een woonmaatschappij.",
+          "De woning ligt in het Vlaamse Gewest en is de hoofdverblijfplaats van de 65-plusser; die heeft geen andere woning volledig in volle eigendom.",
+          "Inkomen voor aanvragen in 2026: maximaal €39.300 (één 65-plusser zonder personen ten laste) of €55.010 (+€4.410 per persoon ten laste)."
+        ],
+        "fr": [
+          "Vous, votre partenaire ou un cohabitant avez au moins 65 ans à la date de la demande.",
+          "Vous êtes propriétaire occupant, locataire privé avec un bail d'au moins 3 ans, adaptez votre logement pour un parent cohabitant de 65 ans ou plus (jusqu'au 2e degré), ou louez à une woonmaatschappij pour au moins 9 ans.",
+          "Le logement se trouve en Région flamande et est la résidence principale de la personne de 65 ans ou plus, qui ne possède pas d'autre logement en pleine propriété.",
+          "Revenus pour les demandes en 2026 : maximum 39.300 € (une personne de plus de 65 ans sans personne à charge) ou 55.010 € (+4.410 € par personne à charge)."
+        ],
+        "de": [
+          "Sie, Ihr Partner oder ein Mitbewohner sind am Antragsdatum mindestens 65 Jahre alt.",
+          "Sie sind Eigentümer und Bewohner, mieten privat mit einem Mietvertrag von mindestens 3 Jahren, passen Ihre Wohnung für einen mitwohnenden Verwandten ab 65 (bis 2. Grad) an, oder vermieten mindestens 9 Jahre an eine woonmaatschappij.",
+          "Die Wohnung liegt in der Flämischen Region und ist der Hauptwohnsitz der Person ab 65, die keine andere Wohnung in vollem Eigentum besitzt.",
+          "Einkommen für Anträge 2026: höchstens 39.300 € (eine Person ab 65 ohne Personen zu Lasten) oder 55.010 € (+4.410 € pro Person zu Lasten)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 100,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse overheid – Departement Werk en Sociale Economie",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/werken/jobbonus/jobbonus-voor-werknemers-en-ambtenaren",
+    "request_url": "https://www.burgerprofiel.be/jobbonus",
+    "content": {
+      "en": {
+        "title": "Flemish Job Bonus (Jobbonus)",
+        "desc": "A yearly tax-free bonus from the Flemish government for employees and civil servants living in Flanders with a lower wage. You do not apply: the government calculates it from your social security data. Full amount for an average gross wage under €2,115 a month (full-time); it falls to €0 as the wage rises to €3,114.99.",
+        "deadline": "Letters for the 2026 job bonus (based on 2025 wages) go out between November 2026 and the end of February 2027; payments start in November.",
+        "amount": "Up to €650 a year",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + reader (for Mijn Burgerprofiel)"
+          }
+        ],
+        "steps": [
+          "Wait for the letter from the Flemish government (on paper or in your eBox) stating your amount",
+          "Register or check your bank account (SEPA) at burgerprofiel.be/jobbonus",
+          "The Flemish Tax Service pays it once a year; for a first registration, within two weeks of the confirmation letter",
+          "Be wary of SMS or WhatsApp messages about the job bonus: the government only contacts you by letter"
+        ]
+      },
+      "nl": {
+        "title": "Jobbonus",
+        "desc": "Een jaarlijkse premie van de Vlaamse overheid voor werknemers en ambtenaren die in Vlaanderen wonen en een lager loon hebben. Je vraagt niets aan: de overheid berekent ze op basis van je gegevens bij de RSZ. Volledig bedrag bij een gemiddeld brutoloon onder €2.115 per maand (voltijds); het daalt tot €0 naarmate het loon stijgt tot €3.114,99.",
+        "deadline": "De brieven voor de jobbonus 2026 (op basis van je loon in 2025) worden verstuurd tussen november 2026 en eind februari 2027; de betalingen starten in november.",
+        "amount": "Tot €650 per jaar",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer (voor Mijn Burgerprofiel)"
+          }
+        ],
+        "steps": [
+          "Wacht op de brief van de Vlaamse overheid (op papier of in je eBox) met het bedrag",
+          "Registreer of controleer je rekeningnummer (SEPA) op burgerprofiel.be/jobbonus",
+          "De Vlaamse Belastingdienst betaalt één keer per jaar; bij een eerste registratie binnen twee weken na de bevestigingsbrief",
+          "Wees op je hoede voor sms'jes of WhatsApp-berichten over de jobbonus: de overheid contacteert je enkel per brief"
+        ]
+      },
+      "fr": {
+        "title": "Bonus emploi flamand (Jobbonus)",
+        "desc": "Une prime annuelle du gouvernement flamand pour les salariés et fonctionnaires habitant en Flandre qui ont un salaire plus bas. Aucune demande : le gouvernement la calcule à partir de vos données de sécurité sociale. Montant complet pour un salaire brut moyen inférieur à 2.115 € par mois (temps plein) ; il descend à 0 € à mesure que le salaire monte jusqu'à 3.114,99 €.",
+        "deadline": "Les lettres pour le jobbonus 2026 (sur la base des salaires 2025) sont envoyées entre novembre 2026 et fin février 2027 ; les paiements commencent en novembre.",
+        "amount": "Jusqu'à 650 € par an",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "Carte eID belge + lecteur (pour Mijn Burgerprofiel)"
+          }
+        ],
+        "steps": [
+          "Attendez la lettre du gouvernement flamand (papier ou eBox) indiquant votre montant",
+          "Enregistrez ou vérifiez votre numéro de compte (SEPA) sur burgerprofiel.be/jobbonus",
+          "Le Service flamand des impôts paie une fois par an ; pour un premier enregistrement, dans les deux semaines suivant la lettre de confirmation",
+          "Méfiez-vous des SMS ou messages WhatsApp sur le jobbonus : le gouvernement ne vous contacte que par lettre"
+        ]
+      },
+      "de": {
+        "title": "Flämischer Jobbonus",
+        "desc": "Eine jährliche Prämie der flämischen Regierung für Arbeitnehmer und Beamte mit Wohnsitz in Flandern und niedrigerem Lohn. Sie beantragen nichts: die Regierung berechnet sie anhand Ihrer Sozialversicherungsdaten. Voller Betrag bei einem durchschnittlichen Bruttolohn unter 2.115 € pro Monat (Vollzeit); er sinkt auf 0 €, wenn der Lohn auf 3.114,99 € steigt.",
+        "deadline": "Die Briefe für den Jobbonus 2026 (auf Basis der Löhne 2025) werden zwischen November 2026 und Ende Februar 2027 verschickt; die Zahlungen beginnen im November.",
+        "amount": "Bis zu 650 € pro Jahr",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-Karte + Lesegerät (für Mijn Burgerprofiel)"
+          }
+        ],
+        "steps": [
+          "Warten Sie auf den Brief der flämischen Regierung (auf Papier oder in Ihrer eBox) mit dem Betrag",
+          "Registrieren oder prüfen Sie Ihre Kontonummer (SEPA) auf burgerprofiel.be/jobbonus",
+          "Die Flämische Steuerverwaltung zahlt einmal im Jahr; bei Erstregistrierung innerhalb von zwei Wochen nach dem Bestätigungsbrief",
+          "Vorsicht bei SMS oder WhatsApp-Nachrichten zum Jobbonus: die Regierung kontaktiert Sie nur per Brief"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/werken/jobbonus/jobbonus-voor-werknemers-en-ambtenaren",
+      "conditions": {
+        "en": [
+          "You are an employee paying the normal social security contribution, or a statutory civil servant (not specialist doctors in training, apprentices until the end of the year they turn 18, or student jobs with only a solidarity contribution).",
+          "In 2025 your average gross monthly wage, converted to full-time, was under €3,115.",
+          "You lived in the Flemish Region on 1 January 2026 (your workplace does not matter) and have not reached the pension age of 66."
+        ],
+        "nl": [
+          "Je bent werknemer en betaalt de normale sociale-zekerheidsbijdrage, of statutair ambtenaar (niet: artsen-specialisten in opleiding, leerlingen tot eind het jaar waarin ze 18 worden, jobstudenten met enkel een solidariteitsbijdrage).",
+          "In 2025 lag je gemiddeld brutomaandloon, omgerekend naar voltijds, onder €3.115.",
+          "Je woonde op 1 januari 2026 in het Vlaamse Gewest (waar je werkt speelt geen rol) en je hebt de pensioenleeftijd van 66 jaar nog niet bereikt."
+        ],
+        "fr": [
+          "Vous êtes salarié(e) et payez la cotisation de sécurité sociale normale, ou fonctionnaire statutaire (pas les médecins spécialistes en formation, les apprentis jusqu'à la fin de l'année de leurs 18 ans, ni les jobs étudiants avec seulement une cotisation de solidarité).",
+          "En 2025, votre salaire brut mensuel moyen, converti en temps plein, était inférieur à 3.115 €.",
+          "Vous habitiez en Région flamande au 1er janvier 2026 (le lieu de travail n'importe pas) et n'avez pas atteint l'âge de la pension de 66 ans."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer mit normalem Sozialversicherungsbeitrag oder statutarischer Beamter (nicht: Fachärzte in Ausbildung, Lehrlinge bis Ende des Jahres, in dem sie 18 werden, Studentenjobs mit nur Solidaritätsbeitrag).",
+          "2025 lag Ihr durchschnittlicher Bruttomonatslohn, auf Vollzeit umgerechnet, unter 3.115 €.",
+          "Sie wohnten am 1. Januar 2026 in der Flämischen Region (der Arbeitsort spielt keine Rolle) und haben das Pensionsalter von 66 Jahren noch nicht erreicht."
+        ]
+      }
+    }
+  },
+  {
+    "id": 101,
+    "category": "other",
+    "situations": [
+      "low-income",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Milieumaatschappij (VMM) · waterbedrijf",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://vmm.vlaanderen.be/waterloket/de-waterfactuur/sociale-vrijstelling",
+    "request_url": "https://vmm.vlaanderen.be/waterloket/wvrsearch",
+    "content": {
+      "en": {
+        "title": "Social Water Tariff (Sociaal tarief voor water)",
+        "desc": "Households in which someone receives certain social benefits pay only a fifth of the normal water price. Without your own water bill (e.g. a shared meter in a flat), you get a fixed compensation instead.",
+        "deadline": "Granted for the whole calendar year if you are entitled on 1 January; mostly automatic. Otherwise send the certificate to your water company by 31 December of that year.",
+        "amount": "80% off your water bill",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Only if not automatic: the certificate or letter from the Pension Service, OCMW, FPS Social Security or Flemish Social Protection"
+          }
+        ],
+        "steps": [
+          "In most cases your water company applies it automatically",
+          "Not on your bill? Use the certificate or letter you received from the body that pays your benefit",
+          "Send it to your water company (find yours by postcode on vmm.vlaanderen.be) by 31 December"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal tarief voor water",
+        "desc": "Gezinnen waarin iemand bepaalde sociale uitkeringen krijgt, betalen maar een vijfde van de normale waterprijs. Krijg je geen eigen waterfactuur (bv. een gemeenschappelijke meter in een appartement), dan krijg je een vaste compensatie.",
+        "deadline": "Geldt voor het hele kalenderjaar als je op 1 januari recht hebt; meestal automatisch. Anders bezorg je het attest aan je waterbedrijf vóór 31 december van dat jaar.",
+        "amount": "80% korting op je waterfactuur",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Enkel als het niet automatisch gebeurt: het attest of de brief van de Pensioendienst, het OCMW, de FOD Sociale Zekerheid of de Vlaamse sociale bescherming"
+          }
+        ],
+        "steps": [
+          "Meestal past je waterbedrijf het automatisch toe",
+          "Niet op je factuur? Gebruik het attest of de brief die je kreeg van de instelling die je uitkering betaalt",
+          "Stuur het naar je waterbedrijf (vind het met je postcode op vmm.vlaanderen.be) vóór 31 december"
+        ]
+      },
+      "fr": {
+        "title": "Tarif social pour l'eau (Flandre)",
+        "desc": "Les ménages dont un membre perçoit certaines allocations sociales ne paient qu'un cinquième du prix normal de l'eau. Sans facture d'eau propre (par ex. compteur commun dans un immeuble), vous recevez une compensation fixe.",
+        "deadline": "Accordé pour toute l'année civile si vous y avez droit au 1er janvier ; généralement automatique. Sinon, envoyez l'attestation à votre société d'eau avant le 31 décembre de cette année.",
+        "amount": "80 % de réduction sur votre facture d'eau",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Seulement si ce n'est pas automatique : l'attestation ou la lettre du Service des Pensions, du CPAS, du SPF Sécurité sociale ou de la protection sociale flamande"
+          }
+        ],
+        "steps": [
+          "Dans la plupart des cas, votre société d'eau l'applique automatiquement",
+          "Pas sur votre facture ? Utilisez l'attestation ou la lettre reçue de l'organisme qui verse votre allocation",
+          "Envoyez-la à votre société d'eau (trouvez-la avec votre code postal sur vmm.vlaanderen.be) avant le 31 décembre"
+        ]
+      },
+      "de": {
+        "title": "Sozialtarif für Wasser (Flandern)",
+        "desc": "Haushalte, in denen jemand bestimmte Sozialleistungen erhält, zahlen nur ein Fünftel des normalen Wasserpreises. Ohne eigene Wasserrechnung (z. B. gemeinsamer Zähler im Wohnhaus) erhalten Sie stattdessen einen festen Ausgleich.",
+        "deadline": "Gilt für das ganze Kalenderjahr, wenn Sie am 1. Januar Anspruch haben; meist automatisch. Sonst schicken Sie die Bescheinigung bis zum 31. Dezember dieses Jahres an Ihren Wasserversorger.",
+        "amount": "80 % Rabatt auf Ihre Wasserrechnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nur wenn nicht automatisch: die Bescheinigung oder der Brief des Pensionsdienstes, des ÖSHZ, des FÖD Soziale Sicherheit oder des flämischen Sozialschutzes"
+          }
+        ],
+        "steps": [
+          "Meist wendet Ihr Wasserversorger ihn automatisch an",
+          "Nicht auf Ihrer Rechnung? Nutzen Sie die Bescheinigung oder den Brief der Stelle, die Ihre Leistung zahlt",
+          "Schicken Sie sie bis zum 31. Dezember an Ihren Wasserversorger (über die Postleitzahl auf vmm.vlaanderen.be zu finden)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://vmm.vlaanderen.be/waterloket/de-waterfactuur/sociale-vrijstelling",
+      "conditions": {
+        "en": [
+          "On 1 January someone in your household receives the income guarantee for older people (or guaranteed income), leefloon or levensminimum, the IVT or integration allowance, or the Flemish care budget for older people.",
+          "Only for the family home where the household members are officially registered — not for second homes."
+        ],
+        "nl": [
+          "Op 1 januari krijgt iemand in je gezin de inkomensgarantie voor ouderen (of het gewaarborgd inkomen), een leefloon of levensminimum, de IVT of integratietegemoetkoming, of het Vlaamse zorgbudget voor ouderen.",
+          "Enkel voor de gezinswoning waar de gezinsleden officieel ingeschreven zijn — niet voor tweede verblijven."
+        ],
+        "fr": [
+          "Au 1er janvier, un membre de votre ménage perçoit la garantie de revenus aux personnes âgées (ou le revenu garanti), le revenu d'intégration ou minimum de moyens d'existence, l'ARR ou l'allocation d'intégration, ou le budget de soins flamand pour personnes âgées.",
+          "Uniquement pour le logement familial où les membres du ménage sont officiellement inscrits — pas pour les secondes résidences."
+        ],
+        "de": [
+          "Am 1. Januar erhält jemand in Ihrem Haushalt die Einkommensgarantie für Betagte (oder das garantierte Einkommen), das Eingliederungseinkommen oder Existenzminimum, die Einkommensersatz- oder Eingliederungsbeihilfe oder das flämische Pflegebudget für Senioren.",
+          "Nur für die Familienwohnung, in der die Haushaltsmitglieder offiziell gemeldet sind — nicht für Zweitwohnungen."
+        ]
+      }
+    }
   }
 ]

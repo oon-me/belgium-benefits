@@ -263,6 +263,18 @@ Per commune:
    (see "Who can get it" below): the page's conditions in four languages.
 4. Move the commune from `queue` to `done` with the ids, even when nothing was added.
 
+### Flemish and federal rights from rechtenverkenner.be (from 29 Oct 2026)
+
+[rechtenverkenner.be](https://www.rechtenverkenner.be) (Departement Zorg) lists about 7,200 social rights:
+~330 Flemish/federal and ~6,900 local ones from Flemish communes and OCMWs. We use it only as a
+finder. Each entry is checked on, explained from and linked to the official page of the body that
+grants it, never to rechtenverkenner. `data/rechtenverkenner-queue.json` maps the product numbers
+already covered (`done`, number → benefit id) and keeps the rest in `queue`, financial rights
+first, with the official links rechtenverkenner gives. Take batches of about 15 from the top of the
+queue. Its API (`/proxy/rechtenverkenner/api/instantie?overheid=ENKEL_VLAAMS_EN_FEDERAAL` for ids,
+`/proxy/doc/instantie/byIds/<ids>` for details) also has the local rights, so the commune run
+can use `overheid=ENKEL_LOKAAL` the same way.
+
 All entries are bundled into the client, about 11 KB each with their conditions. Split the data per region or load
 commune entries on demand before it passes about 1.5 MB.
 

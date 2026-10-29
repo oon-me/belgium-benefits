@@ -1,0 +1,2685 @@
+{
+  "note": "Flemish and federal rights listed on rechtenverkenner.be (fetched 29 Oct 2026). rechtenverkenner is only the finder: every entry is verified on, and links to, the official page. done maps rechtenverkenner product number to our benefit id.",
+  "done": {
+    "131": 95,
+    "185": 5,
+    "365": 15,
+    "676": 99,
+    "685": 11,
+    "692": 6,
+    "697": 96,
+    "726": 90,
+    "749": 87,
+    "833": 91,
+    "835": 20,
+    "854": 89,
+    "862": 44,
+    "879": 92,
+    "885": 88,
+    "1213": 16,
+    "1387": 101,
+    "1526": 97,
+    "1530": 98,
+    "1531": 1,
+    "1532": 21,
+    "1564": 47,
+    "1810": 45,
+    "1975": 100,
+    "2026": 9,
+    "3068": 25,
+    "3072": 94,
+    "3111": 26,
+    "75018": 93,
+    "77094": 27
+  },
+  "queue": [
+    {
+      "nr": "3061",
+      "name": "Adoptieverlof en -uitkering voor zelfstandigen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/geboorteverlof-en-adoptieverlof/adoptieverlof-voor-zelfstandigen"
+      ]
+    },
+    {
+      "nr": "814",
+      "name": "Belastingkrediet voor kinderen ten laste",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie/personen-ten-laste/kinderen"
+      ]
+    },
+    {
+      "nr": "828",
+      "name": "Belastingvermindering voor de kosten voor kinderopvang",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang"
+      ]
+    },
+    {
+      "nr": "3077",
+      "name": "Belastingvermindering voor pensioensparen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://fin.belgium.be/nl/particulieren/belastingvoordelen/pensioensparen"
+      ]
+    },
+    {
+      "nr": "815",
+      "name": "Belastingvrije som bij opvang van een ouder familielid",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie-gezinssituatie/personen-ten-laste/andere"
+      ]
+    },
+    {
+      "nr": "3014",
+      "name": "Belastingvrijstelling voor Duitse oorlogspensioenen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers#DuitsteBelastingen"
+      ]
+    },
+    {
+      "nr": "38554",
+      "name": "Beroepsziekte - Terugbetaling van verplaatsingskosten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/themas/vergoedingen-bz/vergoedingen-bij-een-beroepsziekte"
+      ]
+    },
+    {
+      "nr": "3108",
+      "name": "Beroepsziekte - Vergoeding van begrafeniskosten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/themas/aanvraag-en-procedure-ao/overlijden-door-arbeidsongeval",
+        "https://www.fedris.be/nl/themas/vergoedingen-ao/vergoeding-bij-overlijden",
+        "https://www.fedris.be/nl/themas/aanvraag-en-procedure-bz/overlijden-als-gevolg-van-een-beroepsziekte",
+        "https://www.fedris.be/nl/themas/vergoedingen-bz/vergoedingen-bij-overlijden-aan-een-beroepsziekte"
+      ]
+    },
+    {
+      "nr": "3102",
+      "name": "Beroepsziekte - Vergoeding voor blijvende arbeidsongeschiktheid",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/themas/vergoedingen-bz/vergoedingen-bij-een-beroepsziekte"
+      ]
+    },
+    {
+      "nr": "3100",
+      "name": "Beroepsziekte - Vergoeding voor tijdelijke arbeidsongeschiktheid",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/themas/vergoedingen-bz/vergoedingen-bij-een-beroepsziekte"
+      ]
+    },
+    {
+      "nr": "3117",
+      "name": "Beroepsziekten - Terugbetaling van gezondheidszorgen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/contact-page/contact"
+      ]
+    },
+    {
+      "nr": "1916",
+      "name": "Beschermingsuitkering",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.rva.be/burgers/volledige-werkloosheid/diversen/heeft-u-recht-op-beschermingsuitkeringen"
+      ]
+    },
+    {
+      "nr": "3066",
+      "name": "Betere terugbetaling bij regelmatig tandartsbezoek (het mondzorgtraject)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/professionals/individuele-zorgverleners/tandartsen/verstrekkingen-kostprijs-en-terugbetaling/het-mondzorgtraject"
+      ]
+    },
+    {
+      "nr": "3050",
+      "name": "Extra tegemoetkoming in de prijs van voorbehoedsmiddelen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/contraceptie"
+      ]
+    },
+    {
+      "nr": "2955",
+      "name": "Financiële tegemoetkoming voor bijzondere voeding in geval van zeldzame monogenetische erfelijke metabole ziekten of syndroom van Smith-Lemli-Opitz",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/zeldzame-monogenische-erfelijke-metabole-ziekten"
+      ]
+    },
+    {
+      "nr": "832",
+      "name": "Forfait voor incontinentie bij afhankelijke personen (RIZIV)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-incontinentie-bij-afhankelijke-personen"
+      ]
+    },
+    {
+      "nr": "2997",
+      "name": "Forfait voor onbehandelbare urine-incontinentie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-onbehandelbare-urine-incontinentie"
+      ]
+    },
+    {
+      "nr": "2957",
+      "name": "Forfaitaire tegemoetkoming bij enterale sondevoeding",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-thuis-enterale-sondevoeding"
+      ]
+    },
+    {
+      "nr": "2954",
+      "name": "Forfaitaire tegemoetkoming voor bijzondere voedingsproducten voor kinderen met chronische nierinsufficiëntie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/chronische-nierinsufficientie"
+      ]
+    },
+    {
+      "nr": "2968",
+      "name": "Forfaitaire tegemoetkoming voor thuispatiënten in een persisterende vegetatieve status",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/forfait-voor-thuispatienten-in-een-persisterende-vegetatieve-status"
+      ]
+    },
+    {
+      "nr": "3046",
+      "name": "Forfaitaire terugbetaling van farmaceutische specialiteiten gebruikt bij vruchtbaarheidsstoornissen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/vruchtbaarheidsstoornissen"
+      ]
+    },
+    {
+      "nr": "2958",
+      "name": "Forfaitaire vergoeding voor parenterale voeding en de opvolging ervan",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-thuis-parenterale-voeding",
+        "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/ziekenhuizen/verzorging-in-ziekenhuizen/parenterale-voeding-thuis-terugbetaling-van-opleiding-en-opvolging-door-een-multidisciplinair-team"
+      ]
+    },
+    {
+      "nr": "3043",
+      "name": "Gedeeltelijke terugbetaling bezoeken en raadplegingen van algemeen geneeskundigen en artsen-specialisten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt"
+      ]
+    },
+    {
+      "nr": "3044",
+      "name": "Gedeeltelijke terugbetaling geneesmiddelen bij apothekers/ziekenhuis",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen"
+      ]
+    },
+    {
+      "nr": "3121",
+      "name": "Gedeeltelijke terugbetaling van door verpleegkundigen en door diensten thuisverpleging verstrekte hulp (RIZIV)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt"
+      ]
+    },
+    {
+      "nr": "3091",
+      "name": "Gedeeltelijke terugbetaling van kinesitherapie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt"
+      ]
+    },
+    {
+      "nr": "3074",
+      "name": "Gedeeltelijke terugbetaling van logopedie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.caami-hziv.fgov.be/nl/leden/terugbetaling-medische-kosten/terugbetalingen/logopedie"
+      ]
+    },
+    {
+      "nr": "3086",
+      "name": "Gewaarborgd minimumpensioen",
+      "level": "Federaal",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "2959",
+      "name": "Hulp of vergoeding voor slachtoffers van opzettelijke geweldsdaden",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://justitie.belgium.be/nl/themas/wat_moet_u_doen_als/slachtoffer/financiele_hulp/opzettelijke_gewelddaden/voor_wie"
+      ]
+    },
+    {
+      "nr": "807",
+      "name": "Inhaalpremie voor langdurige arbeidsongeschiktheid",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/de-inhaalpremie",
+        "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/zelfstandigen/de-inhaalpremie"
+      ]
+    },
+    {
+      "nr": "1656",
+      "name": "Inkomensgarantie-uitkering",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.rva.be/burgers/deeltijdse-arbeid/hebt-u-recht-op-de-inkomensgarantie-uitkering"
+      ]
+    },
+    {
+      "nr": "1216",
+      "name": "Inschakelingsuitkering na de beroepsinschakelingstijd",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.vdab.be/orienteren/pas-van-school/schrijf-je-in/inschakelingsuitkering",
+        "https://www.rva.be/burgers/volledige-werkloosheid/hervorming-van-de-werkloosheidsreglementering/hervorming-van-de-inschakelingsuitkeringen"
+      ]
+    },
+    {
+      "nr": "3081",
+      "name": "Inschakelingsvergoeding bij collectief ontslag na herstructurering",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.rva.be/burgers/tewerkstelling---opleiding/herstructurering/uw-rechten-en-plichten-in-het-kader-van-de-herstructurering-van-het-bedrijf-waarvoor-u-werkt#welke-rechten-hebt-u"
+      ]
+    },
+    {
+      "nr": "3112",
+      "name": "Invaliditeitspensioen voor mijnwerkers",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/mijnwerkers/de-aanvraag-van-een-invaliditeitspensioen-voor-mijnwerkers"
+      ]
+    },
+    {
+      "nr": "3076",
+      "name": "Jaarlijks vakantiegeld voor werknemers",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.rjv.fgov.be/nl/heb-ik-recht-op-vakantiegeld"
+      ]
+    },
+    {
+      "nr": "883",
+      "name": "Korting op treinticket NMBS vanaf 65 jaar",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.belgiantrain.be/nl/products/senior"
+      ]
+    },
+    {
+      "nr": "3073",
+      "name": "Maximumfactuur voor chronisch zieken",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/types-van-maximumfactuur-maf"
+      ]
+    },
+    {
+      "nr": "3071",
+      "name": "Maximumfactuur voor een kind jonger dan 19 jaar",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/types-van-maximumfactuur-maf"
+      ]
+    },
+    {
+      "nr": "3062",
+      "name": "Onbeperkt uitstel van invordering van fiscale schulden en vrijstelling van nalatigheidsinteresten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://fin.belgium.be/nl/particulieren/betalen-terugkrijgen/moeilijkheden-betalen/alternatieve-mogelijkheden/onbeperkt-uitstel-en-vrijstelling-van-nalatigheidsinteresten"
+      ]
+    },
+    {
+      "nr": "3055",
+      "name": "Oorlogsinvaliditeitspensioen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers#invaliditeitspensioen_oorlogsfeiten_aanvragen"
+      ]
+    },
+    {
+      "nr": "136",
+      "name": "Overlevingspensioen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.sfpd.fgov.be/nl/recht-op-pensioen/overlevingspensioen"
+      ]
+    },
+    {
+      "nr": "2945",
+      "name": "Overlevingsrente bij overlijden na beroepsziekte",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/themas/vergoedingen-bz/vergoedingen-bij-overlijden-aan-een-beroepsziekte"
+      ]
+    },
+    {
+      "nr": "3087",
+      "name": "Recht op gewaarborgd loon",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-6#toc_heading_3"
+      ]
+    },
+    {
+      "nr": "2956",
+      "name": "Rente voor de slachtoffers van raciale vervolgingen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers"
+      ]
+    },
+    {
+      "nr": "3103",
+      "name": "Rouwverlof en rouwuitkering voor zelfstandigen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.rsvz.be/nl/faq/rouwuitkering"
+      ]
+    },
+    {
+      "nr": "728",
+      "name": "Rustpensioen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.sfpd.fgov.be/nl/recht-op-pensioen#rechtRustOuderdomspensioen"
+      ]
+    },
+    {
+      "nr": "43693",
+      "name": "Sociaal internetaanbod",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://economie.fgov.be/nl/themas/online/telecommunicatie/sociaal-internetaanbod-gunstig"
+      ]
+    },
+    {
+      "nr": "49892",
+      "name": "Sociaaltariefpremie voor collectieve installaties",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://economie.fgov.be/nl/themas/energie/sociale-energie/de-sociaaltariefpremie-voor"
+      ]
+    },
+    {
+      "nr": "3016",
+      "name": "Sociale maximumfactuur",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/types-van-maximumfactuur-maf"
+      ]
+    },
+    {
+      "nr": "3089",
+      "name": "Tegemoetkoming bij bevalling",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be"
+      ]
+    },
+    {
+      "nr": "2962",
+      "name": "Tegemoetkoming bij medische ongevallen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/medische-ongevallen"
+      ]
+    },
+    {
+      "nr": "3088",
+      "name": "Tegemoetkoming bij revalidatiezorg",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/persoonlijk-aandeel-te-betalen-voor-de-zorg-verstrekt-door-een-centrum-dat-een-revalidatieovereenkomst-sloot"
+      ]
+    },
+    {
+      "nr": "3000",
+      "name": "Tegemoetkoming in cognitieve gedragstherapie bij het chronisch vermoeidheidssyndroom (CVS )en Myalgische encephalomyelitis (ME)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/myalgische-encephalomyelitis-chronisch-vermoeidheidssyndroom/cognitief-gedragstherapeut-de-behandeling-van-me-cvs"
+      ]
+    },
+    {
+      "nr": "2988",
+      "name": "Tegemoetkoming in de kosten van chronische mechanische ademhalingsondersteuning thuis",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/ademhalingsondersteuning-thuis"
+      ]
+    },
+    {
+      "nr": "2985",
+      "name": "Tegemoetkoming in de kosten van chronische mechanische ademhalingsondersteuning thuis voor sommige obese patiënten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/obesity-hypoventilation-syndrome-ohs"
+      ]
+    },
+    {
+      "nr": "3008",
+      "name": "Tegemoetkoming in de kosten van continue glucosemonitoring voor personen met diabetes in een gespecialiseerd centrum",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-van-continue-glucosemonitoring-in-een-gespecialiseerd-centrum"
+      ]
+    },
+    {
+      "nr": "3007",
+      "name": "Tegemoetkoming in de kosten van de behandeling van zeldzame erfelijke monogene metabole ziekten in een gespecialiseerd centrum",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/zeldzame-erfelijke-monogene-metabole-ziekten-tegemoetkoming-in-de-kosten-van-de-behandeling-door-een-gespecialiseerd-centrum"
+      ]
+    },
+    {
+      "nr": "2993",
+      "name": "Tegemoetkoming in de kosten van de opvolging van patiënten met hemofilie door een gespecialiseerd centrum",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-bloed-en-van-het-immuniteitsysteem/hemofilie"
+      ]
+    },
+    {
+      "nr": "3079",
+      "name": "Tegemoetkoming in de kosten van een begeleiding in een gespecialiseerd centrum voor transgenderzorg",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/transgenderzorg-onze-tegemoetkoming-in-de-kosten-van-een-begeleiding-in-een-gespecialiseerd-centrum"
+      ]
+    },
+    {
+      "nr": "3013",
+      "name": "Tegemoetkoming in de kosten van een behandeling in een hartrevalidatiecentrum",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/hartziekten"
+      ]
+    },
+    {
+      "nr": "2989",
+      "name": "Tegemoetkoming in de kosten van een revalidatie in een gespecialiseerd centrum bij ernstige chronische ademhalingsstoornissen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/verzorging-in-een-revalidatiecentrum"
+      ]
+    },
+    {
+      "nr": "2987",
+      "name": "Tegemoetkoming in de kosten van een thuisbehandeling bij het slaapapneusyndroom",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/obstructief-slaapapneesyndroom-osas"
+      ]
+    },
+    {
+      "nr": "2976",
+      "name": "Tegemoetkoming in de kosten van ergotherapeutische verstrekkingen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/ergotherapie"
+      ]
+    },
+    {
+      "nr": "3011",
+      "name": "Tegemoetkoming in de kosten van het gebruik van geavanceerde of dure technologieën in een gespecialiseerd centrum voor mensen met diabetes",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-van-het-gebruik-van-geavanceerde-of-dure-technologieen-in-een-gespecialiseerd-centrum"
+      ]
+    },
+    {
+      "nr": "2984",
+      "name": "Tegemoetkoming in de kosten van langdurige zuurstoftherapie thuis",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/langdurige-zuurstoftherapie"
+      ]
+    },
+    {
+      "nr": "2980",
+      "name": "Tegemoetkoming in de kosten van psychosociale ondersteuning en de mogelijkheid tot autopsie bij het onverklaard overlijden van jonge kinderen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/onverklaard-overlijden-van-jonge-kinderen"
+      ]
+    },
+    {
+      "nr": "3004",
+      "name": "Tegemoetkoming in de kosten voor begeleiding in een gespecialiseerd centrum van diabetespatiënten met een draagbare insulinepomp",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-begeleiding-in-een-gespecialiseerd-centrum-van-diabetespatienten-met-een-draagbare-insulinepomp"
+      ]
+    },
+    {
+      "nr": "3033",
+      "name": "Tegemoetkoming in de kosten voor behandeling in gespecialiseerde centra voor personen met een neuromusculaire ziekte",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/neuromusculaire-ziekten-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra"
+      ]
+    },
+    {
+      "nr": "3031",
+      "name": "Tegemoetkoming in de kosten voor behandeling in gespecialiseerde centra voor personen met hersenverlamming",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/hersenverlamming-cerebral-palsy-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra"
+      ]
+    },
+    {
+      "nr": "3021",
+      "name": "Tegemoetkoming in de kosten voor behandeling in gespecialiseerde centra voor personen met spina bifida en/of een bewezen vorm van gekluisterd ruggenmerg syndroom",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/spina-bifida"
+      ]
+    },
+    {
+      "nr": "3032",
+      "name": "Tegemoetkoming in de kosten voor behandeling in revalidatiecentra voor personen met locomotorische en neurologische aandoeningen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/locomotorische-en-neurologische-aandoeningen-tegemoetkoming-in-de-kosten-voor-behandeling-in-revalidatiecentra"
+      ]
+    },
+    {
+      "nr": "3035",
+      "name": "Tegemoetkoming in de kosten voor behandeling van kinderen en adolescenten met nierziekten in gespecialiseerde centra",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/nierziekten/nierziekten-tegemoetkoming-in-de-kosten-voor-behandeling-van-kinderen-en-adolescenten-in-gespecialiseerde-centra"
+      ]
+    },
+    {
+      "nr": "3006",
+      "name": "Tegemoetkoming in de kosten voor behandeling van mucoviscidose in gespecialiseerde centra",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mucoviscidose-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra"
+      ]
+    },
+    {
+      "nr": "2992",
+      "name": "Tegemoetkoming in de kosten voor de begeleiding in een gespecialiseerd centrum van patiënten die drager zijn van HIV of die lijden aan aids",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-bloed-en-van-het-immuniteitsysteem/hiv"
+      ]
+    },
+    {
+      "nr": "3002",
+      "name": "Tegemoetkoming in de kosten voor de begeleiding van volwassenen met diabetes in een gespecialiseerd centrum",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-de-begeleiding-van-volwassenen-in-een-gespecialiseerd-centrum"
+      ]
+    },
+    {
+      "nr": "3001",
+      "name": "Tegemoetkoming in de kosten voor de begeleiding van zelfregulatie bij kinderen en adolescenten met diabetes",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-de-begeleiding-van-zelfregulatie-bij-kinderen-en-adolescenten"
+      ]
+    },
+    {
+      "nr": "3018",
+      "name": "Tegemoetkoming in de kosten voor de behandeling van beginnende dementie in geheugenklinieken",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/beginnende-dementie"
+      ]
+    },
+    {
+      "nr": "3015",
+      "name": "Tegemoetkoming in de kosten voor de behandeling van epilepsie in gespecialiseerde centra",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/epilepsie"
+      ]
+    },
+    {
+      "nr": "2977",
+      "name": "Tegemoetkoming in de kosten voor opvolgingsonderzoeken in gespecialiseerde centra voor prematuur geboren kinderen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/opvolging-van-prematuur-geboren-kinderen"
+      ]
+    },
+    {
+      "nr": "3003",
+      "name": "Tegemoetkoming in de kosten voor zorg verstrekt in een gespecialiseerd centrum aan diabetespatiënten met voetwonden",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-zorg-verstrekt-in-een-gespecialiseerd-centrum-aan-diabetespatienten-met-voetwonden"
+      ]
+    },
+    {
+      "nr": "2966",
+      "name": "Tegemoetkoming in de prijs van armkousen en handschoenen wegens lymfoedeem",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/armkousen-en-handschoenen-wegens-lymfoedeem"
+      ]
+    },
+    {
+      "nr": "2971",
+      "name": "Tegemoetkoming in de prijs van brilglazen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-brilglazen"
+      ]
+    },
+    {
+      "nr": "2972",
+      "name": "Tegemoetkoming in de prijs van contactlenzen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-contactlenzen"
+      ]
+    },
+    {
+      "nr": "3020",
+      "name": "Tegemoetkoming in de prijs van de behandeling door gespecialiseerde centra voor kinderen en adolescenten die een neurologische stoornis gekoppeld aan een psychiatrische stoornis hebben",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/kinderen-en-adolescenten-neurologische-stoornissen-gekoppeld-aan-psychiatrische-stoornissen"
+      ]
+    },
+    {
+      "nr": "3080",
+      "name": "Tegemoetkoming in de prijs van de hulp door centra voor medische en psychosociale begeleiding bij ongewenste zwangerschap",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/ongewenste-zwangerschap"
+      ]
+    },
+    {
+      "nr": "75762",
+      "name": "Tegemoetkoming in de prijs van externe borstprothesen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-externe-borstprothesen"
+      ]
+    },
+    {
+      "nr": "2965",
+      "name": "Tegemoetkoming in de prijs van steunkousen voor mensen met lymfoedeem of chronische veneuze aandoeningen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/prijs-van-steunkousen"
+      ]
+    },
+    {
+      "nr": "2995",
+      "name": "Tegemoetkoming in de reiskosten van dialysepatiënten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkoming-in-de-reiskosten-van-dialysepatienten"
+      ]
+    },
+    {
+      "nr": "838",
+      "name": "Tegemoetkoming in de reiskosten van kankerpatiënten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkoming-in-de-reiskosten-voor-kankerpatienten"
+      ]
+    },
+    {
+      "nr": "2974",
+      "name": "Tegemoetkoming in de reiskosten voor kinderen opgevolgd in een revalidatiecentrum",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/reiskosten-kinderen-in-centrum"
+      ]
+    },
+    {
+      "nr": "2975",
+      "name": "Tegemoetkoming in de vervoerskosten van rolstoelpatiënten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/themas/kost-terugbetaling/door-ziekenfonds/gespecialiseerde-centra/Paginas/tegemoetkoming-vervoerskosten-rolstoelpatienten.aspx"
+      ]
+    },
+    {
+      "nr": "2967",
+      "name": "Tegemoetkoming in panoramische radiografie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/terugbetaling-van-panoramische-radiografieen"
+      ]
+    },
+    {
+      "nr": "3119",
+      "name": "Tegemoetkoming in vroege of regelmatige orthodontie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/professionals/individuele-zorgverleners/tandartsen/verstrekkingen-kostprijs-en-terugbetaling/orthodontie-terugbetaalde-verstrekkingen-en-toepassingsregels-voor-tandartsen"
+      ]
+    },
+    {
+      "nr": "2999",
+      "name": "Tegemoetkoming kosten voor raadplegingen in multidisciplinaire diagnostische centra voor mensen met het chronisch vermoeidheidssyndroom (CVS)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/myalgische-encephalomyelitis-chronisch-vermoeidheidssyndroom/multidisciplinair-diagnostisch-centrum-voor-me-cvs"
+      ]
+    },
+    {
+      "nr": "2990",
+      "name": "Tegemoetkoming voor begeleidingsgesprekken voor astmapatiënten in de apotheek",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/gepersonaliseerde-begeleiding"
+      ]
+    },
+    {
+      "nr": "3056",
+      "name": "Tegemoetkoming voor een hoortoestel",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/hoortoestellen"
+      ]
+    },
+    {
+      "nr": "75019",
+      "name": "Tegemoetkoming voor het zorgtraject 'Obesitas bij kinderen'",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/gespecialiseerde-centra/zorgtraject-obesitas-bij-kinderen-multidisciplinaire-zorg-voor-een-betere-behandeling-van-uw-jonge-patienten"
+      ]
+    },
+    {
+      "nr": "808",
+      "name": "Tegemoetkoming voor hulp van derden bij arbeidsongeschiktheid",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/hulp-van-derden"
+      ]
+    },
+    {
+      "nr": "869",
+      "name": "Tegemoetkoming voor pijnstillers voor chronisch zieken",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/nieuws/chronische-pijn-raadpleeg-uw-arts-voor-1-januari-2022-voor-een-betere-vergoeding-van-uw-pijnstillers"
+      ]
+    },
+    {
+      "nr": "3095",
+      "name": "Tegemoetkoming voor verblijf in het ziekenhuis",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-ziekenhuizen"
+      ]
+    },
+    {
+      "nr": "3038",
+      "name": "Tegemoetkomingen in de kosten van zorg bij aanhoudende COVID-19-symptomen (Long-COVID-19)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/long-covid-19-tegemoetkoming-in-de-kosten-van-zorg-bij-aanhoudende-covid-19-symptomen"
+      ]
+    },
+    {
+      "nr": "2947",
+      "name": "Tegemoetkomingen voor patiënten met het primair syndroom van Sjögren",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkomingen-voor-patienten-met-het-primair-syndroom-van-sjogren"
+      ]
+    },
+    {
+      "nr": "51544",
+      "name": "Terug Naar Werk-fonds",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/socio-professionele-re-integratie/terug-naar-werk-fonds-nieuwe-perspectieven-voor-mensen-in-arbeidsongeschiktheid-dankzij-gespecialiseerde-dienstverlening-op-maat"
+      ]
+    },
+    {
+      "nr": "3052",
+      "name": "Terugbetaling Advance Care Planning  of vroegtijdige zorgplanning voor palliatieve zorg",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/palliatieve-zorg/palliatieve-zorg-nu-bespreken-voor-een-kwalitatieve-zorg-later-dat-is-advance-care-planning"
+      ]
+    },
+    {
+      "nr": "75766",
+      "name": "Terugbetaling afbouwprogramma voor benzodiazepines en aanverwante producten (Z-drugs)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/afbouwprogramma-voor-benzodiazepines-en-aanverwante-producten-z-drugs"
+      ]
+    },
+    {
+      "nr": "2964",
+      "name": "Terugbetaling begrafeniskosten bij overlijden van een ambtenaar",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.sfpd.fgov.be/nl/overlijden/begrafenisvergoeding"
+      ]
+    },
+    {
+      "nr": "2998",
+      "name": "Terugbetaling gepersonaliseerde follow-up door een huisapotheker",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/gepersonaliseerde-follow-up-door-een-huisapotheker"
+      ]
+    },
+    {
+      "nr": "52892",
+      "name": "Terugbetaling multidisciplinair zorgtraject voor jongeren met een eetstoornis",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geestelijke-gezondheidszorg/toegankelijke-zorg-voor-jongeren-tot-en-met-23-jaar-met-een-eetstoornis-dankzij-een-multidisciplinair-zorgtraject"
+      ]
+    },
+    {
+      "nr": "3049",
+      "name": "Terugbetaling van actieve verbandmiddelen om chronische wonden te verzorgen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/actieve-verbandmiddelen-voor-chronische-wonden"
+      ]
+    },
+    {
+      "nr": "75767",
+      "name": "Terugbetaling van begeleiding in een gespecialiseerd centrum bij lymfoedeem",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-vaatstelsel/lymfoedeem"
+      ]
+    },
+    {
+      "nr": "2950",
+      "name": "Terugbetaling van bijzondere voeding bij coeliakie of dermatitis herpetiformis",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/coeliakie-of-dermatitis-herpetiformis"
+      ]
+    },
+    {
+      "nr": "2952",
+      "name": "Terugbetaling van bijzondere voedingsproducten bij thuisgebruik in het geval van een allergie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/gluten-gliadine-allergie-of-graanmeelallergie-zonder-glutenallergie"
+      ]
+    },
+    {
+      "nr": "2960",
+      "name": "Terugbetaling van dieetvoeding bestemd voor een bijzonder medisch doel",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-terugbetaling-van-dieetvoeding-bestemd-voor-een-bijzonder-medisch-doel"
+      ]
+    },
+    {
+      "nr": "3037",
+      "name": "Terugbetaling van diëtiek voor kinderen met overgewicht of obesitas",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/terugbetaling-van-dietetiek-voor-kinderen-met-overgewicht-of-obesitas"
+      ]
+    },
+    {
+      "nr": "75764",
+      "name": "Terugbetaling van een zorgtraject chronische nierinsufficiëntie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/nierziekten/chronische-nierinsufficientie-terugbetaling-in-het-kader-van-een-zorgtraject"
+      ]
+    },
+    {
+      "nr": "3051",
+      "name": "Terugbetaling van magistrale bereidingen bij de apotheker",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/magistrale-bereidingen"
+      ]
+    },
+    {
+      "nr": "2961",
+      "name": "Terugbetaling van menselijk bloed en labiele bloedproducten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-menselijk-bloed-en-labiele-bloedproducten"
+      ]
+    },
+    {
+      "nr": "2963",
+      "name": "Terugbetaling van moedermelk voor te vroeg geboren zwakke zuigelingen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-moedermelk-voor-zwakke-te-vroeg-geboren-zuigelingen"
+      ]
+    },
+    {
+      "nr": "3069",
+      "name": "Terugbetaling van moeilijke tandherstellingen bij patiënten met kanker, anodontie en/of oligodontie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/professionals/individuele-zorgverleners/tandartsen/verstrekkingen-kostprijs-en-terugbetaling/terugbetaling-van-moeilijke-tandherstellingen-bij-patienten-met-kanker-anodontie-en-of-oligodontie"
+      ]
+    },
+    {
+      "nr": "3048",
+      "name": "Terugbetaling van radiofarmaceutische producten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/radiopharma"
+      ]
+    },
+    {
+      "nr": "2969",
+      "name": "Terugbetaling van stomamateriaal",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/terugbetaling-van-stomamateriaal"
+      ]
+    },
+    {
+      "nr": "3057",
+      "name": "Terugbetaling van urinaire autosondage",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/urinaire-autosondage-thuis"
+      ]
+    },
+    {
+      "nr": "3028",
+      "name": "Terugbetaling van verplaatsingskosten bij arbeidsongeval (privésector) (Fedris)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/formulier/terugbetaling-verplaatsingskosten-privesector"
+      ]
+    },
+    {
+      "nr": "2981",
+      "name": "Terugbetaling van verplaatsingskosten bij arbeidsongeval (publieke sector)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/themas/vergoedingen-ao/vergoedingen-de-publieke-sector"
+      ]
+    },
+    {
+      "nr": "3010",
+      "name": "Terugbetaling van verschillende begeleidingen voor personen met diabetes type 2",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen"
+      ]
+    },
+    {
+      "nr": "3047",
+      "name": "Terugbetaling voor kortdurende zuurstoftherapie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/palliatieve-zorg/kortdurende-zuurstoftherapie"
+      ]
+    },
+    {
+      "nr": "75765",
+      "name": "Terugbetaling zorgpad voor en na abdominale transplantatie",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/ziekenhuizen/verzorging-in-ziekenhuizen/abdominale-transplantatie-vergoedingen-voor-multidisciplinaire-pre-en-rehabilitatiezorgpaden-voor-en-na-een-abdominale-transplantatie"
+      ]
+    },
+    {
+      "nr": "868",
+      "name": "Toeslag belastingvrije som bij personenbelasting",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie/personen-ten-laste/kinderen"
+      ]
+    },
+    {
+      "nr": "804",
+      "name": "Tussenkomst in de kosten voor het vaccin tegen HPV",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.departementzorg.be/nl/infectieziekte/humaan-papillomavirus-hpv"
+      ]
+    },
+    {
+      "nr": "3017",
+      "name": "Tussenkomst in het programma van globale tenlasteneming voor patiënten met een ernstige neurologische ziekte in een gevorderd stadium",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/neurologische-ziekte-in-een-gevorderd-stadium-globale-tenlasteneming"
+      ]
+    },
+    {
+      "nr": "3101",
+      "name": "Uitkering voor mantelzorg door zelfstandigen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.rsvz.be/nl/faq/zorgen-voor-een-familielid-heb-ik-recht-op-een-uitkering-mantelzorg-en-hoe-vraag-ik-ze-aan"
+      ]
+    },
+    {
+      "nr": "3099",
+      "name": "Vaderschaps- en geboorte-uitkering voor zelfstandigen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.rsvz.be/nl/faq/vaderschaps-en-geboorte-uitkering",
+        "https://www.rsvz.be/nl/faq/vaderschaps-en-geboorteverlof-heb-ik-er-recht-op-en-hoe-vraag-ik-het-aan"
+      ]
+    },
+    {
+      "nr": "3115",
+      "name": "Verergeringsvergoeding overheidspersoneel",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.health.belgium.be/nl/medex/overheidspersoneel/arbeidsongevallen/herziening-en-verergering"
+      ]
+    },
+    {
+      "nr": "3030",
+      "name": "Vergoeding bij asbestziekte",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.asbestfonds.be/nl"
+      ]
+    },
+    {
+      "nr": "2978",
+      "name": "Vergoeding bij definitieve stopzetting van schadelijk werk",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/themas/preventie-bz/stopzetting-van-werk-om-gezondheidsredenen"
+      ]
+    },
+    {
+      "nr": "3063",
+      "name": "Vergoeding van beengeleidingssystemen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-beengeleidingssystemen"
+      ]
+    },
+    {
+      "nr": "3059",
+      "name": "Vergoeding van cochleaire implantaten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-cochleaire-implantaten"
+      ]
+    },
+    {
+      "nr": "3064",
+      "name": "Vergoeding van de implantaten voor de reconstructie van de gehoorbeentjes",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-de-implantaten-voor-de-reconstructie-van-de-gehoorbeentjes"
+      ]
+    },
+    {
+      "nr": "3058",
+      "name": "Vergoeding van draagbare diffusors of cassettes voor antibiotica voor personen met mucoviscidose",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/mucoviscidose-draagbare-diffusors-of-cassettes-voor-antibiotica"
+      ]
+    },
+    {
+      "nr": "61308",
+      "name": "Vergoeding van medische voeding bij koemelkallergie voor zuigelingen",
+      "level": "Federaal",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "3060",
+      "name": "Vergoeding van middenoorimplantaten",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-middenoorimplantaten"
+      ]
+    },
+    {
+      "nr": "3026",
+      "name": "Vergoeding voor asbestziektes door het werk",
+      "level": "Federaal",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "3027",
+      "name": "Vergoeding voor blijvende arbeidsongeschiktheid na arbeidsongeval (privésector)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.fedris.be/nl/themas/vergoedingen-ao/vergoedingen-de-privesector",
+        "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte/vergoedingen-na-arbeidsongeval"
+      ]
+    },
+    {
+      "nr": "75020",
+      "name": "Vergoeding voor thuishospitalisatie voor oncologie en antimicrobiële behandeling",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/thuishospitalisatie-voor-oncologie-en-antimicrobiele-behandeling"
+      ]
+    },
+    {
+      "nr": "3113",
+      "name": "Verlaagd btw-tarief voor de afbraak en heropbouw van gebouwen op het hele Belgische grondgebied",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://fin.belgium.be/nl/particulieren/woning/bouwen-verbouwen/afbraak-wederopbouw"
+      ]
+    },
+    {
+      "nr": "3092",
+      "name": "Verlaagd btw-tarief voor personen met een handicap voor de aankoop en onderhoud van een wagen",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://fin.belgium.be/nl/particulieren/belastingvoordelen/autos-personen-beperking"
+      ]
+    },
+    {
+      "nr": "2983",
+      "name": "Vermindering werknemersbijdragen bij ontslag na herstructurering",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/deductions/workers_reductions/contributionreduction_restructuring.html"
+      ]
+    },
+    {
+      "nr": "2986",
+      "name": "Verwarmingstoelage bij pensioen voor mijnwerkers",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.sfpd.fgov.be/nl/pensioenbedrag/berekening/verschillende-soorten-pensioenen/werknemers/speciale-stelsels#verwarmingstoelage"
+      ]
+    },
+    {
+      "nr": "860",
+      "name": "Voorschot op de alimentatievordering",
+      "level": "Federaal",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "3098",
+      "name": "Welvaartspremie bovenop het pensioen als zelfstandige",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.rsvz.be/nl/voordelen-bovenop-je-pensioen-als-zelfstandige"
+      ]
+    },
+    {
+      "nr": "836",
+      "name": "Werkbonus federale overheid (BOSA)",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://bosa.belgium.be/sites/default/files/content/documents/WEB_SYL_Werkbonus_juni2024.pdf"
+      ]
+    },
+    {
+      "nr": "809",
+      "name": "Ziekte- en invaliditeitsuitkering",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte/vergoedingen-bij-arbeidsongeschiktheid",
+        "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/de-arbeidsongeschiktheidsuitkering"
+      ]
+    },
+    {
+      "nr": "894",
+      "name": "Zorgforfait voor chronisch zieken",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-chronisch-zieken"
+      ]
+    },
+    {
+      "nr": "3034",
+      "name": "Zwangerschap - uitkering voor gedeeltelijke werkverwijdering",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/werkverwijdering"
+      ]
+    },
+    {
+      "nr": "3036",
+      "name": "Zwangerschap - uitkering voor volledige werkverwijdering",
+      "level": "Federaal",
+      "financial": true,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/werkverwijdering"
+      ]
+    },
+    {
+      "nr": "3093",
+      "name": "Tegemoetkoming in vaccinaties",
+      "level": "Federaal/Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.socialsecurity.be/citizen/nl/gezondheid/terugbetaalde-vaccinaties",
+        "https://www.laatjevaccineren.be"
+      ]
+    },
+    {
+      "nr": "699",
+      "name": "Aanmoedigingspremie",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/vlaamse-aanmoedigingspremie"
+      ]
+    },
+    {
+      "nr": "1667",
+      "name": "Abattement (vrijstelling) in de erfbelasting voor een erfopvolger met een handicap",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/abattement-in-de-erfbelasting-voor-een-erfopvolger-met-een-handicap"
+      ]
+    },
+    {
+      "nr": "58345",
+      "name": "Abattement op de schenkbelasting voor begiftigden met een handicap",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "486",
+      "name": "Buzzy Pazz, van 6 tot 24 jaar",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.delijn.be/nl/content/abonnementen/buzzy-pazz/"
+      ]
+    },
+    {
+      "nr": "46632",
+      "name": "De lerarenbonus",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/salaris-onderwijspersoneel/vergoedingen-en-toelagen-voor-onderwijspersoneel/de-lerarenbonus"
+      ]
+    },
+    {
+      "nr": "3082",
+      "name": "Gratis begeleiding door een Multidisciplinaire BegeleidingsEquipe voor palliatieve verzorging (MBE)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.departementzorg.be/nl/wat-zijn-multidisciplinaire-begeleidingsequipes"
+      ]
+    },
+    {
+      "nr": "1371",
+      "name": "Gratis treinticket om te solliciteren",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vdab.be/jobs/voordelen/treinticket"
+      ]
+    },
+    {
+      "nr": "2153",
+      "name": "Individueel Maatwerk",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/individueel-maatwerk"
+      ]
+    },
+    {
+      "nr": "2784",
+      "name": "JobbonusPLUS voor zelfstandigen",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/jobbonus/jobbonusplus-voor-zelfstandigen"
+      ]
+    },
+    {
+      "nr": "1130",
+      "name": "Kinderopvang met inkomenstarief",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.kindengezin.be/nl/thema/kinderopvang-en-naar-school/kostprijs/inkomenstarief"
+      ]
+    },
+    {
+      "nr": "1823",
+      "name": "Leefvergoeding voor personen onder elektronisch toezicht",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "75001",
+      "name": "Leerlingenpremie alternerende opleiding",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/leerlingenpremie-alternerende-opleiding"
+      ]
+    },
+    {
+      "nr": "77950",
+      "name": "Meerjarenpremieovereenkomst via oproep voor grote of langdurige werkzaamheden aan of in beschermde goederen of erfgoedlandschappen",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.onroerenderfgoed.be/meerjarenpremieovereenkomst"
+      ]
+    },
+    {
+      "nr": "2847",
+      "name": "Ondersteuningstoeslag (Vlaams Groeipakket)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/ondersteuningstoeslag"
+      ]
+    },
+    {
+      "nr": "199",
+      "name": "Opleidingscheques voor werknemers",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "49105",
+      "name": "Partnerabattement voor de roerende goederen in de erfbelasting",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/erfbelasting"
+      ]
+    },
+    {
+      "nr": "1446",
+      "name": "Persoonlijke-assistentiebudget voor personen met een handicap (PAB)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vaph.be/persoonlijke-budgetten/pab/algemeen"
+      ]
+    },
+    {
+      "nr": "1764",
+      "name": "Persoonsvolgend budget voor personen met een handicap (PVB)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vaph.be/persoonlijke-budgetten/pvb/algemeen"
+      ]
+    },
+    {
+      "nr": "1548",
+      "name": "Pleegzorgtoeslag (Vlaams Groeipakket)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "2344",
+      "name": "Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten"
+      ]
+    },
+    {
+      "nr": "197",
+      "name": "Premie voor het behalen van een diploma secundair onderwijs via het volwassenenonderwijs",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "1533",
+      "name": "Schoolbonus (Vlaams Groeipakket)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/schoolbonus"
+      ]
+    },
+    {
+      "nr": "241",
+      "name": "Sociaal tarief of vrijstelling van de heffing op de waterverontreiniging",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "51959",
+      "name": "Subsidie kadervorming jeugdwerkbegeleiders (VGC)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "1423",
+      "name": "Tegemoetkoming in de kosten woon-werkverkeer voor personen met een beperking",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/terugbetaling-verplaatsingskosten"
+      ]
+    },
+    {
+      "nr": "331",
+      "name": "Tegemoetkoming in kosten kinderopvang voor werkzoekenden in opleiding",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vdab.be/opleidingen/gratis-en-voordelig-leren/geen-werk/erkend"
+      ]
+    },
+    {
+      "nr": "1247",
+      "name": "Tegemoetkoming voor arbeidsgereedschap, -kleding en arbeidspostaanpassingen",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/tussenkomst-arbeidsgereedschap"
+      ]
+    },
+    {
+      "nr": "1939",
+      "name": "Tegemoetkoming voor hulpmiddelen voor personen met een handicap",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vaph.be/hulpmiddelen"
+      ]
+    },
+    {
+      "nr": "77395",
+      "name": "Vergoeding voor schade door slechte staat van een gewestweg of door wegenwerken op een gewestweg",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "201",
+      "name": "Verhoogde vermindering van de onroerende voorheffing voor bescheiden woning",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verhoogde-vermindering-van-de-onroerende-voorheffing-voor-bescheiden-nieuwbouwwoning"
+      ]
+    },
+    {
+      "nr": "1509",
+      "name": "Verkooprecht op de gezinswoning",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "58255",
+      "name": "Verlaagd tarief van de verkooprechten voor de aankoop van een sociale woning",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "75067",
+      "name": "Vermindering in de erfbelasting voor kinderen van de overledene jonger dan 21 jaar",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vermindering-in-de-erfbelasting-voor-kinderen-van-de-overledene-jonger-dan-21-jaar"
+      ]
+    },
+    {
+      "nr": "631",
+      "name": "Vermindering van de onroerende voorheffing voor bescheiden woning",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/bouwen-wonen-en-energie/vermindering-van-de-onroerende-voorheffing-voor-bescheiden-woning"
+      ]
+    },
+    {
+      "nr": "630",
+      "name": "Vermindering van de onroerende voorheffing voor gezinsbijslaggerechtigde kinderen",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-gezinsbijslaggerechtigde-kinderen"
+      ]
+    },
+    {
+      "nr": "688",
+      "name": "Vermindering van de onroerende voorheffing voor huurders",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-onroerende-voorheffing-als-huurder"
+      ]
+    },
+    {
+      "nr": "496",
+      "name": "Vermindering van de onroerende voorheffing voor oorlogsslachtoffers (grootoorlogsverminkten)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-oorlogsslachtoffers"
+      ]
+    },
+    {
+      "nr": "682",
+      "name": "Vermindering van de onroerende voorheffing voor personen met een handicap",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-personen-met-een-handicap"
+      ]
+    },
+    {
+      "nr": "58341",
+      "name": "Vermindering van de schenkbelasting wegens kinderlast",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "189",
+      "name": "Vermindering van inschrijvingsgeld in het volwassenenonderwijs",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "1424",
+      "name": "Verplaatsingsvergoeding voor werkzoekenden die een erkende opleiding volgen",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vdab.be/opleidingen/gratis-en-voordelig-leren/geen-werk/erkend"
+      ]
+    },
+    {
+      "nr": "1421",
+      "name": "Vlaams zorgkrediet voor de Vlaamse openbare sector",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/vlaams-zorgkrediet"
+      ]
+    },
+    {
+      "nr": "705",
+      "name": "Vlaamse woonlening",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://vlaamswoningfonds.be/vlaamse-woonlening"
+      ]
+    },
+    {
+      "nr": "75066",
+      "name": "Vrijstelling in de erfbelasting voor kinderen jonger dan 21 jaar die beide ouders verloren hebben",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-in-de-erfbelasting-voor-kinderen-jonger-dan-21-jaar-die-beide-ouders-verloren-hebben"
+      ]
+    },
+    {
+      "nr": "1327",
+      "name": "Vrijstelling van de belasting op inverkeerstelling (BIV) en de verkeersbelasting (VKB) voor personen met een handicap en oorlogsinvaliden",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "1906",
+      "name": "Vrijstelling van de onroerende voorheffing na renovatie of vervangbouw van verwaarloosde, ongeschikte of onbewoonbare onroerende goederen",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vrijstelling-van-de-onroerende-voorheffing-na-renovatie-of-vervangbouw-van-verwaarloosde-ongeschikte-of-onbewoonbare-onroerende-goederen"
+      ]
+    },
+    {
+      "nr": "58251",
+      "name": "Vrijstelling van de planbatenheffing als compensatie bij planschade",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "58250",
+      "name": "Vrijstelling van de planbatenheffing als er geen bijkomende vergunningsmogelijkheden zijn",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "58253",
+      "name": "Vrijstelling van de planbatenheffing bij herbestemming van een zonevreemde woning, bedrijf of gebouw",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "58249",
+      "name": "Vrijstelling van de planbatenheffing bij kleine bestemmingswijzigingen",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "58252",
+      "name": "Vrijstelling van de planbatenheffing bij onteigening of overdracht in der minne ten algemene nutte",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "58390",
+      "name": "Vrijstelling van de schenkbelasting bij erfenissprong",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "662",
+      "name": "Vrijstelling van erfbelasting op de gezinswoning voor de langstlevende partner",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-van-erfbelasting-op-de-gezinswoning-voor-de-langstlevende-partner"
+      ]
+    },
+    {
+      "nr": "1240",
+      "name": "Vrijstelling van erfbelasting voor de wettelijke terugkeer van schenkingen",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-van-erfbelasting-voor-de-wettelijke-terugkeer-van-schenkingen"
+      ]
+    },
+    {
+      "nr": "58277",
+      "name": "Vrijstelling van het verkooprecht voor natuurgoederen",
+      "level": "Vlaams",
+      "financial": true,
+      "official": []
+    },
+    {
+      "nr": "1549",
+      "name": "Wezentoeslag (Vlaams Groeipakket)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/wezentoeslag"
+      ]
+    },
+    {
+      "nr": "1527",
+      "name": "Zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte (Vlaams Groeipakket)",
+      "level": "Vlaams",
+      "financial": true,
+      "official": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/zorgtoeslag-voor-kinderen-met-een-specifieke-ondersteuningsbehoefte"
+      ]
+    },
+    {
+      "nr": "1466",
+      "name": "Europese handicapkaart of European Disability Card (EDC)",
+      "level": "Europees",
+      "financial": false,
+      "official": [
+        "https://eudisabilitycard.be/nl",
+        "https://eudisabilitycard.be/nl/voor-partners"
+      ]
+    },
+    {
+      "nr": "1672",
+      "name": "Adoptieverlof",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/adoptieverlof"
+      ]
+    },
+    {
+      "nr": "2949",
+      "name": "Ambtenaar tijdelijk gepensioneerd wegens lichamelijke ongeschiktheid",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.sfpd.fgov.be/nl/recht-op-pensioen/lichamelijke-ongeschiktheid"
+      ]
+    },
+    {
+      "nr": "812",
+      "name": "Basisbankdienst",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://economie.fgov.be/nl/themas/financiele-diensten/betalingsdiensten/basisbankdienst"
+      ]
+    },
+    {
+      "nr": "3122",
+      "name": "Beroepsziekte - Definitief stopzetten van een schadelijke beroepsactiviteit (Fedris)",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.fedris.be/nl/themas/preventie-bz/stopzetting-van-werk-om-gezondheidsredenen"
+      ]
+    },
+    {
+      "nr": "3120",
+      "name": "Beroepsziekte - Tijdelijk stopzetten van een schadelijke beroepsactiviteit",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.fedris.be/nl/themas/preventie-bz/stopzetting-van-werk-om-gezondheidsredenen"
+      ]
+    },
+    {
+      "nr": "55547",
+      "name": "Bijverdienen tijdens uw pensioen",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.sfpd.fgov.be/nl/pensioenbedrag/bijverdienen"
+      ]
+    },
+    {
+      "nr": "3114",
+      "name": "Borstvoedingspauzes",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/borstvoedingspauzes"
+      ]
+    },
+    {
+      "nr": "3116",
+      "name": "Herziening arbeidsongeval overheidspersoneel",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.health.belgium.be/nl/medex/overheidspersoneel/arbeidsongevallen/herziening-en-verergering"
+      ]
+    },
+    {
+      "nr": "837",
+      "name": "Juridische tweedelijnsbijstand (Pro-Deoadvocaat)",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://justitie.belgium.be/nl/nieuws/persberichten/juridische_tweedelijnsbijstand_nieuwe_regels",
+        "https://www.advocaat.be/nl/gratis-rechtsbijstand/tweedelijnsbijstand",
+        "https://www.budgetwijzer.be/nl"
+      ]
+    },
+    {
+      "nr": "246",
+      "name": "Kaart voor kosteloos begeleiden van een persoon met een handicap op het openbaar vervoer",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.belgiantrain.be/nl/products/special-conditions/free-carer"
+      ]
+    },
+    {
+      "nr": "250",
+      "name": "Kaart voor Vaderlandslievende Reden (NMBS)",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.belgiantrain.be/nl/products/special-conditions/national-recognition-status",
+        "https://www.caami-hziv.fgov.be/nl/oorlogsslachtoffers"
+      ]
+    },
+    {
+      "nr": "881",
+      "name": "Kortingkaart NMBS ‘Verhoogde tegemoetkoming'",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.belgiantrain.be/nl/products/special-conditions/preferential-reimbursement-ticket"
+      ]
+    },
+    {
+      "nr": "1991",
+      "name": "Materiële steun tijdens asielprocedures",
+      "level": "Federaal",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "3067",
+      "name": "Omgezet moederschapsverlof (bij overlijden moeder)",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof#toc_heading_4",
+        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-werknemers-en-werklozen"
+      ]
+    },
+    {
+      "nr": "3065",
+      "name": "Omstandigheidsverlof voor werknemers",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/schorsingen-van-de"
+      ]
+    },
+    {
+      "nr": "1225",
+      "name": "Ouderschapsverlof",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/ouderschapsverlof"
+      ]
+    },
+    {
+      "nr": "960",
+      "name": "Outplacement voor werknemers",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/outplacement"
+      ]
+    },
+    {
+      "nr": "863",
+      "name": "Palliatief verlof",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/palliatief-verlof"
+      ]
+    },
+    {
+      "nr": "160",
+      "name": "Parkeerkaart voor personen met een handicap",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://handicap.belgium.be/nl/andere-hulp/parkeerkaart"
+      ]
+    },
+    {
+      "nr": "1655",
+      "name": "Pleegouderverlof",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/pleegouderverlof-voor-werknemers"
+      ]
+    },
+    {
+      "nr": "1649",
+      "name": "Pleegzorgverlof",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.rva.be/burgers/verlof/het-verlof-voor-pleegzorgen",
+        "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/pleegzorgverlof"
+      ]
+    },
+    {
+      "nr": "2996",
+      "name": "Recht op afwezigheid voor zwangerschapsonderzoeken (werk)",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof#toc_heading_3"
+      ]
+    },
+    {
+      "nr": "3105",
+      "name": "Recht op buitengerechtelijke bescherming",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://justitie.belgium.be/nl/themas_en_dossiers/personen_en_gezinnen/bescherming_van_meerderjarigen/buitengerechtelijke_bescherming"
+      ]
+    },
+    {
+      "nr": "76117",
+      "name": "Recht op doorstart bij vrijwillig ontslag",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.rva.be/bladzijde/welke-gevolgen-kan-een-werkverlating-zonder-geldige-reden-hebben-voor-uw-recht-op-uitkeringen#bent-u-uitgesloten-na-een-werkverlating-en-wenst-u-gebruik-te-maken-van-het-recht-op-doorstart"
+      ]
+    },
+    {
+      "nr": "3107",
+      "name": "Recht op hulp als slachtoffer",
+      "level": "Federaal",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "3040",
+      "name": "Recht op schuldsaldoverzekering na ziekte",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://economie.fgov.be/nl/themas/financiele-diensten/verzekeringen/schuldsaldo/toegangsbevorderende"
+      ]
+    },
+    {
+      "nr": "3053",
+      "name": "Recht op tegemoetkoming bemiddeling",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.slachtofferzorg.be/contact-met-de-dader"
+      ]
+    },
+    {
+      "nr": "3009",
+      "name": "Revalidatieprogramma lage rugpijn",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.fedris.be/nl/themas/lage-rugpijn"
+      ]
+    },
+    {
+      "nr": "3012",
+      "name": "Rouwverlof",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-12"
+      ]
+    },
+    {
+      "nr": "1674",
+      "name": "Sollicitatieverlof",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "http://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-3",
+        "https://www.vdab.be/orienteren/ontslagen/stappenplan/sollicitatieverlof"
+      ]
+    },
+    {
+      "nr": "2979",
+      "name": "Ter beschikking stellen van een cardiorespiratoire thuismonitor bij pasgeborenen en zuigelingen",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/cardiorespiratoire-thuismonitoring-bij-pasgeborenen-en-zuigelingen"
+      ]
+    },
+    {
+      "nr": "3094",
+      "name": "Terug Naar Werk-traject bij arbeidsongeschiktheid",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/socio-professionele-re-integratie"
+      ]
+    },
+    {
+      "nr": "893",
+      "name": "Tijdelijke inschrijving bij het ziekenfonds voor wie verblijft in België",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.vreemdelingenrecht.be/medische-kosten"
+      ]
+    },
+    {
+      "nr": "1691",
+      "name": "Tijdskrediet",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/tijdskrediet-privesector",
+        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/tijdskrediet-privesector/het-tijdskrediet-landingsbaan-recht-op-onderbrekingsuitkeringen"
+      ]
+    },
+    {
+      "nr": "1654",
+      "name": "Toelating om zich als werkzoekende voor te bereiden op zelfstandige activiteit",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.vdab.be/jobs/ondernemer-worden/uitkering-voorbereiden",
+        "https://www.rva.be/burgers/volledige-werkloosheid/mag-u-werken-tijdens-uw-werkloosheid/mag-u-een-activiteit-uitoefenen-tijdens-uw-volledige-werkloosheid"
+      ]
+    },
+    {
+      "nr": "1657",
+      "name": "Vakantie voor beginnende werknemers die nog geen vakantierechten hebben opgebouwd",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.rva.be/burgers/verlof/hebt-u-recht-op-de-jeugdvakantie"
+      ]
+    },
+    {
+      "nr": "1505",
+      "name": "Vakantie voor oudere werknemers die het werk hervatten - seniorvakantie",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.rva.be/burgers/verlof/hebt-u-recht-op-seniorvakantie"
+      ]
+    },
+    {
+      "nr": "2973",
+      "name": "Verbod op nachtwerk en overwerk voor zwangere vrouwen",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://werk.belgie.be/nl/themas/welzijn-op-het-werk/werkorganisatie-en-bijzondere-werknemerscategorieen-0#toc_heading_4"
+      ]
+    },
+    {
+      "nr": "853",
+      "name": "Verlof voor medische bijstand",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/verlof-voor-medische-bijstand"
+      ]
+    },
+    {
+      "nr": "882",
+      "name": "Verminderingskaart NMBS voor personen met een visuele handicap",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.belgiantrain.be/nl/products/special-conditions/blind"
+      ]
+    },
+    {
+      "nr": "884",
+      "name": "Voorrang op een zitplaats op de trein",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.belgiantrain.be/nl/products/special-conditions/priority-seat"
+      ]
+    },
+    {
+      "nr": "38560",
+      "name": "Zwangerschap - Mogelijkheid tot voortzetting van de zelfstandige activiteit die u uitoefende voor u (volledig of gedeeltelijk) van uw loontrekkende tewerkstelling werd verwijderd",
+      "level": "Federaal",
+      "financial": false,
+      "official": [
+        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/werkverwijdering"
+      ]
+    },
+    {
+      "nr": "209",
+      "name": "Startbanenproject 'Scholen voor Jongeren - Jongeren voor Scholen' voor een positief schoolklimaat",
+      "level": "Federaal/Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "214",
+      "name": "Aanvraag tot onderzoek van het binnenmilieu in een woning of openbaar gebouw",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://res.cloudinary.com/deueykgii/raw/upload/fl_attachment/Gemotiveerde_aanvraag_van_een_onderzoek_van_het_binnenmilieu_z19hsg.docx?_a=DATAg1AAZAA0",
+        "https://www.gezondleven.be/themas/gezondheid-en-milieu/gezond-binnen/woningonderzoeken"
+      ]
+    },
+    {
+      "nr": "1677",
+      "name": "Begeleiding bij het zoeken van de juiste baan",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vdab.be"
+      ]
+    },
+    {
+      "nr": "2790",
+      "name": "Begeleiding en integratie van ontheemden",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "1434",
+      "name": "Bevolkingsonderzoek Baarmoederhalskanker",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://baarmoederhalskanker.bevolkingsonderzoek.be/nl"
+      ]
+    },
+    {
+      "nr": "212",
+      "name": "Bevolkingsonderzoek bij pasgeborenen naar aangeboren aandoeningen via een bloedonderzoek",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://aangeboren.bevolkingsonderzoek.be/"
+      ]
+    },
+    {
+      "nr": "706",
+      "name": "Bevolkingsonderzoek Borstkanker",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://borstkanker.bevolkingsonderzoek.be/nl"
+      ]
+    },
+    {
+      "nr": "1433",
+      "name": "Bevolkingsonderzoek Dikkedarmkanker",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://dikkedarmkanker.bevolkingsonderzoek.be/nl"
+      ]
+    },
+    {
+      "nr": "1246",
+      "name": "Bijstand van een tolk voor dove of slechthorende werknemers, zelfstandigen en werkzoekenden met een arbeidsbeperking",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/gratis-tolk"
+      ]
+    },
+    {
+      "nr": "289",
+      "name": "Buzzy Pazz of Omnipas ‘Verhoogde Tegemoetkoming' (VT)",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.delijn.be/nl/content/vervoerbewijzen/kortingen/verhoogde-tegemoetkoming"
+      ]
+    },
+    {
+      "nr": "248",
+      "name": "Buzzy Pazz of Omnipas ‘Vervoergarantie' (VG)",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.delijn.be/nl/content/vervoerbewijzen/kortingen/vg"
+      ]
+    },
+    {
+      "nr": "1633",
+      "name": "Diensten ondersteuningsplan (DOP's): samen uw ondersteuning plannen",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vaph.be/diensten-ondersteuningsplan-dop-samen-uw-ondersteuning-plannen"
+      ]
+    },
+    {
+      "nr": "601",
+      "name": "Digitale meter met Prepaid functie",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://prepaid.fluvius.be"
+      ]
+    },
+    {
+      "nr": "432",
+      "name": "Een sociale woning huren bij een woonmaatschappij",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "247",
+      "name": "Gratis abonnement van De Lijn voor personen met een handicap",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.delijn.be/nl/content/kortingen/persoon-met-beperking/",
+        "https://www.delijn.be/nl/content/toegankelijkheid",
+        "https://www.delijn.be/en/content/kortingen/persoon-met-beperking/",
+        "https://www.delijn.be/en/content/toegankelijkheid/"
+      ]
+    },
+    {
+      "nr": "222",
+      "name": "Gratis controle van putwater bij eigen grondwaterwinning",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://vmm.vlaanderen.be/waterloket/gezond-water/putwater-controleren"
+      ]
+    },
+    {
+      "nr": "2464",
+      "name": "Hulp -en dienstverlening aan gedetineerden",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "1821",
+      "name": "Hulpmiddelen voor personen met een beperkte mobiliteit",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.departementzorg.be/nl/mobiliteitshulpmiddelen"
+      ]
+    },
+    {
+      "nr": "1551",
+      "name": "Huurwaarborglening van het Vlaams Woningfonds",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vlaamswoningfonds.be/onze-diensten/huurwaarborglening"
+      ]
+    },
+    {
+      "nr": "2852",
+      "name": "Jumpstarters (prestart inclusief ondernemen)",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://jumpstarters.be"
+      ]
+    },
+    {
+      "nr": "1528",
+      "name": "Kinderopvangtoeslag (Vlaams Groeipakket)",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/kinderopvangtoeslag"
+      ]
+    },
+    {
+      "nr": "642",
+      "name": "Leerlingenkaart",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.scholierenkoepel.be/leerlingenkaart"
+      ]
+    },
+    {
+      "nr": "681",
+      "name": "Leerlingenvervoer in het buitengewoon onderwijs",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "1456",
+      "name": "Leersteun voor leerlingen met specifieke onderwijsbehoeften",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "76325",
+      "name": "Loopbaankrediet",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "48571",
+      "name": "Mijn VerbouwBegeleiding voor eigenaars",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/een-huis-verbouwen/mijn-verbouwbegeleiding/mijn-verbouwbegeleiding-voor-eigenaars"
+      ]
+    },
+    {
+      "nr": "77126",
+      "name": "Mijn VerbouwBegeleiding voor onderhoud van verwarmingsketel",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "2410",
+      "name": "Mijn VerbouwLening",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vlaanderen.be/lenen-voor-een-woning/mijn-verbouwlening"
+      ]
+    },
+    {
+      "nr": "245",
+      "name": "Omnipas 65+ van De Lijn",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.delijn.be/nl/content/omnipas-65plus"
+      ]
+    },
+    {
+      "nr": "215",
+      "name": "Ondersteuning via opvoedingswinkels",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "1954",
+      "name": "Ondersteuning vragen aan het VAPH - erkenning handicap",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vaph.be"
+      ]
+    },
+    {
+      "nr": "1447",
+      "name": "Rechtstreeks toegankelijke hulp (RTH) voor personen met een (vermoeden van) handicap",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp"
+      ]
+    },
+    {
+      "nr": "1478",
+      "name": "Rookstopbegeleiding",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.departementzorg.be/nl/rookstopbegeleiding"
+      ]
+    },
+    {
+      "nr": "505",
+      "name": "Speciale onderwijsleermiddelen voor leerlingen, cursisten en studenten met een beperking",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "54449",
+      "name": "Synchroon internetonderwijs (SIO)",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.bednet.be/over-bednet"
+      ]
+    },
+    {
+      "nr": "54680",
+      "name": "Teletolk voor doven of slechthorenden",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "678",
+      "name": "Tijdelijk onderwijs aan huis (TOAH)",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "1559",
+      "name": "Toelating om in een maatwerkbedrijf te werken",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/collectief-maatwerk"
+      ]
+    },
+    {
+      "nr": "59256",
+      "name": "Verhoogde aankooplimiet dienstencheques voor begunstigden van een zorgbudget voor ouderen",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "59255",
+      "name": "Verhoogde aankooplimiet dienstencheques voor eenoudergezinnen",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "59227",
+      "name": "Verhoogde aankooplimiet dienstencheques voor personen met een handicap",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    },
+    {
+      "nr": "1892",
+      "name": "Vermindering van de onroerende voorheffing voor energiezuinige gebouwen (uitdovend)",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-energiezuinige-gebouwen"
+      ]
+    },
+    {
+      "nr": "1465",
+      "name": "Voorleessoftware voor leerlingen met leesbeperkingen",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.adibib.be"
+      ]
+    },
+    {
+      "nr": "1337",
+      "name": "Vrijstelling van beschikbaarheid",
+      "level": "Vlaams",
+      "financial": false,
+      "official": [
+        "https://www.vdab.be/opleidingen/gratis-en-voordelig-leren/geen-werk/niet-erkend/vrijstelling"
+      ]
+    },
+    {
+      "nr": "849",
+      "name": "Vrijstelling voor studies in het kader van knelpuntberoepen",
+      "level": "Vlaams",
+      "financial": false,
+      "official": []
+    }
+  ]
+}
