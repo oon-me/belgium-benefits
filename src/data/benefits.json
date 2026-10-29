@@ -14714,5 +14714,1666 @@
         ]
       }
     }
+  },
+  {
+    "id": 117,
+    "category": "health",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/contraceptie",
+    "content": {
+      "en": {
+        "title": "Extra Reimbursement for Contraception",
+        "desc": "Under 25, or with the increased reimbursement, you get an extra reimbursement on top of the normal one for contraceptives on the official list. The morning-after pill is reimbursed for everyone, whatever their age. Many 2nd-generation pills become free.",
+        "deadline": "Applied automatically at the pharmacy through the third-party payment system, whenever you collect your contraceptive.",
+        "amount": "Up to €3 a month extra; up to €9 per box for the morning-after pill",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription (not needed for the morning-after pill) and your identity card"
+          }
+        ],
+        "steps": [
+          "Ask your doctor for a prescription for a listed contraceptive",
+          "Show the prescription and your identity card at the pharmacy: the extra reimbursement is deducted straight away",
+          "Morning-after pill: collect it at the pharmacy without a prescription",
+          "Exceptionally paid the full price? The pharmacist gives you a form to claim the refund from your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Extra tegemoetkoming voor voorbehoedsmiddelen",
+        "desc": "Ben je jonger dan 25 of heb je de verhoogde tegemoetkoming, dan krijg je bovenop de gewone terugbetaling een extra tegemoetkoming voor voorbehoedsmiddelen op de officiële lijst. De morning-afterpil wordt voor iedereen terugbetaald, ongeacht de leeftijd. Veel pillen van de 2de generatie worden zo gratis.",
+        "deadline": "Automatisch verrekend bij de apotheek via de derdebetalersregeling, telkens je je voorbehoedsmiddel afhaalt.",
+        "amount": "Tot €3 per maand extra; tot €9 per doosje voor de morning-afterpil",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift (niet nodig voor de morning-afterpil) en je identiteitskaart"
+          }
+        ],
+        "steps": [
+          "Vraag je arts een voorschrift voor een voorbehoedsmiddel op de lijst",
+          "Toon het voorschrift en je identiteitskaart bij de apotheker: de extra tegemoetkoming wordt meteen afgetrokken",
+          "Morning-afterpil: haal ze zonder voorschrift bij de apotheker",
+          "Uitzonderlijk de volle prijs betaald? Dan geeft de apotheker je een formulier om de terugbetaling bij je ziekenfonds te vragen"
+        ]
+      },
+      "fr": {
+        "title": "Intervention supplémentaire pour la contraception",
+        "desc": "Si vous avez moins de 25 ans ou bénéficiez de l'intervention majorée, vous recevez une intervention supplémentaire en plus du remboursement normal pour les contraceptifs de la liste officielle. La pilule du lendemain est remboursée pour tous, quel que soit l'âge. Beaucoup de pilules de 2e génération deviennent gratuites.",
+        "deadline": "Appliquée automatiquement à la pharmacie via le tiers payant, chaque fois que vous retirez votre contraceptif.",
+        "amount": "Jusqu'à 3 € par mois en plus ; jusqu'à 9 € par boîte pour la pilule du lendemain",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription (pas nécessaire pour la pilule du lendemain) et votre carte d'identité"
+          }
+        ],
+        "steps": [
+          "Demandez à votre médecin une prescription pour un contraceptif de la liste",
+          "Montrez la prescription et votre carte d'identité à la pharmacie : l'intervention supplémentaire est déduite immédiatement",
+          "Pilule du lendemain : retirez-la sans prescription à la pharmacie",
+          "Payé exceptionnellement le prix plein ? Le pharmacien vous remet un formulaire pour demander le remboursement à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Zusätzliche Erstattung für Verhütungsmittel",
+        "desc": "Unter 25 oder mit erhöhter Kostenbeteiligung erhalten Sie zusätzlich zur normalen Erstattung eine Extraerstattung für Verhütungsmittel auf der offiziellen Liste. Die Pille danach wird für alle erstattet, unabhängig vom Alter. Viele Pillen der 2. Generation werden dadurch kostenlos.",
+        "deadline": "Automatisch in der Apotheke über das Drittzahlersystem verrechnet, jedes Mal wenn Sie Ihr Verhütungsmittel abholen.",
+        "amount": "Bis zu 3 € pro Monat extra; bis zu 9 € pro Packung für die Pille danach",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verschreibung (für die Pille danach nicht nötig) und Ihr Personalausweis"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von Ihrem Arzt ein Verhütungsmittel von der Liste verschreiben",
+          "Zeigen Sie Verschreibung und Personalausweis in der Apotheke: die Extraerstattung wird sofort abgezogen",
+          "Pille danach: ohne Verschreibung in der Apotheke erhältlich",
+          "Ausnahmsweise den vollen Preis bezahlt? Der Apotheker gibt Ihnen ein Formular für die Erstattung bei Ihrer Krankenkasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/contraceptie",
+      "conditions": {
+        "en": [
+          "You are under 25, or entitled to the increased reimbursement, or live in an institution such as a psychiatric care home, sheltered housing or rehabilitation centre — whatever your gender.",
+          "The morning-after pill: everyone, whatever their age.",
+          "Only for contraceptives on the list of the Royal Decree of 16 September 2013."
+        ],
+        "nl": [
+          "Je bent jonger dan 25, of hebt recht op de verhoogde tegemoetkoming, of verblijft in een instituut zoals een psychiatrisch verzorgingstehuis, beschut wonen of een revalidatiecentrum — ongeacht je gender.",
+          "De morning-afterpil: iedereen, ongeacht de leeftijd.",
+          "Enkel voor voorbehoedsmiddelen op de lijst bij het koninklijk besluit van 16 september 2013."
+        ],
+        "fr": [
+          "Vous avez moins de 25 ans, ou droit à l'intervention majorée, ou séjournez dans une institution comme une maison de soins psychiatriques, une initiative d'habitation protégée ou un centre de revalidation — quel que soit votre genre.",
+          "La pilule du lendemain : tout le monde, quel que soit l'âge.",
+          "Uniquement pour les contraceptifs de la liste de l'arrêté royal du 16 septembre 2013."
+        ],
+        "de": [
+          "Sie sind unter 25, haben Anspruch auf die erhöhte Kostenbeteiligung oder leben in einer Einrichtung wie einem psychiatrischen Pflegeheim, betreutem Wohnen oder einem Rehazentrum — unabhängig vom Geschlecht.",
+          "Die Pille danach: alle, unabhängig vom Alter.",
+          "Nur für Verhütungsmittel auf der Liste des Königlichen Erlasses vom 16. September 2013."
+        ]
+      }
+    }
+  },
+  {
+    "id": 118,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/werkverwijdering",
+    "content": {
+      "en": {
+        "title": "Benefit for Removal from Work during Pregnancy or Breastfeeding (Werkverwijdering)",
+        "desc": "If your job exposes you to risks for your health or your child's while pregnant, after giving birth or breastfeeding, your employer must adapt your work or remove you from it. If you lose wages, your health fund pays a benefit. Full removal during pregnancy pays 78.237% of your gross daily wage (capped); after maternity leave 60%; partial removal 60% of the wage you lose.",
+        "deadline": "Starts with the occupational doctor's assessment. When fully removed after birth while breastfeeding, the benefit runs up to 5 months after the birth.",
+        "amount": "78.237% or 60% of your gross daily wage",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate on removal from work, pre-filled by your employer (from your health fund)"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the health assessment form from the occupational doctor"
+          },
+          {
+            "type": "doc",
+            "label": "During pregnancy: doctor's certificate with the expected due date"
+          }
+        ],
+        "steps": [
+          "Your employer arranges a medical examination with the occupational doctor (prevention adviser)",
+          "The occupational doctor gives you the health assessment form; your employer decides whether to adapt your work, move you or remove you fully",
+          "Send the three documents to your health fund",
+          "Your health fund pays the benefit; income tax (11.11%) is withheld"
+        ]
+      },
+      "nl": {
+        "title": "Uitkering bij werkverwijdering (zwangerschap of borstvoeding)",
+        "desc": "Brengt je werk risico's mee voor jouw gezondheid of die van je kind tijdens de zwangerschap, na de bevalling of bij borstvoeding, dan moet je werkgever je werk aanpassen of je ervan verwijderen. Lijd je daardoor loonverlies, dan betaalt je ziekenfonds een uitkering. Volledige verwijdering tijdens de zwangerschap: 78,237% van je brutodagloon (begrensd); na de moederschapsrust 60%; gedeeltelijke verwijdering 60% van het loon dat je verliest.",
+        "deadline": "Start met het onderzoek door de arbeidsarts. Bij volledige verwijdering na de bevalling tijdens borstvoeding loopt de uitkering tot maximaal 5 maanden na de bevalling.",
+        "amount": "78,237% of 60% van je brutodagloon",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Getuigschrift werkverwijdering, vooraf ingevuld door je werkgever (bij je ziekenfonds)"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van het formulier voor de gezondheidsbeoordeling van de arbeidsarts"
+          },
+          {
+            "type": "doc",
+            "label": "Tijdens de zwangerschap: doktersattest met de vermoedelijke bevallingsdatum"
+          }
+        ],
+        "steps": [
+          "Je werkgever maakt een afspraak voor een medisch onderzoek bij de arbeidsarts (preventieadviseur)",
+          "De arbeidsarts geeft je het formulier voor de gezondheidsbeoordeling; je werkgever beslist of hij je werk aanpast, je ander werk geeft of je volledig verwijdert",
+          "Bezorg de drie documenten aan je ziekenfonds",
+          "Je ziekenfonds betaalt de uitkering; er wordt bedrijfsvoorheffing (11,11%) ingehouden"
+        ]
+      },
+      "fr": {
+        "title": "Indemnité d'écartement du travail (grossesse ou allaitement)",
+        "desc": "Si votre travail comporte des risques pour votre santé ou celle de votre enfant pendant la grossesse, après l'accouchement ou pendant l'allaitement, votre employeur doit adapter votre travail ou vous en écarter. En cas de perte de salaire, votre mutualité verse une indemnité. Écartement complet pendant la grossesse : 78,237 % du salaire journalier brut (plafonné) ; après le repos de maternité 60 % ; écartement partiel 60 % du salaire perdu.",
+        "deadline": "Commence par l'examen du médecin du travail. En cas d'écartement complet après l'accouchement pendant l'allaitement, l'indemnité court jusqu'à 5 mois après l'accouchement.",
+        "amount": "78,237 % ou 60 % du salaire journalier brut",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat d'écartement du travail, pré-rempli par votre employeur (disponible à la mutualité)"
+          },
+          {
+            "type": "doc",
+            "label": "Copie du formulaire d'évaluation de santé du médecin du travail"
+          },
+          {
+            "type": "doc",
+            "label": "Pendant la grossesse : certificat médical avec la date présumée de l'accouchement"
+          }
+        ],
+        "steps": [
+          "Votre employeur organise un examen médical chez le médecin du travail (conseiller en prévention)",
+          "Le médecin du travail vous remet le formulaire d'évaluation de santé ; votre employeur décide d'adapter votre travail, de vous affecter ailleurs ou de vous écarter complètement",
+          "Envoyez les trois documents à votre mutualité",
+          "Votre mutualité verse l'indemnité ; un précompte professionnel (11,11 %) est retenu"
+        ]
+      },
+      "de": {
+        "title": "Entschädigung bei Arbeitsfreistellung (Schwangerschaft oder Stillzeit)",
+        "desc": "Birgt Ihre Arbeit während der Schwangerschaft, nach der Geburt oder in der Stillzeit Risiken für Ihre Gesundheit oder die Ihres Kindes, muss Ihr Arbeitgeber die Arbeit anpassen oder Sie freistellen. Bei Lohnverlust zahlt Ihre Krankenkasse eine Entschädigung. Vollständige Freistellung in der Schwangerschaft: 78,237 % des Bruttotageslohns (begrenzt); nach dem Mutterschaftsurlaub 60 %; teilweise Freistellung 60 % des verlorenen Lohns.",
+        "deadline": "Beginnt mit der Untersuchung durch den Arbeitsmediziner. Bei vollständiger Freistellung nach der Geburt während des Stillens läuft die Entschädigung bis höchstens 5 Monate nach der Geburt.",
+        "amount": "78,237 % oder 60 % des Bruttotageslohns",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung über die Arbeitsfreistellung, vom Arbeitgeber vorausgefüllt (bei der Krankenkasse)"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie des Gesundheitsbewertungsformulars des Arbeitsmediziners"
+          },
+          {
+            "type": "doc",
+            "label": "In der Schwangerschaft: ärztliche Bescheinigung mit dem voraussichtlichen Geburtstermin"
+          }
+        ],
+        "steps": [
+          "Ihr Arbeitgeber vereinbart eine Untersuchung beim Arbeitsmediziner (Präventionsberater)",
+          "Der Arbeitsmediziner gibt Ihnen das Gesundheitsbewertungsformular; Ihr Arbeitgeber entscheidet über Anpassung, andere Arbeit oder vollständige Freistellung",
+          "Schicken Sie die drei Dokumente an Ihre Krankenkasse",
+          "Ihre Krankenkasse zahlt die Entschädigung; Berufssteuervorabzug (11,11 %) wird einbehalten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/werkverwijdering",
+      "conditions": {
+        "en": [
+          "You are an employee who is pregnant, has just given birth or is breastfeeding, and your job exposes you to a risk for your health or your child's.",
+          "Your employer adapted your work or removed you from it after the occupational doctor's assessment, and you lose wages because of it.",
+          "You meet the same conditions as for maternity benefit."
+        ],
+        "nl": [
+          "Je bent werkneemster, zwanger, net bevallen of je geeft borstvoeding, en je werk stelt je bloot aan een risico voor jouw gezondheid of die van je kind.",
+          "Je werkgever paste je werk aan of verwijderde je ervan na de gezondheidsbeoordeling door de arbeidsarts, en je lijdt daardoor loonverlies.",
+          "Je voldoet aan dezelfde voorwaarden als voor de moederschapsuitkering."
+        ],
+        "fr": [
+          "Vous êtes salariée, enceinte, venez d'accoucher ou allaitez, et votre travail vous expose à un risque pour votre santé ou celle de votre enfant.",
+          "Votre employeur a adapté votre travail ou vous en a écartée après l'évaluation du médecin du travail, et vous perdez du salaire de ce fait.",
+          "Vous remplissez les mêmes conditions que pour l'indemnité de maternité."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmerin, schwanger, haben gerade entbunden oder stillen, und Ihre Arbeit setzt Sie einem Risiko für Ihre Gesundheit oder die Ihres Kindes aus.",
+          "Ihr Arbeitgeber hat nach der Bewertung durch den Arbeitsmediziner Ihre Arbeit angepasst oder Sie freigestellt, und Sie erleiden dadurch Lohnverlust.",
+          "Sie erfüllen dieselben Bedingungen wie für das Mutterschaftsgeld."
+        ]
+      }
+    }
+  },
+  {
+    "id": 119,
+    "category": "other",
+    "situations": [
+      "self-employed"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RSVZ-INASTI · socialeverzekeringsfonds / caisse d'assurances sociales",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rsvz.be/nl/faq/rouwverlof-heb-ik-er-recht-op-en-hoe-vraag-ik-het-aan",
+    "amount_source_url": "https://www.rsvz.be/nl/faq/rouwuitkering",
+    "content": {
+      "en": {
+        "title": "Bereavement Leave Benefit for the Self-Employed (Rouwuitkering)",
+        "desc": "After the death of your partner, child, stepchild or long-term foster child, you can interrupt your self-employed activity for up to 10 days within a year and receive a benefit per day.",
+        "deadline": "Take the days within one year of the death (not necessarily in a row) and apply within that year. Paid in one go at the end of the month after the leave ends.",
+        "amount": "€107.14 per day, up to 10 days",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form from your social insurance fund"
+          }
+        ],
+        "steps": [
+          "Take up to 10 days of complete interruption within a year of the death",
+          "Fill in your social insurance fund's application form and hand it in, send it by registered letter or electronically",
+          "Your fund pays the benefit in one go at the end of the month after your leave ends"
+        ]
+      },
+      "nl": {
+        "title": "Rouwuitkering voor zelfstandigen",
+        "desc": "Na het overlijden van je partner, kind, stiefkind of langdurig pleegkind kun je je zelfstandige activiteit tot 10 dagen onderbreken binnen een jaar en krijg je per dag een uitkering.",
+        "deadline": "Neem de dagen op binnen een jaar na het overlijden (niet noodzakelijk opeenvolgend) en vraag binnen dat jaar aan. Uitbetaald in één keer, eind de maand na het einde van het verlof.",
+        "amount": "€107,14 per dag, tot 10 dagen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier van je socialeverzekeringsfonds"
+          }
+        ],
+        "steps": [
+          "Neem tot 10 dagen volledige onderbreking binnen een jaar na het overlijden",
+          "Vul het aanvraagformulier van je socialeverzekeringsfonds in en geef het af, stuur het aangetekend of elektronisch",
+          "Je fonds betaalt de uitkering in één keer, op het einde van de maand na het einde van je verlof"
+        ]
+      },
+      "fr": {
+        "title": "Allocation de deuil pour indépendants",
+        "desc": "Après le décès de votre partenaire, enfant, enfant du partenaire ou enfant placé à long terme, vous pouvez interrompre votre activité indépendante jusqu'à 10 jours dans l'année et recevoir une allocation par jour.",
+        "deadline": "Prenez les jours dans l'année qui suit le décès (pas forcément consécutifs) et faites la demande dans cette année. Versée en une fois à la fin du mois qui suit la fin du congé.",
+        "amount": "107,14 € par jour, jusqu'à 10 jours",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande de votre caisse d'assurances sociales"
+          }
+        ],
+        "steps": [
+          "Prenez jusqu'à 10 jours d'interruption complète dans l'année qui suit le décès",
+          "Remplissez le formulaire de votre caisse d'assurances sociales et déposez-le, envoyez-le par recommandé ou par voie électronique",
+          "Votre caisse verse l'allocation en une fois à la fin du mois qui suit la fin du congé"
+        ]
+      },
+      "de": {
+        "title": "Trauerentschädigung für Selbstständige",
+        "desc": "Nach dem Tod Ihres Partners, Kindes, Stiefkindes oder langfristigen Pflegekindes können Sie Ihre selbstständige Tätigkeit innerhalb eines Jahres bis zu 10 Tage unterbrechen und erhalten pro Tag eine Entschädigung.",
+        "deadline": "Nehmen Sie die Tage innerhalb eines Jahres nach dem Tod (nicht unbedingt am Stück) und beantragen Sie innerhalb dieses Jahres. Einmalige Zahlung am Ende des Monats nach Urlaubsende.",
+        "amount": "107,14 € pro Tag, bis zu 10 Tage",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular Ihrer Sozialversicherungskasse"
+          }
+        ],
+        "steps": [
+          "Nehmen Sie bis zu 10 Tage vollständige Unterbrechung innerhalb eines Jahres nach dem Tod",
+          "Füllen Sie das Antragsformular Ihrer Sozialversicherungskasse aus und geben Sie es ab, per Einschreiben oder elektronisch",
+          "Ihre Kasse zahlt die Entschädigung einmalig am Ende des Monats nach Urlaubsende"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.rsvz.be/nl/faq/rouwverlof-heb-ik-er-recht-op-en-hoe-vraag-ik-het-aan",
+      "conditions": {
+        "en": [
+          "Death of your spouse or cohabiting partner, your (adopted) child, your partner's (adopted) child, or a long-term foster child; a stillbirth after at least 180 days of pregnancy also counts.",
+          "You are self-employed, a helper or assisting spouse in main occupation (or secondary/after pension age paying the same provisional contributions as a main occupation).",
+          "You paid your contributions for the 2 quarters before the death's quarter (or were an employee or civil servant) and interrupt all work completely on the days taken."
+        ],
+        "nl": [
+          "Overlijden van je echtgenoot of samenwonende partner, je (adoptie)kind, het (adoptie)kind van je partner of een langdurig pleegkind; een levenloze geboorte na minstens 180 dagen zwangerschap telt ook.",
+          "Je bent zelfstandige, helper of meewerkende echtgenoot in hoofdberoep (of in bijberoep/na de pensioenleeftijd met evenveel voorlopige bijdragen als in hoofdberoep).",
+          "Je betaalde je bijdragen voor de 2 kwartalen vóór het kwartaal van het overlijden (of was werknemer of ambtenaar) en onderbreekt elke beroepsactiviteit volledig op de opgenomen dagen."
+        ],
+        "fr": [
+          "Décès de votre conjoint ou partenaire cohabitant, de votre enfant (adopté), de l'enfant (adopté) de votre partenaire ou d'un enfant placé à long terme ; une naissance sans vie après au moins 180 jours de grossesse compte aussi.",
+          "Vous êtes indépendant(e), aidant(e) ou conjoint(e) aidant(e) à titre principal (ou complémentaire/après l'âge de la pension avec les mêmes cotisations provisoires qu'à titre principal).",
+          "Vous avez payé vos cotisations des 2 trimestres précédant celui du décès (ou étiez salarié(e) ou fonctionnaire) et interrompez complètement toute activité les jours pris."
+        ],
+        "de": [
+          "Tod Ihres Ehe- oder zusammenwohnenden Partners, Ihres (Adoptiv-)Kindes, des (Adoptiv-)Kindes Ihres Partners oder eines langfristigen Pflegekindes; eine Totgeburt nach mindestens 180 Tagen Schwangerschaft zählt ebenfalls.",
+          "Sie sind Selbstständiger, Helfer oder mitarbeitender Ehepartner im Hauptberuf (oder im Nebenberuf/nach dem Pensionsalter mit denselben vorläufigen Beiträgen wie im Hauptberuf).",
+          "Sie haben Ihre Beiträge für die 2 Quartale vor dem Todesquartal gezahlt (oder waren Arbeitnehmer oder Beamter) und unterbrechen an den genommenen Tagen jede Berufstätigkeit vollständig."
+        ]
+      }
+    }
+  },
+  {
+    "id": 120,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-chronisch-zieken",
+    "content": {
+      "en": {
+        "title": "Lump Sum for the Chronically Ill (Forfait voor chronisch zieken)",
+        "desc": "A yearly lump sum from the health insurance for people with high medical costs over two years who are also in a situation of dependency, such as long physiotherapy, long hospital stays, nursing care or a recognised loss of self-reliance.",
+        "deadline": "Granted per calendar year, in principle automatically by your health fund.",
+        "amount": "€394.40, €591.65 or €788.83 depending on your situation of dependency (from 1 January 2026)",
+        "requirements": [],
+        "steps": [
+          "In principle your health fund grants it automatically",
+          "Think you qualify but did not receive it? Apply to your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Forfait voor chronisch zieken",
+        "desc": "Een jaarlijks forfait van de ziekteverzekering voor mensen met hoge medische kosten over twee jaar die zich ook in een afhankelijkheidssituatie bevinden, zoals langdurige kinesitherapie, lange ziekenhuisopnames, verpleegkundige zorg of een erkend verlies van zelfredzaamheid.",
+        "deadline": "Toegekend per kalenderjaar, in principe automatisch door je ziekenfonds.",
+        "amount": "€394,40, €591,65 of €788,83 naargelang je afhankelijkheidssituatie (vanaf 1 januari 2026)",
+        "requirements": [],
+        "steps": [
+          "In principe kent je ziekenfonds het forfait automatisch toe",
+          "Denk je dat je recht hebt maar kreeg je het niet? Vraag het aan bij je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Forfait malades chroniques",
+        "desc": "Un forfait annuel de l'assurance soins de santé pour les personnes ayant des frais médicaux élevés sur deux ans qui sont aussi en situation de dépendance, comme une kinésithérapie de longue durée, de longues hospitalisations, des soins infirmiers ou une perte d'autonomie reconnue.",
+        "deadline": "Accordé par année civile, en principe automatiquement par votre mutualité.",
+        "amount": "394,40 €, 591,65 € ou 788,83 € selon votre situation de dépendance (au 1er janvier 2026)",
+        "requirements": [],
+        "steps": [
+          "En principe, votre mutualité l'accorde automatiquement",
+          "Vous pensez y avoir droit mais ne l'avez pas reçu ? Faites la demande à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Pauschale für chronisch Kranke",
+        "desc": "Eine jährliche Pauschale der Krankenversicherung für Menschen mit hohen medizinischen Kosten über zwei Jahre, die sich zudem in einer Abhängigkeitssituation befinden, etwa bei langer Physiotherapie, langen Krankenhausaufenthalten, Pflege oder anerkanntem Verlust der Selbstständigkeit.",
+        "deadline": "Pro Kalenderjahr gewährt, grundsätzlich automatisch durch Ihre Krankenkasse.",
+        "amount": "394,40 €, 591,65 € oder 788,83 € je nach Abhängigkeitssituation (ab 1. Januar 2026)",
+        "requirements": [],
+        "steps": [
+          "Grundsätzlich gewährt Ihre Krankenkasse die Pauschale automatisch",
+          "Glauben Sie, Anspruch zu haben, haben sie aber nicht erhalten? Beantragen Sie sie bei Ihrer Krankenkasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-chronisch-zieken",
+      "conditions": {
+        "en": [
+          "In the year concerned and the year before, you paid at least €450 in personal shares each year (€365 with the increased reimbursement).",
+          "During the year you are in a situation of dependency: e.g. approved physiotherapy for a serious condition for 6 months, at least 120 days or 6 stays in hospital over two years, the integration allowance or allowance for the elderly with at least 12 points, help from third parties, or nursing care with lump sums B or C for 3 months."
+        ],
+        "nl": [
+          "In het betrokken jaar en het jaar ervoor betaalde je telkens minstens €450 aan persoonlijke aandelen (€365 met de verhoogde tegemoetkoming).",
+          "In de loop van het jaar ben je in een afhankelijkheidssituatie: bv. 6 maanden goedgekeurde kinesitherapie voor een zware aandoening, minstens 120 dagen of 6 opnames in het ziekenhuis over twee jaar, de integratietegemoetkoming of tegemoetkoming voor bejaarden met minstens 12 punten, hulp van derden, of 3 maanden verpleegkundige zorg met forfait B of C."
+        ],
+        "fr": [
+          "L'année concernée et l'année précédente, vous avez payé chaque fois au moins 450 € de quotes-parts personnelles (365 € avec l'intervention majorée).",
+          "Pendant l'année, vous êtes en situation de dépendance : par ex. 6 mois de kinésithérapie approuvée pour une pathologie lourde, au moins 120 jours ou 6 séjours à l'hôpital sur deux ans, l'allocation d'intégration ou pour personnes âgées avec au moins 12 points, l'aide d'une tierce personne, ou 3 mois de soins infirmiers avec forfait B ou C."
+        ],
+        "de": [
+          "Im betreffenden Jahr und im Vorjahr haben Sie jeweils mindestens 450 € Eigenanteil gezahlt (365 € mit erhöhter Kostenbeteiligung).",
+          "Im Laufe des Jahres befinden Sie sich in einer Abhängigkeitssituation: z. B. 6 Monate genehmigte Physiotherapie bei schwerer Erkrankung, mindestens 120 Tage oder 6 Krankenhausaufenthalte über zwei Jahre, Eingliederungs- oder Betagtenbeihilfe mit mindestens 12 Punkten, Hilfe Dritter, oder 3 Monate Pflege mit Pauschale B oder C."
+        ]
+      }
+    }
+  },
+  {
+    "id": 121,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-incontinentie-bij-afhankelijke-personen",
+    "amount_source_url": "https://www.riziv.fgov.be/SiteCollectionDocuments/tarief_forfaits_20260101.pdf",
+    "content": {
+      "en": {
+        "title": "Incontinence Lump Sums (Incontinentieforfait)",
+        "desc": "The health insurance pays a lump sum towards incontinence costs: one for dependent people receiving nursing care at home, and one for people living at home with untreatable urinary incontinence who do not get the first. The two incontinence lump sums are €648.08 and €211.53 in the RIZIV tariffs from 1 January 2026, indexed every year.",
+        "deadline": "Dependent people: in principle granted automatically. Untreatable urinary incontinence: your doctor fills in the application form.",
+        "amount": "€648.08 or €211.53 (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "For untreatable urinary incontinence: application form filled in by your doctor"
+          }
+        ],
+        "steps": [
+          "Dependent and receiving nursing care? Your health fund in principle grants the lump sum automatically; if not, apply with the application form",
+          "Untreatable urinary incontinence at home? Ask your doctor to fill in the application form",
+          "Your health fund grants the lump sum if you meet the conditions"
+        ]
+      },
+      "nl": {
+        "title": "Incontinentieforfaits",
+        "desc": "De ziekteverzekering betaalt een forfait voor de kosten van incontinentie: één voor afhankelijke personen met verpleegkundige zorg, en één voor wie thuis woont met onbehandelbare urine-incontinentie en het eerste forfait niet krijgt. De twee incontinentieforfaits bedragen €648,08 en €211,53 in de RIZIV-tarieven vanaf 1 januari 2026, jaarlijks geïndexeerd.",
+        "deadline": "Afhankelijke personen: in principe automatisch toegekend. Onbehandelbare urine-incontinentie: je arts vult het aanvraagformulier in.",
+        "amount": "€648,08 of €211,53 (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bij onbehandelbare urine-incontinentie: aanvraagformulier, ingevuld door je arts"
+          }
+        ],
+        "steps": [
+          "Afhankelijk en verpleegkundige zorg? Je ziekenfonds kent het forfait in principe automatisch toe; anders vraag je het aan met het aanvraagformulier",
+          "Onbehandelbare urine-incontinentie en thuis? Vraag je behandelend arts het aanvraagformulier in te vullen",
+          "Je ziekenfonds kent het forfait toe als je aan de voorwaarden voldoet"
+        ]
+      },
+      "fr": {
+        "title": "Forfaits incontinence",
+        "desc": "L'assurance soins de santé verse un forfait pour les frais d'incontinence : l'un pour les personnes dépendantes recevant des soins infirmiers, l'autre pour les personnes à domicile souffrant d'incontinence urinaire incurable qui ne reçoivent pas le premier. Les deux forfaits incontinence s'élèvent à 648,08 € et 211,53 € dans les tarifs INAMI au 1er janvier 2026, indexés chaque année.",
+        "deadline": "Personnes dépendantes : en principe accordé automatiquement. Incontinence urinaire incurable : votre médecin remplit le formulaire de demande.",
+        "amount": "648,08 € ou 211,53 € (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Pour l'incontinence urinaire incurable : formulaire de demande rempli par votre médecin"
+          }
+        ],
+        "steps": [
+          "Personne dépendante avec soins infirmiers ? Votre mutualité accorde en principe le forfait automatiquement ; sinon, demandez-le avec le formulaire",
+          "Incontinence urinaire incurable à domicile ? Demandez à votre médecin de remplir le formulaire de demande",
+          "Votre mutualité accorde le forfait si vous remplissez les conditions"
+        ]
+      },
+      "de": {
+        "title": "Inkontinenzpauschalen",
+        "desc": "Die Krankenversicherung zahlt eine Pauschale für Inkontinenzkosten: eine für pflegebedürftige Personen mit häuslicher Krankenpflege und eine für Menschen zu Hause mit unbehandelbarer Harninkontinenz, die die erste nicht erhalten. Die beiden Inkontinenzpauschalen betragen in den LIKIV-Tarifen ab 1. Januar 2026 648,08 € und 211,53 €, jährlich indexiert.",
+        "deadline": "Pflegebedürftige: grundsätzlich automatisch gewährt. Unbehandelbare Harninkontinenz: Ihr Arzt füllt das Antragsformular aus.",
+        "amount": "648,08 € oder 211,53 € (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bei unbehandelbarer Harninkontinenz: Antragsformular, vom Arzt ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Pflegebedürftig mit Krankenpflege? Ihre Krankenkasse gewährt die Pauschale grundsätzlich automatisch; sonst mit dem Antragsformular beantragen",
+          "Unbehandelbare Harninkontinenz zu Hause? Bitten Sie Ihren Arzt, das Antragsformular auszufüllen",
+          "Ihre Krankenkasse gewährt die Pauschale, wenn Sie die Bedingungen erfüllen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-incontinentie-bij-afhankelijke-personen",
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-onbehandelbare-urine-incontinentie"
+      ],
+      "conditions": {
+        "en": [
+          "Dependent people: for at least 4 months within 12, approval from the advising doctor for nursing care with lump sum B or C, with a score of 3 or 4 for incontinence on the dependency scale.",
+          "Untreatable urinary incontinence: you live at home, did not get the other incontinence lump sum in the past 12 months, and get no reimbursement for self-catheterisation or incontinence material."
+        ],
+        "nl": [
+          "Afhankelijke personen: minstens 4 maanden binnen 12 maanden een instemming van de adviserend arts voor verpleegkundige zorg met forfait B of C, met score 3 of 4 voor incontinentie in het afhankelijkheidsrooster.",
+          "Onbehandelbare urine-incontinentie: je woont thuis, kreeg de voorbije 12 maanden het andere incontinentieforfait niet, en krijgt geen tegemoetkoming voor autosondage of incontinentiemateriaal."
+        ],
+        "fr": [
+          "Personnes dépendantes : pendant au moins 4 mois sur 12, accord du médecin-conseil pour des soins infirmiers avec forfait B ou C, avec un score de 3 ou 4 pour l'incontinence sur l'échelle de dépendance.",
+          "Incontinence urinaire incurable : vous vivez à domicile, n'avez pas reçu l'autre forfait incontinence au cours des 12 derniers mois, et ne bénéficiez d'aucune intervention pour l'autosondage ou le matériel d'incontinence."
+        ],
+        "de": [
+          "Pflegebedürftige: mindestens 4 Monate innerhalb von 12 die Zustimmung des Vertrauensarztes für Krankenpflege mit Pauschale B oder C, mit Punktzahl 3 oder 4 für Inkontinenz in der Abhängigkeitsskala.",
+          "Unbehandelbare Harninkontinenz: Sie wohnen zu Hause, haben in den letzten 12 Monaten die andere Inkontinenzpauschale nicht erhalten und keine Erstattung für Selbstkatheterisierung oder Inkontinenzmaterial."
+        ]
+      }
+    }
+  },
+  {
+    "id": 122,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkoming-in-de-reiskosten-voor-kankerpatienten",
+    "content": {
+      "en": {
+        "title": "Travel Costs for Cancer Patients",
+        "desc": "The health insurance contributes to the travel costs of cancer patients going to outpatient oncology treatment, and of parents or guardians of a child under 18 hospitalised with cancer.",
+        "deadline": "For patients' treatments since 1 April 2025 it is paid automatically. Parents apply with a form from the treating doctor.",
+        "amount": "€0.37 per km (return trip home–hospital); for parents capped at €75 a day",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Parents: application form filled in by the treating doctor"
+          }
+        ],
+        "steps": [
+          "Patient in outpatient oncology treatment? Your health fund pays automatically based on the hospital invoice",
+          "Parent or guardian of a hospitalised child under 18? Ask the treating doctor to fill in the application form",
+          "Your health fund calculates the shortest distance with a route planner and pays the allowance"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming in de reiskosten voor kankerpatiënten",
+        "desc": "De ziekteverzekering komt tussen in de reiskosten van kankerpatiënten die een ambulante oncologische behandeling volgen, en van ouders of voogden van een kind jonger dan 18 dat met kanker in het ziekenhuis ligt.",
+        "deadline": "Voor behandelingen van de patiënt vanaf 1 april 2025 wordt het automatisch betaald. Ouders vragen aan met een formulier van de behandelend arts.",
+        "amount": "€0,37 per km (heen en terug woning–ziekenhuis); voor ouders maximaal €75 per dag",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ouders: aanvraagformulier, ingevuld door de behandelend arts"
+          }
+        ],
+        "steps": [
+          "Patiënt met ambulante oncologische behandeling? Je ziekenfonds betaalt automatisch op basis van de ziekenhuisfactuur",
+          "Ouder of voogd van een kind onder 18 in het ziekenhuis? Laat de behandelend arts het aanvraagformulier invullen",
+          "Je ziekenfonds berekent de kortste afstand met een routeplanner en betaalt de tegemoetkoming uit"
+        ]
+      },
+      "fr": {
+        "title": "Intervention dans les frais de déplacement des patients atteints d'un cancer",
+        "desc": "L'assurance soins de santé intervient dans les frais de déplacement des patients cancéreux qui suivent un traitement oncologique ambulatoire, et des parents ou tuteurs d'un enfant de moins de 18 ans hospitalisé pour un cancer.",
+        "deadline": "Pour les traitements du patient depuis le 1er avril 2025, l'intervention est versée automatiquement. Les parents la demandent avec un formulaire du médecin traitant.",
+        "amount": "0,37 € par km (aller-retour domicile–hôpital) ; pour les parents, maximum 75 € par jour",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Parents : formulaire de demande rempli par le médecin traitant"
+          }
+        ],
+        "steps": [
+          "Patient en traitement oncologique ambulatoire ? Votre mutualité paie automatiquement sur la base de la facture de l'hôpital",
+          "Parent ou tuteur d'un enfant de moins de 18 ans hospitalisé ? Faites remplir le formulaire de demande par le médecin traitant",
+          "Votre mutualité calcule la distance la plus courte avec un planificateur d'itinéraire et verse l'intervention"
+        ]
+      },
+      "de": {
+        "title": "Fahrtkostenerstattung für Krebspatienten",
+        "desc": "Die Krankenversicherung beteiligt sich an den Fahrtkosten von Krebspatienten in ambulanter onkologischer Behandlung sowie von Eltern oder Vormündern eines Kindes unter 18, das wegen Krebs im Krankenhaus liegt.",
+        "deadline": "Für Behandlungen des Patienten ab 1. April 2025 wird automatisch gezahlt. Eltern beantragen sie mit einem Formular des behandelnden Arztes.",
+        "amount": "0,37 € pro km (Hin- und Rückweg Wohnung–Krankenhaus); für Eltern höchstens 75 € pro Tag",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eltern: Antragsformular, vom behandelnden Arzt ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Patient in ambulanter onkologischer Behandlung? Ihre Krankenkasse zahlt automatisch anhand der Krankenhausrechnung",
+          "Elternteil oder Vormund eines Kindes unter 18 im Krankenhaus? Lassen Sie den behandelnden Arzt das Antragsformular ausfüllen",
+          "Ihre Krankenkasse berechnet die kürzeste Strecke per Routenplaner und zahlt die Erstattung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkoming-in-de-reiskosten-voor-kankerpatienten",
+      "conditions": {
+        "en": [
+          "Cancer patients who are not hospitalised and follow an oncology treatment (only for the treatment itself and certain follow-up consultations).",
+          "Or the father, mother or guardian of a cancer patient under 18 who is hospitalised."
+        ],
+        "nl": [
+          "Kankerpatiënten die niet in het ziekenhuis opgenomen zijn en een oncologische behandeling volgen (enkel voor de behandeling zelf en bepaalde toezichtsraadplegingen).",
+          "Of de vader, moeder of voogd van een kankerpatiënt jonger dan 18 die in het ziekenhuis opgenomen is."
+        ],
+        "fr": [
+          "Les patients atteints d'un cancer non hospitalisés qui suivent un traitement oncologique (uniquement pour le traitement et certaines consultations de suivi).",
+          "Ou le père, la mère ou le tuteur d'un patient cancéreux de moins de 18 ans hospitalisé."
+        ],
+        "de": [
+          "Krebspatienten, die nicht stationär aufgenommen sind und eine onkologische Behandlung erhalten (nur für die Behandlung selbst und bestimmte Kontrolluntersuchungen).",
+          "Oder Vater, Mutter oder Vormund eines stationär aufgenommenen Krebspatienten unter 18."
+        ]
+      }
+    }
+  },
+  {
+    "id": 123,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/hoortoestellen",
+    "content": {
+      "en": {
+        "title": "Reimbursement for a Hearing Aid",
+        "desc": "The health insurance contributes to the price of a hearing aid if you have hearing loss of at least 35 decibels and follow the procedure with an ENT doctor and a recognised audiologist.",
+        "deadline": "Renewal possible after at least 3 years before age 18, and after 5 years from 18 (sooner if hearing drops 20 dB or a bone-conduction device becomes necessary).",
+        "amount": "Part of the price of a hearing aid on the RIZIV list; the amount depends on the device",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form (annex 17 parts 1–4 and annex 17bis questionnaire)"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate of delivery from the audiologist"
+          }
+        ],
+        "steps": [
+          "See an ENT doctor for hearing tests and a prescription to try a hearing aid",
+          "Try a device from a recognised audiologist for at least 28 days (14 for a renewal); the audiologist writes a test report",
+          "The ENT doctor prescribes the device; send the documents to your health fund's advising doctor for approval",
+          "After fitting, hand the certificate of delivery and the approved application to your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming voor een hoortoestel",
+        "desc": "De ziekteverzekering komt tussen in de prijs van een hoortoestel als je een gehoorverlies van minstens 35 decibel hebt en de procedure volgt via een NKO-arts en een erkend audicien.",
+        "deadline": "Hernieuwing kan na minstens 3 jaar vóór je 18de, en na 5 jaar vanaf 18 (eerder bij een gehoorvermindering van 20 dB of een overstap naar beengeleiding).",
+        "amount": "Een deel van de prijs van een hoortoestel op de RIZIV-lijst; het bedrag hangt af van het toestel",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier (bijlage 17 deel 1–4 en vragenlijst bijlage 17bis)"
+          },
+          {
+            "type": "doc",
+            "label": "Getuigschrift van aflevering van de audicien"
+          }
+        ],
+        "steps": [
+          "Ga naar een NKO-arts voor gehoortesten en een voorschrift om een hoortoestel te testen",
+          "Test minstens 28 dagen (14 bij hernieuwing) een toestel bij een erkend audicien; die maakt een testverslag",
+          "De NKO-arts schrijft het toestel voor; bezorg de documenten aan de adviserend arts van je ziekenfonds voor goedkeuring",
+          "Na de plaatsing geef je het getuigschrift van aflevering en de goedgekeurde aanvraag aan je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Intervention pour un appareil auditif",
+        "desc": "L'assurance soins de santé intervient dans le prix d'un appareil auditif si vous avez une perte auditive d'au moins 35 décibels et suivez la procédure avec un médecin ORL et un audicien agréé.",
+        "deadline": "Renouvellement possible après au moins 3 ans avant 18 ans, et après 5 ans à partir de 18 ans (plus tôt en cas de baisse de 20 dB ou de passage à la conduction osseuse).",
+        "amount": "Une partie du prix d'un appareil de la liste INAMI ; le montant dépend de l'appareil",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande (annexe 17 parties 1–4 et questionnaire annexe 17bis)"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de délivrance de l'audicien"
+          }
+        ],
+        "steps": [
+          "Consultez un médecin ORL pour des tests auditifs et une prescription d'essai d'appareil",
+          "Essayez un appareil chez un audicien agréé pendant au moins 28 jours (14 pour un renouvellement) ; il rédige un rapport d'essai",
+          "Le médecin ORL prescrit l'appareil ; envoyez les documents au médecin-conseil de votre mutualité pour accord",
+          "Après la pose, remettez l'attestation de délivrance et la demande approuvée à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Erstattung für ein Hörgerät",
+        "desc": "Die Krankenversicherung beteiligt sich am Preis eines Hörgeräts, wenn Sie einen Hörverlust von mindestens 35 Dezibel haben und das Verfahren über einen HNO-Arzt und einen anerkannten Hörakustiker durchlaufen.",
+        "deadline": "Erneuerung frühestens nach 3 Jahren vor dem 18. Lebensjahr und nach 5 Jahren ab 18 (früher bei 20 dB Verschlechterung oder Wechsel zur Knochenleitung).",
+        "amount": "Ein Teil des Preises eines Hörgeräts auf der LIKIV-Liste; der Betrag hängt vom Gerät ab",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular (Anlage 17 Teile 1–4 und Fragebogen Anlage 17bis)"
+          },
+          {
+            "type": "doc",
+            "label": "Lieferbescheinigung des Hörakustikers"
+          }
+        ],
+        "steps": [
+          "Gehen Sie zum HNO-Arzt für Hörtests und eine Verschreibung zum Testen eines Hörgeräts",
+          "Testen Sie mindestens 28 Tage (14 bei Erneuerung) ein Gerät bei einem anerkannten Hörakustiker; er erstellt einen Testbericht",
+          "Der HNO-Arzt verschreibt das Gerät; schicken Sie die Unterlagen zur Genehmigung an den Vertrauensarzt Ihrer Krankenkasse",
+          "Nach der Anpassung geben Sie Lieferbescheinigung und genehmigten Antrag bei Ihrer Krankenkasse ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/hoortoestellen",
+      "conditions": {
+        "en": [
+          "Hearing loss of at least 35 decibels in the ear to be fitted, and a hearing gain of at least 5 decibels with the device.",
+          "The device is on the RIZIV list of hearing aids and bought from a recognised audiologist.",
+          "You follow every step of the procedure, including the advising doctor's approval."
+        ],
+        "nl": [
+          "Gehoorverlies van minstens 35 decibel aan het oor waarvoor je een toestel wil, en een gehoorwinst van minstens 5 decibel met het toestel.",
+          "Het toestel staat op de RIZIV-lijst van hoortoestellen en is gekocht bij een erkend audicien.",
+          "Je doorloopt alle stappen van de procedure, ook de goedkeuring door de adviserend arts."
+        ],
+        "fr": [
+          "Perte auditive d'au moins 35 décibels à l'oreille à appareiller, et gain auditif d'au moins 5 décibels avec l'appareil.",
+          "L'appareil figure sur la liste INAMI et est acheté chez un audicien agréé.",
+          "Vous suivez toutes les étapes de la procédure, y compris l'accord du médecin-conseil."
+        ],
+        "de": [
+          "Hörverlust von mindestens 35 Dezibel am zu versorgenden Ohr und ein Hörgewinn von mindestens 5 Dezibel mit dem Gerät.",
+          "Das Gerät steht auf der LIKIV-Liste der Hörgeräte und wurde bei einem anerkannten Hörakustiker gekauft.",
+          "Sie durchlaufen alle Schritte des Verfahrens, einschließlich der Genehmigung durch den Vertrauensarzt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 124,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-brilglazen",
+    "content": {
+      "en": {
+        "title": "Reimbursement for Spectacle Lenses",
+        "desc": "The health insurance contributes to spectacle lenses prescribed by an eye doctor and delivered in person by a recognised optician: for every child, and for adults with a strong correction. Glasses bought online are not reimbursed. Minimum per lens from 1 Jan 2025: children €45.88 single vision to €191.02 progressive; adults from €82.22 up to €217.14; health funds often add more.",
+        "deadline": "Send the prescription and the certificate of delivery to your health fund; how often depends on your situation.",
+        "amount": "From €45.88 per lens (children) or €82.22 (adults)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eye doctor's medical prescription for spectacle lenses (annex 15bis)"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate of delivery from the recognised optician (annex 15)"
+          }
+        ],
+        "steps": [
+          "See an eye doctor and get a medical prescription for spectacle lenses",
+          "Go to a recognised optician, who explains types, price, reimbursement and what you pay yourself",
+          "The optician gives you a certificate of delivery when you collect the glasses",
+          "Send the prescription and the certificate of delivery to your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming in de prijs van brilglazen",
+        "desc": "De ziekteverzekering komt tussen in brilglazen die een oogarts voorschrijft en die een erkend opticien persoonlijk aflevert: voor elk kind, en voor volwassenen met een sterke correctie. Online gekochte brillen worden niet vergoed. Minimum per glas vanaf 1 jan. 2025: kinderen €45,88 unifocaal tot €191,02 progressief; volwassenen vanaf €82,22 tot €217,14; ziekenfondsen vullen vaak aan.",
+        "deadline": "Bezorg het voorschrift en het getuigschrift van aflevering aan je ziekenfonds; hoe vaak hangt af van je situatie.",
+        "amount": "Vanaf €45,88 per glas (kinderen) of €82,22 (volwassenen)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch voorschrift van de oogarts voor brilglazen (bijlage 15bis)"
+          },
+          {
+            "type": "doc",
+            "label": "Getuigschrift van aflevering van de erkende opticien (bijlage 15)"
+          }
+        ],
+        "steps": [
+          "Ga naar een oogarts en vraag een medisch voorschrift voor brilglazen",
+          "Ga naar een erkende opticien, die je uitleg geeft over types, prijs, tegemoetkoming en je eigen bijdrage",
+          "De opticien geeft je een getuigschrift van aflevering wanneer je de bril ophaalt",
+          "Stuur het voorschrift en het getuigschrift van aflevering naar je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Intervention dans le prix des verres de lunettes",
+        "desc": "L'assurance soins de santé intervient dans les verres prescrits par un ophtalmologue et délivrés en personne par un opticien agréé : pour chaque enfant, et pour les adultes avec une forte correction. Les lunettes achetées en ligne ne sont pas remboursées. Minimum par verre au 1er janv. 2025 : enfants de 45,88 € unifocal à 191,02 € progressif ; adultes de 82,22 € à 217,14 € ; les mutualités complètent souvent.",
+        "deadline": "Envoyez la prescription et l'attestation de délivrance à votre mutualité ; la fréquence dépend de votre situation.",
+        "amount": "Dès 45,88 € par verre (enfants) ou 82,22 € (adultes)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription médicale de l'ophtalmologue pour verres (annexe 15bis)"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de délivrance de l'opticien agréé (annexe 15)"
+          }
+        ],
+        "steps": [
+          "Consultez un ophtalmologue et demandez une prescription médicale pour des verres",
+          "Allez chez un opticien agréé, qui vous informe sur les types, le prix, l'intervention et votre part personnelle",
+          "L'opticien vous remet une attestation de délivrance lorsque vous retirez vos lunettes",
+          "Envoyez la prescription et l'attestation de délivrance à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Erstattung für Brillengläser",
+        "desc": "Die Krankenversicherung beteiligt sich an Brillengläsern, die ein Augenarzt verschreibt und ein anerkannter Optiker persönlich liefert: für jedes Kind und für Erwachsene mit starker Korrektur. Online gekaufte Brillen werden nicht erstattet. Mindestbetrag pro Glas ab 1. Jan. 2025: Kinder 45,88 € Einstärken bis 191,02 € Gleitsicht; Erwachsene 82,22 € bis 217,14 €; Krankenkassen zahlen oft mehr.",
+        "deadline": "Schicken Sie Verschreibung und Lieferbescheinigung an Ihre Krankenkasse; wie oft, hängt von Ihrer Situation ab.",
+        "amount": "Ab 45,88 € pro Glas (Kinder) oder 82,22 € (Erwachsene)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Verschreibung des Augenarztes für Brillengläser (Anlage 15bis)"
+          },
+          {
+            "type": "doc",
+            "label": "Lieferbescheinigung des anerkannten Optikers (Anlage 15)"
+          }
+        ],
+        "steps": [
+          "Gehen Sie zum Augenarzt und lassen Sie sich Brillengläser verschreiben",
+          "Gehen Sie zu einem anerkannten Optiker, der Sie über Arten, Preis, Erstattung und Eigenanteil informiert",
+          "Der Optiker gibt Ihnen bei Abholung eine Lieferbescheinigung",
+          "Schicken Sie Verschreibung und Lieferbescheinigung an Ihre Krankenkasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-brilglazen",
+      "conditions": {
+        "en": [
+          "Children: from a plano lens (0.00 dioptres). Adults 18–64: from ±6.00 dioptres. From 65: from ±6.00 (single vision) or ±4.25 (bifocal and progressive).",
+          "You have myopia, hyperopia, astigmatism or presbyopia, with a specific medical prescription from an eye doctor.",
+          "The lenses are delivered in person by a recognised optician — never online."
+        ],
+        "nl": [
+          "Kinderen: vanaf een plano glas (0,00 dioptrie). Volwassenen 18–64: vanaf ±6,00 dioptrie. Vanaf 65: vanaf ±6,00 (unifocaal) of ±4,25 (bifocaal en progressief).",
+          "Je hebt myopie, hypermetropie, astigmatisme of presbyopie, met een specifiek medisch voorschrift van een oogarts.",
+          "De glazen worden persoonlijk afgeleverd door een erkende opticien — nooit online."
+        ],
+        "fr": [
+          "Enfants : dès un verre plan (0,00 dioptrie). Adultes 18–64 ans : dès ±6,00 dioptries. Dès 65 ans : dès ±6,00 (unifocal) ou ±4,25 (bifocal et progressif).",
+          "Vous avez une myopie, hypermétropie, astigmatie ou presbytie, avec une prescription médicale spécifique d'un ophtalmologue.",
+          "Les verres sont délivrés en personne par un opticien agréé — jamais en ligne."
+        ],
+        "de": [
+          "Kinder: ab einem Planglas (0,00 Dioptrien). Erwachsene 18–64: ab ±6,00 Dioptrien. Ab 65: ab ±6,00 (Einstärken) oder ±4,25 (Bifokal und Gleitsicht).",
+          "Sie haben Kurzsichtigkeit, Weitsichtigkeit, Astigmatismus oder Alterssichtigkeit, mit einer spezifischen ärztlichen Verschreibung eines Augenarztes.",
+          "Die Gläser werden persönlich von einem anerkannten Optiker geliefert — nie online."
+        ]
+      }
+    }
+  },
+  {
+    "id": 125,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-contactlenzen",
+    "content": {
+      "en": {
+        "title": "Reimbursement for Contact Lenses",
+        "desc": "The health insurance contributes to contact lenses for people with a strong or specific eye condition, prescribed by an eye doctor and delivered by a recognised optician. You can get reimbursement for glasses and contact lenses at the same time. Per eye from 1 Jan 2025 at a conventioned optician: e.g. monthly lenses €84.33 a year (toric €102.24), rigid lens €109.62 for 3 years; 25% less at a non-conventioned optician.",
+        "deadline": "A new reimbursement after the lenses' wearing period (1 or 3 years) or when your prescription changes by at least 1.00 dioptre.",
+        "amount": "€73.78 to €221.35 per eye",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eye doctor's prescription for contact lenses"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate of delivery from the optician"
+          }
+        ],
+        "steps": [
+          "Get a prescription for contact lenses from an eye doctor",
+          "Go to a recognised optician, who informs you about types, prices, reimbursement and your own share",
+          "The optician gives you a certificate of delivery",
+          "Send the prescription and the certificate of delivery to your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming in de prijs van contactlenzen",
+        "desc": "De ziekteverzekering komt tussen in contactlenzen voor mensen met een sterke of specifieke oogafwijking, voorgeschreven door een oogarts en afgeleverd door een erkend opticien. Je kan tegelijk een tegemoetkoming krijgen voor brilglazen én contactlenzen. Per oog vanaf 1 jan. 2025 bij een geconventioneerde opticien: bv. maandlenzen €84,33 per jaar (torisch €102,24), vormstabiele lens €109,62 voor 3 jaar; 25% minder bij een niet-geconventioneerde opticien.",
+        "deadline": "Opnieuw een tegemoetkoming na de draagtijd van de lenzen (1 of 3 jaar) of als je voorschrift minstens 1,00 dioptrie wijzigt.",
+        "amount": "€73,78 tot €221,35 per oog",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift van de oogarts voor contactlenzen"
+          },
+          {
+            "type": "doc",
+            "label": "Getuigschrift van aflevering van de opticien"
+          }
+        ],
+        "steps": [
+          "Vraag een oogarts een voorschrift voor contactlenzen",
+          "Ga naar een erkende opticien, die je informeert over soorten, prijzen, tegemoetkoming en je eigen bijdrage",
+          "De opticien geeft je een getuigschrift van aflevering",
+          "Stuur het voorschrift en het getuigschrift van aflevering naar je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Intervention dans le prix des lentilles de contact",
+        "desc": "L'assurance soins de santé intervient dans les lentilles de contact pour les personnes ayant une anomalie oculaire forte ou spécifique, prescrites par un ophtalmologue et délivrées par un opticien agréé. Vous pouvez obtenir en même temps une intervention pour des verres et pour des lentilles. Par œil au 1er janv. 2025 chez un opticien conventionné : par ex. lentilles mensuelles 84,33 € par an (toriques 102,24 €), lentille rigide 109,62 € pour 3 ans ; 25 % de moins chez un opticien non conventionné.",
+        "deadline": "Nouvelle intervention après la durée de port des lentilles (1 ou 3 ans) ou si votre prescription change d'au moins 1,00 dioptrie.",
+        "amount": "De 73,78 € à 221,35 € par œil",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription de l'ophtalmologue pour lentilles de contact"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de délivrance de l'opticien"
+          }
+        ],
+        "steps": [
+          "Demandez une prescription pour lentilles à un ophtalmologue",
+          "Allez chez un opticien agréé, qui vous informe sur les types, les prix, l'intervention et votre part",
+          "L'opticien vous remet une attestation de délivrance",
+          "Envoyez la prescription et l'attestation de délivrance à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Erstattung für Kontaktlinsen",
+        "desc": "Die Krankenversicherung beteiligt sich an Kontaktlinsen für Menschen mit starker oder besonderer Fehlsichtigkeit, verschrieben vom Augenarzt und geliefert von einem anerkannten Optiker. Sie können gleichzeitig eine Erstattung für Brillengläser und Kontaktlinsen erhalten. Pro Auge ab 1. Jan. 2025 bei einem konventionierten Optiker: z. B. Monatslinsen 84,33 € pro Jahr (torisch 102,24 €), formstabile Linse 109,62 € für 3 Jahre; 25 % weniger bei einem nicht konventionierten Optiker.",
+        "deadline": "Erneute Erstattung nach der Tragedauer der Linsen (1 oder 3 Jahre) oder wenn sich Ihre Verschreibung um mindestens 1,00 Dioptrie ändert.",
+        "amount": "73,78 € bis 221,35 € pro Auge",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verschreibung des Augenarztes für Kontaktlinsen"
+          },
+          {
+            "type": "doc",
+            "label": "Lieferbescheinigung des Optikers"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich vom Augenarzt Kontaktlinsen verschreiben",
+          "Gehen Sie zu einem anerkannten Optiker, der Sie über Arten, Preise, Erstattung und Eigenanteil informiert",
+          "Der Optiker gibt Ihnen eine Lieferbescheinigung",
+          "Schicken Sie Verschreibung und Lieferbescheinigung an Ihre Krankenkasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-contactlenzen",
+      "conditions": {
+        "en": [
+          "You have a refractive error of at least ±6.00 dioptres, monocular aphakia, a difference of 3.00 dioptres or more between both eyes, or irregular astigmatism that glasses cannot correct.",
+          "The lenses are prescribed by an eye doctor and delivered by a recognised optician — never online."
+        ],
+        "nl": [
+          "Je hebt een afwijking van minstens ±6,00 dioptrie, monoculaire afakie, een sterkteverschil van 3,00 dioptrie of meer tussen beide ogen, of onregelmatig astigmatisme dat een bril niet corrigeert.",
+          "De lenzen zijn voorgeschreven door een oogarts en afgeleverd door een erkend opticien — nooit online."
+        ],
+        "fr": [
+          "Vous avez une anomalie d'au moins ±6,00 dioptries, une aphakie monoculaire, une différence de 3,00 dioptries ou plus entre les deux yeux, ou un astigmatisme irrégulier non corrigeable par des lunettes.",
+          "Les lentilles sont prescrites par un ophtalmologue et délivrées par un opticien agréé — jamais en ligne."
+        ],
+        "de": [
+          "Sie haben eine Fehlsichtigkeit von mindestens ±6,00 Dioptrien, eine einseitige Aphakie, einen Stärkeunterschied von 3,00 Dioptrien oder mehr zwischen den Augen oder einen irregulären Astigmatismus, den eine Brille nicht korrigiert.",
+          "Die Linsen werden vom Augenarzt verschrieben und von einem anerkannten Optiker geliefert — nie online."
+        ]
+      }
+    }
+  },
+  {
+    "id": 126,
+    "category": "employment",
+    "situations": [
+      "job-loss",
+      "school"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "VDAB",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vdab.be/opleidingen/gratis-leren/geen-werk/erkend",
+    "content": {
+      "en": {
+        "title": "Free Training with Travel and Childcare Allowance (VDAB)",
+        "desc": "Jobseekers without work who follow a training, study or internship recognised by VDAB get it free, with study materials refunded, a travel allowance and a refund of childcare costs. Not for online courses or workshops. You get a free De Lijn season ticket or a kilometre allowance, and childcare refunded at real cost (out-of-school care on school-free days up to €15.11 a day).",
+        "deadline": "During the recognised training, study or internship; childcare is refunded only on days you actually attend.",
+        "amount": "Free training, travel and childcare costs covered",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of payment and invoice from a childcare provider licensed by Kind en Gezin (for the childcare refund)"
+          }
+        ],
+        "steps": [
+          "Agree a recognised training, study or internship with your VDAB counsellor",
+          "By bus? VDAB requests a De Lijn monthly season ticket for you; otherwise you get a kilometre allowance",
+          "Pay childcare first, then hand in the invoice and proof of payment for a refund",
+          "Tell your payment institution: your unemployment benefit may change during the training"
+        ]
+      },
+      "nl": {
+        "title": "Gratis opleiding met verplaatsings- en kinderopvangvergoeding (VDAB)",
+        "desc": "Werkzoekenden zonder werk die een door VDAB erkende opleiding, studie of stage volgen, krijgen die gratis, met terugbetaling van leermateriaal, een verplaatsingsvergoeding en terugbetaling van kinderopvang. Niet voor online opleidingen of workshops. Je krijgt een gratis abonnement van De Lijn of een kilometervergoeding, en kinderopvang terugbetaald aan de werkelijke kost (buitenschoolse opvang op schoolvrije dagen max. €15,11 per dag).",
+        "deadline": "Tijdens de erkende opleiding, studie of stage; kinderopvang wordt enkel terugbetaald op dagen dat je effectief aanwezig bent.",
+        "amount": "Gratis opleiding, verplaatsing en kinderopvang vergoed",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Betaalbewijs en factuur van een kinderopvang met vergunning van Kind en Gezin (voor de opvangvergoeding)"
+          }
+        ],
+        "steps": [
+          "Spreek met je VDAB-bemiddelaar een erkende opleiding, studie of stage af",
+          "Met de bus? VDAB vraagt een maandabonnement van De Lijn voor je aan; anders krijg je een kilometervergoeding",
+          "Betaal de kinderopvang eerst zelf en bezorg daarna factuur en betaalbewijs voor terugbetaling",
+          "Verwittig je uitbetalingsinstelling: je werkloosheidsuitkering kan veranderen tijdens de opleiding"
+        ]
+      },
+      "fr": {
+        "title": "Formation gratuite avec indemnités de déplacement et de garde d'enfants (VDAB)",
+        "desc": "Les demandeurs d'emploi sans travail qui suivent une formation, des études ou un stage reconnus par le VDAB les obtiennent gratuitement, avec remboursement du matériel, une indemnité de déplacement et le remboursement de la garde d'enfants. Pas pour les formations en ligne ou ateliers. Vous recevez un abonnement De Lijn gratuit ou une indemnité kilométrique, et la garde d'enfants remboursée au coût réel (accueil extrascolaire les jours sans école max. 15,11 € par jour).",
+        "deadline": "Pendant la formation, les études ou le stage reconnus ; la garde d'enfants n'est remboursée que les jours de présence effective.",
+        "amount": "Formation gratuite, déplacements et garde d'enfants remboursés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve de paiement et facture d'un milieu d'accueil autorisé par Kind en Gezin (pour le remboursement de la garde)"
+          }
+        ],
+        "steps": [
+          "Convenez d'une formation, d'études ou d'un stage reconnus avec votre conseiller VDAB",
+          "En bus ? Le VDAB demande pour vous un abonnement mensuel De Lijn ; sinon vous recevez une indemnité kilométrique",
+          "Payez d'abord la garde d'enfants, puis remettez la facture et la preuve de paiement pour le remboursement",
+          "Prévenez votre organisme de paiement : votre allocation de chômage peut changer pendant la formation"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Ausbildung mit Fahrt- und Kinderbetreuungsvergütung (VDAB)",
+        "desc": "Arbeitsuchende ohne Arbeit, die eine vom VDAB anerkannte Ausbildung, ein Studium oder ein Praktikum absolvieren, erhalten diese kostenlos, mit Erstattung des Lernmaterials, einer Fahrtvergütung und Erstattung der Kinderbetreuung. Nicht für Online-Kurse oder Workshops. Sie erhalten ein kostenloses De-Lijn-Abo oder Kilometergeld, und die Kinderbetreuung wird zu den tatsächlichen Kosten erstattet (außerschulische Betreuung an schulfreien Tagen max. 15,11 € pro Tag).",
+        "deadline": "Während der anerkannten Ausbildung, des Studiums oder Praktikums; Kinderbetreuung wird nur an Tagen tatsächlicher Anwesenheit erstattet.",
+        "amount": "Kostenlose Ausbildung, Fahrt- und Betreuungskosten erstattet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis und Rechnung einer von Kind en Gezin zugelassenen Kinderbetreuung (für die Erstattung)"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie mit Ihrem VDAB-Berater eine anerkannte Ausbildung, ein Studium oder Praktikum",
+          "Mit dem Bus? Der VDAB beantragt für Sie ein De-Lijn-Monatsabo; sonst erhalten Sie Kilometergeld",
+          "Bezahlen Sie die Kinderbetreuung zuerst und reichen Sie danach Rechnung und Zahlungsnachweis zur Erstattung ein",
+          "Informieren Sie Ihre Zahlstelle: Ihr Arbeitslosengeld kann sich während der Ausbildung ändern"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vdab.be/opleidingen/gratis-leren/geen-werk/erkend",
+      "conditions": {
+        "en": [
+          "You have no work and follow a training, study or internship recognised by VDAB (not an online course or workshop).",
+          "Childcare: for children not yet at school, or out-of-school care for nursery and primary pupils, at a provider licensed by Kind en Gezin, only on days you attend."
+        ],
+        "nl": [
+          "Je hebt geen werk en volgt een door VDAB erkende opleiding, studie of stage (geen online opleiding of workshop).",
+          "Kinderopvang: voor kinderen die nog niet naar school gaan, of buitenschoolse opvang voor kleuter- en lagereschoolkinderen, in een opvang met vergunning van Kind en Gezin, enkel op dagen dat je aanwezig bent."
+        ],
+        "fr": [
+          "Vous êtes sans travail et suivez une formation, des études ou un stage reconnus par le VDAB (pas une formation en ligne ni un atelier).",
+          "Garde d'enfants : pour les enfants qui ne vont pas encore à l'école, ou l'accueil extrascolaire en maternelle et primaire, dans un milieu autorisé par Kind en Gezin, uniquement les jours de présence."
+        ],
+        "de": [
+          "Sie haben keine Arbeit und absolvieren eine vom VDAB anerkannte Ausbildung, ein Studium oder Praktikum (kein Online-Kurs oder Workshop).",
+          "Kinderbetreuung: für noch nicht schulpflichtige Kinder oder außerschulische Betreuung von Kindergarten- und Grundschulkindern, in einer von Kind en Gezin zugelassenen Einrichtung, nur an Anwesenheitstagen."
+        ]
+      }
+    },
+    "notice": {
+      "date": "30 Oct 2026",
+      "source_url": "https://www.vdab.be/opleidingen/gratis-leren/geen-werk/erkend",
+      "text": {
+        "en": "Planned change, not yet final: subject to the Flemish government's final approval, the rules for the travel and childcare allowances change from 1 January 2027. VDAB will publish the new rules on this page once they are official.",
+        "nl": "Geplande wijziging, nog niet definitief: onder voorbehoud van definitieve goedkeuring door de Vlaamse Regering veranderen vanaf 1 januari 2027 de regels voor de verplaatsings- en kinderopvangvergoeding. VDAB publiceert de nieuwe regels op deze pagina zodra ze officieel zijn.",
+        "fr": "Changement prévu, pas encore définitif : sous réserve de l'approbation définitive du gouvernement flamand, les règles des indemnités de déplacement et de garde d'enfants changent au 1er janvier 2027. Le VDAB publiera les nouvelles règles sur cette page dès qu'elles seront officielles.",
+        "de": "Geplante Änderung, noch nicht endgültig: vorbehaltlich der endgültigen Genehmigung durch die flämische Regierung ändern sich ab dem 1. Januar 2027 die Regeln für Fahrt- und Kinderbetreuungsvergütung. Der VDAB veröffentlicht die neuen Regeln auf dieser Seite, sobald sie offiziell sind."
+      }
+    }
+  },
+  {
+    "id": 127,
+    "category": "employment",
+    "situations": [
+      "job-loss"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "VDAB",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vdab.be/jobs/solliciteren/sollicitatiegesprek/treinticket",
+    "content": {
+      "en": {
+        "title": "Free Train Ticket for a Job Interview (VDAB)",
+        "desc": "Registered jobseekers without work (or involuntarily part-time) can get a free train ticket to go to a job interview, a selection exam with Werkenvoor.be or a public employer.",
+        "deadline": "Request it at the earliest a month before and at the latest on the day of the interview or exam.",
+        "amount": "A free train ticket from your nearest station",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof that you attended, from the employer or public body"
+          }
+        ],
+        "steps": [
+          "Call VDAB free on 0800 30 700 (working days 8:00–16:30) or go to a VDAB office",
+          "You get the ticket by email, or it is loaded onto your eID",
+          "Ask the employer or public body for proof that you attended"
+        ]
+      },
+      "nl": {
+        "title": "Gratis treinticket om te solliciteren (VDAB)",
+        "desc": "Ingeschreven werkzoekenden zonder werk (of onvrijwillig deeltijds) kunnen een gratis treinticket krijgen om naar een sollicitatiegesprek, een examen bij Werkenvoor.be of een openbaar bestuur te gaan.",
+        "deadline": "Ten vroegste een maand vooraf en ten laatste op de dag van het gesprek of examen aan te vragen.",
+        "amount": "Een gratis treinticket vanaf het station het dichtst bij je",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van je aanwezigheid van de werkgever of het openbaar bestuur"
+          }
+        ],
+        "steps": [
+          "Bel gratis 0800 30 700 (elke werkdag van 8 tot 16.30 uur) of ga naar een VDAB-locatie",
+          "Je krijgt het ticket via mail, of het wordt op je eID geladen",
+          "Vraag de werkgever of het openbaar bestuur een bewijs dat je aanwezig was"
+        ]
+      },
+      "fr": {
+        "title": "Billet de train gratuit pour un entretien d'embauche (VDAB)",
+        "desc": "Les demandeurs d'emploi inscrits sans travail (ou à temps partiel involontaire) peuvent obtenir un billet de train gratuit pour un entretien d'embauche ou un examen chez Werkenvoor.be ou une administration publique.",
+        "deadline": "À demander au plus tôt un mois avant et au plus tard le jour de l'entretien ou de l'examen.",
+        "amount": "Un billet de train gratuit depuis la gare la plus proche",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve de présence de l'employeur ou de l'administration"
+          }
+        ],
+        "steps": [
+          "Appelez gratuitement le VDAB au 0800 30 700 (jours ouvrables de 8 h à 16 h 30) ou rendez-vous dans un bureau VDAB",
+          "Vous recevez le billet par e-mail, ou il est chargé sur votre eID",
+          "Demandez à l'employeur ou à l'administration une preuve de votre présence"
+        ]
+      },
+      "de": {
+        "title": "Kostenloses Zugticket für ein Vorstellungsgespräch (VDAB)",
+        "desc": "Eingetragene Arbeitsuchende ohne Arbeit (oder unfreiwillig in Teilzeit) können ein kostenloses Zugticket zu einem Vorstellungsgespräch oder einer Prüfung bei Werkenvoor.be oder einer Behörde erhalten.",
+        "deadline": "Frühestens einen Monat vorher und spätestens am Tag des Gesprächs oder der Prüfung zu beantragen.",
+        "amount": "Ein kostenloses Zugticket ab dem nächstgelegenen Bahnhof",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Anwesenheitsnachweis des Arbeitgebers oder der Behörde"
+          }
+        ],
+        "steps": [
+          "Rufen Sie den VDAB kostenlos unter 0800 30 700 an (werktags 8–16:30 Uhr) oder gehen Sie zu einer VDAB-Stelle",
+          "Sie erhalten das Ticket per E-Mail oder es wird auf Ihre eID geladen",
+          "Bitten Sie den Arbeitgeber oder die Behörde um einen Anwesenheitsnachweis"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vdab.be/jobs/solliciteren/sollicitatiegesprek/treinticket",
+      "conditions": {
+        "en": [
+          "You have no work or work part-time involuntarily, and are registered with VDAB as a jobseeker.",
+          "You go by train from your nearest station to a job interview (also with a temp or recruitment agency, for a specific vacancy) or an exam with Werkenvoor.be or a public body.",
+          "You can prove you attended."
+        ],
+        "nl": [
+          "Je hebt geen werk of werkt onvrijwillig deeltijds, en je bent bij VDAB ingeschreven als werkzoekende.",
+          "Je gaat met de trein vanaf het dichtstbijzijnde station naar een sollicitatiegesprek (ook bij een uitzend- of selectiekantoor, voor een specifieke vacature) of een examen bij Werkenvoor.be of een openbaar bestuur.",
+          "Je kan bewijzen dat je aanwezig was."
+        ],
+        "fr": [
+          "Vous êtes sans travail ou à temps partiel involontaire, et inscrit(e) au VDAB comme demandeur d'emploi.",
+          "Vous allez en train depuis la gare la plus proche à un entretien d'embauche (aussi via une agence d'intérim ou de sélection, pour un poste précis) ou à un examen chez Werkenvoor.be ou une administration.",
+          "Vous pouvez prouver votre présence."
+        ],
+        "de": [
+          "Sie haben keine Arbeit oder arbeiten unfreiwillig Teilzeit und sind beim VDAB als arbeitsuchend eingetragen.",
+          "Sie fahren mit dem Zug vom nächstgelegenen Bahnhof zu einem Vorstellungsgespräch (auch bei einer Zeitarbeits- oder Personalagentur, für eine bestimmte Stelle) oder einer Prüfung bei Werkenvoor.be oder einer Behörde.",
+          "Sie können Ihre Anwesenheit nachweisen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 128,
+    "category": "housing",
+    "situations": [
+      "renting",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Woningfonds",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaamswoningfonds.be/onze-diensten/huurwaarborglening",
+    "amount_source_url": "https://www.vlaamswoningfonds.be/onze-diensten/huurwaarborglening/kenmerken-huurwaarborglening",
+    "request_url": "https://www.vlaamswoningfonds.be/aanvraagformulier-huurwaarborglening",
+    "content": {
+      "en": {
+        "title": "Interest-Free Rent Deposit Loan (Huurwaarborglening)",
+        "desc": "The Vlaams Woningfonds lends you the rent deposit for a home in Flanders, interest-free and without file costs, repaid over 36 months. The loan never exceeds the deposit in your lease; the maximum rises from €2,310 without dependants to €3,465 with 4 or more (€2,541 to €3,811.50 in the larger cities and the Brussels periphery), repaid over 36 months.",
+        "deadline": "Apply within 3 months of signing the lease; no lease yet? You can ask for approval in principle first. Completeness checked within 2 working days, decision within 10 working days.",
+        "amount": "Up to €3,465 (€3,811.50 in larger cities), 0% interest",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Signed application form with the required annexes (every person signing the lease)"
+          },
+          {
+            "type": "doc",
+            "label": "The (draft) lease"
+          }
+        ],
+        "steps": [
+          "Fill in and sign the application form with its annexes — every person signing the lease does so",
+          "Send it to the Vlaams Woningfonds",
+          "You hear within 2 working days whether the file is complete, and within 10 working days whether you qualify",
+          "If approved the loan is granted; if not, you can appeal to the supervisory authority"
+        ]
+      },
+      "nl": {
+        "title": "Huurwaarborglening (renteloos)",
+        "desc": "Het Vlaams Woningfonds leent je de huurwaarborg voor een woning in Vlaanderen, renteloos en zonder dossierkosten, terug te betalen over 36 maanden. De lening is nooit hoger dan de waarborg uit je huurcontract; het maximum stijgt van €2.310 zonder personen ten laste tot €3.465 met 4 of meer (€2.541 tot €3.811,50 in de grotere steden en de Vlaamse Rand), terug te betalen over 36 maanden.",
+        "deadline": "Aan te vragen binnen 3 maanden na het ondertekenen van het huurcontract; nog geen huurcontract? Dan kan je eerst een principiële toelating vragen. Volledigheid beoordeeld binnen 2 werkdagen, beslissing binnen 10 werkdagen.",
+        "amount": "Tot €3.465 (€3.811,50 in grotere steden), 0% rente",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ondertekend aanvraagformulier met verplichte bijlagen (elke persoon die het huurcontract ondertekent)"
+          },
+          {
+            "type": "doc",
+            "label": "Het (ontwerp)huurcontract"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier met bijlagen in en onderteken het — elke persoon die het huurcontract ondertekent, doet dat",
+          "Bezorg het aan het Vlaams Woningfonds",
+          "Binnen 2 werkdagen hoor je of je dossier volledig is, binnen 10 werkdagen of je aan de voorwaarden voldoet",
+          "Bij goedkeuring wordt het krediet verstrekt; bij weigering kan je beroep aantekenen bij de toezichthouder"
+        ]
+      },
+      "fr": {
+        "title": "Prêt de garantie locative sans intérêt (Huurwaarborglening, Flandre)",
+        "desc": "Le Vlaams Woningfonds vous prête la garantie locative pour un logement en Flandre, sans intérêt ni frais de dossier, remboursable sur 36 mois. Le prêt ne dépasse jamais la garantie prévue au bail ; le maximum va de 2.310 € sans personne à charge à 3.465 € avec 4 ou plus (2.541 € à 3.811,50 € dans les grandes villes et la périphérie bruxelloise), remboursable sur 36 mois.",
+        "deadline": "À demander dans les 3 mois suivant la signature du bail ; pas encore de bail ? Vous pouvez d'abord demander un accord de principe. Complétude vérifiée en 2 jours ouvrables, décision en 10 jours ouvrables.",
+        "amount": "Jusqu'à 3.465 € (3.811,50 € dans les grandes villes), 0 % d'intérêt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande signé avec les annexes obligatoires (chaque signataire du bail)"
+          },
+          {
+            "type": "doc",
+            "label": "Le (projet de) bail"
+          }
+        ],
+        "steps": [
+          "Remplissez et signez le formulaire avec ses annexes — chaque personne qui signe le bail le fait",
+          "Envoyez-le au Vlaams Woningfonds",
+          "Vous savez en 2 jours ouvrables si le dossier est complet, et en 10 jours ouvrables si vous remplissez les conditions",
+          "En cas d'accord le prêt est accordé ; sinon, vous pouvez introduire un recours auprès de l'autorité de contrôle"
+        ]
+      },
+      "de": {
+        "title": "Zinsloses Mietkautionsdarlehen (Huurwaarborglening, Flandern)",
+        "desc": "Der Vlaams Woningfonds leiht Ihnen die Mietkaution für eine Wohnung in Flandern, zinslos und ohne Bearbeitungsgebühr, rückzahlbar über 36 Monate. Das Darlehen übersteigt nie die Kaution laut Mietvertrag; das Maximum steigt von 2.310 € ohne Personen zu Lasten auf 3.465 € mit 4 oder mehr (2.541 € bis 3.811,50 € in größeren Städten und im Brüsseler Umland), rückzahlbar über 36 Monate.",
+        "deadline": "Innerhalb von 3 Monaten nach Unterzeichnung des Mietvertrags zu beantragen; noch kein Vertrag? Dann zuerst eine Grundsatzzusage beantragen. Vollständigkeit binnen 2 Werktagen, Entscheidung binnen 10 Werktagen.",
+        "amount": "Bis 3.465 € (3.811,50 € in größeren Städten), 0 % Zinsen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Unterschriebenes Antragsformular mit Pflichtanlagen (jede Person, die den Mietvertrag unterzeichnet)"
+          },
+          {
+            "type": "doc",
+            "label": "Der (Entwurf des) Mietvertrag(s)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular mit Anlagen aus und unterschreiben Sie — jede Person, die den Mietvertrag unterzeichnet",
+          "Schicken Sie es an den Vlaams Woningfonds",
+          "Binnen 2 Werktagen erfahren Sie, ob die Akte vollständig ist, binnen 10 Werktagen, ob Sie die Bedingungen erfüllen",
+          "Bei Genehmigung wird das Darlehen gewährt; bei Ablehnung können Sie bei der Aufsichtsbehörde Einspruch einlegen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaamswoningfonds.be/onze-diensten/huurwaarborglening/voorwaarden-huurwaarborglening",
+      "conditions": {
+        "en": [
+          "You are registered in the population or foreigners' register, or at a reference address; every person signing the lease must qualify.",
+          "Net indexed income at most €38,603 (single), €42,205 (single with a disability) or €57,900 + €3,605 per dependant.",
+          "The rental is in the Flemish Region, your main residence and not social housing; you own no home or building plot and have no arrears on another loan; the lease was signed at most 3 months ago."
+        ],
+        "nl": [
+          "Je bent ingeschreven in het bevolkings- of vreemdelingenregister, of op een referentieadres; elke persoon die het huurcontract ondertekent moet aan de voorwaarden voldoen.",
+          "Netto geïndexeerd inkomen maximaal €38.603 (alleenstaande), €42.205 (alleenstaande met handicap) of €57.900 + €3.605 per persoon ten laste.",
+          "De huurwoning ligt in het Vlaamse Gewest, is je hoofdverblijfplaats en geen sociale huurwoning; je hebt geen woning of bouwgrond in eigendom en geen betalingsachterstand bij een andere lening; het huurcontract is hooguit 3 maanden geleden ondertekend."
+        ],
+        "fr": [
+          "Vous êtes inscrit(e) au registre de la population ou des étrangers, ou à une adresse de référence ; chaque signataire du bail doit remplir les conditions.",
+          "Revenu net indexé maximum 38.603 € (isolé), 42.205 € (isolé handicapé) ou 57.900 € + 3.605 € par personne à charge.",
+          "Le logement loué se trouve en Région flamande, est votre résidence principale et n'est pas un logement social ; vous ne possédez ni logement ni terrain à bâtir et n'avez pas d'arriérés sur un autre prêt ; le bail a été signé il y a 3 mois au plus."
+        ],
+        "de": [
+          "Sie sind im Bevölkerungs- oder Fremdenregister oder unter einer Bezugsadresse eingetragen; jede Person, die den Mietvertrag unterzeichnet, muss die Bedingungen erfüllen.",
+          "Indexiertes Nettoeinkommen höchstens 38.603 € (alleinstehend), 42.205 € (alleinstehend mit Behinderung) oder 57.900 € + 3.605 € pro Person zu Lasten.",
+          "Die Mietwohnung liegt in der Flämischen Region, ist Ihr Hauptwohnsitz und keine Sozialwohnung; Sie besitzen keine Wohnung und kein Baugrundstück und haben keine Rückstände bei einem anderen Darlehen; der Mietvertrag wurde vor höchstens 3 Monaten unterzeichnet."
+        ]
+      }
+    }
+  },
+  {
+    "id": 129,
+    "category": "housing",
+    "situations": [
+      "health-issue",
+      "renting",
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verminderingen-van-de-onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-personen-met-een-handicap",
+    "content": {
+      "en": {
+        "title": "Property Tax Reduction for People with a Disability",
+        "desc": "Owners or tenants in Flanders whose household includes a person with a recognised disability get a reduction on the property tax (onroerende voorheffing) of the home where that person is domiciled. The base of €17.60 per person with a disability (tax year 2026) is raised by the provincial and municipal surcharges, often to more than €200.",
+        "deadline": "Owners: automatic on the tax bill (otherwise file an objection with the certificates). Tenants: apply once. With a retroactive certificate the reduction can be claimed up to 5 years back via an objection.",
+        "amount": "€17.60 per person, plus local surcharges",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Disability certificate from your health fund, the RIZIV or the FPS Social Security (DG Persons with Disabilities)"
+          }
+        ],
+        "steps": [
+          "Owner? The reduction is granted automatically on your tax bill",
+          "Not on your bill? File an objection with the Vlaamse Belastingdienst and add the certificates",
+          "Tenant? Apply once; the reduction goes to the landlord, who settles it in your rent",
+          "Got a disability certificate with retroactive effect? Claim the reduction via an objection, up to 5 years back"
+        ]
+      },
+      "nl": {
+        "title": "Vermindering van de onroerende voorheffing voor personen met een handicap",
+        "desc": "Eigenaars of huurders in Vlaanderen met een gezinslid met een erkende handicap krijgen een vermindering op de onroerende voorheffing van de woning waar die persoon gedomicilieerd is. Het basisbedrag van €17,60 per persoon met een handicap (aanslagjaar 2026) wordt verhoogd met de provinciale en gemeentelijke opcentiemen, vaak tot meer dan €200.",
+        "deadline": "Eigenaars: automatisch op het aanslagbiljet (anders bezwaar met de attesten). Huurders: één keer aanvragen. Met een attest met terugwerkende kracht kan je de vermindering via bezwaar tot 5 jaar terug krijgen.",
+        "amount": "€17,60 per persoon, plus opcentiemen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de handicap van je ziekenfonds, het RIZIV of de FOD Sociale Zekerheid (DG Personen met een handicap)"
+          }
+        ],
+        "steps": [
+          "Eigenaar? De vermindering wordt automatisch op je aanslagbiljet toegekend",
+          "Niet op je aanslagbiljet? Dien bezwaar in bij de Vlaamse Belastingdienst en voeg de attesten toe",
+          "Huurder? Vraag één keer aan; de vermindering gaat naar de verhuurder, die ze met je huur verrekent",
+          "Attest met terugwerkende kracht gekregen? Vraag de vermindering via bezwaar, tot 5 jaar terug"
+        ]
+      },
+      "fr": {
+        "title": "Réduction du précompte immobilier pour personnes handicapées (Flandre)",
+        "desc": "Les propriétaires ou locataires en Flandre dont le ménage compte une personne avec un handicap reconnu obtiennent une réduction du précompte immobilier du logement où cette personne est domiciliée. La base de 17,60 € par personne handicapée (exercice 2026) est augmentée des centimes additionnels provinciaux et communaux, souvent à plus de 200 €.",
+        "deadline": "Propriétaires : automatique sur l'avertissement-extrait de rôle (sinon réclamation avec les attestations). Locataires : demande unique. Avec une attestation rétroactive, la réduction peut être demandée jusqu'à 5 ans en arrière par réclamation.",
+        "amount": "17,60 € par personne, plus centimes additionnels",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation de handicap de votre mutualité, de l'INAMI ou du SPF Sécurité sociale (DG Personnes handicapées)"
+          }
+        ],
+        "steps": [
+          "Propriétaire ? La réduction est accordée automatiquement sur votre avertissement-extrait de rôle",
+          "Pas accordée ? Introduisez une réclamation auprès du Vlaamse Belastingdienst avec les attestations",
+          "Locataire ? Faites une demande unique ; la réduction va au bailleur, qui la déduit de votre loyer",
+          "Attestation reçue avec effet rétroactif ? Demandez la réduction par réclamation, jusqu'à 5 ans en arrière"
+        ]
+      },
+      "de": {
+        "title": "Ermäßigung des Immobiliensteuervorabzugs für Personen mit Behinderung (Flandern)",
+        "desc": "Eigentümer oder Mieter in Flandern mit einem Haushaltsmitglied mit anerkannter Behinderung erhalten eine Ermäßigung des Immobiliensteuervorabzugs für die Wohnung, in der diese Person gemeldet ist. Der Grundbetrag von 17,60 € pro Person mit Behinderung (Steuerjahr 2026) wird um die Provinz- und Gemeindezuschläge erhöht, oft auf mehr als 200 €.",
+        "deadline": "Eigentümer: automatisch auf dem Steuerbescheid (sonst Einspruch mit den Bescheinigungen). Mieter: einmal beantragen. Mit rückwirkender Bescheinigung kann die Ermäßigung per Einspruch bis zu 5 Jahre rückwirkend beantragt werden.",
+        "amount": "17,60 € pro Person, plus Zuschläge",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Behinderung von Ihrer Krankenkasse, dem LIKIV oder dem FÖD Soziale Sicherheit (GD Personen mit Behinderung)"
+          }
+        ],
+        "steps": [
+          "Eigentümer? Die Ermäßigung wird automatisch auf Ihrem Steuerbescheid gewährt",
+          "Nicht gewährt? Legen Sie beim Vlaamse Belastingdienst Einspruch ein und fügen Sie die Bescheinigungen bei",
+          "Mieter? Einmal beantragen; die Ermäßigung geht an den Vermieter, der sie mit Ihrer Miete verrechnet",
+          "Bescheinigung mit Rückwirkung erhalten? Beantragen Sie die Ermäßigung per Einspruch, bis zu 5 Jahre rückwirkend"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verminderingen-van-de-onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-personen-met-een-handicap",
+      "conditions": {
+        "en": [
+          "A person with a disability is domiciled in the home on 1 January of the tax year (population register); the home is in the Flemish Region.",
+          "The disability was established before age 65 and is one of: invalidity of at least 66%, earning capacity reduced to 1/3 or less, or reduced self-reliance of at least 9 points.",
+          "A child entitled to the care supplement (6 points over the three pillars or 4 in the first) also counts."
+        ],
+        "nl": [
+          "Een persoon met een handicap is op 1 januari van het aanslagjaar in de woning gedomicilieerd (bevolkingsregister); de woning ligt in het Vlaamse Gewest.",
+          "De handicap is vastgesteld vóór 65 jaar en is een van: invaliditeit van minstens 66%, verdienvermogen verminderd tot 1/3 of minder, of verminderde zelfredzaamheid van minstens 9 punten.",
+          "Een kind met recht op de zorgtoeslag (6 punten over de drie pijlers of 4 in de eerste) volstaat ook."
+        ],
+        "fr": [
+          "Une personne handicapée est domiciliée dans le logement au 1er janvier de l'exercice (registre de la population) ; le logement se trouve en Région flamande.",
+          "Le handicap a été constaté avant 65 ans et est l'un des suivants : invalidité d'au moins 66 %, capacité de gain réduite à 1/3 ou moins, ou autonomie réduite d'au moins 9 points.",
+          "Un enfant ayant droit au supplément pour soins (6 points sur les trois piliers ou 4 au premier) suffit aussi."
+        ],
+        "de": [
+          "Eine Person mit Behinderung ist am 1. Januar des Steuerjahres in der Wohnung gemeldet (Bevölkerungsregister); die Wohnung liegt in der Flämischen Region.",
+          "Die Behinderung wurde vor dem 65. Lebensjahr festgestellt und ist eine der folgenden: Invalidität von mindestens 66 %, Erwerbsfähigkeit auf 1/3 oder weniger gemindert, oder verminderte Selbstständigkeit von mindestens 9 Punkten.",
+          "Ein Kind mit Anspruch auf den Pflegezuschlag (6 Punkte über die drei Säulen oder 4 in der ersten) genügt ebenfalls."
+        ]
+      }
+    }
+  },
+  {
+    "id": 130,
+    "category": "employment",
+    "situations": [
+      "school"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse overheid – Departement WEWIS",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/werken/opleiding-op-de-werkplek/als-lerende-een-opleiding-op-de-werkplek-volgen/leerlingenpremie-alternerende-opleiding",
+    "content": {
+      "en": {
+        "title": "Premium for Pupils in Dual Learning (Leerlingenpremie alternerende opleiding)",
+        "desc": "Secondary pupils living in Flanders who learn their trade both at school and at a workplace (dual learning) get a yearly premium to encourage them to finish the course.",
+        "deadline": "Once per school year, at most 3 times. For training in a company in Flanders or Brussels the training provider applies within 3 months of the start of the agreement.",
+        "amount": "€500 per school year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Only for a workplace in Wallonia or abroad: copy of the agreement and a signed statement, by 31 August"
+          }
+        ],
+        "steps": [
+          "Workplace in Flanders or Brussels? Your school or training provider uploads the agreement and your statement to app.werkplekduaal.be",
+          "Workplace in Wallonia or abroad? Send a copy of the agreement and the signed statement to werkplekduaal@vlaanderen.be by 31 August",
+          "You receive the decision by eBox or letter"
+        ]
+      },
+      "nl": {
+        "title": "Leerlingenpremie alternerende opleiding",
+        "desc": "Leerlingen secundair onderwijs die in Vlaanderen wonen en hun vak leren op school én op de werkvloer (duaal leren), krijgen een jaarlijkse premie om hen te motiveren de opleiding af te maken.",
+        "deadline": "Eén keer per schooljaar, maximaal 3 keer. Bij een opleiding in een onderneming in Vlaanderen of Brussel vraagt de opleidingsverstrekker aan binnen 3 maanden na de start van de overeenkomst.",
+        "amount": "€500 per schooljaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Enkel bij een werkplek in Wallonië of het buitenland: kopie van de overeenkomst en een ondertekende verklaring, uiterlijk 31 augustus"
+          }
+        ],
+        "steps": [
+          "Werkplek in Vlaanderen of Brussel? Je school of opleidingsverstrekker laadt de overeenkomst en je verklaring op in app.werkplekduaal.be",
+          "Werkplek in Wallonië of het buitenland? Stuur een kopie van de overeenkomst en de ondertekende verklaring naar werkplekduaal@vlaanderen.be, uiterlijk 31 augustus",
+          "Je krijgt de beslissing via eBox of per brief"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour élèves en formation en alternance (Leerlingenpremie, Flandre)",
+        "desc": "Les élèves du secondaire habitant en Flandre qui apprennent leur métier à l'école et sur le lieu de travail (formation duale) reçoivent une prime annuelle pour les encourager à terminer la formation.",
+        "deadline": "Une fois par année scolaire, 3 fois maximum. Pour une formation dans une entreprise en Flandre ou à Bruxelles, l'opérateur de formation introduit la demande dans les 3 mois du début du contrat.",
+        "amount": "500 € par année scolaire",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Uniquement pour un lieu de travail en Wallonie ou à l'étranger : copie du contrat et déclaration signée, au plus tard le 31 août"
+          }
+        ],
+        "steps": [
+          "Lieu de travail en Flandre ou à Bruxelles ? Votre école ou opérateur de formation charge le contrat et votre déclaration sur app.werkplekduaal.be",
+          "Lieu de travail en Wallonie ou à l'étranger ? Envoyez une copie du contrat et la déclaration signée à werkplekduaal@vlaanderen.be, au plus tard le 31 août",
+          "Vous recevez la décision par eBox ou par courrier"
+        ]
+      },
+      "de": {
+        "title": "Prämie für Schüler in dualer Ausbildung (Leerlingenpremie, Flandern)",
+        "desc": "Sekundarschüler mit Wohnsitz in Flandern, die ihren Beruf in der Schule und am Arbeitsplatz lernen (duale Ausbildung), erhalten eine jährliche Prämie als Anreiz, die Ausbildung abzuschließen.",
+        "deadline": "Einmal pro Schuljahr, höchstens dreimal. Bei Ausbildung in einem Unternehmen in Flandern oder Brüssel beantragt der Ausbildungsträger sie binnen 3 Monaten nach Vertragsbeginn.",
+        "amount": "500 € pro Schuljahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nur bei einem Arbeitsplatz in der Wallonie oder im Ausland: Vertragskopie und unterschriebene Erklärung, bis spätestens 31. August"
+          }
+        ],
+        "steps": [
+          "Arbeitsplatz in Flandern oder Brüssel? Ihre Schule oder Ihr Ausbildungsträger lädt Vertrag und Erklärung auf app.werkplekduaal.be hoch",
+          "Arbeitsplatz in der Wallonie oder im Ausland? Schicken Sie Vertragskopie und unterschriebene Erklärung bis 31. August an werkplekduaal@vlaanderen.be",
+          "Sie erhalten die Entscheidung per eBox oder Brief"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/werken/opleiding-op-de-werkplek/als-lerende-een-opleiding-op-de-werkplek-volgen/leerlingenpremie-alternerende-opleiding",
+      "conditions": {
+        "en": [
+          "You have an agreement for an alternating (dual) secondary education course leading to a Flemish qualification: an OAO, SAO or part-time employment contract.",
+          "You live in the Flemish Region.",
+          "According to the company's Dimona declaration you are trained at the workplace for at least 4 months in each school year concerned."
+        ],
+        "nl": [
+          "Je hebt een overeenkomst voor een alternerende (duale) opleiding secundair onderwijs die leidt naar een Vlaamse kwalificatie: een OAO, SAO of deeltijdse arbeidsovereenkomst.",
+          "Je woont in het Vlaams Gewest.",
+          "Volgens de Dimona-aangifte van de onderneming word je in elk betrokken schooljaar minstens 4 maanden op de werkplek opgeleid."
+        ],
+        "fr": [
+          "Vous avez un contrat de formation en alternance (duale) dans l'enseignement secondaire menant à une qualification flamande : OAO, SAO ou contrat de travail à temps partiel.",
+          "Vous habitez en Région flamande.",
+          "Selon la déclaration Dimona de l'entreprise, vous êtes formé(e) sur le lieu de travail au moins 4 mois par année scolaire concernée."
+        ],
+        "de": [
+          "Sie haben einen Vertrag für eine duale Sekundarausbildung, die zu einer flämischen Qualifikation führt: OAO, SAO oder Teilzeitarbeitsvertrag.",
+          "Sie wohnen in der Flämischen Region.",
+          "Laut Dimona-Meldung des Unternehmens werden Sie in jedem betreffenden Schuljahr mindestens 4 Monate am Arbeitsplatz ausgebildet."
+        ]
+      }
+    }
   }
 ]

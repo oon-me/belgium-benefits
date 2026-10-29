@@ -4,25 +4,32 @@
     "131": 95,
     "136": 103,
     "185": 5,
+    "331": 126,
     "365": 15,
     "630": 114,
     "676": 99,
+    "682": 129,
     "685": 11,
     "692": 6,
     "697": 96,
     "726": 90,
     "749": 87,
     "809": 102,
+    "832": 121,
     "833": 91,
     "835": 20,
+    "838": 122,
     "854": 89,
     "862": 44,
     "879": 92,
     "883": 108,
     "885": 88,
+    "894": 120,
     "1130": 109,
     "1213": 16,
+    "1371": 127,
     "1387": 101,
+    "1424": 126,
     "1526": 97,
     "1527": 112,
     "1530": 98,
@@ -30,13 +37,21 @@
     "1532": 21,
     "1533": 111,
     "1549": 113,
+    "1551": 128,
     "1564": 47,
     "1656": 105,
     "1810": 45,
     "1975": 100,
     "2026": 9,
     "2847": 110,
+    "2971": 124,
+    "2972": 125,
+    "2997": 121,
     "3016": 89,
+    "3034": 118,
+    "3036": 118,
+    "3050": 117,
+    "3056": 123,
     "3068": 25,
     "3071": 89,
     "3072": 94,
@@ -44,9 +59,11 @@
     "3076": 104,
     "3099": 115,
     "3101": 116,
+    "3103": 119,
     "3111": 26,
     "43693": 106,
     "49892": 107,
+    "75001": 130,
     "75018": 93,
     "77094": 27
   },
@@ -172,39 +189,12 @@
       ]
     },
     {
-      "nr": "3050",
-      "name": "Extra tegemoetkoming in de prijs van voorbehoedsmiddelen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/contraceptie"
-      ]
-    },
-    {
       "nr": "2955",
       "name": "Financiële tegemoetkoming voor bijzondere voeding in geval van zeldzame monogenetische erfelijke metabole ziekten of syndroom van Smith-Lemli-Opitz",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/zeldzame-monogenische-erfelijke-metabole-ziekten"
-      ]
-    },
-    {
-      "nr": "832",
-      "name": "Forfait voor incontinentie bij afhankelijke personen (RIZIV)",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-incontinentie-bij-afhankelijke-personen"
-      ]
-    },
-    {
-      "nr": "2997",
-      "name": "Forfait voor onbehandelbare urine-incontinentie",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-onbehandelbare-urine-incontinentie"
       ]
     },
     {
@@ -395,15 +385,6 @@
       "financial": true,
       "official": [
         "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers"
-      ]
-    },
-    {
-      "nr": "3103",
-      "name": "Rouwverlof en rouwuitkering voor zelfstandigen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.rsvz.be/nl/faq/rouwuitkering"
       ]
     },
     {
@@ -704,24 +685,6 @@
       ]
     },
     {
-      "nr": "2971",
-      "name": "Tegemoetkoming in de prijs van brilglazen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-brilglazen"
-      ]
-    },
-    {
-      "nr": "2972",
-      "name": "Tegemoetkoming in de prijs van contactlenzen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-contactlenzen"
-      ]
-    },
-    {
       "nr": "3020",
       "name": "Tegemoetkoming in de prijs van de behandeling door gespecialiseerde centra voor kinderen en adolescenten die een neurologische stoornis gekoppeld aan een psychiatrische stoornis hebben",
       "level": "Federaal",
@@ -764,15 +727,6 @@
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkoming-in-de-reiskosten-van-dialysepatienten"
-      ]
-    },
-    {
-      "nr": "838",
-      "name": "Tegemoetkoming in de reiskosten van kankerpatiënten",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkoming-in-de-reiskosten-voor-kankerpatienten"
       ]
     },
     {
@@ -827,15 +781,6 @@
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/gepersonaliseerde-begeleiding"
-      ]
-    },
-    {
-      "nr": "3056",
-      "name": "Tegemoetkoming voor een hoortoestel",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/hoortoestellen"
       ]
     },
     {
@@ -1311,33 +1256,6 @@
       ]
     },
     {
-      "nr": "894",
-      "name": "Zorgforfait voor chronisch zieken",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/forfait-voor-chronisch-zieken"
-      ]
-    },
-    {
-      "nr": "3034",
-      "name": "Zwangerschap - uitkering voor gedeeltelijke werkverwijdering",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/werkverwijdering"
-      ]
-    },
-    {
-      "nr": "3036",
-      "name": "Zwangerschap - uitkering voor volledige werkverwijdering",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/werkverwijdering"
-      ]
-    },
-    {
       "nr": "3093",
       "name": "Tegemoetkoming in vaccinaties",
       "level": "Federaal/Vlaams",
@@ -1400,15 +1318,6 @@
       ]
     },
     {
-      "nr": "1371",
-      "name": "Gratis treinticket om te solliciteren",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vdab.be/jobs/voordelen/treinticket"
-      ]
-    },
-    {
       "nr": "2153",
       "name": "Individueel Maatwerk",
       "level": "Vlaams",
@@ -1432,15 +1341,6 @@
       "level": "Vlaams",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "75001",
-      "name": "Leerlingenpremie alternerende opleiding",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/leerlingenpremie-alternerende-opleiding"
-      ]
     },
     {
       "nr": "77950",
@@ -1532,15 +1432,6 @@
       ]
     },
     {
-      "nr": "331",
-      "name": "Tegemoetkoming in kosten kinderopvang voor werkzoekenden in opleiding",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vdab.be/opleidingen/gratis-en-voordelig-leren/geen-werk/erkend"
-      ]
-    },
-    {
       "nr": "1247",
       "name": "Tegemoetkoming voor arbeidsgereedschap, -kleding en arbeidspostaanpassingen",
       "level": "Vlaams",
@@ -1625,15 +1516,6 @@
       ]
     },
     {
-      "nr": "682",
-      "name": "Vermindering van de onroerende voorheffing voor personen met een handicap",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-personen-met-een-handicap"
-      ]
-    },
-    {
       "nr": "58341",
       "name": "Vermindering van de schenkbelasting wegens kinderlast",
       "level": "Vlaams",
@@ -1646,15 +1528,6 @@
       "level": "Vlaams",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "1424",
-      "name": "Verplaatsingsvergoeding voor werkzoekenden die een erkende opleiding volgen",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vdab.be/opleidingen/gratis-en-voordelig-leren/geen-werk/erkend"
-      ]
     },
     {
       "nr": "1421",
@@ -2314,15 +2187,6 @@
       "financial": false,
       "official": [
         "https://www.departementzorg.be/nl/mobiliteitshulpmiddelen"
-      ]
-    },
-    {
-      "nr": "1551",
-      "name": "Huurwaarborglening van het Vlaams Woningfonds",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://www.vlaamswoningfonds.be/onze-diensten/huurwaarborglening"
       ]
     },
     {
