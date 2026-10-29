@@ -10380,5 +10380,748 @@
         ]
       }
     }
+  },
+  {
+    "id": 82,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12025"
+    ],
+    "institution": "Stad Mechelen",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.mechelen.be/digitaal-loket/ondersteuning-voor-afvalverwerking-van-luiers-en-incontinentiemateriaal",
+    "content": {
+      "en": {
+        "title": "Gratis huisvuilzakken of toelage containers (Free Bin Bags or Container Allowance, Mechelen)",
+        "desc": "Each year, Mechelen residents with chronic incontinence, kidney dialysis or a stoma can choose free rubbish bags or a €90 allowance for an underground waste container. They also get a badge for the underground containers.",
+        "deadline": "Apply by 30 September of the year concerned; your doctor fills in a new form every year.",
+        "amount": "3 rolls of large or 6 rolls of small bin bags, or €90 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, filled in and signed by your (family) doctor"
+          },
+          {
+            "type": "id",
+            "label": "Your identity card"
+          }
+        ],
+        "steps": [
+          "Download the application form from mechelen.be",
+          "Have your doctor fill in and sign it",
+          "Tick your choice: 3 large rolls, 6 small rolls or the €90 container allowance",
+          "Bring the form to the reception desk of the Huis van de Mechelaar (no appointment needed)"
+        ]
+      },
+      "nl": {
+        "title": "Gratis huisvuilzakken of toelage containers voor chronisch zieken (Mechelen)",
+        "desc": "Inwoners van Mechelen met chronische incontinentie, een nierdialysebehandeling of een stoma kiezen elk jaar voor gratis huisvuilzakken of een toelage van €90 voor een ondergrondse afvalcontainer. Ze krijgen ook een badge voor de ondergrondse containers.",
+        "deadline": "Aan te vragen uiterlijk op 30 september van het dienstjaar; je arts vult elk jaar een nieuw formulier in.",
+        "amount": "3 rollen grote of 6 rollen kleine huisvuilzakken, of €90 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ingevuld en ondertekend door je (huis)arts"
+          },
+          {
+            "type": "id",
+            "label": "Je identiteitskaart"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op mechelen.be",
+          "Laat het invullen en ondertekenen door je huisarts",
+          "Duid je keuze aan: 3 grote rollen, 6 kleine rollen of de toelage van €90 voor een container",
+          "Breng het formulier naar de onthaalbalie in het Huis van de Mechelaar (zonder afspraak)"
+        ]
+      },
+      "fr": {
+        "title": "Gratis huisvuilzakken of toelage containers (Sacs poubelle gratuits ou allocation conteneurs, Malines)",
+        "desc": "Chaque année, les habitants de Malines souffrant d'incontinence chronique, sous dialyse rénale ou porteurs d'une stomie peuvent choisir des sacs poubelle gratuits ou une allocation de 90 € pour un conteneur à déchets enterré. Ils reçoivent aussi un badge pour les conteneurs enterrés.",
+        "deadline": "À demander au plus tard le 30 septembre de l'année concernée ; votre médecin remplit un nouveau formulaire chaque année.",
+        "amount": "3 rouleaux de grands ou 6 rouleaux de petits sacs poubelle, ou 90 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, complété et signé par votre médecin (traitant)"
+          },
+          {
+            "type": "id",
+            "label": "Votre carte d'identité"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande sur mechelen.be",
+          "Faites-le compléter et signer par votre médecin",
+          "Cochez votre choix : 3 grands rouleaux, 6 petits rouleaux ou l'allocation de 90 € pour un conteneur",
+          "Apportez le formulaire à l'accueil du Huis van de Mechelaar (sans rendez-vous)"
+        ]
+      },
+      "de": {
+        "title": "Gratis huisvuilzakken of toelage containers (Kostenlose Müllsäcke oder Containerzuschuss, Mechelen)",
+        "desc": "Einwohner von Mechelen mit chronischer Inkontinenz, Nierendialyse oder einem Stoma wählen jedes Jahr kostenlose Müllsäcke oder einen Zuschuss von 90 € für einen unterirdischen Abfallcontainer. Sie erhalten außerdem einen Badge für die unterirdischen Container.",
+        "deadline": "Bis spätestens 30. September des betreffenden Jahres beantragen; Ihr Arzt füllt jedes Jahr ein neues Formular aus.",
+        "amount": "3 Rollen große oder 6 Rollen kleine Müllsäcke, oder 90 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, von Ihrem (Haus-)Arzt ausgefüllt und unterschrieben"
+          },
+          {
+            "type": "id",
+            "label": "Ihr Personalausweis"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf mechelen.be herunter",
+          "Lassen Sie es von Ihrem Arzt ausfüllen und unterschreiben",
+          "Kreuzen Sie Ihre Wahl an: 3 große Rollen, 6 kleine Rollen oder der Containerzuschuss von 90 €",
+          "Bringen Sie das Formular zum Empfang im Huis van de Mechelaar (ohne Termin)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.mechelen.be/digitaal-loket/ondersteuning-voor-afvalverwerking-van-luiers-en-incontinentiemateriaal",
+      "conditions": {
+        "en": [
+          "On 1 January of the year you apply for, your domicile is in Mechelen.",
+          "You have chronic incontinence, are on kidney dialysis or have a stoma, as confirmed by your doctor on the form.",
+          "You do not live in an institution, rest or care home, and are not part of a residential community (woon- en leefgemeenschap).",
+          "The application reaches the city by 30 September of the year concerned."
+        ],
+        "nl": [
+          "Je bent op 1 januari van het jaar van je aanvraag gedomicilieerd in Mechelen.",
+          "Je lijdt aan chronische incontinentie, krijgt een nierdialysebehandeling of bent stomapatiënt, bevestigd door je arts op het formulier.",
+          "Je woont en verblijft niet in een instelling, rust- of verzorgingstehuis en maakt geen deel uit van een woon- en leefgemeenschap.",
+          "De aanvraag wordt ingediend uiterlijk op 30 september van het dienstjaar."
+        ],
+        "fr": [
+          "Au 1er janvier de l'année de votre demande, vous êtes domicilié(e) à Malines.",
+          "Vous souffrez d'incontinence chronique, êtes sous dialyse rénale ou portez une stomie, ce que votre médecin confirme sur le formulaire.",
+          "Vous ne vivez pas en institution, maison de repos ou de soins, et ne faites pas partie d'une communauté de vie (woon- en leefgemeenschap).",
+          "La demande est introduite au plus tard le 30 septembre de l'année concernée."
+        ],
+        "de": [
+          "Am 1. Januar des Antragsjahres haben Sie Ihren Wohnsitz in Mechelen.",
+          "Sie leiden an chronischer Inkontinenz, erhalten eine Nierendialyse oder haben ein Stoma, was Ihr Arzt auf dem Formular bestätigt.",
+          "Sie leben nicht in einer Einrichtung, einem Alten- oder Pflegeheim und gehören keiner Wohngemeinschaft (woon- en leefgemeenschap) an.",
+          "Der Antrag wird bis spätestens 30. September des betreffenden Jahres eingereicht."
+        ]
+      }
+    }
+  },
+  {
+    "id": 83,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "71072"
+    ],
+    "institution": "Stad Hasselt",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.hasselt.be/nl/mantelzorgpremie-van-stad-hasselt",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Hasselt)",
+        "desc": "A yearly premium of €100 or €200 for an unpaid carer of someone who lives at home in Hasselt and needs care. The amount depends on the care-need certificate; one premium per person cared for.",
+        "deadline": "Apply any time: requests from 1 November to 30 April are paid in July, those from 1 May to 31 October in December.",
+        "amount": "€100 or €200 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The online application form"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate proving the care need: a Groeipakket care-supplement certificate (under 21) or an FPS Social Security certificate of at least 9 points (21 and over)"
+          }
+        ],
+        "steps": [
+          "Get the care-need certificate (Groeipakket payer for children, handicap.belgium.be or your health fund for adults)",
+          "Fill in the online form on hasselt.be and upload the certificate",
+          "The city pays the premium in July or December"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Hasselt)",
+        "desc": "Een jaarlijkse premie van €100 of €200 voor een onbezoldigde mantelzorger van iemand die thuis woont in Hasselt en zorg nodig heeft. Het bedrag hangt af van het attest van zorgbehoevendheid; één premie per zorgbehoevende.",
+        "deadline": "Aanvragen kan het hele jaar: aanvragen van 1 november tot 30 april worden in juli uitbetaald, die van 1 mei tot 31 oktober in december.",
+        "amount": "€100 of €200 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het (online) aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest dat de zorgbehoevendheid bewijst: een attest zorgtoeslag specifieke zorgbehoefte (tot 21 jaar) of een attest van de FOD Sociale Zekerheid van minstens 9 punten (vanaf 21 jaar)"
+          }
+        ],
+        "steps": [
+          "Vraag het attest van zorgbehoevendheid aan (uitbetaler Groeipakket voor kinderen, handicap.belgium.be of je ziekenfonds voor volwassenen)",
+          "Vul het online formulier op hasselt.be in en laad het attest op",
+          "De stad betaalt de premie uit in juli of december"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (Prime aidant proche, Hasselt)",
+        "desc": "Une prime annuelle de 100 € ou 200 € pour l'aidant proche non rémunéré d'une personne qui vit à domicile à Hasselt et a besoin de soins. Le montant dépend de l'attestation de besoin de soins ; une prime par personne aidée.",
+        "deadline": "Demande possible toute l'année : les demandes du 1er novembre au 30 avril sont payées en juillet, celles du 1er mai au 31 octobre en décembre.",
+        "amount": "100 € ou 200 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande (en ligne)"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation prouvant le besoin de soins : attestation de supplément pour besoins spécifiques du Groeipakket (moins de 21 ans) ou attestation du SPF Sécurité sociale d'au moins 9 points (21 ans et plus)"
+          }
+        ],
+        "steps": [
+          "Obtenez l'attestation de besoin de soins (caisse du Groeipakket pour les enfants, handicap.belgium.be ou votre mutuelle pour les adultes)",
+          "Remplissez le formulaire en ligne sur hasselt.be et joignez l'attestation",
+          "La ville verse la prime en juillet ou en décembre"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Hasselt)",
+        "desc": "Eine jährliche Prämie von 100 € oder 200 € für eine unbezahlte pflegende Person, die jemanden betreut, der in Hasselt zu Hause lebt und Pflege braucht. Der Betrag hängt von der Bescheinigung über den Pflegebedarf ab; eine Prämie pro gepflegter Person.",
+        "deadline": "Antrag jederzeit möglich: Anträge vom 1. November bis 30. April werden im Juli ausgezahlt, vom 1. Mai bis 31. Oktober im Dezember.",
+        "amount": "100 € oder 200 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das (Online-)Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung über den Pflegebedarf: Bescheinigung über den Zuschlag für besonderen Pflegebedarf des Groeipakket (unter 21) oder Bescheinigung des FÖD Soziale Sicherheit über mindestens 9 Punkte (ab 21)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Bescheinigung über den Pflegebedarf (Groeipakket-Kasse für Kinder, handicap.belgium.be oder Ihre Krankenkasse für Erwachsene)",
+          "Füllen Sie das Online-Formular auf hasselt.be aus und laden Sie die Bescheinigung hoch",
+          "Die Stadt zahlt die Prämie im Juli oder Dezember aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.hasselt.be/nl/mantelzorgpremie-van-stad-hasselt",
+      "conditions": {
+        "en": [
+          "The person cared for lives in Hasselt (population or foreigners' register, bevolkings- of vreemdelingenregister) and still lives at home, not in a residential facility.",
+          "A person cared for under 21 has at least a Groeipakket supplement for specific care needs; one aged 21 or over has an FPS Social Security certificate of at least 9 points.",
+          "You, the carer, are an adult living in Belgium (population or foreigners' register) and do not need care yourself.",
+          "You care unpaid, not as your job and without a volunteer allowance through an organisation.",
+          "At most two people cared for per carer, and only if they do not live at the same address; one premium per person cared for."
+        ],
+        "nl": [
+          "De zorgbehoevende woont in Hasselt (ingeschreven in het bevolkings- of vreemdelingenregister) en verblijft nog thuis, niet in een residentiële voorziening.",
+          "Een zorgbehoevende tot 21 jaar heeft minstens recht op een zorgtoeslag specifieke zorgbehoefte; een zorgbehoevende vanaf 21 jaar heeft een attest van minstens 9 punten van de FOD Sociale Zekerheid.",
+          "Jij, de mantelzorger, bent meerderjarig, woont in België (ingeschreven in het bevolkings- of vreemdelingenregister) en bent zelf niet zorgbehoevend.",
+          "Je draagt onbezoldigd bij aan de zorg, niet als job en zonder vrijwilligersvergoeding via een organisatie.",
+          "Maximaal twee zorgbehoevenden per mantelzorger, en enkel als zij niet op hetzelfde adres wonen; één premie per zorgbehoevende."
+        ],
+        "fr": [
+          "La personne aidée habite Hasselt (inscrite au registre de la population ou des étrangers) et vit encore à domicile, pas en institution résidentielle.",
+          "Une personne aidée de moins de 21 ans a au moins droit au supplément pour besoins de soins spécifiques ; une personne de 21 ans ou plus a une attestation d'au moins 9 points du SPF Sécurité sociale.",
+          "Vous, l'aidant, êtes majeur(e), habitez en Belgique (registre de la population ou des étrangers) et n'avez pas vous-même besoin de soins.",
+          "Vous aidez sans rémunération, pas dans le cadre de votre emploi et sans indemnité de volontariat via une organisation.",
+          "Au maximum deux personnes aidées par aidant, et seulement si elles n'habitent pas à la même adresse ; une prime par personne aidée."
+        ],
+        "de": [
+          "Die gepflegte Person wohnt in Hasselt (im Bevölkerungs- oder Fremdenregister eingetragen) und lebt noch zu Hause, nicht in einer Wohneinrichtung.",
+          "Eine gepflegte Person unter 21 hat mindestens Anspruch auf den Zuschlag für besonderen Pflegebedarf; eine Person ab 21 hat eine Bescheinigung des FÖD Soziale Sicherheit über mindestens 9 Punkte.",
+          "Sie als pflegende Person sind volljährig, wohnen in Belgien (Bevölkerungs- oder Fremdenregister) und sind selbst nicht pflegebedürftig.",
+          "Sie pflegen unbezahlt, nicht beruflich und ohne Ehrenamtsentschädigung über eine Organisation.",
+          "Höchstens zwei gepflegte Personen pro pflegender Person, und nur wenn sie nicht unter derselben Adresse wohnen; eine Prämie pro gepflegter Person."
+        ]
+      }
+    }
+  },
+  {
+    "id": 84,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "71016"
+    ],
+    "institution": "Stad Genk (Sociaal Huis Portavida)",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.genk.be/mantelzorgtoelage",
+    "request_url": "https://dienstverlening.genk.be/eloket/mantelzorgtoelage-aanvraag/",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage (Carer Allowance, Genk)",
+        "desc": "€40 for every month you care for a Genk resident over 65 who needs care and has a modest income. The carer must live in the province of Limburg.",
+        "deadline": "No deadline on the page; the allowance is per month of care.",
+        "amount": "€40 per month of care",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A medical certificate of the person cared for (e.g. reduced self-reliance of at least 12 points, dementia certificate or a B or C home-nursing package)"
+          },
+          {
+            "type": "doc",
+            "label": "The latest tax assessment notice of the person cared for"
+          }
+        ],
+        "steps": [
+          "Gather the medical certificate and the tax notice of the person cared for",
+          "Apply online on genk.be or make an appointment at Sociaal Huis Portavida",
+          "The city checks the conditions and pays the allowance"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage (Genk)",
+        "desc": "€40 per maand dat je zorgt voor een zorgbehoevende Genkenaar ouder dan 65 met een beperkt inkomen. De mantelzorger woont in Belgisch Limburg.",
+        "deadline": "Geen termijn op de pagina; de toelage geldt per maand zorg.",
+        "amount": "€40 per maand zorg",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een medisch attest van de zorgbehoevende (bv. verminderde zelfredzaamheid van minstens 12 punten, attest van dementie of B- of C-forfait in de thuisverpleging)"
+          },
+          {
+            "type": "doc",
+            "label": "Het laatste aanslagbiljet van de belastingen van de zorgbehoevende"
+          }
+        ],
+        "steps": [
+          "Verzamel het medisch attest en het aanslagbiljet van de zorgbehoevende",
+          "Vraag online aan op genk.be of maak een afspraak bij Sociaal Huis Portavida",
+          "De stad kijkt de voorwaarden na en betaalt de toelage uit"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage (Allocation aidant proche, Genk)",
+        "desc": "40 € pour chaque mois où vous aidez un habitant de Genk de plus de 65 ans qui a besoin de soins et a des revenus modestes. L'aidant doit habiter le Limbourg belge.",
+        "deadline": "Pas de délai sur la page ; l'allocation est calculée par mois d'aide.",
+        "amount": "40 € par mois d'aide",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une attestation médicale de la personne aidée (p. ex. autonomie réduite d'au moins 12 points, attestation de démence ou forfait B ou C en soins infirmiers à domicile)"
+          },
+          {
+            "type": "doc",
+            "label": "Le dernier avertissement-extrait de rôle de la personne aidée"
+          }
+        ],
+        "steps": [
+          "Rassemblez l'attestation médicale et l'avertissement-extrait de rôle de la personne aidée",
+          "Faites la demande en ligne sur genk.be ou prenez rendez-vous au Sociaal Huis Portavida",
+          "La ville vérifie les conditions et verse l'allocation"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage (Zuschuss für pflegende Angehörige, Genk)",
+        "desc": "40 € für jeden Monat, in dem Sie einen pflegebedürftigen Einwohner von Genk über 65 mit geringem Einkommen betreuen. Die pflegende Person muss in Belgisch-Limburg wohnen.",
+        "deadline": "Keine Frist auf der Seite; der Zuschuss gilt pro Pflegemonat.",
+        "amount": "40 € pro Pflegemonat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine ärztliche Bescheinigung der gepflegten Person (z. B. eingeschränkte Selbstständigkeit von mindestens 12 Punkten, Demenzbescheinigung oder B- oder C-Pauschale in der häuslichen Krankenpflege)"
+          },
+          {
+            "type": "doc",
+            "label": "Der letzte Steuerbescheid der gepflegten Person"
+          }
+        ],
+        "steps": [
+          "Sammeln Sie die ärztliche Bescheinigung und den Steuerbescheid der gepflegten Person",
+          "Beantragen Sie online auf genk.be oder vereinbaren Sie einen Termin im Sociaal Huis Portavida",
+          "Die Stadt prüft die Voraussetzungen und zahlt den Zuschuss aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.genk.be/mantelzorgtoelage",
+      "conditions": {
+        "en": [
+          "The person cared for is over 65 and has lived, and actually stayed, in Genk for at least one month.",
+          "The taxable income of the person cared for is at most €26,162.35 (single) or €30,601.19 (married or cohabiting couple), limits from 1 Sep 2026.",
+          "You, the carer, are at least 18, live in Belgian Limburg and actually provide the care.",
+          "The person cared for has a certificate of care need: reduced self-reliance of at least 12 points or 80% disability (FPS Social Security / Vlaamse Sociale Bescherming), a care budget for older people of at least 12 points, a dementia certificate, a B or C home-nursing package, a care budget for people with a high care need, or a recent (geronto)psychiatrist's report."
+        ],
+        "nl": [
+          "De zorgbehoevende is ouder dan 65 jaar en woont en verblijft minstens 1 maand effectief in Genk.",
+          "Het belastbaar inkomen van de zorgbehoevende is maximaal €26.162,35 (alleenstaande) of €30.601,19 (gehuwden en wettelijk/feitelijk samenwonenden), grenzen vanaf 1/9/2026.",
+          "Jij, de mantelzorger, bent minstens 18 jaar, woont in Belgisch Limburg en neemt de zorg effectief op.",
+          "De zorgbehoevende heeft een attest van zorgbehoevendheid: verminderde zelfredzaamheid van minstens 12 punten of 80% invaliditeit (FOD Sociale Zekerheid / Vlaamse Sociale Bescherming), zorgbudget voor ouderen met een zorgnood van minstens 12 punten, attest van dementie, B- of C-forfait thuisverpleging, zorgbudget voor zwaar zorgbehoevenden of een recent verslag van een (geronto-)psychiater."
+        ],
+        "fr": [
+          "La personne aidée a plus de 65 ans et habite et séjourne effectivement à Genk depuis au moins un mois.",
+          "Le revenu imposable de la personne aidée ne dépasse pas 26.162,35 € (isolé) ou 30.601,19 € (couple marié ou cohabitant), plafonds depuis le 1/9/2026.",
+          "Vous, l'aidant, avez au moins 18 ans, habitez le Limbourg belge et assurez effectivement les soins.",
+          "La personne aidée a une attestation de besoin de soins : autonomie réduite d'au moins 12 points ou invalidité de 80 % (SPF Sécurité sociale / Vlaamse Sociale Bescherming), budget de soins pour personnes âgées d'au moins 12 points, attestation de démence, forfait B ou C en soins à domicile, budget de soins pour grande dépendance ou rapport récent d'un (géronto)psychiatre."
+        ],
+        "de": [
+          "Die gepflegte Person ist über 65 und wohnt und hält sich seit mindestens einem Monat tatsächlich in Genk auf.",
+          "Das steuerpflichtige Einkommen der gepflegten Person beträgt höchstens 26.162,35 € (alleinstehend) oder 30.601,19 € (verheiratetes oder zusammenwohnendes Paar), Grenzen ab 1.9.2026.",
+          "Sie als pflegende Person sind mindestens 18, wohnen in Belgisch-Limburg und übernehmen die Pflege tatsächlich.",
+          "Die gepflegte Person hat eine Bescheinigung über den Pflegebedarf: eingeschränkte Selbstständigkeit von mindestens 12 Punkten oder 80 % Invalidität (FÖD Soziale Sicherheit / Vlaamse Sociale Bescherming), Pflegebudget für Ältere von mindestens 12 Punkten, Demenzbescheinigung, B- oder C-Pauschale der häuslichen Pflege, Pflegebudget für Schwerpflegebedürftige oder ein aktueller Bericht eines (Geronto-)Psychiaters."
+        ]
+      }
+    }
+  },
+  {
+    "id": 85,
+    "category": "housing",
+    "situations": [
+      "renting",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35013"
+    ],
+    "institution": "Stad Oostende",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.oostende.be/premie-voor-huren-eerste-woning-gewijzigd-reglement",
+    "request_url": "https://eloket.oostende.be/nl/aanvraag-voor-een-premie-huren-van-een-eerste-woning-in-oostende",
+    "content": {
+      "en": {
+        "title": "Premie voor huren eerste woning (First Rental Home Premium, Ostend)",
+        "desc": "For young Ostend residents under 25 who leave their parents' home and rent for the first time in Ostend: two months' rent deposit (up to €1,000) plus €100 a month for 12 months. Funds are limited, and a housing coach follows up after six and twelve months.",
+        "deadline": "Apply from signing the lease until six months after it.",
+        "amount": "Two months' deposit (up to €1,000) plus €100 a month for 12 months",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Registered lease and registered inventory of fixtures"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate(s) of residence with the history of all your addresses"
+          },
+          {
+            "type": "doc",
+            "label": "Certificates of no property and no other home (MyMinfin) and your tax assessment notice from two years before the application"
+          }
+        ],
+        "steps": [
+          "Sign a registered lease of at least one year for a home of at most €650 a month",
+          "Apply with the documents via the online form, by email to wonen@oostende.be or at the city hall desk",
+          "The city inspects the home's quality and pays once all conditions are met",
+          "Keep the three appointments with the housing coach, or payment stops"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor huren eerste woning (Oostende)",
+        "desc": "Voor jonge Oostendenaars onder 25 die het ouderlijk huis verlaten en voor het eerst huren in Oostende: twee maanden huurwaarborg (maximaal €1.000) plus €100 per maand gedurende 12 maanden. Zolang er kredieten zijn; een woonbegeleider evalueert na zes en twaalf maanden.",
+        "deadline": "Aan te vragen vanaf de ondertekening van het huurcontract tot maximaal zes maanden erna.",
+        "amount": "Twee maanden huurwaarborg (maximaal €1.000) plus €100 per maand gedurende 12 maanden",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Geregistreerd huurcontract en geregistreerde plaatsbeschrijving"
+          },
+          {
+            "type": "doc",
+            "label": "Attest(en) van woonst met historiek van alle adressen"
+          },
+          {
+            "type": "doc",
+            "label": "Attesten geen eigendom en geen andere woongelegenheid (MyMinfin) en je aanslagbiljet personenbelasting van twee jaar voor de aanvraag"
+          }
+        ],
+        "steps": [
+          "Teken een geregistreerd huurcontract van minstens één jaar voor een woning van maximaal €650 per maand",
+          "Dien de aanvraag met de bewijsstukken in via het digitaal formulier, per mail naar wonen@oostende.be of aan de snelbalie in het stadhuis",
+          "De stad onderzoekt de woningkwaliteit en betaalt uit zodra aan alle voorwaarden is voldaan",
+          "Kom de drie afspraken met de woonbegeleider na, anders stopt de uitbetaling"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor huren eerste woning (Prime premier logement en location, Ostende)",
+        "desc": "Pour les jeunes Ostendais de moins de 25 ans qui quittent le domicile parental et louent pour la première fois à Ostende : deux mois de garantie locative (maximum 1.000 €) plus 100 € par mois pendant 12 mois. Dans la limite des crédits ; un accompagnateur logement fait le point après six et douze mois.",
+        "deadline": "À demander dès la signature du bail et au plus tard six mois après.",
+        "amount": "Deux mois de garantie (maximum 1.000 €) plus 100 € par mois pendant 12 mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bail enregistré et état des lieux enregistré"
+          },
+          {
+            "type": "doc",
+            "label": "Certificat(s) de résidence avec l'historique de toutes vos adresses"
+          },
+          {
+            "type": "doc",
+            "label": "Attestations de non-propriété et d'absence d'autre logement (MyMinfin) et votre avertissement-extrait de rôle d'il y a deux ans"
+          }
+        ],
+        "steps": [
+          "Signez un bail enregistré d'au moins un an pour un logement de maximum 650 € par mois",
+          "Introduisez la demande avec les pièces via le formulaire en ligne, par e-mail à wonen@oostende.be ou au guichet de l'hôtel de ville",
+          "La ville contrôle la qualité du logement et paie une fois toutes les conditions remplies",
+          "Respectez les trois rendez-vous avec l'accompagnateur logement, sinon le paiement s'arrête"
+        ]
+      },
+      "de": {
+        "title": "Premie voor huren eerste woning (Prämie für die erste Mietwohnung, Ostende)",
+        "desc": "Für junge Einwohner von Ostende unter 25, die das Elternhaus verlassen und zum ersten Mal in Ostende mieten: zwei Monatsmieten Mietkaution (höchstens 1.000 €) plus 100 € pro Monat für 12 Monate. Solange Mittel verfügbar sind; ein Wohnbegleiter zieht nach sechs und zwölf Monaten Bilanz.",
+        "deadline": "Ab Unterzeichnung des Mietvertrags bis höchstens sechs Monate danach beantragen.",
+        "amount": "Zwei Monatsmieten Kaution (höchstens 1.000 €) plus 100 € pro Monat für 12 Monate",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Registrierter Mietvertrag und registriertes Übergabeprotokoll"
+          },
+          {
+            "type": "doc",
+            "label": "Wohnsitzbescheinigung(en) mit allen bisherigen Adressen"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigungen über kein Eigentum und keine andere Wohnung (MyMinfin) und Ihr Steuerbescheid von vor zwei Jahren"
+          }
+        ],
+        "steps": [
+          "Unterzeichnen Sie einen registrierten Mietvertrag von mindestens einem Jahr für eine Wohnung von höchstens 650 € pro Monat",
+          "Reichen Sie den Antrag mit den Nachweisen über das Online-Formular, per E-Mail an wonen@oostende.be oder am Schalter im Rathaus ein",
+          "Die Stadt prüft die Wohnqualität und zahlt, sobald alle Voraussetzungen erfüllt sind",
+          "Halten Sie die drei Termine mit dem Wohnbegleiter ein, sonst wird die Zahlung eingestellt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": "https://www.oostende.be/premie-voor-huren-eerste-woning-gewijzigd-reglement",
+      "conditions": {
+        "en": [
+          "You are an adult under 25 when the lease is signed, and you are leaving your parents' home in Ostend to rent a first home in Ostend.",
+          "The rented home becomes your main residence in the population register (bevolkingsregister) within three months of the start of the lease.",
+          "You (and any partner) have never owned a home or rented before, inside or outside Ostend, and are not related up to the third degree to the landlord.",
+          "At least one partner has lived in Ostend for 10 years without interruption, counted from the lease.",
+          "Net taxable income two years before the application is at most €37,276, plus €2,084 per dependant.",
+          "Rent is at most €650 a month (incl. fixed charges), the lease is registered and at least one year; rooms and social housing do not qualify, and the home must meet the Flemish housing code."
+        ],
+        "nl": [
+          "Je bent meerderjarig en jonger dan 25 jaar bij het sluiten van het huurcontract, en je verlaat het ouderlijk huis in Oostende om een eerste woning in Oostende te huren.",
+          "De huurwoning wordt binnen drie maanden na de start van het huurcontract je hoofdverblijfplaats (bevolkingsregister).",
+          "Jij (en je eventuele partner) was nog nooit (mede-)eigenaar en huurde nooit eerder, binnen of buiten Oostende, en bent geen bloed- of aanverwant tot de derde graad van de eigenaar.",
+          "Minstens één van de partners woonde minstens 10 jaar onafgebroken in Oostende, gerekend vanaf het huurcontract.",
+          "Het netto belastbaar inkomen van twee jaar voor de aanvraag is maximaal €37.276, vermeerderd met €2.084 per persoon ten laste.",
+          "De huur is maximaal €650 per maand (inclusief vaste kosten), het huurcontract is geregistreerd en loopt minstens één jaar; kamers en sociale huurwoningen komen niet in aanmerking en de woning voldoet aan de Vlaamse Wooncode."
+        ],
+        "fr": [
+          "Vous êtes majeur(e) et avez moins de 25 ans à la signature du bail, et vous quittez le domicile parental à Ostende pour louer un premier logement à Ostende.",
+          "Le logement loué devient votre résidence principale au registre de la population (bevolkingsregister) dans les trois mois suivant le début du bail.",
+          "Vous (et votre éventuel partenaire) n'avez jamais été propriétaire ni locataire, à Ostende ou ailleurs, et n'êtes pas parent ou allié jusqu'au troisième degré du propriétaire.",
+          "Au moins un des partenaires a habité Ostende pendant 10 ans sans interruption, compté à partir du bail.",
+          "Le revenu net imposable d'il y a deux ans ne dépasse pas 37.276 €, majoré de 2.084 € par personne à charge.",
+          "Le loyer est de maximum 650 € par mois (charges fixes comprises), le bail est enregistré et d'au moins un an ; les chambres et logements sociaux sont exclus et le logement respecte le Code flamand du logement."
+        ],
+        "de": [
+          "Sie sind bei Abschluss des Mietvertrags volljährig und unter 25 und verlassen Ihr Elternhaus in Ostende, um eine erste Wohnung in Ostende zu mieten.",
+          "Die Mietwohnung wird innerhalb von drei Monaten nach Mietbeginn Ihr Hauptwohnsitz im Bevölkerungsregister (bevolkingsregister).",
+          "Sie (und ein etwaiger Partner) waren nie Eigentümer und haben nie zuvor gemietet, weder in noch außerhalb von Ostende, und sind mit dem Vermieter nicht bis zum dritten Grad verwandt oder verschwägert.",
+          "Mindestens ein Partner hat 10 Jahre ununterbrochen in Ostende gewohnt, gerechnet ab dem Mietvertrag.",
+          "Das steuerpflichtige Nettoeinkommen von vor zwei Jahren beträgt höchstens 37.276 €, zuzüglich 2.084 € pro unterhaltsberechtigter Person.",
+          "Die Miete beträgt höchstens 650 € pro Monat (inkl. fester Nebenkosten), der Mietvertrag ist registriert und läuft mindestens ein Jahr; Zimmer und Sozialwohnungen sind ausgeschlossen, und die Wohnung erfüllt den flämischen Wohnkodex."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the page requires the rented home to be your main residence in the population register (bevolkingsregister) and 10 years' residence in Ostend.",
+            "nl": "Niet voor jou: de pagina vereist dat de huurwoning je hoofdverblijfplaats in het bevolkingsregister is en dat je 10 jaar in Oostende woonde.",
+            "fr": "Pas pour vous : la page exige que le logement loué soit votre résidence principale au registre de la population (bevolkingsregister) et 10 ans de résidence à Ostende.",
+            "de": "Nicht für Sie: Die Seite verlangt, dass die Mietwohnung Ihr Hauptwohnsitz im Bevölkerungsregister (bevolkingsregister) ist und Sie 10 Jahre in Ostende gewohnt haben."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 86,
+    "category": "health",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21018"
+    ],
+    "institution": "Commune de Woluwe-Saint-Lambert",
+    "verified": "29 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.woluwe1200.be/prime-prestations-menageres-seniors/",
+    "content": {
+      "en": {
+        "title": "Prime pour prestations ménagères au domicile des seniors (Home-Help Premium for Seniors, Woluwe-Saint-Lambert)",
+        "desc": "€2 per service voucher used or per hour of home help from an approved service, up to €200 a calendar year, for residents aged 66 or over with a low income and increased reimbursement (BIM).",
+        "deadline": "Apply by 31 January after the calendar year concerned.",
+        "amount": "€2 per voucher or hour, up to €200 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The signed application form and a copy of your identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of increased reimbursement (BIM) from your health fund and the latest tax assessment notice of you and anyone you live with as a couple"
+          },
+          {
+            "type": "doc",
+            "label": "Your contract with an approved service-voucher company or home-help service, and its certificate of the vouchers or hours actually used"
+          }
+        ],
+        "steps": [
+          "Download the form from woluwe1200.be or ask the Cellule Aide au maintien à domicile",
+          "Add the documents and the provider's certificate of vouchers or hours used",
+          "Send it by post or email to fase.cmd@woluwe1200.be by 31 January",
+          "The municipality pays within three months of a complete application"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor huishoudhulp bij senioren thuis (Sint-Lambrechts-Woluwe)",
+        "desc": "€2 per gebruikte dienstencheque of per uur huishoudhulp van een erkende dienst, met een maximum van €200 per kalenderjaar, voor inwoners vanaf 66 jaar met een laag inkomen en verhoogde tegemoetkoming (BIM).",
+        "deadline": "Aan te vragen uiterlijk op 31 januari na het betrokken kalenderjaar.",
+        "amount": "€2 per cheque of uur, maximaal €200 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ondertekende aanvraagformulier en een kopie van je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Een bewijs van verhoogde tegemoetkoming (VT/BIM) van je ziekenfonds en het laatste aanslagbiljet van jou en je partner"
+          },
+          {
+            "type": "doc",
+            "label": "Je overeenkomst met een erkend dienstenchequebedrijf of erkende dienst voor thuishulp, en hun attest van de effectief gebruikte cheques of uren"
+          }
+        ],
+        "steps": [
+          "Download het formulier op woluwe1200.be of vraag het aan de Cel Thuiszorg voor senioren",
+          "Voeg de documenten en het attest van de dienstverlener over de gebruikte cheques of uren toe",
+          "Stuur alles per post of per mail naar fase.cmd@woluwe1200.be uiterlijk op 31 januari",
+          "De gemeente betaalt binnen drie maanden na een volledige aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Prime d'intervention pour des prestations ménagères au domicile des seniors (Woluwe-Saint-Lambert)",
+        "desc": "2 € par titre-service utilisé ou par heure d'aide ménagère d'un service agréé, avec un maximum de 200 € par année civile, pour les habitants de 66 ans ou plus aux revenus limités et bénéficiaires de l'intervention majorée (BIM).",
+        "deadline": "À introduire au plus tard le 31 janvier suivant l'année civile concernée.",
+        "amount": "2 € par titre ou par heure, maximum 200 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande signé et une copie de votre carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve du statut BIM délivrée par la mutuelle et le dernier avertissement-extrait de rôle de vous et de tout cohabitant"
+          },
+          {
+            "type": "doc",
+            "label": "Votre convention avec une entreprise de titres-services ou un service d'aide à domicile agréé, et son attestation des titres ou heures utilisés"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur woluwe1200.be ou demandez-le à la Cellule Aide au maintien à domicile",
+          "Joignez les documents et l'attestation du prestataire sur les titres ou heures utilisés",
+          "Envoyez le tout par courrier ou par e-mail à fase.cmd@woluwe1200.be au plus tard le 31 janvier",
+          "La commune paie dans les trois mois d'une demande complète"
+        ]
+      },
+      "de": {
+        "title": "Prime pour prestations ménagères au domicile des seniors (Haushaltshilfe-Prämie für Senioren, Woluwe-Saint-Lambert)",
+        "desc": "2 € pro genutztem Dienstleistungsscheck oder pro Stunde Haushaltshilfe eines zugelassenen Dienstes, höchstens 200 € pro Kalenderjahr, für Einwohner ab 66 mit geringem Einkommen und erhöhter Kostenerstattung (BIM).",
+        "deadline": "Bis spätestens 31. Januar nach dem betreffenden Kalenderjahr beantragen.",
+        "amount": "2 € pro Scheck oder Stunde, höchstens 200 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das unterschriebene Antragsformular und eine Kopie Ihres Personalausweises"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Nachweis der erhöhten Kostenerstattung (BIM) Ihrer Krankenkasse und der letzte Steuerbescheid von Ihnen und Ihrem Partner"
+          },
+          {
+            "type": "doc",
+            "label": "Ihr Vertrag mit einem zugelassenen Dienstleistungsscheck-Unternehmen oder Haushaltshilfedienst und dessen Bescheinigung der tatsächlich genutzten Schecks oder Stunden"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf woluwe1200.be herunter oder fragen Sie bei der Cellule Aide au maintien à domicile",
+          "Fügen Sie die Unterlagen und die Bescheinigung des Anbieters über die genutzten Schecks oder Stunden bei",
+          "Senden Sie alles per Post oder E-Mail an fase.cmd@woluwe1200.be bis spätestens 31. Januar",
+          "Die Gemeinde zahlt innerhalb von drei Monaten nach einem vollständigen Antrag"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "29 Oct 2026",
+      "source_url": [
+        "https://www.woluwe1200.be/prime-prestations-menageres-seniors/",
+        "https://www.woluwe1200.be/app/uploads/2025/11/FR-Site-Internet-reglement_prime_prestations-menageres.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "On 1 January of the year concerned, your domicile is in Woluwe-Saint-Lambert.",
+          "You are 66 or older.",
+          "Gross taxable income is at most €22,000 a year if you live alone, or €28,000 for the household if you are married or cohabiting (indexed).",
+          "You receive increased reimbursement from your health fund (BIM status).",
+          "Only one person per household can receive the premium."
+        ],
+        "nl": [
+          "Je bent op 1 januari van het betrokken jaar gedomicilieerd in Sint-Lambrechts-Woluwe.",
+          "Je bent 66 jaar of ouder.",
+          "Je bruto belastbaar inkomen is maximaal €22.000 per jaar als alleenstaande, of €28.000 voor het gezin als je gehuwd of samenwonend bent (geïndexeerd).",
+          "Je hebt recht op de verhoogde tegemoetkoming van je ziekenfonds (BIM-statuut).",
+          "Per gezin kan maar één persoon de premie krijgen."
+        ],
+        "fr": [
+          "Au 1er janvier de l'année concernée, vous êtes domicilié(e) à Woluwe-Saint-Lambert.",
+          "Vous avez 66 ans ou plus.",
+          "Votre revenu annuel brut imposable est de maximum 22.000 € si vous êtes isolé(e), ou 28.000 € pour le ménage si vous êtes marié(e) ou cohabitant(e) (montants indexés).",
+          "Vous bénéficiez de l'intervention majorée de votre mutuelle (statut BIM).",
+          "Une seule personne par ménage peut recevoir la prime."
+        ],
+        "de": [
+          "Am 1. Januar des betreffenden Jahres haben Sie Ihren Wohnsitz in Woluwe-Saint-Lambert.",
+          "Sie sind 66 Jahre oder älter.",
+          "Ihr steuerpflichtiges Bruttojahreseinkommen beträgt höchstens 22.000 € als Alleinstehende(r) oder 28.000 € für den Haushalt, wenn Sie verheiratet sind oder zusammenwohnen (indexiert).",
+          "Sie erhalten die erhöhte Kostenerstattung Ihrer Krankenkasse (BIM-Status).",
+          "Nur eine Person pro Haushalt kann die Prämie erhalten."
+        ]
+      }
+    }
   }
 ]

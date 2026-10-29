@@ -204,49 +204,79 @@
       "ids": [
         81
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "12025",
-      "name": "Mechelen / Malines"
+      "name": "Mechelen / Malines",
+      "checked": "29 Oct 2026",
+      "ids": [
+        82
+      ]
     },
     {
       "nis": "21016",
-      "name": "Ukkel / Uccle"
+      "name": "Ukkel / Uccle",
+      "checked": "29 Oct 2026",
+      "ids": []
     },
     {
       "nis": "58001",
-      "name": "La Louvière"
+      "name": "La Louvière",
+      "checked": "29 Oct 2026",
+      "ids": []
     },
     {
       "nis": "71072",
-      "name": "Hasselt"
+      "name": "Hasselt",
+      "checked": "29 Oct 2026",
+      "ids": [
+        83
+      ]
     },
     {
       "nis": "71016",
-      "name": "Genk"
+      "name": "Genk",
+      "checked": "29 Oct 2026",
+      "ids": [
+        84
+      ]
     },
     {
       "nis": "35013",
-      "name": "Oostende / Ostende"
+      "name": "Oostende / Ostende",
+      "checked": "29 Oct 2026",
+      "ids": [
+        85
+      ]
     },
     {
       "nis": "57081",
-      "name": "Doornik / Tournai"
+      "name": "Doornik / Tournai",
+      "checked": "29 Oct 2026",
+      "ids": []
     },
     {
       "nis": "62096",
-      "name": "Seraing"
+      "name": "Seraing",
+      "checked": "29 Oct 2026",
+      "ids": []
     },
     {
       "nis": "21018",
-      "name": "Sint-Lambrechts-Woluwe / Woluwe-Saint-Lambert"
+      "name": "Sint-Lambrechts-Woluwe / Woluwe-Saint-Lambert",
+      "checked": "29 Oct 2026",
+      "ids": [
+        86
+      ]
     },
     {
       "nis": "63079",
-      "name": "Verviers"
-    },
+      "name": "Verviers",
+      "checked": "29 Oct 2026",
+      "ids": []
+    }
+  ],
+  "queue": [
     {
       "nis": "57096",
       "name": "Moeskroen / Mouscron"
