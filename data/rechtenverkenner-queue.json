@@ -2,33 +2,51 @@
   "note": "Flemish and federal rights listed on rechtenverkenner.be (fetched 29 Oct 2026). rechtenverkenner is only the finder: every entry is verified on, and links to, the official page. done maps rechtenverkenner product number to our benefit id.",
   "done": {
     "131": 95,
+    "136": 103,
     "185": 5,
     "365": 15,
+    "630": 114,
     "676": 99,
     "685": 11,
     "692": 6,
     "697": 96,
     "726": 90,
     "749": 87,
+    "809": 102,
     "833": 91,
     "835": 20,
     "854": 89,
     "862": 44,
     "879": 92,
+    "883": 108,
     "885": 88,
+    "1130": 109,
     "1213": 16,
     "1387": 101,
     "1526": 97,
+    "1527": 112,
     "1530": 98,
     "1531": 1,
     "1532": 21,
+    "1533": 111,
+    "1549": 113,
     "1564": 47,
+    "1656": 105,
     "1810": 45,
     "1975": 100,
     "2026": 9,
+    "2847": 110,
+    "3016": 89,
     "3068": 25,
+    "3071": 89,
     "3072": 94,
+    "3073": 89,
+    "3076": 104,
+    "3099": 115,
+    "3101": 116,
     "3111": 26,
+    "43693": 106,
+    "49892": 107,
     "75018": 93,
     "77094": 27
   },
@@ -307,15 +325,6 @@
       ]
     },
     {
-      "nr": "1656",
-      "name": "Inkomensgarantie-uitkering",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.rva.be/burgers/deeltijdse-arbeid/hebt-u-recht-op-de-inkomensgarantie-uitkering"
-      ]
-    },
-    {
       "nr": "1216",
       "name": "Inschakelingsuitkering na de beroepsinschakelingstijd",
       "level": "Federaal",
@@ -344,42 +353,6 @@
       ]
     },
     {
-      "nr": "3076",
-      "name": "Jaarlijks vakantiegeld voor werknemers",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.rjv.fgov.be/nl/heb-ik-recht-op-vakantiegeld"
-      ]
-    },
-    {
-      "nr": "883",
-      "name": "Korting op treinticket NMBS vanaf 65 jaar",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.belgiantrain.be/nl/products/senior"
-      ]
-    },
-    {
-      "nr": "3073",
-      "name": "Maximumfactuur voor chronisch zieken",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/types-van-maximumfactuur-maf"
-      ]
-    },
-    {
-      "nr": "3071",
-      "name": "Maximumfactuur voor een kind jonger dan 19 jaar",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/types-van-maximumfactuur-maf"
-      ]
-    },
-    {
       "nr": "3062",
       "name": "Onbeperkt uitstel van invordering van fiscale schulden en vrijstelling van nalatigheidsinteresten",
       "level": "Federaal",
@@ -395,15 +368,6 @@
       "financial": true,
       "official": [
         "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers#invaliditeitspensioen_oorlogsfeiten_aanvragen"
-      ]
-    },
-    {
-      "nr": "136",
-      "name": "Overlevingspensioen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.sfpd.fgov.be/nl/recht-op-pensioen/overlevingspensioen"
       ]
     },
     {
@@ -449,33 +413,6 @@
       "financial": true,
       "official": [
         "https://www.sfpd.fgov.be/nl/recht-op-pensioen#rechtRustOuderdomspensioen"
-      ]
-    },
-    {
-      "nr": "43693",
-      "name": "Sociaal internetaanbod",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://economie.fgov.be/nl/themas/online/telecommunicatie/sociaal-internetaanbod-gunstig"
-      ]
-    },
-    {
-      "nr": "49892",
-      "name": "Sociaaltariefpremie voor collectieve installaties",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://economie.fgov.be/nl/themas/energie/sociale-energie/de-sociaaltariefpremie-voor"
-      ]
-    },
-    {
-      "nr": "3016",
-      "name": "Sociale maximumfactuur",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/financiele-toegankelijkheid/types-van-maximumfactuur-maf"
       ]
     },
     {
@@ -1208,25 +1145,6 @@
       ]
     },
     {
-      "nr": "3101",
-      "name": "Uitkering voor mantelzorg door zelfstandigen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.rsvz.be/nl/faq/zorgen-voor-een-familielid-heb-ik-recht-op-een-uitkering-mantelzorg-en-hoe-vraag-ik-ze-aan"
-      ]
-    },
-    {
-      "nr": "3099",
-      "name": "Vaderschaps- en geboorte-uitkering voor zelfstandigen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.rsvz.be/nl/faq/vaderschaps-en-geboorte-uitkering",
-        "https://www.rsvz.be/nl/faq/vaderschaps-en-geboorteverlof-heb-ik-er-recht-op-en-hoe-vraag-ik-het-aan"
-      ]
-    },
-    {
       "nr": "3115",
       "name": "Verergeringsvergoeding overheidspersoneel",
       "level": "Federaal",
@@ -1393,16 +1311,6 @@
       ]
     },
     {
-      "nr": "809",
-      "name": "Ziekte- en invaliditeitsuitkering",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte/vergoedingen-bij-arbeidsongeschiktheid",
-        "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/de-arbeidsongeschiktheidsuitkering"
-      ]
-    },
-    {
       "nr": "894",
       "name": "Zorgforfait voor chronisch zieken",
       "level": "Federaal",
@@ -1519,15 +1427,6 @@
       ]
     },
     {
-      "nr": "1130",
-      "name": "Kinderopvang met inkomenstarief",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.kindengezin.be/nl/thema/kinderopvang-en-naar-school/kostprijs/inkomenstarief"
-      ]
-    },
-    {
       "nr": "1823",
       "name": "Leefvergoeding voor personen onder elektronisch toezicht",
       "level": "Vlaams",
@@ -1550,15 +1449,6 @@
       "financial": true,
       "official": [
         "https://www.onroerenderfgoed.be/meerjarenpremieovereenkomst"
-      ]
-    },
-    {
-      "nr": "2847",
-      "name": "Ondersteuningstoeslag (Vlaams Groeipakket)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/ondersteuningstoeslag"
       ]
     },
     {
@@ -1617,15 +1507,6 @@
       "level": "Vlaams",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "1533",
-      "name": "Schoolbonus (Vlaams Groeipakket)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/schoolbonus"
-      ]
     },
     {
       "nr": "241",
@@ -1723,15 +1604,6 @@
       "financial": true,
       "official": [
         "https://www.vlaanderen.be/bouwen-wonen-en-energie/vermindering-van-de-onroerende-voorheffing-voor-bescheiden-woning"
-      ]
-    },
-    {
-      "nr": "630",
-      "name": "Vermindering van de onroerende voorheffing voor gezinsbijslaggerechtigde kinderen",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-gezinsbijslaggerechtigde-kinderen"
       ]
     },
     {
@@ -1893,24 +1765,6 @@
       "level": "Vlaams",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "1549",
-      "name": "Wezentoeslag (Vlaams Groeipakket)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/wezentoeslag"
-      ]
-    },
-    {
-      "nr": "1527",
-      "name": "Zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte (Vlaams Groeipakket)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/zorgtoeslag-voor-kinderen-met-een-specifieke-ondersteuningsbehoefte"
-      ]
     },
     {
       "nr": "1466",

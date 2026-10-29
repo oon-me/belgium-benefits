@@ -12959,5 +12959,1760 @@
         ]
       }
     }
+  },
+  {
+    "id": 102,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "employee",
+      "job-loss"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/de-arbeidsongeschiktheidsuitkering",
+    "content": {
+      "en": {
+        "title": "Sickness and Invalidity Benefit for Employees and Jobseekers (Arbeidsongeschiktheidsuitkering)",
+        "desc": "If you are an employee or unemployed and cannot work because of illness or an accident outside work, your health fund pays a daily benefit once its advising doctor recognises your incapacity. After one year it becomes an invalidity benefit.",
+        "deadline": "Declare your incapacity to your health fund within 14 calendar days (workers), 28 days (white-collar employees) or 7 days (unemployed). Declaring late costs 10% of the benefit per day.",
+        "amount": "Year 1: 60% of your gross daily wage (capped). From year 2: 65% with dependants, 55% living alone, 40% cohabiting. Minimum and maximum amounts apply",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate of incapacity for work (getuigschrift), filled in with your doctor"
+          }
+        ],
+        "steps": [
+          "Fill in the certificate of incapacity for work with your treating doctor (for more than 14 days the GP sends it electronically)",
+          "Send it to your health fund by post or hand it in, within the deadline for your status",
+          "The advising doctor of your health fund accepts the dates or calls you for an examination",
+          "The health fund pays the benefit per day, 6 days a week; certificates last at most 3 months and can be renewed"
+        ]
+      },
+      "nl": {
+        "title": "Arbeidsongeschiktheidsuitkering (ziekte- en invaliditeitsuitkering)",
+        "desc": "Ben je werknemer of werkloze en kun je door ziekte of een ongeval buiten het werk niet werken, dan betaalt je ziekenfonds een daguitkering zodra de adviserend arts je arbeidsongeschiktheid erkent. Na één jaar wordt het een invaliditeitsuitkering.",
+        "deadline": "Geef je arbeidsongeschiktheid aan bij je ziekenfonds binnen 14 kalenderdagen (arbeiders), 28 dagen (bedienden) of 7 dagen (werklozen). Te laat aangeven kost 10% van de uitkering per dag.",
+        "amount": "Jaar 1: 60% van je brutodagloon (begrensd). Vanaf jaar 2: 65% met gezinslast, 55% alleenstaand, 40% samenwonend. Er gelden minimum- en maximumbedragen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Getuigschrift van arbeidsongeschiktheid, samen met je arts ingevuld"
+          }
+        ],
+        "steps": [
+          "Vul het getuigschrift van arbeidsongeschiktheid in met je behandelend arts (bij meer dan 14 dagen stuurt de huisarts het elektronisch)",
+          "Bezorg het binnen de termijn voor jouw statuut aan je ziekenfonds, per post of ter plaatse",
+          "De adviserend arts van je ziekenfonds aanvaardt de data of roept je op voor een onderzoek",
+          "Het ziekenfonds betaalt de uitkering per dag, 6 dagen per week; een attest geldt hooguit 3 maanden en kan verlengd worden"
+        ]
+      },
+      "fr": {
+        "title": "Indemnités d'incapacité de travail (maladie et invalidité)",
+        "desc": "Si vous êtes salarié(e) ou chômeur(se) et ne pouvez pas travailler à cause d'une maladie ou d'un accident hors travail, votre mutualité verse une indemnité journalière dès que le médecin-conseil reconnaît votre incapacité. Après un an, elle devient une indemnité d'invalidité.",
+        "deadline": "Déclarez votre incapacité à votre mutualité dans les 14 jours calendrier (ouvriers), 28 jours (employés) ou 7 jours (chômeurs). Une déclaration tardive coûte 10 % de l'indemnité par jour.",
+        "amount": "1re année : 60 % de votre salaire journalier brut (plafonné). Dès la 2e année : 65 % avec charge de famille, 55 % isolé, 40 % cohabitant. Des montants minimum et maximum s'appliquent",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat d'incapacité de travail, rempli avec votre médecin"
+          }
+        ],
+        "steps": [
+          "Remplissez le certificat d'incapacité de travail avec votre médecin traitant (au-delà de 14 jours, le généraliste l'envoie par voie électronique)",
+          "Envoyez-le à votre mutualité par la poste ou déposez-le, dans le délai prévu pour votre statut",
+          "Le médecin-conseil de votre mutualité accepte les dates ou vous convoque pour un examen",
+          "La mutualité verse l'indemnité par jour, 6 jours par semaine ; un certificat vaut 3 mois maximum et peut être prolongé"
+        ]
+      },
+      "de": {
+        "title": "Arbeitsunfähigkeitsentschädigung (Krankheit und Invalidität)",
+        "desc": "Sind Sie Arbeitnehmer oder arbeitslos und können wegen Krankheit oder eines Unfalls außerhalb der Arbeit nicht arbeiten, zahlt Ihre Krankenkasse ein Tagegeld, sobald der Vertrauensarzt Ihre Arbeitsunfähigkeit anerkennt. Nach einem Jahr wird daraus eine Invaliditätsentschädigung.",
+        "deadline": "Melden Sie Ihre Arbeitsunfähigkeit innerhalb von 14 Kalendertagen (Arbeiter), 28 Tagen (Angestellte) oder 7 Tagen (Arbeitslose) Ihrer Krankenkasse. Eine verspätete Meldung kostet 10 % der Entschädigung pro Tag.",
+        "amount": "1. Jahr: 60 % Ihres Bruttotageslohns (begrenzt). Ab dem 2. Jahr: 65 % mit Familienlast, 55 % alleinstehend, 40 % zusammenwohnend. Es gelten Mindest- und Höchstbeträge",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Arbeitsunfähigkeit, mit Ihrem Arzt ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Füllen Sie die Bescheinigung der Arbeitsunfähigkeit mit Ihrem behandelnden Arzt aus (bei mehr als 14 Tagen schickt der Hausarzt sie elektronisch)",
+          "Schicken Sie sie innerhalb der Frist für Ihr Statut per Post an Ihre Krankenkasse oder geben Sie sie dort ab",
+          "Der Vertrauensarzt Ihrer Krankenkasse akzeptiert die Daten oder lädt Sie zu einer Untersuchung ein",
+          "Die Krankenkasse zahlt pro Tag, 6 Tage pro Woche; eine Bescheinigung gilt höchstens 3 Monate und kann verlängert werden"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/aangifte-en-erkenning",
+      "conditions": {
+        "en": [
+          "You are an employee or unemployed, and your incapacity starts no more than 30 days after that status ended.",
+          "You completed a waiting period of 12 months: 180 working days (full-time or unemployed) or 800 hours (part-time), with enough social security contributions.",
+          "You stopped all work for health reasons and the advising doctor recognises you as at least 66% unfit for work."
+        ],
+        "nl": [
+          "Je bent werknemer of werkloze, en je arbeidsongeschiktheid begint niet meer dan 30 dagen na het einde van dat statuut.",
+          "Je doorliep een wachttijd van 12 maanden: 180 gewerkte dagen (voltijds of werkloos) of 800 uren (deeltijds), met voldoende socialezekerheidsbijdragen.",
+          "Je stopte alle werk om gezondheidsredenen en de adviserend arts erkent je als minstens 66% ongeschikt om te werken."
+        ],
+        "fr": [
+          "Vous êtes salarié(e) ou chômeur(se), et votre incapacité commence au plus tard 30 jours après la fin de ce statut.",
+          "Vous avez accompli un stage d'attente de 12 mois : 180 jours de travail (temps plein ou chômage) ou 800 heures (temps partiel), avec suffisamment de cotisations sociales.",
+          "Vous avez cessé tout travail pour raisons de santé et le médecin-conseil vous reconnaît au moins 66 % inapte au travail."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer oder arbeitslos, und Ihre Arbeitsunfähigkeit beginnt höchstens 30 Tage nach Ende dieses Statuts.",
+          "Sie haben eine Wartezeit von 12 Monaten erfüllt: 180 Arbeitstage (Vollzeit oder arbeitslos) oder 800 Stunden (Teilzeit), mit ausreichenden Sozialversicherungsbeiträgen.",
+          "Sie haben jede Arbeit aus gesundheitlichen Gründen eingestellt, und der Vertrauensarzt erkennt Sie als mindestens 66 % arbeitsunfähig an."
+        ]
+      }
+    }
+  },
+  {
+    "id": 103,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Federale Pensioendienst / Service fédéral des Pensions",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/overlevingspensioen",
+    "request_url": "https://www.mypension.be/nl/mylegalpension/myrequest",
+    "content": {
+      "en": {
+        "title": "Survivor's Pension (Overlevingspensioen)",
+        "desc": "A pension for the surviving spouse of an employee or civil servant, also called widow's or widower's pension. It does not matter whether the deceased was already retired. Self-employed people's survivors apply to the RSVZ.",
+        "deadline": "No application needed if your spouse was already retired. Otherwise apply within 12 months of the death; later, the pension only starts the month after your application.",
+        "amount": "Calculated per person: it depends on the deceased's career, a possible guaranteed minimum and your other income",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "eID or itsme for mypension.be — or apply at your commune"
+          }
+        ],
+        "steps": [
+          "Was your spouse already retired? The pension starts automatically on the first day of the month after the death",
+          "Otherwise apply on mypension.be, at the commune where you live, or via the Pension Line (+32 225 17 65)",
+          "You receive a confirmation and find your application under 'Mijn dossier' on mypension.be",
+          "Remarrying suspends the survivor's pension"
+        ]
+      },
+      "nl": {
+        "title": "Overlevingspensioen",
+        "desc": "Een pensioen voor de nabestaande huwelijkspartner van een werknemer of ambtenaar, ook weduwe- of weduwnaarspensioen genoemd. Het maakt niet uit of de overledene al gepensioneerd was. Nabestaanden van zelfstandigen kunnen terecht bij het RSVZ.",
+        "deadline": "Geen aanvraag nodig als je partner al gepensioneerd was. Anders vraag je aan binnen 12 maanden na het overlijden; later start het pensioen pas de maand na je aanvraag.",
+        "amount": "Persoonlijk berekend: hangt af van de loopbaan van de overledene, een eventueel gewaarborgd minimum en je andere inkomsten",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "eID of itsme voor mypension.be — of vraag aan bij je gemeente"
+          }
+        ],
+        "steps": [
+          "Was je partner al gepensioneerd? Dan start het pensioen automatisch op de eerste dag van de maand na het overlijden",
+          "Anders vraag je aan via mypension.be, bij het gemeentebestuur van je woonplaats of via de Pensioenlijn (+32 225 17 65)",
+          "Je krijgt een bevestiging en vindt je aanvraag terug onder 'Mijn dossier' op mypension.be",
+          "Hertrouwen schorst het overlevingspensioen"
+        ]
+      },
+      "fr": {
+        "title": "Pension de survie",
+        "desc": "Une pension pour le conjoint survivant d'un travailleur salarié ou d'un fonctionnaire, aussi appelée pension de veuve ou de veuf. Peu importe que le défunt ait déjà été pensionné. Les survivants d'indépendants s'adressent à l'INASTI.",
+        "deadline": "Pas de demande si votre conjoint était déjà pensionné. Sinon, faites la demande dans les 12 mois du décès ; plus tard, la pension ne commence que le mois suivant votre demande.",
+        "amount": "Calculée individuellement : dépend de la carrière du défunt, d'un éventuel minimum garanti et de vos autres revenus",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "eID ou itsme pour mypension.be — ou demande à votre commune"
+          }
+        ],
+        "steps": [
+          "Votre conjoint était déjà pensionné ? La pension commence automatiquement le premier jour du mois qui suit le décès",
+          "Sinon, faites la demande sur mypension.be, à l'administration communale de votre domicile ou via la Ligne Pension (+32 225 17 65)",
+          "Vous recevez une confirmation et retrouvez votre demande sous « Mon dossier » sur mypension.be",
+          "Un remariage suspend la pension de survie"
+        ]
+      },
+      "de": {
+        "title": "Hinterbliebenenpension",
+        "desc": "Eine Pension für den überlebenden Ehepartner eines Arbeitnehmers oder Beamten, auch Witwen- oder Witwerpension genannt. Es spielt keine Rolle, ob die verstorbene Person schon in Pension war. Hinterbliebene von Selbstständigen wenden sich an das LISVS.",
+        "deadline": "Kein Antrag nötig, wenn Ihr Ehepartner bereits in Pension war. Sonst innerhalb von 12 Monaten nach dem Tod beantragen; später beginnt die Pension erst im Monat nach dem Antrag.",
+        "amount": "Individuell berechnet: hängt von der Laufbahn der verstorbenen Person, einem eventuellen garantierten Mindestbetrag und Ihren anderen Einkünften ab",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "eID oder itsme für mypension.be — oder Antrag bei Ihrer Gemeinde"
+          }
+        ],
+        "steps": [
+          "War Ihr Ehepartner bereits in Pension? Dann beginnt die Pension automatisch am ersten Tag des Monats nach dem Tod",
+          "Sonst beantragen Sie sie auf mypension.be, bei der Gemeindeverwaltung Ihres Wohnorts oder über die Pensionslinie (+32 225 17 65)",
+          "Sie erhalten eine Bestätigung und finden Ihren Antrag unter „Mein Dossier“ auf mypension.be",
+          "Eine Wiederheirat setzt die Hinterbliebenenpension aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/overlevingspensioen",
+      "conditions": {
+        "en": [
+          "You were married to an employee or civil servant who died (former spouses and orphans only for civil servants).",
+          "You had the minimum age at the time of death — 51 for a death in 2026, 50 in 2025 — or already receive a retirement pension; otherwise you may get a transitional allowance.",
+          "You were married for at least 1 year, or a situation treated as such (e.g. legal cohabitation before the marriage, a child, or death by accident).",
+          "You have not remarried and were not convicted of crimes against the deceased."
+        ],
+        "nl": [
+          "Je was gehuwd met een werknemer of ambtenaar die overleed (ex-partners en wezen enkel bij ambtenaren).",
+          "Je had de minimumleeftijd op het moment van overlijden — 51 jaar bij een overlijden in 2026, 50 in 2025 — of je krijgt al een rustpensioen; anders kan je een overgangsuitkering krijgen.",
+          "Je was minstens 1 jaar gehuwd, of in een gelijkgestelde situatie (bv. wettelijk samenwonen vóór het huwelijk, een kind, of overlijden door een ongeval).",
+          "Je bent niet hertrouwd en niet veroordeeld voor misdrijven tegen de overledene."
+        ],
+        "fr": [
+          "Vous étiez marié(e) à un travailleur salarié ou fonctionnaire décédé (ex-conjoints et orphelins uniquement pour les fonctionnaires).",
+          "Vous aviez l'âge minimum au moment du décès — 51 ans pour un décès en 2026, 50 ans en 2025 — ou percevez déjà une pension de retraite ; sinon, vous pouvez obtenir une allocation de transition.",
+          "Vous avez été marié(e) au moins 1 an, ou êtes dans une situation assimilée (par ex. cohabitation légale avant le mariage, un enfant, ou décès par accident).",
+          "Vous n'êtes pas remarié(e) et n'avez pas été condamné(e) pour des infractions envers le défunt."
+        ],
+        "de": [
+          "Sie waren mit einem verstorbenen Arbeitnehmer oder Beamten verheiratet (frühere Ehepartner und Waisen nur bei Beamten).",
+          "Sie hatten zum Zeitpunkt des Todes das Mindestalter — 51 Jahre bei einem Tod 2026, 50 Jahre 2025 — oder beziehen bereits eine Ruhestandspension; sonst kann eine Übergangsentschädigung infrage kommen.",
+          "Sie waren mindestens 1 Jahr verheiratet oder in einer gleichgestellten Situation (z. B. gesetzliches Zusammenwohnen vor der Ehe, ein Kind oder Tod durch Unfall).",
+          "Sie haben nicht wieder geheiratet und wurden nicht wegen Straftaten gegen die verstorbene Person verurteilt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 104,
+    "category": "employment",
+    "situations": [
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RJV-ONVA · werkgever / employeur",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rjv.fgov.be/nl/heb-ik-recht-op-vakantiegeld",
+    "amount_source_url": "https://www.rjv.fgov.be/nl/vakantiegeld/berekening-vakantiegeld",
+    "request_url": "https://www.rjv.fgov.be/nl/mijn-vakantierekening",
+    "content": {
+      "en": {
+        "title": "Annual Holiday Pay (Jaarlijks vakantiegeld)",
+        "desc": "Every employee, civil servant, manual worker or salaried artist has a right to paid holidays and holiday pay, calculated on the work done in the previous year. White-collar employees and civil servants get it from their employer; manual workers and artists get it through the RJV and their holiday fund in May and June.",
+        "deadline": "Manual workers: paid in May and June once your bank account is registered in 'Mijn Vakantierekening'. Employees and civil servants: paid by the employer.",
+        "amount": "Manual workers: 15.38% gross of the previous year's wages counted at 108% (single and double holiday pay), before deductions",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + reader (for Mijn Vakantierekening)"
+          }
+        ],
+        "steps": [
+          "White-collar employee or civil servant? Your employer pays the holiday pay — nothing to do",
+          "Manual worker or salaried artist? Register your bank account once in the online tool 'Mijn Vakantierekening' of the RJV",
+          "The RJV or your sector's holiday fund pays it in May and June",
+          "Did not work last year, or just finished school before 25? Check whether you are entitled to supplementary or youth holidays"
+        ]
+      },
+      "nl": {
+        "title": "Jaarlijks vakantiegeld",
+        "desc": "Elke bediende, ambtenaar, arbeider of niet-zelfstandige kunstenaar heeft recht op vakantiedagen en vakantiegeld, berekend op de arbeidsprestaties van het vorige jaar. Bedienden en ambtenaren krijgen het via hun werkgever; arbeiders en kunstenaars via de RJV en hun vakantiefonds in mei en juni.",
+        "deadline": "Arbeiders: uitbetaald in mei en juni zodra je rekeningnummer in 'Mijn Vakantierekening' staat. Bedienden en ambtenaren: betaald door de werkgever.",
+        "amount": "Arbeiders: bruto 15,38% van de lonen van het vorige jaar, gerekend aan 108% (enkel en dubbel vakantiegeld), vóór inhoudingen",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer (voor Mijn Vakantierekening)"
+          }
+        ],
+        "steps": [
+          "Bediende of ambtenaar? Je werkgever betaalt het vakantiegeld — je hoeft niets te doen",
+          "Arbeider of niet-zelfstandige kunstenaar? Geef één keer je rekeningnummer door via de online tool 'Mijn Vakantierekening' van de RJV",
+          "De RJV of het vakantiefonds van je sector betaalt in mei en juni",
+          "Vorig jaar niet gewerkt, of net afgestudeerd vóór 25? Kijk of je recht hebt op aanvullende vakantie of jeugdvakantie"
+        ]
+      },
+      "fr": {
+        "title": "Pécule de vacances annuel",
+        "desc": "Tout employé, fonctionnaire, ouvrier ou artiste non indépendant a droit à des jours de vacances et à un pécule, calculés sur les prestations de l'année précédente. Employés et fonctionnaires le reçoivent de leur employeur ; ouvriers et artistes via l'ONVA et leur caisse de vacances en mai et juin.",
+        "deadline": "Ouvriers : payé en mai et juin dès que votre numéro de compte est enregistré dans « Mon compte vacances ». Employés et fonctionnaires : payé par l'employeur.",
+        "amount": "Ouvriers : 15,38 % bruts des salaires de l'année précédente, comptés à 108 % (simple et double pécule), avant retenues",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "Carte eID belge + lecteur (pour Mon compte vacances)"
+          }
+        ],
+        "steps": [
+          "Employé(e) ou fonctionnaire ? Votre employeur paie le pécule — rien à faire",
+          "Ouvrier ou artiste non indépendant ? Enregistrez une fois votre numéro de compte via l'outil en ligne « Mon compte vacances » de l'ONVA",
+          "L'ONVA ou la caisse de vacances de votre secteur paie en mai et juin",
+          "Pas travaillé l'an dernier, ou études terminées avant 25 ans ? Vérifiez si vous avez droit aux vacances supplémentaires ou jeunes"
+        ]
+      },
+      "de": {
+        "title": "Jährliches Urlaubsgeld",
+        "desc": "Jeder Angestellte, Beamte, Arbeiter oder nicht selbstständige Künstler hat Anspruch auf Urlaubstage und Urlaubsgeld, berechnet auf die Arbeitsleistungen des Vorjahres. Angestellte und Beamte erhalten es vom Arbeitgeber; Arbeiter und Künstler über das LAJU und ihre Urlaubskasse im Mai und Juni.",
+        "deadline": "Arbeiter: Zahlung im Mai und Juni, sobald Ihre Kontonummer in „Mijn Vakantierekening“ eingetragen ist. Angestellte und Beamte: Zahlung durch den Arbeitgeber.",
+        "amount": "Arbeiter: brutto 15,38 % der Löhne des Vorjahres, gerechnet zu 108 % (einfaches und doppeltes Urlaubsgeld), vor Abzügen",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-Karte + Lesegerät (für Mijn Vakantierekening)"
+          }
+        ],
+        "steps": [
+          "Angestellter oder Beamter? Ihr Arbeitgeber zahlt das Urlaubsgeld — Sie müssen nichts tun",
+          "Arbeiter oder nicht selbstständiger Künstler? Geben Sie einmal Ihre Kontonummer im Online-Tool „Mijn Vakantierekening“ des LAJU an",
+          "Das LAJU oder die Urlaubskasse Ihres Sektors zahlt im Mai und Juni",
+          "Im Vorjahr nicht gearbeitet oder vor 25 die Ausbildung beendet? Prüfen Sie, ob Sie Anspruch auf zusätzlichen oder Jugendurlaub haben"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.rjv.fgov.be/nl/heb-ik-recht-op-vakantiegeld",
+      "conditions": {
+        "en": [
+          "You are a white-collar employee, civil servant, manual worker or salaried (non-self-employed) artist.",
+          "Holiday days and pay are calculated on the work done in the previous calendar year.",
+          "Under 25 and finished studies last year with at least a month of salaried work? You may get up to four weeks of youth holidays."
+        ],
+        "nl": [
+          "Je bent bediende, ambtenaar, arbeider of niet-zelfstandige kunstenaar.",
+          "Vakantiedagen en vakantiegeld worden berekend op je arbeidsprestaties van het vorige kalenderjaar.",
+          "Jonger dan 25 en vorig jaar je studies beëindigd met minstens een maand loontrekkend werk? Dan kan je tot vier weken jeugdvakantie krijgen."
+        ],
+        "fr": [
+          "Vous êtes employé(e), fonctionnaire, ouvrier(ère) ou artiste non indépendant(e).",
+          "Les jours et le pécule de vacances sont calculés sur vos prestations de l'année civile précédente.",
+          "Moins de 25 ans, études terminées l'an dernier avec au moins un mois de travail salarié ? Vous pouvez avoir jusqu'à quatre semaines de vacances jeunes."
+        ],
+        "de": [
+          "Sie sind Angestellter, Beamter, Arbeiter oder nicht selbstständiger Künstler.",
+          "Urlaubstage und Urlaubsgeld werden nach Ihren Arbeitsleistungen des vorigen Kalenderjahres berechnet.",
+          "Unter 25 und im Vorjahr die Ausbildung beendet, mit mindestens einem Monat Lohnarbeit? Dann können Sie bis zu vier Wochen Jugendurlaub erhalten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 105,
+    "category": "employment",
+    "situations": [
+      "job-loss",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM · uitbetalingsinstelling / organisme de paiement",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/deeltijdse-arbeid/hebt-u-recht-op-de-inkomensgarantie-uitkering",
+    "request_url": "https://www.rva.be/formulieren-attesten/c131a-werknemer",
+    "content": {
+      "en": {
+        "title": "Income Guarantee Allowance for Part-Time Work (Inkomensgarantie-uitkering, IGU)",
+        "desc": "If you are unemployed and start working part-time, the RVA can pay an allowance on top of your wage. Your total income is then at least equal to your unemployment benefit, and higher the more hours you work.",
+        "deadline": "Apply through your payment institution with form C131A: the RVA office must receive it within 2 months (of starting part-time work, or of the date you want the allowance from). Fill in a C3-deeltijds form every month.",
+        "amount": "Reference benefit + hourly supplement – net wage, capped at a full-time net wage; amounts indexed from 1 March 2026",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Form C131A-werknemer (with your employer's part)"
+          },
+          {
+            "type": "doc",
+            "label": "Monthly control form C3-deeltijds"
+          }
+        ],
+        "steps": [
+          "Ask your payment institution (union or HVW/CAPAC) for form C131A-werknemer and have it filled in",
+          "Your payment institution sends it to the RVA office within 2 months",
+          "Fill in the C3-deeltijds control form every month",
+          "Stay registered as a jobseeker with VDAB, Actiris, Forem or ADG and ask your employer for a suitable or full-time job when one becomes free"
+        ]
+      },
+      "nl": {
+        "title": "Inkomensgarantie-uitkering (IGU)",
+        "desc": "Ben je werkloos en ga je deeltijds werken, dan kan de RVA bovenop je loon een uitkering betalen. Je totale inkomen is dan minstens gelijk aan je werkloosheidsuitkering, en hoger naarmate je meer uren werkt.",
+        "deadline": "Vraag aan via je uitbetalingsinstelling met formulier C131A: het werkloosheidsbureau moet het binnen 2 maanden ontvangen (na de start van je deeltijds werk, of na de datum vanaf wanneer je de IGU wil). Vul elke maand een formulier C3-deeltijds in.",
+        "amount": "Referte-uitkering + uurtoeslag – nettoloon, begrensd tot een voltijds nettoloon; bedragen geïndexeerd vanaf 1 maart 2026",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier C131A-werknemer (met het deel van je werkgever)"
+          },
+          {
+            "type": "doc",
+            "label": "Maandelijks controleformulier C3-deeltijds"
+          }
+        ],
+        "steps": [
+          "Vraag aan je uitbetalingsinstelling (vakbond of HVW) het formulier C131A-werknemer en laat het invullen",
+          "Je uitbetalingsinstelling stuurt het binnen 2 maanden naar het werkloosheidsbureau van de RVA",
+          "Vul elke maand het controleformulier C3-deeltijds in",
+          "Blijf ingeschreven als werkzoekende bij VDAB, Actiris, Forem of ADG en vraag je werkgever om een passende of voltijdse betrekking als die vrijkomt"
+        ]
+      },
+      "fr": {
+        "title": "Allocation de garantie de revenus (AGR)",
+        "desc": "Si vous êtes chômeur(se) et reprenez un travail à temps partiel, l'ONEM peut verser une allocation en plus de votre salaire. Votre revenu total est alors au moins égal à votre allocation de chômage, et plus élevé à mesure que vous travaillez plus d'heures.",
+        "deadline": "Demandez-la via votre organisme de paiement avec le formulaire C131A : le bureau de l'ONEM doit le recevoir dans les 2 mois (du début du temps partiel, ou de la date à partir de laquelle vous souhaitez l'AGR). Remplissez chaque mois un formulaire C3-temps partiel.",
+        "amount": "Allocation de référence + supplément horaire – salaire net, plafonnée au salaire net d'un temps plein ; montants indexés au 1er mars 2026",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire C131A-travailleur (avec la partie de votre employeur)"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de contrôle mensuel C3-temps partiel"
+          }
+        ],
+        "steps": [
+          "Demandez à votre organisme de paiement (syndicat ou CAPAC) le formulaire C131A-travailleur et faites-le remplir",
+          "Votre organisme de paiement l'envoie au bureau de l'ONEM dans les 2 mois",
+          "Remplissez chaque mois le formulaire de contrôle C3-temps partiel",
+          "Restez inscrit(e) comme demandeur d'emploi chez Forem, Actiris, VDAB ou ADG et demandez à votre employeur un emploi convenable ou à temps plein s'il se libère"
+        ]
+      },
+      "de": {
+        "title": "Einkommensgarantiebeihilfe (EGB)",
+        "desc": "Sind Sie arbeitslos und nehmen eine Teilzeitarbeit auf, kann das LfA zusätzlich zu Ihrem Lohn eine Beihilfe zahlen. Ihr Gesamteinkommen ist dann mindestens so hoch wie Ihr Arbeitslosengeld, und höher, je mehr Stunden Sie arbeiten.",
+        "deadline": "Beantragen über Ihre Zahlstelle mit Formular C131A: das Arbeitslosenamt muss es innerhalb von 2 Monaten erhalten (ab Beginn der Teilzeitarbeit oder ab dem gewünschten Datum). Füllen Sie jeden Monat ein Formular C3-Teilzeit aus.",
+        "amount": "Referenzleistung + Stundenzuschlag – Nettolohn, begrenzt auf einen Vollzeit-Nettolohn; Beträge indexiert ab 1. März 2026",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular C131A-Arbeitnehmer (mit dem Teil Ihres Arbeitgebers)"
+          },
+          {
+            "type": "doc",
+            "label": "Monatliches Kontrollformular C3-Teilzeit"
+          }
+        ],
+        "steps": [
+          "Fragen Sie Ihre Zahlstelle (Gewerkschaft oder HZA) nach dem Formular C131A-Arbeitnehmer und lassen Sie es ausfüllen",
+          "Ihre Zahlstelle schickt es innerhalb von 2 Monaten an das Arbeitslosenamt des LfA",
+          "Füllen Sie jeden Monat das Kontrollformular C3-Teilzeit aus",
+          "Bleiben Sie beim ADG, VDAB, Forem oder Actiris als arbeitsuchend eingetragen und fragen Sie Ihren Arbeitgeber nach einer passenden oder Vollzeitstelle, sobald eine frei wird"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/deeltijdse-arbeid/hebt-u-recht-op-de-inkomensgarantie-uitkering",
+      "conditions": {
+        "en": [
+          "You were unemployed with a right to benefits and now work part-time, at most 4/5 of a full-time schedule.",
+          "Your average gross monthly wage, and your wage for the month, are below €2,233.61.",
+          "You stay registered as a jobseeker, available for (full-time or suitable) work, and asked your employer for such a job if one becomes free.",
+          "Not if you moved voluntarily from full-time to part-time (except under an approved restructuring plan), nor during a notice period."
+        ],
+        "nl": [
+          "Je was werkloos met recht op uitkeringen en werkt nu deeltijds, hooguit 4/5 van een voltijds uurrooster.",
+          "Je gemiddeld brutomaandloon, en je loon voor de maand, liggen onder €2.233,61.",
+          "Je blijft ingeschreven als werkzoekende, beschikbaar voor (voltijds of passend) werk, en vroeg je werkgever om zo'n betrekking als die vrijkomt.",
+          "Niet als je vrijwillig van voltijds naar deeltijds overstapte (behalve bij een goedgekeurd herstructureringsplan), noch tijdens een opzeggingsperiode."
+        ],
+        "fr": [
+          "Vous étiez chômeur(se) avec droit aux allocations et travaillez maintenant à temps partiel, au maximum 4/5 d'un horaire à temps plein.",
+          "Votre salaire mensuel brut moyen, et votre salaire du mois, sont inférieurs à 2.233,61 €.",
+          "Vous restez inscrit(e) comme demandeur d'emploi, disponible pour un emploi (à temps plein ou convenable), et avez demandé un tel emploi à votre employeur s'il se libère.",
+          "Pas si vous êtes passé(e) volontairement d'un temps plein à un temps partiel (sauf plan de restructuration approuvé), ni pendant un préavis."
+        ],
+        "de": [
+          "Sie waren arbeitslos mit Anspruch auf Leistungen und arbeiten jetzt Teilzeit, höchstens 4/5 einer Vollzeitstelle.",
+          "Ihr durchschnittlicher Bruttomonatslohn und Ihr Lohn des Monats liegen unter 2.233,61 €.",
+          "Sie bleiben als arbeitsuchend eingetragen, für (Vollzeit- oder passende) Arbeit verfügbar, und haben Ihren Arbeitgeber um eine solche Stelle gebeten, sobald sie frei wird.",
+          "Nicht, wenn Sie freiwillig von Vollzeit zu Teilzeit gewechselt sind (außer bei einem genehmigten Umstrukturierungsplan), und nicht während einer Kündigungsfrist."
+        ]
+      }
+    }
+  },
+  {
+    "id": 106,
+    "category": "other",
+    "situations": [
+      "low-income",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Economie / SPF Économie · Proximus, Telenet, VOO",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://economie.fgov.be/nl/themas/online/telecommunicatie/sociaal-internetaanbod-gunstig",
+    "content": {
+      "en": {
+        "title": "Social Internet Offer (Sociaal internetaanbod)",
+        "desc": "A capped price for fixed internet for households where someone receives leefloon or another social allowance. Proximus, Telenet and VOO (Orange) must offer it; 50% off the installation costs is included.",
+        "deadline": "Apply at your operator at any time; once approved you sign the contract within 7 calendar days. Never applied retroactively; checked every 6 months.",
+        "amount": "At most €20 a month for fixed internet (30/4 Mbps, 150 GB), or €42 a month combined with TV or another service; indexed yearly",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Belgian National Registry number or identity card"
+          }
+        ],
+        "steps": [
+          "Check with the FOD Economie tool whether you qualify (informative only)",
+          "Ask Proximus, Telenet (not in Wallonia) or VOO (Wallonia and some Brussels communes) for the social internet offer",
+          "Give your National Registry number or identity card; the FOD Economie checks your right",
+          "If approved, sign the contract within 7 calendar days"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal internetaanbod",
+        "desc": "Een begrensde prijs voor vast internet voor gezinnen waarin iemand een leefloon of een andere sociale tegemoetkoming krijgt. Proximus, Telenet en VOO (Orange) moeten het aanbieden; 50% korting op de installatiekosten is inbegrepen.",
+        "deadline": "Op elk moment aan te vragen bij je operator; na goedkeuring sluit je het contract binnen 7 kalenderdagen. Nooit met terugwerkende kracht; elke 6 maanden gecontroleerd.",
+        "amount": "Maximaal €20 per maand voor vast internet (30/4 Mbps, 150 GB), of €42 per maand samen met tv of een andere dienst; jaarlijks geïndexeerd",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Belgisch rijksregisternummer of identiteitskaart"
+          }
+        ],
+        "steps": [
+          "Controleer met de tool van de FOD Economie of je in aanmerking komt (louter informatief)",
+          "Vraag het sociaal internetaanbod aan bij Proximus, Telenet (niet in Wallonië) of VOO (Wallonië en enkele Brusselse gemeenten)",
+          "Geef je rijksregisternummer of identiteitskaart; de FOD Economie controleert je recht",
+          "Na goedkeuring sluit je het contract binnen 7 kalenderdagen"
+        ]
+      },
+      "fr": {
+        "title": "Offre sociale internet",
+        "desc": "Un prix plafonné pour l'internet fixe pour les ménages dont un membre perçoit le revenu d'intégration ou une autre allocation sociale. Proximus, Telenet et VOO (Orange) doivent la proposer ; 50 % de réduction sur les frais d'installation sont compris.",
+        "deadline": "À demander à tout moment chez votre opérateur ; après accord, vous signez le contrat dans les 7 jours calendrier. Jamais rétroactive ; contrôlée tous les 6 mois.",
+        "amount": "Maximum 20 € par mois pour l'internet fixe (30/4 Mbps, 150 Go), ou 42 € par mois avec la télévision ou un autre service ; indexé chaque année",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Numéro de registre national belge ou carte d'identité"
+          }
+        ],
+        "steps": [
+          "Vérifiez avec l'outil du SPF Économie si vous y avez droit (à titre informatif)",
+          "Demandez l'offre sociale internet chez Proximus, Telenet (pas en Wallonie) ou VOO (Wallonie et quelques communes bruxelloises)",
+          "Donnez votre numéro de registre national ou votre carte d'identité ; le SPF Économie vérifie votre droit",
+          "Après accord, signez le contrat dans les 7 jours calendrier"
+        ]
+      },
+      "de": {
+        "title": "Soziales Internetangebot",
+        "desc": "Ein gedeckelter Preis für Festnetz-Internet für Haushalte, in denen jemand das Eingliederungseinkommen oder eine andere Sozialbeihilfe erhält. Proximus, Telenet und VOO (Orange) müssen es anbieten; 50 % Rabatt auf die Installationskosten sind inbegriffen.",
+        "deadline": "Jederzeit bei Ihrem Anbieter zu beantragen; nach Genehmigung schließen Sie den Vertrag innerhalb von 7 Kalendertagen. Nie rückwirkend; alle 6 Monate geprüft.",
+        "amount": "Höchstens 20 € pro Monat für Festnetz-Internet (30/4 Mbit/s, 150 GB) oder 42 € pro Monat zusammen mit TV oder einem anderen Dienst; jährlich indexiert",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Belgische Nationalregisternummer oder Personalausweis"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie mit dem Tool des FÖD Wirtschaft, ob Sie infrage kommen (nur informativ)",
+          "Beantragen Sie das soziale Internetangebot bei Proximus, Telenet (nicht in der Wallonie) oder VOO (Wallonie und einige Brüsseler Gemeinden)",
+          "Geben Sie Ihre Nationalregisternummer oder Ihren Ausweis an; der FÖD Wirtschaft prüft Ihren Anspruch",
+          "Nach Genehmigung schließen Sie den Vertrag innerhalb von 7 Kalendertagen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://economie.fgov.be/nl/themas/online/telecommunicatie/sociaal-internetaanbod/veelgestelde-vragen-over-het",
+      "conditions": {
+        "en": [
+          "You are domiciled in Belgium, and no one in your household already uses the old social telecom tariff or the social internet offer.",
+          "You or a household member receives e.g. leefloon or equivalent OCMW aid, a federal disability allowance (IVT, integration allowance, help from third parties), the income guarantee for older people, a care budget or allowance for older people, or a child care supplement with at least 4 points in pillar 1.",
+          "The increased reimbursement or a sickness benefit from the health fund alone does not give the right."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in België, en niemand in je huishouden gebruikt al het oude sociaal tarief telecom of het sociaal internetaanbod.",
+          "Jij of een gezinslid krijgt bv. een leefloon of gelijkwaardige OCMW-steun, een federale tegemoetkoming voor personen met een handicap (IVT, integratietegemoetkoming, hulp van derden), de inkomensgarantie voor ouderen, een zorgbudget of tegemoetkoming voor ouderen, of een zorgtoeslag met minstens 4 punten in pijler 1.",
+          "De verhoogde tegemoetkoming of een arbeidsongeschiktheidsuitkering van het ziekenfonds alleen geeft geen recht."
+        ],
+        "fr": [
+          "Vous êtes domicilié(e) en Belgique, et personne dans votre ménage n'utilise déjà l'ancien tarif social télécom ou l'offre sociale internet.",
+          "Vous ou un membre du ménage percevez par ex. le revenu d'intégration ou une aide équivalente du CPAS, une allocation fédérale aux personnes handicapées (ARR, allocation d'intégration, aide d'une tierce personne), la GRAPA, un budget de soins ou une allocation pour personnes âgées, ou un supplément pour enfant avec au moins 4 points au pilier 1.",
+          "L'intervention majorée ou une indemnité d'incapacité de la mutualité seule ne donne pas droit à l'offre."
+        ],
+        "de": [
+          "Sie sind in Belgien gemeldet, und niemand in Ihrem Haushalt nutzt bereits den alten Sozialtarif Telekom oder das soziale Internetangebot.",
+          "Sie oder ein Haushaltsmitglied erhalten z. B. das Eingliederungseinkommen oder gleichwertige ÖSHZ-Hilfe, eine föderale Beihilfe für Personen mit Behinderung (EEB, Eingliederungsbeihilfe, Hilfe Dritter), die EGB, ein Pflegebudget oder eine Beihilfe für Senioren, oder einen Zuschlag für ein Kind mit mindestens 4 Punkten in Säule 1.",
+          "Die erhöhte Kostenbeteiligung oder eine Arbeitsunfähigkeitsentschädigung der Krankenkasse allein gibt kein Anrecht."
+        ]
+      }
+    }
+  },
+  {
+    "id": 107,
+    "category": "other",
+    "situations": [
+      "low-income",
+      "renting"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Economie / SPF Économie",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://economie.fgov.be/nl/themas/energie/sociale-energie/de-sociaaltariefpremie-voor",
+    "request_url": "https://sociaaltariefpremiecollectieveinstallatie.economie.fgov.be/",
+    "content": {
+      "en": {
+        "title": "Social Tariff Premium for Collective Installations (Sociaaltariefpremie)",
+        "desc": "A quarterly premium for people who would qualify for the social energy tariff but get their gas, electricity or heat through a collective installation — for example a shared gas boiler in a block of flats — so they cannot get the tariff from a supplier. Not for heating oil, propane or petroleum.",
+        "deadline": "Apply within the quarter (before its last day); after approval it renews automatically every quarter until you no longer qualify or move.",
+        "amount": "A quarterly premium calculated by the CREG on the basis of the social tariff",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The installation code (XX-111-XX) from your building manager or syndic"
+          }
+        ],
+        "steps": [
+          "Ask your building manager or syndic for the installation code of the collective installation",
+          "Apply on the FOD Economie online platform, or send the form by email or registered post (Vooruitgangstraat 50, 1210 Brussels)",
+          "The FOD Economie checks every quarter whether you still meet the conditions",
+          "Only one application per household"
+        ]
+      },
+      "nl": {
+        "title": "Sociaaltariefpremie voor collectieve installaties",
+        "desc": "Een driemaandelijkse premie voor wie recht heeft op het sociaal tarief energie maar gas, elektriciteit of warmte krijgt via een collectieve installatie — bijvoorbeeld een gemeenschappelijke gasketel in een appartementsgebouw — en het tarief dus niet via een leverancier kan krijgen. Niet voor stookolie, propaan of petroleum.",
+        "deadline": "Aan te vragen binnen het kwartaal (vóór de laatste dag); na goedkeuring wordt ze elk kwartaal automatisch verlengd tot je niet meer aan de voorwaarden voldoet of verhuist.",
+        "amount": "Een driemaandelijkse premie, berekend door de CREG op basis van het sociaal tarief",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De installatiecode (XX-111-XX) van je beheerder of syndicus"
+          }
+        ],
+        "steps": [
+          "Vraag je beheerder of syndicus de installatiecode van de collectieve installatie",
+          "Vraag aan via het onlineplatform van de FOD Economie, of stuur het formulier per e-mail of aangetekend (Vooruitgangstraat 50, 1210 Brussel)",
+          "De FOD Economie controleert elk kwartaal of je nog aan de voorwaarden voldoet",
+          "Eén aanvraag per gezin"
+        ]
+      },
+      "fr": {
+        "title": "Prime tarif social pour installations collectives",
+        "desc": "Une prime trimestrielle pour les personnes qui auraient droit au tarif social de l'énergie mais reçoivent le gaz, l'électricité ou la chaleur via une installation collective — par exemple une chaudière commune dans un immeuble — et ne peuvent donc pas l'obtenir d'un fournisseur. Pas pour le mazout, le propane ou le pétrole.",
+        "deadline": "À demander dans le trimestre (avant son dernier jour) ; une fois accordée, elle est prolongée automatiquement chaque trimestre jusqu'à ce que vous ne remplissiez plus les conditions ou déménagiez.",
+        "amount": "Une prime trimestrielle calculée par la CREG sur la base du tarif social",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le code d'installation (XX-111-XX) de votre gestionnaire ou syndic"
+          }
+        ],
+        "steps": [
+          "Demandez à votre gestionnaire ou syndic le code de l'installation collective",
+          "Faites la demande sur la plateforme en ligne du SPF Économie, ou envoyez le formulaire par e-mail ou par recommandé (rue du Progrès 50, 1210 Bruxelles)",
+          "Le SPF Économie vérifie chaque trimestre si vous remplissez encore les conditions",
+          "Une seule demande par ménage"
+        ]
+      },
+      "de": {
+        "title": "Sozialtarifprämie für Gemeinschaftsanlagen",
+        "desc": "Eine vierteljährliche Prämie für Menschen, die Anspruch auf den Sozialtarif für Energie hätten, aber Gas, Strom oder Wärme über eine Gemeinschaftsanlage beziehen — etwa einen gemeinsamen Gaskessel im Wohnhaus — und den Tarif daher nicht über einen Lieferanten erhalten. Nicht für Heizöl, Propan oder Petroleum.",
+        "deadline": "Innerhalb des Quartals zu beantragen (vor dessen letztem Tag); nach Genehmigung wird sie jedes Quartal automatisch verlängert, bis Sie die Bedingungen nicht mehr erfüllen oder umziehen.",
+        "amount": "Eine vierteljährliche Prämie, berechnet von der CREG auf Basis des Sozialtarifs",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der Anlagencode (XX-111-XX) Ihres Verwalters oder Syndikus"
+          }
+        ],
+        "steps": [
+          "Fragen Sie Ihren Verwalter oder Syndikus nach dem Code der Gemeinschaftsanlage",
+          "Beantragen Sie sie über die Online-Plattform des FÖD Wirtschaft oder schicken Sie das Formular per E-Mail oder Einschreiben (Rue du Progrès 50, 1210 Brüssel)",
+          "Der FÖD Wirtschaft prüft jedes Quartal, ob Sie die Bedingungen noch erfüllen",
+          "Nur ein Antrag pro Haushalt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://economie.fgov.be/nl/themas/energie/sociale-energie/premie-voor-collectieve/de-sociaaltariefpremie-voor-de",
+      "conditions": {
+        "en": [
+          "You belong to a category entitled to the social energy tariff (e.g. leefloon, IGO, a federal disability allowance, a care budget for older people).",
+          "Your energy comes from a collective installation and you pay for your actual consumption as billed by the manager — not a fixed all-in fee as in a care home.",
+          "Not for an EAN code that already gets the social tariff; one premium per household."
+        ],
+        "nl": [
+          "Je behoort tot een categorie met recht op het sociaal tarief energie (bv. leefloon, IGO, een federale tegemoetkoming voor personen met een handicap, een zorgbudget voor ouderen).",
+          "Je energie komt van een collectieve installatie en je betaalt je werkelijke verbruik zoals gefactureerd door de beheerder — geen vaste all-in vergoeding zoals in een woonzorgcentrum.",
+          "Niet voor een EAN-code die al het sociaal tarief heeft; één premie per gezin."
+        ],
+        "fr": [
+          "Vous appartenez à une catégorie ayant droit au tarif social de l'énergie (par ex. revenu d'intégration, GRAPA, allocation fédérale aux personnes handicapées, budget de soins pour personnes âgées).",
+          "Votre énergie vient d'une installation collective et vous payez votre consommation réelle facturée par le gestionnaire — pas un forfait tout compris comme en maison de repos.",
+          "Pas pour un code EAN qui bénéficie déjà du tarif social ; une prime par ménage."
+        ],
+        "de": [
+          "Sie gehören zu einer Kategorie mit Anspruch auf den Sozialtarif für Energie (z. B. Eingliederungseinkommen, EGB, föderale Behindertenbeihilfe, Pflegebudget für Senioren).",
+          "Ihre Energie kommt aus einer Gemeinschaftsanlage und Sie zahlen Ihren tatsächlichen Verbrauch laut Abrechnung des Verwalters — keine Pauschale wie im Pflegeheim.",
+          "Nicht für einen EAN-Code, der bereits den Sozialtarif hat; eine Prämie pro Haushalt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 108,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "NMBS / SNCB",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.belgiantrain.be/nl/products/senior",
+    "content": {
+      "en": {
+        "title": "40% Off Train Tickets from 65 (NMBS/SNCB)",
+        "desc": "From 65 you always travel 40% cheaper than the standard fare on Belgian trains, at any time of day, on any route and also in first class. The discount is applied automatically.",
+        "deadline": "No application: the discount applies to every ticket you buy from age 65.",
+        "amount": "40% off the standard fare; with Train+ (€4 a month or €32 a year) at most €5.50 per journey in 2nd class",
+        "requirements": [],
+        "steps": [
+          "Buy your ticket on the NMBS website or app, at a ticket machine or at the counter — the senior discount is included automatically",
+          "Travelling often? Consider Train+: an extra 40% off in off-peak hours and a €5.50 maximum per 2nd-class journey",
+          "Children under 12 travel free with you (up to 4 per paying passenger)"
+        ]
+      },
+      "nl": {
+        "title": "40% korting op treintickets vanaf 65 jaar (NMBS)",
+        "desc": "Vanaf 65 jaar reis je met de trein altijd 40% goedkoper dan het standaardtarief, op elk moment van de dag, voor elk traject en ook in 1ste klas. De korting is automatisch inbegrepen.",
+        "deadline": "Geen aanvraag: de korting geldt voor elk ticket dat je vanaf 65 jaar koopt.",
+        "amount": "40% korting op het standaardtarief; met Train+ (€4 per maand of €32 per jaar) maximaal €5,50 per rit in 2de klas",
+        "requirements": [],
+        "steps": [
+          "Koop je ticket via de website of app van de NMBS, aan een automaat of aan het loket — de seniorenkorting zit er automatisch in",
+          "Reis je vaak? Overweeg Train+: 40% extra korting in de daluren en maximaal €5,50 per rit in 2de klas",
+          "Kinderen jonger dan 12 reizen gratis met je mee (max. 4 per betalende reiziger)"
+        ]
+      },
+      "fr": {
+        "title": "40 % de réduction sur les billets de train dès 65 ans (SNCB)",
+        "desc": "Dès 65 ans, vous voyagez toujours 40 % moins cher que le tarif standard en train, à toute heure, sur tout trajet et aussi en 1re classe. La réduction est appliquée automatiquement.",
+        "deadline": "Aucune demande : la réduction s'applique à chaque billet acheté à partir de 65 ans.",
+        "amount": "40 % de réduction sur le tarif standard ; avec Train+ (4 € par mois ou 32 € par an) maximum 5,50 € par trajet en 2e classe",
+        "requirements": [],
+        "steps": [
+          "Achetez votre billet sur le site ou l'appli de la SNCB, à un automate ou au guichet — la réduction senior est comprise automatiquement",
+          "Vous voyagez souvent ? Pensez à Train+ : 40 % de réduction en plus aux heures creuses et maximum 5,50 € par trajet en 2e classe",
+          "Les enfants de moins de 12 ans voyagent gratuitement avec vous (max. 4 par voyageur payant)"
+        ]
+      },
+      "de": {
+        "title": "40 % Rabatt auf Zugtickets ab 65 Jahren (SNCB/NMBS)",
+        "desc": "Ab 65 reisen Sie mit dem Zug immer 40 % günstiger als zum Standardtarif, zu jeder Tageszeit, auf jeder Strecke und auch in der 1. Klasse. Der Rabatt ist automatisch inbegriffen.",
+        "deadline": "Kein Antrag: der Rabatt gilt für jedes Ticket, das Sie ab 65 kaufen.",
+        "amount": "40 % Rabatt auf den Standardtarif; mit Train+ (4 € pro Monat oder 32 € pro Jahr) höchstens 5,50 € pro Fahrt in der 2. Klasse",
+        "requirements": [],
+        "steps": [
+          "Kaufen Sie Ihr Ticket auf der Website oder in der App der SNCB, am Automaten oder am Schalter — der Seniorenrabatt ist automatisch enthalten",
+          "Fahren Sie oft? Denken Sie an Train+: zusätzlich 40 % Rabatt in den Nebenzeiten und höchstens 5,50 € pro Fahrt in der 2. Klasse",
+          "Kinder unter 12 reisen kostenlos mit (max. 4 pro zahlendem Fahrgast)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.belgiantrain.be/nl/products/senior",
+      "conditions": {
+        "en": [
+          "You are 65 or older.",
+          "Valid on NMBS/SNCB trains within Belgium, on every route and at every time of day; the minimum ticket price is €2.60 in 2nd class."
+        ],
+        "nl": [
+          "Je bent 65 jaar of ouder.",
+          "Geldig op de treinen van de NMBS in België, op elk traject en op elk moment; de minimumprijs van een ticket is €2,60 in 2de klas."
+        ],
+        "fr": [
+          "Vous avez 65 ans ou plus.",
+          "Valable sur les trains de la SNCB en Belgique, sur tout trajet et à toute heure ; le prix minimum d'un billet est de 2,60 € en 2e classe."
+        ],
+        "de": [
+          "Sie sind 65 Jahre oder älter.",
+          "Gültig in den Zügen der SNCB/NMBS in Belgien, auf jeder Strecke und zu jeder Zeit; der Mindestpreis eines Tickets beträgt 2,60 € in der 2. Klasse."
+        ]
+      }
+    }
+  },
+  {
+    "id": 109,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Opgroeien (Kind en Gezin)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://ouders.opgroeien.be/themas/opvang/kinderopvang-0-3-jaar/hoeveel-kost-de-opvang",
+    "amount_source_url": "https://ouders.opgroeien.be/themas/opvang/kinderopvang-0-3-jaar/hoeveel-kost-de-opvang/hoe-wordt-het-inkomenstarief-berekend",
+    "request_url": "https://mijn.opgroeien.be/apps/inkomenstarief/app",
+    "content": {
+      "en": {
+        "title": "Income-Based Childcare Fee (Kinderopvang met inkomenstarief)",
+        "desc": "In most childcare in Flanders you pay a day rate based on your income and family. To get it you need an income-tariff certificate from Opgroeien before the childcare starts; without one you pay the maximum rate.",
+        "deadline": "Request the certificate from 2 months before the childcare starts (it always begins on the 1st of a month). Recalculate when your family or income changes; indexed every 1 October.",
+        "amount": "A day rate set by your income and children; discount from the second dependent child, and lower individual rates in specific situations",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme app, or"
+          },
+          {
+            "type": "card",
+            "label": "Belgian eID card + reader (for Mijn Opgroeien)"
+          }
+        ],
+        "steps": [
+          "Simulate your income tariff on Mijn Opgroeien",
+          "Log in to Mijn Opgroeien, choose 'Inkomenstarief' and click 'Attest inkomenstarief aanvragen'",
+          "Check your family details and dependent children; your latest Belgian tax assessment is fetched automatically (or enter last month's gross income)",
+          "Download the certificate with the child code and give it to the childcare before the start"
+        ]
+      },
+      "nl": {
+        "title": "Kinderopvang met inkomenstarief",
+        "desc": "In de meeste kinderopvang in Vlaanderen betaal je een dagprijs op basis van je inkomen en gezin. Daarvoor heb je een attest inkomenstarief van Opgroeien nodig vóór de opvang start; zonder attest betaal je het maximumtarief.",
+        "deadline": "Vraag het attest aan vanaf 2 maanden vóór de start van de opvang (het gaat altijd in op de 1ste van een maand). Laat herberekenen als je gezin of inkomen verandert; geïndexeerd op elke 1 oktober.",
+        "amount": "Een dagprijs volgens je inkomen en kinderen; kindkorting vanaf het tweede kind ten laste, en individueel verminderde tarieven in specifieke situaties",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-app, of"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-kaart + kaartlezer (voor Mijn Opgroeien)"
+          }
+        ],
+        "steps": [
+          "Simuleer je inkomenstarief via Mijn Opgroeien",
+          "Log in op Mijn Opgroeien, kies 'Inkomenstarief' en klik op 'Attest inkomenstarief aanvragen'",
+          "Controleer je gezinsgegevens en kinderen ten laste; je meest recente Belgische aanslagbiljet wordt automatisch opgehaald (anders vul je het brutoloon van vorige maand in)",
+          "Download het attest met kindcode en bezorg het aan de opvang vóór de start"
+        ]
+      },
+      "fr": {
+        "title": "Accueil d'enfants au tarif selon les revenus (Flandre)",
+        "desc": "Dans la plupart des milieux d'accueil en Flandre, vous payez un tarif journalier selon vos revenus et votre famille. Il vous faut pour cela une attestation de tarif selon les revenus d'Opgroeien avant le début de l'accueil ; sans attestation, vous payez le tarif maximum.",
+        "deadline": "Demandez l'attestation dès 2 mois avant le début de l'accueil (elle commence toujours le 1er d'un mois). Faites-la recalculer si votre famille ou vos revenus changent ; indexée chaque 1er octobre.",
+        "amount": "Un tarif journalier selon vos revenus et vos enfants ; réduction dès le deuxième enfant à charge, et tarifs réduits individuels dans des situations spécifiques",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "Application itsme, ou"
+          },
+          {
+            "type": "card",
+            "label": "Carte eID belge + lecteur (pour Mijn Opgroeien)"
+          }
+        ],
+        "steps": [
+          "Simulez votre tarif sur Mijn Opgroeien",
+          "Connectez-vous à Mijn Opgroeien, choisissez « Inkomenstarief » puis « Attest inkomenstarief aanvragen »",
+          "Vérifiez vos données familiales et enfants à charge ; votre dernier avertissement-extrait de rôle belge est récupéré automatiquement (sinon, indiquez le salaire brut du mois précédent)",
+          "Téléchargez l'attestation avec le code enfant et remettez-la au milieu d'accueil avant le début"
+        ]
+      },
+      "de": {
+        "title": "Kinderbetreuung zum einkommensabhängigen Tarif (Flandern)",
+        "desc": "In den meisten Kinderbetreuungen in Flandern zahlen Sie einen Tagessatz nach Einkommen und Familie. Dafür brauchen Sie vor Beginn eine Bescheinigung über den Einkommenstarif von Opgroeien; ohne sie zahlen Sie den Höchsttarif.",
+        "deadline": "Beantragen Sie die Bescheinigung ab 2 Monaten vor Beginn der Betreuung (sie beginnt immer am 1. eines Monats). Neu berechnen lassen, wenn sich Familie oder Einkommen ändern; jeden 1. Oktober indexiert.",
+        "amount": "Ein Tagessatz nach Einkommen und Kindern; Rabatt ab dem zweiten Kind zu Lasten und individuell ermäßigte Tarife in bestimmten Situationen",
+        "requirements": [
+          {
+            "type": "phone",
+            "label": "itsme-App, oder"
+          },
+          {
+            "type": "card",
+            "label": "Belgische eID-Karte + Lesegerät (für Mijn Opgroeien)"
+          }
+        ],
+        "steps": [
+          "Simulieren Sie Ihren Einkommenstarif auf Mijn Opgroeien",
+          "Melden Sie sich bei Mijn Opgroeien an, wählen Sie „Inkomenstarief“ und dann „Attest inkomenstarief aanvragen“",
+          "Prüfen Sie Ihre Familiendaten und Kinder zu Lasten; Ihr letzter belgischer Steuerbescheid wird automatisch abgerufen (sonst geben Sie den Bruttolohn des Vormonats an)",
+          "Laden Sie die Bescheinigung mit dem Kindercode herunter und geben Sie sie vor Beginn bei der Betreuung ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://ouders.opgroeien.be/themas/opvang/kinderopvang-0-3-jaar/hoeveel-kost-de-opvang",
+        "https://ouders.opgroeien.be/themas/opvang/kinderopvang-0-3-jaar/hoeveel-kost-de-opvang/attest-inkomenstarief-aanvragen"
+      ],
+      "conditions": {
+        "en": [
+          "Your child goes to a childcare provider that applies the income tariff (most childcare in Flanders); free-price childcare does not.",
+          "You request the certificate before the start; the tariff uses your latest Belgian tax assessment, or your gross income of the previous month if there is none.",
+          "The official household at the time of the request determines whose income counts."
+        ],
+        "nl": [
+          "Je kind gaat naar een opvang die het inkomenstarief toepast (de meeste kinderopvang in Vlaanderen); opvang met vrije prijs niet.",
+          "Je vraagt het attest aan vóór de start; het tarief gebruikt je meest recente Belgische aanslagbiljet, of je bruto-inkomen van de vorige maand als er geen is.",
+          "De officiële gezinssamenstelling op het moment van de aanvraag bepaalt welke inkomens meetellen."
+        ],
+        "fr": [
+          "Votre enfant va dans un milieu d'accueil qui applique le tarif selon les revenus (la plupart en Flandre) ; pas l'accueil à prix libre.",
+          "Vous demandez l'attestation avant le début ; le tarif se base sur votre dernier avertissement-extrait de rôle belge, ou sur vos revenus bruts du mois précédent à défaut.",
+          "La composition officielle du ménage au moment de la demande détermine quels revenus comptent."
+        ],
+        "de": [
+          "Ihr Kind besucht eine Betreuung mit Einkommenstarif (die meisten in Flandern); Betreuung mit freiem Preis nicht.",
+          "Sie beantragen die Bescheinigung vor Beginn; der Tarif stützt sich auf Ihren letzten belgischen Steuerbescheid oder, falls keiner vorliegt, auf Ihr Bruttoeinkommen des Vormonats.",
+          "Die offizielle Haushaltszusammensetzung zum Zeitpunkt des Antrags bestimmt, welche Einkommen zählen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 110,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Vlaams Groeipakket",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/ondersteuningstoeslag",
+    "content": {
+      "en": {
+        "title": "Support Supplement for Children with High Care Needs (Ondersteuningstoeslag)",
+        "desc": "A fixed monthly amount from the Groeipakket for children with a heavy care need, to organise non-medical care and support. It does not depend on family income and comes on top of the care supplement.",
+        "deadline": "Paid until the month the child turns 21. Automatic in Flanders; in Brussels you apply in writing or by email to a Flemish Groeipakket payer.",
+        "amount": "€357.47 a month",
+        "requirements": [],
+        "steps": [
+          "Child lives in Flanders? Your Groeipakket payer pays it automatically once your child qualifies",
+          "Child lives in Brussels and already gets a disability supplement on child benefit from a Brussels payer? Apply in writing or by email to one of the Flemish payers",
+          "Tell your payer if your child enters residential care, gets a personal assistance budget or receives an IVT/integration allowance"
+        ]
+      },
+      "nl": {
+        "title": "Ondersteuningstoeslag (Groeipakket)",
+        "desc": "Een vast maandelijks bedrag uit het Groeipakket voor kinderen met een zware zorgbehoefte, om niet-medische zorg en ondersteuning te organiseren. Het hangt niet af van het gezinsinkomen en komt bovenop de zorgtoeslag.",
+        "deadline": "Uitbetaald tot en met de maand waarin je kind 21 wordt. Automatisch in Vlaanderen; in Brussel vraag je het schriftelijk of per e-mail aan bij een Vlaamse uitbetaler.",
+        "amount": "€357,47 per maand",
+        "requirements": [],
+        "steps": [
+          "Woont je kind in Vlaanderen? Dan betaalt je uitbetaler van het Groeipakket de toeslag automatisch zodra je kind er recht op heeft",
+          "Woont je kind in Brussel en krijg je al een toeslag voor een kind met een handicap via een Brusselse uitbetaler? Vraag het schriftelijk of per e-mail aan bij een van de Vlaamse uitbetalers",
+          "Meld je uitbetaler als je kind in residentiële zorg gaat, een persoonlijk-assistentiebudget krijgt of een IVT/integratietegemoetkoming ontvangt"
+        ]
+      },
+      "fr": {
+        "title": "Supplément de soutien (Ondersteuningstoeslag, Groeipakket flamand)",
+        "desc": "Un montant mensuel fixe du Groeipakket pour les enfants ayant un besoin de soins lourd, afin d'organiser des soins et un soutien non médicaux. Il ne dépend pas des revenus et s'ajoute au supplément pour soins.",
+        "deadline": "Versé jusqu'au mois des 21 ans de l'enfant. Automatique en Flandre ; à Bruxelles, demandez-le par écrit ou par e-mail à une caisse flamande du Groeipakket.",
+        "amount": "357,47 € par mois",
+        "requirements": [],
+        "steps": [
+          "Votre enfant habite en Flandre ? Votre caisse du Groeipakket le verse automatiquement dès qu'il y a droit",
+          "Votre enfant habite à Bruxelles et vous recevez déjà un supplément pour enfant handicapé d'une caisse bruxelloise ? Faites la demande par écrit ou par e-mail auprès d'une caisse flamande",
+          "Prévenez votre caisse si votre enfant entre en soins résidentiels, reçoit un budget d'assistance personnelle ou une ARR/allocation d'intégration"
+        ]
+      },
+      "de": {
+        "title": "Unterstützungszuschlag (Ondersteuningstoeslag, flämisches Groeipakket)",
+        "desc": "Ein fester monatlicher Betrag aus dem Groeipakket für Kinder mit hohem Pflegebedarf, um nichtmedizinische Pflege und Unterstützung zu organisieren. Er hängt nicht vom Einkommen ab und kommt zum Pflegezuschlag hinzu.",
+        "deadline": "Gezahlt bis zum Monat, in dem das Kind 21 wird. Automatisch in Flandern; in Brüssel beantragen Sie ihn schriftlich oder per E-Mail bei einer flämischen Zahlstelle.",
+        "amount": "357,47 € pro Monat",
+        "requirements": [],
+        "steps": [
+          "Wohnt Ihr Kind in Flandern? Dann zahlt Ihre Groeipakket-Zahlstelle automatisch, sobald Anspruch besteht",
+          "Wohnt Ihr Kind in Brüssel und erhalten Sie bereits einen Behindertenzuschlag von einer Brüsseler Zahlstelle? Beantragen Sie ihn schriftlich oder per E-Mail bei einer flämischen Zahlstelle",
+          "Informieren Sie Ihre Zahlstelle, wenn Ihr Kind in stationäre Betreuung kommt, ein persönliches Assistenzbudget oder eine EEB/Eingliederungsbeihilfe erhält"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/ondersteuningstoeslag",
+        "https://www.vlaanderen.be/vlaams-groeipakket/het-vlaams-groeipakket/het-vlaams-groeipakket-voor-een-kind-met-niet-belgische-nationaliteit",
+        "https://gpedia.groeipakket.be/nl/richtlijnen/toelichtingsnotas/regelgeving-pagina/toelichtingsnota-2-van-27"
+      ],
+      "conditions": {
+        "en": [
+          "Your child has at least 12 points on the medical-social scale and is under 21.",
+          "Your child lives in Flanders or the Brussels-Capital Region and is Belgian or meets the residence conditions.",
+          "Not combined with residential youth or disability care via non-direct access, a personal assistance budget, or an IVT/integration allowance before 21."
+        ],
+        "nl": [
+          "Je kind heeft minstens 12 punten op de medisch-sociale schaal en is jonger dan 21.",
+          "Je kind woont in Vlaanderen of het Brussels Hoofdstedelijk Gewest en is Belg of voldoet aan de verblijfsvoorwaarden.",
+          "Niet samen met residentiële jeugdhulp of gehandicaptenzorg via niet-rechtstreekse toegang, een persoonlijk-assistentiebudget, of een IVT/integratietegemoetkoming vóór 21."
+        ],
+        "fr": [
+          "Votre enfant a au moins 12 points sur l'échelle médico-sociale et a moins de 21 ans.",
+          "Votre enfant habite en Flandre ou en Région de Bruxelles-Capitale et est belge ou remplit les conditions de séjour.",
+          "Non cumulable avec une aide résidentielle à la jeunesse ou aux personnes handicapées en accès non direct, un budget d'assistance personnelle, ou une ARR/allocation d'intégration avant 21 ans."
+        ],
+        "de": [
+          "Ihr Kind hat mindestens 12 Punkte auf der medizinisch-sozialen Skala und ist unter 21.",
+          "Ihr Kind wohnt in Flandern oder der Region Brüssel-Hauptstadt und ist Belgier oder erfüllt die Aufenthaltsbedingungen.",
+          "Nicht kombinierbar mit stationärer Jugend- oder Behindertenhilfe über nicht direkten Zugang, einem persönlichen Assistenzbudget oder einer EEB/Eingliederungsbeihilfe vor 21."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "A permit for studies gives you no family benefits for yourself, but children of students do meet the residence condition (Opgroeien guidance). Register your child at the commune with its own residence right.",
+            "nl": "Een verblijfsvergunning voor studies geeft jou zelf geen recht op gezinsbijslagen, maar kinderen van studenten voldoen wel aan de verblijfsvoorwaarde (richtlijn van Opgroeien). Schrijf je kind in de gemeente in met een eigen verblijfsrecht.",
+            "fr": "Un titre de séjour pour études ne vous ouvre aucun droit aux allocations pour vous-même, mais les enfants d'étudiants remplissent bien la condition de séjour (directive d'Opgroeien). Inscrivez votre enfant à la commune avec son propre droit de séjour.",
+            "de": "Eine Aufenthaltserlaubnis zum Studium gibt Ihnen selbst keinen Anspruch auf Familienleistungen, aber Kinder von Studierenden erfüllen die Aufenthaltsbedingung (Richtlinie von Opgroeien). Melden Sie Ihr Kind mit eigenem Aufenthaltsrecht bei der Gemeinde an."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 111,
+    "category": "family",
+    "situations": [
+      "children",
+      "school",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Groeipakket",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/schoolbonus",
+    "content": {
+      "en": {
+        "title": "School Bonus (Schoolbonus, Groeipakket)",
+        "desc": "A yearly extra amount per child for families who are entitled to the Groeipakket social supplement in July, paid before the new school year. Children who do not yet go to school get it too.",
+        "deadline": "Paid automatically in August with the Groeipakket.",
+        "amount": "€23.82 to €71.48 per child a year, depending on age (amounts for school year 2025-2026)",
+        "requirements": [],
+        "steps": [
+          "Nothing to apply for: your payer checks in July whether there is a right to the social supplement",
+          "If so, the school bonus is paid in August together with the Groeipakket",
+          "In doubt? Contact your Groeipakket payer"
+        ]
+      },
+      "nl": {
+        "title": "Schoolbonus (Groeipakket)",
+        "desc": "Een jaarlijks extra bedrag per kind voor gezinnen die in juli recht hebben op de sociale toeslag van het Groeipakket, uitbetaald vóór het nieuwe schooljaar. Ook kinderen die nog niet naar school gaan, krijgen het.",
+        "deadline": "Automatisch uitbetaald in augustus, samen met het Groeipakket.",
+        "amount": "€23,82 tot €71,48 per kind per jaar, naargelang de leeftijd (bedragen schooljaar 2025-2026)",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: je uitbetaler kijkt in juli of er recht is op de sociale toeslag",
+          "Is dat zo, dan wordt de schoolbonus in augustus samen met het Groeipakket betaald",
+          "Twijfel je? Neem contact op met je uitbetaler"
+        ]
+      },
+      "fr": {
+        "title": "Bonus scolaire (Schoolbonus, Groeipakket flamand)",
+        "desc": "Un montant annuel supplémentaire par enfant pour les familles qui ont droit en juillet au supplément social du Groeipakket, versé avant la rentrée. Les enfants qui ne vont pas encore à l'école le reçoivent aussi.",
+        "deadline": "Versé automatiquement en août avec le Groeipakket.",
+        "amount": "De 23,82 € à 71,48 € par enfant et par an selon l'âge (montants de l'année scolaire 2025-2026)",
+        "requirements": [],
+        "steps": [
+          "Rien à demander : votre caisse vérifie en juillet s'il y a droit au supplément social",
+          "Si oui, le bonus scolaire est versé en août avec le Groeipakket",
+          "Un doute ? Contactez votre caisse du Groeipakket"
+        ]
+      },
+      "de": {
+        "title": "Schulbonus (Schoolbonus, flämisches Groeipakket)",
+        "desc": "Ein jährlicher Zusatzbetrag pro Kind für Familien, die im Juli Anspruch auf den Sozialzuschlag des Groeipakket haben, gezahlt vor dem neuen Schuljahr. Auch Kinder, die noch nicht zur Schule gehen, erhalten ihn.",
+        "deadline": "Automatisch im August mit dem Groeipakket gezahlt.",
+        "amount": "23,82 € bis 71,48 € pro Kind und Jahr, je nach Alter (Beträge des Schuljahrs 2025-2026)",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: Ihre Zahlstelle prüft im Juli, ob Anspruch auf den Sozialzuschlag besteht",
+          "Wenn ja, wird der Schulbonus im August mit dem Groeipakket gezahlt",
+          "Im Zweifel? Wenden Sie sich an Ihre Groeipakket-Zahlstelle"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/schoolbonus",
+        "https://www.vlaanderen.be/vlaams-groeipakket/het-vlaams-groeipakket/het-vlaams-groeipakket-voor-een-kind-met-niet-belgische-nationaliteit",
+        "https://gpedia.groeipakket.be/nl/richtlijnen/toelichtingsnotas/regelgeving-pagina/toelichtingsnota-2-van-27"
+      ],
+      "conditions": {
+        "en": [
+          "Your child receives the Vlaams Groeipakket.",
+          "In July there is a right to the Groeipakket social supplement for your child (which depends on household income)."
+        ],
+        "nl": [
+          "Je kind krijgt het Vlaams Groeipakket.",
+          "In juli is er voor je kind recht op de sociale toeslag van het Groeipakket (die van het gezinsinkomen afhangt)."
+        ],
+        "fr": [
+          "Votre enfant reçoit le Groeipakket flamand.",
+          "En juillet, il y a pour votre enfant un droit au supplément social du Groeipakket (qui dépend des revenus du ménage)."
+        ],
+        "de": [
+          "Ihr Kind erhält das flämische Groeipakket.",
+          "Im Juli besteht für Ihr Kind Anspruch auf den Sozialzuschlag des Groeipakket (der vom Haushaltseinkommen abhängt)."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "A permit for studies gives you no family benefits for yourself, but children of students do meet the residence condition (Opgroeien guidance). Register your child at the commune with its own residence right.",
+            "nl": "Een verblijfsvergunning voor studies geeft jou zelf geen recht op gezinsbijslagen, maar kinderen van studenten voldoen wel aan de verblijfsvoorwaarde (richtlijn van Opgroeien). Schrijf je kind in de gemeente in met een eigen verblijfsrecht.",
+            "fr": "Un titre de séjour pour études ne vous ouvre aucun droit aux allocations pour vous-même, mais les enfants d'étudiants remplissent bien la condition de séjour (directive d'Opgroeien). Inscrivez votre enfant à la commune avec son propre droit de séjour.",
+            "de": "Eine Aufenthaltserlaubnis zum Studium gibt Ihnen selbst keinen Anspruch auf Familienleistungen, aber Kinder von Studierenden erfüllen die Aufenthaltsbedingung (Richtlinie von Opgroeien). Melden Sie Ihr Kind mit eigenem Aufenthaltsrecht bei der Gemeinde an."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 112,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Groeipakket · Opgroeien",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/zorgtoeslag-voor-kinderen-met-een-specifieke-ondersteuningsbehoefte",
+    "content": {
+      "en": {
+        "title": "Care Supplement for Children with Specific Support Needs (Zorgtoeslag)",
+        "desc": "If your child needs more support than peers because of a condition, impairment or disability, the Groeipakket pays a monthly care supplement on top of the basic amount, until 21. An Opgroeien evaluation team assesses the care need in points.",
+        "deadline": "Apply to your Groeipakket payer; you then have 4 months to provide all documents via the Mijn Opgroeien portal. Paid until the month your child turns 21.",
+        "amount": "€96.23 to €641.49 a month, depending on the points awarded",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical part filled in by your GP or specialist on Mijn Opgroeien"
+          }
+        ],
+        "steps": [
+          "Ask your Groeipakket payer for the care supplement — by phone, email or at the counter",
+          "You get an invitation to Mijn Opgroeien: add information on your child and have your doctor fill in the medical part within 4 months",
+          "The Opgroeien evaluation team assesses the care need and sends you a certificate",
+          "Your payer decides on the amount and period based on the certificate"
+        ]
+      },
+      "nl": {
+        "title": "Zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte",
+        "desc": "Heeft je kind door een aandoening, beperking of handicap meer ondersteuning nodig dan leeftijdsgenoten, dan betaalt het Groeipakket een maandelijkse zorgtoeslag bovenop het basisbedrag, tot 21 jaar. Een evaluatieteam van Opgroeien drukt de zorgnood uit in punten.",
+        "deadline": "Aan te vragen bij je uitbetaler van het Groeipakket; daarna heb je 4 maanden om alle documenten via het portaal Mijn Opgroeien te bezorgen. Uitbetaald tot en met de maand waarin je kind 21 wordt.",
+        "amount": "€96,23 tot €641,49 per maand, naargelang de toegekende punten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch deel, ingevuld door je huisarts of specialist in Mijn Opgroeien"
+          }
+        ],
+        "steps": [
+          "Vraag de zorgtoeslag aan bij je uitbetaler van het Groeipakket — telefonisch, per e-mail of aan het loket",
+          "Je krijgt een uitnodiging voor Mijn Opgroeien: vul informatie over je kind aan en laat je arts het medische deel invullen, binnen 4 maanden",
+          "Het evaluatieteam van Opgroeien beoordeelt de zorgnood en je krijgt een attest",
+          "Je uitbetaler beslist op basis van het attest over het bedrag en de periode"
+        ]
+      },
+      "fr": {
+        "title": "Supplément pour soins (Zorgtoeslag, Groeipakket flamand)",
+        "desc": "Si votre enfant a besoin de plus de soutien que les enfants de son âge en raison d'une affection, d'une limitation ou d'un handicap, le Groeipakket verse un supplément mensuel en plus du montant de base, jusqu'à 21 ans. Une équipe d'évaluation d'Opgroeien exprime le besoin de soins en points.",
+        "deadline": "À demander à votre caisse du Groeipakket ; vous avez ensuite 4 mois pour fournir tous les documents via le portail Mijn Opgroeien. Versé jusqu'au mois des 21 ans de l'enfant.",
+        "amount": "De 96,23 € à 641,49 € par mois selon les points attribués",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Partie médicale remplie par votre généraliste ou spécialiste dans Mijn Opgroeien"
+          }
+        ],
+        "steps": [
+          "Demandez le supplément à votre caisse du Groeipakket — par téléphone, e-mail ou au guichet",
+          "Vous recevez une invitation pour Mijn Opgroeien : complétez les informations sur votre enfant et faites remplir la partie médicale par votre médecin, dans les 4 mois",
+          "L'équipe d'évaluation d'Opgroeien évalue le besoin de soins et vous recevez une attestation",
+          "Votre caisse décide du montant et de la période sur la base de l'attestation"
+        ]
+      },
+      "de": {
+        "title": "Pflegezuschlag (Zorgtoeslag, flämisches Groeipakket)",
+        "desc": "Braucht Ihr Kind wegen einer Erkrankung, Einschränkung oder Behinderung mehr Unterstützung als Gleichaltrige, zahlt das Groeipakket einen monatlichen Pflegezuschlag zusätzlich zum Grundbetrag, bis 21. Ein Bewertungsteam von Opgroeien drückt den Pflegebedarf in Punkten aus.",
+        "deadline": "Bei Ihrer Groeipakket-Zahlstelle zu beantragen; danach haben Sie 4 Monate, um alle Unterlagen über das Portal Mijn Opgroeien einzureichen. Gezahlt bis zum Monat, in dem das Kind 21 wird.",
+        "amount": "96,23 € bis 641,49 € pro Monat, je nach vergebenen Punkten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medizinischer Teil, von Ihrem Haus- oder Facharzt in Mijn Opgroeien ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie den Pflegezuschlag bei Ihrer Groeipakket-Zahlstelle — telefonisch, per E-Mail oder am Schalter",
+          "Sie erhalten eine Einladung für Mijn Opgroeien: ergänzen Sie Angaben zu Ihrem Kind und lassen Sie Ihren Arzt den medizinischen Teil ausfüllen, innerhalb von 4 Monaten",
+          "Das Bewertungsteam von Opgroeien beurteilt den Pflegebedarf und Sie erhalten eine Bescheinigung",
+          "Ihre Zahlstelle entscheidet anhand der Bescheinigung über Betrag und Zeitraum"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/zorgtoeslag-voor-kinderen-met-een-specifieke-ondersteuningsbehoefte",
+        "https://www.vlaanderen.be/vlaams-groeipakket/het-vlaams-groeipakket/het-vlaams-groeipakket-voor-een-kind-met-niet-belgische-nationaliteit",
+        "https://gpedia.groeipakket.be/nl/richtlijnen/toelichtingsnotas/regelgeving-pagina/toelichtingsnota-2-van-27"
+      ],
+      "conditions": {
+        "en": [
+          "Your child has a condition, impairment or (suspected) disability recognised by an Opgroeien evaluation team: at least 4 points in the first pillar or 6 points over the three pillars.",
+          "Your child is entitled to the Vlaams Groeipakket and is under 21.",
+          "From 18 to 21, work above set limits or certain benefits (including the IVT or integration allowance) end the right."
+        ],
+        "nl": [
+          "Je kind heeft een aandoening, beperking of (vermoeden van) handicap erkend door een evaluatieteam van Opgroeien: minstens 4 punten in de eerste pijler of 6 punten over de drie pijlers.",
+          "Je kind heeft recht op het Vlaams Groeipakket en is jonger dan 21.",
+          "Tussen 18 en 21 jaar stoppen werk boven bepaalde grenzen of bepaalde uitkeringen (ook de IVT of integratietegemoetkoming) het recht."
+        ],
+        "fr": [
+          "Votre enfant a une affection, limitation ou (suspicion de) handicap reconnu par une équipe d'évaluation d'Opgroeien : au moins 4 points au premier pilier ou 6 points sur les trois piliers.",
+          "Votre enfant a droit au Groeipakket flamand et a moins de 21 ans.",
+          "De 18 à 21 ans, un travail au-delà de certaines limites ou certaines allocations (dont l'ARR ou l'allocation d'intégration) mettent fin au droit."
+        ],
+        "de": [
+          "Ihr Kind hat eine Erkrankung, Einschränkung oder (vermutete) Behinderung, anerkannt von einem Bewertungsteam von Opgroeien: mindestens 4 Punkte in der ersten Säule oder 6 Punkte über die drei Säulen.",
+          "Ihr Kind hat Anspruch auf das flämische Groeipakket und ist unter 21.",
+          "Zwischen 18 und 21 beenden Arbeit über bestimmten Grenzen oder bestimmte Leistungen (auch EEB oder Eingliederungsbeihilfe) den Anspruch."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "A permit for studies gives you no family benefits for yourself, but children of students do meet the residence condition (Opgroeien guidance). Register your child at the commune with its own residence right.",
+            "nl": "Een verblijfsvergunning voor studies geeft jou zelf geen recht op gezinsbijslagen, maar kinderen van studenten voldoen wel aan de verblijfsvoorwaarde (richtlijn van Opgroeien). Schrijf je kind in de gemeente in met een eigen verblijfsrecht.",
+            "fr": "Un titre de séjour pour études ne vous ouvre aucun droit aux allocations pour vous-même, mais les enfants d'étudiants remplissent bien la condition de séjour (directive d'Opgroeien). Inscrivez votre enfant à la commune avec son propre droit de séjour.",
+            "de": "Eine Aufenthaltserlaubnis zum Studium gibt Ihnen selbst keinen Anspruch auf Familienleistungen, aber Kinder von Studierenden erfüllen die Aufenthaltsbedingung (Richtlinie von Opgroeien). Melden Sie Ihr Kind mit eigenem Aufenthaltsrecht bei der Gemeinde an."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 113,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Groeipakket",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/wezentoeslag",
+    "content": {
+      "en": {
+        "title": "Orphan's Supplement (Wezentoeslag, Groeipakket)",
+        "desc": "A child who loses one or both parents gets an extra monthly amount on top of the Groeipakket basic amount. Children orphaned from 2019 get it without further conditions; for earlier cases the old rules (increased orphan's allowance) apply.",
+        "deadline": "Automatic, usually from the month of the death: your payer is informed through the National Register. Paid with the basic amount around the 8th of the month.",
+        "amount": "Half orphan €152.54 a month; full orphan €190.65 a month (orphaned from 2019)",
+        "requirements": [],
+        "steps": [
+          "Nothing to apply for: the death is reported to your payer automatically via the National Register",
+          "Report the death to your Groeipakket payer anyway, so payment can start sooner",
+          "Parent presumed absent, or died abroad? Send the justice of the peace's judgment or the death certificate to your payer"
+        ]
+      },
+      "nl": {
+        "title": "Wezentoeslag (Groeipakket)",
+        "desc": "Een kind dat één of beide ouders verliest, krijgt een extra maandelijks bedrag bovenop het basisbedrag van het Groeipakket. Kinderen die vanaf 2019 (half)wees werden, krijgen het zonder bijkomende voorwaarden; voor eerdere gevallen gelden de oude regels (verhoogde wezenbijslag).",
+        "deadline": "Automatisch, meestal vanaf de maand van het overlijden: je uitbetaler krijgt een melding via het Rijksregister. Samen met het basisbedrag betaald rond de 8ste van de maand.",
+        "amount": "Halfwees €152,54 per maand; wees €190,65 per maand (wees geworden vanaf 2019)",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: het overlijden wordt automatisch via het Rijksregister aan je uitbetaler gemeld",
+          "Meld het overlijden toch zo snel mogelijk aan je uitbetaler, dan start de betaling sneller",
+          "Ouder vermoedelijk afwezig of in het buitenland overleden? Bezorg het vonnis van de vrederechter of de overlijdensakte aan je uitbetaler"
+        ]
+      },
+      "fr": {
+        "title": "Supplément d'orphelin (Wezentoeslag, Groeipakket flamand)",
+        "desc": "Un enfant qui perd un ou ses deux parents reçoit un montant mensuel en plus du montant de base du Groeipakket. Les enfants devenus orphelins à partir de 2019 le reçoivent sans autre condition ; pour les cas antérieurs, les anciennes règles (allocation d'orphelin majorée) s'appliquent.",
+        "deadline": "Automatique, généralement à partir du mois du décès : votre caisse est informée via le Registre national. Versé avec le montant de base vers le 8 du mois.",
+        "amount": "Orphelin d'un parent 152,54 € par mois ; orphelin des deux 190,65 € par mois (orphelin depuis 2019)",
+        "requirements": [],
+        "steps": [
+          "Rien à demander : le décès est signalé automatiquement à votre caisse via le Registre national",
+          "Signalez quand même le décès à votre caisse au plus vite, pour que le paiement démarre plus tôt",
+          "Parent présumé absent ou décédé à l'étranger ? Envoyez le jugement du juge de paix ou l'acte de décès à votre caisse"
+        ]
+      },
+      "de": {
+        "title": "Waisenzuschlag (Wezentoeslag, flämisches Groeipakket)",
+        "desc": "Ein Kind, das einen oder beide Elternteile verliert, erhält einen monatlichen Zusatzbetrag zum Grundbetrag des Groeipakket. Kinder, die ab 2019 (Halb-)Waisen wurden, erhalten ihn ohne weitere Bedingungen; für frühere Fälle gelten die alten Regeln (erhöhte Waisenzulage).",
+        "deadline": "Automatisch, meist ab dem Monat des Todes: Ihre Zahlstelle wird über das Nationalregister informiert. Gezahlt mit dem Grundbetrag um den 8. des Monats.",
+        "amount": "Halbwaise 152,54 € pro Monat; Vollwaise 190,65 € pro Monat (Waise seit 2019)",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: der Tod wird Ihrer Zahlstelle automatisch über das Nationalregister gemeldet",
+          "Melden Sie den Tod trotzdem so schnell wie möglich Ihrer Zahlstelle, dann beginnt die Zahlung früher",
+          "Elternteil vermutlich abwesend oder im Ausland verstorben? Schicken Sie das Urteil des Friedensrichters oder die Sterbeurkunde an Ihre Zahlstelle"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/wezentoeslag",
+        "https://www.vlaanderen.be/vlaams-groeipakket/het-vlaams-groeipakket/het-vlaams-groeipakket-voor-een-kind-met-niet-belgische-nationaliteit",
+        "https://gpedia.groeipakket.be/nl/richtlijnen/toelichtingsnotas/regelgeving-pagina/toelichtingsnota-2-van-27"
+      ],
+      "conditions": {
+        "en": [
+          "Your child receives the Vlaams Groeipakket and one or both legal, recognised or adoptive parents died or are presumed absent (established by the justice of the peace).",
+          "After a full adoption, only the death of the adoptive parent counts.",
+          "The supplement stops when the right to the Groeipakket stops; a new partner of the surviving parent does not matter (except under the old pre-2019 rules)."
+        ],
+        "nl": [
+          "Je kind krijgt het Vlaams Groeipakket en één of beide wettelijke, erkende of adoptieouders zijn overleden of vermoedelijk afwezig (vastgesteld door de vrederechter).",
+          "Na een volle adoptie telt enkel het overlijden van de adoptieouder.",
+          "De toeslag stopt als het recht op het Groeipakket stopt; een nieuwe partner van de overblijvende ouder speelt geen rol (behalve onder de oude regels van vóór 2019)."
+        ],
+        "fr": [
+          "Votre enfant reçoit le Groeipakket flamand et un ou ses deux parents légaux, reconnus ou adoptifs sont décédés ou présumés absents (constaté par le juge de paix).",
+          "Après une adoption plénière, seul le décès du parent adoptif compte.",
+          "Le supplément s'arrête quand le droit au Groeipakket s'arrête ; un nouveau partenaire du parent survivant n'importe pas (sauf selon les anciennes règles d'avant 2019)."
+        ],
+        "de": [
+          "Ihr Kind erhält das flämische Groeipakket und ein oder beide gesetzlichen, anerkannten oder Adoptiveltern sind verstorben oder vermutlich abwesend (vom Friedensrichter festgestellt).",
+          "Nach einer Volladoption zählt nur der Tod des Adoptivelternteils.",
+          "Der Zuschlag endet mit dem Anspruch auf das Groeipakket; ein neuer Partner des überlebenden Elternteils spielt keine Rolle (außer nach den alten Regeln vor 2019)."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "conditional",
+          "text": {
+            "en": "A permit for studies gives you no family benefits for yourself, but children of students do meet the residence condition (Opgroeien guidance). Register your child at the commune with its own residence right.",
+            "nl": "Een verblijfsvergunning voor studies geeft jou zelf geen recht op gezinsbijslagen, maar kinderen van studenten voldoen wel aan de verblijfsvoorwaarde (richtlijn van Opgroeien). Schrijf je kind in de gemeente in met een eigen verblijfsrecht.",
+            "fr": "Un titre de séjour pour études ne vous ouvre aucun droit aux allocations pour vous-même, mais les enfants d'étudiants remplissent bien la condition de séjour (directive d'Opgroeien). Inscrivez votre enfant à la commune avec son propre droit de séjour.",
+            "de": "Eine Aufenthaltserlaubnis zum Studium gibt Ihnen selbst keinen Anspruch auf Familienleistungen, aber Kinder von Studierenden erfüllen die Aufenthaltsbedingung (Richtlinie von Opgroeien). Melden Sie Ihr Kind mit eigenem Aufenthaltsrecht bei der Gemeinde an."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 114,
+    "category": "housing",
+    "situations": [
+      "children",
+      "renting",
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verminderingen-van-de-onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-gezinsbijslaggerechtigde-kinderen",
+    "content": {
+      "en": {
+        "title": "Property Tax Reduction for Children (Vermindering onroerende voorheffing voor kinderen)",
+        "desc": "Families with at least two children entitled to child benefit get a reduction on the property tax (onroerende voorheffing) of the home where the children live, as owners or tenants. A child with a recognised disability counts double.",
+        "deadline": "Owners: automatic on the tax bill. Tenants: apply once with the tenants' form; with co-parenting, a split must be requested by 31 March of the tax year.",
+        "amount": "€8.80 per child (tax year 2026), plus the provincial and municipal surcharges on top — often more than €100 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Tenants only: the notification form for tenants (once)"
+          }
+        ],
+        "steps": [
+          "Owner living with both parents at the address? The reduction is deducted automatically from your tax bill",
+          "Tenant? Submit the tenants' notification form once; the reduction goes to the landlord's tax bill and the landlord deducts it from your rent",
+          "Co-parents? Share it between you, or ask the Vlaamse Belastingdienst for a proportional split by 31 March",
+          "Did not get it although you qualify? You or your landlord can file an objection with the Vlaamse Belastingdienst"
+        ]
+      },
+      "nl": {
+        "title": "Vermindering van de onroerende voorheffing voor gezinsbijslaggerechtigde kinderen",
+        "desc": "Gezinnen met minstens twee kinderen met recht op kinderbijslag krijgen een vermindering op de onroerende voorheffing van de woning waar de kinderen gedomicilieerd zijn, als eigenaar of huurder. Een kind met een erkende handicap telt dubbel.",
+        "deadline": "Eigenaars: automatisch op het aanslagbiljet. Huurders: één keer aanvragen met het meldingsformulier voor huurders; bij co-ouderschap vraag je een verdeling aan uiterlijk 31 maart van het aanslagjaar.",
+        "amount": "€8,80 per kind (aanslagjaar 2026), plus de provinciale en gemeentelijke opcentiemen daarbovenop — vaak meer dan €100 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Enkel voor huurders: het meldingsformulier voor huurders (één keer)"
+          }
+        ],
+        "steps": [
+          "Eigenaar en wonen beide ouders op het adres? Dan wordt de vermindering automatisch van je aanslagbiljet afgetrokken",
+          "Huurder? Dien één keer het meldingsformulier voor huurders in; de vermindering gaat naar het aanslagbiljet van de verhuurder, die ze met je huur verrekent",
+          "Co-ouders? Verdeel ze onderling, of vraag de Vlaamse Belastingdienst uiterlijk 31 maart om een proportionele verdeling",
+          "Niet gekregen terwijl je recht hebt? Jij of je verhuurder kan bezwaar indienen bij de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Réduction du précompte immobilier pour enfants (Flandre)",
+        "desc": "Les familles avec au moins deux enfants bénéficiaires d'allocations familiales obtiennent une réduction du précompte immobilier du logement où les enfants sont domiciliés, comme propriétaires ou locataires. Un enfant avec un handicap reconnu compte double.",
+        "deadline": "Propriétaires : automatique sur l'avertissement-extrait de rôle. Locataires : demande unique avec le formulaire pour locataires ; en coparentalité, une répartition se demande au plus tard le 31 mars de l'exercice.",
+        "amount": "8,80 € par enfant (exercice 2026), plus les centimes additionnels provinciaux et communaux — souvent plus de 100 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Locataires uniquement : le formulaire de notification pour locataires (une fois)"
+          }
+        ],
+        "steps": [
+          "Propriétaire et les deux parents habitent à l'adresse ? La réduction est déduite automatiquement de votre avertissement-extrait de rôle",
+          "Locataire ? Introduisez une fois le formulaire pour locataires ; la réduction va sur l'avertissement du bailleur, qui la déduit de votre loyer",
+          "Coparents ? Partagez-la entre vous, ou demandez au Vlaamse Belastingdienst une répartition proportionnelle avant le 31 mars",
+          "Pas reçue alors que vous y avez droit ? Vous ou votre bailleur pouvez introduire une réclamation auprès du Vlaamse Belastingdienst"
+        ]
+      },
+      "de": {
+        "title": "Ermäßigung des Immobiliensteuervorabzugs für Kinder (Flandern)",
+        "desc": "Familien mit mindestens zwei kindergeldberechtigten Kindern erhalten eine Ermäßigung des Immobiliensteuervorabzugs für die Wohnung, in der die Kinder gemeldet sind, als Eigentümer oder Mieter. Ein Kind mit anerkannter Behinderung zählt doppelt.",
+        "deadline": "Eigentümer: automatisch auf dem Steuerbescheid. Mieter: einmal mit dem Meldeformular für Mieter beantragen; bei Co-Elternschaft eine Aufteilung bis spätestens 31. März des Steuerjahres beantragen.",
+        "amount": "8,80 € pro Kind (Steuerjahr 2026), zuzüglich der Provinz- und Gemeindezuschläge — oft mehr als 100 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nur für Mieter: das Meldeformular für Mieter (einmalig)"
+          }
+        ],
+        "steps": [
+          "Eigentümer und wohnen beide Eltern an der Adresse? Dann wird die Ermäßigung automatisch vom Steuerbescheid abgezogen",
+          "Mieter? Reichen Sie einmal das Meldeformular für Mieter ein; die Ermäßigung geht auf den Steuerbescheid des Vermieters, der sie mit Ihrer Miete verrechnet",
+          "Co-Eltern? Teilen Sie sie untereinander, oder beantragen Sie bis 31. März eine anteilige Aufteilung beim Vlaamse Belastingdienst",
+          "Nicht erhalten, obwohl Sie Anspruch haben? Sie oder Ihr Vermieter können Einspruch beim Vlaamse Belastingdienst einlegen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verminderingen-van-de-onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-gezinsbijslaggerechtigde-kinderen",
+      "conditions": {
+        "en": [
+          "On 1 January of the tax year at least 2 children entitled to child benefit are domiciled at the home, within the same family (population or foreigners' register).",
+          "Or one child with a recognised disability (at least 6 points on the medical-social scale, or 4 in the first pillar) is domiciled there.",
+          "The home is in the Flemish Region; the reduction is always linked to the home where the children are domiciled."
+        ],
+        "nl": [
+          "Op 1 januari van het aanslagjaar zijn minstens 2 kinderen met recht op gezinsbijslag binnen hetzelfde gezin op het adres gedomicilieerd (bevolkings- of vreemdelingenregister).",
+          "Of één kind met een erkende handicap (minstens 6 punten op de medisch-sociale schaal, of 4 in de eerste pijler) is er gedomicilieerd.",
+          "De woning ligt in het Vlaamse Gewest; de vermindering is altijd gekoppeld aan de woning waar de kinderen gedomicilieerd zijn."
+        ],
+        "fr": [
+          "Au 1er janvier de l'exercice, au moins 2 enfants bénéficiaires d'allocations familiales sont domiciliés au logement, au sein du même ménage (registre de la population ou des étrangers).",
+          "Ou un enfant avec un handicap reconnu (au moins 6 points sur l'échelle médico-sociale, ou 4 au premier pilier) y est domicilié.",
+          "Le logement est situé en Région flamande ; la réduction est toujours liée au logement où les enfants sont domiciliés."
+        ],
+        "de": [
+          "Am 1. Januar des Steuerjahres sind mindestens 2 kindergeldberechtigte Kinder in derselben Familie an der Adresse gemeldet (Bevölkerungs- oder Fremdenregister).",
+          "Oder ein Kind mit anerkannter Behinderung (mindestens 6 Punkte auf der medizinisch-sozialen Skala oder 4 in der ersten Säule) ist dort gemeldet.",
+          "Die Wohnung liegt in der Flämischen Region; die Ermäßigung ist immer an die Wohnung gebunden, in der die Kinder gemeldet sind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 115,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "self-employed"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RSVZ-INASTI · socialeverzekeringsfonds / caisse d'assurances sociales",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rsvz.be/nl/faq/vaderschaps-en-geboorteverlof-heb-ik-er-recht-op-en-hoe-vraag-ik-het-aan",
+    "amount_source_url": "https://www.rsvz.be/nl/faq/vaderschaps-en-geboorte-uitkering",
+    "content": {
+      "en": {
+        "title": "Paternity and Birth Benefit for the Self-Employed (Vaderschaps- en geboorte-uitkering)",
+        "desc": "A self-employed father or co-parent can interrupt work for up to 20 days (or 40 half days) in the 4 months after the birth and receive a benefit for each day off.",
+        "deadline": "Apply to your social insurance fund before the end of the quarter after the birth's quarter (one month more if the birth was in March, June, September or December). Paid in one go at the end of the month after the leave ends.",
+        "amount": "€107.14 per full day, €53.57 per half day; up to 20 days",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application stating the days or half days you interrupt work"
+          }
+        ],
+        "steps": [
+          "Plan up to 20 days or 40 half days of complete interruption in the 4 months after the birth",
+          "Apply to your social insurance fund — in person, by registered letter or electronically if available — listing the days",
+          "Your fund pays the benefit in one go at the end of the month following the end of the leave"
+        ]
+      },
+      "nl": {
+        "title": "Vaderschaps- en geboorte-uitkering voor zelfstandigen",
+        "desc": "Een zelfstandige vader of meeouder kan na de geboorte tot 20 dagen (of 40 halve dagen) zijn activiteit onderbreken binnen 4 maanden en krijgt voor elke verlofdag een uitkering.",
+        "deadline": "Vraag aan bij je socialeverzekeringsfonds vóór het einde van het kwartaal na het kwartaal van de geboorte (een maand langer bij een geboorte in maart, juni, september of december). Uitbetaald in één keer, eind de maand na het einde van het verlof.",
+        "amount": "€107,14 per volledige dag, €53,57 per halve dag; tot 20 dagen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraag met de dagen of halve dagen waarop je je activiteit onderbreekt"
+          }
+        ],
+        "steps": [
+          "Plan tot 20 dagen of 40 halve dagen volledige onderbreking binnen 4 maanden na de geboorte",
+          "Vraag aan bij je socialeverzekeringsfonds — ter plaatse, aangetekend of elektronisch als dat kan — met vermelding van de dagen",
+          "Je fonds betaalt de uitkering in één keer, op het einde van de maand na het einde van het verlof"
+        ]
+      },
+      "fr": {
+        "title": "Allocation de paternité et de naissance pour indépendants",
+        "desc": "Un père ou coparent indépendant peut interrompre son activité jusqu'à 20 jours (ou 40 demi-jours) dans les 4 mois qui suivent la naissance et reçoit une allocation par jour de congé.",
+        "deadline": "À demander à votre caisse d'assurances sociales avant la fin du trimestre qui suit celui de la naissance (un mois de plus pour une naissance en mars, juin, septembre ou décembre). Versée en une fois à la fin du mois qui suit la fin du congé.",
+        "amount": "107,14 € par jour complet, 53,57 € par demi-jour ; jusqu'à 20 jours",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Demande mentionnant les jours ou demi-jours d'interruption"
+          }
+        ],
+        "steps": [
+          "Prévoyez jusqu'à 20 jours ou 40 demi-jours d'interruption complète dans les 4 mois suivant la naissance",
+          "Faites la demande à votre caisse d'assurances sociales — sur place, par recommandé ou par voie électronique si possible — en indiquant les jours",
+          "Votre caisse verse l'allocation en une fois à la fin du mois qui suit la fin du congé"
+        ]
+      },
+      "de": {
+        "title": "Vaterschafts- und Geburtsentschädigung für Selbstständige",
+        "desc": "Ein selbstständiger Vater oder Mitelternteil kann innerhalb von 4 Monaten nach der Geburt bis zu 20 Tage (oder 40 halbe Tage) seine Tätigkeit unterbrechen und erhält für jeden Urlaubstag eine Entschädigung.",
+        "deadline": "Bei Ihrer Sozialversicherungskasse bis zum Ende des Quartals nach dem Geburtsquartal beantragen (einen Monat länger bei Geburt im März, Juni, September oder Dezember). Einmalige Zahlung Ende des Monats nach Urlaubsende.",
+        "amount": "107,14 € pro vollem Tag, 53,57 € pro halbem Tag; bis zu 20 Tage",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antrag mit den Tagen oder halben Tagen der Unterbrechung"
+          }
+        ],
+        "steps": [
+          "Planen Sie bis zu 20 Tage oder 40 halbe Tage vollständiger Unterbrechung innerhalb von 4 Monaten nach der Geburt",
+          "Beantragen Sie es bei Ihrer Sozialversicherungskasse — vor Ort, per Einschreiben oder elektronisch, falls möglich — mit Angabe der Tage",
+          "Ihre Kasse zahlt die Entschädigung einmalig am Ende des Monats nach Urlaubsende"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.rsvz.be/nl/faq/vaderschaps-en-geboorteverlof-heb-ik-er-recht-op-en-hoe-vraag-ik-het-aan",
+      "conditions": {
+        "en": [
+          "You are self-employed, a helper or assisting spouse in main occupation (or secondary/after pension age paying the same provisional contributions as a main occupation).",
+          "You paid your social contributions for the 2 quarters before the birth's quarter (or were an employee or civil servant then).",
+          "You became father or co-parent and interrupt all professional activity completely on the days taken, within 4 months of the birth."
+        ],
+        "nl": [
+          "Je bent zelfstandige, helper of meewerkende echtgenoot in hoofdberoep (of in bijberoep/na de pensioenleeftijd met evenveel voorlopige bijdragen als in hoofdberoep).",
+          "Je betaalde je sociale bijdragen voor de 2 kwartalen vóór het kwartaal van de geboorte (of was toen werknemer of ambtenaar).",
+          "Je werd vader of meeouder en onderbreekt elke beroepsactiviteit volledig op de opgenomen dagen, binnen 4 maanden na de geboorte."
+        ],
+        "fr": [
+          "Vous êtes indépendant(e), aidant(e) ou conjoint(e) aidant(e) à titre principal (ou complémentaire/après l'âge de la pension avec les mêmes cotisations provisoires qu'à titre principal).",
+          "Vous avez payé vos cotisations sociales pour les 2 trimestres précédant celui de la naissance (ou étiez alors salarié(e) ou fonctionnaire).",
+          "Vous êtes devenu(e) père ou coparent et interrompez complètement toute activité professionnelle les jours pris, dans les 4 mois suivant la naissance."
+        ],
+        "de": [
+          "Sie sind Selbstständiger, Helfer oder mitarbeitender Ehepartner im Hauptberuf (oder im Nebenberuf/nach dem Pensionsalter mit denselben vorläufigen Beiträgen wie im Hauptberuf).",
+          "Sie haben Ihre Sozialbeiträge für die 2 Quartale vor dem Geburtsquartal gezahlt (oder waren damals Arbeitnehmer oder Beamter).",
+          "Sie sind Vater oder Mitelternteil geworden und unterbrechen an den genommenen Tagen jede Berufstätigkeit vollständig, innerhalb von 4 Monaten nach der Geburt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 116,
+    "category": "health",
+    "situations": [
+      "self-employed",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RSVZ-INASTI · socialeverzekeringsfonds / caisse d'assurances sociales",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rsvz.be/nl/faq/zorgen-voor-een-familielid-heb-ik-recht-op-een-uitkering-mantelzorg-en-hoe-vraag-ik-ze-aan",
+    "content": {
+      "en": {
+        "title": "Carer's Benefit for the Self-Employed (Uitkering mantelzorg)",
+        "desc": "A monthly benefit if you temporarily interrupt your self-employed activity, fully or by at least 50%, to care for a seriously ill or palliative family member or a disabled child under 25.",
+        "deadline": "Apply to your social insurance fund without delay: the benefit starts at most one month before your application. At most 6 months per application and 12 months over your whole career.",
+        "amount": "€1,704.40 a month for a full interruption; €852.20 a month for at least 50%",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doctor's certificate on the palliative state or seriousness of the illness (when caring for an ill relative)"
+          }
+        ],
+        "steps": [
+          "Interrupt your activity for at least one month, fully or by at least 50%",
+          "Apply to your social insurance fund by registered letter or at its office (ask for a receipt)",
+          "Add the doctor's certificate and, for a partial interruption, show how you cut your activity by at least 50%",
+          "You keep paying social contributions; after 3 months of full interruption an exemption for one quarter is examined automatically"
+        ]
+      },
+      "nl": {
+        "title": "Uitkering mantelzorg voor zelfstandigen",
+        "desc": "Een maandelijkse uitkering als je je zelfstandige activiteit tijdelijk volledig of voor minstens 50% onderbreekt om te zorgen voor een ernstig ziek of palliatief familielid of een kind met een handicap jonger dan 25.",
+        "deadline": "Vraag snel aan bij je socialeverzekeringsfonds: de uitkering start ten vroegste een maand vóór je aanvraag. Maximaal 6 maanden per aanvraag en 12 maanden over je hele loopbaan.",
+        "amount": "€1.704,40 per maand bij volledige onderbreking; €852,20 per maand bij minstens 50%",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de arts over de palliatieve toestand of de ernst van de ziekte (bij zorg voor een ziek familielid)"
+          }
+        ],
+        "steps": [
+          "Onderbreek je activiteit minstens een maand, volledig of voor minstens 50%",
+          "Vraag aan bij je socialeverzekeringsfonds per aangetekende brief of in het kantoor (vraag een ontvangstbewijs)",
+          "Voeg het attest van de arts toe en toon bij een gedeeltelijke onderbreking aan hoe je je activiteit met minstens 50% vermindert",
+          "Je blijft sociale bijdragen betalen; na 3 maanden volledige onderbreking wordt een vrijstelling voor een kwartaal automatisch onderzocht"
+        ]
+      },
+      "fr": {
+        "title": "Allocation pour aidant proche des indépendants",
+        "desc": "Une allocation mensuelle si vous interrompez temporairement votre activité indépendante, totalement ou d'au moins 50 %, pour prendre soin d'un proche gravement malade ou en soins palliatifs, ou d'un enfant handicapé de moins de 25 ans.",
+        "deadline": "Faites la demande sans tarder à votre caisse d'assurances sociales : l'allocation commence au plus tôt un mois avant votre demande. Maximum 6 mois par demande et 12 mois sur toute la carrière.",
+        "amount": "1.704,40 € par mois en cas d'interruption complète ; 852,20 € par mois pour au moins 50 %",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du médecin sur l'état palliatif ou la gravité de la maladie (pour un proche malade)"
+          }
+        ],
+        "steps": [
+          "Interrompez votre activité au moins un mois, totalement ou d'au moins 50 %",
+          "Faites la demande à votre caisse d'assurances sociales par lettre recommandée ou à son bureau (demandez un accusé de réception)",
+          "Joignez l'attestation du médecin et, pour une interruption partielle, montrez comment vous réduisez votre activité d'au moins 50 %",
+          "Vous continuez à payer les cotisations ; après 3 mois d'interruption complète, une dispense pour un trimestre est examinée automatiquement"
+        ]
+      },
+      "de": {
+        "title": "Pflegeentschädigung für Selbstständige",
+        "desc": "Eine monatliche Entschädigung, wenn Sie Ihre selbstständige Tätigkeit vorübergehend ganz oder um mindestens 50 % unterbrechen, um ein schwer krankes oder palliativ betreutes Familienmitglied oder ein behindertes Kind unter 25 zu pflegen.",
+        "deadline": "Beantragen Sie sie zügig bei Ihrer Sozialversicherungskasse: die Entschädigung beginnt frühestens einen Monat vor dem Antrag. Höchstens 6 Monate pro Antrag und 12 Monate in der ganzen Laufbahn.",
+        "amount": "1.704,40 € pro Monat bei vollständiger Unterbrechung; 852,20 € pro Monat bei mindestens 50 %",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung über den palliativen Zustand oder die Schwere der Krankheit (bei Pflege eines kranken Angehörigen)"
+          }
+        ],
+        "steps": [
+          "Unterbrechen Sie Ihre Tätigkeit mindestens einen Monat, ganz oder um mindestens 50 %",
+          "Beantragen Sie es bei Ihrer Sozialversicherungskasse per Einschreiben oder im Büro (Empfangsbestätigung verlangen)",
+          "Fügen Sie die ärztliche Bescheinigung bei und zeigen Sie bei teilweiser Unterbrechung, wie Sie Ihre Tätigkeit um mindestens 50 % verringern",
+          "Sie zahlen weiter Sozialbeiträge; nach 3 Monaten vollständiger Unterbrechung wird eine Befreiung für ein Quartal automatisch geprüft"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.rsvz.be/nl/faq/zorgen-voor-een-familielid-heb-ik-recht-op-een-uitkering-mantelzorg-en-hoe-vraag-ik-ze-aan",
+      "conditions": {
+        "en": [
+          "You are self-employed, a helper or assisting spouse in main occupation (or secondary/after pension age paying the same provisional contributions as a main occupation).",
+          "You care for your partner, a relative up to the 2nd degree or someone living at your address who is seriously ill or palliative, or for your disabled child under 25.",
+          "You interrupt your activity for at least a month (fully or by at least 50%) and paid your contributions for the 2 previous quarters; not combined with an RVA career-break allowance for similar care."
+        ],
+        "nl": [
+          "Je bent zelfstandige, helper of meewerkende echtgenoot in hoofdberoep (of in bijberoep/na de pensioenleeftijd met evenveel voorlopige bijdragen als in hoofdberoep).",
+          "Je zorgt voor je partner, een bloed- of aanverwant tot de 2de graad of iemand die op je adres woont en ernstig ziek of palliatief is, of voor je kind met een handicap jonger dan 25.",
+          "Je onderbreekt je activiteit minstens een maand (volledig of voor minstens 50%) en betaalde je bijdragen voor de 2 vorige kwartalen; niet samen met een RVA-onderbrekingsuitkering voor gelijkaardige zorg."
+        ],
+        "fr": [
+          "Vous êtes indépendant(e), aidant(e) ou conjoint(e) aidant(e) à titre principal (ou complémentaire/après l'âge de la pension avec les mêmes cotisations provisoires qu'à titre principal).",
+          "Vous prenez soin de votre partenaire, d'un parent ou allié jusqu'au 2e degré ou d'une personne domiciliée chez vous, gravement malade ou en soins palliatifs, ou de votre enfant handicapé de moins de 25 ans.",
+          "Vous interrompez votre activité au moins un mois (totalement ou d'au moins 50 %) et avez payé vos cotisations des 2 trimestres précédents ; pas en même temps qu'une allocation d'interruption de l'ONEM pour des soins similaires."
+        ],
+        "de": [
+          "Sie sind Selbstständiger, Helfer oder mitarbeitender Ehepartner im Hauptberuf (oder im Nebenberuf/nach dem Pensionsalter mit denselben vorläufigen Beiträgen wie im Hauptberuf).",
+          "Sie pflegen Ihren Partner, einen Verwandten bis zum 2. Grad oder eine bei Ihnen gemeldete Person, die schwer krank oder palliativ ist, oder Ihr behindertes Kind unter 25.",
+          "Sie unterbrechen Ihre Tätigkeit mindestens einen Monat (ganz oder um mindestens 50 %) und haben Ihre Beiträge der 2 vorigen Quartale gezahlt; nicht zusammen mit einer Unterbrechungszulage des LfA für ähnliche Pflege."
+        ]
+      }
+    }
   }
 ]
