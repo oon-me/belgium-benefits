@@ -61,12 +61,22 @@
     "2957": 163,
     "2958": 164,
     "2962": 162,
+    "2965": 171,
+    "2966": 171,
+    "2968": 170,
     "2971": 124,
     "2972": 125,
+    "2974": 173,
+    "2977": 180,
+    "2980": 178,
+    "2984": 174,
+    "2985": 176,
+    "2987": 175,
     "2988": 169,
     "2995": 141,
     "2997": 121,
     "3008": 168,
+    "3013": 181,
     "3016": 89,
     "3034": 118,
     "3036": 118,
@@ -82,6 +92,8 @@
     "3074": 160,
     "3076": 104,
     "3077": 158,
+    "3079": 179,
+    "3080": 177,
     "3087": 159,
     "3099": 115,
     "3100": 155,
@@ -97,6 +109,7 @@
     "75001": 130,
     "75018": 93,
     "75067": 136,
+    "75762": 172,
     "77094": 27
   },
   "queue": [
@@ -125,15 +138,6 @@
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/professionals/individuele-zorgverleners/tandartsen/verstrekkingen-kostprijs-en-terugbetaling/het-mondzorgtraject"
-      ]
-    },
-    {
-      "nr": "2968",
-      "name": "Forfaitaire tegemoetkoming voor thuispatiënten in een persisterende vegetatieve status",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/forfait-voor-thuispatienten-in-een-persisterende-vegetatieve-status"
       ]
     },
     {
@@ -271,15 +275,6 @@
       ]
     },
     {
-      "nr": "2985",
-      "name": "Tegemoetkoming in de kosten van chronische mechanische ademhalingsondersteuning thuis voor sommige obese patiënten",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/obesity-hypoventilation-syndrome-ohs"
-      ]
-    },
-    {
       "nr": "3007",
       "name": "Tegemoetkoming in de kosten van de behandeling van zeldzame erfelijke monogene metabole ziekten in een gespecialiseerd centrum",
       "level": "Federaal",
@@ -298,39 +293,12 @@
       ]
     },
     {
-      "nr": "3079",
-      "name": "Tegemoetkoming in de kosten van een begeleiding in een gespecialiseerd centrum voor transgenderzorg",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/transgenderzorg-onze-tegemoetkoming-in-de-kosten-van-een-begeleiding-in-een-gespecialiseerd-centrum"
-      ]
-    },
-    {
-      "nr": "3013",
-      "name": "Tegemoetkoming in de kosten van een behandeling in een hartrevalidatiecentrum",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/hartziekten"
-      ]
-    },
-    {
       "nr": "2989",
       "name": "Tegemoetkoming in de kosten van een revalidatie in een gespecialiseerd centrum bij ernstige chronische ademhalingsstoornissen",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/verzorging-in-een-revalidatiecentrum"
-      ]
-    },
-    {
-      "nr": "2987",
-      "name": "Tegemoetkoming in de kosten van een thuisbehandeling bij het slaapapneusyndroom",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/obstructief-slaapapneesyndroom-osas"
       ]
     },
     {
@@ -349,24 +317,6 @@
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-van-het-gebruik-van-geavanceerde-of-dure-technologieen-in-een-gespecialiseerd-centrum"
-      ]
-    },
-    {
-      "nr": "2984",
-      "name": "Tegemoetkoming in de kosten van langdurige zuurstoftherapie thuis",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/langdurige-zuurstoftherapie"
-      ]
-    },
-    {
-      "nr": "2980",
-      "name": "Tegemoetkoming in de kosten van psychosociale ondersteuning en de mogelijkheid tot autopsie bij het onverklaard overlijden van jonge kinderen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/onverklaard-overlijden-van-jonge-kinderen"
       ]
     },
     {
@@ -478,15 +428,6 @@
       ]
     },
     {
-      "nr": "2977",
-      "name": "Tegemoetkoming in de kosten voor opvolgingsonderzoeken in gespecialiseerde centra voor prematuur geboren kinderen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/opvolging-van-prematuur-geboren-kinderen"
-      ]
-    },
-    {
       "nr": "3003",
       "name": "Tegemoetkoming in de kosten voor zorg verstrekt in een gespecialiseerd centrum aan diabetespatiënten met voetwonden",
       "level": "Federaal",
@@ -496,57 +437,12 @@
       ]
     },
     {
-      "nr": "2966",
-      "name": "Tegemoetkoming in de prijs van armkousen en handschoenen wegens lymfoedeem",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/armkousen-en-handschoenen-wegens-lymfoedeem"
-      ]
-    },
-    {
       "nr": "3020",
       "name": "Tegemoetkoming in de prijs van de behandeling door gespecialiseerde centra voor kinderen en adolescenten die een neurologische stoornis gekoppeld aan een psychiatrische stoornis hebben",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/kinderen-en-adolescenten-neurologische-stoornissen-gekoppeld-aan-psychiatrische-stoornissen"
-      ]
-    },
-    {
-      "nr": "3080",
-      "name": "Tegemoetkoming in de prijs van de hulp door centra voor medische en psychosociale begeleiding bij ongewenste zwangerschap",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/ongewenste-zwangerschap"
-      ]
-    },
-    {
-      "nr": "75762",
-      "name": "Tegemoetkoming in de prijs van externe borstprothesen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-externe-borstprothesen"
-      ]
-    },
-    {
-      "nr": "2965",
-      "name": "Tegemoetkoming in de prijs van steunkousen voor mensen met lymfoedeem of chronische veneuze aandoeningen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/prijs-van-steunkousen"
-      ]
-    },
-    {
-      "nr": "2974",
-      "name": "Tegemoetkoming in de reiskosten voor kinderen opgevolgd in een revalidatiecentrum",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/reiskosten-kinderen-in-centrum"
       ]
     },
     {

@@ -21049,5 +21049,1342 @@
         ]
       }
     }
+  },
+  {
+    "id": 170,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/forfait-voor-thuispatienten-in-een-persisterende-vegetatieve-status",
+    "content": {
+      "en": {
+        "title": "Lump Sum for Home Patients in a Persistent Vegetative State",
+        "desc": "Patients in a persistent vegetative or minimally conscious state after acquired brain injury and coma who are cared for at home get a yearly lump sum from health insurance for medicines, care products and aids.",
+        "deadline": "The right opens once the responsible doctor of the expert hospital centre sends the medical notification to the health fund.",
+        "amount": "€10,833.30 a year (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical notification from the responsible doctor of the expert hospital centre"
+          }
+        ],
+        "steps": [
+          "The responsible doctor of the expert hospital centre fills in the medical notification",
+          "The doctor sends it to the patient's health fund",
+          "The health fund pays the yearly lump sum while the patient is cared for at home"
+        ]
+      },
+      "nl": {
+        "title": "Forfait voor thuispatiënten in een persisterende vegetatieve status",
+        "desc": "Patiënten in een persisterende vegetatieve of minimaal responsieve status na een niet-aangeboren hersenletsel en coma, die thuis verzorgd worden, krijgen van de ziekteverzekering een jaarlijks forfait voor geneesmiddelen, verzorgingsmiddelen en hulpmiddelen.",
+        "deadline": "Het recht opent zodra de verantwoordelijke arts van het deskundig ziekenhuiscentrum de medische kennisgeving aan het ziekenfonds bezorgt.",
+        "amount": "€10.833,30 per jaar (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medische kennisgeving van de verantwoordelijke arts van het deskundig ziekenhuiscentrum"
+          }
+        ],
+        "steps": [
+          "De verantwoordelijke arts van het deskundig ziekenhuiscentrum vult de medische kennisgeving in",
+          "De arts bezorgt ze aan het ziekenfonds van de patiënt",
+          "Het ziekenfonds betaalt het jaarlijks forfait zolang de patiënt thuis verzorgd wordt"
+        ]
+      },
+      "fr": {
+        "title": "Forfait pour patients à domicile en état végétatif persistant",
+        "desc": "Les patients en état végétatif persistant ou pauci-relationnel après une lésion cérébrale acquise et un coma, soignés à domicile, reçoivent de l'assurance soins de santé un forfait annuel pour les médicaments, produits de soins et aides.",
+        "deadline": "Le droit s'ouvre dès que le médecin responsable du centre hospitalier expert envoie la notification médicale à la mutualité.",
+        "amount": "10.833,30 € par an (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notification médicale du médecin responsable du centre hospitalier expert"
+          }
+        ],
+        "steps": [
+          "Le médecin responsable du centre hospitalier expert remplit la notification médicale",
+          "Il l'envoie à la mutualité du patient",
+          "La mutualité verse le forfait annuel tant que le patient est soigné à domicile"
+        ]
+      },
+      "de": {
+        "title": "Pauschale für Patienten im anhaltenden vegetativen Zustand zu Hause",
+        "desc": "Patienten im anhaltenden vegetativen oder minimal bewussten Zustand nach erworbener Hirnschädigung und Koma, die zu Hause gepflegt werden, erhalten von der Krankenversicherung eine jährliche Pauschale für Arzneimittel, Pflegeprodukte und Hilfsmittel.",
+        "deadline": "Der Anspruch beginnt, sobald der verantwortliche Arzt des fachkundigen Krankenhauszentrums die ärztliche Mitteilung an die Krankenkasse schickt.",
+        "amount": "10.833,30 € pro Jahr (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Mitteilung des verantwortlichen Arztes des fachkundigen Krankenhauszentrums"
+          }
+        ],
+        "steps": [
+          "Der verantwortliche Arzt des fachkundigen Krankenhauszentrums füllt die ärztliche Mitteilung aus",
+          "Er schickt sie an die Krankenkasse des Patienten",
+          "Die Krankenkasse zahlt die jährliche Pauschale, solange der Patient zu Hause gepflegt wird"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/forfait-voor-thuispatienten-in-een-persisterende-vegetatieve-status",
+      "conditions": {
+        "en": [
+          "The patient suffered acquired brain injury followed by coma, and remains in a persistent vegetative or minimally conscious state.",
+          "The patient is cared for at home, and the expert hospital centre's doctor has sent the medical notification."
+        ],
+        "nl": [
+          "De patiënt liep een niet-aangeboren hersenletsel op, gevolgd door coma, en blijft in een persisterende vegetatieve of minimaal responsieve status.",
+          "De patiënt wordt thuis verzorgd, en de arts van het deskundig ziekenhuiscentrum heeft de medische kennisgeving bezorgd."
+        ],
+        "fr": [
+          "Le patient a subi une lésion cérébrale acquise suivie d'un coma et reste en état végétatif persistant ou pauci-relationnel.",
+          "Le patient est soigné à domicile, et le médecin du centre hospitalier expert a envoyé la notification médicale."
+        ],
+        "de": [
+          "Der Patient hat eine erworbene Hirnschädigung mit anschließendem Koma erlitten und bleibt im anhaltenden vegetativen oder minimal bewussten Zustand.",
+          "Der Patient wird zu Hause gepflegt, und der Arzt des fachkundigen Krankenhauszentrums hat die ärztliche Mitteilung geschickt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 171,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/prijs-van-steunkousen",
+    "content": {
+      "en": {
+        "title": "Compression Stockings, Arm Sleeves and Gloves",
+        "desc": "Health insurance contributes to therapeutic elastic stockings for lymphoedema or chronic venous disease, and to arm sleeves and gloves for lymphoedema or vascular malformation, ready-made or made to measure. Per calendar year: up to 4 stockings per treated leg for lymphoedema, 2 for venous disease, and a set combination of sleeves and gloves per treated limb.",
+        "deadline": "Buy them from a recognised orthopaedic technologist and send the documents to your health fund afterwards. Made-to-measure sleeves or gloves need the advisory doctor's approval first.",
+        "amount": "A fixed contribution per item; it is higher with a conventioned provider",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical prescription (annex 94A for stockings, 94B for sleeves and gloves)"
+          },
+          {
+            "type": "doc",
+            "label": "Delivery certificate (annex 13) from the orthopaedic technologist"
+          }
+        ],
+        "steps": [
+          "See your doctor (for a first prescription for lymphoedema: one of the specialists listed by RIZIV)",
+          "Buy products on the RIZIV list from a recognised orthopaedic technologist",
+          "The technologist delivers them and gives you a delivery certificate",
+          "Send the prescription and certificate to your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Steunkousen, armkousen en handschoenen",
+        "desc": "De ziekteverzekering komt tegemoet in therapeutische elastische steunkousen bij lymfoedeem of chronische veneuze aandoeningen, en in armkousen en handschoenen bij lymfoedeem of vasculaire malformatie, pasklaar of op maat. Per kalenderjaar: maximaal 4 kousen per behandeld been bij lymfoedeem, 2 bij veneuze aandoeningen, en een vaste combinatie armkousen en handschoenen per behandeld lidmaat.",
+        "deadline": "Koop ze bij een erkende orthopedisch technoloog en stuur daarna de documenten naar je ziekenfonds. Armkousen of handschoenen op maat hebben eerst een akkoord van de adviserend arts nodig.",
+        "amount": "Een vaste tegemoetkoming per stuk; hoger bij een geconventioneerde verstrekker",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch voorschrift (bijlage 94A voor steunkousen, 94B voor armkousen en handschoenen)"
+          },
+          {
+            "type": "doc",
+            "label": "Getuigschrift van aflevering (bijlage 13) van de orthopedisch technoloog"
+          }
+        ],
+        "steps": [
+          "Raadpleeg je arts (voor een eerste voorschrift bij lymfoedeem: een van de door het RIZIV vermelde specialisten)",
+          "Koop producten van de RIZIV-lijst bij een erkende orthopedisch technoloog",
+          "De technoloog levert ze af en geeft je een getuigschrift van aflevering",
+          "Stuur het voorschrift en het getuigschrift naar je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Bas de contention, manchons et gants",
+        "desc": "L'assurance soins de santé intervient dans les bas élastiques thérapeutiques en cas de lymphœdème ou d'affection veineuse chronique, et dans les manchons et gants en cas de lymphœdème ou de malformation vasculaire, standard ou sur mesure. Par année civile : jusqu'à 4 bas par jambe traitée pour un lymphœdème, 2 pour une affection veineuse, et une combinaison fixe de manchons et gants par membre traité.",
+        "deadline": "Achetez-les chez un technologue orthopédique agréé, puis envoyez les documents à votre mutualité. Les manchons ou gants sur mesure nécessitent d'abord l'accord du médecin-conseil.",
+        "amount": "Une intervention fixe par pièce ; plus élevée chez un prestataire conventionné",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription médicale (annexe 94A pour les bas, 94B pour manchons et gants)"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de délivrance (annexe 13) du technologue orthopédique"
+          }
+        ],
+        "steps": [
+          "Consultez votre médecin (pour une première prescription en cas de lymphœdème : l'un des spécialistes cités par l'INAMI)",
+          "Achetez des produits de la liste INAMI chez un technologue orthopédique agréé",
+          "Le technologue les délivre et vous remet une attestation de délivrance",
+          "Envoyez la prescription et l'attestation à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Kompressionsstrümpfe, Armstrümpfe und Handschuhe",
+        "desc": "Die Krankenversicherung beteiligt sich an therapeutischen Kompressionsstrümpfen bei Lymphödem oder chronischer Venenerkrankung und an Armstrümpfen und Handschuhen bei Lymphödem oder Gefäßfehlbildung, konfektioniert oder nach Maß. Pro Kalenderjahr: bis zu 4 Strümpfe je behandeltem Bein bei Lymphödem, 2 bei Venenerkrankung und eine feste Kombination aus Armstrümpfen und Handschuhen je behandelter Gliedmaße.",
+        "deadline": "Kaufen Sie sie bei einem anerkannten Orthopädietechniker und schicken Sie danach die Unterlagen an Ihre Krankenkasse. Maßgefertigte Armstrümpfe oder Handschuhe brauchen vorher die Zustimmung des beratenden Arztes.",
+        "amount": "Ein fester Zuschuss pro Stück; höher bei einem vertragsgebundenen Anbieter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Verordnung (Anlage 94A für Strümpfe, 94B für Armstrümpfe und Handschuhe)"
+          },
+          {
+            "type": "doc",
+            "label": "Lieferbescheinigung (Anlage 13) des Orthopädietechnikers"
+          }
+        ],
+        "steps": [
+          "Gehen Sie zu Ihrem Arzt (für eine erste Verordnung bei Lymphödem: einer der vom LIKIV genannten Fachärzte)",
+          "Kaufen Sie Produkte von der LIKIV-Liste bei einem anerkannten Orthopädietechniker",
+          "Der Techniker liefert sie und gibt Ihnen eine Lieferbescheinigung",
+          "Schicken Sie Verordnung und Bescheinigung an Ihre Krankenkasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/prijs-van-steunkousen",
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/armkousen-en-handschoenen-wegens-lymfoedeem"
+      ],
+      "conditions": {
+        "en": [
+          "Stockings: you have lymphoedema (after groin or pelvic lymph node removal or groin radiotherapy, chronic primary hereditary lymphoedema, or congenital vascular malformation) or a chronic venous condition (preventing recurring venous ulcers, proven deep vein thrombosis or post-thrombotic syndrome), with compression class III or IV (class II also before age 15 for lymphoedema).",
+          "Arm sleeves and gloves: you have lymphoedema or a vascular malformation, prescribed by one of the specialists listed by RIZIV.",
+          "The products are on the RIZIV list (or made to measure) and bought from a recognised orthopaedic technologist."
+        ],
+        "nl": [
+          "Steunkousen: je hebt lymfoedeem (na lies- of bekkenklieruitruiming of bestraling van de liesstreek, chronisch primair erfelijk lymfoedeem, of congenitale vasculaire malformatie) of een chronische veneuze aandoening (preventie van recidief veneuze ulcera, geobjectiveerde diepe veneuze trombose of posttrombotisch syndroom), met compressieklasse III of IV (vóór je 15e bij lymfoedeem ook klasse II).",
+          "Armkousen en handschoenen: je hebt lymfoedeem of vasculaire malformatie, voorgeschreven door een van de door het RIZIV vermelde specialisten.",
+          "De producten staan op de RIZIV-lijst (of zijn op maat) en zijn gekocht bij een erkende orthopedisch technoloog."
+        ],
+        "fr": [
+          "Bas : vous avez un lymphœdème (après curage ganglionnaire inguinal ou pelvien ou radiothérapie de l'aine, lymphœdème primaire héréditaire chronique, ou malformation vasculaire congénitale) ou une affection veineuse chronique (prévention de récidive d'ulcères veineux, thrombose veineuse profonde ou syndrome post-thrombotique objectivés), en classe de compression III ou IV (classe II aussi avant 15 ans pour un lymphœdème).",
+          "Manchons et gants : vous avez un lymphœdème ou une malformation vasculaire, sur prescription de l'un des spécialistes cités par l'INAMI.",
+          "Les produits figurent sur la liste de l'INAMI (ou sont sur mesure) et sont achetés chez un technologue orthopédique agréé."
+        ],
+        "de": [
+          "Strümpfe: Sie haben ein Lymphödem (nach Leisten- oder Beckenlymphknotenentfernung oder Leistenbestrahlung, chronisches primär erbliches Lymphödem oder angeborene Gefäßfehlbildung) oder eine chronische Venenerkrankung (Vorbeugung wiederkehrender Venengeschwüre, nachgewiesene tiefe Venenthrombose oder postthrombotisches Syndrom), mit Kompressionsklasse III oder IV (bei Lymphödem vor 15 auch Klasse II).",
+          "Armstrümpfe und Handschuhe: Sie haben ein Lymphödem oder eine Gefäßfehlbildung, verordnet von einem der vom LIKIV genannten Fachärzte.",
+          "Die Produkte stehen auf der LIKIV-Liste (oder sind maßgefertigt) und wurden bei einem anerkannten Orthopädietechniker gekauft."
+        ]
+      }
+    }
+  },
+  {
+    "id": 172,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-externe-borstprothesen",
+    "content": {
+      "en": {
+        "title": "External Breast Prostheses",
+        "desc": "After a partial or total mastectomy, or with unilateral breast agenesis, health insurance contributes to external breast prostheses: post-operative fitting (up to 6 weeks after surgery), temporary fitting (from week 7) and definitive fitting (1 year after the temporary one, renewable every 2 years).",
+        "deadline": "Buy from a recognised orthopaedic technologist on a doctor's prescription; definitive fitting is renewable every 2 years.",
+        "amount": "A fixed contribution per prosthesis; it is higher with a conventioned provider",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical prescription"
+          },
+          {
+            "type": "doc",
+            "label": "Delivery certificate (annex 13) from the orthopaedic technologist"
+          }
+        ],
+        "steps": [
+          "Ask your doctor for a prescription",
+          "Choose a prosthesis on the RIZIV list with a recognised orthopaedic technologist",
+          "The technologist delivers it and gives you a delivery certificate",
+          "Hand the prescription and certificate to your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Externe borstprothesen",
+        "desc": "Na een gedeeltelijke of totale mammectomie, of bij unilaterale agenesie van de borst, komt de ziekteverzekering tegemoet in externe borstprothesen: postoperatieve toerusting (tot 6 weken na de ingreep), voorlopige toerusting (vanaf week 7) en definitieve toerusting (1 jaar na de voorlopige, hernieuwbaar na 2 jaar).",
+        "deadline": "Koop bij een erkende orthopedisch technoloog op voorschrift van een arts; de definitieve toerusting is elke 2 jaar hernieuwbaar.",
+        "amount": "Een vaste tegemoetkoming per prothese; hoger bij een geconventioneerde verstrekker",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch voorschrift"
+          },
+          {
+            "type": "doc",
+            "label": "Getuigschrift van aflevering (bijlage 13) van de orthopedisch technoloog"
+          }
+        ],
+        "steps": [
+          "Vraag je arts om een voorschrift",
+          "Kies met een erkende orthopedisch technoloog een prothese van de RIZIV-lijst",
+          "De technoloog levert ze af en geeft je een getuigschrift van aflevering",
+          "Bezorg het voorschrift en het getuigschrift aan je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Prothèses mammaires externes",
+        "desc": "Après une mastectomie partielle ou totale, ou en cas d'agénésie mammaire unilatérale, l'assurance soins de santé intervient dans les prothèses mammaires externes : équipement post-opératoire (jusqu'à 6 semaines après l'intervention), provisoire (dès la 7e semaine) et définitif (1 an après le provisoire, renouvelable après 2 ans).",
+        "deadline": "Achetez chez un technologue orthopédique agréé sur prescription médicale ; l'équipement définitif est renouvelable tous les 2 ans.",
+        "amount": "Une intervention fixe par prothèse ; plus élevée chez un prestataire conventionné",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription médicale"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de délivrance (annexe 13) du technologue orthopédique"
+          }
+        ],
+        "steps": [
+          "Demandez une prescription à votre médecin",
+          "Choisissez avec un technologue orthopédique agréé une prothèse de la liste de l'INAMI",
+          "Le technologue la délivre et vous remet une attestation de délivrance",
+          "Remettez la prescription et l'attestation à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Externe Brustprothesen",
+        "desc": "Nach einer teilweisen oder vollständigen Mastektomie oder bei einseitiger Brustagenesie beteiligt sich die Krankenversicherung an externen Brustprothesen: postoperative Versorgung (bis 6 Wochen nach dem Eingriff), vorläufige Versorgung (ab Woche 7) und endgültige Versorgung (1 Jahr nach der vorläufigen, nach 2 Jahren erneuerbar).",
+        "deadline": "Kaufen Sie auf ärztliche Verordnung bei einem anerkannten Orthopädietechniker; die endgültige Versorgung ist alle 2 Jahre erneuerbar.",
+        "amount": "Ein fester Zuschuss pro Prothese; höher bei einem vertragsgebundenen Anbieter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Verordnung"
+          },
+          {
+            "type": "doc",
+            "label": "Lieferbescheinigung (Anlage 13) des Orthopädietechnikers"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von Ihrem Arzt eine Verordnung geben",
+          "Wählen Sie mit einem anerkannten Orthopädietechniker eine Prothese von der LIKIV-Liste",
+          "Der Techniker liefert sie und gibt Ihnen eine Lieferbescheinigung",
+          "Geben Sie Verordnung und Bescheinigung Ihrer Krankenkasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/tegemoetkoming-in-de-prijs-van-externe-borstprothesen",
+      "conditions": {
+        "en": [
+          "You had a partial or total mastectomy, or have unilateral breast agenesis.",
+          "A doctor prescribed the prosthesis, which is on the RIZIV list (or made to measure) and bought from a recognised orthopaedic technologist."
+        ],
+        "nl": [
+          "Je onderging een gedeeltelijke of totale mammectomie, of hebt unilaterale agenesie van de borst.",
+          "Een arts schreef de prothese voor, die op de RIZIV-lijst staat (of op maat is) en gekocht is bij een erkende orthopedisch technoloog."
+        ],
+        "fr": [
+          "Vous avez subi une mastectomie partielle ou totale, ou avez une agénésie mammaire unilatérale.",
+          "Un médecin a prescrit la prothèse, qui figure sur la liste de l'INAMI (ou est sur mesure) et est achetée chez un technologue orthopédique agréé."
+        ],
+        "de": [
+          "Sie hatten eine teilweise oder vollständige Mastektomie oder haben eine einseitige Brustagenesie.",
+          "Ein Arzt hat die Prothese verordnet; sie steht auf der LIKIV-Liste (oder ist maßgefertigt) und wurde bei einem anerkannten Orthopädietechniker gekauft."
+        ]
+      }
+    }
+  },
+  {
+    "id": 173,
+    "category": "health",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/reiskosten-kinderen-in-centrum",
+    "content": {
+      "en": {
+        "title": "Travel Costs for Children in a Rehabilitation Centre",
+        "desc": "Children under 18 followed in a rehabilitation centre with a RIZIV agreement (for example for cystic fibrosis, neuromuscular disease, cerebral palsy, spina bifida, childhood diabetes, kidney disease, haemophilia, rare metabolic disease or follow-up after premature birth) get a contribution towards travel, outward and return.",
+        "deadline": "The centre fills in the travel cost form; your health fund pays on that basis.",
+        "amount": "€0.37 per km, there and back, based on the real distance from home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Travel cost form filled in by the rehabilitation centre"
+          }
+        ],
+        "steps": [
+          "Ask the rehabilitation centre for the travel cost form",
+          "The centre fills it in",
+          "Your health fund pays the contribution based on that form"
+        ]
+      },
+      "nl": {
+        "title": "Reiskosten voor kinderen in een revalidatiecentrum",
+        "desc": "Kinderen jonger dan 18 die opgevolgd worden in een revalidatiecentrum met een RIZIV-overeenkomst (bijvoorbeeld voor mucoviscidose, neuromusculaire ziekten, cerebral palsy, spina bifida, diabetes bij kinderen, nierziekten, hemofilie, zeldzame metabole ziekten of opvolging na vroeggeboorte) krijgen een tegemoetkoming in de reiskosten, heen en terug.",
+        "deadline": "Het centrum vult het formulier reiskosten in; je ziekenfonds betaalt op basis daarvan.",
+        "amount": "€0,37 per km, heen en terug, volgens de werkelijke afstand vanaf thuis",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier reiskosten ingevuld door het revalidatiecentrum"
+          }
+        ],
+        "steps": [
+          "Vraag het revalidatiecentrum om het formulier reiskosten",
+          "Het centrum vult het in",
+          "Je ziekenfonds betaalt de tegemoetkoming op basis van dat formulier"
+        ]
+      },
+      "fr": {
+        "title": "Frais de voyage pour enfants suivis en centre de rééducation",
+        "desc": "Les enfants de moins de 18 ans suivis dans un centre de rééducation conventionné avec l'INAMI (par exemple pour mucoviscidose, maladie neuromusculaire, IMC, spina bifida, diabète de l'enfant, maladie rénale, hémophilie, maladie métabolique rare ou suivi après naissance prématurée) reçoivent une intervention dans les frais de voyage, aller et retour.",
+        "deadline": "Le centre remplit le formulaire frais de voyage ; votre mutualité paie sur cette base.",
+        "amount": "0,37 € par km, aller et retour, selon la distance réelle depuis le domicile",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire frais de voyage rempli par le centre de rééducation"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire frais de voyage au centre de rééducation",
+          "Le centre le remplit",
+          "Votre mutualité verse l'intervention sur la base de ce formulaire"
+        ]
+      },
+      "de": {
+        "title": "Reisekosten für Kinder in einem Rehabilitationszentrum",
+        "desc": "Kinder unter 18, die in einem Rehabilitationszentrum mit LIKIV-Vereinbarung betreut werden (etwa bei Mukoviszidose, neuromuskulären Erkrankungen, Zerebralparese, Spina bifida, Kinderdiabetes, Nierenerkrankungen, Hämophilie, seltenen Stoffwechselkrankheiten oder Nachsorge nach Frühgeburt), erhalten einen Zuschuss zu den Reisekosten, Hin- und Rückfahrt.",
+        "deadline": "Das Zentrum füllt das Reisekostenformular aus; Ihre Krankenkasse zahlt auf dieser Grundlage.",
+        "amount": "0,37 € pro km, hin und zurück, nach tatsächlicher Entfernung vom Wohnort",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Reisekostenformular, vom Rehabilitationszentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Fragen Sie das Rehabilitationszentrum nach dem Reisekostenformular",
+          "Das Zentrum füllt es aus",
+          "Ihre Krankenkasse zahlt den Zuschuss auf Grundlage dieses Formulars"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/reiskosten-kinderen-in-centrum",
+      "conditions": {
+        "en": [
+          "The child is under 18.",
+          "The child is followed in a rehabilitation centre that has one of the RIZIV agreements listed on the official page."
+        ],
+        "nl": [
+          "Het kind is jonger dan 18 jaar.",
+          "Het kind wordt opgevolgd in een revalidatiecentrum met een van de RIZIV-overeenkomsten die op de officiële pagina staan."
+        ],
+        "fr": [
+          "L'enfant a moins de 18 ans.",
+          "L'enfant est suivi dans un centre de rééducation ayant l'une des conventions INAMI citées sur la page officielle."
+        ],
+        "de": [
+          "Das Kind ist unter 18 Jahre alt.",
+          "Das Kind wird in einem Rehabilitationszentrum mit einer der auf der offiziellen Seite genannten LIKIV-Vereinbarungen betreut."
+        ]
+      }
+    }
+  },
+  {
+    "id": 174,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/langdurige-zuurstoftherapie",
+    "content": {
+      "en": {
+        "title": "Long-Term Oxygen Therapy at Home",
+        "desc": "If you have a respiratory disease and need extra oxygen long term, a specialised centre can provide, install and maintain an oxygen device at home, supply liquid oxygen if needed, and train you. If the device uses a lot of electricity, your health fund also pays an electricity allowance four times a year.",
+        "deadline": "The centre applies to your health fund; treatment starts after approval.",
+        "amount": "No personal share for the treatment; electricity allowance €1 a day (€0.50 for a portable concentrator only)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form and medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on the RIZIV list",
+          "The centre checks whether you meet the conditions",
+          "The centre fills in the application form, adds a medical report and sends both to your health fund",
+          "Once your health fund agrees, the centre starts the treatment"
+        ]
+      },
+      "nl": {
+        "title": "Langdurige zuurstoftherapie thuis",
+        "desc": "Heb je een ademhalingsziekte en heb je langdurig extra zuurstof nodig, dan kan een gespecialiseerd centrum je thuis een zuurstoftoestel bezorgen, installeren en onderhouden, zo nodig vloeibare zuurstof leveren en je ermee leren werken. Verbruikt het toestel veel elektriciteit, dan betaalt je ziekenfonds ook vier keer per jaar een tegemoetkoming in de elektriciteitskosten.",
+        "deadline": "Het centrum dient de aanvraag in bij je ziekenfonds; de behandeling start na akkoord.",
+        "amount": "Geen remgeld voor de behandeling; elektriciteit €1 per dag (€0,50 bij enkel een draagbare concentrator)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier en medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum gaat na of je aan de voorwaarden voldoet",
+          "Het centrum vult het aanvraagformulier in, voegt een medisch verslag toe en bezorgt beide aan je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum de behandeling"
+        ]
+      },
+      "fr": {
+        "title": "Oxygénothérapie de longue durée à domicile",
+        "desc": "Si vous avez une maladie respiratoire et besoin d'oxygène supplémentaire à long terme, un centre spécialisé peut fournir, installer et entretenir un appareil à oxygène chez vous, livrer de l'oxygène liquide si nécessaire et vous former. Si l'appareil consomme beaucoup d'électricité, votre mutualité verse aussi une intervention dans les frais d'électricité quatre fois par an.",
+        "deadline": "Le centre introduit la demande auprès de votre mutualité ; le traitement commence après accord.",
+        "amount": "Pas de ticket modérateur pour le traitement ; électricité 1 € par jour (0,50 € avec un concentrateur portable seul)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande et rapport médical, remplis par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie si vous remplissez les conditions",
+          "Le centre remplit le formulaire de demande, y joint un rapport médical et envoie le tout à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence le traitement"
+        ]
+      },
+      "de": {
+        "title": "Langzeit-Sauerstofftherapie zu Hause",
+        "desc": "Haben Sie eine Atemwegserkrankung und brauchen langfristig zusätzlichen Sauerstoff, kann ein Fachzentrum Ihnen zu Hause ein Sauerstoffgerät stellen, installieren und warten, bei Bedarf Flüssigsauerstoff liefern und Sie schulen. Verbraucht das Gerät viel Strom, zahlt Ihre Krankenkasse viermal im Jahr auch einen Stromkostenzuschuss.",
+        "deadline": "Das Zentrum stellt den Antrag bei Ihrer Krankenkasse; die Behandlung beginnt nach Zustimmung.",
+        "amount": "Kein Eigenanteil für die Behandlung; Strom 1 € pro Tag (0,50 € nur mit tragbarem Konzentrator)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular und ärztlicher Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft, ob Sie die Bedingungen erfüllen",
+          "Das Zentrum füllt das Antragsformular aus, fügt einen ärztlichen Bericht bei und schickt beides an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum die Behandlung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/langdurige-zuurstoftherapie",
+      "conditions": {
+        "en": [
+          "You have a respiratory disease and need long-term oxygen therapy at home.",
+          "You meet the RIZIV medical conditions for the device concerned, as checked by a specialised centre, and your health fund approves. (Palliative patients with hypoxaemia and people with cluster headache fall under other rules.)"
+        ],
+        "nl": [
+          "Je hebt een ademhalingsziekte en hebt langdurige zuurstoftherapie thuis nodig.",
+          "Je voldoet aan de medische voorwaarden van het RIZIV voor het betrokken toestel, nagegaan door een gespecialiseerd centrum, en je ziekenfonds gaat akkoord. (Palliatieve patiënten met hypoxemie en mensen met clusterhoofdpijn vallen onder een andere regeling.)"
+        ],
+        "fr": [
+          "Vous avez une maladie respiratoire et avez besoin d'une oxygénothérapie de longue durée à domicile.",
+          "Vous remplissez les conditions médicales de l'INAMI pour l'appareil concerné, vérifiées par un centre spécialisé, et votre mutualité donne son accord. (Les patients palliatifs hypoxémiques et les personnes souffrant d'algie vasculaire de la face relèvent d'autres règles.)"
+        ],
+        "de": [
+          "Sie haben eine Atemwegserkrankung und brauchen eine Langzeit-Sauerstofftherapie zu Hause.",
+          "Sie erfüllen die medizinischen LIKIV-Bedingungen für das betreffende Gerät, geprüft von einem Fachzentrum, und Ihre Krankenkasse stimmt zu. (Palliativpatienten mit Hypoxämie und Menschen mit Clusterkopfschmerz fallen unter andere Regeln.)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 175,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/obstructief-slaapapneesyndroom-osas",
+    "content": {
+      "en": {
+        "title": "Sleep Apnoea Treatment at Home (CPAP or Mandibular Device)",
+        "desc": "With obstructive or central sleep apnoea confirmed by a sleep study, a specialised centre can provide an nCPAP or auto-CPAP device, or (for obstructive apnoea, from 18) a custom mandibular repositioning device, and maintain it. Treatment stops if you use it less than 4 hours a night on average after a warning.",
+        "deadline": "The centre applies to your health fund; treatment starts after approval.",
+        "amount": "CPAP: €0.25 a day personal share; nothing with increased reimbursement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form and medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on the RIZIV list",
+          "The centre checks whether you meet the conditions",
+          "The centre fills in the application form, adds a medical report and sends both to your health fund",
+          "Once your health fund agrees, the centre starts the treatment"
+        ]
+      },
+      "nl": {
+        "title": "Slaapapneu: thuisbehandeling met CPAP of mandibulair apparaat",
+        "desc": "Bij obstructieve of centrale slaapapneu, bevestigd door een slaaponderzoek, kan een gespecialiseerd centrum je een nCPAP- of auto-CPAP-toestel geven, of (bij obstructieve apneu, vanaf 18) een mandibulair repositieapparaat op maat, en het onderhouden. De behandeling stopt als je het na een waarschuwing gemiddeld minder dan 4 uur per nacht gebruikt.",
+        "deadline": "Het centrum dient de aanvraag in bij je ziekenfonds; de behandeling start na akkoord.",
+        "amount": "CPAP: €0,25 remgeld per dag; niets met verhoogde tegemoetkoming",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier en medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum gaat na of je aan de voorwaarden voldoet",
+          "Het centrum vult het aanvraagformulier in, voegt een medisch verslag toe en bezorgt beide aan je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum de behandeling"
+        ]
+      },
+      "fr": {
+        "title": "Apnée du sommeil : traitement à domicile par CPAP ou orthèse mandibulaire",
+        "desc": "En cas d'apnée du sommeil obstructive ou centrale confirmée par une polysomnographie, un centre spécialisé peut fournir un appareil nCPAP ou auto-CPAP ou (pour l'apnée obstructive, dès 18 ans) une orthèse d'avancée mandibulaire sur mesure, et l'entretenir. Le traitement s'arrête si, après un avertissement, vous l'utilisez moins de 4 heures par nuit en moyenne.",
+        "deadline": "Le centre introduit la demande auprès de votre mutualité ; le traitement commence après accord.",
+        "amount": "CPAP : ticket modérateur de 0,25 € par jour ; rien avec l'intervention majorée",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande et rapport médical, remplis par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie si vous remplissez les conditions",
+          "Le centre remplit le formulaire de demande, y joint un rapport médical et envoie le tout à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence le traitement"
+        ]
+      },
+      "de": {
+        "title": "Schlafapnoe: Behandlung zu Hause mit CPAP oder Unterkieferschiene",
+        "desc": "Bei obstruktiver oder zentraler Schlafapnoe, durch eine Schlafuntersuchung bestätigt, kann ein Fachzentrum Ihnen ein nCPAP- oder Auto-CPAP-Gerät oder (bei obstruktiver Apnoe, ab 18) eine maßgefertigte Unterkieferprotrusionsschiene stellen und warten. Die Behandlung endet, wenn Sie das Gerät nach einer Warnung im Schnitt weniger als 4 Stunden pro Nacht nutzen.",
+        "deadline": "Das Zentrum stellt den Antrag bei Ihrer Krankenkasse; die Behandlung beginnt nach Zustimmung.",
+        "amount": "CPAP: 0,25 € Eigenanteil pro Tag; nichts mit erhöhter Beteiligung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular und ärztlicher Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft, ob Sie die Bedingungen erfüllen",
+          "Das Zentrum füllt das Antragsformular aus, fügt einen ärztlichen Bericht bei und schickt beides an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum die Behandlung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/obstructief-slaapapneesyndroom-osas",
+      "conditions": {
+        "en": [
+          "You have obstructive or central sleep apnoea confirmed by a sleep study (polysomnography) reaching the values RIZIV sets for your age.",
+          "For CPAP, a second sleep study (or home test) shows the device improves your breathing. For a mandibular device: obstructive apnoea, aged 18 or over, and the centre's ENT doctor and dentist find you suitable.",
+          "The treatment is the best option for you, and your health fund approves."
+        ],
+        "nl": [
+          "Je hebt obstructieve of centrale slaapapneu, bevestigd door een slaaponderzoek (polysomnografie) dat de waarden haalt die het RIZIV voor je leeftijd vastlegt.",
+          "Voor CPAP toont een 2e slaaponderzoek (of thuistest) aan dat het toestel je ademhaling verbetert. Voor een mandibulair apparaat: obstructieve apneu, 18 jaar of ouder, en de NKO-arts en tandarts van het centrum vinden je geschikt.",
+          "De behandeling is voor jou de best mogelijke, en je ziekenfonds gaat akkoord."
+        ],
+        "fr": [
+          "Vous souffrez d'apnée du sommeil obstructive ou centrale confirmée par une polysomnographie atteignant les valeurs fixées par l'INAMI pour votre âge.",
+          "Pour la CPAP, une 2e étude du sommeil (ou un test à domicile) montre que l'appareil améliore votre respiration. Pour une orthèse mandibulaire : apnée obstructive, 18 ans ou plus, et l'ORL et le dentiste du centre vous jugent apte.",
+          "Le traitement est la meilleure option pour vous, et votre mutualité donne son accord."
+        ],
+        "de": [
+          "Sie haben eine obstruktive oder zentrale Schlafapnoe, bestätigt durch eine Polysomnographie mit den vom LIKIV für Ihr Alter festgelegten Werten.",
+          "Für CPAP zeigt eine 2. Schlafuntersuchung (oder ein Heimtest), dass das Gerät Ihre Atmung verbessert. Für eine Unterkieferschiene: obstruktive Apnoe, ab 18 Jahren, und HNO-Arzt und Zahnarzt des Zentrums halten Sie für geeignet.",
+          "Die Behandlung ist für Sie die bestmögliche, und Ihre Krankenkasse stimmt zu."
+        ]
+      }
+    }
+  },
+  {
+    "id": 176,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/obesity-hypoventilation-syndrome-ohs",
+    "content": {
+      "en": {
+        "title": "Night-Time Breathing Support for Obesity Hypoventilation Syndrome",
+        "desc": "If you have obesity hypoventilation syndrome (OHS), a specialised centre can provide a BiPAP device for breathing support at night at home, install and maintain it, and train you. At least one hospital stay for a sleep study is needed first.",
+        "deadline": "The centre applies to your health fund; treatment starts after approval.",
+        "amount": "No personal share for the device; you pay the personal share for doctor consultations",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form and medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on the RIZIV list",
+          "The centre checks whether you meet the conditions",
+          "The centre fills in the application form, adds a medical report and sends both to your health fund",
+          "Once your health fund agrees, the centre starts the treatment"
+        ]
+      },
+      "nl": {
+        "title": "Ademhalingsondersteuning 's nachts bij obesity hypoventilation syndrome",
+        "desc": "Heb je het obesity hypoventilation syndrome (OHS), dan kan een gespecialiseerd centrum je thuis een BiPAP-toestel geven voor ademhalingsondersteuning 's nachts, het installeren en onderhouden, en je ermee leren werken. Vooraf is minstens één ziekenhuisopname voor een slaaponderzoek nodig.",
+        "deadline": "Het centrum dient de aanvraag in bij je ziekenfonds; de behandeling start na akkoord.",
+        "amount": "Geen remgeld voor het toestel; je betaalt wel remgeld voor raadplegingen bij de arts",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier en medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum gaat na of je aan de voorwaarden voldoet",
+          "Het centrum vult het aanvraagformulier in, voegt een medisch verslag toe en bezorgt beide aan je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum de behandeling"
+        ]
+      },
+      "fr": {
+        "title": "Assistance respiratoire nocturne en cas de syndrome obésité-hypoventilation",
+        "desc": "Si vous souffrez du syndrome obésité-hypoventilation (OHS), un centre spécialisé peut vous fournir un appareil BiPAP pour l'assistance respiratoire nocturne à domicile, l'installer, l'entretenir et vous former. Au moins une hospitalisation pour une étude du sommeil est nécessaire avant.",
+        "deadline": "Le centre introduit la demande auprès de votre mutualité ; le traitement commence après accord.",
+        "amount": "Pas de ticket modérateur pour l'appareil ; vous payez le ticket modérateur des consultations",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande et rapport médical, remplis par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie si vous remplissez les conditions",
+          "Le centre remplit le formulaire de demande, y joint un rapport médical et envoie le tout à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence le traitement"
+        ]
+      },
+      "de": {
+        "title": "Nächtliche Atemunterstützung bei Obesitas-Hypoventilationssyndrom",
+        "desc": "Haben Sie ein Obesitas-Hypoventilationssyndrom (OHS), kann ein Fachzentrum Ihnen zu Hause ein BiPAP-Gerät zur nächtlichen Atemunterstützung stellen, installieren, warten und Sie schulen. Vorher ist mindestens ein Krankenhausaufenthalt für eine Schlafuntersuchung nötig.",
+        "deadline": "Das Zentrum stellt den Antrag bei Ihrer Krankenkasse; die Behandlung beginnt nach Zustimmung.",
+        "amount": "Kein Eigenanteil für das Gerät; Sie zahlen den Eigenanteil für Arztkonsultationen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular und ärztlicher Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft, ob Sie die Bedingungen erfüllen",
+          "Das Zentrum füllt das Antragsformular aus, fügt einen ärztlichen Bericht bei und schickt beides an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum die Behandlung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/obesity-hypoventilation-syndrome-ohs",
+      "conditions": {
+        "en": [
+          "You have obesity hypoventilation syndrome and meet the RIZIV medical conditions, as checked by a specialised centre after a sleep study in hospital.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je hebt het obesity hypoventilation syndrome en voldoet aan de medische voorwaarden van het RIZIV, nagegaan door een gespecialiseerd centrum na een slaaponderzoek in het ziekenhuis.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous souffrez du syndrome obésité-hypoventilation et remplissez les conditions médicales de l'INAMI, vérifiées par un centre spécialisé après une étude du sommeil à l'hôpital.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie haben ein Obesitas-Hypoventilationssyndrom und erfüllen die medizinischen LIKIV-Bedingungen, geprüft von einem Fachzentrum nach einer Schlafuntersuchung im Krankenhaus.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 177,
+    "category": "health",
+    "situations": [
+      "pregnancy"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/ongewenste-zwangerschap",
+    "content": {
+      "en": {
+        "title": "Support for an Unwanted Pregnancy (Conventioned Centres)",
+        "desc": "If you are unintentionally pregnant, a centre with a RIZIV agreement offers support and medical, psychological and social advice, including on rights for families, adoption and contraception. At your request and if the legal conditions are met, the centre can also end the pregnancy, and provides follow-up care for 28 days afterwards.",
+        "deadline": "By law there are at least 6 days between the first consultation with a centre doctor and the termination, which must happen before the end of the 12th week after conception (later only in certain medical situations).",
+        "amount": "You only pay the outpatient personal share (remgeld)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form and medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact a centre on the RIZIV list of conventioned centres",
+          "The centre checks the conditions, fills in the application with a medical report and sends it to your health fund",
+          "Once your health fund agrees, the centre supports you"
+        ]
+      },
+      "nl": {
+        "title": "Hulp bij een ongewenste zwangerschap (geconventioneerde centra)",
+        "desc": "Ben je ongewenst zwanger, dan biedt een centrum met een RIZIV-overeenkomst steun en medisch, psychologisch en sociaal advies, ook over rechten voor gezinnen, adoptie en anticonceptie. Op jouw vraag en als aan de wettelijke voorwaarden is voldaan, kan het centrum de zwangerschap ook onderbreken, en het biedt tot 28 dagen nadien nazorg.",
+        "deadline": "Wettelijk liggen er minstens 6 dagen tussen de eerste consultatie bij een arts van het centrum en de onderbreking, die vóór het einde van de 12e week na de bevruchting moet plaatsvinden (later enkel in bepaalde medische situaties).",
+        "amount": "Je betaalt enkel het ambulante remgeld",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier en medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een centrum op de RIZIV-lijst van geconventioneerde centra",
+          "Het centrum controleert de voorwaarden, vult de aanvraag met een medisch verslag in en stuurt ze naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, begeleidt het centrum je"
+        ]
+      },
+      "fr": {
+        "title": "Aide en cas de grossesse non désirée (centres conventionnés)",
+        "desc": "Si vous êtes enceinte sans l'avoir souhaité, un centre conventionné avec l'INAMI offre soutien et conseils médicaux, psychologiques et sociaux, y compris sur les droits des familles, l'adoption et la contraception. À votre demande et si les conditions légales sont remplies, le centre peut aussi interrompre la grossesse, et assure un suivi pendant 28 jours après.",
+        "deadline": "La loi impose au moins 6 jours entre la première consultation chez un médecin du centre et l'interruption, qui doit avoir lieu avant la fin de la 12e semaine après la conception (plus tard uniquement dans certaines situations médicales).",
+        "amount": "Vous ne payez que le ticket modérateur ambulatoire",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande et rapport médical, remplis par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez un centre de la liste INAMI des centres conventionnés",
+          "Le centre vérifie les conditions, remplit la demande avec un rapport médical et l'envoie à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre vous accompagne"
+        ]
+      },
+      "de": {
+        "title": "Hilfe bei ungewollter Schwangerschaft (vertragsgebundene Zentren)",
+        "desc": "Sind Sie ungewollt schwanger, bietet ein Zentrum mit LIKIV-Vereinbarung Unterstützung sowie medizinische, psychologische und soziale Beratung, auch zu Familienrechten, Adoption und Verhütung. Auf Ihren Wunsch und wenn die gesetzlichen Bedingungen erfüllt sind, kann das Zentrum die Schwangerschaft auch abbrechen und bietet bis 28 Tage danach Nachsorge.",
+        "deadline": "Gesetzlich liegen mindestens 6 Tage zwischen der ersten Konsultation bei einem Arzt des Zentrums und dem Abbruch, der vor Ende der 12. Woche nach der Empfängnis erfolgen muss (später nur in bestimmten medizinischen Situationen).",
+        "amount": "Sie zahlen nur den ambulanten Eigenanteil",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular und ärztlicher Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an ein Zentrum auf der LIKIV-Liste der vertragsgebundenen Zentren",
+          "Das Zentrum prüft die Bedingungen, füllt den Antrag mit ärztlichem Bericht aus und schickt ihn an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, begleitet Sie das Zentrum"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/ongewenste-zwangerschap",
+      "conditions": {
+        "en": [
+          "You are unintentionally pregnant and insured with a Belgian health fund.",
+          "For a termination: at least 6 days between the first consultation with a centre doctor and the termination (unless an urgent medical reason), and before the end of the 12th week after conception (later only in certain medical situations)."
+        ],
+        "nl": [
+          "Je bent ongewenst zwanger en aangesloten bij een Belgisch ziekenfonds.",
+          "Voor een onderbreking: minstens 6 dagen tussen de eerste consultatie bij een arts van het centrum en de onderbreking (behalve bij een dringende medische reden), en vóór het einde van de 12e week na de bevruchting (later enkel in bepaalde medische situaties)."
+        ],
+        "fr": [
+          "Vous êtes enceinte sans l'avoir souhaité et affiliée à une mutualité belge.",
+          "Pour une interruption : au moins 6 jours entre la première consultation chez un médecin du centre et l'interruption (sauf raison médicale urgente), et avant la fin de la 12e semaine après la conception (plus tard uniquement dans certaines situations médicales)."
+        ],
+        "de": [
+          "Sie sind ungewollt schwanger und bei einer belgischen Krankenkasse versichert.",
+          "Für einen Abbruch: mindestens 6 Tage zwischen der ersten Konsultation bei einem Arzt des Zentrums und dem Abbruch (außer bei dringendem medizinischem Grund) und vor Ende der 12. Woche nach der Empfängnis (später nur in bestimmten medizinischen Situationen)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 178,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/onverklaard-overlijden-van-jonge-kinderen",
+    "content": {
+      "en": {
+        "title": "Support after the Unexplained Death of a Young Child",
+        "desc": "If your child died unexpectedly and for medically unexplained reasons before 18 months of age, a specialised centre offers you and your family psychosocial support in the first acute phase, with a clinical psychologist and a social worker or social health nurse. If you agree, the centre also transports your child and carries out an autopsy to look for the cause.",
+        "deadline": "The centre informs your child's health fund; unless the fund objects, support and autopsy can go ahead.",
+        "amount": "Free: no personal share for the support, the autopsy or the transport",
+        "requirements": [],
+        "steps": [
+          "Contact a specialised centre on the RIZIV list",
+          "The centre checks the conditions and notifies your child's health fund",
+          "The centre offers psychosocial support and, with your consent, carries out the autopsy"
+        ]
+      },
+      "nl": {
+        "title": "Ondersteuning na het onverklaard overlijden van een jong kind",
+        "desc": "Is je kind vóór de leeftijd van 18 maanden onverwacht en om medisch onverklaarbare redenen overleden, dan biedt een gespecialiseerd centrum jou en je familie psychosociale ondersteuning in de eerste acute fase, met een klinisch psycholoog en een maatschappelijk werker of sociaal verpleegkundige. Als je instemt, vervoert het centrum ook je kind en voert het een autopsie uit om de oorzaak te zoeken.",
+        "deadline": "Het centrum brengt het ziekenfonds van je kind op de hoogte; zonder tegenbericht kunnen ondersteuning en autopsie doorgaan.",
+        "amount": "Gratis: geen remgeld voor de ondersteuning, de autopsie of het vervoer",
+        "requirements": [],
+        "steps": [
+          "Neem contact op met een gespecialiseerd centrum op de RIZIV-lijst",
+          "Het centrum controleert de voorwaarden en verwittigt het ziekenfonds van je kind",
+          "Het centrum biedt psychosociale ondersteuning en voert met jouw toestemming de autopsie uit"
+        ]
+      },
+      "fr": {
+        "title": "Soutien après le décès inexpliqué d'un jeune enfant",
+        "desc": "Si votre enfant est décédé de manière inattendue et médicalement inexpliquée avant l'âge de 18 mois, un centre spécialisé vous offre, à vous et à votre famille, un soutien psychosocial dans la première phase aiguë, avec un psychologue clinicien et un assistant social ou infirmier social. Si vous êtes d'accord, le centre assure aussi le transport de l'enfant et pratique une autopsie pour en chercher la cause.",
+        "deadline": "Le centre informe la mutualité de l'enfant ; sauf objection de celle-ci, le soutien et l'autopsie peuvent avoir lieu.",
+        "amount": "Gratuit : pas de ticket modérateur pour le soutien, l'autopsie ni le transport",
+        "requirements": [],
+        "steps": [
+          "Contactez un centre spécialisé de la liste de l'INAMI",
+          "Le centre vérifie les conditions et prévient la mutualité de l'enfant",
+          "Le centre offre le soutien psychosocial et, avec votre accord, pratique l'autopsie"
+        ]
+      },
+      "de": {
+        "title": "Unterstützung nach dem ungeklärten Tod eines Kleinkindes",
+        "desc": "Ist Ihr Kind vor dem Alter von 18 Monaten unerwartet und aus medizinisch ungeklärten Gründen gestorben, bietet ein Fachzentrum Ihnen und Ihrer Familie psychosoziale Unterstützung in der ersten akuten Phase, mit einem klinischen Psychologen und einem Sozialarbeiter oder Sozialpfleger. Wenn Sie zustimmen, übernimmt das Zentrum auch den Transport Ihres Kindes und führt eine Autopsie durch, um die Ursache zu finden.",
+        "deadline": "Das Zentrum informiert die Krankenkasse Ihres Kindes; ohne Einwand der Kasse können Unterstützung und Autopsie stattfinden.",
+        "amount": "Kostenlos: kein Eigenanteil für Unterstützung, Autopsie oder Transport",
+        "requirements": [],
+        "steps": [
+          "Wenden Sie sich an ein Fachzentrum auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und benachrichtigt die Krankenkasse Ihres Kindes",
+          "Das Zentrum bietet psychosoziale Unterstützung und führt mit Ihrer Zustimmung die Autopsie durch"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/onverklaard-overlijden-van-jonge-kinderen",
+      "conditions": {
+        "en": [
+          "Your child died unexpectedly and for medically unexplained reasons before the age of 18 months."
+        ],
+        "nl": [
+          "Je kind is vóór de leeftijd van 18 maanden onverwacht en om medisch onverklaarbare redenen overleden."
+        ],
+        "fr": [
+          "Votre enfant est décédé de manière inattendue et médicalement inexpliquée avant l'âge de 18 mois."
+        ],
+        "de": [
+          "Ihr Kind ist vor dem Alter von 18 Monaten unerwartet und aus medizinisch ungeklärten Gründen gestorben."
+        ]
+      }
+    }
+  },
+  {
+    "id": 179,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/transgenderzorg-onze-tegemoetkoming-in-de-kosten-van-een-begeleiding-in-een-gespecialiseerd-centrum",
+    "content": {
+      "en": {
+        "title": "Support in a Specialised Transgender Care Centre",
+        "desc": "Conventioned transgender care centres offer medical and psychosocial support with gender identity, gender expression or gender incongruence: assessment and diagnosis, information on gender-affirming treatments, prescribing and follow-up, and referral for surgery. Health insurance covers up to 40 psychosocial sessions in total (at most 30 before age 24, 25 from age 24), plus one pre- and one post-operative talk.",
+        "deadline": "The centre applies to your health fund; support starts after approval. At most 12 sessions in the first calendar year, 8 a year after that.",
+        "amount": "You only pay the personal share (remgeld) per service",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical report and application form, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the conventioned transgender care centres on the RIZIV list",
+          "The centre checks the conditions and fills in the medical report and application form",
+          "The centre sends both to your health fund",
+          "Once your health fund agrees, the centre starts your support"
+        ]
+      },
+      "nl": {
+        "title": "Begeleiding in een gespecialiseerd centrum voor transgenderzorg",
+        "desc": "Geconventioneerde centra voor transgenderzorg bieden medische en psychosociale begeleiding bij genderidentiteit, genderexpressie of genderincongruentie: onderzoek en diagnose, informatie over genderbevestigende behandelingen, voorschrijven en opvolgen, en doorverwijzing voor een operatie. De ziekteverzekering komt tussen in maximaal 40 psychosociale zittingen in totaal (maximaal 30 vóór je 24e, 25 vanaf 24 jaar), plus één pre- en één postoperatief gesprek.",
+        "deadline": "Het centrum dient de aanvraag in bij je ziekenfonds; de begeleiding start na akkoord. Maximaal 12 zittingen in het eerste kalenderjaar, daarna 8 per jaar.",
+        "amount": "Je betaalt enkel het remgeld per verstrekking",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch verslag en aanvraagformulier, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de geconventioneerde centra voor transgenderzorg op de RIZIV-lijst",
+          "Het centrum controleert de voorwaarden en vult het medisch verslag en het aanvraagformulier in",
+          "Het centrum stuurt beide naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Accompagnement dans un centre spécialisé en soins transgenres",
+        "desc": "Les centres conventionnés pour les soins transgenres offrent un accompagnement médical et psychosocial en matière d'identité de genre, d'expression de genre ou d'incongruence de genre : bilan et diagnostic, information sur les traitements d'affirmation de genre, prescription et suivi, et orientation vers une chirurgie. L'assurance intervient pour 40 séances psychosociales au maximum au total (30 au plus avant 24 ans, 25 dès 24 ans), plus un entretien pré- et un post-opératoire.",
+        "deadline": "Le centre introduit la demande auprès de votre mutualité ; l'accompagnement commence après accord. Au plus 12 séances la première année civile, puis 8 par an.",
+        "amount": "Vous ne payez que le ticket modérateur par prestation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Rapport médical et formulaire de demande, remplis par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres conventionnés pour les soins transgenres de la liste de l'INAMI",
+          "Le centre vérifie les conditions et remplit le rapport médical et le formulaire de demande",
+          "Le centre envoie les deux à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence l'accompagnement"
+        ]
+      },
+      "de": {
+        "title": "Begleitung in einem Fachzentrum für Transgender-Versorgung",
+        "desc": "Vertragsgebundene Zentren für Transgender-Versorgung bieten medizinische und psychosoziale Begleitung bei Geschlechtsidentität, Geschlechtsausdruck oder Geschlechtsinkongruenz: Abklärung und Diagnose, Information über geschlechtsangleichende Behandlungen, Verordnung und Nachsorge sowie Überweisung zu einer Operation. Die Krankenversicherung übernimmt insgesamt bis zu 40 psychosoziale Sitzungen (höchstens 30 vor 24, 25 ab 24 Jahren) sowie je ein prä- und postoperatives Gespräch.",
+        "deadline": "Das Zentrum stellt den Antrag bei Ihrer Krankenkasse; die Begleitung beginnt nach Zustimmung. Höchstens 12 Sitzungen im ersten Kalenderjahr, danach 8 pro Jahr.",
+        "amount": "Sie zahlen nur den Eigenanteil pro Leistung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztlicher Bericht und Antragsformular, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der vertragsgebundenen Zentren für Transgender-Versorgung auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und füllt ärztlichen Bericht und Antragsformular aus",
+          "Das Zentrum schickt beides an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum die Begleitung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/transgenderzorg-onze-tegemoetkoming-in-de-kosten-van-een-begeleiding-in-een-gespecialiseerd-centrum",
+      "conditions": {
+        "en": [
+          "You are looking for medical and/or psychosocial help with your gender identity, gender expression or gender incongruence.",
+          "A conventioned centre finds that you meet the conditions in its medical report, and your health fund agrees."
+        ],
+        "nl": [
+          "Je zoekt medische en/of psychosociale hulp in verband met je genderidentiteit, genderexpressie of genderincongruentie.",
+          "Een geconventioneerd centrum stelt in zijn medisch verslag vast dat je aan de voorwaarden voldoet, en je ziekenfonds gaat akkoord."
+        ],
+        "fr": [
+          "Vous cherchez une aide médicale et/ou psychosociale liée à votre identité de genre, votre expression de genre ou une incongruence de genre.",
+          "Un centre conventionné constate dans son rapport médical que vous remplissez les conditions, et votre mutualité donne son accord."
+        ],
+        "de": [
+          "Sie suchen medizinische und/oder psychosoziale Hilfe zu Ihrer Geschlechtsidentität, Ihrem Geschlechtsausdruck oder einer Geschlechtsinkongruenz.",
+          "Ein vertragsgebundenes Zentrum stellt in seinem ärztlichen Bericht fest, dass Sie die Bedingungen erfüllen, und Ihre Krankenkasse stimmt zu."
+        ]
+      }
+    }
+  },
+  {
+    "id": 180,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/opvolging-van-prematuur-geboren-kinderen",
+    "content": {
+      "en": {
+        "title": "Follow-Up Checks for Premature Babies",
+        "desc": "Children born before 32 weeks of pregnancy and/or weighing under 1,500 g can have developmental check-ups at set ages in a specialised centre until they are 5.5 years old, with doctors, physiotherapists, speech therapists, psychologists and social workers. Problems are spotted early and the centre can refer your child for treatment.",
+        "deadline": "The centre applies to your child's health fund; follow-up starts after approval. Check-ups run until age 5.5.",
+        "amount": "Insurance covers the assessments; you pay the personal share for the tests and consultations",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate from the hospital doctor stating pregnancy length and birth weight"
+          }
+        ],
+        "steps": [
+          "Ask the doctor who treated your baby in hospital for a certificate with the pregnancy length and birth weight",
+          "Contact a specialised centre on the RIZIV list",
+          "The centre sends the application form and certificate to your child's health fund",
+          "After approval, the centre checks your child at the set ages"
+        ]
+      },
+      "nl": {
+        "title": "Opvolgingsonderzoeken voor prematuur geboren kinderen",
+        "desc": "Kinderen geboren na een zwangerschap van minder dan 32 weken en/of met een geboortegewicht onder 1.500 g kunnen tot 5,5 jaar op vaste leeftijden ontwikkelingsonderzoeken krijgen in een gespecialiseerd centrum, met artsen, kinesitherapeuten, logopedisten, psychologen en maatschappelijk werkers. Problemen worden vroeg opgespoord en het centrum kan je kind doorverwijzen voor behandeling.",
+        "deadline": "Het centrum dient de aanvraag in bij het ziekenfonds van je kind; de opvolging start na akkoord. De onderzoeken lopen tot 5,5 jaar.",
+        "amount": "De verzekering betaalt de bilans; je betaalt remgeld voor de testen en raadplegingen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de ziekenhuisarts met zwangerschapsduur en geboortegewicht"
+          }
+        ],
+        "steps": [
+          "Vraag de arts die je baby in het ziekenhuis behandelde om een attest met zwangerschapsduur en geboortegewicht",
+          "Neem contact op met een gespecialiseerd centrum op de RIZIV-lijst",
+          "Het centrum stuurt het aanvraagformulier en het attest naar het ziekenfonds van je kind",
+          "Na akkoord onderzoekt het centrum je kind op de vaste leeftijden"
+        ]
+      },
+      "fr": {
+        "title": "Examens de suivi pour enfants nés prématurément",
+        "desc": "Les enfants nés après moins de 32 semaines de grossesse et/ou avec un poids de naissance inférieur à 1.500 g peuvent bénéficier de bilans de développement à des âges fixes dans un centre spécialisé jusqu'à 5 ans et demi, avec médecins, kinésithérapeutes, logopèdes, psychologues et assistants sociaux. Les problèmes sont détectés tôt et le centre peut orienter l'enfant vers un traitement.",
+        "deadline": "Le centre introduit la demande auprès de la mutualité de l'enfant ; le suivi commence après accord. Les bilans se font jusqu'à 5 ans et demi.",
+        "amount": "L'assurance couvre les bilans ; vous payez le ticket modérateur des tests et consultations",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du médecin hospitalier indiquant la durée de grossesse et le poids de naissance"
+          }
+        ],
+        "steps": [
+          "Demandez au médecin qui a soigné votre bébé à l'hôpital une attestation avec la durée de grossesse et le poids de naissance",
+          "Contactez un centre spécialisé de la liste de l'INAMI",
+          "Le centre envoie le formulaire de demande et l'attestation à la mutualité de l'enfant",
+          "Après accord, le centre examine votre enfant aux âges prévus"
+        ]
+      },
+      "de": {
+        "title": "Nachsorgeuntersuchungen für Frühgeborene",
+        "desc": "Kinder, die nach weniger als 32 Schwangerschaftswochen und/oder mit unter 1.500 g Geburtsgewicht geboren wurden, können bis zum Alter von 5,5 Jahren zu festen Zeitpunkten Entwicklungsuntersuchungen in einem Fachzentrum erhalten, mit Ärzten, Physiotherapeuten, Logopäden, Psychologen und Sozialarbeitern. Probleme werden früh erkannt, und das Zentrum kann Ihr Kind zur Behandlung überweisen.",
+        "deadline": "Das Zentrum stellt den Antrag bei der Krankenkasse Ihres Kindes; die Nachsorge beginnt nach Zustimmung. Die Untersuchungen laufen bis 5,5 Jahre.",
+        "amount": "Die Versicherung übernimmt die Bilanzen; Sie zahlen den Eigenanteil für Tests und Konsultationen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des Krankenhausarztes mit Schwangerschaftsdauer und Geburtsgewicht"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich vom Arzt, der Ihr Baby im Krankenhaus behandelt hat, eine Bescheinigung mit Schwangerschaftsdauer und Geburtsgewicht geben",
+          "Wenden Sie sich an ein Fachzentrum auf der LIKIV-Liste",
+          "Das Zentrum schickt Antragsformular und Bescheinigung an die Krankenkasse Ihres Kindes",
+          "Nach Zustimmung untersucht das Zentrum Ihr Kind zu den festgelegten Zeitpunkten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/opvolging-van-prematuur-geboren-kinderen",
+      "conditions": {
+        "en": [
+          "Your child was born after less than 32 weeks of pregnancy and/or with a birth weight under 1,500 g, as certified by the treating hospital doctor.",
+          "Your child is younger than 5.5 years."
+        ],
+        "nl": [
+          "Je kind is geboren na een zwangerschap van minder dan 32 weken en/of met een geboortegewicht onder 1.500 g, bevestigd door de behandelende ziekenhuisarts.",
+          "Je kind is jonger dan 5,5 jaar."
+        ],
+        "fr": [
+          "Votre enfant est né après moins de 32 semaines de grossesse et/ou avec un poids de naissance inférieur à 1.500 g, attesté par le médecin hospitalier traitant.",
+          "Votre enfant a moins de 5 ans et demi."
+        ],
+        "de": [
+          "Ihr Kind wurde nach weniger als 32 Schwangerschaftswochen und/oder mit unter 1.500 g Geburtsgewicht geboren, bescheinigt vom behandelnden Krankenhausarzt.",
+          "Ihr Kind ist jünger als 5,5 Jahre."
+        ]
+      }
+    }
+  },
+  {
+    "id": 181,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/hartziekten",
+    "content": {
+      "en": {
+        "title": "Cardiac Rehabilitation in a Specialised Centre",
+        "desc": "After a hospital stay for certain heart conditions, a specialised cardiac rehabilitation centre offers a programme under a doctor's supervision with at least two other disciplines (physiotherapist, psychologist, social worker, dietitian…). It starts individually in hospital and continues in groups after discharge. Health insurance covers one session per rehabilitation day.",
+        "deadline": "You must be hospitalised in a hospital on the list of specialised cardiac rehabilitation centres; the centre applies to your health fund.",
+        "amount": "You pay a personal share per session (lower with increased reimbursement), plus normal hospital costs",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form, rehabilitation prescription and needs assessment, from the centre"
+          }
+        ],
+        "steps": [
+          "Be hospitalised in a hospital with a specialised cardiac rehabilitation centre",
+          "The centre assesses your rehabilitation needs and proposes a programme",
+          "The centre sends the application, prescription and assessment to your health fund",
+          "After approval, you follow the programme, first individually and then in groups"
+        ]
+      },
+      "nl": {
+        "title": "Hartrevalidatie in een gespecialiseerd centrum",
+        "desc": "Na een ziekenhuisopname voor bepaalde hartaandoeningen biedt een gespecialiseerd hartrevalidatiecentrum een programma onder toezicht van een arts met minstens twee andere disciplines (kinesitherapeut, psycholoog, sociaal assistent, diëtist…). Het start individueel in het ziekenhuis en loopt na ontslag verder in groep. De ziekteverzekering betaalt één zitting per revalidatiedag.",
+        "deadline": "Je moet opgenomen zijn in een ziekenhuis op de lijst van gespecialiseerde hartrevalidatiecentra; het centrum dient de aanvraag in bij je ziekenfonds.",
+        "amount": "Je betaalt remgeld per zitting (lager met verhoogde tegemoetkoming), plus de gewone ziekenhuiskosten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier, revalidatievoorschrift en evaluatie van de noden, van het centrum"
+          }
+        ],
+        "steps": [
+          "Word opgenomen in een ziekenhuis met een gespecialiseerd hartrevalidatiecentrum",
+          "Het centrum evalueert je revalidatienoden en stelt een programma voor",
+          "Het centrum stuurt de aanvraag, het voorschrift en de evaluatie naar je ziekenfonds",
+          "Na akkoord volg je het programma, eerst individueel en daarna in groep"
+        ]
+      },
+      "fr": {
+        "title": "Réadaptation cardiaque dans un centre spécialisé",
+        "desc": "Après une hospitalisation pour certaines affections cardiaques, un centre spécialisé de réadaptation cardiaque propose un programme sous surveillance médicale avec au moins deux autres disciplines (kinésithérapeute, psychologue, assistant social, diététicien…). Il commence individuellement à l'hôpital et se poursuit en groupe après la sortie. L'assurance couvre une séance par jour de réadaptation.",
+        "deadline": "Vous devez être hospitalisé(e) dans un hôpital de la liste des centres spécialisés de réadaptation cardiaque ; le centre introduit la demande auprès de votre mutualité.",
+        "amount": "Vous payez un ticket modérateur par séance (moindre avec l'intervention majorée), plus les frais d'hospitalisation habituels",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande, prescription de réadaptation et évaluation des besoins, du centre"
+          }
+        ],
+        "steps": [
+          "Être hospitalisé(e) dans un hôpital disposant d'un centre spécialisé de réadaptation cardiaque",
+          "Le centre évalue vos besoins et propose un programme",
+          "Le centre envoie la demande, la prescription et l'évaluation à votre mutualité",
+          "Après accord, vous suivez le programme, d'abord individuellement puis en groupe"
+        ]
+      },
+      "de": {
+        "title": "Herzrehabilitation in einem Fachzentrum",
+        "desc": "Nach einem Krankenhausaufenthalt wegen bestimmter Herzerkrankungen bietet ein spezialisiertes Herzrehabilitationszentrum ein ärztlich überwachtes Programm mit mindestens zwei weiteren Fachrichtungen (Physiotherapeut, Psychologe, Sozialarbeiter, Diätassistent…). Es beginnt einzeln im Krankenhaus und wird nach der Entlassung in Gruppen fortgesetzt. Die Krankenversicherung übernimmt eine Sitzung pro Rehabilitationstag.",
+        "deadline": "Sie müssen in einem Krankenhaus auf der Liste der spezialisierten Herzrehabilitationszentren aufgenommen sein; das Zentrum stellt den Antrag bei Ihrer Krankenkasse.",
+        "amount": "Sie zahlen einen Eigenanteil pro Sitzung (niedriger mit erhöhter Beteiligung) plus die üblichen Krankenhauskosten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, Rehabilitationsverordnung und Bedarfsermittlung, vom Zentrum"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich in einem Krankenhaus mit spezialisiertem Herzrehabilitationszentrum aufnehmen",
+          "Das Zentrum ermittelt Ihren Rehabilitationsbedarf und schlägt ein Programm vor",
+          "Das Zentrum schickt Antrag, Verordnung und Bedarfsermittlung an Ihre Krankenkasse",
+          "Nach Zustimmung folgen Sie dem Programm, zuerst einzeln, dann in Gruppen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/hartziekten",
+      "conditions": {
+        "en": [
+          "You were hospitalised in a hospital with a specialised cardiac rehabilitation centre for one of these: acute myocardial infarction, coronary artery surgery, a percutaneous procedure on the heart or coronary arteries, surgery for a heart malformation or valve lesion, heart and/or lung transplant, or cardiomyopathy with left ventricular dysfunction.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je werd opgenomen in een ziekenhuis met een gespecialiseerd hartrevalidatiecentrum voor een van deze: acuut myocardinfarct, kransslagaderchirurgie, een percutane ingreep op het hart of de kransslagaders, een ingreep wegens misvorming van het hart of klepletsel, hart- en/of longtransplantatie, of cardiomyopathie met dysfunctie van de linkerhartkamer.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez été hospitalisé(e) dans un hôpital avec un centre spécialisé de réadaptation cardiaque pour l'un de ces motifs : infarctus aigu du myocarde, chirurgie coronaire, intervention percutanée sur le cœur ou les coronaires, chirurgie pour malformation cardiaque ou lésion valvulaire, transplantation cardiaque et/ou pulmonaire, ou cardiomyopathie avec dysfonction ventriculaire gauche.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie wurden in einem Krankenhaus mit spezialisiertem Herzrehabilitationszentrum aufgenommen wegen: akutem Myokardinfarkt, Koronarchirurgie, perkutanem Eingriff an Herz oder Koronararterien, Operation wegen Herzfehlbildung oder Klappenschaden, Herz- und/oder Lungentransplantation oder Kardiomyopathie mit linksventrikulärer Dysfunktion.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
   }
 ]
