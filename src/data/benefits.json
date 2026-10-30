@@ -22386,5 +22386,1367 @@
         ]
       }
     }
+  },
+  {
+    "id": 182,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/coeliakie-of-dermatitis-herpetiformis",
+    "content": {
+      "en": {
+        "title": "Special Food for Coeliac Disease or Gluten Allergy",
+        "desc": "Health insurance pays a monthly amount towards special food products used at home by people with coeliac disease, dermatitis herpetiformis, a gluten/gliadin allergy, or a cereal flour allergy without gluten allergy, once the health fund's advisory doctor authorises it.",
+        "deadline": "The authorisation lasts 24 months; ask your specialist for an extension form before it ends.",
+        "amount": "€38 a month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form filled in by your treating specialist (with the medical report for coeliac disease)"
+          }
+        ],
+        "steps": [
+          "Ask your treating specialist to fill in the application form",
+          "Hand it to your health fund; the advisory doctor examines it",
+          "If approved, you get an authorisation for 24 months",
+          "To continue, have your doctor fill in the extension form"
+        ]
+      },
+      "nl": {
+        "title": "Bijzondere voeding bij coeliakie of glutenallergie",
+        "desc": "De ziekteverzekering betaalt een maandbedrag voor bijzondere voedingsproducten die thuis gebruikt worden bij coeliakie, dermatitis herpetiformis, een allergie voor gluten/gliadine of een graanmeelallergie zonder glutenallergie, zodra de adviserend arts van het ziekenfonds een machtiging geeft.",
+        "deadline": "De machtiging geldt 24 maanden; vraag je specialist tijdig om het formulier tot verlenging.",
+        "amount": "€38 per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier ingevuld door je behandelende arts-specialist (bij coeliakie met medisch verslag)"
+          }
+        ],
+        "steps": [
+          "Vraag je behandelende arts-specialist het aanvraagformulier in te vullen",
+          "Bezorg het aan je ziekenfonds; de adviserend arts onderzoekt het",
+          "Bij goedkeuring krijg je een machtiging voor 24 maanden",
+          "Om verder te gaan laat je je arts het formulier tot verlenging invullen"
+        ]
+      },
+      "fr": {
+        "title": "Alimentation spéciale en cas de maladie cœliaque ou d'allergie au gluten",
+        "desc": "L'assurance soins de santé verse un montant mensuel pour les produits alimentaires spéciaux utilisés à domicile en cas de maladie cœliaque, de dermatite herpétiforme, d'allergie au gluten/à la gliadine ou d'allergie aux farines de céréales sans allergie au gluten, dès que le médecin-conseil de la mutualité donne son autorisation.",
+        "deadline": "L'autorisation vaut 24 mois ; demandez à temps le formulaire de prolongation à votre spécialiste.",
+        "amount": "38 € par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande rempli par votre spécialiste traitant (avec rapport médical pour la maladie cœliaque)"
+          }
+        ],
+        "steps": [
+          "Demandez à votre spécialiste traitant de remplir le formulaire de demande",
+          "Remettez-le à votre mutualité ; le médecin-conseil l'examine",
+          "En cas d'accord, vous recevez une autorisation de 24 mois",
+          "Pour continuer, faites remplir le formulaire de prolongation par votre médecin"
+        ]
+      },
+      "de": {
+        "title": "Spezialnahrung bei Zöliakie oder Glutenallergie",
+        "desc": "Die Krankenversicherung zahlt einen Monatsbetrag für Spezialnahrung, die zu Hause bei Zöliakie, Dermatitis herpetiformis, Gluten-/Gliadinallergie oder Getreidemehlallergie ohne Glutenallergie verwendet wird, sobald der beratende Arzt der Krankenkasse sie genehmigt.",
+        "deadline": "Die Genehmigung gilt 24 Monate; fragen Sie Ihren Facharzt rechtzeitig nach dem Verlängerungsformular.",
+        "amount": "38 € pro Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, von Ihrem behandelnden Facharzt ausgefüllt (bei Zöliakie mit ärztlichem Bericht)"
+          }
+        ],
+        "steps": [
+          "Lassen Sie Ihren behandelnden Facharzt das Antragsformular ausfüllen",
+          "Geben Sie es Ihrer Krankenkasse; der beratende Arzt prüft es",
+          "Bei Zustimmung erhalten Sie eine Genehmigung für 24 Monate",
+          "Zur Fortsetzung lassen Sie Ihren Arzt das Verlängerungsformular ausfüllen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/coeliakie-of-dermatitis-herpetiformis",
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/gluten-gliadine-allergie-of-graanmeelallergie-zonder-glutenallergie"
+      ],
+      "conditions": {
+        "en": [
+          "You have coeliac disease, dermatitis herpetiformis, a gluten/gliadin allergy or a cereal flour allergy without gluten allergy, diagnosed under the RIZIV conditions.",
+          "You use the special food at home, and the advisory doctor of your health fund authorises the reimbursement."
+        ],
+        "nl": [
+          "Je hebt coeliakie, dermatitis herpetiformis, een allergie voor gluten/gliadine of een graanmeelallergie zonder glutenallergie, vastgesteld volgens de voorwaarden van het RIZIV.",
+          "Je gebruikt de bijzondere voeding thuis, en de adviserend arts van je ziekenfonds geeft een machtiging."
+        ],
+        "fr": [
+          "Vous avez une maladie cœliaque, une dermatite herpétiforme, une allergie au gluten/à la gliadine ou une allergie aux farines de céréales sans allergie au gluten, diagnostiquée selon les conditions de l'INAMI.",
+          "Vous utilisez l'alimentation spéciale à domicile, et le médecin-conseil de votre mutualité donne son autorisation."
+        ],
+        "de": [
+          "Sie haben Zöliakie, Dermatitis herpetiformis, eine Gluten-/Gliadinallergie oder eine Getreidemehlallergie ohne Glutenallergie, diagnostiziert nach den LIKIV-Bedingungen.",
+          "Sie verwenden die Spezialnahrung zu Hause, und der beratende Arzt Ihrer Krankenkasse erteilt eine Genehmigung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 183,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-terugbetaling-van-dieetvoeding-bestemd-voor-een-bijzonder-medisch-doel",
+    "content": {
+      "en": {
+        "title": "Food for Special Medical Purposes",
+        "desc": "Health insurance reimburses medical nutrition on the RIZIV list for patients who cannot eat, digest, absorb or excrete ordinary food normally, or have other medical nutritional needs. Category A products are fully reimbursed; for category B you pay a capped share.",
+        "deadline": "Your doctor applies; after the advisory doctor's authorisation, the pharmacist supplies the products.",
+        "amount": "Category A free; category B: 25% (max €12.80) or 15% with increased reimbursement (max €8.50), 2026",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doctor's prescription and reimbursement application"
+          }
+        ],
+        "steps": [
+          "Ask your treating doctor or specialist for a prescription and a reimbursement application",
+          "The application goes to your health fund; the advisory doctor examines it",
+          "If approved, you receive a time-limited or unlimited authorisation",
+          "The pharmacist supplies the products from the RIZIV list"
+        ]
+      },
+      "nl": {
+        "title": "Dieetvoeding voor medisch gebruik",
+        "desc": "De ziekteverzekering betaalt medische voeding van de RIZIV-lijst terug voor patiënten die gewone voeding niet normaal kunnen innemen, verteren, opnemen of uitscheiden, of andere medische voedingsbehoeften hebben. Producten van categorie A worden volledig terugbetaald; bij categorie B betaal je een begrensd deel.",
+        "deadline": "Je arts dient de aanvraag in; na de machtiging van de adviserend arts levert de apotheker de producten.",
+        "amount": "Categorie A gratis; categorie B: 25% (max €12,80) of 15% met verhoogde tegemoetkoming (max €8,50), 2026",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift en aanvraag tot terugbetaling van de arts"
+          }
+        ],
+        "steps": [
+          "Vraag je behandelende arts of specialist om een voorschrift en een aanvraag tot terugbetaling",
+          "De aanvraag gaat naar je ziekenfonds; de adviserend arts onderzoekt ze",
+          "Bij goedkeuring krijg je een machtiging voor beperkte of onbeperkte duur",
+          "De apotheker levert de producten van de RIZIV-lijst"
+        ]
+      },
+      "fr": {
+        "title": "Alimentation à des fins médicales spéciales",
+        "desc": "L'assurance soins de santé rembourse l'alimentation médicale figurant sur la liste de l'INAMI pour les patients qui ne peuvent pas ingérer, digérer, absorber ou excréter normalement les aliments ordinaires, ou ont d'autres besoins nutritionnels médicaux. Les produits de catégorie A sont remboursés entièrement ; en catégorie B vous payez une part plafonnée.",
+        "deadline": "Votre médecin introduit la demande ; après l'autorisation du médecin-conseil, le pharmacien délivre les produits.",
+        "amount": "Catégorie A gratuite ; catégorie B : 25 % (max 12,80 €) ou 15 % avec intervention majorée (max 8,50 €), 2026",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription et demande de remboursement du médecin"
+          }
+        ],
+        "steps": [
+          "Demandez à votre médecin traitant ou spécialiste une prescription et une demande de remboursement",
+          "La demande va à votre mutualité ; le médecin-conseil l'examine",
+          "En cas d'accord, vous recevez une autorisation à durée limitée ou illimitée",
+          "Le pharmacien délivre les produits de la liste INAMI"
+        ]
+      },
+      "de": {
+        "title": "Lebensmittel für besondere medizinische Zwecke",
+        "desc": "Die Krankenversicherung erstattet medizinische Nahrung von der LIKIV-Liste für Patienten, die normale Lebensmittel nicht normal aufnehmen, verdauen, resorbieren oder ausscheiden können oder andere medizinische Ernährungsbedürfnisse haben. Produkte der Kategorie A werden vollständig erstattet; bei Kategorie B zahlen Sie einen begrenzten Anteil.",
+        "deadline": "Ihr Arzt stellt den Antrag; nach der Genehmigung des beratenden Arztes liefert der Apotheker die Produkte.",
+        "amount": "Kategorie A kostenlos; Kategorie B: 25 % (max. 12,80 €) oder 15 % mit erhöhter Beteiligung (max. 8,50 €), 2026",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Verordnung und Erstattungsantrag"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von Ihrem behandelnden Arzt oder Facharzt eine Verordnung und einen Erstattungsantrag geben",
+          "Der Antrag geht an Ihre Krankenkasse; der beratende Arzt prüft ihn",
+          "Bei Zustimmung erhalten Sie eine befristete oder unbefristete Genehmigung",
+          "Der Apotheker liefert die Produkte von der LIKIV-Liste"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-terugbetaling-van-dieetvoeding-bestemd-voor-een-bijzonder-medisch-doel",
+      "conditions": {
+        "en": [
+          "The product is on the RIZIV list of food for medical use and is used under medical supervision.",
+          "A doctor prescribes it, a pharmacist supplies it, the reimbursement conditions for that product are met, and the advisory doctor of your health fund authorises it."
+        ],
+        "nl": [
+          "Het product staat op de RIZIV-lijst van voeding voor medisch gebruik en wordt onder medisch toezicht gebruikt.",
+          "Een arts schrijft het voor, een apotheker levert het af, de terugbetalingsvoorwaarden voor dat product zijn vervuld, en de adviserend arts van je ziekenfonds geeft een machtiging."
+        ],
+        "fr": [
+          "Le produit figure sur la liste INAMI de l'alimentation à usage médical et est utilisé sous surveillance médicale.",
+          "Un médecin le prescrit, un pharmacien le délivre, les conditions de remboursement de ce produit sont remplies, et le médecin-conseil de votre mutualité donne son autorisation."
+        ],
+        "de": [
+          "Das Produkt steht auf der LIKIV-Liste der Lebensmittel für medizinische Zwecke und wird unter ärztlicher Aufsicht verwendet.",
+          "Ein Arzt verordnet es, ein Apotheker liefert es, die Erstattungsbedingungen für dieses Produkt sind erfüllt, und der beratende Arzt Ihrer Krankenkasse erteilt eine Genehmigung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 184,
+    "category": "health",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/terugbetaling-van-dietetiek-voor-kinderen-met-overgewicht-of-obesitas",
+    "content": {
+      "en": {
+        "title": "Dietitian Sessions for Children with Overweight or Obesity",
+        "desc": "Children aged 2 to 17 with overweight or obesity get a two-year treatment with a dietitian (with a RIZIV number) fully reimbursed: a 60-minute first session, then 5 sessions of 30 minutes in year 1 and 4 in year 2. Parents may attend, and a session with only the parents is possible. Reimbursed once per child.",
+        "deadline": "The child must be 2 to 17 when the treatment starts.",
+        "amount": "Free: fully reimbursed (nothing to pay if the dietitian applies the third-party payer system)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doctor's prescription"
+          }
+        ],
+        "steps": [
+          "Ask a doctor for a prescription for dietetics",
+          "Book with a dietitian who has a RIZIV number",
+          "Pay the dietitian and get the full amount back from your health fund, or pay nothing under the third-party payer system"
+        ]
+      },
+      "nl": {
+        "title": "Diëtist voor kinderen met overgewicht of obesitas",
+        "desc": "Kinderen van 2 tot en met 17 jaar met overgewicht of obesitas krijgen een behandeling van twee jaar bij een diëtist (met RIZIV-nummer) volledig terugbetaald: een eerste zitting van 60 minuten, daarna 5 zittingen van 30 minuten in jaar 1 en 4 in jaar 2. Ouders mogen erbij zijn, en een zitting met enkel de ouders kan ook. Eén keer per kind terugbetaald.",
+        "deadline": "Het kind moet bij de start van de behandeling 2 tot en met 17 jaar zijn.",
+        "amount": "Gratis: volledig terugbetaald (niets te betalen als de diëtist de derdebetalersregeling toepast)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift van een arts"
+          }
+        ],
+        "steps": [
+          "Vraag een arts om een voorschrift voor diëtetiek",
+          "Maak een afspraak bij een diëtist met een RIZIV-nummer",
+          "Betaal de diëtist en krijg het volledige bedrag terug van je ziekenfonds, of betaal niets via de derdebetalersregeling"
+        ]
+      },
+      "fr": {
+        "title": "Diététicien pour enfants en surpoids ou obèses",
+        "desc": "Les enfants de 2 à 17 ans en surpoids ou obèses bénéficient d'un traitement de deux ans chez un diététicien (avec numéro INAMI) entièrement remboursé : une première séance de 60 minutes, puis 5 séances de 30 minutes la 1re année et 4 la 2e. Les parents peuvent y assister, et une séance avec les seuls parents est possible. Remboursé une fois par enfant.",
+        "deadline": "L'enfant doit avoir entre 2 et 17 ans au début du traitement.",
+        "amount": "Gratuit : entièrement remboursé (rien à payer si le diététicien applique le tiers payant)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription d'un médecin"
+          }
+        ],
+        "steps": [
+          "Demandez à un médecin une prescription de diététique",
+          "Prenez rendez-vous chez un diététicien ayant un numéro INAMI",
+          "Payez le diététicien et récupérez tout le montant auprès de votre mutualité, ou ne payez rien en tiers payant"
+        ]
+      },
+      "de": {
+        "title": "Diätassistent für Kinder mit Übergewicht oder Adipositas",
+        "desc": "Kinder von 2 bis 17 Jahren mit Übergewicht oder Adipositas erhalten eine zweijährige Behandlung bei einem Diätassistenten (mit LIKIV-Nummer) vollständig erstattet: eine erste Sitzung von 60 Minuten, dann 5 Sitzungen von 30 Minuten im 1. Jahr und 4 im 2. Jahr. Eltern dürfen dabei sein, auch eine Sitzung nur mit den Eltern ist möglich. Einmal pro Kind erstattet.",
+        "deadline": "Das Kind muss bei Behandlungsbeginn 2 bis 17 Jahre alt sein.",
+        "amount": "Kostenlos: vollständig erstattet (nichts zu zahlen, wenn der Diätassistent das Drittzahlersystem anwendet)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Verordnung"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von einem Arzt Diätetik verordnen",
+          "Vereinbaren Sie einen Termin bei einem Diätassistenten mit LIKIV-Nummer",
+          "Bezahlen Sie den Diätassistenten und erhalten Sie den vollen Betrag von Ihrer Krankenkasse zurück, oder zahlen Sie im Drittzahlersystem nichts"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/terugbetaling-van-dietetiek-voor-kinderen-met-overgewicht-of-obesitas",
+      "conditions": {
+        "en": [
+          "The child is 2 to 17 at the start of the treatment and has a BMI at or above the value that matches a BMI of 25 at age 18.",
+          "A doctor prescribed it. Not reimbursed while the child is in hospital, follows another treatment with a dietitian, or is followed in a paediatric multidisciplinary obesity centre."
+        ],
+        "nl": [
+          "Het kind is bij de start 2 tot en met 17 jaar en heeft een BMI gelijk aan of hoger dan de waarde die overeenkomt met een BMI van 25 op 18 jaar.",
+          "Een arts schreef het voor. Geen terugbetaling als het kind in het ziekenhuis ligt, een andere behandeling met een diëtist volgt, of opgevolgd wordt in een pediatrisch multidisciplinair obesitascentrum."
+        ],
+        "fr": [
+          "L'enfant a entre 2 et 17 ans au début et un IMC égal ou supérieur à la valeur correspondant à un IMC de 25 à 18 ans.",
+          "Un médecin l'a prescrit. Pas de remboursement si l'enfant est hospitalisé, suit un autre traitement avec diététicien ou est suivi dans un centre pédiatrique multidisciplinaire de l'obésité."
+        ],
+        "de": [
+          "Das Kind ist bei Beginn 2 bis 17 Jahre alt und hat einen BMI, der mindestens dem Wert eines BMI von 25 im Alter von 18 entspricht.",
+          "Ein Arzt hat es verordnet. Keine Erstattung, solange das Kind im Krankenhaus ist, eine andere Behandlung mit Diätassistent erhält oder in einem pädiatrischen multidisziplinären Adipositaszentrum betreut wird."
+        ]
+      }
+    }
+  },
+  {
+    "id": 185,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/terugbetaling-van-stomamateriaal",
+    "content": {
+      "en": {
+        "title": "Stoma Material (Virtual Wallet)",
+        "desc": "If you have a stoma or fistula of the digestive or urinary system, your health fund opens a 'virtual wallet': a budget, set by your doctor's prescription, to order stoma material through a recognised orthopaedic technologist or pharmacist-bandagist. The budget is refilled every 3 months, is a little higher during the first 3 months, and leftovers do not carry over.",
+        "deadline": "The prescription and first delivery certificate must reach the advisory doctor by the end of the second month after the first delivery; your supplier sends them.",
+        "amount": "Nothing to pay for listed products within your budget (third-party payer)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Specific medical prescription for stoma material"
+          }
+        ],
+        "steps": [
+          "Get a specific prescription for stoma material from your doctor or specialist",
+          "Contact a recognised orthopaedic technologist or pharmacist-bandagist; you receive your stoma booklet",
+          "Order the material; the supplier delivers it in person and bills your health fund directly",
+          "A new prescription is only needed if your budget must change (e.g. convex system or irrigation)"
+        ]
+      },
+      "nl": {
+        "title": "Stomamateriaal (virtuele portefeuille)",
+        "desc": "Heb je een stoma of fistel van het spijsverterings- of urinestelsel, dan opent je ziekenfonds een 'virtuele portefeuille': een budget, bepaald door het voorschrift van je arts, om stomamateriaal te bestellen via een erkende orthopedisch technoloog of apotheker-bandagist. Het budget wordt elke 3 maanden aangevuld, is de eerste 3 maanden iets hoger, en wat overblijft schuift niet door.",
+        "deadline": "Het voorschrift en het eerste getuigschrift van aflevering moeten tegen het einde van de tweede maand na de eerste aflevering bij de adviserend arts zijn; je verstrekker stuurt ze op.",
+        "amount": "Niets te betalen voor producten van de lijst binnen je budget (derdebetalersregeling)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Specifiek medisch voorschrift voor stomamateriaal"
+          }
+        ],
+        "steps": [
+          "Vraag je arts of specialist een specifiek voorschrift voor stomamateriaal",
+          "Neem contact op met een erkende orthopedisch technoloog of apotheker-bandagist; je krijgt je stomakaftje",
+          "Bestel het materiaal; de verstrekker levert het persoonlijk af en rekent rechtstreeks af met je ziekenfonds",
+          "Een nieuw voorschrift is enkel nodig als je budget moet veranderen (bv. convex systeem of irrigatie)"
+        ]
+      },
+      "fr": {
+        "title": "Matériel de stomie (portefeuille virtuel)",
+        "desc": "Si vous avez une stomie ou une fistule du système digestif ou urinaire, votre mutualité ouvre un « portefeuille virtuel » : un budget, fixé par la prescription de votre médecin, pour commander du matériel de stomie via un technologue orthopédique ou un pharmacien-bandagiste agréé. Le budget est réalimenté tous les 3 mois, est un peu plus élevé les 3 premiers mois, et le solde n'est pas reporté.",
+        "deadline": "La prescription et la première attestation de délivrance doivent parvenir au médecin-conseil avant la fin du deuxième mois suivant la première délivrance ; votre fournisseur les envoie.",
+        "amount": "Rien à payer pour les produits de la liste dans votre budget (tiers payant)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription médicale spécifique pour matériel de stomie"
+          }
+        ],
+        "steps": [
+          "Demandez à votre médecin ou spécialiste une prescription spécifique pour matériel de stomie",
+          "Contactez un technologue orthopédique ou pharmacien-bandagiste agréé ; vous recevez votre carnet de stomie",
+          "Commandez le matériel ; le fournisseur le livre en personne et facture directement votre mutualité",
+          "Une nouvelle prescription n'est nécessaire que si votre budget doit changer (p. ex. système convexe ou irrigation)"
+        ]
+      },
+      "de": {
+        "title": "Stomamaterial (virtuelles Budget)",
+        "desc": "Haben Sie ein Stoma oder eine Fistel des Verdauungs- oder Harnsystems, eröffnet Ihre Krankenkasse ein „virtuelles Portemonnaie“: ein durch die ärztliche Verordnung festgelegtes Budget, um Stomamaterial über einen anerkannten Orthopädietechniker oder Apotheker-Bandagisten zu bestellen. Das Budget wird alle 3 Monate aufgefüllt, ist in den ersten 3 Monaten etwas höher, und Reste werden nicht übertragen.",
+        "deadline": "Verordnung und erste Lieferbescheinigung müssen bis Ende des zweiten Monats nach der ersten Lieferung beim beratenden Arzt sein; Ihr Lieferant schickt sie.",
+        "amount": "Nichts zu zahlen für gelistete Produkte innerhalb Ihres Budgets (Drittzahlersystem)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Spezifische ärztliche Verordnung für Stomamaterial"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von Ihrem Arzt oder Facharzt Stomamaterial gezielt verordnen",
+          "Wenden Sie sich an einen anerkannten Orthopädietechniker oder Apotheker-Bandagisten; Sie erhalten Ihr Stomaheft",
+          "Bestellen Sie das Material; der Lieferant bringt es persönlich und rechnet direkt mit Ihrer Krankenkasse ab",
+          "Eine neue Verordnung ist nur nötig, wenn sich Ihr Budget ändern muss (z. B. konvexes System oder Irrigation)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/terugbetaling-van-stomamateriaal",
+      "conditions": {
+        "en": [
+          "You have a stoma and/or fistula of the digestive and/or urinary system (colostomy, ileostomy, urostomy/cystostomy or another location).",
+          "Your doctor gave you a specific prescription for stoma material, you work with a recognised orthopaedic technologist or pharmacist-bandagist, and the products are on the RIZIV list."
+        ],
+        "nl": [
+          "Je hebt een stoma en/of fistel van het spijsverterings- en/of urinestelsel (colostoma, ileostoma, uro- of cystostoma of een andere locatie).",
+          "Je arts gaf je een specifiek voorschrift voor stomamateriaal, je werkt met een erkende orthopedisch technoloog of apotheker-bandagist, en de producten staan op de RIZIV-lijst."
+        ],
+        "fr": [
+          "Vous avez une stomie et/ou une fistule du système digestif et/ou urinaire (colostomie, iléostomie, urostomie/cystostomie ou autre localisation).",
+          "Votre médecin vous a donné une prescription spécifique de matériel de stomie, vous passez par un technologue orthopédique ou pharmacien-bandagiste agréé, et les produits figurent sur la liste INAMI."
+        ],
+        "de": [
+          "Sie haben ein Stoma und/oder eine Fistel des Verdauungs- und/oder Harnsystems (Kolostoma, Ileostoma, Uro-/Zystostoma oder andere Lage).",
+          "Ihr Arzt hat Ihnen Stomamaterial gezielt verordnet, Sie arbeiten mit einem anerkannten Orthopädietechniker oder Apotheker-Bandagisten, und die Produkte stehen auf der LIKIV-Liste."
+        ]
+      }
+    }
+  },
+  {
+    "id": 186,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/urinaire-autosondage-thuis",
+    "content": {
+      "en": {
+        "title": "Catheters for Self-Catheterisation at Home",
+        "desc": "Health insurance reimburses catheters for urinary self-catheterisation done at home by you or a trained person close to you (not a nurse): up to 5 a day for urinary retention or certain neurological conditions, up to 8 a day for a bladder capacity of at most 300 ml or a neurogenic bladder in children under 18.",
+        "deadline": "The authorisation lasts one year and can be extended (up to 5 years or 1 year depending on the condition).",
+        "amount": "Up to €1 (dry) or €2.70 per catheter; nothing to pay, or at most €1 for an advanced catheter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Specialist's application for reimbursement"
+          },
+          {
+            "type": "doc",
+            "label": "Prescription for the catheters"
+          }
+        ],
+        "steps": [
+          "A specialist sends the application for self-catheterisation at home to your health fund",
+          "If the advisory doctor approves, you receive an authorisation for one year",
+          "A specialist writes the first prescription; later ones can come from your treating doctor",
+          "Your pharmacist supplies the catheters and deducts the reimbursement"
+        ]
+      },
+      "nl": {
+        "title": "Sondes voor urinaire autosondage thuis",
+        "desc": "De ziekteverzekering betaalt sondes terug voor urinaire autosondage die thuis gebeurt door jezelf of een opgeleide naaste (geen verpleegkundige): maximaal 5 per dag bij retentieblaas of bepaalde neurologische aandoeningen, maximaal 8 per dag bij een blaascapaciteit van hoogstens 300 ml of een neurogene blaas bij kinderen onder 18.",
+        "deadline": "De machtiging geldt één jaar en kan verlengd worden (tot 5 jaar of 1 jaar naargelang de aandoening).",
+        "amount": "Tot €1 (droge sonde) of €2,70 per sonde; je betaalt niets, of hoogstens €1 bij een geavanceerde sonde",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraag tot vergoeding van de arts-specialist"
+          },
+          {
+            "type": "doc",
+            "label": "Voorschrift voor de sondes"
+          }
+        ],
+        "steps": [
+          "Een arts-specialist stuurt de aanvraag voor autosondage thuis naar je ziekenfonds",
+          "Keurt de adviserend arts goed, dan krijg je een machtiging voor één jaar",
+          "Een arts-specialist schrijft het eerste voorschrift; volgende kunnen van je behandelende arts komen",
+          "Je apotheker levert de sondes en trekt de terugbetaling af"
+        ]
+      },
+      "fr": {
+        "title": "Sondes pour l'autosondage urinaire à domicile",
+        "desc": "L'assurance soins de santé rembourse les sondes pour l'autosondage urinaire pratiqué à domicile par vous ou un proche formé (pas un infirmier) : jusqu'à 5 par jour en cas de vessie de rétention ou de certaines affections neurologiques, jusqu'à 8 par jour pour une capacité vésicale de 300 ml au plus ou une vessie neurogène chez l'enfant de moins de 18 ans.",
+        "deadline": "L'autorisation vaut un an et peut être prolongée (jusqu'à 5 ans ou 1 an selon l'affection).",
+        "amount": "Jusqu'à 1 € (sonde sèche) ou 2,70 € par sonde ; rien à payer, ou au plus 1 € pour une sonde avancée",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Demande de remboursement du médecin spécialiste"
+          },
+          {
+            "type": "doc",
+            "label": "Prescription des sondes"
+          }
+        ],
+        "steps": [
+          "Un médecin spécialiste envoie la demande d'autosondage à domicile à votre mutualité",
+          "Si le médecin-conseil l'accepte, vous recevez une autorisation d'un an",
+          "Un spécialiste rédige la première prescription ; les suivantes peuvent venir de votre médecin traitant",
+          "Votre pharmacien délivre les sondes et déduit le remboursement"
+        ]
+      },
+      "de": {
+        "title": "Katheter für die Selbstkatheterisierung zu Hause",
+        "desc": "Die Krankenversicherung erstattet Katheter für die Harnblasen-Selbstkatheterisierung zu Hause durch Sie selbst oder eine geschulte Bezugsperson (keine Pflegekraft): bis zu 5 pro Tag bei Restharnblase oder bestimmten neurologischen Erkrankungen, bis zu 8 pro Tag bei einer Blasenkapazität von höchstens 300 ml oder einer neurogenen Blase bei Kindern unter 18.",
+        "deadline": "Die Genehmigung gilt ein Jahr und kann verlängert werden (bis zu 5 Jahre oder 1 Jahr je nach Erkrankung).",
+        "amount": "Bis 1 € (trockener Katheter) oder 2,70 € pro Katheter; nichts zu zahlen oder höchstens 1 € bei einem fortgeschrittenen Katheter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Erstattungsantrag des Facharztes"
+          },
+          {
+            "type": "doc",
+            "label": "Verordnung für die Katheter"
+          }
+        ],
+        "steps": [
+          "Ein Facharzt schickt den Antrag auf Selbstkatheterisierung zu Hause an Ihre Krankenkasse",
+          "Stimmt der beratende Arzt zu, erhalten Sie eine Genehmigung für ein Jahr",
+          "Ein Facharzt stellt die erste Verordnung aus; weitere kann Ihr behandelnder Arzt ausstellen",
+          "Ihr Apotheker liefert die Katheter und zieht die Erstattung ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/urinaire-autosondage-thuis",
+      "conditions": {
+        "en": [
+          "You (or a trained person close to you, not a nurse or other care staff) do self-catheterisation at home.",
+          "You have one of the listed conditions: retention bladder with a residue of at least 100 ml after a spinal cord lesion or peripheral neuropathy (no residue condition under 18), paraplegia or tetraplegia with medication, a substitute or enlarged bladder, a bladder capacity of at most 300 ml, or a neurogenic bladder under 18.",
+          "In a care home or similar institution, extra conditions apply (self-catheterising for at least 6 months before admission, Katz category O or A, no dementia from GDS stage 4)."
+        ],
+        "nl": [
+          "Je voert (of een opgeleide naaste, geen verpleegkundige of ander zorgpersoneel voert) de autosondage thuis uit.",
+          "Je hebt een van de vermelde aandoeningen: retentieblaas met een residu van minstens 100 ml na een medullair letsel of perifere neuropathie (onder 18 geen residuvoorwaarde), paraplegie of tetraplegie met medicatie, een substitutie- of vergrotingsblaas, een blaascapaciteit van hoogstens 300 ml, of een neurogene blaas onder 18.",
+          "In een woonzorgcentrum of gelijkaardige instelling gelden extra voorwaarden (minstens 6 maanden autosondage vóór opname, Katz-categorie O of A, geen dementie vanaf GDS-fase 4)."
+        ],
+        "fr": [
+          "Vous (ou un proche formé, pas un infirmier ni autre personnel soignant) pratiquez l'autosondage à domicile.",
+          "Vous avez l'une des affections listées : vessie de rétention avec résidu d'au moins 100 ml après une lésion médullaire ou une neuropathie périphérique (pas de condition de résidu avant 18 ans), paraplégie ou tétraplégie sous médication, vessie de substitution ou d'agrandissement, capacité vésicale de 300 ml au plus, ou vessie neurogène avant 18 ans.",
+          "En maison de repos ou institution similaire, des conditions supplémentaires s'appliquent (autosondage depuis au moins 6 mois avant l'admission, catégorie Katz O ou A, pas de démence à partir du stade GDS 4)."
+        ],
+        "de": [
+          "Sie (oder eine geschulte Bezugsperson, keine Pflegekraft) führen die Selbstkatheterisierung zu Hause durch.",
+          "Sie haben eine der aufgeführten Erkrankungen: Restharnblase mit mindestens 100 ml Restharn nach Rückenmarksläsion oder peripherer Neuropathie (unter 18 ohne Restharnbedingung), Paraplegie oder Tetraplegie mit Medikation, Ersatz- oder Erweiterungsblase, Blasenkapazität von höchstens 300 ml oder neurogene Blase unter 18.",
+          "In einem Pflegeheim oder einer ähnlichen Einrichtung gelten zusätzliche Bedingungen (mindestens 6 Monate Selbstkatheterisierung vor der Aufnahme, Katz-Kategorie O oder A, keine Demenz ab GDS-Stadium 4)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 187,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/actieve-verbandmiddelen-voor-chronische-wonden",
+    "content": {
+      "en": {
+        "title": "Active Dressings for Chronic Wounds",
+        "desc": "Health insurance pays part of the price of active wound dressings on the RIZIV list for chronic wounds, on prescription and after the health fund authorises it. The pharmacist deducts the refund straight away, and your share counts towards the maximum bill.",
+        "deadline": "Each authorisation lasts up to 3 months and can be extended; after a year a specialist must re-assess.",
+        "amount": "40% of the public price of a box",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription"
+          },
+          {
+            "type": "doc",
+            "label": "Authorisation request (B102), filled in by your doctor"
+          }
+        ],
+        "steps": [
+          "Your treating doctor (or dermatologist) fills in the authorisation request and sends it to the advisory doctor",
+          "If approved, you receive an authorisation for up to 3 months",
+          "The pharmacist supplies the dressings on prescription and deducts the refund",
+          "For extensions, your doctor fills in the next part of the request"
+        ]
+      },
+      "nl": {
+        "title": "Actieve verbandmiddelen voor chronische wonden",
+        "desc": "De ziekteverzekering betaalt een deel van de prijs van actieve verbandmiddelen van de RIZIV-lijst voor chronische wonden, op voorschrift en na machtiging van het ziekenfonds. De apotheker trekt de terugbetaling meteen af, en je eigen deel telt mee voor de maximumfactuur.",
+        "deadline": "Elke machtiging geldt maximaal 3 maanden en kan verlengd worden; na een jaar moet een specialist opnieuw evalueren.",
+        "amount": "40% van de publieksprijs van een doos",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraag tot machtiging (B102), ingevuld door je arts"
+          }
+        ],
+        "steps": [
+          "Je behandelende arts (of dermatoloog) vult de aanvraag tot machtiging in en bezorgt ze aan de adviserend arts",
+          "Bij goedkeuring krijg je een machtiging voor maximaal 3 maanden",
+          "De apotheker levert de verbandmiddelen op voorschrift en trekt de terugbetaling af",
+          "Voor een verlenging vult je arts het volgende deel van de aanvraag in"
+        ]
+      },
+      "fr": {
+        "title": "Pansements actifs pour plaies chroniques",
+        "desc": "L'assurance soins de santé paie une partie du prix des pansements actifs de la liste INAMI pour les plaies chroniques, sur prescription et après autorisation de la mutualité. Le pharmacien déduit directement le remboursement, et votre part compte pour le maximum à facturer.",
+        "deadline": "Chaque autorisation vaut 3 mois au plus et peut être prolongée ; après un an, un spécialiste doit réévaluer.",
+        "amount": "40 % du prix public d'une boîte",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription"
+          },
+          {
+            "type": "doc",
+            "label": "Demande d'autorisation (B102), remplie par votre médecin"
+          }
+        ],
+        "steps": [
+          "Votre médecin traitant (ou dermatologue) remplit la demande d'autorisation et l'envoie au médecin-conseil",
+          "En cas d'accord, vous recevez une autorisation de 3 mois maximum",
+          "Le pharmacien délivre les pansements sur prescription et déduit le remboursement",
+          "Pour une prolongation, votre médecin remplit la partie suivante de la demande"
+        ]
+      },
+      "de": {
+        "title": "Aktive Wundauflagen für chronische Wunden",
+        "desc": "Die Krankenversicherung zahlt einen Teil des Preises aktiver Wundauflagen von der LIKIV-Liste für chronische Wunden, auf Verordnung und nach Genehmigung der Krankenkasse. Der Apotheker zieht die Erstattung sofort ab, und Ihr Eigenanteil zählt für die Höchstrechnung.",
+        "deadline": "Jede Genehmigung gilt höchstens 3 Monate und kann verlängert werden; nach einem Jahr muss ein Facharzt neu beurteilen.",
+        "amount": "40 % des öffentlichen Preises einer Packung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verordnung"
+          },
+          {
+            "type": "doc",
+            "label": "Genehmigungsantrag (B102), von Ihrem Arzt ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Ihr behandelnder Arzt (oder Dermatologe) füllt den Genehmigungsantrag aus und schickt ihn an den beratenden Arzt",
+          "Bei Zustimmung erhalten Sie eine Genehmigung für höchstens 3 Monate",
+          "Der Apotheker liefert die Wundauflagen auf Verordnung und zieht die Erstattung ab",
+          "Für eine Verlängerung füllt Ihr Arzt den nächsten Teil des Antrags aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/actieve-verbandmiddelen-voor-chronische-wonden",
+      "conditions": {
+        "en": [
+          "You have chronic wounds that have not healed enough after 6 weeks of adequate treatment.",
+          "They are due to one of the listed conditions: arterial, venous, diabetic or neuropathic ulcer, pressure ulcer stage II–IV, vasculitis ulcer, hidradenitis suppurativa, oncological, post-surgical or burn wounds, another chronic ulcer confirmed by a dermatologist, or junctional or dystrophic epidermolysis bullosa."
+        ],
+        "nl": [
+          "Je hebt chronische wonden die na 6 weken adequate behandeling onvoldoende genezen zijn.",
+          "Ze komen door een van de vermelde ziektebeelden: arterieel, veneus, diabetisch of neuropathisch ulcus, drukulcus stadium II–IV, ulcus door vasculitis, hidradenitis suppurativa, oncologische, post-chirurgische of brandwonden, een ander chronisch ulcus bevestigd door een dermatoloog, of junctionele of dystrofische epidermolysis bullosa."
+        ],
+        "fr": [
+          "Vous avez des plaies chroniques insuffisamment guéries après 6 semaines de traitement adéquat.",
+          "Elles sont dues à l'une des affections listées : ulcère artériel, veineux, diabétique ou neuropathique, escarre de stade II à IV, ulcère de vasculite, hidradénite suppurée, plaies oncologiques, post-chirurgicales ou brûlures, autre ulcère chronique confirmé par un dermatologue, ou épidermolyse bulleuse jonctionnelle ou dystrophique."
+        ],
+        "de": [
+          "Sie haben chronische Wunden, die nach 6 Wochen angemessener Behandlung nicht ausreichend verheilt sind.",
+          "Sie gehen auf eine der aufgeführten Erkrankungen zurück: arterielles, venöses, diabetisches oder neuropathisches Ulkus, Dekubitus Stadium II–IV, Vaskulitis-Ulkus, Hidradenitis suppurativa, onkologische, postoperative oder Brandwunden, ein anderes von einem Dermatologen bestätigtes chronisches Ulkus oder junktionale oder dystrophe Epidermolysis bullosa."
+        ]
+      }
+    }
+  },
+  {
+    "id": 188,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-moedermelk-voor-zwakke-te-vroeg-geboren-zuigelingen",
+    "content": {
+      "en": {
+        "title": "Donor Breast Milk for Vulnerable Premature Babies",
+        "desc": "Hospitals can collect surplus breast milk from mothers who wish to donate it, to feed the most vulnerable babies (premature with low weight or illness). Health insurance reimburses this breast milk in full.",
+        "deadline": "Handled by the hospital; there is nothing to apply for.",
+        "amount": "Fully reimbursed (the milk costs €0.60 per 10 ml)",
+        "requirements": [],
+        "steps": [
+          "The hospital team decides whether your baby needs donor breast milk",
+          "The hospital provides it; health insurance covers the full cost"
+        ]
+      },
+      "nl": {
+        "title": "Moedermelk voor zwakke, te vroeg geboren baby's",
+        "desc": "Ziekenhuizen kunnen bij moeders die dat wensen hun teveel aan moedermelk opvangen, om de zwakste baby's (te vroeg geboren met laag gewicht of ziekte) te voeden. De ziekteverzekering betaalt deze moedermelk volledig terug.",
+        "deadline": "Het ziekenhuis regelt dit; je hoeft niets aan te vragen.",
+        "amount": "Volledig terugbetaald (de melk kost €0,60 per 10 ml)",
+        "requirements": [],
+        "steps": [
+          "Het ziekenhuisteam beslist of je baby moedermelk van een donor nodig heeft",
+          "Het ziekenhuis zorgt ervoor; de ziekteverzekering betaalt de volledige kost"
+        ]
+      },
+      "fr": {
+        "title": "Lait maternel pour bébés prématurés fragiles",
+        "desc": "Les hôpitaux peuvent recueillir le surplus de lait des mères qui le souhaitent, pour nourrir les bébés les plus fragiles (prématurés de faible poids ou malades). L'assurance soins de santé rembourse entièrement ce lait maternel.",
+        "deadline": "L'hôpital s'en charge ; vous n'avez rien à demander.",
+        "amount": "Entièrement remboursé (le lait coûte 0,60 € par 10 ml)",
+        "requirements": [],
+        "steps": [
+          "L'équipe hospitalière décide si votre bébé a besoin de lait maternel de donneuse",
+          "L'hôpital le fournit ; l'assurance soins de santé couvre tout le coût"
+        ]
+      },
+      "de": {
+        "title": "Muttermilch für schwache Frühgeborene",
+        "desc": "Krankenhäuser können bei Müttern, die das möchten, überschüssige Muttermilch sammeln, um die schwächsten Babys (Frühgeborene mit niedrigem Gewicht oder Krankheit) zu ernähren. Die Krankenversicherung erstattet diese Muttermilch vollständig.",
+        "deadline": "Das Krankenhaus regelt dies; Sie müssen nichts beantragen.",
+        "amount": "Vollständig erstattet (die Milch kostet 0,60 € pro 10 ml)",
+        "requirements": [],
+        "steps": [
+          "Das Krankenhausteam entscheidet, ob Ihr Baby Spendermilch braucht",
+          "Das Krankenhaus stellt sie bereit; die Krankenversicherung übernimmt die vollen Kosten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-moedermelk-voor-zwakke-te-vroeg-geboren-zuigelingen",
+      "conditions": {
+        "en": [
+          "Your baby is among the most vulnerable infants (born prematurely with low weight or illness) and is fed donor breast milk collected by the hospital."
+        ],
+        "nl": [
+          "Je baby hoort bij de zwakste zuigelingen (te vroeg geboren met laag gewicht of ziekte) en krijgt door het ziekenhuis opgevangen moedermelk."
+        ],
+        "fr": [
+          "Votre bébé fait partie des nourrissons les plus fragiles (prématuré de faible poids ou malade) et reçoit du lait maternel recueilli par l'hôpital."
+        ],
+        "de": [
+          "Ihr Baby gehört zu den schwächsten Säuglingen (frühgeboren mit niedrigem Gewicht oder Krankheit) und erhält vom Krankenhaus gesammelte Muttermilch."
+        ]
+      }
+    }
+  },
+  {
+    "id": 189,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/long-covid-19-tegemoetkoming-in-de-kosten-van-zorg-bij-aanhoudende-covid-19-symptomen",
+    "content": {
+      "en": {
+        "title": "Free Extra Care for Long COVID",
+        "desc": "People with long COVID get extra care on a personalised treatment plan, free of charge, on top of regular care. Per treatment year: up to 60 physiotherapy sessions, a dietetic assessment and 7 sessions, an occupational therapy assessment and 14 sessions, and a neuropsychological assessment and 10 sessions. The plan runs 12 months and can be extended for a second year.",
+        "deadline": "The current agreement ends on 31 December 2026: care after that date is no longer covered under it.",
+        "amount": "Free: no personal share or supplements",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Treatment plan and prescriptions from your GP or specialist"
+          }
+        ],
+        "steps": [
+          "Your GP or a specialist diagnoses long COVID and draws up a treatment plan",
+          "Your GP activates your right to reimbursed care (a specialist sends the plan to your GP)",
+          "Your doctor writes prescriptions stating long COVID for each care provider in the plan",
+          "Get the care from those providers; you pay nothing"
+        ]
+      },
+      "nl": {
+        "title": "Gratis extra zorg bij long covid",
+        "desc": "Wie long covid heeft, krijgt bovenop de gewone zorg gratis extra zorg volgens een behandelplan op maat. Per behandeljaar: tot 60 kinesitherapiezittingen, een diëtetisch bilan en 7 zittingen, een ergotherapeutisch bilan en 14 zittingen, en een neuropsychologisch onderzoek en 10 zittingen. Het plan loopt 12 maanden en kan een tweede jaar verlengd worden.",
+        "deadline": "De huidige overeenkomst eindigt op 31 december 2026: zorg na die datum valt er niet meer onder.",
+        "amount": "Gratis: geen remgeld of supplementen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Behandelplan en voorschriften van je huisarts of specialist"
+          }
+        ],
+        "steps": [
+          "Je huisarts of een arts-specialist stelt de diagnose long covid en maakt een behandelplan op",
+          "Je huisarts activeert je recht op terugbetaalde zorg (een specialist bezorgt het plan aan je huisarts)",
+          "Je arts schrijft voor elke zorgverlener in het plan een voorschrift met vermelding van long covid",
+          "Volg de zorg bij die zorgverleners; je betaalt niets"
+        ]
+      },
+      "fr": {
+        "title": "Soins supplémentaires gratuits en cas de covid long",
+        "desc": "Les personnes atteintes de covid long reçoivent gratuitement des soins supplémentaires selon un plan de traitement personnalisé, en plus des soins habituels. Par année de traitement : jusqu'à 60 séances de kinésithérapie, un bilan diététique et 7 séances, un bilan d'ergothérapie et 14 séances, et un examen neuropsychologique et 10 séances. Le plan dure 12 mois et peut être prolongé d'une deuxième année.",
+        "deadline": "La convention actuelle prend fin le 31 décembre 2026 : les soins après cette date n'en relèvent plus.",
+        "amount": "Gratuit : pas de ticket modérateur ni de suppléments",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Plan de traitement et prescriptions de votre médecin généraliste ou spécialiste"
+          }
+        ],
+        "steps": [
+          "Votre médecin généraliste ou un spécialiste pose le diagnostic de covid long et établit un plan de traitement",
+          "Votre généraliste active votre droit aux soins remboursés (un spécialiste lui transmet le plan)",
+          "Votre médecin rédige pour chaque prestataire du plan une prescription mentionnant le covid long",
+          "Suivez les soins chez ces prestataires ; vous ne payez rien"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Zusatzversorgung bei Long COVID",
+        "desc": "Menschen mit Long COVID erhalten zusätzlich zur regulären Versorgung kostenlos Behandlungen nach einem persönlichen Behandlungsplan. Pro Behandlungsjahr: bis zu 60 Physiotherapiesitzungen, eine diätetische Bilanz und 7 Sitzungen, eine ergotherapeutische Bilanz und 14 Sitzungen sowie eine neuropsychologische Untersuchung und 10 Sitzungen. Der Plan läuft 12 Monate und kann um ein zweites Jahr verlängert werden.",
+        "deadline": "Die aktuelle Vereinbarung endet am 31. Dezember 2026: Versorgung nach diesem Datum fällt nicht mehr darunter.",
+        "amount": "Kostenlos: kein Eigenanteil und keine Zuschläge",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Behandlungsplan und Verordnungen Ihres Hausarztes oder Facharztes"
+          }
+        ],
+        "steps": [
+          "Ihr Hausarzt oder ein Facharzt stellt die Diagnose Long COVID und erstellt einen Behandlungsplan",
+          "Ihr Hausarzt aktiviert Ihren Anspruch auf erstattete Versorgung (ein Facharzt schickt ihm den Plan)",
+          "Ihr Arzt stellt für jeden Leistungserbringer im Plan eine Verordnung mit dem Vermerk Long COVID aus",
+          "Lassen Sie sich bei diesen Leistungserbringern behandeln; Sie zahlen nichts"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/long-covid-19-tegemoetkoming-in-de-kosten-van-zorg-bij-aanhoudende-covid-19-symptomen",
+      "conditions": {
+        "en": [
+          "You still have symptoms at least 4 weeks after an acute COVID-19 infection, and a GP or specialist confirms long COVID after a thorough examination.",
+          "Any age, whether or not you were hospitalised for COVID-19."
+        ],
+        "nl": [
+          "Je hebt minstens 4 weken na een acute COVID-19-infectie nog klachten, en een huisarts of specialist bevestigt long covid na een uitgebreid onderzoek.",
+          "Ongeacht je leeftijd en of je al dan niet in het ziekenhuis lag voor COVID-19."
+        ],
+        "fr": [
+          "Vous avez encore des symptômes au moins 4 semaines après une infection aiguë au COVID-19, et un généraliste ou spécialiste confirme le covid long après un examen approfondi.",
+          "Quel que soit votre âge et que vous ayez été hospitalisé(e) ou non pour le COVID-19."
+        ],
+        "de": [
+          "Sie haben mindestens 4 Wochen nach einer akuten COVID-19-Infektion noch Beschwerden, und ein Haus- oder Facharzt bestätigt Long COVID nach gründlicher Untersuchung.",
+          "Unabhängig vom Alter und davon, ob Sie wegen COVID-19 im Krankenhaus waren."
+        ]
+      }
+    }
+  },
+  {
+    "id": 190,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/afbouwprogramma-voor-benzodiazepines-en-aanverwante-producten-z-drugs",
+    "content": {
+      "en": {
+        "title": "Tapering Programme for Sleeping Pills (Benzodiazepines and Z-Drugs)",
+        "desc": "If you take a benzodiazepine or Z-drug as a sleeping pill every day, you can taper off safely: your doctor sets a schedule of 5, 7 or 10 steps, and one pharmacy of your choice prepares capsules with a dose that drops step by step, with an introductory and a follow-up talk. RIZIV pays all the pharmacist's fees.",
+        "deadline": "Follow the whole programme in one pharmacy; your doctor writes one prescription per step (at most two per consultation).",
+        "amount": "You only pay the doctor's consultations and the box of medicine used for the capsules",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Agreement form filled in by your doctor and pharmacist"
+          },
+          {
+            "type": "doc",
+            "label": "Prescription for each tapering step"
+          }
+        ],
+        "steps": [
+          "Agree a tapering schedule with your doctor, who fills in the agreement form",
+          "Take the form and prescription to the pharmacy of your choice; the pharmacist completes the form",
+          "Have an introductory talk with your pharmacist",
+          "Collect the prepared capsules at each step; ask for a follow-up talk if you need support"
+        ]
+      },
+      "nl": {
+        "title": "Afbouwprogramma voor slaapmiddelen (benzodiazepines en Z-drugs)",
+        "desc": "Neem je elke dag een benzodiazepine of Z-drug als slaapmiddel, dan kan je veilig afbouwen: je arts stelt een schema op van 5, 7 of 10 stappen, en één apotheek naar keuze bereidt capsules met een dosis die stap voor stap daalt, met een inleidings- en opvolggesprek. Het RIZIV betaalt alle honoraria van de apotheker.",
+        "deadline": "Volg het hele programma in één apotheek; je arts schrijft per stap een voorschrift (maximaal twee per raadpleging).",
+        "amount": "Je betaalt enkel de raadplegingen bij je arts en de doos geneesmiddel die voor de capsules gebruikt wordt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Overeenkomstformulier ingevuld door je arts en apotheker"
+          },
+          {
+            "type": "doc",
+            "label": "Voorschrift voor elke afbouwstap"
+          }
+        ],
+        "steps": [
+          "Spreek met je arts een afbouwschema af; die vult het overeenkomstformulier in",
+          "Breng het formulier en het voorschrift naar de apotheek van je keuze; de apotheker vult het formulier aan",
+          "Heb een inleidingsgesprek met je apotheker",
+          "Haal bij elke stap de bereide capsules op; vraag een opvolggesprek als je steun nodig hebt"
+        ]
+      },
+      "fr": {
+        "title": "Programme de sevrage des somnifères (benzodiazépines et Z-drugs)",
+        "desc": "Si vous prenez chaque jour une benzodiazépine ou un Z-drug comme somnifère, vous pouvez arrêter progressivement en toute sécurité : votre médecin établit un schéma de 5, 7 ou 10 étapes, et une pharmacie de votre choix prépare des gélules dont la dose diminue par paliers, avec un entretien d'introduction et un de suivi. L'INAMI paie tous les honoraires du pharmacien.",
+        "deadline": "Suivez tout le programme dans une seule pharmacie ; votre médecin rédige une prescription par étape (deux au plus par consultation).",
+        "amount": "Vous ne payez que les consultations chez le médecin et la boîte de médicament utilisée pour les gélules",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de convention rempli par votre médecin et votre pharmacien"
+          },
+          {
+            "type": "doc",
+            "label": "Prescription pour chaque étape"
+          }
+        ],
+        "steps": [
+          "Convenez d'un schéma de sevrage avec votre médecin, qui remplit le formulaire de convention",
+          "Apportez le formulaire et la prescription à la pharmacie de votre choix ; le pharmacien complète le formulaire",
+          "Ayez un entretien d'introduction avec votre pharmacien",
+          "Retirez les gélules préparées à chaque étape ; demandez un entretien de suivi si vous avez besoin de soutien"
+        ]
+      },
+      "de": {
+        "title": "Ausschleichprogramm für Schlafmittel (Benzodiazepine und Z-Substanzen)",
+        "desc": "Nehmen Sie täglich ein Benzodiazepin oder eine Z-Substanz als Schlafmittel, können Sie sicher ausschleichen: Ihr Arzt erstellt einen Plan mit 5, 7 oder 10 Stufen, und eine Apotheke Ihrer Wahl bereitet Kapseln mit schrittweise sinkender Dosis zu, mit einem Einführungs- und einem Folgegespräch. Das LIKIV zahlt alle Honorare des Apothekers.",
+        "deadline": "Folgen Sie dem ganzen Programm in einer einzigen Apotheke; Ihr Arzt stellt pro Stufe eine Verordnung aus (höchstens zwei pro Konsultation).",
+        "amount": "Sie zahlen nur die Arztkonsultationen und die Packung Arzneimittel, die für die Kapseln verwendet wird",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vereinbarungsformular, von Arzt und Apotheker ausgefüllt"
+          },
+          {
+            "type": "doc",
+            "label": "Verordnung für jede Stufe"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie mit Ihrem Arzt einen Ausschleichplan; er füllt das Vereinbarungsformular aus",
+          "Bringen Sie Formular und Verordnung zur Apotheke Ihrer Wahl; der Apotheker ergänzt das Formular",
+          "Führen Sie ein Einführungsgespräch mit Ihrem Apotheker",
+          "Holen Sie bei jeder Stufe die zubereiteten Kapseln ab; bitten Sie um ein Folgegespräch, wenn Sie Unterstützung brauchen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/afbouwprogramma-voor-benzodiazepines-en-aanverwante-producten-z-drugs",
+      "conditions": {
+        "en": [
+          "For at least three months you have taken a single benzodiazepine or Z-drug every day, at no more than three times the usual dose.",
+          "You are an adult, do not live in a residential care centre or other institution, and have given eHealth consent and consent for continued pharmaceutical care to your pharmacy."
+        ],
+        "nl": [
+          "Je neemt sinds minstens drie maanden elke dag één enkele benzodiazepine of Z-drug, aan maximaal drie keer de gebruikelijke dosis.",
+          "Je bent meerderjarig, woont niet in een woonzorgcentrum of andere instelling, en gaf toestemming voor eHealthConsent en voor voortgezette farmaceutische zorg bij je apotheek."
+        ],
+        "fr": [
+          "Depuis au moins trois mois, vous prenez chaque jour une seule benzodiazépine ou un seul Z-drug, à trois fois la dose habituelle au maximum.",
+          "Vous êtes majeur(e), n'habitez pas en maison de repos ou autre institution, et avez donné votre consentement eHealth et pour les soins pharmaceutiques continus à votre pharmacie."
+        ],
+        "de": [
+          "Sie nehmen seit mindestens drei Monaten täglich ein einziges Benzodiazepin oder eine einzige Z-Substanz, höchstens in dreifacher üblicher Dosis.",
+          "Sie sind volljährig, wohnen nicht in einem Pflegeheim oder einer anderen Einrichtung und haben die eHealth-Einwilligung sowie die Einwilligung zur fortgesetzten pharmazeutischen Betreuung bei Ihrer Apotheke gegeben."
+        ]
+      }
+    }
+  },
+  {
+    "id": 191,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/palliatieve-zorg/palliatieve-zorg-nu-bespreken-voor-een-kwalitatieve-zorg-later-dat-is-advance-care-planning",
+    "content": {
+      "en": {
+        "title": "Free Advance Care Planning Talks with Your GP",
+        "desc": "Palliative patients can plan their future care with their GP (the one who holds their global medical file, or a colleague in the same practice): written advance directives on what you do or don't want, your personal care goals, and naming a legal representative. The talks are recorded in your medical file.",
+        "deadline": "You can start whenever you and your GP agree; the GP bills the health fund directly.",
+        "amount": "Free: fully reimbursed",
+        "requirements": [],
+        "steps": [
+          "Raise advance care planning with your GP",
+          "Your GP checks whether you are identified as a palliative patient (PICT scale)",
+          "Discuss your wishes, care goals and a possible representative; your GP records them in your file"
+        ]
+      },
+      "nl": {
+        "title": "Gratis gesprekken over vroegtijdige zorgplanning bij je huisarts",
+        "desc": "Palliatieve patiënten kunnen hun toekomstige zorg plannen met hun huisarts (die hun globaal medisch dossier beheert, of een collega uit dezelfde praktijk): schriftelijke wilsverklaringen over wat je wel of niet wil, je persoonlijke zorgdoelen, en de aanduiding van een vertegenwoordiger. De gesprekken worden vastgelegd in je medisch dossier.",
+        "deadline": "Je kan starten wanneer jij en je huisarts dat afspreken; de huisarts factureert rechtstreeks aan het ziekenfonds.",
+        "amount": "Gratis: volledig terugbetaald",
+        "requirements": [],
+        "steps": [
+          "Breng vroegtijdige zorgplanning ter sprake bij je huisarts",
+          "Je huisarts gaat na of je als palliatieve patiënt geïdentificeerd bent (PICT-schaal)",
+          "Bespreek je wensen, zorgdoelen en een eventuele vertegenwoordiger; je huisarts legt ze vast in je dossier"
+        ]
+      },
+      "fr": {
+        "title": "Entretiens gratuits de planification anticipée des soins avec votre généraliste",
+        "desc": "Les patients palliatifs peuvent planifier leurs soins futurs avec leur médecin généraliste (celui qui gère leur dossier médical global, ou un collègue du même cabinet) : déclarations anticipées écrites sur ce que vous voulez ou non, vos objectifs de soins personnels, et désignation d'un représentant. Les entretiens sont consignés dans votre dossier médical.",
+        "deadline": "Vous pouvez commencer quand vous et votre généraliste le décidez ; le généraliste facture directement la mutualité.",
+        "amount": "Gratuit : entièrement remboursé",
+        "requirements": [],
+        "steps": [
+          "Abordez la planification anticipée des soins avec votre généraliste",
+          "Votre généraliste vérifie si vous êtes identifié(e) comme patient palliatif (échelle PICT)",
+          "Discutez de vos souhaits, objectifs de soins et d'un éventuel représentant ; votre généraliste les consigne dans votre dossier"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Gespräche zur vorausschauenden Versorgungsplanung beim Hausarzt",
+        "desc": "Palliativpatienten können ihre künftige Versorgung mit ihrem Hausarzt planen (der ihre globale medizinische Akte führt, oder einem Kollegen derselben Praxis): schriftliche Willenserklärungen, was Sie wollen oder nicht, Ihre persönlichen Versorgungsziele und die Benennung eines Vertreters. Die Gespräche werden in Ihrer Akte festgehalten.",
+        "deadline": "Sie können beginnen, wann Sie und Ihr Hausarzt es vereinbaren; der Hausarzt rechnet direkt mit der Krankenkasse ab.",
+        "amount": "Kostenlos: vollständig erstattet",
+        "requirements": [],
+        "steps": [
+          "Sprechen Sie Ihren Hausarzt auf vorausschauende Versorgungsplanung an",
+          "Ihr Hausarzt prüft, ob Sie als Palliativpatient eingestuft sind (PICT-Skala)",
+          "Besprechen Sie Wünsche, Versorgungsziele und einen möglichen Vertreter; Ihr Hausarzt hält sie in Ihrer Akte fest"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/palliatieve-zorg/palliatieve-zorg-nu-bespreken-voor-een-kwalitatieve-zorg-later-dat-is-advance-care-planning",
+      "conditions": {
+        "en": [
+          "You have an incurable illness and are identified as a palliative patient on the PICT scale, with the proof kept in your medical file.",
+          "The talks are with the GP who holds your global medical file or a GP from the same practice group."
+        ],
+        "nl": [
+          "Je hebt een ongeneeslijke ziekte en bent op basis van de PICT-schaal geïdentificeerd als palliatieve patiënt, met het bewijs in je medisch dossier.",
+          "De gesprekken gebeuren met de huisarts die je globaal medisch dossier beheert of een huisarts uit dezelfde groepering."
+        ],
+        "fr": [
+          "Vous avez une maladie incurable et êtes identifié(e) comme patient palliatif sur l'échelle PICT, la preuve étant conservée dans votre dossier médical.",
+          "Les entretiens ont lieu avec le généraliste qui gère votre dossier médical global ou un généraliste du même groupement."
+        ],
+        "de": [
+          "Sie haben eine unheilbare Krankheit und sind nach der PICT-Skala als Palliativpatient eingestuft; der Nachweis liegt in Ihrer Akte.",
+          "Die Gespräche finden mit dem Hausarzt statt, der Ihre globale medizinische Akte führt, oder einem Hausarzt derselben Gruppierung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 192,
+    "category": "family",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Federale Pensioendienst / Service fédéral des Pensions",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.sfpd.fgov.be/nl/overlijden/begrafenisvergoeding",
+    "content": {
+      "en": {
+        "title": "Funeral Allowance after the Death of a Retired Civil Servant",
+        "desc": "When a retired civil servant dies, the Federal Pension Service pays a funeral allowance. The spouse and direct heirs get the last gross monthly retirement pension; others who paid the funeral get their actual costs, up to that same amount. For railway pensions, HR Rail handles it.",
+        "deadline": "Apply within 10 years of the death (railway pensions: within 12 months, to HR Rail). A spouse usually gets a letter automatically.",
+        "amount": "Last gross monthly pension, at most €3,631.01 (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate or deed of inheritance (from the registration office or a notary)"
+          },
+          {
+            "type": "doc",
+            "label": "Copies of paid funeral invoices in your name, if you are not a direct heir"
+          }
+        ],
+        "steps": [
+          "Spouse: wait for the Federal Pension Service's letter; there is usually nothing to do",
+          "Others: apply online with the Federal Pension Service and add the certificate of inheritance",
+          "Several heirs: authorise one of them with the proxy form",
+          "If you paid the funeral but are not a direct heir, add copies of the paid invoices (keep the originals)"
+        ]
+      },
+      "nl": {
+        "title": "Begrafenisvergoeding na het overlijden van een gepensioneerde ambtenaar",
+        "desc": "Overlijdt een gepensioneerde ambtenaar, dan betaalt de Federale Pensioendienst een begrafenisvergoeding. De huwelijkspartner en erfgenamen in rechte lijn krijgen het laatste brutomaandbedrag van het rustpensioen; anderen die de begrafenis betaalden krijgen hun werkelijke kosten, tot datzelfde bedrag. Bij een spoorwegpensioen regelt HR Rail dit.",
+        "deadline": "Vraag aan binnen 10 jaar na het overlijden (spoorwegpensioen: binnen 12 maanden, bij HR Rail). Een huwelijkspartner krijgt meestal automatisch een brief.",
+        "amount": "Laatste brutomaandpensioen, maximaal €3.631,01 (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest of akte van erfopvolging (van het registratiekantoor of een notaris)"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van betaalde begrafenisfacturen op jouw naam, als je geen erfgenaam in rechte lijn bent"
+          }
+        ],
+        "steps": [
+          "Huwelijkspartner: wacht op de brief van de Federale Pensioendienst; meestal hoef je niets te doen",
+          "Anderen: vraag online aan bij de Federale Pensioendienst en voeg het attest van erfopvolging toe",
+          "Meerdere erfgenamen: machtig één van hen met het volmachtformulier",
+          "Betaalde je de begrafenis maar ben je geen erfgenaam in rechte lijn, voeg dan kopieën van de betaalde facturen toe (bewaar de originelen)"
+        ]
+      },
+      "fr": {
+        "title": "Indemnité funéraire après le décès d'un fonctionnaire pensionné",
+        "desc": "Au décès d'un fonctionnaire pensionné, le Service fédéral des Pensions verse une indemnité funéraire. Le conjoint et les héritiers en ligne directe reçoivent le dernier montant mensuel brut de la pension de retraite ; les autres personnes ayant payé les funérailles reçoivent leurs frais réels, jusqu'à ce même montant. Pour une pension des chemins de fer, c'est HR Rail.",
+        "deadline": "Demandez dans les 10 ans suivant le décès (pension des chemins de fer : dans les 12 mois, auprès de HR Rail). Le conjoint reçoit en général un courrier automatiquement.",
+        "amount": "Dernière pension mensuelle brute, au maximum 3.631,01 € (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat ou acte d'hérédité (du bureau de l'enregistrement ou d'un notaire)"
+          },
+          {
+            "type": "doc",
+            "label": "Copies des factures funéraires acquittées à votre nom, si vous n'êtes pas héritier en ligne directe"
+          }
+        ],
+        "steps": [
+          "Conjoint : attendez le courrier du Service fédéral des Pensions ; en général rien à faire",
+          "Autres : demandez en ligne auprès du Service fédéral des Pensions en joignant le certificat d'hérédité",
+          "Plusieurs héritiers : mandatez l'un d'eux avec le formulaire de procuration",
+          "Si vous avez payé les funérailles sans être héritier direct, joignez des copies des factures acquittées (gardez les originaux)"
+        ]
+      },
+      "de": {
+        "title": "Bestattungsgeld nach dem Tod eines pensionierten Beamten",
+        "desc": "Stirbt ein pensionierter Beamter, zahlt der Föderale Pensionsdienst ein Bestattungsgeld. Ehepartner und Erben in direkter Linie erhalten den letzten Bruttomonatsbetrag der Ruhestandspension; andere, die die Beerdigung bezahlt haben, erhalten ihre tatsächlichen Kosten bis zu diesem Betrag. Bei Eisenbahnpensionen ist HR Rail zuständig.",
+        "deadline": "Beantragen Sie innerhalb von 10 Jahren nach dem Tod (Eisenbahnpension: innerhalb von 12 Monaten bei HR Rail). Ehepartner erhalten meist automatisch einen Brief.",
+        "amount": "Letzte Bruttomonatspension, höchstens 3.631,01 € (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Erbbescheinigung oder Erbschaftsurkunde (vom Registrierungsamt oder Notar)"
+          },
+          {
+            "type": "doc",
+            "label": "Kopien quittierter Bestattungsrechnungen auf Ihren Namen, wenn Sie kein Erbe in direkter Linie sind"
+          }
+        ],
+        "steps": [
+          "Ehepartner: Warten Sie auf den Brief des Föderalen Pensionsdienstes; meist ist nichts zu tun",
+          "Andere: Beantragen Sie online beim Föderalen Pensionsdienst und fügen Sie die Erbbescheinigung bei",
+          "Mehrere Erben: Bevollmächtigen Sie einen von ihnen mit dem Vollmachtsformular",
+          "Haben Sie die Beerdigung bezahlt, sind aber kein direkter Erbe, fügen Sie Kopien der quittierten Rechnungen bei (Originale behalten)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.sfpd.fgov.be/nl/overlijden/begrafenisvergoeding",
+      "conditions": {
+        "en": [
+          "The deceased received a civil-service retirement pension from the Federal Pension Service (or a railway pension from HR Rail). Employee, self-employed and other public-sector pensions (survivor's, compensation, colonial) do not give this right, except some survivor's pensions for VRT staff and East Flanders provincial office-holders.",
+          "First in line: the spouse who lived with the deceased, or a spouse living elsewhere who paid the funeral. Without a spouse: a direct heir (child, grandchild, parent) or any person who paid the funeral and can prove it."
+        ],
+        "nl": [
+          "De overledene ontving een ambtenarenrustpensioen van de Federale Pensioendienst (of een spoorwegpensioen van HR Rail). Werknemers-, zelfstandigen- en andere overheidspensioenen (overlevings-, vergoedings-, koloniale pensioenen) geven geen recht, behalve sommige overlevingspensioenen voor VRT-personeel en mandatarissen van de provincie Oost-Vlaanderen.",
+          "Eerst: de huwelijkspartner die officieel samenwoonde met de overledene, of een huwelijkspartner op een ander adres die de begrafenis betaalde. Zonder huwelijkspartner: een erfgenaam in rechte lijn (kind, kleinkind, ouder) of iedereen die de begrafenis betaalde en dat kan aantonen."
+        ],
+        "fr": [
+          "Le défunt percevait une pension de retraite de fonctionnaire du Service fédéral des Pensions (ou une pension des chemins de fer de HR Rail). Les pensions de salarié, d'indépendant et les autres pensions du secteur public (survie, réparation, coloniales) n'ouvrent pas ce droit, sauf certaines pensions de survie du personnel de la VRT et des mandataires de la province de Flandre orientale.",
+          "En priorité : le conjoint qui cohabitait officiellement avec le défunt, ou le conjoint domicilié ailleurs qui a payé les funérailles. Sans conjoint : un héritier en ligne directe (enfant, petit-enfant, parent) ou toute personne ayant payé les funérailles et pouvant le prouver."
+        ],
+        "de": [
+          "Der Verstorbene bezog eine Beamten-Ruhestandspension vom Föderalen Pensionsdienst (oder eine Eisenbahnpension von HR Rail). Arbeitnehmer-, Selbstständigen- und andere Pensionen des öffentlichen Sektors (Hinterbliebenen-, Entschädigungs-, Kolonialpensionen) begründen keinen Anspruch, außer einigen Hinterbliebenenpensionen für VRT-Personal und Mandatsträger der Provinz Ostflandern.",
+          "Vorrangig: der Ehepartner, der offiziell mit dem Verstorbenen zusammenlebte, oder ein anderswo wohnender Ehepartner, der die Beerdigung bezahlt hat. Ohne Ehepartner: ein Erbe in direkter Linie (Kind, Enkel, Elternteil) oder jede Person, die die Beerdigung bezahlt hat und das nachweisen kann."
+        ]
+      }
+    }
+  },
+  {
+    "id": 193,
+    "category": "employment",
+    "situations": [
+      "health-issue",
+      "job-loss",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RIZIV-INAMI (Terug Naar Werk-fonds / Fonds Retour au travail)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/socio-professionele-re-integratie/terug-naar-werk-fonds-nieuwe-perspectieven-voor-mensen-in-arbeidsongeschiktheid-dankzij-gespecialiseerde-dienstverlening-op-maat",
+    "request_url": "https://webapps.riziv-inami.fgov.be/tnwfonds-application-fo/nl/employeeform",
+    "content": {
+      "en": {
+        "title": "Back to Work Fund Voucher",
+        "desc": "If you are unfit for work and your employer ended your contract for medical force majeure, or you have been unfit for more than a year, you can get a voucher for tailored support (such as career guidance or coaching) from a recognised provider, to take real steps back to work. If the fund has no money left, you go on a waiting list.",
+        "deadline": "After a dismissal for medical force majeure (from 1 April 2024), apply within 6 months of the end of the contract. The voucher is valid for 6 months.",
+        "amount": "A voucher worth up to €1,800",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "National register number"
+          },
+          {
+            "type": "doc",
+            "label": "Online or paper application form"
+          }
+        ],
+        "steps": [
+          "Find a recognised provider through RIZIV's web tool",
+          "Apply online (or send the paper form to RIZIV, Galileelaan 5/0, 1210 Brussels; e-mail is not accepted)",
+          "RIZIV decides within 45 days if the application is complete and funds are available",
+          "Give the voucher to your chosen provider"
+        ]
+      },
+      "nl": {
+        "title": "Voucher van het Terug Naar Werk-fonds",
+        "desc": "Ben je arbeidsongeschikt en beëindigde je werkgever je contract wegens medische overmacht, of ben je langer dan een jaar arbeidsongeschikt, dan kan je een voucher krijgen voor begeleiding op maat (zoals loopbaanbegeleiding of coaching) bij een erkende dienstverlener, om echte stappen naar werk te zetten. Is er geen geld meer in het fonds, dan kom je op een wachtlijst.",
+        "deadline": "Na ontslag wegens medische overmacht (vanaf 1 april 2024) vraag je aan binnen 6 maanden na het einde van het contract. De voucher is 6 maanden geldig.",
+        "amount": "Een voucher van maximaal €1.800",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Rijksregisternummer"
+          },
+          {
+            "type": "doc",
+            "label": "Online of papieren aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Zoek een erkende dienstverlener via de webtoepassing van het RIZIV",
+          "Vraag online aan (of stuur het papieren formulier naar RIZIV, Galileelaan 5/0, 1210 Brussel; e-mail wordt niet aanvaard)",
+          "Het RIZIV beslist binnen 45 dagen als de aanvraag volledig is en er middelen zijn",
+          "Geef de voucher aan je gekozen dienstverlener"
+        ]
+      },
+      "fr": {
+        "title": "Chèque du Fonds Retour au travail",
+        "desc": "Si vous êtes en incapacité de travail et que votre employeur a mis fin à votre contrat pour force majeure médicale, ou si vous êtes en incapacité depuis plus d'un an, vous pouvez recevoir un chèque pour un accompagnement sur mesure (comme un accompagnement de carrière ou du coaching) auprès d'un prestataire agréé, afin de faire de vrais pas vers le travail. Si le fonds n'a plus de moyens, vous êtes placé(e) sur une liste d'attente.",
+        "deadline": "Après un licenciement pour force majeure médicale (dès le 1er avril 2024), demandez dans les 6 mois suivant la fin du contrat. Le chèque est valable 6 mois.",
+        "amount": "Un chèque de 1.800 € au maximum",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Numéro de registre national"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande en ligne ou papier"
+          }
+        ],
+        "steps": [
+          "Trouvez un prestataire agréé via l'application web de l'INAMI",
+          "Demandez en ligne (ou envoyez le formulaire papier à l'INAMI, avenue Galilée 5/0, 1210 Bruxelles ; pas par e-mail)",
+          "L'INAMI décide dans les 45 jours si la demande est complète et que des moyens sont disponibles",
+          "Remettez le chèque au prestataire choisi"
+        ]
+      },
+      "de": {
+        "title": "Gutschein des Fonds „Zurück zur Arbeit“",
+        "desc": "Sind Sie arbeitsunfähig und hat Ihr Arbeitgeber Ihren Vertrag wegen medizinischer höherer Gewalt beendet, oder sind Sie seit über einem Jahr arbeitsunfähig, können Sie einen Gutschein für maßgeschneiderte Begleitung (etwa Laufbahnberatung oder Coaching) bei einem anerkannten Dienstleister erhalten, um echte Schritte zurück in die Arbeit zu machen. Hat der Fonds keine Mittel mehr, kommen Sie auf eine Warteliste.",
+        "deadline": "Nach einer Kündigung wegen medizinischer höherer Gewalt (ab 1. April 2024) beantragen Sie innerhalb von 6 Monaten nach Vertragsende. Der Gutschein ist 6 Monate gültig.",
+        "amount": "Ein Gutschein von höchstens 1.800 €",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Nationalregisternummer"
+          },
+          {
+            "type": "doc",
+            "label": "Online- oder Papier-Antragsformular"
+          }
+        ],
+        "steps": [
+          "Suchen Sie über die Webanwendung des LIKIV einen anerkannten Dienstleister",
+          "Beantragen Sie online (oder schicken Sie das Papierformular an das LIKIV, Galileelaan 5/0, 1210 Brüssel; keine E-Mail)",
+          "Das LIKIV entscheidet binnen 45 Tagen, wenn der Antrag vollständig ist und Mittel verfügbar sind",
+          "Geben Sie den Gutschein Ihrem gewählten Dienstleister"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/socio-professionele-re-integratie/terug-naar-werk-fonds-nieuwe-perspectieven-voor-mensen-in-arbeidsongeschiktheid-dankzij-gespecialiseerde-dienstverlening-op-maat",
+      "conditions": {
+        "en": [
+          "Either you are recognised as unfit for work and your employer ended your employment contract for medical force majeure (on or after 1 April 2024), and you apply within 6 months; or, as an employee or jobseeker, you have been recognised as unfit for work for more than a year (invalidity).",
+          "You are not already in a retraining approved by the High Commission of the Medical Council for Invalidity."
+        ],
+        "nl": [
+          "Ofwel ben je arbeidsongeschikt erkend en beëindigde je werkgever je arbeidsovereenkomst wegens medische overmacht (op of na 1 april 2024), en vraag je aan binnen 6 maanden; ofwel ben je als werknemer of werkzoekende langer dan een jaar arbeidsongeschikt erkend (invaliditeit).",
+          "Je volgt nog geen herscholing die goedgekeurd is door de Hoge Commissie van de Geneeskundige Raad voor Invaliditeit."
+        ],
+        "fr": [
+          "Soit vous êtes reconnu(e) en incapacité de travail et votre employeur a mis fin à votre contrat pour force majeure médicale (le 1er avril 2024 ou après), et vous demandez dans les 6 mois ; soit, comme salarié(e) ou demandeur d'emploi, vous êtes reconnu(e) en incapacité depuis plus d'un an (invalidité).",
+          "Vous ne suivez pas déjà une réadaptation approuvée par la Commission supérieure du Conseil médical de l'invalidité."
+        ],
+        "de": [
+          "Entweder sind Sie als arbeitsunfähig anerkannt und Ihr Arbeitgeber hat Ihren Arbeitsvertrag wegen medizinischer höherer Gewalt beendet (am oder nach dem 1. April 2024), und Sie beantragen innerhalb von 6 Monaten; oder Sie sind als Arbeitnehmer oder Arbeitsuchender seit über einem Jahr als arbeitsunfähig anerkannt (Invalidität).",
+          "Sie absolvieren noch keine von der Hohen Kommission des Ärztlichen Invaliditätsrates genehmigte Umschulung."
+        ]
+      }
+    }
   }
 ]

@@ -56,14 +56,20 @@
     "2026": 9,
     "2847": 110,
     "2945": 156,
+    "2950": 182,
+    "2952": 182,
     "2954": 165,
     "2955": 166,
     "2957": 163,
     "2958": 164,
+    "2960": 183,
     "2962": 162,
+    "2963": 188,
+    "2964": 192,
     "2965": 171,
     "2966": 171,
     "2968": 170,
+    "2969": 185,
     "2971": 124,
     "2972": 125,
     "2974": 173,
@@ -80,9 +86,14 @@
     "3016": 89,
     "3034": 118,
     "3036": 118,
+    "3037": 184,
+    "3038": 189,
     "3046": 167,
+    "3049": 187,
     "3050": 117,
+    "3052": 191,
     "3056": 123,
+    "3057": 186,
     "3061": 157,
     "3062": 161,
     "3068": 25,
@@ -106,10 +117,12 @@
     "38554": 155,
     "43693": 106,
     "49892": 107,
+    "51544": 193,
     "75001": 130,
     "75018": 93,
     "75067": 136,
     "75762": 172,
+    "75766": 190,
     "77094": 27
   },
   "queue": [
@@ -518,57 +531,12 @@
       ]
     },
     {
-      "nr": "3038",
-      "name": "Tegemoetkomingen in de kosten van zorg bij aanhoudende COVID-19-symptomen (Long-COVID-19)",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/long-covid-19-tegemoetkoming-in-de-kosten-van-zorg-bij-aanhoudende-covid-19-symptomen"
-      ]
-    },
-    {
       "nr": "2947",
       "name": "Tegemoetkomingen voor patiënten met het primair syndroom van Sjögren",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkomingen-voor-patienten-met-het-primair-syndroom-van-sjogren"
-      ]
-    },
-    {
-      "nr": "51544",
-      "name": "Terug Naar Werk-fonds",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/socio-professionele-re-integratie/terug-naar-werk-fonds-nieuwe-perspectieven-voor-mensen-in-arbeidsongeschiktheid-dankzij-gespecialiseerde-dienstverlening-op-maat"
-      ]
-    },
-    {
-      "nr": "3052",
-      "name": "Terugbetaling Advance Care Planning  of vroegtijdige zorgplanning voor palliatieve zorg",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/palliatieve-zorg/palliatieve-zorg-nu-bespreken-voor-een-kwalitatieve-zorg-later-dat-is-advance-care-planning"
-      ]
-    },
-    {
-      "nr": "75766",
-      "name": "Terugbetaling afbouwprogramma voor benzodiazepines en aanverwante producten (Z-drugs)",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/afbouwprogramma-voor-benzodiazepines-en-aanverwante-producten-z-drugs"
-      ]
-    },
-    {
-      "nr": "2964",
-      "name": "Terugbetaling begrafeniskosten bij overlijden van een ambtenaar",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.sfpd.fgov.be/nl/overlijden/begrafenisvergoeding"
       ]
     },
     {
@@ -590,57 +558,12 @@
       ]
     },
     {
-      "nr": "3049",
-      "name": "Terugbetaling van actieve verbandmiddelen om chronische wonden te verzorgen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/actieve-verbandmiddelen-voor-chronische-wonden"
-      ]
-    },
-    {
       "nr": "75767",
       "name": "Terugbetaling van begeleiding in een gespecialiseerd centrum bij lymfoedeem",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-vaatstelsel/lymfoedeem"
-      ]
-    },
-    {
-      "nr": "2950",
-      "name": "Terugbetaling van bijzondere voeding bij coeliakie of dermatitis herpetiformis",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/coeliakie-of-dermatitis-herpetiformis"
-      ]
-    },
-    {
-      "nr": "2952",
-      "name": "Terugbetaling van bijzondere voedingsproducten bij thuisgebruik in het geval van een allergie",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/gluten-gliadine-allergie-of-graanmeelallergie-zonder-glutenallergie"
-      ]
-    },
-    {
-      "nr": "2960",
-      "name": "Terugbetaling van dieetvoeding bestemd voor een bijzonder medisch doel",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-terugbetaling-van-dieetvoeding-bestemd-voor-een-bijzonder-medisch-doel"
-      ]
-    },
-    {
-      "nr": "3037",
-      "name": "Terugbetaling van diëtiek voor kinderen met overgewicht of obesitas",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/terugbetaling-van-dietetiek-voor-kinderen-met-overgewicht-of-obesitas"
       ]
     },
     {
@@ -671,15 +594,6 @@
       ]
     },
     {
-      "nr": "2963",
-      "name": "Terugbetaling van moedermelk voor te vroeg geboren zwakke zuigelingen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-moedermelk-voor-zwakke-te-vroeg-geboren-zuigelingen"
-      ]
-    },
-    {
       "nr": "3069",
       "name": "Terugbetaling van moeilijke tandherstellingen bij patiënten met kanker, anodontie en/of oligodontie",
       "level": "Federaal",
@@ -695,24 +609,6 @@
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/radiopharma"
-      ]
-    },
-    {
-      "nr": "2969",
-      "name": "Terugbetaling van stomamateriaal",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/individuele-verzorging/terugbetaling-van-stomamateriaal"
-      ]
-    },
-    {
-      "nr": "3057",
-      "name": "Terugbetaling van urinaire autosondage",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/urinaire-autosondage-thuis"
       ]
     },
     {
