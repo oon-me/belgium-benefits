@@ -7,6 +7,8 @@
     "331": 126,
     "365": 15,
     "630": 114,
+    "631": 134,
+    "662": 135,
     "676": 99,
     "682": 129,
     "685": 11,
@@ -14,13 +16,19 @@
     "697": 96,
     "726": 90,
     "749": 87,
+    "807": 142,
+    "808": 140,
     "809": 102,
+    "814": 137,
+    "815": 138,
+    "828": 139,
     "832": 121,
     "833": 91,
     "835": 20,
     "838": 122,
     "854": 89,
     "862": 44,
+    "868": 137,
     "879": 92,
     "883": 108,
     "885": 88,
@@ -30,6 +38,7 @@
     "1371": 127,
     "1387": 101,
     "1424": 126,
+    "1446": 133,
     "1526": 97,
     "1527": 112,
     "1530": 98,
@@ -40,12 +49,15 @@
     "1551": 128,
     "1564": 47,
     "1656": 105,
+    "1764": 132,
     "1810": 45,
+    "1939": 131,
     "1975": 100,
     "2026": 9,
     "2847": 110,
     "2971": 124,
     "2972": 125,
+    "2995": 141,
     "2997": 121,
     "3016": 89,
     "3034": 118,
@@ -65,6 +77,7 @@
     "49892": 107,
     "75001": 130,
     "75018": 93,
+    "75067": 136,
     "77094": 27
   },
   "queue": [
@@ -78,39 +91,12 @@
       ]
     },
     {
-      "nr": "814",
-      "name": "Belastingkrediet voor kinderen ten laste",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie/personen-ten-laste/kinderen"
-      ]
-    },
-    {
-      "nr": "828",
-      "name": "Belastingvermindering voor de kosten voor kinderopvang",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang"
-      ]
-    },
-    {
       "nr": "3077",
       "name": "Belastingvermindering voor pensioensparen",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://fin.belgium.be/nl/particulieren/belastingvoordelen/pensioensparen"
-      ]
-    },
-    {
-      "nr": "815",
-      "name": "Belastingvrije som bij opvang van een ouder familielid",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie-gezinssituatie/personen-ten-laste/andere"
       ]
     },
     {
@@ -302,16 +288,6 @@
       "financial": true,
       "official": [
         "https://justitie.belgium.be/nl/themas/wat_moet_u_doen_als/slachtoffer/financiele_hulp/opzettelijke_gewelddaden/voor_wie"
-      ]
-    },
-    {
-      "nr": "807",
-      "name": "Inhaalpremie voor langdurige arbeidsongeschiktheid",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/de-inhaalpremie",
-        "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/zelfstandigen/de-inhaalpremie"
       ]
     },
     {
@@ -721,15 +697,6 @@
       ]
     },
     {
-      "nr": "2995",
-      "name": "Tegemoetkoming in de reiskosten van dialysepatiënten",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkoming-in-de-reiskosten-van-dialysepatienten"
-      ]
-    },
-    {
       "nr": "2974",
       "name": "Tegemoetkoming in de reiskosten voor kinderen opgevolgd in een revalidatiecentrum",
       "level": "Federaal",
@@ -790,15 +757,6 @@
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/gespecialiseerde-centra/zorgtraject-obesitas-bij-kinderen-multidisciplinaire-zorg-voor-een-betere-behandeling-van-uw-jonge-patienten"
-      ]
-    },
-    {
-      "nr": "808",
-      "name": "Tegemoetkoming voor hulp van derden bij arbeidsongeschiktheid",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/hulp-van-derden"
       ]
     },
     {
@@ -1060,15 +1018,6 @@
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/ziekenhuizen/verzorging-in-ziekenhuizen/abdominale-transplantatie-vergoedingen-voor-multidisciplinaire-pre-en-rehabilitatiezorgpaden-voor-en-na-een-abdominale-transplantatie"
-      ]
-    },
-    {
-      "nr": "868",
-      "name": "Toeslag belastingvrije som bij personenbelasting",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie/personen-ten-laste/kinderen"
       ]
     },
     {
@@ -1368,24 +1317,6 @@
       ]
     },
     {
-      "nr": "1446",
-      "name": "Persoonlijke-assistentiebudget voor personen met een handicap (PAB)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vaph.be/persoonlijke-budgetten/pab/algemeen"
-      ]
-    },
-    {
-      "nr": "1764",
-      "name": "Persoonsvolgend budget voor personen met een handicap (PVB)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vaph.be/persoonlijke-budgetten/pvb/algemeen"
-      ]
-    },
-    {
       "nr": "1548",
       "name": "Pleegzorgtoeslag (Vlaams Groeipakket)",
       "level": "Vlaams",
@@ -1441,15 +1372,6 @@
       ]
     },
     {
-      "nr": "1939",
-      "name": "Tegemoetkoming voor hulpmiddelen voor personen met een handicap",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vaph.be/hulpmiddelen"
-      ]
-    },
-    {
       "nr": "77395",
       "name": "Vergoeding voor schade door slechte staat van een gewestweg of door wegenwerken op een gewestweg",
       "level": "Vlaams",
@@ -1478,24 +1400,6 @@
       "level": "Vlaams",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "75067",
-      "name": "Vermindering in de erfbelasting voor kinderen van de overledene jonger dan 21 jaar",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vermindering-in-de-erfbelasting-voor-kinderen-van-de-overledene-jonger-dan-21-jaar"
-      ]
-    },
-    {
-      "nr": "631",
-      "name": "Vermindering van de onroerende voorheffing voor bescheiden woning",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/bouwen-wonen-en-energie/vermindering-van-de-onroerende-voorheffing-voor-bescheiden-woning"
-      ]
     },
     {
       "nr": "688",
@@ -1613,15 +1517,6 @@
       "level": "Vlaams",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "662",
-      "name": "Vrijstelling van erfbelasting op de gezinswoning voor de langstlevende partner",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-van-erfbelasting-op-de-gezinswoning-voor-de-langstlevende-partner"
-      ]
     },
     {
       "nr": "1240",

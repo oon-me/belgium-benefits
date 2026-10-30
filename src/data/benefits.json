@@ -16375,5 +16375,1233 @@
         ]
       }
     }
+  },
+  {
+    "id": 131,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "VAPH (Vlaams Agentschap voor Personen met een Handicap)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vaph.be/hulpmiddelen",
+    "request_url": "https://www.mijnvaph.be",
+    "content": {
+      "en": {
+        "title": "Assistive Devices and Home Adaptations (VAPH)",
+        "desc": "The VAPH contributes to assistive devices and adaptations that help people with a disability do things on their own, and to some transport and stay costs in mainstream education, educational help in higher or adult education, and incontinence material. Renting is possible for progressive conditions.",
+        "deadline": "Apply first and only then buy the device or have the adaptation done. A first application always goes through a multidisciplinary team.",
+        "amount": "All or part of what you paid, according to the VAPH reference list",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form (via Mijn VAPH or vaph.be)"
+          },
+          {
+            "type": "doc",
+            "label": "Invoices and proof of payment after the purchase"
+          }
+        ],
+        "steps": [
+          "Look up the device in the VAPH reference list or product database; devices not on the list can also be requested",
+          "For a first application, engage a recognised multidisciplinary team",
+          "Submit the application before you buy anything (you can follow it in Mijn VAPH)",
+          "After approval and purchase, send the invoices and proof of payment; the VAPH refunds all or part of the amount"
+        ]
+      },
+      "nl": {
+        "title": "Hulpmiddelen en aanpassingen (VAPH)",
+        "desc": "Het VAPH komt tussen in hulpmiddelen en aanpassingen die personen met een handicap helpen om zelfstandig activiteiten uit te voeren, en in bepaalde vervoers- en verblijfskosten in het gewoon onderwijs, pedagogische hulp in hoger of volwassenenonderwijs, en incontinentiemateriaal. Bij evolutieve aandoeningen kan ook huur.",
+        "deadline": "Vraag eerst aan en koop pas daarna het hulpmiddel of laat de aanpassing pas daarna uitvoeren. Een eerste aanvraag loopt altijd via een multidisciplinair team.",
+        "amount": "Het bedrag of een deel van wat je betaalde, volgens de refertelijst van het VAPH",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier (via Mijn VAPH of vaph.be)"
+          },
+          {
+            "type": "doc",
+            "label": "Facturen en betaalbewijzen na de aankoop"
+          }
+        ],
+        "steps": [
+          "Zoek het hulpmiddel op in de refertelijst of de hulpmiddelendatabank van het VAPH; ook voor hulpmiddelen buiten de lijst kan je aanvragen",
+          "Schakel bij een eerste aanvraag een erkend multidisciplinair team in",
+          "Dien de aanvraag in vóór je iets koopt (opvolgen kan in Mijn VAPH)",
+          "Na goedkeuring en aankoop bezorg je facturen en betaalbewijzen; het VAPH betaalt het bedrag of een deel ervan terug"
+        ]
+      },
+      "fr": {
+        "title": "Aides techniques et aménagements (VAPH)",
+        "desc": "La VAPH intervient dans les aides techniques et aménagements qui aident les personnes handicapées à agir de manière autonome, ainsi que dans certains frais de transport et de séjour dans l'enseignement ordinaire, l'aide pédagogique dans l'enseignement supérieur ou pour adultes, et le matériel d'incontinence. La location est possible pour les affections évolutives.",
+        "deadline": "Introduisez d'abord la demande et n'achetez l'aide ou ne faites réaliser l'aménagement qu'ensuite. Une première demande passe toujours par une équipe multidisciplinaire.",
+        "amount": "Tout ou partie de ce que vous avez payé, selon la liste de référence de la VAPH",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande (via Mijn VAPH ou vaph.be)"
+          },
+          {
+            "type": "doc",
+            "label": "Factures et preuves de paiement après l'achat"
+          }
+        ],
+        "steps": [
+          "Cherchez l'aide dans la liste de référence ou la base de données de la VAPH ; une aide hors liste peut aussi être demandée",
+          "Pour une première demande, faites appel à une équipe multidisciplinaire agréée",
+          "Introduisez la demande avant tout achat (suivi possible dans Mijn VAPH)",
+          "Après accord et achat, envoyez factures et preuves de paiement ; la VAPH rembourse tout ou partie du montant"
+        ]
+      },
+      "de": {
+        "title": "Hilfsmittel und Anpassungen (VAPH)",
+        "desc": "Die VAPH beteiligt sich an Hilfsmitteln und Anpassungen, die Menschen mit Behinderung selbstständige Tätigkeiten ermöglichen, sowie an bestimmten Fahrt- und Aufenthaltskosten im Regelunterricht, pädagogischer Hilfe in Hochschul- oder Erwachsenenbildung und Inkontinenzmaterial. Bei fortschreitenden Erkrankungen ist auch Miete möglich.",
+        "deadline": "Erst beantragen und danach das Hilfsmittel kaufen oder die Anpassung ausführen lassen. Ein Erstantrag läuft immer über ein multidisziplinäres Team.",
+        "amount": "Der ganze oder ein Teil des gezahlten Betrags, laut Referenzliste der VAPH",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular (über Mijn VAPH oder vaph.be)"
+          },
+          {
+            "type": "doc",
+            "label": "Rechnungen und Zahlungsnachweise nach dem Kauf"
+          }
+        ],
+        "steps": [
+          "Suchen Sie das Hilfsmittel in der Referenzliste oder Hilfsmitteldatenbank der VAPH; auch Hilfsmittel außerhalb der Liste können beantragt werden",
+          "Ziehen Sie beim Erstantrag ein anerkanntes multidisziplinäres Team hinzu",
+          "Reichen Sie den Antrag vor jedem Kauf ein (Verfolgung über Mijn VAPH)",
+          "Nach Genehmigung und Kauf schicken Sie Rechnungen und Zahlungsnachweise; die VAPH erstattet den Betrag ganz oder teilweise"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vaph.be/hulpmiddelen",
+        "https://www.vaph.be/voorwaarden/algemeen"
+      ],
+      "conditions": {
+        "en": [
+          "You are recognised by the VAPH as a person with a disability, were under 65 when you first asked the VAPH for support, and live in Flanders or the Brussels-Capital Region.",
+          "The device or adaptation must be requested before you buy it, and a first request needs a multidisciplinary team."
+        ],
+        "nl": [
+          "Je bent door het VAPH erkend als persoon met een handicap, was jonger dan 65 toen je de eerste keer ondersteuning vroeg aan het VAPH, en woont in Vlaanderen of het Brussels Hoofdstedelijk Gewest.",
+          "Het hulpmiddel of de aanpassing moet aangevraagd worden vóór de aankoop, en een eerste aanvraag vraagt een multidisciplinair team."
+        ],
+        "fr": [
+          "Vous êtes reconnu(e) par la VAPH comme personne handicapée, aviez moins de 65 ans lors de votre première demande de soutien à la VAPH, et habitez en Flandre ou en Région de Bruxelles-Capitale.",
+          "L'aide ou l'aménagement doit être demandé avant l'achat, et une première demande nécessite une équipe multidisciplinaire."
+        ],
+        "de": [
+          "Sie sind von der VAPH als Person mit Behinderung anerkannt, waren beim ersten Unterstützungsantrag bei der VAPH unter 65 und wohnen in Flandern oder der Region Brüssel-Hauptstadt.",
+          "Das Hilfsmittel oder die Anpassung muss vor dem Kauf beantragt werden, und ein Erstantrag erfordert ein multidisziplinäres Team."
+        ]
+      }
+    }
+  },
+  {
+    "id": 132,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "VAPH (Vlaams Agentschap voor Personen met een Handicap)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vaph.be/persoonlijke-budgetten/pvb/algemeen",
+    "amount_source_url": "https://www.vaph.be/persoonlijke-budgetten/pvb/bedragen",
+    "request_url": "https://www.mijnvaph.be",
+    "content": {
+      "en": {
+        "title": "Personal Budget for Adults with a Disability (Persoonsvolgend budget, PVB)",
+        "desc": "A yearly budget for adults with a disability who need intensive or frequent support, to buy care and support from their own network, volunteers, individual carers or professional and VAPH-licensed providers. Recognition does not automatically mean a budget is allocated. The amount is one of 24 budget categories (for applications from 17 March 2020).",
+        "deadline": "You can start the procedure from age 17; the budget is for adults (18+). Requested through a support plan (ondersteuningsplan PVB).",
+        "amount": "€8,209.50 to €109,408.77 a year (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Support plan PVB (ondersteuningsplan)"
+          },
+          {
+            "type": "card",
+            "label": "eID for Mijn VAPH"
+          }
+        ],
+        "steps": [
+          "Draw up a support plan PVB describing the support you need",
+          "Apply to the VAPH (via Mijn VAPH); the VAPH assesses your recognition and whether your disability falls within the PVB target group",
+          "If a budget is allocated, choose to spend it in cash, by voucher or both",
+          "Manage your budget and agreements in Mijn VAPH"
+        ]
+      },
+      "nl": {
+        "title": "Persoonsvolgend budget (PVB)",
+        "desc": "Een jaarlijks budget op maat voor meerderjarige personen met een handicap die intensieve of frequente ondersteuning nodig hebben, om zorg en ondersteuning te kopen bij hun eigen netwerk, vrijwilligers, individuele begeleiders of professionele en door het VAPH vergunde zorgaanbieders. Een erkenning betekent niet automatisch dat een budget wordt toegewezen. Het bedrag is een van 24 budgetcategorieën (voor aanvragen vanaf 17 maart 2020).",
+        "deadline": "Je kan de procedure starten vanaf 17 jaar; het budget is voor meerderjarigen (18+). Aan te vragen met een ondersteuningsplan PVB.",
+        "amount": "€8.209,50 tot €109.408,77 per jaar (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ondersteuningsplan persoonsvolgend budget (OP PVB)"
+          },
+          {
+            "type": "card",
+            "label": "eID voor Mijn VAPH"
+          }
+        ],
+        "steps": [
+          "Maak een ondersteuningsplan PVB op waarin je beschrijft welke ondersteuning je nodig hebt",
+          "Vraag aan bij het VAPH (via Mijn VAPH); het VAPH beoordeelt je erkenning en of je handicap binnen de doelgroep van het PVB valt",
+          "Wordt een budget toegewezen, kies dan of je het besteedt in cash, met vouchers of beide",
+          "Beheer je budget en overeenkomsten in Mijn VAPH"
+        ]
+      },
+      "fr": {
+        "title": "Budget personnel pour adultes handicapés (Persoonsvolgend budget, PVB)",
+        "desc": "Un budget annuel sur mesure pour les adultes handicapés qui ont besoin d'un soutien intensif ou fréquent, pour acheter des soins et du soutien auprès de leur réseau, de bénévoles, d'accompagnateurs individuels ou de prestataires professionnels agréés par la VAPH. La reconnaissance ne signifie pas automatiquement l'octroi d'un budget. Le montant correspond à l’une des 24 catégories de budget (demandes depuis le 17 mars 2020).",
+        "deadline": "La procédure peut démarrer dès 17 ans ; le budget est pour les majeurs (18+). Demande via un plan de soutien (ondersteuningsplan PVB).",
+        "amount": "De 8.209,50 € à 109.408,77 € par an (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Plan de soutien PVB (ondersteuningsplan)"
+          },
+          {
+            "type": "card",
+            "label": "eID pour Mijn VAPH"
+          }
+        ],
+        "steps": [
+          "Établissez un plan de soutien PVB décrivant le soutien dont vous avez besoin",
+          "Faites la demande à la VAPH (via Mijn VAPH) ; la VAPH évalue votre reconnaissance et si votre handicap relève du groupe cible du PVB",
+          "Si un budget est octroyé, choisissez de le dépenser en cash, en vouchers ou les deux",
+          "Gérez votre budget et vos conventions dans Mijn VAPH"
+        ]
+      },
+      "de": {
+        "title": "Personenbezogenes Budget für Erwachsene mit Behinderung (PVB)",
+        "desc": "Ein jährliches Budget nach Maß für Erwachsene mit Behinderung, die intensive oder häufige Unterstützung brauchen, um Pflege und Unterstützung bei ihrem Netzwerk, Freiwilligen, individuellen Begleitern oder professionellen und von der VAPH zugelassenen Anbietern zu kaufen. Eine Anerkennung bedeutet nicht automatisch, dass ein Budget zugewiesen wird. Der Betrag entspricht einer von 24 Budgetkategorien (Anträge ab 17. März 2020).",
+        "deadline": "Das Verfahren kann ab 17 beginnen; das Budget gilt für Volljährige (18+). Antrag über einen Unterstützungsplan (ondersteuningsplan PVB).",
+        "amount": "8.209,50 € bis 109.408,77 € pro Jahr (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Unterstützungsplan PVB (ondersteuningsplan)"
+          },
+          {
+            "type": "card",
+            "label": "eID für Mijn VAPH"
+          }
+        ],
+        "steps": [
+          "Erstellen Sie einen Unterstützungsplan PVB, der die benötigte Unterstützung beschreibt",
+          "Beantragen Sie es bei der VAPH (über Mijn VAPH); die VAPH prüft Ihre Anerkennung und ob Ihre Behinderung zur Zielgruppe des PVB gehört",
+          "Wird ein Budget zugewiesen, wählen Sie Ausgabe in bar, per Gutschein oder beides",
+          "Verwalten Sie Budget und Verträge in Mijn VAPH"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vaph.be/persoonlijke-budgetten/pvb/aanvragen",
+        "https://www.vaph.be/voorwaarden-voor-een-persoonsvolgend-budget"
+      ],
+      "conditions": {
+        "en": [
+          "You are recognised by the VAPH as a person with a disability, were under 65 when you first asked the VAPH for support, and live in Flanders or the Brussels-Capital Region.",
+          "You are an adult (18+) who needs intensive or frequent support because of your disability.",
+          "Your disability falls within the PVB target group: e.g. intellectual disability, autism or certain neurocognitive disorders qualify; people with only psychiatric disorders (such as schizophrenia or depression) do not.",
+          "Not for interned people staying in prison, a forensic psychiatric centre or a medium security ward."
+        ],
+        "nl": [
+          "Je bent door het VAPH erkend als persoon met een handicap, was jonger dan 65 toen je de eerste keer ondersteuning vroeg aan het VAPH, en woont in Vlaanderen of het Brussels Hoofdstedelijk Gewest.",
+          "Je bent meerderjarig (18+) en hebt door je handicap intensieve of frequente ondersteuning nodig.",
+          "Je handicap valt binnen de doelgroep van het PVB: bv. een verstandelijke beperking, autisme of bepaalde neurocognitieve stoornissen wel; personen met enkel psychische stoornissen (zoals schizofrenie of depressie) niet.",
+          "Niet voor geïnterneerden in een gevangenis, een forensisch psychiatrisch centrum of een medium security-afdeling."
+        ],
+        "fr": [
+          "Vous êtes reconnu(e) par la VAPH comme personne handicapée, aviez moins de 65 ans lors de votre première demande de soutien à la VAPH, et habitez en Flandre ou en Région de Bruxelles-Capitale.",
+          "Vous êtes majeur(e) (18+) et avez besoin d'un soutien intensif ou fréquent en raison de votre handicap.",
+          "Votre handicap relève du groupe cible du PVB : par ex. déficience intellectuelle, autisme ou certains troubles neurocognitifs oui ; les personnes ayant uniquement des troubles psychiques (comme la schizophrénie ou la dépression) non.",
+          "Pas pour les personnes internées séjournant en prison, en centre de psychiatrie légale ou en section medium security."
+        ],
+        "de": [
+          "Sie sind von der VAPH als Person mit Behinderung anerkannt, waren beim ersten Unterstützungsantrag bei der VAPH unter 65 und wohnen in Flandern oder der Region Brüssel-Hauptstadt.",
+          "Sie sind volljährig (18+) und brauchen wegen Ihrer Behinderung intensive oder häufige Unterstützung.",
+          "Ihre Behinderung gehört zur Zielgruppe des PVB: z. B. geistige Behinderung, Autismus oder bestimmte neurokognitive Störungen ja; Personen mit ausschließlich psychischen Störungen (wie Schizophrenie oder Depression) nicht.",
+          "Nicht für Internierte im Gefängnis, in einem forensisch-psychiatrischen Zentrum oder einer Medium-Security-Abteilung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 133,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "VAPH · Opgroeien (intersectorale toegangspoort)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vaph.be/persoonlijke-budgetten/pab/algemeen",
+    "amount_source_url": "https://www.vaph.be/persoonlijke-budgetten/pab/bedragen",
+    "content": {
+      "en": {
+        "title": "Personal Assistance Budget for Children with a Disability (PAB)",
+        "desc": "A budget to organise and pay for assistance for your child with a disability at home or at school, or short-term care at a provider such as a multifunctional centre (MFC). Only minors qualify.",
+        "deadline": "Applied for through the intersectoral access gate (ITP) of youth care at Opgroeien; once a budget is allocated, the VAPH follows it up. An urgent procedure exists.",
+        "amount": "€12,873.81 to €60,077.72 a year depending on the budget category (2026), indexed yearly",
+        "requirements": [],
+        "steps": [
+          "Apply through the intersectoral access gate (ITP) of Opgroeien — see Opgroeien's website for the procedure",
+          "The ITP assesses the request; only after allocation does the VAPH take over",
+          "Manage the budget and your assistants' agreements in Mijn VAPH"
+        ]
+      },
+      "nl": {
+        "title": "Persoonlijke-assistentiebudget (PAB) voor kinderen",
+        "desc": "Een budget om de assistentie voor je kind met een handicap thuis of op school te organiseren en te betalen, of kortdurende zorg bij een zorgaanbieder zoals een multifunctioneel centrum (MFC). Enkel minderjarigen komen in aanmerking.",
+        "deadline": "Aan te vragen via de intersectorale toegangspoort (ITP) van de jeugdhulp bij Opgroeien; na toewijzing volgt het VAPH het verder op. Er bestaat een spoedprocedure.",
+        "amount": "€12.873,81 tot €60.077,72 per jaar naargelang de budgetcategorie (2026), jaarlijks geïndexeerd",
+        "requirements": [],
+        "steps": [
+          "Vraag aan via de intersectorale toegangspoort (ITP) van Opgroeien — de procedure staat op de website van Opgroeien",
+          "De ITP beoordeelt de aanvraag; pas na toewijzing neemt het VAPH over",
+          "Beheer het budget en de overeenkomsten met je assistenten in Mijn VAPH"
+        ]
+      },
+      "fr": {
+        "title": "Budget d'assistance personnelle pour enfants handicapés (PAB)",
+        "desc": "Un budget pour organiser et payer l'assistance de votre enfant handicapé à la maison ou à l'école, ou des soins de courte durée chez un prestataire comme un centre multifonctionnel (MFC). Seuls les mineurs y ont droit.",
+        "deadline": "Demande via la porte d'accès intersectorielle (ITP) de l'aide à la jeunesse d'Opgroeien ; une fois le budget attribué, la VAPH assure le suivi. Une procédure d'urgence existe.",
+        "amount": "De 12.873,81 € à 60.077,72 € par an selon la catégorie de budget (2026), indexé chaque année",
+        "requirements": [],
+        "steps": [
+          "Faites la demande via la porte d'accès intersectorielle (ITP) d'Opgroeien — la procédure figure sur le site d'Opgroeien",
+          "L'ITP examine la demande ; la VAPH ne prend le relais qu'après l'attribution",
+          "Gérez le budget et les conventions avec vos assistants dans Mijn VAPH"
+        ]
+      },
+      "de": {
+        "title": "Persönliches Assistenzbudget für Kinder mit Behinderung (PAB)",
+        "desc": "Ein Budget, um die Assistenz für Ihr Kind mit Behinderung zu Hause oder in der Schule zu organisieren und zu bezahlen, oder Kurzzeitpflege bei einem Anbieter wie einem multifunktionalen Zentrum (MFC). Nur Minderjährige kommen infrage.",
+        "deadline": "Zu beantragen über das intersektorale Zugangstor (ITP) der Jugendhilfe bei Opgroeien; nach Zuweisung übernimmt die VAPH. Es gibt ein Eilverfahren.",
+        "amount": "12.873,81 € bis 60.077,72 € pro Jahr je nach Budgetkategorie (2026), jährlich indexiert",
+        "requirements": [],
+        "steps": [
+          "Beantragen Sie es über das intersektorale Zugangstor (ITP) von Opgroeien — das Verfahren steht auf der Website von Opgroeien",
+          "Das ITP prüft den Antrag; erst nach der Zuweisung übernimmt die VAPH",
+          "Verwalten Sie Budget und Assistentenverträge in Mijn VAPH"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vaph.be/persoonlijke-budgetten/pab/algemeen",
+        "https://www.vaph.be/persoonlijke-budgetten/pab/aanvragen"
+      ],
+      "conditions": {
+        "en": [
+          "Only for minors with a disability.",
+          "Requested through the intersectoral access gate (ITP) of Opgroeien, which handles long-term, intensive and specialised youth care."
+        ],
+        "nl": [
+          "Enkel voor minderjarigen met een handicap.",
+          "Aangevraagd via de intersectorale toegangspoort (ITP) van Opgroeien, die langdurige, intensieve en gespecialiseerde jeugdhulp behandelt."
+        ],
+        "fr": [
+          "Uniquement pour les mineurs handicapés.",
+          "Demandé via la porte d'accès intersectorielle (ITP) d'Opgroeien, qui traite l'aide à la jeunesse de longue durée, intensive et spécialisée."
+        ],
+        "de": [
+          "Nur für Minderjährige mit Behinderung.",
+          "Beantragt über das intersektorale Zugangstor (ITP) von Opgroeien, das langfristige, intensive und spezialisierte Jugendhilfe bearbeitet."
+        ]
+      }
+    }
+  },
+  {
+    "id": 134,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/vermindering-van-de-onroerende-voorheffing-voor-bescheiden-woning",
+    "content": {
+      "en": {
+        "title": "Property Tax Reduction for a Modest Home (Bescheiden woning)",
+        "desc": "Owners in Flanders get 25% off the property tax (onroerende voorheffing) of the modest home they live in, if the total cadastral income of all their property in the Flemish Region is low.",
+        "deadline": "Assessed on 1 January of the tax year; granted automatically to owners.",
+        "amount": "25% off your property tax",
+        "requirements": [],
+        "steps": [
+          "Nothing to apply for: the reduction is granted automatically on the owner's tax bill",
+          "Not on your bill although you qualify? Contact the Vlaamse Belastingdienst"
+        ]
+      },
+      "nl": {
+        "title": "Vermindering van de onroerende voorheffing voor een bescheiden woning",
+        "desc": "Eigenaars in Vlaanderen krijgen 25% korting op de onroerende voorheffing van de bescheiden woning waarin ze gedomicilieerd zijn, als het totale kadastraal inkomen van al hun onroerende goederen in het Vlaamse Gewest laag is.",
+        "deadline": "Beoordeeld op 1 januari van het aanslagjaar; automatisch toegekend aan eigenaars.",
+        "amount": "25% korting op je onroerende voorheffing",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: de vermindering wordt automatisch op het aanslagbiljet van de eigenaar toegekend",
+          "Niet op je aanslagbiljet terwijl je recht hebt? Neem contact op met de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Réduction du précompte immobilier pour une habitation modeste (Flandre)",
+        "desc": "Les propriétaires en Flandre obtiennent 25 % de réduction sur le précompte immobilier de l'habitation modeste où ils sont domiciliés, si le revenu cadastral total de tous leurs biens en Région flamande est bas.",
+        "deadline": "Évaluée au 1er janvier de l'exercice ; accordée automatiquement aux propriétaires.",
+        "amount": "25 % de réduction sur votre précompte immobilier",
+        "requirements": [],
+        "steps": [
+          "Rien à demander : la réduction est accordée automatiquement sur l'avertissement-extrait de rôle du propriétaire",
+          "Pas accordée alors que vous y avez droit ? Contactez le Vlaamse Belastingdienst"
+        ]
+      },
+      "de": {
+        "title": "Ermäßigung des Immobiliensteuervorabzugs für eine bescheidene Wohnung (Flandern)",
+        "desc": "Eigentümer in Flandern erhalten 25 % Ermäßigung auf den Immobiliensteuervorabzug der bescheidenen Wohnung, in der sie gemeldet sind, wenn das gesamte Katastereinkommen ihres Eigentums in der Flämischen Region niedrig ist.",
+        "deadline": "Beurteilt am 1. Januar des Steuerjahres; automatisch an Eigentümer gewährt.",
+        "amount": "25 % Ermäßigung auf Ihren Immobiliensteuervorabzug",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: die Ermäßigung wird automatisch auf dem Steuerbescheid des Eigentümers gewährt",
+          "Nicht gewährt, obwohl Sie Anspruch haben? Wenden Sie sich an den Vlaamse Belastingdienst"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/vermindering-van-de-onroerende-voorheffing-voor-bescheiden-woning",
+      "conditions": {
+        "en": [
+          "On 1 January of the tax year you are liable for the property tax of the home and domiciled there (population or foreigners' register).",
+          "The total non-indexed cadastral income of all your property in the Flemish Region is at most €745 (a transitional rule up to €992 exists for people who already had the reduction before 1980)."
+        ],
+        "nl": [
+          "Op 1 januari van het aanslagjaar ben je belastingplichtige voor de woning en ben je er gedomicilieerd (bevolkings- of vreemdelingenregister).",
+          "Het totale niet-geïndexeerde kadastraal inkomen van al je onroerende goederen in het Vlaamse Gewest is maximaal €745 (een overgangsregeling tot €992 geldt voor wie de vermindering al vóór 1980 had)."
+        ],
+        "fr": [
+          "Au 1er janvier de l'exercice, vous êtes redevable du précompte du logement et y êtes domicilié(e) (registre de la population ou des étrangers).",
+          "Le revenu cadastral total non indexé de tous vos biens en Région flamande est de 745 € au maximum (un régime transitoire jusqu'à 992 € vaut pour ceux qui avaient la réduction avant 1980)."
+        ],
+        "de": [
+          "Am 1. Januar des Steuerjahres sind Sie für die Wohnung steuerpflichtig und dort gemeldet (Bevölkerungs- oder Fremdenregister).",
+          "Das gesamte nicht indexierte Katastereinkommen Ihres Eigentums in der Flämischen Region beträgt höchstens 745 € (eine Übergangsregelung bis 992 € gilt für alle, die die Ermäßigung schon vor 1980 hatten)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 135,
+    "category": "housing",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-van-erfbelasting-op-de-gezinswoning-voor-de-langstlevende-partner",
+    "content": {
+      "en": {
+        "title": "No Inheritance Tax on the Family Home for the Surviving Partner",
+        "desc": "As the surviving partner in the Flemish Region, you pay no inheritance tax on the net value of the family home you shared with the deceased. A second home is not covered.",
+        "deadline": "Request it in the declaration of estate under 'Gunstregelingen'; forgotten? You can still get it by filing an objection.",
+        "amount": "Full exemption from inheritance tax on the family home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Declaration of estate (aangifte van nalatenschap)"
+          }
+        ],
+        "steps": [
+          "Fill in the declaration of estate and request the exemption under the heading 'Gunstregelingen'",
+          "Forgot it? File an objection with the Vlaamse Belastingdienst afterwards"
+        ]
+      },
+      "nl": {
+        "title": "Vrijstelling van erfbelasting op de gezinswoning voor de langstlevende partner",
+        "desc": "Als langstlevende partner in het Vlaamse Gewest betaal je geen erfbelasting op de nettowaarde van de gezinswoning die je met de overledene deelde. Een tweede verblijf valt er niet onder.",
+        "deadline": "Aan te vragen in de aangifte van nalatenschap onder 'Gunstregelingen'; vergeten? Dan kan je ze nog krijgen via een bezwaar.",
+        "amount": "Volledige vrijstelling van erfbelasting op de gezinswoning",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aangifte van nalatenschap"
+          }
+        ],
+        "steps": [
+          "Vul de aangifte van nalatenschap in en vraag de vrijstelling aan onder de rubriek 'Gunstregelingen'",
+          "Vergeten? Dien nadien bezwaar in bij de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Exonération des droits de succession sur le logement familial pour le partenaire survivant (Flandre)",
+        "desc": "En tant que partenaire survivant en Région flamande, vous ne payez pas de droits de succession sur la valeur nette du logement familial partagé avec le défunt. Une seconde résidence n'est pas visée.",
+        "deadline": "À demander dans la déclaration de succession sous « Gunstregelingen » ; oublié ? Vous pouvez encore l'obtenir par une réclamation.",
+        "amount": "Exonération totale des droits de succession sur le logement familial",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Déclaration de succession"
+          }
+        ],
+        "steps": [
+          "Remplissez la déclaration de succession et demandez l'exonération sous la rubrique « Gunstregelingen »",
+          "Oublié ? Introduisez ensuite une réclamation auprès du Vlaamse Belastingdienst"
+        ]
+      },
+      "de": {
+        "title": "Erbschaftsteuerbefreiung für die Familienwohnung des überlebenden Partners (Flandern)",
+        "desc": "Als überlebender Partner in der Flämischen Region zahlen Sie keine Erbschaftsteuer auf den Nettowert der Familienwohnung, die Sie mit der verstorbenen Person teilten. Ein Zweitwohnsitz ist nicht erfasst.",
+        "deadline": "In der Nachlasserklärung unter „Gunstregelingen“ zu beantragen; vergessen? Dann noch per Einspruch möglich.",
+        "amount": "Vollständige Befreiung von der Erbschaftsteuer auf die Familienwohnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachlasserklärung (aangifte van nalatenschap)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie die Nachlasserklärung aus und beantragen Sie die Befreiung unter „Gunstregelingen“",
+          "Vergessen? Legen Sie danach Einspruch beim Vlaamse Belastingdienst ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-van-erfbelasting-op-de-gezinswoning-voor-de-langstlevende-partner",
+      "conditions": {
+        "en": [
+          "You were married, legally cohabiting, or de facto cohabiting for at least 3 years before the death — not related in the direct line (siblings can qualify).",
+          "The family home is the main residence you shared at the time of death; separation, force majeure or a move to a care home still count."
+        ],
+        "nl": [
+          "Je was gehuwd, wettelijk samenwonend, of minstens 3 jaar feitelijk samenwonend vóór het overlijden — geen verwantschap in de rechte lijn (broers en zussen kunnen wel).",
+          "De gezinswoning is de hoofdverblijfplaats die jullie bij het overlijden deelden; een feitelijke scheiding, overmacht of een verhuis naar een woonzorgcentrum telt nog mee."
+        ],
+        "fr": [
+          "Vous étiez marié(e), cohabitant(e) légal(e), ou cohabitant(e) de fait depuis au moins 3 ans avant le décès — sans lien de parenté en ligne directe (frères et sœurs possibles).",
+          "Le logement familial est la résidence principale partagée au moment du décès ; une séparation de fait, la force majeure ou un départ en maison de repos comptent encore."
+        ],
+        "de": [
+          "Sie waren verheiratet, gesetzlich zusammenwohnend oder mindestens 3 Jahre vor dem Tod faktisch zusammenwohnend — nicht in gerader Linie verwandt (Geschwister können infrage kommen).",
+          "Die Familienwohnung ist der beim Tod gemeinsam genutzte Hauptwohnsitz; Trennung, höhere Gewalt oder Umzug ins Pflegeheim zählen weiterhin."
+        ]
+      }
+    }
+  },
+  {
+    "id": 136,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vermindering-in-de-erfbelasting-voor-kinderen-van-de-overledene-jonger-dan-21-jaar",
+    "content": {
+      "en": {
+        "title": "Inheritance Tax Reduction for Children under 21",
+        "desc": "Children of the deceased who are under 21 get a reduction on Flemish inheritance tax, whatever the size of their share; the other parent of those children gets half of what the common children receive together.",
+        "deadline": "Request it in the declaration of estate under 'Gunstregelingen'; forgotten? File an objection afterwards.",
+        "amount": "€75 per full year until the child turns 21 (never below zero tax)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Declaration of estate (aangifte van nalatenschap)"
+          }
+        ],
+        "steps": [
+          "Fill in the declaration of estate and request the reduction under 'Gunstregelingen'",
+          "Forgot it? File an objection with the Vlaamse Belastingdienst afterwards"
+        ]
+      },
+      "nl": {
+        "title": "Vermindering in de erfbelasting voor kinderen jonger dan 21 jaar",
+        "desc": "Kinderen van de overledene die jonger zijn dan 21 krijgen een vermindering op de Vlaamse erfbelasting, ongeacht de grootte van hun erfdeel; de andere ouder van die kinderen krijgt de helft van wat de gemeenschappelijke kinderen samen krijgen.",
+        "deadline": "Aan te vragen in de aangifte van nalatenschap onder 'Gunstregelingen'; vergeten? Dien nadien bezwaar in.",
+        "amount": "€75 per vol jaar tot het kind 21 wordt (nooit onder nul belasting)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aangifte van nalatenschap"
+          }
+        ],
+        "steps": [
+          "Vul de aangifte van nalatenschap in en vraag de vermindering aan onder 'Gunstregelingen'",
+          "Vergeten? Dien nadien bezwaar in bij de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Réduction des droits de succession pour enfants de moins de 21 ans (Flandre)",
+        "desc": "Les enfants du défunt âgés de moins de 21 ans obtiennent une réduction des droits de succession flamands, quelle que soit leur part ; l'autre parent de ces enfants reçoit la moitié de ce que les enfants communs reçoivent ensemble.",
+        "deadline": "À demander dans la déclaration de succession sous « Gunstregelingen » ; oublié ? Introduisez ensuite une réclamation.",
+        "amount": "75 € par année complète jusqu'aux 21 ans de l'enfant (jamais sous zéro)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Déclaration de succession"
+          }
+        ],
+        "steps": [
+          "Remplissez la déclaration de succession et demandez la réduction sous « Gunstregelingen »",
+          "Oublié ? Introduisez ensuite une réclamation auprès du Vlaamse Belastingdienst"
+        ]
+      },
+      "de": {
+        "title": "Erbschaftsteuerermäßigung für Kinder unter 21 (Flandern)",
+        "desc": "Kinder der verstorbenen Person unter 21 erhalten eine Ermäßigung der flämischen Erbschaftsteuer, unabhängig von der Höhe ihres Anteils; der andere Elternteil dieser Kinder erhält die Hälfte dessen, was die gemeinsamen Kinder zusammen erhalten.",
+        "deadline": "In der Nachlasserklärung unter „Gunstregelingen“ zu beantragen; vergessen? Danach Einspruch einlegen.",
+        "amount": "75 € pro vollem Jahr bis das Kind 21 wird (nie unter null Steuer)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachlasserklärung (aangifte van nalatenschap)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie die Nachlasserklärung aus und beantragen Sie die Ermäßigung unter „Gunstregelingen“",
+          "Vergessen? Legen Sie danach Einspruch beim Vlaamse Belastingdienst ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vermindering-in-de-erfbelasting-voor-kinderen-van-de-overledene-jonger-dan-21-jaar",
+      "conditions": {
+        "en": [
+          "Children of the deceased by blood, full adoption, or stepchildren, under 21; not foster children, simply adopted children or grandchildren.",
+          "The surviving partner gets half of the reduction of the common children."
+        ],
+        "nl": [
+          "Kinderen van de overledene door bloedverwantschap, volle adoptie of stiefkinderen, jonger dan 21; niet zorgkinderen, gewoon geadopteerde kinderen of kleinkinderen.",
+          "De langstlevende partner krijgt de helft van de vermindering van de gemeenschappelijke kinderen."
+        ],
+        "fr": [
+          "Enfants du défunt par le sang, par adoption plénière, ou beaux-enfants, de moins de 21 ans ; pas les enfants d'accueil, adoptés simples ou petits-enfants.",
+          "Le partenaire survivant reçoit la moitié de la réduction des enfants communs."
+        ],
+        "de": [
+          "Kinder der verstorbenen Person durch Blutsverwandtschaft, Volladoption oder Stiefkinder, unter 21; nicht Pflegekinder, einfach adoptierte Kinder oder Enkel.",
+          "Der überlebende Partner erhält die Hälfte der Ermäßigung der gemeinsamen Kinder."
+        ]
+      }
+    }
+  },
+  {
+    "id": 137,
+    "category": "family",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Financiën / SPF Finances",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie/personen-ten-laste/kinderen",
+    "content": {
+      "en": {
+        "title": "Tax-Free Allowance and Tax Credit for Dependent Children",
+        "desc": "Each dependent child raises your tax-free amount in your income tax return. With little or no taxable income, the part you cannot use becomes a refundable tax credit: you get money back. For income 2025 the tax-free amount rises by €1,980 for 1 child, €5,110 for 2, €11,440 for 3 and €18,510 for 4; the refundable credit is at most €550 per child (up to €2,200 for 4).",
+        "deadline": "Claimed in your yearly tax return (code 1030) for children who are part of your household on 1 January of the tax year.",
+        "amount": "+€1,980 to +€18,510 tax-free; credit up to €550 per child",
+        "requirements": [],
+        "steps": [
+          "In your tax return (Tax-on-web/MyMinfin), declare the children you have as dependants",
+          "Only the head of household declares them; separated parents with fiscal co-parenting split the increase",
+          "With low income, the unused part is refunded automatically as a tax credit"
+        ]
+      },
+      "nl": {
+        "title": "Verhoogde belastingvrije som en belastingkrediet voor kinderen ten laste",
+        "desc": "Elk kind ten laste verhoogt je belastingvrije som in de personenbelasting. Heb je weinig of geen belastbaar inkomen, dan wordt het deel dat je niet kan benutten een terugbetaalbaar belastingkrediet: je krijgt geld terug. Voor inkomsten 2025 stijgt de belastingvrije som met €1.980 voor 1 kind, €5.110 voor 2, €11.440 voor 3 en €18.510 voor 4; het terugbetaalbaar krediet is maximaal €550 per kind (tot €2.200 voor 4).",
+        "deadline": "Aangegeven in je jaarlijkse belastingaangifte (code 1030) voor kinderen die op 1 januari van het aanslagjaar deel uitmaken van je gezin.",
+        "amount": "+€1.980 tot +€18.510 belastingvrij; krediet tot €550 per kind",
+        "requirements": [],
+        "steps": [
+          "Geef in je belastingaangifte (Tax-on-web/MyMinfin) de kinderen ten laste aan",
+          "Enkel het gezinshoofd geeft ze aan; gescheiden ouders met fiscaal co-ouderschap verdelen de verhoging",
+          "Bij een laag inkomen wordt het niet-gebruikte deel automatisch terugbetaald als belastingkrediet"
+        ]
+      },
+      "fr": {
+        "title": "Quotité exemptée majorée et crédit d'impôt pour enfants à charge",
+        "desc": "Chaque enfant à charge augmente votre quotité exemptée d'impôt dans l'impôt des personnes physiques. Avec peu ou pas de revenus imposables, la partie non utilisée devient un crédit d'impôt remboursable : vous récupérez de l'argent. Pour les revenus 2025, la quotité exemptée augmente de 1.980 € pour 1 enfant, 5.110 € pour 2, 11.440 € pour 3 et 18.510 € pour 4 ; le crédit remboursable est de 550 € maximum par enfant (jusqu'à 2.200 € pour 4).",
+        "deadline": "À indiquer dans votre déclaration annuelle (code 1030) pour les enfants qui font partie de votre ménage au 1er janvier de l'exercice.",
+        "amount": "+1.980 € à +18.510 € exonérés ; crédit jusqu'à 550 € par enfant",
+        "requirements": [],
+        "steps": [
+          "Dans votre déclaration (Tax-on-web/MyMinfin), indiquez vos enfants à charge",
+          "Seul le chef de ménage les déclare ; les parents séparés en hébergement égalitaire fiscal partagent la majoration",
+          "Avec de faibles revenus, la partie non utilisée est remboursée automatiquement comme crédit d'impôt"
+        ]
+      },
+      "de": {
+        "title": "Erhöhter Steuerfreibetrag und Steuergutschrift für Kinder zu Lasten",
+        "desc": "Jedes Kind zu Lasten erhöht Ihren Steuerfreibetrag in der Einkommensteuer. Mit wenig oder keinem steuerpflichtigen Einkommen wird der ungenutzte Teil zu einer erstattbaren Steuergutschrift: Sie bekommen Geld zurück. Für Einkommen 2025 steigt der Freibetrag um 1.980 € für 1 Kind, 5.110 € für 2, 11.440 € für 3 und 18.510 € für 4; die erstattbare Gutschrift beträgt höchstens 550 € pro Kind (bis 2.200 € für 4).",
+        "deadline": "In Ihrer jährlichen Steuererklärung (Code 1030) anzugeben, für Kinder, die am 1. Januar des Steuerjahres zu Ihrem Haushalt gehören.",
+        "amount": "+1.980 € bis +18.510 € steuerfrei; Gutschrift bis 550 € pro Kind",
+        "requirements": [],
+        "steps": [
+          "Geben Sie in Ihrer Steuererklärung (Tax-on-web/MyMinfin) Ihre Kinder zu Lasten an",
+          "Nur der Haushaltsvorstand gibt sie an; getrennte Eltern mit steuerlicher Co-Elternschaft teilen die Erhöhung",
+          "Bei geringem Einkommen wird der ungenutzte Teil automatisch als Steuergutschrift erstattet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie/personen-ten-laste/kinderen",
+      "conditions": {
+        "en": [
+          "The child is part of your household on 1 January 2026 (temporary absence for studies or health is fine) and you are the head of household.",
+          "The child's net means in 2025 are at most €12,000, it received no leefloon (or equivalent), and no professional income you deducted as costs.",
+          "Your own (grand)children of any age, or other children you mainly support, taken as dependants before 18."
+        ],
+        "nl": [
+          "Het kind maakt op 1 januari 2026 deel uit van je gezin (tijdelijk weg voor studies of gezondheid mag) en jij bent het gezinshoofd.",
+          "De nettobestaansmiddelen van het kind in 2025 zijn maximaal €12.000, het kreeg geen (equivalent) leefloon, en geen beroepsinkomsten die jij als beroepskosten inbracht.",
+          "Je eigen (klein)kinderen van elke leeftijd, of andere kinderen die hoofdzakelijk ten laste van jou zijn, ten laste genomen vóór 18 jaar."
+        ],
+        "fr": [
+          "L'enfant fait partie de votre ménage au 1er janvier 2026 (absence temporaire pour études ou santé admise) et vous êtes le chef de ménage.",
+          "Les moyens nets de l'enfant en 2025 ne dépassent pas 12.000 €, il n'a pas reçu de revenu d'intégration (ou équivalent) ni de revenus professionnels que vous avez déduits comme frais.",
+          "Vos (petits-)enfants de tout âge, ou d'autres enfants principalement à votre charge, pris à charge avant 18 ans."
+        ],
+        "de": [
+          "Das Kind gehört am 1. Januar 2026 zu Ihrem Haushalt (vorübergehende Abwesenheit für Studium oder Gesundheit ist in Ordnung) und Sie sind der Haushaltsvorstand.",
+          "Die Nettoexistenzmittel des Kindes 2025 betragen höchstens 12.000 €, es erhielt kein Eingliederungseinkommen (oder Gleichwertiges) und keine Berufseinkünfte, die Sie als Werbungskosten abgezogen haben.",
+          "Ihre eigenen (Enkel-)Kinder jeden Alters oder andere hauptsächlich von Ihnen unterhaltene Kinder, vor 18 zu Lasten genommen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 138,
+    "category": "family",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Financiën / SPF Finances",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie-gezinssituatie/personen-ten-laste/andere",
+    "content": {
+      "en": {
+        "title": "Tax-Free Allowance for a Parent or Other Relative Living with You",
+        "desc": "If a parent, grandparent, brother or sister (or someone who raised you) lives with you and has very little income, you can declare them as a dependant and raise your tax-free amount. It is higher for a relative of 66 or older who needs care. For income 2025 the increase is €5,950 for a relative aged 66+ in need of care, €1,980 for other dependants and €3,960 for those with a serious disability; unlike for children, there is no refundable credit.",
+        "deadline": "Claimed in your yearly tax return for people who are part of your household on 1 January of the tax year.",
+        "amount": "+€5,950 tax-free for a relative aged 66+ in need of care",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Keep proof of the care need (at least 9 points of reduced self-reliance) or serious disability"
+          }
+        ],
+        "steps": [
+          "Check that the person lives with you on 1 January and their net means stay under the limit",
+          "In your tax return, declare them: code 1027 for a relative aged 66+ in need of care, code 1032 (and 1033) for others",
+          "Keep the certificate of care need or disability ready"
+        ]
+      },
+      "nl": {
+        "title": "Verhoogde belastingvrije som voor een inwonende ouder of ander familielid",
+        "desc": "Woont een ouder, grootouder, broer of zus (of iemand die jou als kind ten laste had) bij je en heeft die heel weinig inkomen, dan kan je die ten laste nemen en stijgt je belastingvrije som. Voor een zorgbehoevend familielid van 66 jaar of ouder is ze hoger. Voor inkomsten 2025 is de verhoging €5.950 voor een zorgbehoevend familielid van 66+, €1.980 voor andere personen ten laste en €3.960 voor wie een zware handicap heeft; anders dan bij kinderen is er geen terugbetaalbaar krediet.",
+        "deadline": "Aangegeven in je jaarlijkse belastingaangifte voor personen die op 1 januari van het aanslagjaar deel uitmaken van je gezin.",
+        "amount": "+€5.950 belastingvrij voor een zorgbehoevend familielid van 66+",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Houd een bewijs van zorgbehoevendheid (minstens 9 punten verminderde zelfredzaamheid) of zware handicap bij"
+          }
+        ],
+        "steps": [
+          "Ga na of de persoon op 1 januari bij je woont en zijn nettobestaansmiddelen onder de grens blijven",
+          "Geef de persoon aan in je belastingaangifte: code 1027 voor een zorgbehoevend familielid van 66+, code 1032 (en 1033) voor anderen",
+          "Houd het attest van zorgbehoevendheid of handicap ter beschikking"
+        ]
+      },
+      "fr": {
+        "title": "Quotité exemptée majorée pour un parent ou autre proche vivant avec vous",
+        "desc": "Si un parent, grand-parent, frère ou sœur (ou une personne qui vous a eu à charge enfant) vit chez vous et a très peu de revenus, vous pouvez le déclarer à charge et augmenter votre quotité exemptée. Elle est plus élevée pour un proche de 66 ans ou plus en besoin de soins. Pour les revenus 2025, la majoration est de 5.950 € pour un proche de 66+ en besoin de soins, 1.980 € pour les autres personnes à charge et 3.960 € en cas de handicap grave ; contrairement aux enfants, pas de crédit remboursable.",
+        "deadline": "À indiquer dans votre déclaration annuelle pour les personnes qui font partie de votre ménage au 1er janvier de l'exercice.",
+        "amount": "+5.950 € exonérés pour un proche de 66+ en besoin de soins",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Conservez la preuve du besoin de soins (au moins 9 points de perte d'autonomie) ou du handicap grave"
+          }
+        ],
+        "steps": [
+          "Vérifiez que la personne vit chez vous au 1er janvier et que ses moyens nets restent sous la limite",
+          "Déclarez-la dans votre déclaration : code 1027 pour un proche de 66+ en besoin de soins, code 1032 (et 1033) pour les autres",
+          "Gardez l'attestation de besoin de soins ou de handicap à disposition"
+        ]
+      },
+      "de": {
+        "title": "Erhöhter Steuerfreibetrag für einen mitwohnenden Elternteil oder Verwandten",
+        "desc": "Wohnt ein Elternteil, Großelternteil, Bruder oder eine Schwester (oder jemand, der Sie als Kind unterhielt) bei Ihnen und hat sehr wenig Einkommen, können Sie die Person zu Lasten angeben und Ihren Steuerfreibetrag erhöhen. Für einen pflegebedürftigen Verwandten ab 66 ist er höher. Für Einkommen 2025 beträgt die Erhöhung 5.950 € für pflegebedürftige Verwandte ab 66, 1.980 € für andere Personen zu Lasten und 3.960 € bei schwerer Behinderung; anders als bei Kindern gibt es keine erstattbare Gutschrift.",
+        "deadline": "In Ihrer jährlichen Steuererklärung anzugeben, für Personen, die am 1. Januar des Steuerjahres zu Ihrem Haushalt gehören.",
+        "amount": "+5.950 € steuerfrei für pflegebedürftige Verwandte ab 66",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewahren Sie den Nachweis der Pflegebedürftigkeit (mindestens 9 Punkte verminderte Selbstständigkeit) oder schweren Behinderung auf"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie, ob die Person am 1. Januar bei Ihnen wohnt und ihre Nettoexistenzmittel unter der Grenze bleiben",
+          "Geben Sie sie in der Steuererklärung an: Code 1027 für pflegebedürftige Verwandte ab 66, Code 1032 (und 1033) für andere",
+          "Halten Sie die Bescheinigung über Pflegebedürftigkeit oder Behinderung bereit"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie-gezinssituatie/personen-ten-laste/andere",
+      "conditions": {
+        "en": [
+          "Your (foster) parents, grandparents, great-grandparents, (half-)brothers or sisters, or someone who had you as a dependent child — never your partner.",
+          "They are part of your household on 1 January 2026, you are the head of household, and their net means in 2025 are at most €4,100 with no leefloon (or equivalent).",
+          "'In need of care' means at least 9 points of reduced self-reliance, established by the DG Persons with Disabilities, Medex or the health fund's advising doctor."
+        ],
+        "nl": [
+          "Je (pleeg)ouders, grootouders, overgrootouders, (half)broers of -zussen, of iemand die jou als kind ten laste had — nooit je partner.",
+          "Ze maken op 1 januari 2026 deel uit van je gezin, jij bent het gezinshoofd, en hun nettobestaansmiddelen in 2025 zijn maximaal €4.100, zonder (equivalent) leefloon.",
+          "'Zorgbehoevend' betekent minstens 9 punten verminderde zelfredzaamheid, vastgesteld door de DG Personen met een handicap, Medex of de adviserend arts van het ziekenfonds."
+        ],
+        "fr": [
+          "Vos parents (d'accueil), grands-parents, arrière-grands-parents, (demi-)frères ou sœurs, ou une personne qui vous a eu à charge enfant — jamais votre partenaire.",
+          "Ils font partie de votre ménage au 1er janvier 2026, vous êtes chef de ménage, et leurs moyens nets en 2025 ne dépassent pas 4.100 €, sans revenu d'intégration (ou équivalent).",
+          "« En besoin de soins » signifie au moins 9 points de perte d'autonomie, constatés par la DG Personnes handicapées, Medex ou le médecin-conseil de la mutualité."
+        ],
+        "de": [
+          "Ihre (Pflege-)Eltern, Großeltern, Urgroßeltern, (Halb-)Geschwister oder jemand, der Sie als Kind unterhielt — nie Ihr Partner.",
+          "Sie gehören am 1. Januar 2026 zu Ihrem Haushalt, Sie sind Haushaltsvorstand, und ihre Nettoexistenzmittel 2025 betragen höchstens 4.100 €, ohne Eingliederungseinkommen (oder Gleichwertiges).",
+          "„Pflegebedürftig“ heißt mindestens 9 Punkte verminderte Selbstständigkeit, festgestellt von der GD Personen mit Behinderung, Medex oder dem Vertrauensarzt der Krankenkasse."
+        ]
+      }
+    }
+  },
+  {
+    "id": 139,
+    "category": "family",
+    "situations": [
+      "children",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Financiën / SPF Finances",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang",
+    "content": {
+      "en": {
+        "title": "Tax Reduction for Childcare Costs",
+        "desc": "Parents get a tax reduction for what they pay for recognised childcare: daycare, before- and after-school care, holiday camps and other leisure initiatives outside school hours, for children under 14 (under 21 with a serious disability).",
+        "deadline": "Claimed in your tax return with the fiscal certificate the childcare provider must give you before 1 March of the tax year.",
+        "amount": "45% of what you paid, up to €16.90 per child per day (income 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Fiscal certificate (new model since 2022) from the childcare provider"
+          }
+        ],
+        "steps": [
+          "Ask the childcare provider for the fiscal certificate per child (sent before 1 March)",
+          "Enter the costs in your tax return",
+          "For a child under 3, compare with the extra tax-free amount for young children: you can only use one per child"
+        ]
+      },
+      "nl": {
+        "title": "Belastingvermindering voor kinderopvang",
+        "desc": "Ouders krijgen een belastingvermindering voor wat ze betalen aan erkende kinderopvang: kinderdagverblijf, voor- en naschoolse opvang, vakantiekampen en andere vrijetijdsinitiatieven buiten de lesuren, voor kinderen jonger dan 14 (jonger dan 21 met een zware handicap).",
+        "deadline": "In je belastingaangifte, met het fiscaal attest dat de opvang je vóór 1 maart van het aanslagjaar moet bezorgen.",
+        "amount": "45% van wat je betaalde, tot €16,90 per kind per dag (inkomsten 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Fiscaal attest (nieuw model sinds 2022) van de kinderopvang"
+          }
+        ],
+        "steps": [
+          "Vraag de opvang per kind het fiscaal attest (bezorgd vóór 1 maart)",
+          "Vul de kosten in je belastingaangifte in",
+          "Voor een kind jonger dan 3: vergelijk met de extra belastingvrije som voor jonge kinderen; je kan per kind maar één van beide gebruiken"
+        ]
+      },
+      "fr": {
+        "title": "Réduction d'impôt pour frais de garde d'enfants",
+        "desc": "Les parents obtiennent une réduction d'impôt pour ce qu'ils paient à une garde d'enfants reconnue : crèche, accueil avant et après l'école, stages de vacances et autres initiatives de loisirs hors des heures de cours, pour les enfants de moins de 14 ans (moins de 21 ans avec un handicap grave).",
+        "deadline": "Dans votre déclaration d'impôt, avec l'attestation fiscale que le milieu d'accueil doit vous remettre avant le 1er mars de l'exercice.",
+        "amount": "45 % de ce que vous avez payé, jusqu'à 16,90 € par enfant et par jour (revenus 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation fiscale (nouveau modèle depuis 2022) du milieu d'accueil"
+          }
+        ],
+        "steps": [
+          "Demandez l'attestation fiscale par enfant au milieu d'accueil (remise avant le 1er mars)",
+          "Indiquez les frais dans votre déclaration",
+          "Pour un enfant de moins de 3 ans, comparez avec le supplément de quotité exemptée : un seul des deux par enfant"
+        ]
+      },
+      "de": {
+        "title": "Steuerermäßigung für Kinderbetreuungskosten",
+        "desc": "Eltern erhalten eine Steuerermäßigung für Zahlungen an anerkannte Kinderbetreuung: Krippe, Vor- und Nachschulbetreuung, Ferienlager und andere Freizeitangebote außerhalb der Schulzeit, für Kinder unter 14 (unter 21 mit schwerer Behinderung).",
+        "deadline": "In der Steuererklärung, mit der Steuerbescheinigung, die die Betreuung Ihnen vor dem 1. März des Steuerjahres geben muss.",
+        "amount": "45 % des Gezahlten, bis zu 16,90 € pro Kind und Tag (Einkommen 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Steuerbescheinigung (neues Muster seit 2022) der Kinderbetreuung"
+          }
+        ],
+        "steps": [
+          "Fragen Sie die Betreuung pro Kind nach der Steuerbescheinigung (Zusendung vor 1. März)",
+          "Tragen Sie die Kosten in Ihre Steuererklärung ein",
+          "Für ein Kind unter 3: vergleichen Sie mit dem zusätzlichen Freibetrag für Kleinkinder; pro Kind ist nur eines möglich"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vlaanderen.be/cjm/nl/jeugd/andere-diensten/belastingvermindering-voor-kinderopvang",
+        "https://fin.belgium.be/nl/particulieren/belastingaangifte/persoonlijke-situatie/personen-ten-laste/kinderen"
+      ],
+      "conditions": {
+        "en": [
+          "The child is under 14 (under 21 with a serious disability).",
+          "The childcare is recognised, subsidised or supervised by a public authority; commercial initiatives and club membership fees do not count.",
+          "For a child under 3 you choose either this reduction or the extra tax-free amount for young children."
+        ],
+        "nl": [
+          "Het kind is jonger dan 14 (jonger dan 21 met een zware handicap).",
+          "De opvang is erkend, gesubsidieerd of gecontroleerd door een openbaar bestuur; commerciële initiatieven en lidgeld tellen niet mee.",
+          "Voor een kind jonger dan 3 kies je tussen deze vermindering en de extra belastingvrije som voor jonge kinderen."
+        ],
+        "fr": [
+          "L'enfant a moins de 14 ans (moins de 21 ans avec un handicap grave).",
+          "L'accueil est reconnu, subventionné ou contrôlé par une autorité publique ; les initiatives commerciales et cotisations de club ne comptent pas.",
+          "Pour un enfant de moins de 3 ans, vous choisissez entre cette réduction et le supplément de quotité exemptée pour jeunes enfants."
+        ],
+        "de": [
+          "Das Kind ist unter 14 (unter 21 mit schwerer Behinderung).",
+          "Die Betreuung ist von einer Behörde anerkannt, bezuschusst oder kontrolliert; kommerzielle Angebote und Vereinsbeiträge zählen nicht.",
+          "Für ein Kind unter 3 wählen Sie zwischen dieser Ermäßigung und dem zusätzlichen Freibetrag für Kleinkinder."
+        ]
+      }
+    }
+  },
+  {
+    "id": 140,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/hulp-van-derden",
+    "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/bedragen-en-loonplafonds-uitkeringen/werknemers-werklozen/bedrag-van-uw-forfaitaire-tegemoetkoming-voor-hulp-van-derden",
+    "content": {
+      "en": {
+        "title": "Allowance for Help from Third Parties during Incapacity for Work",
+        "desc": "If you receive a sickness or invalidity benefit and need help from others for everyday activities, your health fund pays a tax-free daily lump sum on top of your benefit.",
+        "deadline": "From the 4th month of incapacity at the earliest, until the incapacity ends; paid with your benefit for every day except Sunday.",
+        "amount": "€30.57 gross per day (from 1 September 2026), tax-free",
+        "requirements": [],
+        "steps": [
+          "Contact your health fund and ask for recognition of the need for help from third parties",
+          "The advising doctor or the multidisciplinary team scores six daily activities (moving, eating, hygiene, housework, supervision, communication)",
+          "With at least 11 of 18 points and a need for at least 3 months, the allowance is added to your benefit"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming voor hulp van derden bij arbeidsongeschiktheid",
+        "desc": "Krijg je een arbeidsongeschiktheids- of invaliditeitsuitkering en heb je hulp van anderen nodig voor gewone dagelijkse handelingen, dan betaalt je ziekenfonds bovenop je uitkering een onbelast dagelijks forfait.",
+        "deadline": "Ten vroegste vanaf de 4de maand arbeidsongeschiktheid, tot het einde ervan; samen met je uitkering betaald voor elke dag behalve zondag.",
+        "amount": "€30,57 bruto per dag (vanaf 1 september 2026), onbelast",
+        "requirements": [],
+        "steps": [
+          "Neem contact op met je ziekenfonds en vraag de erkenning van de behoefte aan hulp van derden",
+          "De adviserend arts of het multidisciplinair team scoort zes dagelijkse activiteiten (verplaatsen, eten, hygiëne, huishouden, toezicht, communicatie)",
+          "Met minstens 11 op 18 punten en een behoefte van minstens 3 maanden komt de tegemoetkoming bovenop je uitkering"
+        ]
+      },
+      "fr": {
+        "title": "Allocation pour l'aide d'une tierce personne pendant l'incapacité de travail",
+        "desc": "Si vous percevez une indemnité d'incapacité ou d'invalidité et avez besoin de l'aide d'autrui pour les actes de la vie quotidienne, votre mutualité verse un forfait journalier non imposable en plus de votre indemnité.",
+        "deadline": "Au plus tôt à partir du 4e mois d'incapacité, jusqu'à la fin de celle-ci ; versée avec votre indemnité pour chaque jour sauf le dimanche.",
+        "amount": "30,57 € bruts par jour (au 1er septembre 2026), non imposables",
+        "requirements": [],
+        "steps": [
+          "Contactez votre mutualité et demandez la reconnaissance du besoin d'aide d'une tierce personne",
+          "Le médecin-conseil ou l'équipe multidisciplinaire évalue six activités quotidiennes (se déplacer, manger, hygiène, ménage, surveillance, communication)",
+          "Avec au moins 11 points sur 18 et un besoin d'au moins 3 mois, l'allocation s'ajoute à votre indemnité"
+        ]
+      },
+      "de": {
+        "title": "Pauschale für Hilfe Dritter bei Arbeitsunfähigkeit",
+        "desc": "Erhalten Sie eine Arbeitsunfähigkeits- oder Invaliditätsentschädigung und brauchen für alltägliche Handlungen die Hilfe anderer, zahlt Ihre Krankenkasse zusätzlich eine steuerfreie Tagespauschale.",
+        "deadline": "Frühestens ab dem 4. Monat der Arbeitsunfähigkeit bis zu deren Ende; mit der Entschädigung für jeden Tag außer Sonntag gezahlt.",
+        "amount": "30,57 € brutto pro Tag (ab 1. September 2026), steuerfrei",
+        "requirements": [],
+        "steps": [
+          "Wenden Sie sich an Ihre Krankenkasse und beantragen Sie die Anerkennung des Bedarfs an Hilfe Dritter",
+          "Der Vertrauensarzt oder das multidisziplinäre Team bewertet sechs Alltagstätigkeiten (Fortbewegung, Essen, Hygiene, Haushalt, Aufsicht, Kommunikation)",
+          "Mit mindestens 11 von 18 Punkten und einem Bedarf von mindestens 3 Monaten kommt die Pauschale zur Entschädigung hinzu"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/hulp-van-derden",
+      "conditions": {
+        "en": [
+          "You are entitled to a sickness or invalidity benefit from your health fund (otherwise ask the DG Persons with Disabilities).",
+          "The advising doctor recognises a need for help of at least 11 points out of 18, for at least 3 months.",
+          "Refused or suspended during a stay in hospital, a care or rest home, or detention."
+        ],
+        "nl": [
+          "Je hebt recht op een arbeidsongeschiktheidsuitkering van je ziekenfonds (anders kan je terecht bij de DG Personen met een handicap).",
+          "De adviserend arts erkent een behoefte aan hulp van minstens 11 op 18 punten, voor minstens 3 maanden.",
+          "Geweigerd of geschorst tijdens een verblijf in een ziekenhuis, rust- of verzorgingstehuis, of bij vrijheidsberoving."
+        ],
+        "fr": [
+          "Vous avez droit à une indemnité d'incapacité de votre mutualité (sinon, adressez-vous à la DG Personnes handicapées).",
+          "Le médecin-conseil reconnaît un besoin d'aide d'au moins 11 points sur 18, pour au moins 3 mois.",
+          "Refusée ou suspendue pendant un séjour à l'hôpital, en maison de repos ou de soins, ou en cas de détention."
+        ],
+        "de": [
+          "Sie haben Anspruch auf eine Arbeitsunfähigkeitsentschädigung Ihrer Krankenkasse (sonst wenden Sie sich an die GD Personen mit Behinderung).",
+          "Der Vertrauensarzt erkennt einen Hilfebedarf von mindestens 11 von 18 Punkten für mindestens 3 Monate an.",
+          "Abgelehnt oder ausgesetzt während eines Aufenthalts im Krankenhaus, Alten- oder Pflegeheim oder bei Freiheitsentzug."
+        ]
+      }
+    }
+  },
+  {
+    "id": 141,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkoming-in-de-reiskosten-van-dialysepatienten",
+    "content": {
+      "en": {
+        "title": "Travel Costs for Dialysis Patients",
+        "desc": "The health insurance contributes to the cost of travelling between your home and the dialysis centre, including for follow-up visits of home dialysis patients.",
+        "deadline": "Paid automatically for dialysis sessions since 1 April 2025; earlier sessions needed a form.",
+        "amount": "€0.37 per km, return trip home–dialysis centre",
+        "requirements": [],
+        "steps": [
+          "Nothing to apply for: your health fund pays automatically based on the hospital invoice",
+          "It calculates the shortest distance with a route planner"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming in de reiskosten van dialysepatiënten",
+        "desc": "De ziekteverzekering komt tussen in de vervoerskosten tussen je woning en het dialysecentrum, ook voor toezichtsraadplegingen bij thuisdialyse.",
+        "deadline": "Automatisch betaald voor dialysesessies vanaf 1 april 2025; voor eerdere sessies was een formulier nodig.",
+        "amount": "€0,37 per km, heen en terug woning–dialysecentrum",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: je ziekenfonds betaalt automatisch op basis van de ziekenhuisfactuur",
+          "Het berekent de kortste afstand met een routeplanner"
+        ]
+      },
+      "fr": {
+        "title": "Intervention dans les frais de déplacement des patients dialysés",
+        "desc": "L'assurance soins de santé intervient dans les frais de déplacement entre votre domicile et le centre de dialyse, y compris pour les consultations de surveillance en dialyse à domicile.",
+        "deadline": "Versée automatiquement pour les séances depuis le 1er avril 2025 ; un formulaire était nécessaire pour les séances antérieures.",
+        "amount": "0,37 € par km, aller-retour domicile–centre de dialyse",
+        "requirements": [],
+        "steps": [
+          "Rien à demander : votre mutualité paie automatiquement sur la base de la facture de l'hôpital",
+          "Elle calcule la distance la plus courte avec un planificateur d'itinéraire"
+        ]
+      },
+      "de": {
+        "title": "Fahrtkostenerstattung für Dialysepatienten",
+        "desc": "Die Krankenversicherung beteiligt sich an den Fahrtkosten zwischen Wohnung und Dialysezentrum, auch für Kontrollbesuche bei Heimdialyse.",
+        "deadline": "Automatisch gezahlt für Dialysesitzungen ab 1. April 2025; für frühere Sitzungen war ein Formular nötig.",
+        "amount": "0,37 € pro km, Hin- und Rückweg Wohnung–Dialysezentrum",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: Ihre Krankenkasse zahlt automatisch anhand der Krankenhausrechnung",
+          "Sie berechnet die kürzeste Strecke per Routenplaner"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/tegemoetkoming-in-de-reiskosten-van-dialysepatienten",
+      "conditions": {
+        "en": [
+          "You are a dialysis patient, including home dialysis for follow-up consultations."
+        ],
+        "nl": [
+          "Je bent dialysepatiënt, ook bij thuisdialyse voor toezichtsraadplegingen."
+        ],
+        "fr": [
+          "Vous êtes patient(e) dialysé(e), y compris en dialyse à domicile pour les consultations de surveillance."
+        ],
+        "de": [
+          "Sie sind Dialysepatient, auch bei Heimdialyse für Kontrolluntersuchungen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 142,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "employee",
+      "job-loss"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/de-inhaalpremie",
+    "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/bedragen-en-loonplafonds-uitkeringen/werknemers-werklozen/bedrag-van-uw-inhaalpremie-als-werknemer-in-arbeidsongeschiktheid",
+    "content": {
+      "en": {
+        "title": "Catch-Up Premium for Long-Term Incapacity (Inhaalpremie)",
+        "desc": "Employees and jobseekers who have been unable to work for at least a year get a yearly extra on top of their benefit from the health fund.",
+        "deadline": "Paid automatically with the benefits of May.",
+        "amount": "May 2026: €558.39 to €1,094.33 depending on the length of incapacity and family situation",
+        "requirements": [],
+        "steps": [
+          "Nothing to apply for: your health fund pays the premium with your May benefits",
+          "The amount depends on how long you were incapacitated and your family situation on 31 December of the previous year"
+        ]
+      },
+      "nl": {
+        "title": "Inhaalpremie bij langdurige arbeidsongeschiktheid",
+        "desc": "Werknemers en werklozen die al minstens een jaar arbeidsongeschikt zijn, krijgen van hun ziekenfonds een jaarlijks extraatje bovenop hun uitkering.",
+        "deadline": "Automatisch uitbetaald samen met de uitkeringen van mei.",
+        "amount": "Mei 2026: €558,39 tot €1.094,33 naargelang de duur van de ongeschiktheid en de gezinssituatie",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: je ziekenfonds betaalt de premie met je uitkeringen van mei",
+          "Het bedrag hangt af van hoelang je arbeidsongeschikt bent en je gezinssituatie op 31 december van het vorige jaar"
+        ]
+      },
+      "fr": {
+        "title": "Prime de rattrapage pour incapacité de longue durée",
+        "desc": "Les salariés et chômeurs en incapacité de travail depuis au moins un an reçoivent de leur mutualité un supplément annuel en plus de leur indemnité.",
+        "deadline": "Versée automatiquement avec les indemnités de mai.",
+        "amount": "Mai 2026 : de 558,39 € à 1.094,33 € selon la durée de l'incapacité et la situation familiale",
+        "requirements": [],
+        "steps": [
+          "Rien à demander : votre mutualité verse la prime avec vos indemnités de mai",
+          "Le montant dépend de la durée de votre incapacité et de votre situation familiale au 31 décembre de l'année précédente"
+        ]
+      },
+      "de": {
+        "title": "Nachholprämie bei langer Arbeitsunfähigkeit",
+        "desc": "Arbeitnehmer und Arbeitslose, die seit mindestens einem Jahr arbeitsunfähig sind, erhalten von ihrer Krankenkasse jährlich einen Zuschlag zur Entschädigung.",
+        "deadline": "Automatisch mit den Entschädigungen für Mai gezahlt.",
+        "amount": "Mai 2026: 558,39 € bis 1.094,33 € je nach Dauer der Arbeitsunfähigkeit und Familiensituation",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: Ihre Krankenkasse zahlt die Prämie mit Ihren Mai-Entschädigungen",
+          "Der Betrag hängt von der Dauer Ihrer Arbeitsunfähigkeit und Ihrer Familiensituation am 31. Dezember des Vorjahres ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/werknemers-en-werklozen/de-inhaalpremie",
+      "conditions": {
+        "en": [
+          "You are an employee or jobseeker recognised as unfit for work.",
+          "On 31 December of last year you had been unfit for work for at least 1 year, and you are still unfit in May of this year."
+        ],
+        "nl": [
+          "Je bent werknemer of werkloze en arbeidsongeschikt erkend.",
+          "Op 31 december van vorig jaar was je minstens 1 jaar arbeidsongeschikt, en je bent in mei van dit jaar nog arbeidsongeschikt."
+        ],
+        "fr": [
+          "Vous êtes salarié(e) ou chômeur(se) reconnu(e) en incapacité de travail.",
+          "Au 31 décembre de l'an dernier, vous étiez en incapacité depuis au moins 1 an, et vous l'êtes encore en mai de cette année."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer oder Arbeitsloser und als arbeitsunfähig anerkannt.",
+          "Am 31. Dezember des Vorjahres waren Sie seit mindestens 1 Jahr arbeitsunfähig und sind es im Mai dieses Jahres noch."
+        ]
+      }
+    }
   }
 ]
