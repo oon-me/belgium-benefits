@@ -25864,5 +25864,2184 @@
         ]
       }
     }
+  },
+  {
+    "id": 213,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-van-het-gebruik-van-geavanceerde-of-dure-technologieen-in-een-gespecialiseerd-centrum",
+    "content": {
+      "en": {
+        "title": "Advanced Diabetes Technology in a Specialised Centre",
+        "desc": "People with diabetes on very intensive insulin treatment (multiple daily injections or a pump) who still cannot keep their blood sugar stable, or only with so much effort that daily life suffers, can use an advanced or expensive technology approved by RIZIV through a specialised centre. The centre provides the material and accessories, training and follow-up. Each technology is only reimbursed while RIZIV's scientific evaluation of it runs.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Material and follow-up free; you pay the personal share for consultations with the centre's doctor",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form, filled in and submitted by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Geavanceerde diabetestechnologie in een gespecialiseerd centrum",
+        "desc": "Mensen met diabetes die een zeer intensieve insulinebehandeling krijgen (meerdere injecties per dag of een pomp) en hun bloedsuiker toch niet stabiel krijgen, of alleen met zoveel inspanning dat hun levenscomfort sterk daalt, kunnen via een gespecialiseerd centrum een geavanceerde of dure technologie gebruiken die het RIZIV goedkeurde. Het centrum zorgt voor het materiaal met toebehoren, de educatie en de begeleiding. Elke technologie wordt alleen vergoed zolang de wetenschappelijke evaluatie van het RIZIV loopt.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Materiaal en begeleiding gratis; je betaalt remgeld voor raadplegingen bij de arts van het centrum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier, ingevuld en ingediend door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Technologie avancée pour le diabète dans un centre spécialisé",
+        "desc": "Les personnes diabétiques sous traitement insulinique très intensif (plusieurs injections par jour ou une pompe) qui ne parviennent pas à stabiliser leur glycémie, ou seulement au prix d'efforts qui réduisent fortement leur qualité de vie, peuvent utiliser via un centre spécialisé une technologie avancée ou coûteuse approuvée par l'INAMI. Le centre fournit le matériel et les accessoires, la formation et le suivi. Chaque technologie n'est remboursée que pendant l'évaluation scientifique menée par l'INAMI.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Matériel et suivi gratuits ; vous payez le ticket modérateur pour les consultations chez le médecin du centre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande, complété et introduit par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Fortschrittliche Diabetestechnologie in einem Fachzentrum",
+        "desc": "Menschen mit Diabetes unter sehr intensiver Insulinbehandlung (mehrere Injektionen täglich oder Pumpe), deren Blutzucker trotzdem nicht stabil ist oder nur mit so viel Aufwand, dass die Lebensqualität stark leidet, können über ein Fachzentrum eine vom LIKIV genehmigte fortschrittliche oder teure Technologie nutzen. Das Zentrum stellt Material und Zubehör, Schulung und Begleitung. Jede Technologie wird nur erstattet, solange die wissenschaftliche Bewertung des LIKIV läuft.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Material und Begleitung kostenlos; Sie zahlen den Eigenanteil für Konsultationen beim Arzt des Zentrums",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, vom Zentrum ausgefüllt und eingereicht"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-van-het-gebruik-van-geavanceerde-of-dure-technologieen-in-een-gespecialiseerd-centrum",
+      "conditions": {
+        "en": [
+          "You have diabetes and get very intensive insulin treatment (multiple injections or a pump) under the RIZIV self-regulation agreement (adults, 16 or older) or the children's diabetes agreement (under 20).",
+          "Despite this, your blood sugar is not stable, or keeping it stable sharply reduces your quality of life.",
+          "You are motivated to use the technology as your diabetologist prescribes and agree to the registration of certain data for a scientific evaluation.",
+          "The centre's doctors select you, and your health fund approves."
+        ],
+        "nl": [
+          "Je hebt diabetes en krijgt een zeer intensieve insulinebehandeling (meerdere injecties of een pomp) binnen de RIZIV-zelfregulatieovereenkomst (volwassenen vanaf 16 jaar) of de kinderdiabetesovereenkomst (jonger dan 20).",
+          "Ondanks die behandeling is je bloedsuiker niet stabiel, of vraagt dat zoveel inspanning dat je levenscomfort sterk daalt.",
+          "Je bent gemotiveerd om de technologie te gebruiken zoals je diabetoloog voorschrijft en stemt in met de registratie van bepaalde gegevens voor een wetenschappelijke evaluatie.",
+          "De artsen van het centrum selecteren je en je ziekenfonds gaat akkoord."
+        ],
+        "fr": [
+          "Vous êtes diabétique et recevez un traitement insulinique très intensif (plusieurs injections ou pompe) dans le cadre de la convention d'autogestion de l'INAMI (adultes de 16 ans ou plus) ou de la convention diabète de l'enfant (moins de 20 ans).",
+          "Malgré ce traitement, votre glycémie n'est pas stable, ou la stabiliser réduit fortement votre qualité de vie.",
+          "Vous êtes motivé(e) à utiliser la technologie comme le prescrit votre diabétologue et acceptez l'enregistrement de certaines données pour une évaluation scientifique.",
+          "Les médecins du centre vous sélectionnent et votre mutualité marque son accord."
+        ],
+        "de": [
+          "Sie haben Diabetes und erhalten eine sehr intensive Insulinbehandlung (mehrere Injektionen oder Pumpe) im Rahmen der LIKIV-Selbstregulierungsvereinbarung (Erwachsene ab 16) oder der Kinderdiabetesvereinbarung (unter 20).",
+          "Trotz dieser Behandlung ist Ihr Blutzucker nicht stabil, oder die Stabilisierung schränkt Ihre Lebensqualität stark ein.",
+          "Sie sind motiviert, die Technologie wie von Ihrem Diabetologen verordnet zu nutzen, und stimmen der Erfassung bestimmter Daten für eine wissenschaftliche Bewertung zu.",
+          "Die Ärzte des Zentrums wählen Sie aus, und Ihre Krankenkasse stimmt zu."
+        ]
+      }
+    }
+  },
+  {
+    "id": 214,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-begeleiding-in-een-gespecialiseerd-centrum-van-diabetespatienten-met-een-draagbare-insulinepomp",
+    "content": {
+      "en": {
+        "title": "Insulin Pump Programme in a Specialised Centre",
+        "desc": "People with diabetes aged 16 or older who need a portable insulin pump can follow a programme in a specialised centre. The centre provides a ready-to-use pump and everything needed to use it (batteries, cannulas, catheters, reservoirs), glucose sensors and a transmitter if your pump works with continuous glucose monitoring, a platform for remote follow-up, and training by a multidisciplinary team.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Pump, material and follow-up free; you pay the personal share for consultations with the centre's doctor",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical prescription, from the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Insulinepomp via een gespecialiseerd centrum",
+        "desc": "Mensen met diabetes vanaf 16 jaar die een draagbare insulinepomp nodig hebben, kunnen een programma volgen in een gespecialiseerd centrum. Het centrum zorgt voor een gebruiksklare pomp en alles wat nodig is om ze te gebruiken (batterijen, canules, katheters, reservoirs), glucosesensoren en een zender als je pomp werkt met continue glucosemonitoring, een platform voor begeleiding op afstand, en educatie door een multidisciplinair team.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Pomp, materiaal en begeleiding gratis; je betaalt remgeld voor raadplegingen bij de arts van het centrum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch voorschrift, van het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Pompe à insuline via un centre spécialisé",
+        "desc": "Les personnes diabétiques de 16 ans ou plus qui ont besoin d'une pompe à insuline portable peuvent suivre un programme dans un centre spécialisé. Le centre fournit une pompe prête à l'emploi et tout le nécessaire (piles, canules, cathéters, réservoirs), des capteurs de glucose et un émetteur si votre pompe fonctionne avec une mesure continue du glucose, une plateforme de suivi à distance et une formation par une équipe multidisciplinaire.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Pompe, matériel et suivi gratuits ; vous payez le ticket modérateur pour les consultations chez le médecin du centre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec prescription médicale, du centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Insulinpumpe über ein Fachzentrum",
+        "desc": "Menschen mit Diabetes ab 16 Jahren, die eine tragbare Insulinpumpe brauchen, können ein Programm in einem Fachzentrum folgen. Das Zentrum stellt eine gebrauchsfertige Pumpe und alles für ihren Gebrauch (Batterien, Kanülen, Katheter, Reservoirs), Glukosesensoren und einen Sender, wenn Ihre Pumpe mit kontinuierlicher Glukosemessung arbeitet, eine Plattform für die Fernbetreuung sowie Schulung durch ein multidisziplinäres Team.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Pumpe, Material und Begleitung kostenlos; Sie zahlen den Eigenanteil für Konsultationen beim Arzt des Zentrums",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlicher Verordnung, vom Zentrum"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-begeleiding-in-een-gespecialiseerd-centrum-van-diabetespatienten-met-een-draagbare-insulinepomp",
+      "conditions": {
+        "en": [
+          "You are 16 or older and in one of these situations: type 1 diabetes (or group A of the self-regulation agreement) not controlled despite correct intensive insulin therapy and education; a woman with diabetes who is pregnant or wants to be; already on a pump under the children's agreement; type 1 diabetes with extreme insulin sensitivity; before and just after a pancreas or islet transplant; type 1 diabetes with irregular working hours or a job where your safety or others' is at risk.",
+          "You also follow a self-regulation programme under the RIZIV agreement.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je bent 16 jaar of ouder en in een van deze situaties: type 1-diabetes (of groep A van de zelfregulatieovereenkomst) die niet onder controle is ondanks correcte intensieve insulinetherapie en educatie; een vrouw met diabetes die zwanger is of wil worden; al een pomp binnen de kinderdiabetesovereenkomst; type 1-diabetes met extreme gevoeligheid voor insuline; voor en kort na een pancreas- of eilandceltransplantatie; type 1-diabetes met onregelmatige werkuren of een job waarin je veiligheid of die van anderen op het spel staat.",
+          "Je volgt daarnaast een zelfregulatieprogramma binnen de RIZIV-overeenkomst.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez 16 ans ou plus et êtes dans l'une de ces situations : diabète de type 1 (ou groupe A de la convention d'autogestion) non contrôlé malgré une insulinothérapie intensive correcte et une éducation ; femme diabétique enceinte ou souhaitant l'être ; déjà sous pompe dans le cadre de la convention enfants ; diabète de type 1 avec sensibilité extrême à l'insuline ; avant et juste après une greffe de pancréas ou d'îlots ; diabète de type 1 avec horaires irréguliers ou un travail où votre sécurité ou celle d'autrui est en jeu.",
+          "Vous suivez en même temps un programme d'autogestion dans le cadre de la convention INAMI.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie sind 16 oder älter und in einer dieser Situationen: Typ-1-Diabetes (oder Gruppe A der Selbstregulierungsvereinbarung), der trotz korrekter intensiver Insulintherapie und Schulung nicht kontrolliert ist; eine Frau mit Diabetes, die schwanger ist oder werden möchte; bereits Pumpe im Rahmen der Kindervereinbarung; Typ-1-Diabetes mit extremer Insulinempfindlichkeit; vor und kurz nach einer Pankreas- oder Inselzelltransplantation; Typ-1-Diabetes mit unregelmäßigen Arbeitszeiten oder einer Arbeit, bei der Ihre oder fremde Sicherheit gefährdet ist.",
+          "Sie folgen gleichzeitig einem Selbstregulierungsprogramm im Rahmen der LIKIV-Vereinbarung.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 215,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-de-begeleiding-van-volwassenen-in-een-gespecialiseerd-centrum",
+    "content": {
+      "en": {
+        "title": "Diabetes Self-Management Programme for Adults",
+        "desc": "Adults with severe diabetes can follow a self-management programme in a specialised hospital centre: you learn to follow a suitable diet, measure your blood sugar, adjust and inject insulin, and review the results with the team. The centre provides measuring material: a finger-prick kit (lancet holder, lancets, strips, meter) or sensors with a reader or transmitter. Sensor material is fully reimbursed for the groups RIZIV lists, such as type 1 diabetes and type 2 with at least 3 insulin injections a day.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Nurse and dietitian support and finger-prick material free; you pay the personal share for consultations with the centre's doctor",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form filled in by the centre and signed by you"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Zelfregulatieprogramma diabetes voor volwassenen",
+        "desc": "Volwassenen met ernstige diabetes kunnen een zelfregulatieprogramma volgen in een gespecialiseerd ziekenhuiscentrum: je leert een aangepast dieet volgen, je bloedsuiker meten, insuline aanpassen en inspuiten, en de resultaten samen met het team beoordelen. Het centrum geeft meetmateriaal: een vingerprikset (lancethouder, lancetten, strookjes, afleestoestel) of sensoren met een afleestoestel of zender. Sensormateriaal wordt volledig terugbetaald voor de groepen die het RIZIV vermeldt, zoals type 1-diabetes en type 2 met minstens 3 insuline-injecties per dag.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Begeleiding door verpleegkundigen en diëtisten en vingerprikmateriaal gratis; je betaalt remgeld voor raadplegingen bij de arts van het centrum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier ingevuld door het centrum en ondertekend door jou"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Programme d'autogestion du diabète pour adultes",
+        "desc": "Les adultes atteints d'un diabète sévère peuvent suivre un programme d'autogestion dans un centre hospitalier spécialisé : vous apprenez à suivre un régime adapté, à mesurer votre glycémie, à adapter et injecter l'insuline et à évaluer les résultats avec l'équipe. Le centre fournit le matériel de mesure : un kit pour piqûre au doigt (porte-lancette, lancettes, tigettes, lecteur) ou des capteurs avec lecteur ou émetteur. Les capteurs sont entièrement remboursés pour les groupes cités par l'INAMI, comme le diabète de type 1 et le type 2 avec au moins 3 injections d'insuline par jour.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Suivi par infirmiers et diététiciens et matériel pour piqûre au doigt gratuits ; vous payez le ticket modérateur pour les consultations chez le médecin du centre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété par le centre et signé par vous"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Selbstregulierungsprogramm Diabetes für Erwachsene",
+        "desc": "Erwachsene mit schwerem Diabetes können in einem spezialisierten Krankenhauszentrum ein Selbstregulierungsprogramm folgen: Sie lernen eine angepasste Ernährung, Blutzuckermessung, das Anpassen und Spritzen von Insulin und die Auswertung der Ergebnisse mit dem Team. Das Zentrum stellt Messmaterial: ein Fingerstich-Set (Stechhilfe, Lanzetten, Teststreifen, Messgerät) oder Sensoren mit Lesegerät oder Sender. Sensormaterial wird für die vom LIKIV genannten Gruppen voll erstattet, etwa Typ-1-Diabetes und Typ 2 mit mindestens 3 Insulininjektionen täglich.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Betreuung durch Pflegekräfte und Diätassistenten sowie Fingerstich-Material kostenlos; Sie zahlen den Eigenanteil für Konsultationen beim Arzt des Zentrums",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, vom Zentrum ausgefüllt und von Ihnen unterschrieben"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-de-begeleiding-van-volwassenen-in-een-gespecialiseerd-centrum",
+      "conditions": {
+        "en": [
+          "You are 16 or older and have a global medical record (GMD).",
+          "You have type 1 diabetes, type 2 diabetes with in principle at least 3 insulin injections a day (or at least 2 plus a serious medical condition), or one of these: near-total loss of pancreatic function, cystic fibrosis or monogenic diabetes treated with insulin or other injectables, organic hypoglycaemia, gestational diabetes, diabetes with a wish to become pregnant, diabetes after an organ transplant or on dialysis.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je bent 16 jaar of ouder en hebt een globaal medisch dossier (GMD).",
+          "Je hebt type 1-diabetes, type 2-diabetes met in principe minstens 3 insuline-injecties per dag (of minstens 2 en een ernstige medische aandoening), of een van deze: quasi volledig verlies van de pancreasfunctie, mucoviscidose of monogene diabetes behandeld met insuline of andere injecteerbare middelen, organische hypoglycemieën, zwangerschapsdiabetes, diabetes met zwangerschapswens, diabetes na een orgaantransplantatie of bij nierdialyse.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez 16 ans ou plus et un dossier médical global (DMG).",
+          "Vous avez un diabète de type 1, un diabète de type 2 avec en principe au moins 3 injections d'insuline par jour (ou au moins 2 et une affection médicale grave), ou l'une de ces situations : perte quasi totale de la fonction pancréatique, mucoviscidose ou diabète monogénique traité par insuline ou autres injectables, hypoglycémies organiques, diabète gestationnel, diabète avec désir de grossesse, diabète après une greffe d'organe ou sous dialyse.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie sind 16 oder älter und haben eine globale medizinische Akte (GMA).",
+          "Sie haben Typ-1-Diabetes, Typ-2-Diabetes mit grundsätzlich mindestens 3 Insulininjektionen täglich (oder mindestens 2 und einer schweren Erkrankung) oder eine dieser Situationen: nahezu vollständiger Verlust der Bauchspeicheldrüsenfunktion, Mukoviszidose oder monogener Diabetes mit Insulin oder anderen Injektionen, organische Hypoglykämien, Schwangerschaftsdiabetes, Diabetes mit Kinderwunsch, Diabetes nach Organtransplantation oder bei Dialyse.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 216,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-de-begeleiding-van-zelfregulatie-bij-kinderen-en-adolescenten",
+    "content": {
+      "en": {
+        "title": "Diabetes Programme for Children and Teenagers",
+        "desc": "Children and teenagers with diabetes, hyperinsulinism causing hypos, or organic hypoglycaemia can follow a self-management programme in a specialised centre, together with their parents. The team gives continuous guidance, social and emotional support, information for teachers at the child's school, and a phone line outside consultation hours. It provides measuring material (finger-prick kit, on average 150 measurements a month, or sensors) and, if needed, an insulin pump with all accessories.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Team support and finger-prick material free; you pay the personal share for consultations with the centre's doctor",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Diabetesprogramma voor kinderen en jongeren",
+        "desc": "Kinderen en jongeren met diabetes, hyperinsulinisme met hypo's of organische hypoglycemieën kunnen samen met hun ouders een zelfregulatieprogramma volgen in een gespecialiseerd centrum. Het team biedt continue begeleiding, sociale en emotionele steun, informatie voor de leerkrachten op school en een telefonische permanentie buiten de raadplegingsuren. Het geeft meetmateriaal (vingerprikset, gemiddeld 150 metingen per maand, of sensoren) en zo nodig een insulinepomp met alle toebehoren.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Begeleiding door het team en vingerprikmateriaal gratis; je betaalt remgeld voor raadplegingen bij de arts van het centrum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Programme diabète pour enfants et adolescents",
+        "desc": "Les enfants et adolescents atteints de diabète, d'hyperinsulinisme avec hypoglycémies ou d'hypoglycémies organiques peuvent suivre avec leurs parents un programme d'autogestion dans un centre spécialisé. L'équipe assure un accompagnement continu, un soutien social et émotionnel, une information des enseignants de l'école et une permanence téléphonique en dehors des consultations. Elle fournit le matériel de mesure (piqûre au doigt, en moyenne 150 mesures par mois, ou capteurs) et si nécessaire une pompe à insuline avec tous les accessoires.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Suivi par l'équipe et matériel pour piqûre au doigt gratuits ; vous payez le ticket modérateur pour les consultations chez le médecin du centre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Diabetesprogramm für Kinder und Jugendliche",
+        "desc": "Kinder und Jugendliche mit Diabetes, Hyperinsulinismus mit Unterzuckerungen oder organischen Hypoglykämien können mit ihren Eltern ein Selbstregulierungsprogramm in einem Fachzentrum folgen. Das Team bietet laufende Begleitung, soziale und emotionale Unterstützung, Information für die Lehrkräfte der Schule und eine Telefonbereitschaft außerhalb der Sprechstunden. Es stellt Messmaterial (Fingerstich, durchschnittlich 150 Messungen pro Monat, oder Sensoren) und bei Bedarf eine Insulinpumpe mit allem Zubehör.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Betreuung durch das Team und Fingerstich-Material kostenlos; Sie zahlen den Eigenanteil für Konsultationen beim Arzt des Zentrums",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-de-begeleiding-van-zelfregulatie-bij-kinderen-en-adolescenten",
+      "conditions": {
+        "en": [
+          "Your child has diabetes (type 1 or 2), hyperinsulinism causing hypoglycaemia, or organic hypoglycaemia.",
+          "Your child is in principle 17 or younger; a child already followed before turning 18 can stay until the day before their 20th birthday.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je kind heeft diabetes (type 1 of 2), hyperinsulinisme met hypoglycemieën, of organische hypoglycemieën.",
+          "Je kind is in principe maximaal 17 jaar; wie al voor 18 jaar begeleid werd, mag blijven tot de dag voor de twintigste verjaardag.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Votre enfant a un diabète (type 1 ou 2), un hyperinsulinisme provoquant des hypoglycémies ou des hypoglycémies organiques.",
+          "Votre enfant a en principe 17 ans au plus ; un enfant suivi avant 18 ans peut rester jusqu'à la veille de ses 20 ans.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Ihr Kind hat Diabetes (Typ 1 oder 2), Hyperinsulinismus mit Unterzuckerungen oder organische Hypoglykämien.",
+          "Ihr Kind ist grundsätzlich höchstens 17; wer schon vor 18 betreut wurde, kann bis zum Tag vor dem 20. Geburtstag bleiben.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 217,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-zorg-verstrekt-in-een-gespecialiseerd-centrum-aan-diabetespatienten-met-voetwonden",
+    "content": {
+      "en": {
+        "title": "Diabetic Foot Clinic",
+        "desc": "People with diabetes who have a foot wound or Charcot foot can be treated in a specialised foot clinic: diagnosis, wound care, assessment of whether surgery would help, help finding walking aids, and follow-up after healing to prevent new wounds. You are also entitled to podiatry and dietetics sessions.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "You pay the personal share per treatment session (third-party payment applies)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical prescription, from the foot clinic"
+          }
+        ],
+        "steps": [
+          "Contact one of the foot clinics on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Diabetische voetkliniek",
+        "desc": "Mensen met diabetes met een voetwonde of Charcot-voet kunnen behandeld worden in een gespecialiseerde voetkliniek: diagnose, wondverzorging, onderzoek of een ingreep zinvol is, hulp bij het zoeken naar stapondersteuning, en opvolging na genezing om nieuwe wonden te voorkomen. Je hebt ook recht op sessies podologie en diëtetiek.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Je betaalt remgeld per behandelingssessie (derdebetalersregeling)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch voorschrift, van de voetkliniek"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de voetklinieken op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Clinique du pied diabétique",
+        "desc": "Les personnes diabétiques avec une plaie au pied ou un pied de Charcot peuvent être soignées dans une clinique du pied spécialisée : diagnostic, soins des plaies, examen de l'utilité d'une chirurgie, aide pour trouver des aides à la marche et suivi après guérison pour éviter de nouvelles plaies. Vous avez aussi droit à des séances de podologie et de diététique.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Vous payez le ticket modérateur par séance de traitement (tiers payant)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec prescription médicale, de la clinique du pied"
+          }
+        ],
+        "steps": [
+          "Contactez l'une des cliniques du pied de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Klinik für diabetischen Fuß",
+        "desc": "Menschen mit Diabetes und einer Fußwunde oder einem Charcot-Fuß können in einer spezialisierten Fußklinik behandelt werden: Diagnose, Wundversorgung, Prüfung, ob eine Operation hilft, Hilfe bei Gehhilfen und Nachsorge nach der Heilung gegen neue Wunden. Sie haben auch Anspruch auf Podologie- und Diätberatungssitzungen.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Sie zahlen den Eigenanteil pro Behandlungssitzung (Drittzahlerregelung)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlicher Verordnung, von der Fußklinik"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eine der Fußkliniken auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-zorg-verstrekt-in-een-gespecialiseerd-centrum-aan-diabetespatienten-met-voetwonden",
+      "conditions": {
+        "en": [
+          "You have diabetes, are not hospitalised, and have a foot wound or neurogenic arthropathy (Charcot foot), or had such a wound treated in a specialised centre and need follow-up in remission.",
+          "You follow a diabetes self-regulation programme, a type 2 start-up pathway or a type 2 care pathway; if not, you can get this care once for 3 months (not renewable).",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je hebt diabetes, bent niet opgenomen in een ziekenhuis en hebt een voetwonde of neurogene artropathie (Charcot-gewricht), of je had zo'n wonde die in een gespecialiseerd centrum behandeld werd en je hebt opvolging nodig in remissie.",
+          "Je volgt een zelfregulatieprogramma diabetes, een opstarttraject of een zorgtraject diabetes type 2; zo niet, dan kun je deze zorg één keer 3 maanden krijgen (niet verlengbaar).",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous êtes diabétique, n'êtes pas hospitalisé(e) et avez une plaie au pied ou une arthropathie neurogène (pied de Charcot), ou vous avez eu une telle plaie traitée dans un centre spécialisé et avez besoin d'un suivi en rémission.",
+          "Vous suivez un programme d'autogestion du diabète, un trajet de démarrage ou un trajet de soins diabète de type 2 ; sinon, vous pouvez recevoir ces soins une seule fois pendant 3 mois (non renouvelable).",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie haben Diabetes, sind nicht im Krankenhaus und haben eine Fußwunde oder neurogene Arthropathie (Charcot-Fuß), oder Sie hatten eine solche Wunde in einem Fachzentrum behandeln lassen und brauchen Nachsorge in Remission.",
+          "Sie folgen einem Selbstregulierungsprogramm Diabetes, einem Starttraject oder einem Behandlungspfad Diabetes Typ 2; andernfalls können Sie diese Versorgung einmalig 3 Monate lang erhalten (nicht verlängerbar).",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 218,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/neuromusculaire-ziekten-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra",
+    "content": {
+      "en": {
+        "title": "Neuromuscular Disease Reference Centre",
+        "desc": "People with a neuromuscular disease get lifelong care in a reference centre: a team of neurologists, geneticists, rehabilitation doctors, physiotherapists, dietitians, psychologists and others supports you and those close to you at every stage of the disease, and stays in touch with your GP and home physiotherapist. Under 18s also get help with transport costs to the centre.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Dietitian, occupational and speech therapist, social worker, psychologist and nurse free; personal share for doctors and physiotherapists",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Referentiecentrum voor neuromusculaire ziekten",
+        "desc": "Mensen met een neuromusculaire ziekte krijgen levenslange zorg in een referentiecentrum: een team van neurologen, genetici, revalidatieartsen, kinesitherapeuten, diëtisten, psychologen en anderen begeleidt jou en je omgeving in alle stadia van de ziekte en houdt contact met je huisarts en huiskinesitherapeut. Wie jonger is dan 18 krijgt ook een tegemoetkoming in de vervoerskosten naar het centrum.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Diëtist, ergotherapeut, logopedist, maatschappelijk werker, psycholoog en verpleegkundige gratis; remgeld voor artsen en kinesitherapeuten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Centre de référence pour maladies neuromusculaires",
+        "desc": "Les personnes atteintes d'une maladie neuromusculaire reçoivent des soins à vie dans un centre de référence : une équipe de neurologues, généticiens, médecins de réadaptation, kinésithérapeutes, diététiciens, psychologues et autres vous accompagne, vous et vos proches, à chaque stade de la maladie, en contact avec votre médecin généraliste et votre kiné à domicile. Les moins de 18 ans reçoivent aussi une intervention dans les frais de déplacement vers le centre.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Diététicien, ergothérapeute, logopède, assistant social, psychologue et infirmier gratuits ; ticket modérateur pour médecins et kinés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Referenzzentrum für neuromuskuläre Erkrankungen",
+        "desc": "Menschen mit einer neuromuskulären Erkrankung erhalten lebenslange Versorgung in einem Referenzzentrum: Ein Team aus Neurologen, Genetikern, Rehabilitationsärzten, Physiotherapeuten, Diätassistenten, Psychologen und anderen begleitet Sie und Ihr Umfeld in allen Stadien der Krankheit und hält Kontakt mit Hausarzt und Physiotherapeut. Unter 18-Jährige erhalten auch eine Beteiligung an den Fahrtkosten zum Zentrum.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Diätassistent, Ergo- und Logotherapeut, Sozialarbeiter, Psychologe und Pflegekraft kostenlos; Eigenanteil für Ärzte und Physiotherapeuten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/neuromusculaire-ziekten-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra",
+      "conditions": {
+        "en": [
+          "You have a neuromuscular disease (RIZIV publishes a list of the most common ones).",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je hebt een neuromusculaire ziekte (het RIZIV publiceert een lijst van de meest voorkomende).",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez une maladie neuromusculaire (l'INAMI publie une liste des plus fréquentes).",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie haben eine neuromuskuläre Erkrankung (das LIKIV veröffentlicht eine Liste der häufigsten).",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 219,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/hersenverlamming-cerebral-palsy-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra",
+    "content": {
+      "en": {
+        "title": "Cerebral Palsy Reference Centre",
+        "desc": "Children and adults with cerebral palsy can go to a CP reference centre. It makes the diagnosis if needed, draws up a treatment and rehabilitation plan and advises the people who treat you every day (GP, specialist, physiotherapist, school). It can run gait-lab tests and give advice on communication aids, wheelchairs and other aids for daily life. Under 18s also get help with transport costs to the centre.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Personal share for the plan and advice, for doctor and physiotherapist consultations and for gait-lab tests; other team members are not charged separately",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your doctor's referral letter, if you were referred"
+          },
+          {
+            "type": "doc",
+            "label": "Application form, from the centre (with its medical report if you were not referred)"
+          }
+        ],
+        "steps": [
+          "Contact a CP reference centre on RIZIV's list; bring your doctor's referral letter if you have one",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Referentiecentrum voor hersenverlamming (cerebral palsy)",
+        "desc": "Kinderen en volwassenen met hersenverlamming kunnen naar een cp-referentiecentrum. Het stelt zo nodig de diagnose, maakt een behandelings- en revalidatieplan en adviseert wie je dagelijks behandelt (huisarts, specialist, kinesitherapeut, school). Het kan onderzoeken in een ganglabo doen en advies geven over communicatiehulpmiddelen, rolstoelen en andere hulpmiddelen voor het dagelijks leven. Wie jonger is dan 18 krijgt ook een tegemoetkoming in de vervoerskosten naar het centrum.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Remgeld voor het plan en het advies, voor raadplegingen bij artsen en kinesitherapeuten en voor onderzoek in het ganglabo; andere teamleden worden niet apart aangerekend",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verwijsbrief van je arts, als je doorverwezen bent"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier, van het centrum (met medisch verslag als je niet doorverwezen bent)"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een cp-referentiecentrum op de lijst van het RIZIV; breng de verwijsbrief van je arts mee als je die hebt",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Centre de référence pour l'infirmité motrice cérébrale",
+        "desc": "Les enfants et adultes atteints d'infirmité motrice cérébrale peuvent s'adresser à un centre de référence IMC. Il pose si nécessaire le diagnostic, établit un plan de traitement et de rééducation et conseille ceux qui vous soignent au quotidien (généraliste, spécialiste, kiné, école). Il peut réaliser des examens en laboratoire de marche et conseiller sur les aides à la communication, fauteuils roulants et autres aides de la vie quotidienne. Les moins de 18 ans reçoivent aussi une intervention dans les frais de déplacement vers le centre.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Ticket modérateur pour le plan et les conseils, les consultations chez les médecins et kinés et les examens en labo de marche ; les autres membres de l'équipe ne sont pas facturés à part",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Lettre de renvoi de votre médecin, si vous avez été orienté(e)"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande, du centre (avec rapport médical si vous n'avez pas été orienté(e))"
+          }
+        ],
+        "steps": [
+          "Contactez un centre de référence IMC de la liste de l'INAMI ; apportez la lettre de renvoi de votre médecin si vous en avez une",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Referenzzentrum für Zerebralparese",
+        "desc": "Kinder und Erwachsene mit Zerebralparese können ein CP-Referenzzentrum aufsuchen. Es stellt bei Bedarf die Diagnose, erstellt einen Behandlungs- und Rehabilitationsplan und berät die Menschen, die Sie täglich behandeln (Hausarzt, Facharzt, Physiotherapeut, Schule). Es kann Ganglabor-Untersuchungen durchführen und zu Kommunikationshilfen, Rollstühlen und anderen Alltagshilfen beraten. Unter 18-Jährige erhalten auch eine Beteiligung an den Fahrtkosten zum Zentrum.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Eigenanteil für Plan und Beratung, Konsultationen bei Ärzten und Physiotherapeuten und Ganglabor; andere Teammitglieder werden nicht gesondert berechnet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Überweisungsschreiben Ihres Arztes, falls Sie überwiesen wurden"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular, vom Zentrum (mit ärztlichem Bericht, wenn Sie nicht überwiesen wurden)"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an ein CP-Referenzzentrum auf der LIKIV-Liste; bringen Sie das Überweisungsschreiben Ihres Arztes mit, falls vorhanden",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/hersenverlamming-cerebral-palsy-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra",
+      "conditions": {
+        "en": [
+          "You have cerebral palsy (movement and posture disorders caused by a brain condition present at birth or arising in the first 2 years), or such disorders probably caused by it.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je hebt hersenverlamming (bewegings- en houdingsstoornissen door een hersenaandoening die aangeboren is of in de eerste 2 levensjaren optrad), of zulke stoornissen die er vermoedelijk door veroorzaakt zijn.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez une infirmité motrice cérébrale (troubles du mouvement et de la posture dus à une atteinte cérébrale congénitale ou survenue dans les 2 premières années), ou de tels troubles probablement dus à celle-ci.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie haben eine Zerebralparese (Bewegungs- und Haltungsstörungen durch eine angeborene oder in den ersten 2 Lebensjahren entstandene Hirnschädigung) oder solche Störungen, die vermutlich darauf zurückgehen.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 220,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/spina-bifida",
+    "content": {
+      "en": {
+        "title": "Spina Bifida Reference Centre",
+        "desc": "People with spina bifida and/or a proven tethered cord syndrome can go to a reference centre. It makes a treatment and rehabilitation plan, coordinates with the people who treat you every day, and advises on all related problems, such as bladder and bowel disorders. Newborns with a perinatal traumatic spinal cord lesion can also go. Under 18s also get help with transport costs to the centre.",
+        "deadline": "Your first visit to the centre must take place before your 19th birthday.",
+        "amount": "Once a year a personal share for the plan and advice; a personal share per doctor or physiotherapist consultation; other team members are not charged",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your doctor's referral letter, if you were referred"
+          },
+          {
+            "type": "doc",
+            "label": "Application form, from the centre (with its medical report if you were not referred)"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Referentiecentrum voor spina bifida",
+        "desc": "Mensen met spina bifida en/of een bewezen gekluisterd ruggenmergsyndroom kunnen naar een referentiecentrum. Het maakt een behandelings- en revalidatieplan, stemt af met wie je dagelijks behandelt en adviseert over alle verwante problemen, zoals blaas- en darmstoornissen. Ook pasgeborenen met een perinatale traumatische dwarslaesie kunnen er terecht. Wie jonger is dan 18 krijgt ook een tegemoetkoming in de vervoerskosten naar het centrum.",
+        "deadline": "Je eerste bezoek aan het centrum moet voor je 19e verjaardag plaatsvinden.",
+        "amount": "Eén keer per jaar remgeld voor het plan en het advies; remgeld per raadpleging bij artsen en kinesitherapeuten; andere teamleden worden niet aangerekend",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verwijsbrief van je arts, als je doorverwezen bent"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier, van het centrum (met medisch verslag als je niet doorverwezen bent)"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Centre de référence pour le spina bifida",
+        "desc": "Les personnes atteintes de spina bifida et/ou d'un syndrome de la moelle attachée avéré peuvent s'adresser à un centre de référence. Il établit un plan de traitement et de rééducation, se coordonne avec ceux qui vous soignent au quotidien et conseille sur tous les problèmes liés, comme les troubles vésicaux et intestinaux. Les nouveau-nés avec une lésion médullaire traumatique périnatale peuvent aussi y aller. Les moins de 18 ans reçoivent aussi une intervention dans les frais de déplacement vers le centre.",
+        "deadline": "Votre première visite au centre doit avoir lieu avant vos 19 ans.",
+        "amount": "Une fois par an un ticket modérateur pour le plan et les conseils ; un ticket modérateur par consultation chez les médecins et kinés ; les autres membres de l'équipe ne sont pas facturés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Lettre de renvoi de votre médecin, si vous avez été orienté(e)"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande, du centre (avec rapport médical si vous n'avez pas été orienté(e))"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Referenzzentrum für Spina bifida",
+        "desc": "Menschen mit Spina bifida und/oder nachgewiesenem Tethered-Cord-Syndrom können ein Referenzzentrum aufsuchen. Es erstellt einen Behandlungs- und Rehabilitationsplan, stimmt sich mit Ihren täglichen Behandlern ab und berät zu allen verwandten Problemen wie Blasen- und Darmstörungen. Auch Neugeborene mit perinataler traumatischer Querschnittläsion können hin. Unter 18-Jährige erhalten auch eine Beteiligung an den Fahrtkosten zum Zentrum.",
+        "deadline": "Ihr erster Besuch im Zentrum muss vor Ihrem 19. Geburtstag stattfinden.",
+        "amount": "Einmal jährlich ein Eigenanteil für Plan und Beratung; Eigenanteil pro Konsultation bei Ärzten und Physiotherapeuten; andere Teammitglieder werden nicht berechnet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Überweisungsschreiben Ihres Arztes, falls Sie überwiesen wurden"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular, vom Zentrum (mit ärztlichem Bericht, wenn Sie nicht überwiesen wurden)"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/spina-bifida",
+      "conditions": {
+        "en": [
+          "You have spina bifida and/or a proven tethered cord syndrome, with additional disorders (motor, sensory, urinary, feeding, bowel, visual, possibly epilepsy) that hinder your development or integration; or you are a newborn with a perinatal traumatic spinal cord lesion.",
+          "Your first visit to the centre is before your 19th birthday.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je hebt spina bifida en/of een bewezen gekluisterd ruggenmergsyndroom, met bijkomende stoornissen (motorisch, gevoel, urinair, voeding, ontlasting, zicht, eventueel epilepsie) die je ontwikkeling of integratie bemoeilijken; of je bent een pasgeborene met een perinatale traumatische dwarslaesie.",
+          "Je eerste bezoek aan het centrum is voor je 19e verjaardag.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez un spina bifida et/ou un syndrome de la moelle attachée avéré, avec des troubles associés (moteurs, sensitifs, urinaires, alimentaires, intestinaux, visuels, éventuellement épilepsie) qui gênent votre développement ou votre intégration ; ou vous êtes un nouveau-né avec une lésion médullaire traumatique périnatale.",
+          "Votre première visite au centre a lieu avant vos 19 ans.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie haben Spina bifida und/oder ein nachgewiesenes Tethered-Cord-Syndrom mit zusätzlichen Störungen (motorisch, sensorisch, Harn, Ernährung, Darm, Sehen, eventuell Epilepsie), die Ihre Entwicklung oder Integration erschweren; oder Sie sind ein Neugeborenes mit perinataler traumatischer Querschnittläsion.",
+          "Ihr erster Besuch im Zentrum ist vor Ihrem 19. Geburtstag.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 221,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/locomotorische-en-neurologische-aandoeningen-tegemoetkoming-in-de-kosten-voor-behandeling-in-revalidatiecentra",
+    "content": {
+      "en": {
+        "title": "Rehabilitation for Locomotor and Neurological Conditions",
+        "desc": "Just after the acute phase or a flare-up of a locomotor or neurological condition, an approved rehabilitation centre gives you an intensive, time-limited individual programme with doctors, physiotherapists, psychologists, occupational therapists and social workers, aimed at independence and social and professional reintegration. It usually starts during a hospital stay. At the end you get a final report with advice; near the end you can also get home visits from an occupational therapist.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "You pay a personal share, plus the usual hospital costs if you are admitted",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact a general rehabilitation centre for locomotor and neurological conditions on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Revalidatie bij locomotorische en neurologische aandoeningen",
+        "desc": "Net na de acute fase of een opstoot van een locomotorische of neurologische aandoening geeft een erkend revalidatiecentrum je een intensief, beperkt individueel programma met artsen, kinesitherapeuten, psychologen, ergotherapeuten en sociaal werkers, gericht op zelfredzaamheid en sociale en professionele re-integratie. Het start meestal tijdens een ziekenhuisopname. Op het einde krijg je een eindbalans met raadgevingen; tegen het einde kan ook een ergotherapeut bij je thuis komen.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Je betaalt remgeld, plus de gewone ziekenhuiskosten als je opgenomen bent",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een algemeen revalidatiecentrum voor locomotorische en neurologische aandoeningen op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Rééducation pour affections locomotrices et neurologiques",
+        "desc": "Juste après la phase aiguë ou une poussée d'une affection locomotrice ou neurologique, un centre de rééducation agréé vous propose un programme individuel intensif et limité dans le temps avec médecins, kinés, psychologues, ergothérapeutes et assistants sociaux, visant l'autonomie et la réinsertion sociale et professionnelle. Il commence généralement pendant une hospitalisation. À la fin, vous recevez un bilan avec des conseils ; vers la fin, un ergothérapeute peut aussi venir chez vous.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Vous payez un ticket modérateur, plus les frais d'hospitalisation habituels si vous êtes hospitalisé(e)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez un centre de rééducation général pour affections locomotrices et neurologiques de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Rehabilitation bei Bewegungs- und neurologischen Erkrankungen",
+        "desc": "Direkt nach der akuten Phase oder einem Schub einer Bewegungs- oder neurologischen Erkrankung bietet ein anerkanntes Rehabilitationszentrum ein intensives, zeitlich begrenztes Einzelprogramm mit Ärzten, Physiotherapeuten, Psychologen, Ergotherapeuten und Sozialarbeitern, mit dem Ziel Selbstständigkeit und soziale und berufliche Wiedereingliederung. Es beginnt meist während eines Krankenhausaufenthalts. Am Ende erhalten Sie eine Abschlussbilanz mit Ratschlägen; gegen Ende kann auch ein Ergotherapeut zu Ihnen nach Hause kommen.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Sie zahlen einen Eigenanteil, bei Aufnahme zusätzlich die üblichen Krankenhauskosten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an ein allgemeines Rehabilitationszentrum für Bewegungs- und neurologische Erkrankungen auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/locomotorische-en-neurologische-aandoeningen-tegemoetkoming-in-de-kosten-voor-behandeling-in-revalidatiecentra",
+      "conditions": {
+        "en": [
+          "You have a locomotor or neurological condition on RIZIV's list and are just past the acute phase or a flare-up.",
+          "With a condition that gradually worsens, only after a flare-up with clear deterioration.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je hebt een locomotorische of neurologische aandoening op de lijst van het RIZIV en bent net voorbij de acute fase of een opstoot.",
+          "Bij een aandoening die geleidelijk verslechtert, alleen na een opstoot met duidelijke achteruitgang.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez une affection locomotrice ou neurologique de la liste de l'INAMI et sortez juste de la phase aiguë ou d'une poussée.",
+          "Pour une affection qui s'aggrave progressivement, uniquement après une poussée avec une nette détérioration.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie haben eine Bewegungs- oder neurologische Erkrankung auf der LIKIV-Liste und sind gerade nach der akuten Phase oder einem Schub.",
+          "Bei einer fortschreitenden Erkrankung nur nach einem Schub mit deutlicher Verschlechterung.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 222,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/ergotherapie",
+    "content": {
+      "en": {
+        "title": "Occupational Therapy at Home after Rehabilitation",
+        "desc": "After a full locomotor and neurological rehabilitation programme in a specialised centre, an approved occupational therapist can help you at home or wherever you go in daily life: 1 assessment, 7 practice sessions with your braces, prostheses and aids, 2 information and advice sessions, and 1 final assessment. You can only get this again after another full rehabilitation programme.",
+        "deadline": "The sessions must take place within 6 months after the end of your rehabilitation programme.",
+        "amount": "You pay the personal share per session (third-party payment possible)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription from the rehabilitation doctor of the centre where you followed the programme"
+          }
+        ],
+        "steps": [
+          "Ask the rehabilitation doctor of your centre for a prescription",
+          "An approved occupational therapist with a RIZIV number does the assessment, near the end of your programme or at home",
+          "The therapist informs your health fund's medical adviser; without a refusal within 15 days, it counts as approved",
+          "Follow the practice and advice sessions, then the final assessment"
+        ]
+      },
+      "nl": {
+        "title": "Ergotherapie aan huis na revalidatie",
+        "desc": "Na een volledig programma voor locomotorische en neurologische revalidatie in een gespecialiseerd centrum kan een erkende ergotherapeut je helpen thuis of waar je dagelijks komt: 1 observatiebalans, 7 oefensessies met je braces, prothesen en hulpmiddelen, 2 informatie- en adviessessies en 1 laatste balans. Je krijgt dit pas opnieuw na een nieuw volledig revalidatieprogramma.",
+        "deadline": "De sessies moeten plaatsvinden binnen 6 maanden na het einde van je revalidatieprogramma.",
+        "amount": "Je betaalt remgeld per verstrekking (derdebetalersregeling mogelijk)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift van de revalidatiearts van het centrum waar je de revalidatie volgde"
+          }
+        ],
+        "steps": [
+          "Vraag een voorschrift aan de revalidatiearts van je centrum",
+          "Een erkende ergotherapeut met RIZIV-nummer maakt de observatiebalans op, tegen het einde van je programma of thuis",
+          "De ergotherapeut brengt de adviserend arts van je ziekenfonds op de hoogte; zonder weigering binnen 15 dagen geldt dat als akkoord",
+          "Volg de oefen- en adviessessies en daarna de laatste balans"
+        ]
+      },
+      "fr": {
+        "title": "Ergothérapie à domicile après une rééducation",
+        "desc": "Après un programme complet de rééducation locomotrice et neurologique dans un centre spécialisé, un ergothérapeute agréé peut vous aider chez vous ou là où vous allez au quotidien : 1 bilan d'observation, 7 séances d'exercice avec vos attelles, prothèses et aides, 2 séances d'information et de conseil et 1 bilan final. Vous n'y avez à nouveau droit qu'après un nouveau programme complet.",
+        "deadline": "Les séances doivent avoir lieu dans les 6 mois suivant la fin de votre programme de rééducation.",
+        "amount": "Vous payez le ticket modérateur par prestation (tiers payant possible)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription du médecin de réadaptation du centre où vous avez suivi le programme"
+          }
+        ],
+        "steps": [
+          "Demandez une prescription au médecin de réadaptation de votre centre",
+          "Un ergothérapeute agréé avec un numéro INAMI réalise le bilan, à la fin de votre programme ou chez vous",
+          "L'ergothérapeute informe le médecin-conseil de votre mutualité ; sans refus dans les 15 jours, c'est accepté",
+          "Suivez les séances d'exercice et de conseil, puis le bilan final"
+        ]
+      },
+      "de": {
+        "title": "Ergotherapie zu Hause nach der Rehabilitation",
+        "desc": "Nach einem vollständigen Programm zur Bewegungs- und neurologischen Rehabilitation in einem Fachzentrum kann ein anerkannter Ergotherapeut Ihnen zu Hause oder dort helfen, wo Sie sich im Alltag aufhalten: 1 Beobachtungsbilanz, 7 Übungssitzungen mit Orthesen, Prothesen und Hilfsmitteln, 2 Informations- und Beratungssitzungen und 1 Abschlussbilanz. Erneut nur nach einem neuen vollständigen Programm.",
+        "deadline": "Die Sitzungen müssen innerhalb von 6 Monaten nach Ende Ihres Rehabilitationsprogramms stattfinden.",
+        "amount": "Sie zahlen den Eigenanteil pro Leistung (Drittzahlerregelung möglich)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verordnung des Rehabilitationsarztes des Zentrums, in dem Sie das Programm absolviert haben"
+          }
+        ],
+        "steps": [
+          "Bitten Sie den Rehabilitationsarzt Ihres Zentrums um eine Verordnung",
+          "Ein anerkannter Ergotherapeut mit LIKIV-Nummer erstellt die Bilanz, gegen Ende Ihres Programms oder zu Hause",
+          "Der Ergotherapeut informiert den Vertrauensarzt Ihrer Krankenkasse; ohne Ablehnung innerhalb von 15 Tagen gilt es als genehmigt",
+          "Absolvieren Sie die Übungs- und Beratungssitzungen, danach die Abschlussbilanz"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/ergotherapie",
+      "conditions": {
+        "en": [
+          "You completed, or are about to complete, a full locomotor and neurological rehabilitation programme in a specialised centre and are returning to your usual surroundings (not a care home or other institution).",
+          "The rehabilitation doctor of that centre prescribes the sessions, and they are given by an approved occupational therapist with a RIZIV number within 6 months after the programme."
+        ],
+        "nl": [
+          "Je volgde een volledig programma voor locomotorische en neurologische revalidatie in een gespecialiseerd centrum, of rondt het bijna af, en keert terug naar je gebruikelijke levenskader (geen rusthuis of andere instelling).",
+          "De revalidatiearts van dat centrum schrijft de sessies voor, en een erkende ergotherapeut met RIZIV-nummer voert ze uit binnen 6 maanden na het programma."
+        ],
+        "fr": [
+          "Vous avez terminé, ou terminez bientôt, un programme complet de rééducation locomotrice et neurologique dans un centre spécialisé et retournez dans votre cadre de vie habituel (pas une maison de repos ni une autre institution).",
+          "Le médecin de réadaptation de ce centre prescrit les séances, réalisées par un ergothérapeute agréé avec numéro INAMI dans les 6 mois suivant le programme."
+        ],
+        "de": [
+          "Sie haben ein vollständiges Programm zur Bewegungs- und neurologischen Rehabilitation in einem Fachzentrum abgeschlossen oder schließen es bald ab und kehren in Ihr gewohntes Lebensumfeld zurück (kein Pflegeheim oder andere Einrichtung).",
+          "Der Rehabilitationsarzt dieses Zentrums verordnet die Sitzungen, und ein anerkannter Ergotherapeut mit LIKIV-Nummer führt sie innerhalb von 6 Monaten nach dem Programm durch."
+        ]
+      }
+    }
+  },
+  {
+    "id": 223,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/nierziekten/nierziekten-tegemoetkoming-in-de-kosten-voor-behandeling-van-kinderen-en-adolescenten-in-gespecialiseerde-centra",
+    "content": {
+      "en": {
+        "title": "Kidney Disease Centre for Children and Teenagers",
+        "desc": "Children and teenagers up to 18 with a serious kidney disease who are not on dialysis can follow a programme in a paediatric nephrology reference centre: medical treatment and diet, information about the disease, psychological support and cognitive behavioural therapy if needed, follow-up of treatment adherence, and help with social integration, especially at school. Transport costs to the centre are partly reimbursed.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Once a year a personal share for the programme; a personal share per doctor's consultation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Centrum voor nierziekten bij kinderen en jongeren",
+        "desc": "Kinderen en jongeren tot 18 jaar met een ernstige nierziekte die geen dialyse volgen, kunnen een programma volgen in een referentiecentrum voor kindernefrologie: medische behandeling en dieet, informatie over de ziekte, zo nodig psychologische begeleiding en cognitieve gedragstherapie, opvolging van de therapietrouw en begeleiding bij de sociale integratie, vooral op school. De vervoerskosten naar het centrum worden deels terugbetaald.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Eén keer per jaar remgeld voor het programma; remgeld per raadpleging bij de arts",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Centre pour maladies rénales de l'enfant et de l'adolescent",
+        "desc": "Les enfants et adolescents jusqu'à 18 ans atteints d'une maladie rénale grave et non dialysés peuvent suivre un programme dans un centre de référence de néphrologie pédiatrique : traitement médical et régime, information sur la maladie, soutien psychologique et thérapie cognitivo-comportementale si nécessaire, suivi de l'observance et aide à l'intégration sociale, surtout à l'école. Les frais de déplacement vers le centre sont en partie remboursés.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Une fois par an un ticket modérateur pour le programme ; un ticket modérateur par consultation médicale",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Zentrum für Nierenerkrankungen bei Kindern und Jugendlichen",
+        "desc": "Kinder und Jugendliche bis 18 mit einer schweren Nierenerkrankung, die keine Dialyse erhalten, können ein Programm in einem Referenzzentrum für Kindernephrologie folgen: medizinische Behandlung und Diät, Information über die Krankheit, bei Bedarf psychologische Begleitung und kognitive Verhaltenstherapie, Begleitung der Therapietreue und Hilfe bei der sozialen Integration, vor allem in der Schule. Fahrtkosten zum Zentrum werden teilweise erstattet.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Einmal jährlich ein Eigenanteil für das Programm; Eigenanteil pro Arztkonsultation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/SiteCollectionDocuments/overeenkomst_kindernefrologie_doelgroepen.pdf",
+      "conditions": {
+        "en": [
+          "Your child is 0 to 18 and is not on dialysis.",
+          "Your child belongs to one of four groups: a kidney disease that will eventually need dialysis or a transplant (hereditary or congenital structural disease, from age 1 only with GFR below 30; metabolic disease; certain tubulopathies; neurogenic bladder); follow-up after a kidney transplant; a severe nephrotic syndrome with preserved kidney function (congenital, steroid-resistant or frequently relapsing from the third relapse); or an acquired kidney disease with persistent proteinuria above 500 mg/1.73 m² a day and/or blood pressure above P95.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je kind is 0 tot en met 18 jaar en volgt geen dialyse.",
+          "Je kind behoort tot een van vier groepen: een nierziekte die op termijn dialyse of transplantatie nodig maakt (erfelijke of aangeboren structurele nierziekte, vanaf 1 jaar alleen met GFR onder 30; metabole ziekte; bepaalde tubulopathieën; neurogene blaas); opvolging na een niertransplantatie; een ernstig nefrotisch syndroom met bewaarde nierfunctie (aangeboren, corticoresistent of frequent relapsing vanaf de derde relaps); of een verworven nierziekte met aanhoudende proteïnurie boven 500 mg/1,73 m² per dag en/of bloeddruk boven P95.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Votre enfant a entre 0 et 18 ans et n'est pas dialysé.",
+          "Votre enfant appartient à l'un des quatre groupes : maladie rénale qui nécessitera à terme dialyse ou greffe (maladie structurelle héréditaire ou congénitale, à partir d'1 an seulement avec DFG inférieur à 30 ; maladie métabolique ; certaines tubulopathies ; vessie neurogène) ; suivi après une greffe de rein ; syndrome néphrotique grave avec fonction rénale préservée (congénital, corticorésistant ou à rechutes fréquentes dès la troisième) ; ou maladie rénale acquise avec protéinurie persistante supérieure à 500 mg/1,73 m² par jour et/ou tension supérieure au P95.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Ihr Kind ist 0 bis 18 Jahre alt und erhält keine Dialyse.",
+          "Ihr Kind gehört zu einer von vier Gruppen: Nierenerkrankung, die langfristig Dialyse oder Transplantation erfordert (erbliche oder angeborene strukturelle Erkrankung, ab 1 Jahr nur mit GFR unter 30; Stoffwechselerkrankung; bestimmte Tubulopathien; neurogene Blase); Nachsorge nach Nierentransplantation; schweres nephrotisches Syndrom mit erhaltener Nierenfunktion (angeboren, steroidresistent oder häufig rezidivierend ab dem dritten Rückfall); oder erworbene Nierenerkrankung mit anhaltender Proteinurie über 500 mg/1,73 m² pro Tag und/oder Blutdruck über P95.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 224,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mucoviscidose-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra",
+    "content": {
+      "en": {
+        "title": "Cystic Fibrosis Reference Centre",
+        "desc": "Children and adults with cystic fibrosis, and their family members, can go to a CF reference centre. A team of paediatricians, lung specialists, geneticists, physiotherapists, dietitians, a psychologist and a social worker draws up an individual treatment plan and supports you and your family at every stage of the disease. Under 18s also get help with transport costs to the centre.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Nurses, dietitian, psychologist and social worker free; personal share for doctors and physiotherapists",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form, filled in and submitted by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Referentiecentrum voor mucoviscidose",
+        "desc": "Kinderen en volwassenen met mucoviscidose, en hun familieleden, kunnen naar een referentiecentrum voor mucoviscidose. Een team van pediaters, longartsen, genetici, kinesitherapeuten, diëtisten, een psycholoog en een maatschappelijk werker stelt een individueel behandelingsplan op en begeleidt jou en je familie in elk stadium van de ziekte. Wie jonger is dan 18 krijgt ook een tegemoetkoming in de vervoerskosten naar het centrum.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Verpleegkundigen, diëtist, psycholoog en maatschappelijk werker gratis; remgeld voor artsen en kinesitherapeuten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier, ingevuld en ingediend door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Centre de référence pour la mucoviscidose",
+        "desc": "Les enfants et adultes atteints de mucoviscidose, ainsi que les membres de leur famille, peuvent s'adresser à un centre de référence. Une équipe de pédiatres, pneumologues, généticiens, kinés, diététiciens, d'un psychologue et d'un assistant social établit un plan de traitement individuel et vous accompagne, vous et votre famille, à chaque stade de la maladie. Les moins de 18 ans reçoivent aussi une intervention dans les frais de déplacement vers le centre.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Infirmiers, diététicien, psychologue et assistant social gratuits ; ticket modérateur pour médecins et kinés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande, complété et introduit par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Referenzzentrum für Mukoviszidose",
+        "desc": "Kinder und Erwachsene mit Mukoviszidose und ihre Familienangehörigen können ein Referenzzentrum aufsuchen. Ein Team aus Kinderärzten, Lungenfachärzten, Genetikern, Physiotherapeuten, Diätassistenten, einem Psychologen und einem Sozialarbeiter erstellt einen individuellen Behandlungsplan und begleitet Sie und Ihre Familie in jedem Stadium. Unter 18-Jährige erhalten auch eine Beteiligung an den Fahrtkosten zum Zentrum.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Pflegekräfte, Diätassistent, Psychologe und Sozialarbeiter kostenlos; Eigenanteil für Ärzte und Physiotherapeuten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, vom Zentrum ausgefüllt und eingereicht"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mucoviscidose-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra",
+      "conditions": {
+        "en": [
+          "You have cystic fibrosis, or you are a family member of a patient.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je hebt mucoviscidose, of je bent familielid van een patiënt.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez la mucoviscidose, ou vous êtes membre de la famille d'un patient.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie haben Mukoviszidose oder sind Familienangehöriger eines Patienten.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 225,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-bloed-en-van-het-immuniteitsysteem/hiv",
+    "content": {
+      "en": {
+        "title": "HIV Reference Centre (incl. PrEP Follow-up)",
+        "desc": "Reference centres support people with HIV or AIDS in specific situations, pregnant people with HIV, and babies exposed to antiretroviral treatment in the womb and their parents. A team (psychologist, dietitian, sexologist, nurse, social worker) led by a doctor helps you stay well medically, psychologically and at school or work. The centres also run a follow-up programme for people on PrEP, with regular STI screening.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Once a year a personal share for the team's support (third-party payment); a personal share per consultation with the centre's doctor",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre (not needed for PrEP follow-up)"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Hiv-referentiecentrum (ook opvolging PrEP)",
+        "desc": "Referentiecentra begeleiden mensen met hiv of aids in bepaalde situaties, zwangere personen met hiv, en baby's die in de baarmoeder aan antiretrovirale behandeling werden blootgesteld en hun ouders. Een team (psycholoog, diëtist, seksuoloog, verpleegkundige, maatschappelijk werker) onder leiding van een arts helpt je medisch, psychisch en op school of werk in goede conditie te blijven. De centra bieden ook een follow-upprogramma voor wie PrEP neemt, met regelmatige screening op soa's.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Eén keer per jaar remgeld voor de begeleiding door het team (derdebetalersregeling); remgeld per raadpleging bij de arts van het centrum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum (niet nodig voor opvolging van PrEP)"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Centre de référence VIH (y compris suivi PrEP)",
+        "desc": "Les centres de référence accompagnent les personnes vivant avec le VIH ou le sida dans certaines situations, les personnes enceintes séropositives, et les bébés exposés aux antirétroviraux in utero ainsi que leurs parents. Une équipe (psychologue, diététicien, sexologue, infirmier, assistant social) dirigée par un médecin vous aide à rester en bonne condition médicale, psychique, scolaire ou professionnelle. Les centres proposent aussi un suivi pour les personnes sous PrEP, avec dépistage régulier des IST.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Une fois par an un ticket modérateur pour l'accompagnement de l'équipe (tiers payant) ; un ticket modérateur par consultation chez le médecin du centre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre (pas nécessaire pour le suivi PrEP)"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "HIV-Referenzzentrum (auch PrEP-Begleitung)",
+        "desc": "Referenzzentren begleiten Menschen mit HIV oder AIDS in bestimmten Situationen, schwangere Menschen mit HIV sowie Babys, die im Mutterleib antiretroviraler Behandlung ausgesetzt waren, und ihre Eltern. Ein Team (Psychologe, Diätassistent, Sexologe, Pflegekraft, Sozialarbeiter) unter ärztlicher Leitung hilft Ihnen, medizinisch, psychisch und in Schule oder Beruf gut zurechtzukommen. Die Zentren bieten auch eine Begleitung für Menschen unter PrEP mit regelmäßigem STI-Screening.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Einmal jährlich ein Eigenanteil für die Begleitung durch das Team (Drittzahlerregelung); Eigenanteil pro Konsultation beim Arzt des Zentrums",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt (nicht nötig für die PrEP-Begleitung)"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-bloed-en-van-het-immuniteitsysteem/hiv",
+      "conditions": {
+        "en": [
+          "You are in one of these situations: pregnant with HIV or AIDS; your baby was exposed to antiretrovirals in the womb and the diagnosis is still uncertain (parents included); you have HIV and were recently diagnosed, your treatment adherence is at risk, you risk harming yourself or others or psychiatric decompensation, you have school, work, family or relationship problems linked to being HIV-positive, you use drugs, or you have AIDS; your HIV-negative child under 4 was exposed to antiretrovirals in the womb; or you have had HIV for over 10 years, are 50 or older and have related comorbidities.",
+          "For PrEP follow-up instead: your health fund's medical adviser has approved reimbursement of your PrEP.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je bent in een van deze situaties: zwanger met hiv of aids; je baby werd in de baarmoeder aan antiretrovirale middelen blootgesteld en de diagnose is nog onzeker (ook de ouders); je hebt hiv en de diagnose is pas gesteld, je therapietrouw is bedreigd, je loopt risico jezelf of anderen schade toe te brengen of op psychiatrische decompensatie, je hebt problemen op school, werk, in je gezin of relatie door je seropositiviteit, je gebruikt drugs, of je hebt aids; je seronegatief kind jonger dan 4 werd in de baarmoeder aan antiretrovirale middelen blootgesteld; of je hebt al meer dan 10 jaar hiv, bent 50 of ouder en hebt verwante comorbiditeiten.",
+          "Voor de opvolging van PrEP: de adviserend arts van je ziekenfonds keurde de terugbetaling van je PrEP goed.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous êtes dans l'une de ces situations : enceinte avec le VIH ou le sida ; votre bébé a été exposé aux antirétroviraux in utero et le diagnostic reste incertain (parents compris) ; vous vivez avec le VIH et le diagnostic est récent, votre observance est menacée, vous risquez de vous nuire ou de nuire à autrui ou une décompensation psychiatrique, vous avez des problèmes scolaires, professionnels, familiaux ou affectifs liés à votre séropositivité, vous consommez des drogues, ou vous avez le sida ; votre enfant séronégatif de moins de 4 ans a été exposé aux antirétroviraux in utero ; ou vous vivez avec le VIH depuis plus de 10 ans, avez 50 ans ou plus et des comorbidités liées.",
+          "Pour le suivi PrEP : le médecin-conseil de votre mutualité a approuvé le remboursement de votre PrEP.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie sind in einer dieser Situationen: schwanger mit HIV oder AIDS; Ihr Baby war im Mutterleib antiretroviralen Mitteln ausgesetzt und die Diagnose ist noch unsicher (Eltern eingeschlossen); Sie haben HIV und die Diagnose ist neu, Ihre Therapietreue ist gefährdet, Sie riskieren, sich oder anderen zu schaden, oder eine psychiatrische Dekompensation, Sie haben schulische, berufliche, familiäre oder Beziehungsprobleme wegen Ihrer HIV-Infektion, Sie konsumieren Drogen oder haben AIDS; Ihr HIV-negatives Kind unter 4 war im Mutterleib antiretroviralen Mitteln ausgesetzt; oder Sie haben seit über 10 Jahren HIV, sind 50 oder älter und haben damit verbundene Begleiterkrankungen.",
+          "Für die PrEP-Begleitung: Der Vertrauensarzt Ihrer Krankenkasse hat die Erstattung Ihrer PrEP genehmigt.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 226,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-bloed-en-van-het-immuniteitsysteem/hemofilie",
+    "content": {
+      "en": {
+        "title": "Haemophilia Centre Follow-up",
+        "desc": "People with haemophilia can be followed in a reference centre or the national coordination centre: initial and progress assessments, training for you and your family (preventing bleeds, recognising internal bleeding, infusing clotting factors at home), coordination of specialist care, and prescription and follow-up of clotting factors. With mild or moderate haemophilia you get occasional follow-up without formalities. Under 18s also get help with transport costs to the centre.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Severe haemophilia: a personal share once a year for the programme, plus personal shares for tests and medicines it prescribes",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Severe haemophilia: prescription from your GP or a specialist"
+          },
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Ask your GP or specialist for advice (and, for severe haemophilia, a prescription), then contact a centre on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Opvolging in een hemofiliecentrum",
+        "desc": "Mensen met hemofilie kunnen opgevolgd worden in een referentiecentrum of het nationaal coördinatiecentrum: aanvangs- en evolutiebilans, opleiding voor jou en je naasten (bloedingen voorkomen, interne bloedingen herkennen, thuis stollingsfactoren toedienen), coördinatie van de gespecialiseerde zorg, en voorschrift en opvolging van stollingsfactoren. Bij matige of lichte hemofilie krijg je occasionele opvolging zonder formaliteiten. Wie jonger is dan 18 krijgt ook een tegemoetkoming in de vervoerskosten naar het centrum.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Ernstige hemofilie: één keer per jaar remgeld voor het programma, plus remgeld voor onderzoeken en geneesmiddelen die het voorschrijft",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ernstige hemofilie: voorschrift van je huisarts of een specialist"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Vraag advies aan je huisarts of specialist (en bij ernstige hemofilie een voorschrift) en neem contact op met een centrum op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Suivi dans un centre d'hémophilie",
+        "desc": "Les personnes hémophiles peuvent être suivies dans un centre de référence ou le centre national de coordination : bilans initial et d'évolution, formation pour vous et vos proches (prévenir les saignements, reconnaître une hémorragie interne, s'injecter les facteurs de coagulation à domicile), coordination des soins spécialisés, prescription et suivi des facteurs de coagulation. En cas d'hémophilie modérée ou légère, vous recevez un suivi occasionnel sans formalités. Les moins de 18 ans reçoivent aussi une intervention dans les frais de déplacement vers le centre.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Hémophilie sévère : un ticket modérateur une fois par an pour le programme, plus les tickets modérateurs des examens et médicaments prescrits",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Hémophilie sévère : prescription de votre généraliste ou d'un spécialiste"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Demandez conseil à votre généraliste ou spécialiste (et, pour une hémophilie sévère, une prescription), puis contactez un centre de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Betreuung in einem Hämophiliezentrum",
+        "desc": "Menschen mit Hämophilie können in einem Referenzzentrum oder im nationalen Koordinationszentrum betreut werden: Anfangs- und Verlaufsbilanzen, Schulung für Sie und Ihre Angehörigen (Blutungen vorbeugen, innere Blutungen erkennen, Gerinnungsfaktoren zu Hause verabreichen), Koordination der Fachversorgung sowie Verordnung und Begleitung der Gerinnungsfaktoren. Bei mittelschwerer oder leichter Hämophilie gibt es gelegentliche Betreuung ohne Formalitäten. Unter 18-Jährige erhalten auch eine Beteiligung an den Fahrtkosten zum Zentrum.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Schwere Hämophilie: einmal jährlich ein Eigenanteil für das Programm, zuzüglich Eigenanteile für verordnete Untersuchungen und Arzneimittel",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schwere Hämophilie: Verordnung Ihres Hausarztes oder eines Facharztes"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Fragen Sie Ihren Haus- oder Facharzt um Rat (bei schwerer Hämophilie um eine Verordnung) und wenden Sie sich an ein Zentrum auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-bloed-en-van-het-immuniteitsysteem/hemofilie",
+      "conditions": {
+        "en": [
+          "A specialist or your GP has diagnosed haemophilia.",
+          "For the yearly programme for severe haemophilia: your health fund approves the centre's application, and you visit the centre every year and meet at least 2 members of the team."
+        ],
+        "nl": [
+          "Een specialist of je huisarts stelde de diagnose hemofilie.",
+          "Voor het jaarlijkse programma bij ernstige hemofilie: je ziekenfonds keurt de aanvraag van het centrum goed, en je gaat elk jaar naar het centrum en ontmoet er minstens 2 teamleden."
+        ],
+        "fr": [
+          "Un spécialiste ou votre généraliste a posé le diagnostic d'hémophilie.",
+          "Pour le programme annuel en cas d'hémophilie sévère : votre mutualité approuve la demande du centre, et vous vous rendez chaque année au centre et y rencontrez au moins 2 membres de l'équipe."
+        ],
+        "de": [
+          "Ein Facharzt oder Ihr Hausarzt hat die Hämophilie diagnostiziert.",
+          "Für das Jahresprogramm bei schwerer Hämophilie: Ihre Krankenkasse genehmigt den Antrag des Zentrums, und Sie besuchen das Zentrum jedes Jahr und treffen mindestens 2 Teammitglieder."
+        ]
+      }
+    }
+  },
+  {
+    "id": 227,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/beginnende-dementie",
+    "content": {
+      "en": {
+        "title": "Memory Clinic for Early Dementia",
+        "desc": "Memory clinics teach people with early dementia, and the relatives who help them, skills to stay at home as long as possible: a cognitive rehabilitation programme with strategies to compensate (memory aids, handling money, hygiene), training for carers, advice on adapting the home, and information about the disease. Sessions take place in hospital or at home.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Personal share per session; doctor's consultations, tests and medicines are paid separately",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription with the diagnosis, plus a medical file with the test results and treatment plan"
+          },
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Get a prescription from a neurologist, geriatrician, psychiatrist or your GP and contact a memory clinic on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Geheugenkliniek bij beginnende dementie",
+        "desc": "Geheugenklinieken leren mensen met beginnende dementie en de naasten die hen helpen vaardigheden om zo lang mogelijk thuis te blijven: een cognitief revalidatieprogramma met strategieën om tekorten te compenseren (geheugensteuntjes, geldbeheer, hygiëne), opleiding voor de naasten, advies over aanpassingen in huis en informatie over de ziekte. De sessies vinden plaats in het ziekenhuis of thuis.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Remgeld per sessie; raadplegingen bij de arts, onderzoeken en geneesmiddelen worden apart betaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift met de diagnose, plus een medisch dossier met de testresultaten en het behandelingsplan"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Vraag een voorschrift aan een neuroloog, geriater, psychiater of je huisarts en neem contact op met een geheugenkliniek op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Clinique de la mémoire en cas de démence débutante",
+        "desc": "Les cliniques de la mémoire apprennent aux personnes atteintes d'une démence débutante, et aux proches qui les aident, des compétences pour rester à domicile le plus longtemps possible : un programme de revalidation cognitive avec des stratégies de compensation (aide-mémoire, gestion de l'argent, hygiène), une formation des proches, des conseils d'aménagement du logement et une information sur la maladie. Les séances ont lieu à l'hôpital ou à domicile.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Ticket modérateur par séance ; consultations, examens et médicaments sont payés à part",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription avec le diagnostic, plus un dossier médical avec les résultats des tests et le plan de traitement"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Obtenez une prescription d'un neurologue, gériatre, psychiatre ou de votre généraliste et contactez une clinique de la mémoire de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Gedächtnisklinik bei beginnender Demenz",
+        "desc": "Gedächtniskliniken vermitteln Menschen mit beginnender Demenz und den helfenden Angehörigen Fähigkeiten, um möglichst lange zu Hause zu bleiben: ein kognitives Rehabilitationsprogramm mit Ausgleichsstrategien (Gedächtnisstützen, Umgang mit Geld, Hygiene), Schulung der Angehörigen, Beratung zur Anpassung der Wohnung und Information über die Krankheit. Die Sitzungen finden im Krankenhaus oder zu Hause statt.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Eigenanteil pro Sitzung; Arztkonsultationen, Untersuchungen und Arzneimittel werden gesondert bezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verordnung mit der Diagnose, dazu eine medizinische Akte mit Testergebnissen und Behandlungsplan"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von einem Neurologen, Geriater, Psychiater oder Hausarzt eine Verordnung ausstellen und wenden Sie sich an eine Gedächtnisklinik auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/beginnende-dementie",
+      "conditions": {
+        "en": [
+          "A specialist recently diagnosed early dementia.",
+          "You can keep living at home or with a relative, outside any care home, for at least 12 months from the start of the programme.",
+          "A neurologist, geriatrician or psychiatrist (or your GP) prescribes the treatment, and your health fund approves."
+        ],
+        "nl": [
+          "Een specialist stelde recent de diagnose beginnende dementie.",
+          "Je kunt vanaf de start van het programma nog minstens 12 maanden thuis of bij een naaste blijven wonen, buiten elke zorginstelling of rusthuis.",
+          "Een neuroloog, geriater of psychiater (of je huisarts) schrijft de behandeling voor, en je ziekenfonds gaat akkoord."
+        ],
+        "fr": [
+          "Un spécialiste a récemment posé un diagnostic de démence débutante.",
+          "Vous pouvez continuer à vivre chez vous ou chez un proche, hors de toute institution ou maison de repos, au moins 12 mois à partir du début du programme.",
+          "Un neurologue, gériatre ou psychiatre (ou votre généraliste) prescrit le traitement, et votre mutualité marque son accord."
+        ],
+        "de": [
+          "Ein Facharzt hat vor kurzem eine beginnende Demenz diagnostiziert.",
+          "Sie können ab Programmbeginn noch mindestens 12 Monate zu Hause oder bei einem Angehörigen wohnen, außerhalb jeder Pflegeeinrichtung.",
+          "Ein Neurologe, Geriater oder Psychiater (oder Ihr Hausarzt) verordnet die Behandlung, und Ihre Krankenkasse stimmt zu."
+        ]
+      }
+    }
+  },
+  {
+    "id": 228,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/epilepsie",
+    "content": {
+      "en": {
+        "title": "Epilepsy Reference Centre (Refractory Epilepsy)",
+        "desc": "If medication doesn't make you seizure-free, a specialised epilepsy centre examines how your seizures start and whether epilepsy surgery or a vagus nerve stimulator could help, with video-EEG studies and a WADA test, usually during a hospital stay. If surgery or a stimulator is advised, the centre can carry it out and offers an accompanying rehabilitation programme.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Personal share for the tests, a second opinion and doctor's consultations, plus the usual hospital costs",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Your neurologist, neurosurgeon, neuropsychiatrist or neuropaediatrician confirms refractory epilepsy and refers you to a centre on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Referentiecentrum voor epilepsie (refractaire epilepsie)",
+        "desc": "Als je met medicatie niet aanvalsvrij bent, onderzoekt een gespecialiseerd epilepsiecentrum hoe je aanvallen ontstaan en of epilepsiechirurgie of een nervus vagus stimulator kan helpen, met video-EEG-onderzoeken en een WADA-test, meestal tijdens een ziekenhuisopname. Als een ingreep of stimulator aangewezen is, kan het centrum die uitvoeren en biedt het een begeleidend revalidatieprogramma.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Remgeld voor de testen, een tweede opinie en raadplegingen bij artsen, plus de gewone ziekenhuiskosten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Je neuroloog, neurochirurg, neuropsychiater of neuropediater stelt refractaire epilepsie vast en verwijst je door naar een centrum op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Centre de référence pour l'épilepsie (épilepsie réfractaire)",
+        "desc": "Si les médicaments ne vous libèrent pas des crises, un centre spécialisé en épilepsie examine comment elles surviennent et si une chirurgie de l'épilepsie ou un stimulateur du nerf vague pourrait aider, avec des études vidéo-EEG et un test de WADA, généralement pendant une hospitalisation. Si une intervention ou un stimulateur est indiqué, le centre peut le réaliser et propose un programme de rééducation.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Ticket modérateur pour les tests, un second avis et les consultations, plus les frais d'hospitalisation habituels",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Votre neurologue, neurochirurgien, neuropsychiatre ou neuropédiatre constate une épilepsie réfractaire et vous oriente vers un centre de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Referenzzentrum für Epilepsie (therapieresistente Epilepsie)",
+        "desc": "Wenn Medikamente Sie nicht anfallsfrei machen, untersucht ein spezialisiertes Epilepsiezentrum, wie Ihre Anfälle entstehen und ob Epilepsiechirurgie oder ein Vagusnervstimulator helfen könnte, mit Video-EEG-Untersuchungen und einem WADA-Test, meist während eines Krankenhausaufenthalts. Ist ein Eingriff angezeigt, kann das Zentrum ihn durchführen und bietet ein begleitendes Rehabilitationsprogramm.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Eigenanteil für die Tests, eine Zweitmeinung und Arztkonsultationen, dazu die üblichen Krankenhauskosten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Ihr Neurologe, Neurochirurg, Neuropsychiater oder Neuropädiater stellt eine therapieresistente Epilepsie fest und überweist Sie an ein Zentrum auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/epilepsie",
+      "conditions": {
+        "en": [
+          "You have epilepsy that medication cannot control (refractory epilepsy), confirmed by your neurologist, neurosurgeon, neuropsychiatrist or neuropaediatrician, who refers you.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je hebt epilepsie die met medicatie niet onder controle te houden is (refractaire epilepsie), vastgesteld door je neuroloog, neurochirurg, neuropsychiater of neuropediater, die je doorverwijst.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez une épilepsie que les médicaments ne contrôlent pas (épilepsie réfractaire), constatée par votre neurologue, neurochirurgien, neuropsychiatre ou neuropédiatre, qui vous oriente.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie haben eine Epilepsie, die sich mit Medikamenten nicht kontrollieren lässt (therapieresistent), festgestellt von Ihrem Neurologen, Neurochirurgen, Neuropsychiater oder Neuropädiater, der Sie überweist.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 229,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/myalgische-encephalomyelitis-chronisch-vermoeidheidssyndroom/multidisciplinair-diagnostisch-centrum-voor-me-cvs",
+    "content": {
+      "en": {
+        "title": "ME/CFS Diagnostic Centre and Therapy",
+        "desc": "A multidisciplinary diagnostic centre in a hospital (with an internist and a psychiatrist) examines whether you have ME/CFS and proposes treatment. If useful, that is cognitive behavioural therapy: 17 sessions (up to 8 in a group) with a recognised therapist in your region. You decide whether to follow it. The centre also follows up and can make a plan for returning to work.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Largely reimbursed; you pay the personal share per service",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Standard referral form, filled in by your GP"
+          },
+          {
+            "type": "doc",
+            "label": "Reimbursement application signed by you (the centre helps)"
+          }
+        ],
+        "steps": [
+          "Your GP sends the standard referral form to the centre",
+          "The centre's internist examines you; if ME/CFS is suspected, the team does the full examination",
+          "Sign the reimbursement application for your health fund; the centre helps",
+          "If therapy is advised and you want it, follow it with a recognised therapist in your region"
+        ]
+      },
+      "nl": {
+        "title": "Diagnostisch centrum en therapie bij ME/CVS",
+        "desc": "Een multidisciplinair diagnostisch centrum in een ziekenhuis (met een internist en een psychiater) onderzoekt of je ME/CVS hebt en stelt een behandeling voor. Als dat zinvol is, is dat cognitieve gedragstherapie: 17 sessies (maximaal 8 in groep) bij een erkende therapeut in je regio. Je kiest zelf of je ze volgt. Het centrum volgt je ook op en kan een plan voor werkhervatting maken.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Grotendeels terugbetaald; je betaalt remgeld per prestatie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Standaardverwijsformulier, ingevuld door je huisarts"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraag tot terugbetaling, ondertekend door jou (het centrum helpt)"
+          }
+        ],
+        "steps": [
+          "Je huisarts stuurt het standaardverwijsformulier naar het centrum",
+          "De internist van het centrum onderzoekt je; bij een vermoeden van ME/CVS volgt het volledige onderzoek",
+          "Onderteken de aanvraag tot terugbetaling voor je ziekenfonds; het centrum helpt je",
+          "Als therapie aangeraden wordt en je dat wilt, volg je die bij een erkende therapeut in je regio"
+        ]
+      },
+      "fr": {
+        "title": "Centre de diagnostic et thérapie EM/SFC",
+        "desc": "Un centre de diagnostic multidisciplinaire à l'hôpital (avec un interniste et un psychiatre) examine si vous êtes atteint(e) d'EM/SFC et propose un traitement. Si c'est utile, il s'agit d'une thérapie cognitivo-comportementale : 17 séances (dont 8 maximum en groupe) chez un thérapeute reconnu de votre région. Vous choisissez de la suivre ou non. Le centre assure aussi le suivi et peut établir un plan de reprise du travail.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Largement remboursé ; vous payez le ticket modérateur par prestation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de renvoi standard, complété par votre généraliste"
+          },
+          {
+            "type": "doc",
+            "label": "Demande de remboursement signée par vous (le centre vous aide)"
+          }
+        ],
+        "steps": [
+          "Votre généraliste envoie le formulaire de renvoi standard au centre",
+          "L'interniste du centre vous examine ; en cas de suspicion d'EM/SFC, l'équipe réalise l'examen complet",
+          "Signez la demande de remboursement pour votre mutualité ; le centre vous aide",
+          "Si une thérapie est conseillée et que vous le souhaitez, suivez-la chez un thérapeute reconnu de votre région"
+        ]
+      },
+      "de": {
+        "title": "Diagnosezentrum und Therapie bei ME/CFS",
+        "desc": "Ein multidisziplinäres Diagnosezentrum im Krankenhaus (mit Internist und Psychiater) untersucht, ob Sie ME/CFS haben, und schlägt eine Behandlung vor. Wenn sinnvoll, ist das eine kognitive Verhaltenstherapie: 17 Sitzungen (höchstens 8 in der Gruppe) bei einem anerkannten Therapeuten in Ihrer Region. Sie entscheiden selbst, ob Sie sie machen. Das Zentrum begleitet Sie auch und kann einen Plan zur Arbeitswiederaufnahme erstellen.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Weitgehend erstattet; Sie zahlen den Eigenanteil pro Leistung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Standard-Überweisungsformular, von Ihrem Hausarzt ausgefüllt"
+          },
+          {
+            "type": "doc",
+            "label": "Erstattungsantrag, von Ihnen unterschrieben (das Zentrum hilft)"
+          }
+        ],
+        "steps": [
+          "Ihr Hausarzt schickt das Standard-Überweisungsformular an das Zentrum",
+          "Der Internist des Zentrums untersucht Sie; bei Verdacht auf ME/CFS folgt die vollständige Untersuchung",
+          "Unterschreiben Sie den Erstattungsantrag für Ihre Krankenkasse; das Zentrum hilft",
+          "Wird eine Therapie empfohlen und möchten Sie sie, machen Sie sie bei einem anerkannten Therapeuten in Ihrer Region"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/myalgische-encephalomyelitis-chronisch-vermoeidheidssyndroom/multidisciplinair-diagnostisch-centrum-voor-me-cvs",
+      "conditions": {
+        "en": [
+          "Your GP thinks you have ME/CFS, believes a specialised examination is needed, and refers you.",
+          "The centre's internist confirms the suspicion before the full examination; the therapy is reimbursed if the team confirms ME/CFS and finds it useful for you.",
+          "If a former CFS reference centre (active until 2012) already diagnosed you, you don't get a new examination, but you can still get the therapy reimbursed."
+        ],
+        "nl": [
+          "Je huisarts denkt dat je ME/CVS hebt, vindt een gespecialiseerd onderzoek nodig en verwijst je door.",
+          "De internist van het centrum bevestigt het vermoeden voor het volledige onderzoek; de therapie wordt terugbetaald als het team ME/CVS bevestigt en ze nuttig vindt voor jou.",
+          "Als een vroeger referentiecentrum voor CVS (actief tot 2012) de diagnose al stelde, krijg je geen nieuw onderzoek, maar wel nog de terugbetaling van de therapie."
+        ],
+        "fr": [
+          "Votre généraliste pense que vous avez l'EM/SFC, estime qu'un examen spécialisé est nécessaire et vous oriente.",
+          "L'interniste du centre confirme la suspicion avant l'examen complet ; la thérapie est remboursée si l'équipe confirme l'EM/SFC et la juge utile pour vous.",
+          "Si un ancien centre de référence SFC (actif jusqu'en 2012) a déjà posé le diagnostic, vous n'avez pas de nouvel examen, mais la thérapie peut encore être remboursée."
+        ],
+        "de": [
+          "Ihr Hausarzt vermutet ME/CFS, hält eine Fachuntersuchung für nötig und überweist Sie.",
+          "Der Internist des Zentrums bestätigt den Verdacht vor der vollständigen Untersuchung; die Therapie wird erstattet, wenn das Team ME/CFS bestätigt und sie für sinnvoll hält.",
+          "Hat ein früheres CFS-Referenzzentrum (aktiv bis 2012) die Diagnose bereits gestellt, gibt es keine neue Untersuchung, aber die Therapie kann noch erstattet werden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 230,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/zeldzame-erfelijke-monogene-metabole-ziekten-tegemoetkoming-in-de-kosten-van-de-behandeling-door-een-gespecialiseerd-centrum",
+    "content": {
+      "en": {
+        "title": "Centre for Rare Inherited Metabolic Diseases",
+        "desc": "People with a rare inherited monogenic metabolic disease (such as phenylketonuria) can be followed in a specialised centre. You learn to handle your treatment and diet, get cognitive behavioural therapy to manage anxiety, depression and pain and compensate cognitive problems, help with school, work and social integration, and material to monitor your blood sugar if you risk hypoglycaemia. Under 18s also get help with transport costs to the centre.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Personal share per 3-month follow-up period, plus personal share for doctor's consultations; medicines and special food are reimbursed separately",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Ask your doctor for advice (a prescription is not required) and contact a centre on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Centrum voor zeldzame erfelijke metabole ziekten",
+        "desc": "Mensen met een zeldzame erfelijke monogene metabole ziekte (zoals fenylketonurie) kunnen opgevolgd worden in een gespecialiseerd centrum. Je leert omgaan met je behandeling en dieet, krijgt cognitieve gedragstherapie om angst, depressie en pijn onder controle te houden en cognitieve gebreken te compenseren, hulp bij school-, werk- en sociale integratie, en materiaal om je bloedsuiker te controleren als je risico op hypoglykemie hebt. Wie jonger is dan 18 krijgt ook een tegemoetkoming in de vervoerskosten naar het centrum.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Remgeld per opvolgingsperiode van 3 maanden, plus remgeld voor raadplegingen bij de arts; geneesmiddelen en bijzondere voeding worden apart terugbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Vraag advies aan je behandelende arts (een voorschrift is niet verplicht) en neem contact op met een centrum op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Centre pour maladies métaboliques héréditaires rares",
+        "desc": "Les personnes atteintes d'une maladie métabolique monogénique héréditaire rare (comme la phénylcétonurie) peuvent être suivies dans un centre spécialisé. Vous apprenez à gérer votre traitement et votre régime, recevez une thérapie cognitivo-comportementale pour maîtriser l'anxiété, la dépression et la douleur et compenser les troubles cognitifs, une aide à l'intégration scolaire, professionnelle et sociale, et du matériel pour surveiller votre glycémie en cas de risque d'hypoglycémie. Les moins de 18 ans reçoivent aussi une intervention dans les frais de déplacement vers le centre.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Ticket modérateur par période de suivi de 3 mois, plus ticket modérateur pour les consultations ; médicaments et alimentation spéciale sont remboursés à part",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Demandez conseil à votre médecin (une prescription n'est pas obligatoire) et contactez un centre de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Zentrum für seltene erbliche Stoffwechselerkrankungen",
+        "desc": "Menschen mit einer seltenen erblichen monogenen Stoffwechselerkrankung (wie Phenylketonurie) können in einem Fachzentrum betreut werden. Sie lernen den Umgang mit Behandlung und Diät, erhalten kognitive Verhaltenstherapie gegen Angst, Depression und Schmerz und zum Ausgleich kognitiver Defizite, Hilfe bei schulischer, beruflicher und sozialer Integration sowie Material zur Blutzuckerkontrolle bei Hypoglykämierisiko. Unter 18-Jährige erhalten auch eine Beteiligung an den Fahrtkosten zum Zentrum.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Eigenanteil pro 3-monatigem Betreuungszeitraum, zuzüglich Eigenanteil für Arztkonsultationen; Arzneimittel und Spezialnahrung werden gesondert erstattet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Fragen Sie Ihren Arzt um Rat (eine Verordnung ist nicht erforderlich) und wenden Sie sich an ein Zentrum auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/zeldzame-erfelijke-monogene-metabole-ziekten-tegemoetkoming-in-de-kosten-van-de-behandeling-door-een-gespecialiseerd-centrum",
+      "conditions": {
+        "en": [
+          "You have a rare inherited monogenic metabolic disease.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je hebt een zeldzame erfelijke monogene metabole ziekte.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez une maladie métabolique monogénique héréditaire rare.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie haben eine seltene erbliche monogene Stoffwechselerkrankung.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 231,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/verzorging-in-een-revalidatiecentrum",
+    "content": {
+      "en": {
+        "title": "Respiratory Rehabilitation in a Specialised Centre",
+        "desc": "If you are over 14 and have a severe chronic respiratory disorder, a rehabilitation centre can offer a programme adapted to your age, illness and condition: doctors plus at least 3 other disciplines (physiotherapist, occupational therapist, psychologist, social worker, dietitian), individually or in groups, with training for you and your family. You can follow it as an outpatient or in hospital. On programme days, separate physiotherapy is not reimbursed.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Outpatient: personal share per session; in hospital: the usual hospital costs; plus a personal share per doctor's consultation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the respiratory rehabilitation centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Respiratoire revalidatie in een gespecialiseerd centrum",
+        "desc": "Als je ouder bent dan 14 en een ernstige chronische ademhalingsstoornis hebt, kan een revalidatiecentrum je een programma aanbieden dat aangepast is aan je leeftijd, ziekte en toestand: artsen plus minstens 3 andere disciplines (kinesitherapeut, ergotherapeut, psycholoog, maatschappelijk werker, diëtist), individueel of in groep, met opleiding voor jou en je familie. Je kunt het ambulant of tijdens een opname volgen. Op programmadagen wordt aparte kinesitherapie niet terugbetaald.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Ambulant: remgeld per verstrekking; bij opname: de gewone ziekenhuiskosten; plus remgeld per raadpleging bij de arts",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de revalidatiecentra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Rééducation respiratoire dans un centre spécialisé",
+        "desc": "Si vous avez plus de 14 ans et souffrez d'un trouble respiratoire chronique grave, un centre de rééducation peut vous proposer un programme adapté à votre âge, votre maladie et votre état : médecins et au moins 3 autres disciplines (kiné, ergothérapeute, psychologue, assistant social, diététicien), en individuel ou en groupe, avec une formation pour vous et votre famille. En ambulatoire ou à l'hôpital. Les jours de programme, la kiné séparée n'est pas remboursée.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "En ambulatoire : ticket modérateur par prestation ; à l'hôpital : les frais habituels ; plus un ticket modérateur par consultation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres de rééducation de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Atemrehabilitation in einem Fachzentrum",
+        "desc": "Wenn Sie älter als 14 sind und eine schwere chronische Atemwegserkrankung haben, kann ein Rehabilitationszentrum ein an Alter, Krankheit und Zustand angepasstes Programm anbieten: Ärzte und mindestens 3 weitere Disziplinen (Physiotherapeut, Ergotherapeut, Psychologe, Sozialarbeiter, Diätassistent), einzeln oder in Gruppen, mit Schulung für Sie und Ihre Familie. Ambulant oder im Krankenhaus. An Programmtagen wird separate Physiotherapie nicht erstattet.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Ambulant: Eigenanteil pro Leistung; im Krankenhaus: die üblichen Krankenhauskosten; dazu Eigenanteil pro Arztkonsultation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Rehabilitationszentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/SiteCollectionDocuments/overeenkomst_chronische_ademhalingsaandoeningen_voorwaarden.docx",
+      "conditions": {
+        "en": [
+          "You are older than 14.",
+          "You have COPD, severe chronic asthma, another severe respiratory disorder (such as bronchiectasis or cystic fibrosis), a restrictive condition (interstitial, after infections, or neuromuscular or chest-wall), had lung-volume reduction surgery or a thoracotomy, had a lung transplant, or are a transplant candidate.",
+          "Except after a lung transplant: at the start you are stable, have an FEV1 or diffusion capacity below 50% of the predicted value, and meet at least 2 of 5 further criteria (respiratory muscle strength, quadriceps strength, cycle test under 90 watts, 6-minute walk test if over 50, CRDQ questionnaire score).",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je bent ouder dan 14 jaar.",
+          "Je hebt COPD, ernstig chronisch astma, een andere ernstige ademhalingsstoornis (zoals bronchiëctasieën of mucoviscidose), een restrictieve aandoening (interstitieel, na infecties, of door een neuromusculaire aandoening of de thoraxwand), onderging een longvolumereductie of thoracotomie, een longtransplantatie, of bent kandidaat voor een transplantatie.",
+          "Behalve na een longtransplantatie: bij de start ben je stabiel, heb je een FEV1 of diffusiecapaciteit onder 50% van de voorspelde waarde, en voldoe je aan minstens 2 van 5 bijkomende criteria (ademhalingsspierkracht, quadricepskracht, fietstest onder 90 watt, 6-minutenwandeltest vanaf 50 jaar, score op de CRDQ-vragenlijst).",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Vous avez plus de 14 ans.",
+          "Vous avez une BPCO, un asthme chronique sévère, un autre trouble respiratoire grave (comme des bronchectasies ou la mucoviscidose), une affection restrictive (interstitielle, après infections, ou neuromusculaire ou de la paroi thoracique), avez subi une réduction de volume pulmonaire ou une thoracotomie, une greffe pulmonaire, ou êtes candidat(e) à une greffe.",
+          "Sauf après une greffe pulmonaire : au départ, vous êtes stable, avez un VEMS ou une capacité de diffusion inférieur à 50 % de la valeur prédite, et remplissez au moins 2 des 5 critères supplémentaires (force des muscles respiratoires, force du quadriceps, test vélo sous 90 watts, test de marche de 6 minutes après 50 ans, score au questionnaire CRDQ).",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Sie sind älter als 14 Jahre.",
+          "Sie haben COPD, schweres chronisches Asthma, eine andere schwere Atemwegserkrankung (wie Bronchiektasen oder Mukoviszidose), eine restriktive Erkrankung (interstitiell, nach Infektionen oder neuromuskulär bzw. der Brustwand), hatten eine Lungenvolumenreduktion oder Thorakotomie, eine Lungentransplantation oder sind Transplantationskandidat.",
+          "Außer nach einer Lungentransplantation: Zu Beginn sind Sie stabil, haben eine FEV1 oder Diffusionskapazität unter 50 % des Sollwerts und erfüllen mindestens 2 von 5 weiteren Kriterien (Atemmuskelkraft, Quadrizepskraft, Fahrradtest unter 90 Watt, 6-Minuten-Gehtest ab 50, CRDQ-Fragebogen).",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
   }
 ]

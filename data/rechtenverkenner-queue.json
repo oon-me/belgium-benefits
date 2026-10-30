@@ -83,6 +83,7 @@
     "2971": 124,
     "2972": 125,
     "2974": 173,
+    "2976": 222,
     "2977": 180,
     "2978": 195,
     "2980": 178,
@@ -90,16 +91,34 @@
     "2985": 176,
     "2987": 175,
     "2988": 169,
+    "2989": 231,
+    "2992": 225,
+    "2993": 226,
     "2995": 141,
     "2997": 121,
     "2998": 198,
+    "2999": 229,
+    "3001": 216,
+    "3002": 215,
+    "3003": 217,
+    "3004": 214,
+    "3006": 224,
+    "3007": 230,
     "3008": 168,
+    "3011": 213,
     "3013": 181,
+    "3015": 228,
     "3016": 89,
+    "3018": 227,
+    "3021": 220,
     "3027": 201,
     "3028": 201,
     "3030": 194,
+    "3031": 219,
+    "3032": 221,
+    "3033": 218,
     "3034": 118,
+    "3035": 223,
     "3036": 118,
     "3037": 184,
     "3038": 189,
@@ -311,168 +330,6 @@
       ]
     },
     {
-      "nr": "3007",
-      "name": "Tegemoetkoming in de kosten van de behandeling van zeldzame erfelijke monogene metabole ziekten in een gespecialiseerd centrum",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/zeldzame-erfelijke-monogene-metabole-ziekten-tegemoetkoming-in-de-kosten-van-de-behandeling-door-een-gespecialiseerd-centrum"
-      ]
-    },
-    {
-      "nr": "2993",
-      "name": "Tegemoetkoming in de kosten van de opvolging van patiënten met hemofilie door een gespecialiseerd centrum",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-bloed-en-van-het-immuniteitsysteem/hemofilie"
-      ]
-    },
-    {
-      "nr": "2989",
-      "name": "Tegemoetkoming in de kosten van een revalidatie in een gespecialiseerd centrum bij ernstige chronische ademhalingsstoornissen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/verzorging-in-een-revalidatiecentrum"
-      ]
-    },
-    {
-      "nr": "2976",
-      "name": "Tegemoetkoming in de kosten van ergotherapeutische verstrekkingen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/ergotherapie"
-      ]
-    },
-    {
-      "nr": "3011",
-      "name": "Tegemoetkoming in de kosten van het gebruik van geavanceerde of dure technologieën in een gespecialiseerd centrum voor mensen met diabetes",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-van-het-gebruik-van-geavanceerde-of-dure-technologieen-in-een-gespecialiseerd-centrum"
-      ]
-    },
-    {
-      "nr": "3004",
-      "name": "Tegemoetkoming in de kosten voor begeleiding in een gespecialiseerd centrum van diabetespatiënten met een draagbare insulinepomp",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-begeleiding-in-een-gespecialiseerd-centrum-van-diabetespatienten-met-een-draagbare-insulinepomp"
-      ]
-    },
-    {
-      "nr": "3033",
-      "name": "Tegemoetkoming in de kosten voor behandeling in gespecialiseerde centra voor personen met een neuromusculaire ziekte",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/neuromusculaire-ziekten-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra"
-      ]
-    },
-    {
-      "nr": "3031",
-      "name": "Tegemoetkoming in de kosten voor behandeling in gespecialiseerde centra voor personen met hersenverlamming",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/hersenverlamming-cerebral-palsy-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra"
-      ]
-    },
-    {
-      "nr": "3021",
-      "name": "Tegemoetkoming in de kosten voor behandeling in gespecialiseerde centra voor personen met spina bifida en/of een bewezen vorm van gekluisterd ruggenmerg syndroom",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/spina-bifida"
-      ]
-    },
-    {
-      "nr": "3032",
-      "name": "Tegemoetkoming in de kosten voor behandeling in revalidatiecentra voor personen met locomotorische en neurologische aandoeningen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/neuro-locomotorische-ziekten-en-handicaps/locomotorische-en-neurologische-aandoeningen-tegemoetkoming-in-de-kosten-voor-behandeling-in-revalidatiecentra"
-      ]
-    },
-    {
-      "nr": "3035",
-      "name": "Tegemoetkoming in de kosten voor behandeling van kinderen en adolescenten met nierziekten in gespecialiseerde centra",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/nierziekten/nierziekten-tegemoetkoming-in-de-kosten-voor-behandeling-van-kinderen-en-adolescenten-in-gespecialiseerde-centra"
-      ]
-    },
-    {
-      "nr": "3006",
-      "name": "Tegemoetkoming in de kosten voor behandeling van mucoviscidose in gespecialiseerde centra",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mucoviscidose-tegemoetkoming-in-de-kosten-voor-behandeling-in-gespecialiseerde-centra"
-      ]
-    },
-    {
-      "nr": "2992",
-      "name": "Tegemoetkoming in de kosten voor de begeleiding in een gespecialiseerd centrum van patiënten die drager zijn van HIV of die lijden aan aids",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-bloed-en-van-het-immuniteitsysteem/hiv"
-      ]
-    },
-    {
-      "nr": "3002",
-      "name": "Tegemoetkoming in de kosten voor de begeleiding van volwassenen met diabetes in een gespecialiseerd centrum",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-de-begeleiding-van-volwassenen-in-een-gespecialiseerd-centrum"
-      ]
-    },
-    {
-      "nr": "3001",
-      "name": "Tegemoetkoming in de kosten voor de begeleiding van zelfregulatie bij kinderen en adolescenten met diabetes",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-de-begeleiding-van-zelfregulatie-bij-kinderen-en-adolescenten"
-      ]
-    },
-    {
-      "nr": "3018",
-      "name": "Tegemoetkoming in de kosten voor de behandeling van beginnende dementie in geheugenklinieken",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/beginnende-dementie"
-      ]
-    },
-    {
-      "nr": "3015",
-      "name": "Tegemoetkoming in de kosten voor de behandeling van epilepsie in gespecialiseerde centra",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/epilepsie"
-      ]
-    },
-    {
-      "nr": "3003",
-      "name": "Tegemoetkoming in de kosten voor zorg verstrekt in een gespecialiseerd centrum aan diabetespatiënten met voetwonden",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-voor-zorg-verstrekt-in-een-gespecialiseerd-centrum-aan-diabetespatienten-met-voetwonden"
-      ]
-    },
-    {
       "nr": "3020",
       "name": "Tegemoetkoming in de prijs van de behandeling door gespecialiseerde centra voor kinderen en adolescenten die een neurologische stoornis gekoppeld aan een psychiatrische stoornis hebben",
       "level": "Federaal",
@@ -506,15 +363,6 @@
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/professionals/individuele-zorgverleners/tandartsen/verstrekkingen-kostprijs-en-terugbetaling/orthodontie-terugbetaalde-verstrekkingen-en-toepassingsregels-voor-tandartsen"
-      ]
-    },
-    {
-      "nr": "2999",
-      "name": "Tegemoetkoming kosten voor raadplegingen in multidisciplinaire diagnostische centra voor mensen met het chronisch vermoeidheidssyndroom (CVS)",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/myalgische-encephalomyelitis-chronisch-vermoeidheidssyndroom/multidisciplinair-diagnostisch-centrum-voor-me-cvs"
       ]
     },
     {
