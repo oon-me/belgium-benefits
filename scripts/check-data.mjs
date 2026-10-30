@@ -2,7 +2,8 @@
 // region / commune / situation combination. Run with: npm run check
 import benefits from "../src/data/benefits.json" with { type: "json" };
 import { communesByRegion, resolveCommune, communeName } from "../src/data/communes.js";
-import { matchesBenefit } from "../src/lib/match.js";
+import { matchesBenefit, matchesPlace } from "../src/lib/match.js";
+import { chunkKeys, groupByChunk, placeKeys } from "../src/lib/chunks.js";
 import { ageInDays, STALE_AFTER_DAYS } from "../src/lib/freshness.js";
 import { healthFundIds, situationIds, statuses } from "../src/constants.js";
 
@@ -154,6 +155,23 @@ for (const [region, communes] of Object.entries(communesByRegion)) {
     }
   }
 }
+// The app only loads a place's chunks (src/lib/chunks.js). Prove that those chunks hold every
+// benefit that matches the place, so the split can never hide one.
+const groups = groupByChunk(benefits);
+for (const [region, communes] of Object.entries(communesByRegion)) {
+  for (const cm of communes) {
+    const inChunks = new Set(placeKeys(region, cm.nis).flatMap((k) => (groups[k] ?? []).map((b) => b.id)));
+    const missing = benefits.filter((b) => matchesPlace(b, region, cm.nis) && !inChunks.has(b.id)).map((b) => b.id);
+    if (missing.length) errors.push(`${region}/${communeName(cm, "en")}: chunks miss matching ids ${missing.join(", ")}`);
+  }
+}
+// The health-fund comparison page loads only the three region chunks.
+for (const b of benefits) {
+  if (b.health_funds && !chunkKeys(b).every((k) => ["flanders", "wallonia", "brussels"].includes(k))) {
+    errors.push(`id ${b.id}: health-fund entries must be region-wide (not Federal, not commune-level)`);
+  }
+}
+
 const unreachable = benefits.filter((b) => !reachable.has(b.id)).map((b) => b.id);
 if (unreachable.length) errors.push(`unreachable benefits: ${unreachable.join(", ")}`);
 

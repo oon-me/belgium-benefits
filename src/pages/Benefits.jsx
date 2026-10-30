@@ -3,7 +3,8 @@ import { MapPin, Search, ChevronRight } from "lucide-react";
 import { c, displayFont } from "../theme.js";
 import { useT, getContent, LANGS } from "../i18n.js";
 import { categories, situations, healthFunds } from "../constants.js";
-import benefits from "../data/benefits.json";
+import { useBenefits, placeKeys } from "../lib/data.js";
+import Loading from "../components/Loading.jsx";
 import { localTips } from "../data/local-tips.js";
 import { communeName, resolveCommune } from "../data/communes.js";
 import { filterBenefits } from "../lib/match.js";
@@ -42,6 +43,8 @@ export default function Benefits() {
     setParams(next, { replace: true });
   };
 
+  const { benefits: loaded, failed } = useBenefits(placeKeys(region, commune));
+  const benefits = loaded ?? [];
   const communeLabel = communeName(commune, lang);
   const matched = filterBenefits(benefits, { region, commune, category, situations: picked, query, fund, status });
   // With a search word, the best matches come first.
@@ -73,6 +76,7 @@ export default function Benefits() {
 
   // Placed after every hook so the hook order stays identical on each render.
   if (!region || !commune) return <Navigate to={`/${lang}/start/location`} replace />;
+  if (!loaded) return <Loading t={t} failed={failed} />;
 
   return (
     <>

@@ -3,7 +3,7 @@ import { Link, useNavigate, useParams, useSearchParams } from "react-router-dom"
 import { Search as SearchIcon, X, ChevronRight } from "lucide-react";
 import { c, displayFont, monoFont } from "../theme.js";
 import { useT, getContent, LANGS } from "../i18n.js";
-import benefits from "../data/benefits.json";
+import { useBenefits, allKeys } from "../lib/data.js";
 import { communeName, resolveCommune } from "../data/communes.js";
 import { searchBenefits } from "../lib/search.js";
 import { matchesPlace, statusRule } from "../lib/match.js";
@@ -39,13 +39,15 @@ export default function Search() {
     alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}/search`])),
   });
 
+  // The box stays usable while the data loads; results simply appear once it is there.
+  const { benefits: loaded, failed } = useBenefits(allKeys);
   const hasPlace = Boolean(prefs.region && prefs.commune);
   const place = hasPlace ? communeName(prefs.commune, lang) : "";
   const { results, partial } = useMemo(() => {
-    if (!query.trim()) return { results: [], partial: false };
-    const pool = onlyMine && hasPlace ? benefits.filter((b) => matchesPlace(b, prefs.region, prefs.commune)) : benefits;
+    if (!query.trim() || !loaded) return { results: [], partial: false };
+    const pool = onlyMine && hasPlace ? loaded.filter((b) => matchesPlace(b, prefs.region, prefs.commune)) : loaded;
     return searchBenefits(pool, query);
-  }, [query, onlyMine, hasPlace, prefs.region, prefs.commune]);
+  }, [query, onlyMine, hasPlace, prefs.region, prefs.commune, loaded]);
 
   // Keep the address in step with the box, so a search can be shared or reopened with Back.
   useEffect(() => {
@@ -158,7 +160,13 @@ export default function Search() {
           </>
         )}
 
-        {query.trim() && results.length === 0 && (
+        {query.trim() && !loaded && (
+          <p className="text-sm mb-3" role="status" style={{ color: c.inkSoft }}>
+            {t(failed ? "loadError" : "loading")}
+          </p>
+        )}
+
+        {query.trim() && loaded && results.length === 0 && (
           <>
             <p className="text-sm mb-3" style={{ color: c.ink }}>
               {t("searchNone").replace("{q}", query.trim())}

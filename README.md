@@ -275,8 +275,27 @@ queue. Its API (`/proxy/rechtenverkenner/api/instantie?overheid=ENKEL_VLAAMS_EN_
 `/proxy/doc/instantie/byIds/<ids>` for details) also has the local rights, so the commune run
 can use `overheid=ENKEL_LOKAAL` the same way.
 
-All entries are bundled into the client, about 11 KB each with their conditions. Split the data per region or load
-commune entries on demand before it passes about 1.5 MB.
+### How the data reaches the browser (from 30 Oct 2026)
+
+`src/data/benefits.json` stays the single file to edit; scripts and the prerender read it whole.
+The app never imports it: a Vite plugin in `vite.config.js` cuts it into chunks
+(`src/lib/chunks.js`), and each page loads only what it needs through `useBenefits`
+(`src/lib/data.js`):
+
+- `federal`, `flanders`, `wallonia`, `brussels` for region-wide entries (an entry for two regions
+  is copied into both), and `c<NIS>` per commune for local entries.
+- The results page loads `federal` + its region + its commune; a benefit page the one chunk that
+  holds it (an id → chunk index ships in the main bundle); search and "All benefits" load every chunk;
+  the health-fund comparison loads the three region chunks, so fund entries must stay region-wide.
+- `main.jsx` fetches the chunks for the opened URL before the first render, so the prerendered
+  HTML stays on screen; `Loading` only shows after in-app navigation, or with an error if a fetch fails.
+- `npm run check` proves for every commune that its chunks hold every matching benefit.
+
+Sizes on 30 Oct 2026 (129 entries): main bundle 355 KB (was 1.2 MB with the data inside), `federal`
+257 KB, `flanders` 242 KB. Commune chunks keep thousands of local rights away from everyone else.
+If `federal` or a region chunk grows past about 1 MB, split it per language or ship a lighter card
+projection to the results page. Also keep an eye on Cloudflare Pages' 20,000-file limit: every
+benefit is prerendered in four languages.
 
 ## Responsive behaviour
 

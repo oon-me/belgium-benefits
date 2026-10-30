@@ -3,7 +3,8 @@ import { Link, Navigate, useParams } from "react-router-dom";
 import { ChevronLeft, Clock, ExternalLink, Smartphone, CreditCard, FileText } from "lucide-react";
 import { c, displayFont, monoFont } from "../theme.js";
 import { useT, getContent, LANGS } from "../i18n.js";
-import benefits from "../data/benefits.json";
+import { useBenefits, keysForId } from "../lib/data.js";
+import Loading from "../components/Loading.jsx";
 import StampBadge from "../components/StampBadge.jsx";
 import { usePageMeta } from "../lib/meta.js";
 import { isStale, monthsSince } from "../lib/freshness.js";
@@ -17,7 +18,8 @@ export default function BenefitDetail() {
   const { lang, idSlug } = useParams();
   const t = useT(lang);
   const { id } = parseBenefitParam(idSlug);
-  const benefit = benefits.find((b) => String(b.id) === id);
+  const { benefits, failed } = useBenefits(keysForId(id));
+  const benefit = benefits?.find((b) => String(b.id) === id);
   const bc = benefit ? getContent(benefit, lang) : null;
   const canonical = benefit ? benefitPath(lang, benefit) : null;
   // Read after mounting: the prerendered HTML has no preferences, and the first client render
@@ -33,6 +35,8 @@ export default function BenefitDetail() {
     // Each language slugs its own title, so alternates have to be computed per language.
     alternates: benefit ? Object.fromEntries(LANGS.map((l) => [l, benefitPath(l, benefit)])) : undefined,
   });
+
+  if (!benefits) return <Loading t={t} failed={failed} />;
 
   // A bare id or a slug from another language still resolves; send it to the canonical URL so
   // search engines see one address per benefit per language instead of several.

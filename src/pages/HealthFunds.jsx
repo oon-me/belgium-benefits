@@ -2,13 +2,10 @@ import { Link, useParams } from "react-router-dom";
 import { c, displayFont, monoFont } from "../theme.js";
 import { useT, getContent, LANGS } from "../i18n.js";
 import { healthFunds } from "../constants.js";
-import benefits from "../data/benefits.json";
+import { useBenefits, regionKeys } from "../lib/data.js";
+import Loading from "../components/Loading.jsx";
 import { usePageMeta } from "../lib/meta.js";
 import { benefitPath } from "../lib/slug.js";
-
-// Side-by-side view of what each health fund gives at a birth. Built from the same verified
-// entries the results page shows, so the two can never disagree.
-const fundBirthEntries = benefits.filter((b) => b.health_funds && b.situations.includes("pregnancy"));
 
 // Dutch-speaking funds operate in Flanders and Brussels, French-speaking ones in Wallonia and
 // Brussels, so the region an entry names besides Brussels decides its column.
@@ -28,6 +25,13 @@ export default function HealthFunds() {
     path: `/${lang}/health-funds`,
     alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}/health-funds`])),
   });
+
+  // Fund extras are regional entries, so the three region chunks hold them all.
+  const { benefits, failed } = useBenefits(regionKeys);
+  if (!benefits) return <Loading t={t} failed={failed} />;
+  // Side-by-side view of what each health fund gives at a birth. Built from the same verified
+  // entries the results page shows, so the two can never disagree.
+  const fundBirthEntries = benefits.filter((b) => b.health_funds && b.situations.includes("pregnancy"));
 
   return (
     <article>

@@ -2,7 +2,8 @@ import { Link, useParams } from "react-router-dom";
 import { c, displayFont, monoFont } from "../theme.js";
 import { useT, getContent, LANGS } from "../i18n.js";
 import { categories } from "../constants.js";
-import benefits from "../data/benefits.json";
+import { useBenefits, allKeys } from "../lib/data.js";
+import Loading from "../components/Loading.jsx";
 import StampBadge from "../components/StampBadge.jsx";
 import { usePageMeta } from "../lib/meta.js";
 import { benefitPath } from "../lib/slug.js";
@@ -21,6 +22,9 @@ export default function AllBenefits() {
     path: `/${lang}/all`,
     alternates: Object.fromEntries(LANGS.map((l) => [l, `/${l}/all`])),
   });
+
+  const { benefits, failed } = useBenefits(allKeys);
+  if (!benefits) return <Loading t={t} failed={failed} />;
 
   return (
     <article>
