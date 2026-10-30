@@ -19194,5 +19194,1860 @@
         ]
       }
     }
+  },
+  {
+    "id": 155,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Fedris (Federaal agentschap voor beroepsrisico's / Agence fédérale des risques professionnels)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.fedris.be/nl/themas/vergoedingen-bz/vergoedingen-bij-een-beroepsziekte",
+    "content": {
+      "en": {
+        "title": "Occupational Disease Benefits (Fedris)",
+        "desc": "If Fedris recognises your illness as an occupational disease, you can get a benefit while you are temporarily unfit for work, a benefit for permanent effects, the personal share (remgeld) of your medical costs for that disease, and travel costs when Fedris or the labour court asks you to come. On top: €0.70 a day during temporary unfitness, and €20 a month with at least 50% permanent physical unfitness.",
+        "deadline": "Apply while you have symptoms. Temporary benefits go back at most 365 days before your application, permanent ones at most 120 days.",
+        "amount": "Temporary: 90% of your daily base wage; permanent: based on your degree of unfitness",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Form 501 (application, private sector) or 601 (provincial or local authority)"
+          },
+          {
+            "type": "doc",
+            "label": "Form 503 or 603, filled in by your doctor, with the medical evidence it asks for"
+          }
+        ],
+        "steps": [
+          "Private sector: fill in form 501 (online or on paper) and have your doctor fill in form 503",
+          "Provincial or local authority: fill in form 601, have your doctor fill in form 603 and give both to your employer, who sends them to Fedris",
+          "Optionally add proof of exposure, such as an employer certificate or job description",
+          "Fedris may ask for more information or invite you to a medical examination",
+          "For medical costs, send forms GZ1, GZ2 or GZ3 (or invoices) to Fedris after your health fund has paid its part"
+        ]
+      },
+      "nl": {
+        "title": "Vergoedingen bij een beroepsziekte (Fedris)",
+        "desc": "Erkent Fedris je ziekte als beroepsziekte, dan kan je een vergoeding krijgen als je tijdelijk arbeidsongeschikt bent, een vergoeding voor blijvende gevolgen, het remgeld van je medische kosten voor die ziekte, en verplaatsingskosten als Fedris of de arbeidsrechtbank je oproept. Daarbovenop: €0,70 per dag tijdens tijdelijke arbeidsongeschiktheid, en €20 per maand bij minstens 50% blijvende fysieke ongeschiktheid.",
+        "deadline": "Vraag aan terwijl je symptomen hebt. Tijdelijke vergoedingen gaan maximaal 365 dagen terug vóór je aanvraag, blijvende maximaal 120 dagen.",
+        "amount": "Tijdelijk: 90% van je dagloon; blijvend: volgens je graad van ongeschiktheid",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier 501 (aanvraag, privésector) of 601 (provinciale of plaatselijke overheid)"
+          },
+          {
+            "type": "doc",
+            "label": "Formulier 503 of 603, ingevuld door je arts, met de gevraagde medische bewijsstukken"
+          }
+        ],
+        "steps": [
+          "Privésector: vul formulier 501 in (elektronisch of op papier) en laat je arts formulier 503 invullen",
+          "Provinciale of plaatselijke overheid: vul formulier 601 in, laat je arts formulier 603 invullen en bezorg beide aan je werkgever, die ze naar Fedris stuurt",
+          "Voeg eventueel bewijs van blootstelling toe, zoals een attest van je werkgever of een taakbeschrijving",
+          "Fedris kan bijkomende informatie vragen of je uitnodigen voor een medisch onderzoek",
+          "Voor medische kosten stuur je de formulieren GZ1, GZ2 of GZ3 (of facturen) naar Fedris nadat je ziekenfonds zijn deel betaalde"
+        ]
+      },
+      "fr": {
+        "title": "Indemnités en cas de maladie professionnelle (Fedris)",
+        "desc": "Si Fedris reconnaît votre maladie comme maladie professionnelle, vous pouvez recevoir une indemnité pendant une incapacité temporaire, une indemnité pour les séquelles permanentes, le ticket modérateur de vos frais médicaux liés à cette maladie, et les frais de déplacement quand Fedris ou le tribunal du travail vous convoque. En plus : 0,70 € par jour pendant l'incapacité temporaire, et 20 € par mois avec au moins 50 % d'incapacité physique permanente.",
+        "deadline": "Introduisez la demande pendant que vous avez des symptômes. Les indemnités temporaires remontent au maximum à 365 jours avant la demande, les permanentes à 120 jours.",
+        "amount": "Temporaire : 90 % de votre salaire journalier ; permanente : selon votre taux d'incapacité",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire 501 (demande, secteur privé) ou 601 (administration provinciale ou locale)"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire 503 ou 603, rempli par votre médecin, avec les pièces médicales demandées"
+          }
+        ],
+        "steps": [
+          "Secteur privé : remplissez le formulaire 501 (en ligne ou sur papier) et faites remplir le formulaire 503 par votre médecin",
+          "Administration provinciale ou locale : remplissez le formulaire 601, faites remplir le 603 par votre médecin et remettez-les à votre employeur, qui les envoie à Fedris",
+          "Ajoutez éventuellement une preuve d'exposition, comme une attestation de l'employeur ou une description de fonction",
+          "Fedris peut demander des informations ou vous convoquer à un examen médical",
+          "Pour les frais médicaux, envoyez les formulaires GZ1, GZ2 ou GZ3 (ou les factures) à Fedris après le remboursement de votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Leistungen bei einer Berufskrankheit (Fedris)",
+        "desc": "Erkennt Fedris Ihre Krankheit als Berufskrankheit an, können Sie eine Entschädigung bei vorübergehender Arbeitsunfähigkeit, eine Entschädigung für bleibende Folgen, den Eigenanteil Ihrer Arztkosten für diese Krankheit und Fahrtkosten erhalten, wenn Fedris oder das Arbeitsgericht Sie vorlädt. Zusätzlich: 0,70 € pro Tag bei vorübergehender Arbeitsunfähigkeit und 20 € pro Monat bei mindestens 50 % bleibender körperlicher Arbeitsunfähigkeit.",
+        "deadline": "Beantragen Sie, solange Sie Symptome haben. Vorübergehende Entschädigungen gelten höchstens 365 Tage, bleibende höchstens 120 Tage vor dem Antrag.",
+        "amount": "Vorübergehend: 90 % Ihres Tageslohns; bleibend: nach Grad der Arbeitsunfähigkeit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular 501 (Antrag, Privatsektor) oder 601 (Provinz- oder Lokalverwaltung)"
+          },
+          {
+            "type": "doc",
+            "label": "Formular 503 oder 603, von Ihrem Arzt ausgefüllt, mit den verlangten medizinischen Belegen"
+          }
+        ],
+        "steps": [
+          "Privatsektor: Füllen Sie Formular 501 aus (online oder auf Papier) und lassen Sie Ihren Arzt Formular 503 ausfüllen",
+          "Provinz- oder Lokalverwaltung: Füllen Sie Formular 601 aus, lassen Sie Ihren Arzt Formular 603 ausfüllen und geben Sie beide Ihrem Arbeitgeber, der sie an Fedris schickt",
+          "Fügen Sie gegebenenfalls einen Nachweis der Exposition bei, etwa eine Arbeitgeberbescheinigung oder Aufgabenbeschreibung",
+          "Fedris kann weitere Angaben verlangen oder Sie zu einer ärztlichen Untersuchung einladen",
+          "Für Arztkosten senden Sie die Formulare GZ1, GZ2 oder GZ3 (oder Rechnungen) an Fedris, nachdem Ihre Krankenkasse ihren Teil gezahlt hat"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.fedris.be/nl/themas/vergoedingen-bz/vergoedingen-bij-een-beroepsziekte",
+        "https://www.fedris.be/nl/themas/aanvraag-en-procedure-bz/hoe-een-aanvraag-indienen"
+      ],
+      "conditions": {
+        "en": [
+          "You work or worked as an employee in the private sector or for a provincial or local (municipal) authority. Self-employed people and other public servants (e.g. federal) are not covered by Fedris this way.",
+          "Fedris recognises your illness as an occupational disease.",
+          "For the temporary benefit, you are unfit for work for at least 15 days."
+        ],
+        "nl": [
+          "Je werkt of werkte als werknemer in de privésector of bij een provinciale of plaatselijke (gemeentelijke) overheid. Zelfstandigen en andere ambtenaren (bv. federale) vallen hier niet onder Fedris.",
+          "Fedris erkent je ziekte als beroepsziekte.",
+          "Voor de tijdelijke vergoeding ben je minstens 15 dagen arbeidsongeschikt."
+        ],
+        "fr": [
+          "Vous travaillez ou avez travaillé comme salarié(e) dans le secteur privé ou pour une administration provinciale ou locale (communale). Les indépendants et les autres fonctionnaires (p. ex. fédéraux) ne relèvent pas de Fedris de cette manière.",
+          "Fedris reconnaît votre maladie comme maladie professionnelle.",
+          "Pour l'indemnité temporaire, votre incapacité de travail dure au moins 15 jours."
+        ],
+        "de": [
+          "Sie arbeiten oder arbeiteten als Arbeitnehmer im Privatsektor oder bei einer Provinz- oder Lokalverwaltung (Gemeinde). Selbstständige und andere Beamte (z. B. föderale) sind auf diesem Weg nicht über Fedris versichert.",
+          "Fedris erkennt Ihre Krankheit als Berufskrankheit an.",
+          "Für die vorübergehende Entschädigung sind Sie mindestens 15 Tage arbeitsunfähig."
+        ]
+      }
+    }
+  },
+  {
+    "id": 156,
+    "category": "family",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Fedris (Federaal agentschap voor beroepsrisico's / Agence fédérale des risques professionnels)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.fedris.be/nl/themas/vergoedingen-bz/vergoedingen-bij-overlijden-aan-een-beroepsziekte",
+    "content": {
+      "en": {
+        "title": "Survivors' Benefits after Death from an Occupational Disease (Fedris)",
+        "desc": "If someone dies as a direct result of a recognised occupational disease, the partner, children, grandchildren, parents or brothers and sisters can get a yearly benefit, depending on their situation. Whoever paid the funeral can get those costs refunded, and transport of the body from abroad is refunded too. Fedris pays for private-sector workers; for provincial or local authority staff, the employer pays.",
+        "deadline": "No deadline stated; Fedris examines each situation.",
+        "amount": "Partner: 30% of the base wage a year; each child 15% (20% if both parents died)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Death certificate"
+          },
+          {
+            "type": "doc",
+            "label": "Form 340 (application for the yearly benefit)"
+          },
+          {
+            "type": "doc",
+            "label": "Funeral or transport invoices and proof of payment"
+          }
+        ],
+        "steps": [
+          "Send the death certificate to Fedris (private sector) or to the employer (provincial or local authority)",
+          "To get a yearly benefit, submit form 340",
+          "To get funeral or transport costs back, add the invoices and proof of payment",
+          "Fedris examines the application and tells each entitled person what they will receive"
+        ]
+      },
+      "nl": {
+        "title": "Vergoedingen bij overlijden door een beroepsziekte (Fedris)",
+        "desc": "Overlijdt iemand als rechtstreeks gevolg van een erkende beroepsziekte, dan kunnen de partner, kinderen, kleinkinderen, ouders of broers en zussen naargelang hun situatie een jaarlijkse vergoeding krijgen. Wie de begrafenis betaalde, kan die kosten terugkrijgen, en ook de overbrenging van het lichaam uit het buitenland wordt terugbetaald. Fedris betaalt bij werknemers uit de privésector; bij personeel van provinciale of plaatselijke overheden betaalt de werkgever.",
+        "deadline": "Geen termijn vermeld; Fedris onderzoekt elke situatie.",
+        "amount": "Partner: 30% van het basisloon per jaar; elk kind 15% (20% als beide ouders overleden zijn)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Overlijdensakte"
+          },
+          {
+            "type": "doc",
+            "label": "Formulier 340 (aanvraag jaarlijkse vergoeding)"
+          },
+          {
+            "type": "doc",
+            "label": "Facturen en betaalbewijzen van begrafenis of overbrenging"
+          }
+        ],
+        "steps": [
+          "Bezorg de overlijdensakte aan Fedris (privésector) of aan de werkgever (provinciale of plaatselijke overheid)",
+          "Voor een jaarlijkse vergoeding dien je formulier 340 in",
+          "Voor begrafenis- of overbrengingskosten voeg je de facturen en betaalbewijzen toe",
+          "Fedris onderzoekt de aanvraag en laat elke rechthebbende weten wat hij of zij krijgt"
+        ]
+      },
+      "fr": {
+        "title": "Indemnités en cas de décès dû à une maladie professionnelle (Fedris)",
+        "desc": "Si une personne décède des suites directes d'une maladie professionnelle reconnue, le ou la partenaire, les enfants, petits-enfants, parents, frères et sœurs peuvent recevoir une indemnité annuelle selon leur situation. La personne qui a payé les funérailles peut en être remboursée, tout comme le transfert du corps depuis l'étranger. Fedris paie pour les travailleurs du secteur privé ; pour le personnel des administrations provinciales ou locales, c'est l'employeur.",
+        "deadline": "Pas de délai indiqué ; Fedris examine chaque situation.",
+        "amount": "Partenaire : 30 % du salaire de base par an ; chaque enfant 15 % (20 % si les deux parents sont décédés)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Acte de décès"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire 340 (demande d'indemnité annuelle)"
+          },
+          {
+            "type": "doc",
+            "label": "Factures et preuves de paiement des funérailles ou du transfert"
+          }
+        ],
+        "steps": [
+          "Envoyez l'acte de décès à Fedris (secteur privé) ou à l'employeur (administration provinciale ou locale)",
+          "Pour une indemnité annuelle, introduisez le formulaire 340",
+          "Pour les frais funéraires ou de transfert, joignez les factures et preuves de paiement",
+          "Fedris examine la demande et informe chaque ayant droit de ce qu'il ou elle recevra"
+        ]
+      },
+      "de": {
+        "title": "Leistungen bei Tod durch eine Berufskrankheit (Fedris)",
+        "desc": "Stirbt jemand als direkte Folge einer anerkannten Berufskrankheit, können Partner, Kinder, Enkel, Eltern oder Geschwister je nach Lage eine jährliche Entschädigung erhalten. Wer die Beerdigung bezahlt hat, kann sich diese Kosten erstatten lassen, ebenso die Überführung des Leichnams aus dem Ausland. Fedris zahlt bei Arbeitnehmern des Privatsektors; bei Personal von Provinz- oder Lokalverwaltungen zahlt der Arbeitgeber.",
+        "deadline": "Keine Frist angegeben; Fedris prüft jede Situation.",
+        "amount": "Partner: 30 % des Basislohns pro Jahr; jedes Kind 15 % (20 % wenn beide Eltern verstorben sind)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Sterbeurkunde"
+          },
+          {
+            "type": "doc",
+            "label": "Formular 340 (Antrag auf jährliche Entschädigung)"
+          },
+          {
+            "type": "doc",
+            "label": "Rechnungen und Zahlungsbelege für Beerdigung oder Überführung"
+          }
+        ],
+        "steps": [
+          "Senden Sie die Sterbeurkunde an Fedris (Privatsektor) oder an den Arbeitgeber (Provinz- oder Lokalverwaltung)",
+          "Für eine jährliche Entschädigung reichen Sie Formular 340 ein",
+          "Für Beerdigungs- oder Überführungskosten fügen Sie Rechnungen und Zahlungsbelege bei",
+          "Fedris prüft den Antrag und teilt jedem Berechtigten mit, was er erhält"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.fedris.be/nl/themas/vergoedingen-bz/vergoedingen-bij-overlijden-aan-een-beroepsziekte",
+        "https://www.fedris.be/nl/themas/aanvraag-en-procedure-bz/overlijden-als-gevolg-van-een-beroepsziekte"
+      ],
+      "conditions": {
+        "en": [
+          "The person died as a direct result of a recognised occupational disease, contracted while working in the private sector or for a provincial or local authority.",
+          "Partner: you were married or legally cohabiting with a notarial agreement on mutual support (de facto cohabitants are not covered). If the marriage came after the disease was recognised, it lasted at least 1 year, or a child was born, or a child receives child benefit.",
+          "Children are covered while they receive child benefit, and in any case until 18. Grandchildren, parents and brothers or sisters only under extra conditions, such as financial dependence or living with the deceased.",
+          "Funeral costs: anyone who paid them and can prove it, heir or not."
+        ],
+        "nl": [
+          "De persoon overleed als rechtstreeks gevolg van een erkende beroepsziekte, opgelopen als werknemer in de privésector of bij een provinciale of plaatselijke overheid.",
+          "Partner: je was gehuwd of wettelijk samenwonend met een notariële overeenkomst met wederzijdse hulpplicht (feitelijk samenwonenden hebben geen recht). Werd het huwelijk gesloten na de erkenning van de ziekte, dan duurde het minstens 1 jaar, of werd er een kind geboren, of is er kinderbijslag voor een kind ten laste.",
+          "Kinderen hebben recht zolang ze kinderbijslag krijgen, en in elk geval tot 18 jaar. Kleinkinderen, ouders en broers of zussen enkel onder extra voorwaarden, zoals financiële afhankelijkheid of samenwonen met de overledene.",
+          "Begrafeniskosten: wie ze betaalde en dat kan aantonen, erfgenaam of niet."
+        ],
+        "fr": [
+          "La personne est décédée des suites directes d'une maladie professionnelle reconnue, contractée comme salarié(e) du secteur privé ou d'une administration provinciale ou locale.",
+          "Partenaire : vous étiez marié(e) ou cohabitant(e) légal(e) avec une convention notariée prévoyant un devoir de secours (les cohabitants de fait n'y ont pas droit). Si le mariage a eu lieu après la reconnaissance de la maladie, il a duré au moins 1 an, ou un enfant est né, ou un enfant à charge bénéficie d'allocations familiales.",
+          "Les enfants y ont droit tant qu'ils bénéficient d'allocations familiales, et en tout cas jusqu'à 18 ans. Petits-enfants, parents, frères et sœurs uniquement sous conditions supplémentaires, comme la dépendance financière ou la cohabitation avec le défunt.",
+          "Frais funéraires : toute personne qui les a payés et peut le prouver, héritière ou non."
+        ],
+        "de": [
+          "Die Person ist als direkte Folge einer anerkannten Berufskrankheit gestorben, die sie als Arbeitnehmer im Privatsektor oder bei einer Provinz- oder Lokalverwaltung erworben hat.",
+          "Partner: Sie waren verheiratet oder gesetzlich zusammenwohnend mit notarieller Vereinbarung über gegenseitige Unterstützung (faktisch Zusammenwohnende haben keinen Anspruch). Wurde die Ehe nach der Anerkennung der Krankheit geschlossen, dauerte sie mindestens 1 Jahr, oder ein Kind wurde geboren, oder für ein Kind wird Kindergeld gezahlt.",
+          "Kinder haben Anspruch, solange sie Kindergeld erhalten, und in jedem Fall bis 18. Enkel, Eltern und Geschwister nur unter zusätzlichen Bedingungen, etwa finanzieller Abhängigkeit oder Zusammenwohnen mit dem Verstorbenen.",
+          "Beerdigungskosten: jeder, der sie bezahlt hat und das nachweisen kann, ob Erbe oder nicht."
+        ]
+      }
+    }
+  },
+  {
+    "id": 157,
+    "category": "family",
+    "situations": [
+      "children",
+      "self-employed"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/geboorteverlof-en-adoptieverlof/adoptieverlof-voor-zelfstandigen",
+    "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/bedragen-en-loonplafonds/zelfstandigen/bedrag-van-uw-forfaitaire-uitkering-tijdens-uw-adoptieverlof",
+    "content": {
+      "en": {
+        "title": "Adoption Leave and Benefit for the Self-Employed",
+        "desc": "Self-employed people who adopt a minor child get a weekly flat-rate benefit from their health fund for up to 6 weeks of adoption leave, paid in one go. Add 4 weeks if you adopt alone (or 4 weeks shared between two adoptive parents), 2 weeks for several children at once, and double the leave for a child with a recognised disability. You may not work during the leave.",
+        "deadline": "Start at the earliest on the day the child is registered at your address and at the latest 2 months later (for an international adoption you may start earlier to collect the child).",
+        "amount": "€642.83 gross a week (since 1 Sep 2026), paid in one go",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your health fund's application form"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate from the Community's central authority, or the recognition of the foreign adoption"
+          }
+        ],
+        "steps": [
+          "Ask your health fund for the adoption leave form",
+          "State the start date and the number of whole weeks (at least 1) you want to take, without interruption",
+          "Add the adoption documents and, if relevant, the certificate about the child's disability",
+          "Your health fund pays the benefit at the latest 1 month after the leave starts",
+          "Tell your health fund within 2 days when you resume your activity"
+        ]
+      },
+      "nl": {
+        "title": "Adoptieverlof en -uitkering voor zelfstandigen",
+        "desc": "Zelfstandigen die een minderjarig kind adopteren, krijgen van hun ziekenfonds een forfaitaire weekuitkering voor maximaal 6 weken adoptieverlof, in één keer betaald. Daar komen 4 weken bij als je alleen adopteert (of 4 weken te verdelen tussen twee adoptieouders), 2 weken bij meerdere kinderen tegelijk, en het verlof verdubbelt voor een kind met een erkende handicap. Tijdens het verlof mag je niet werken.",
+        "deadline": "Begin ten vroegste op de dag dat het kind op je adres wordt ingeschreven en ten laatste 2 maanden later (bij een internationale adoptie mag je vroeger beginnen om het kind op te halen).",
+        "amount": "€642,83 bruto per week (sinds 1 sep 2026), in één keer betaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier van je ziekenfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de centrale autoriteit van de gemeenschap, of de erkenning van de buitenlandse adoptie"
+          }
+        ],
+        "steps": [
+          "Vraag het formulier voor adoptieverlof aan je ziekenfonds",
+          "Vermeld de begindatum en het aantal volledige weken (minstens 1) dat je zonder onderbreking wil opnemen",
+          "Voeg de adoptiedocumenten toe en, indien van toepassing, het attest over de handicap van het kind",
+          "Je ziekenfonds betaalt de uitkering ten laatste 1 maand na het begin van het verlof",
+          "Meld je ziekenfonds binnen 2 dagen wanneer je je activiteit hervat"
+        ]
+      },
+      "fr": {
+        "title": "Congé et allocation d'adoption pour indépendants",
+        "desc": "Les indépendants qui adoptent un enfant mineur reçoivent de leur mutualité une allocation forfaitaire hebdomadaire pour 6 semaines de congé d'adoption au maximum, versée en une fois. S'y ajoutent 4 semaines si vous adoptez seul(e) (ou 4 semaines à partager entre deux parents adoptifs), 2 semaines pour plusieurs enfants à la fois, et le congé double pour un enfant avec un handicap reconnu. Vous ne pouvez pas travailler pendant le congé.",
+        "deadline": "Commencez au plus tôt le jour où l'enfant est inscrit à votre adresse et au plus tard 2 mois après (en cas d'adoption internationale, vous pouvez commencer plus tôt pour aller chercher l'enfant).",
+        "amount": "642,83 € brut par semaine (depuis le 1er sept. 2026), versé en une fois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande de votre mutualité"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de l'autorité centrale communautaire, ou reconnaissance de l'adoption étrangère"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire de congé d'adoption à votre mutualité",
+          "Indiquez la date de début et le nombre de semaines entières (au moins 1) à prendre sans interruption",
+          "Joignez les documents d'adoption et, le cas échéant, l'attestation sur le handicap de l'enfant",
+          "Votre mutualité verse l'allocation au plus tard 1 mois après le début du congé",
+          "Informez votre mutualité dans les 2 jours quand vous reprenez votre activité"
+        ]
+      },
+      "de": {
+        "title": "Adoptionsurlaub und -leistung für Selbstständige",
+        "desc": "Selbstständige, die ein minderjähriges Kind adoptieren, erhalten von ihrer Krankenkasse eine wöchentliche Pauschalleistung für bis zu 6 Wochen Adoptionsurlaub, in einem Betrag gezahlt. Dazu kommen 4 Wochen, wenn Sie allein adoptieren (oder 4 Wochen aufzuteilen zwischen zwei Adoptiveltern), 2 Wochen bei mehreren Kindern zugleich, und der Urlaub verdoppelt sich bei einem Kind mit anerkannter Behinderung. Während des Urlaubs dürfen Sie nicht arbeiten.",
+        "deadline": "Beginnen Sie frühestens an dem Tag, an dem das Kind an Ihrer Adresse eingetragen wird, und spätestens 2 Monate danach (bei internationaler Adoption früher, um das Kind abzuholen).",
+        "amount": "642,83 € brutto pro Woche (seit 1. Sept. 2026), in einem Betrag gezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular Ihrer Krankenkasse"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung der zentralen Behörde der Gemeinschaft oder Anerkennung der ausländischen Adoption"
+          }
+        ],
+        "steps": [
+          "Fragen Sie Ihre Krankenkasse nach dem Formular für den Adoptionsurlaub",
+          "Geben Sie Beginn und Zahl der ganzen Wochen (mindestens 1) an, die Sie ohne Unterbrechung nehmen",
+          "Fügen Sie die Adoptionsunterlagen und gegebenenfalls die Bescheinigung über die Behinderung des Kindes bei",
+          "Ihre Krankenkasse zahlt spätestens 1 Monat nach Beginn des Urlaubs",
+          "Melden Sie der Krankenkasse innerhalb von 2 Tagen die Wiederaufnahme Ihrer Tätigkeit"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/geboorteverlof-en-adoptieverlof/adoptieverlof-voor-zelfstandigen",
+      "conditions": {
+        "en": [
+          "You are self-employed and adopt a minor child.",
+          "You stop your professional activity during the leave (volunteering and some local mandates are allowed)."
+        ],
+        "nl": [
+          "Je bent zelfstandige en adopteert een minderjarig kind.",
+          "Je stopt je beroepsactiviteit tijdens het verlof (vrijwilligerswerk en sommige lokale mandaten mogen wel)."
+        ],
+        "fr": [
+          "Vous êtes indépendant(e) et adoptez un enfant mineur.",
+          "Vous arrêtez votre activité professionnelle pendant le congé (le volontariat et certains mandats locaux restent permis)."
+        ],
+        "de": [
+          "Sie sind selbstständig und adoptieren ein minderjähriges Kind.",
+          "Sie stellen Ihre Berufstätigkeit während des Urlaubs ein (Ehrenamt und einige lokale Mandate sind erlaubt)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 158,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Financiën / SPF Finances",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://fin.belgium.be/nl/particulieren/belastingvoordelen/pensioensparen",
+    "content": {
+      "en": {
+        "title": "Tax Reduction for Pension Savings",
+        "desc": "If you save in a pension savings plan at a bank or insurer, part of what you pay in comes back through your tax return. Save up to €1,050 for 30%, or between €1,050 and €1,350 for 25% (the 25% only pays off above €1,260). Only one contract per year counts; partners taxed jointly each have their own maximum. You only get the reduction up to the tax you owe.",
+        "deadline": "Through your yearly tax return; the amount is usually pre-filled (code 1361/2361).",
+        "amount": "2026: up to €315 (30% of €1,050) or €337.50 (25% of €1,350)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate 281.60 from your bank or insurer"
+          }
+        ],
+        "steps": [
+          "Open a pension savings contract of at least 10 years in your own name",
+          "Pay in up to €1,050 or €1,350 a year",
+          "Check the amount from certificate 281.60 in your tax return (code 1361/2361)",
+          "If you have several contracts, choose one for that year"
+        ]
+      },
+      "nl": {
+        "title": "Belastingvermindering voor pensioensparen",
+        "desc": "Spaar je in een pensioenspaarplan bij een bank of verzekeraar, dan krijg je een deel van je stortingen terug via je belastingaangifte. Spaar tot €1.050 voor 30%, of tussen €1.050 en €1.350 voor 25% (de 25% is pas voordeliger boven €1.260). Per jaar telt maar één contract; samen belaste partners hebben elk hun eigen maximum. Je krijgt de vermindering maar tot het bedrag van je belasting.",
+        "deadline": "Via je jaarlijkse belastingaangifte; het bedrag is meestal vooraf ingevuld (code 1361/2361).",
+        "amount": "2026: tot €315 (30% van €1.050) of €337,50 (25% van €1.350)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest 281.60 van je bank of verzekeraar"
+          }
+        ],
+        "steps": [
+          "Sluit op eigen naam een pensioenspaarcontract af met een looptijd van minstens 10 jaar",
+          "Stort maximaal €1.050 of €1.350 per jaar",
+          "Controleer het bedrag van attest 281.60 in je belastingaangifte (code 1361/2361)",
+          "Heb je meerdere contracten, kies er dan één voor dat jaar"
+        ]
+      },
+      "fr": {
+        "title": "Réduction d'impôt pour épargne-pension",
+        "desc": "Si vous épargnez dans un plan d'épargne-pension auprès d'une banque ou d'un assureur, une partie de vos versements vous revient via votre déclaration d'impôt. Épargnez jusqu'à 1.050 € pour 30 %, ou entre 1.050 € et 1.350 € pour 25 % (les 25 % ne sont avantageux qu'au-delà de 1.260 €). Un seul contrat compte par an ; des partenaires imposés ensemble ont chacun leur maximum. La réduction est limitée à l'impôt dû.",
+        "deadline": "Via votre déclaration d'impôt annuelle ; le montant est en général prérempli (code 1361/2361).",
+        "amount": "2026 : jusqu'à 315 € (30 % de 1.050 €) ou 337,50 € (25 % de 1.350 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation 281.60 de votre banque ou assureur"
+          }
+        ],
+        "steps": [
+          "Souscrivez à votre nom un contrat d'épargne-pension d'au moins 10 ans",
+          "Versez au maximum 1.050 € ou 1.350 € par an",
+          "Vérifiez le montant de l'attestation 281.60 dans votre déclaration (code 1361/2361)",
+          "Si vous avez plusieurs contrats, choisissez-en un pour cette année"
+        ]
+      },
+      "de": {
+        "title": "Steuerermäßigung für Pensionssparen",
+        "desc": "Wenn Sie bei einer Bank oder Versicherung in einen Pensionssparplan einzahlen, erhalten Sie einen Teil über Ihre Steuererklärung zurück. Sparen Sie bis 1.050 € für 30 % oder zwischen 1.050 € und 1.350 € für 25 % (die 25 % lohnen sich erst über 1.260 €). Pro Jahr zählt nur ein Vertrag; gemeinsam veranlagte Partner haben je ihr eigenes Maximum. Die Ermäßigung ist auf Ihre geschuldete Steuer begrenzt.",
+        "deadline": "Über Ihre jährliche Steuererklärung; der Betrag ist meist vorausgefüllt (Code 1361/2361).",
+        "amount": "2026: bis 315 € (30 % von 1.050 €) oder 337,50 € (25 % von 1.350 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung 281.60 Ihrer Bank oder Versicherung"
+          }
+        ],
+        "steps": [
+          "Schließen Sie auf Ihren Namen einen Pensionssparvertrag mit mindestens 10 Jahren Laufzeit ab",
+          "Zahlen Sie höchstens 1.050 € oder 1.350 € pro Jahr ein",
+          "Prüfen Sie den Betrag der Bescheinigung 281.60 in Ihrer Steuererklärung (Code 1361/2361)",
+          "Haben Sie mehrere Verträge, wählen Sie einen für dieses Jahr"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://fin.belgium.be/nl/particulieren/belastingvoordelen/pensioensparen",
+      "conditions": {
+        "en": [
+          "When you signed the contract, you lived in Belgium or another EEA country and were at least 18 and under 65.",
+          "The contract runs at least 10 years, with you as beneficiary while alive (your spouse, legal partner or relatives up to the second degree on your death).",
+          "You owe income tax in Belgium, and you did not claim the reduction for buying employer shares in the same year."
+        ],
+        "nl": [
+          "Bij het afsluiten van het contract woonde je in België of een ander EER-land en was je minstens 18 en jonger dan 65.",
+          "Het contract loopt minstens 10 jaar, met jezelf als begunstigde bij leven (je echtgeno(o)t(e), wettelijk samenwonende partner of bloedverwanten tot de tweede graad bij overlijden).",
+          "Je betaalt personenbelasting in België, en je gaf in hetzelfde jaar niet de vermindering voor werkgeversaandelen aan."
+        ],
+        "fr": [
+          "À la signature du contrat, vous habitiez en Belgique ou dans un autre pays de l'EEE et aviez au moins 18 ans et moins de 65 ans.",
+          "Le contrat dure au moins 10 ans, avec vous-même comme bénéficiaire en cas de vie (votre conjoint, cohabitant légal ou parents jusqu'au deuxième degré en cas de décès).",
+          "Vous payez l'impôt des personnes physiques en Belgique, et n'avez pas demandé la même année la réduction pour actions de l'employeur."
+        ],
+        "de": [
+          "Bei Vertragsabschluss wohnten Sie in Belgien oder einem anderen EWR-Land und waren mindestens 18 und unter 65.",
+          "Der Vertrag läuft mindestens 10 Jahre, mit Ihnen als Begünstigtem zu Lebzeiten (Ehepartner, gesetzlich zusammenwohnender Partner oder Verwandte bis zum zweiten Grad im Todesfall).",
+          "Sie zahlen in Belgien Einkommensteuer und haben im selben Jahr nicht die Ermäßigung für Arbeitgeberaktien beantragt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 159,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Werkgever / Employeur (FOD WASO / SPF Emploi)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-6",
+    "content": {
+      "en": {
+        "title": "Guaranteed Wage during Illness",
+        "desc": "When you cannot work because of illness or an accident (not an occupational disease or work accident), your employer keeps paying you for the first 30 days. White-collar employees with a contract of at least 3 months get their full salary for 30 days. Blue-collar workers get 100% for days 1–7, 85.88% for days 8–14, and for days 15–30 a smaller part from the employer plus a health-fund benefit.",
+        "deadline": "Tell your employer at once and hand in the medical certificate within the deadline that applies at your company or under the law; otherwise you lose the wage for the days before.",
+        "amount": "First 30 days of illness: full salary (white-collar) or a fixed share (blue-collar)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate from your doctor"
+          }
+        ],
+        "steps": [
+          "Inform your employer immediately that you are unfit for work (and where you are staying if not at home)",
+          "Hand in the medical certificate within the deadline",
+          "Allow a check by the employer's control doctor",
+          "From day 31 (blue-collar workers partly from day 15) your health fund pays a benefit"
+        ]
+      },
+      "nl": {
+        "title": "Gewaarborgd loon bij ziekte",
+        "desc": "Kan je niet werken door ziekte of een ongeval (geen beroepsziekte of arbeidsongeval), dan blijft je werkgever je de eerste 30 dagen betalen. Bedienden met een contract van minstens 3 maanden krijgen 30 dagen hun volledige loon. Arbeiders krijgen 100% voor dag 1–7, 85,88% voor dag 8–14, en voor dag 15–30 een kleiner deel van de werkgever plus een uitkering van het ziekenfonds.",
+        "deadline": "Verwittig je werkgever onmiddellijk en bezorg het geneeskundig getuigschrift binnen de termijn die in je onderneming of volgens de wet geldt; anders verlies je het loon voor de dagen daarvoor.",
+        "amount": "Eerste 30 dagen ziekte: volledig loon (bedienden) of een vast deel (arbeiders)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Geneeskundig getuigschrift van je arts"
+          }
+        ],
+        "steps": [
+          "Verwittig je werkgever onmiddellijk dat je arbeidsongeschikt bent (en waar je verblijft als je niet thuis bent)",
+          "Bezorg het geneeskundig getuigschrift binnen de termijn",
+          "Werk mee aan een controle door de controlearts van de werkgever",
+          "Vanaf dag 31 (voor arbeiders deels vanaf dag 15) betaalt je ziekenfonds een uitkering"
+        ]
+      },
+      "fr": {
+        "title": "Salaire garanti en cas de maladie",
+        "desc": "Si vous ne pouvez pas travailler pour cause de maladie ou d'accident (hors maladie professionnelle ou accident du travail), votre employeur continue à vous payer pendant les 30 premiers jours. Les employés avec un contrat d'au moins 3 mois reçoivent leur salaire complet pendant 30 jours. Les ouvriers reçoivent 100 % les jours 1 à 7, 85,88 % les jours 8 à 14, et pour les jours 15 à 30 une part plus réduite de l'employeur plus une indemnité de la mutualité.",
+        "deadline": "Prévenez immédiatement votre employeur et remettez le certificat médical dans le délai prévu dans l'entreprise ou par la loi ; sinon vous perdez le salaire des jours précédents.",
+        "amount": "30 premiers jours de maladie : salaire complet (employés) ou une part fixe (ouvriers)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical de votre médecin"
+          }
+        ],
+        "steps": [
+          "Prévenez immédiatement votre employeur de votre incapacité (et de votre lieu de séjour si vous n'êtes pas chez vous)",
+          "Remettez le certificat médical dans le délai",
+          "Acceptez un contrôle par le médecin-contrôleur de l'employeur",
+          "À partir du jour 31 (pour les ouvriers en partie dès le jour 15), votre mutualité verse une indemnité"
+        ]
+      },
+      "de": {
+        "title": "Garantierter Lohn bei Krankheit",
+        "desc": "Können Sie wegen Krankheit oder Unfall (keine Berufskrankheit und kein Arbeitsunfall) nicht arbeiten, zahlt Ihr Arbeitgeber die ersten 30 Tage weiter. Angestellte mit einem Vertrag von mindestens 3 Monaten erhalten 30 Tage ihr volles Gehalt. Arbeiter erhalten 100 % für Tag 1–7, 85,88 % für Tag 8–14 und für Tag 15–30 einen kleineren Teil vom Arbeitgeber plus eine Leistung der Krankenkasse.",
+        "deadline": "Informieren Sie Ihren Arbeitgeber sofort und reichen Sie das ärztliche Attest innerhalb der im Betrieb oder gesetzlich geltenden Frist ein; sonst verlieren Sie den Lohn für die Tage davor.",
+        "amount": "Erste 30 Krankheitstage: volles Gehalt (Angestellte) oder fester Anteil (Arbeiter)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliches Attest Ihres Arztes"
+          }
+        ],
+        "steps": [
+          "Informieren Sie Ihren Arbeitgeber sofort über Ihre Arbeitsunfähigkeit (und Ihren Aufenthaltsort, wenn Sie nicht zu Hause sind)",
+          "Reichen Sie das ärztliche Attest fristgerecht ein",
+          "Lassen Sie eine Kontrolle durch den Kontrollarzt des Arbeitgebers zu",
+          "Ab Tag 31 (für Arbeiter teilweise ab Tag 15) zahlt Ihre Krankenkasse eine Leistung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-6",
+      "conditions": {
+        "en": [
+          "You are an employee on an employment contract and unfit for work because of illness or an accident other than an occupational disease or work accident.",
+          "Blue-collar workers, and white-collar employees on a contract under 3 months, must have worked for the company for at least 1 month without interruption.",
+          "You inform your employer at once, hand in the medical certificate on time and do not avoid the medical check."
+        ],
+        "nl": [
+          "Je bent werknemer met een arbeidsovereenkomst en arbeidsongeschikt door ziekte of een ongeval dat geen beroepsziekte of arbeidsongeval is.",
+          "Arbeiders, en bedienden met een contract van minder dan 3 maanden, moeten minstens 1 maand ononderbroken in dienst zijn.",
+          "Je verwittigt je werkgever onmiddellijk, bezorgt het geneeskundig getuigschrift op tijd en onttrekt je niet aan de medische controle."
+        ],
+        "fr": [
+          "Vous êtes salarié(e) sous contrat de travail et en incapacité pour cause de maladie ou d'accident autre qu'une maladie professionnelle ou un accident du travail.",
+          "Les ouvriers, et les employés sous contrat de moins de 3 mois, doivent compter au moins 1 mois de service ininterrompu.",
+          "Vous prévenez immédiatement votre employeur, remettez le certificat médical à temps et ne vous soustrayez pas au contrôle médical."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer mit Arbeitsvertrag und wegen Krankheit oder eines Unfalls arbeitsunfähig, der keine Berufskrankheit und kein Arbeitsunfall ist.",
+          "Arbeiter und Angestellte mit einem Vertrag unter 3 Monaten müssen mindestens 1 Monat ununterbrochen im Betrieb beschäftigt sein.",
+          "Sie informieren Ihren Arbeitgeber sofort, reichen das ärztliche Attest rechtzeitig ein und entziehen sich nicht der ärztlichen Kontrolle."
+        ]
+      }
+    }
+  },
+  {
+    "id": 160,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/hoe-vraag-ik-een-terugbetaling-voor-een-logopediebehandeling-aan",
+    "amount_source_url": "https://www.caami-hziv.fgov.be/nl/leden/terugbetaling-medische-kosten/terugbetalingen/logopedie",
+    "content": {
+      "en": {
+        "title": "Speech Therapy Reimbursement",
+        "desc": "Children, adults and older people can get speech therapy reimbursed for voice problems, hearing disorders and language and speech disorders, once the health fund's advisory doctor agrees. Approval usually covers two years and a set number of sessions, and can be extended if sessions are left. Children under 10 are only reimbursed for 30-minute sessions.",
+        "deadline": "The treatment must start within 60 days after the initial assessment, or the assessment is not reimbursed.",
+        "amount": "2026: €32.87 back on a 30-minute session of €38.37 (€36.37 with increased reimbursement)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription for the initial assessment"
+          },
+          {
+            "type": "doc",
+            "label": "Specialist's prescription for the treatment"
+          },
+          {
+            "type": "doc",
+            "label": "Assessment report signed by you"
+          }
+        ],
+        "steps": [
+          "Ask a doctor for a prescription for an initial speech therapy assessment (for dysphasia only a paediatric neurologist)",
+          "The speech therapist makes the assessment; some disorders need extra tests (e.g. a hearing test)",
+          "Ask the specialist named by your speech therapist for a prescription for the treatment",
+          "The speech therapist sends everything to your health fund; the advisory doctor decides",
+          "After each session, hand the certificate to your health fund for the refund"
+        ]
+      },
+      "nl": {
+        "title": "Terugbetaling van logopedie",
+        "desc": "Kinderen, volwassenen en ouderen kunnen logopedie terugbetaald krijgen bij stemproblemen, gehoorstoornissen en taal- en spraakstoornissen, als de adviserend arts van het ziekenfonds akkoord gaat. Het akkoord geldt meestal twee jaar voor een vast aantal sessies en kan verlengd worden als er nog sessies over zijn. Kinderen jonger dan 10 krijgen enkel sessies van 30 minuten terugbetaald.",
+        "deadline": "De behandeling moet binnen 60 dagen na het aanvangsbilan starten, anders wordt het bilan niet terugbetaald.",
+        "amount": "2026: €32,87 terug op een sessie van 30 minuten van €38,37 (€36,37 met verhoogde tegemoetkoming)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift voor het aanvangsbilan"
+          },
+          {
+            "type": "doc",
+            "label": "Voorschrift van een arts-specialist voor de behandeling"
+          },
+          {
+            "type": "doc",
+            "label": "Bilan, door jou ondertekend"
+          }
+        ],
+        "steps": [
+          "Vraag een arts een voorschrift voor een aanvangsbilan logopedie (voor dysfasie enkel een neuropediater)",
+          "De logopedist maakt het bilan; voor sommige stoornissen zijn extra onderzoeken nodig (bv. een gehoortest)",
+          "Vraag de arts-specialist die je logopedist aanwijst om een voorschrift voor de behandeling",
+          "De logopedist bezorgt alles aan je ziekenfonds; de adviserend arts beslist",
+          "Na elke sessie bezorg je het getuigschrift aan je ziekenfonds voor de terugbetaling"
+        ]
+      },
+      "fr": {
+        "title": "Remboursement de la logopédie",
+        "desc": "Enfants, adultes et personnes âgées peuvent obtenir le remboursement de la logopédie pour des troubles de la voix, de l'audition, du langage et de la parole, si le médecin-conseil de la mutualité marque son accord. L'accord vaut en général deux ans pour un nombre fixe de séances et peut être prolongé s'il reste des séances. Les enfants de moins de 10 ans ne sont remboursés que pour des séances de 30 minutes.",
+        "deadline": "Le traitement doit commencer dans les 60 jours après le bilan initial, sinon le bilan n'est pas remboursé.",
+        "amount": "2026 : 32,87 € remboursés sur une séance de 30 minutes à 38,37 € (36,37 € avec l'intervention majorée)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription pour le bilan initial"
+          },
+          {
+            "type": "doc",
+            "label": "Prescription d'un médecin spécialiste pour le traitement"
+          },
+          {
+            "type": "doc",
+            "label": "Bilan signé par vous"
+          }
+        ],
+        "steps": [
+          "Demandez à un médecin une prescription pour un bilan logopédique initial (pour la dysphasie, uniquement un neuropédiatre)",
+          "Le logopède réalise le bilan ; certains troubles exigent des examens supplémentaires (p. ex. un test auditif)",
+          "Demandez au spécialiste indiqué par votre logopède une prescription pour le traitement",
+          "Le logopède envoie le tout à votre mutualité ; le médecin-conseil décide",
+          "Après chaque séance, remettez l'attestation à votre mutualité pour le remboursement"
+        ]
+      },
+      "de": {
+        "title": "Erstattung von Logopädie",
+        "desc": "Kinder, Erwachsene und ältere Menschen können Logopädie bei Stimmproblemen, Hörstörungen sowie Sprach- und Sprechstörungen erstattet bekommen, wenn der beratende Arzt der Krankenkasse zustimmt. Die Zustimmung gilt meist zwei Jahre für eine feste Zahl an Sitzungen und kann verlängert werden, wenn noch Sitzungen übrig sind. Kinder unter 10 erhalten nur 30-Minuten-Sitzungen erstattet.",
+        "deadline": "Die Behandlung muss innerhalb von 60 Tagen nach der Erstbilanz beginnen, sonst wird die Bilanz nicht erstattet.",
+        "amount": "2026: 32,87 € zurück bei einer 30-Minuten-Sitzung zu 38,37 € (36,37 € mit erhöhter Beteiligung)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verordnung für die Erstbilanz"
+          },
+          {
+            "type": "doc",
+            "label": "Verordnung eines Facharztes für die Behandlung"
+          },
+          {
+            "type": "doc",
+            "label": "Von Ihnen unterschriebene Bilanz"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von einem Arzt eine Erstbilanz Logopädie verordnen (bei Dysphasie nur von einem Neuropädiater)",
+          "Der Logopäde erstellt die Bilanz; bei manchen Störungen sind zusätzliche Tests nötig (z. B. ein Hörtest)",
+          "Lassen Sie sich von dem Facharzt, den Ihr Logopäde nennt, die Behandlung verordnen",
+          "Der Logopäde schickt alles an Ihre Krankenkasse; der beratende Arzt entscheidet",
+          "Nach jeder Sitzung geben Sie die Bescheinigung für die Erstattung an Ihre Krankenkasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/hoe-vraag-ik-een-terugbetaling-voor-een-logopediebehandeling-aan",
+        "https://www.caami-hziv.fgov.be/nl/leden/terugbetaling-medische-kosten/terugbetalingen/logopedie"
+      ],
+      "conditions": {
+        "en": [
+          "You are insured with a Belgian health fund and have a voice, hearing, language or speech disorder covered by the rules (some disorders have extra conditions).",
+          "A doctor prescribed the assessment and a specialist prescribed the treatment, and the advisory doctor of your health fund approved it."
+        ],
+        "nl": [
+          "Je bent aangesloten bij een Belgisch ziekenfonds en hebt een stem-, gehoor-, taal- of spraakstoornis die onder de regeling valt (voor sommige stoornissen gelden extra voorwaarden).",
+          "Een arts schreef het bilan voor en een arts-specialist de behandeling, en de adviserend arts van je ziekenfonds gaf akkoord."
+        ],
+        "fr": [
+          "Vous êtes affilié(e) à une mutualité belge et avez un trouble de la voix, de l'audition, du langage ou de la parole couvert par la réglementation (certains troubles ont des conditions supplémentaires).",
+          "Un médecin a prescrit le bilan et un spécialiste le traitement, et le médecin-conseil de votre mutualité a donné son accord."
+        ],
+        "de": [
+          "Sie sind bei einer belgischen Krankenkasse versichert und haben eine Stimm-, Hör-, Sprach- oder Sprechstörung, die unter die Regelung fällt (für manche Störungen gelten zusätzliche Bedingungen).",
+          "Ein Arzt hat die Bilanz und ein Facharzt die Behandlung verordnet, und der beratende Arzt Ihrer Krankenkasse hat zugestimmt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 161,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Financiën / SPF Finances",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://fin.belgium.be/nl/particulieren/betalen-terugkrijgen/moeilijkheden-betalen/alternatieve-mogelijkheden/onbeperkt-uitstel-en-vrijstelling-van-nalatigheidsinteresten",
+    "content": {
+      "en": {
+        "title": "Indefinite Deferral of Tax Debt Collection",
+        "desc": "If you will not be able to pay your tax debts even in the long run, FOD Financiën can stop collecting them for good, on conditions such as paying a set amount within a set period. From the moment you send the request until the decision, you cannot be forced to pay those debts. Separately, people in serious financial difficulty can ask to be exempted fully or partly from late-payment interest.",
+        "deadline": "No deadline; you get a reasoned decision within about six months. You can appeal within one month.",
+        "amount": "Collection stops for good if you meet the conditions in the decision",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Form 'Onbeperkt uitstel van invordering' (or 'Vrijstelling van nalatigheidsinteresten')"
+          }
+        ],
+        "steps": [
+          "Download the form or ask your Team Invordering for it",
+          "Send it by registered post to your Regional Collection Centre",
+          "Keep the acknowledgement of receipt",
+          "If the decision is positive, meet its conditions (for example, pay the set amount on time)",
+          "If you disagree, appeal in writing within one month to the appeals committee of FOD Financiën"
+        ]
+      },
+      "nl": {
+        "title": "Onbeperkt uitstel van invordering van belastingschulden",
+        "desc": "Kan je je belastingschulden ook op lange termijn niet betalen, dan kan de FOD Financiën de invordering definitief stopzetten, onder voorwaarden zoals een vastgesteld bedrag betalen binnen een termijn. Vanaf het versturen van je vraag tot de beslissing kan je niet gedwongen worden die schulden te betalen. Daarnaast kan wie het financieel erg moeilijk heeft vragen om geheel of gedeeltelijk vrijgesteld te worden van nalatigheidsinteresten.",
+        "deadline": "Geen termijn; je krijgt in principe binnen zes maanden een gemotiveerde beslissing. Beroep kan binnen de maand.",
+        "amount": "Invordering stopt definitief als je de voorwaarden uit de beslissing naleeft",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier 'Onbeperkt uitstel van invordering' (of 'Vrijstelling van nalatigheidsinteresten')"
+          }
+        ],
+        "steps": [
+          "Download het formulier of vraag het aan je Team Invordering",
+          "Stuur het aangetekend naar je Regionaal Invorderingscentrum",
+          "Bewaar de ontvangstbevestiging",
+          "Is de beslissing positief, leef dan de voorwaarden na (bijvoorbeeld het vastgestelde bedrag op tijd betalen)",
+          "Ben je het niet eens, dien dan binnen de maand schriftelijk beroep in bij de beroepscommissie van de FOD Financiën"
+        ]
+      },
+      "fr": {
+        "title": "Surséance indéfinie au recouvrement des dettes fiscales",
+        "desc": "Si vous ne pourrez pas payer vos dettes fiscales même à long terme, le SPF Finances peut arrêter définitivement leur recouvrement, à des conditions comme le paiement d'un montant fixé dans un délai. Dès l'envoi de votre demande et jusqu'à la décision, vous ne pouvez pas être contraint(e) de payer ces dettes. Par ailleurs, les personnes en grande difficulté financière peuvent demander une exonération totale ou partielle des intérêts de retard.",
+        "deadline": "Pas de délai ; vous recevez en principe une décision motivée dans les six mois. Recours possible dans le mois.",
+        "amount": "Le recouvrement s'arrête définitivement si vous respectez les conditions de la décision",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire « Surséance indéfinie au recouvrement » (ou « Exonération des intérêts de retard »)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire ou demandez-le à votre Team Recouvrement",
+          "Envoyez-le par recommandé à votre Centre régional de recouvrement",
+          "Conservez l'accusé de réception",
+          "Si la décision est positive, respectez ses conditions (par exemple payer à temps le montant fixé)",
+          "En cas de désaccord, introduisez un recours écrit dans le mois auprès de la commission de recours du SPF Finances"
+        ]
+      },
+      "de": {
+        "title": "Unbefristeter Aufschub der Beitreibung von Steuerschulden",
+        "desc": "Können Sie Ihre Steuerschulden auch langfristig nicht bezahlen, kann der FÖD Finanzen die Beitreibung endgültig einstellen, unter Bedingungen wie der Zahlung eines festgelegten Betrags innerhalb einer Frist. Ab dem Versand Ihres Antrags bis zur Entscheidung können Sie nicht zur Zahlung dieser Schulden gezwungen werden. Außerdem können Menschen in großen finanziellen Schwierigkeiten eine ganze oder teilweise Befreiung von Verzugszinsen beantragen.",
+        "deadline": "Keine Frist; Sie erhalten grundsätzlich innerhalb von sechs Monaten eine begründete Entscheidung. Einspruch innerhalb eines Monats möglich.",
+        "amount": "Die Beitreibung endet endgültig, wenn Sie die Bedingungen der Entscheidung erfüllen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular „Onbeperkt uitstel van invordering“ / „Surséance indéfinie“ (oder Befreiung von Verzugszinsen)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular herunter oder fordern Sie es bei Ihrem Team Beitreibung an",
+          "Senden Sie es per Einschreiben an Ihr regionales Beitreibungszentrum",
+          "Bewahren Sie die Empfangsbestätigung auf",
+          "Ist die Entscheidung positiv, erfüllen Sie deren Bedingungen (etwa den festgelegten Betrag rechtzeitig zahlen)",
+          "Sind Sie nicht einverstanden, legen Sie innerhalb eines Monats schriftlich Einspruch bei der Einspruchskommission des FÖD Finanzen ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://fin.belgium.be/nl/particulieren/betalen-terugkrijgen/moeilijkheden-betalen/alternatieve-mogelijkheden/onbeperkt-uitstel-en-vrijstelling-van-nalatigheidsinteresten",
+      "conditions": {
+        "en": [
+          "You are a private individual who is not in collective debt settlement, bankruptcy or judicial reorganisation.",
+          "You are 'unfortunate and in good faith': you cannot pay your debts even in the long run, without having organised your own insolvency.",
+          "You did not get indefinite deferral in the five years before your request.",
+          "The taxes are not disputed and do not result from tax fraud (older income tax and VAT debts from before 2020 have extra limits)."
+        ],
+        "nl": [
+          "Je bent een privépersoon zonder collectieve schuldenregeling, faillissement of gerechtelijke reorganisatie.",
+          "Je bent 'ongelukkig en te goeder trouw': je kan je schulden ook op lange termijn niet betalen, zonder je onvermogen zelf te hebben georganiseerd.",
+          "Je kreeg in de vijf jaar vóór je verzoek geen onbeperkt uitstel.",
+          "De belastingen worden niet betwist en komen niet voort uit fiscale fraude (voor oudere schulden in inkomstenbelasting en btw van vóór 2020 gelden extra beperkingen)."
+        ],
+        "fr": [
+          "Vous êtes un particulier sans règlement collectif de dettes, faillite ni réorganisation judiciaire.",
+          "Vous êtes « malheureux et de bonne foi » : vous ne pouvez pas payer vos dettes même à long terme, sans avoir organisé votre insolvabilité.",
+          "Vous n'avez pas obtenu de surséance indéfinie dans les cinq ans précédant votre demande.",
+          "Les impôts ne sont pas contestés et ne résultent pas d'une fraude fiscale (des limites supplémentaires s'appliquent aux anciennes dettes d'impôt sur les revenus et de TVA antérieures à 2020)."
+        ],
+        "de": [
+          "Sie sind eine Privatperson ohne kollektive Schuldenregelung, Konkurs oder gerichtliche Reorganisation.",
+          "Sie sind „unglücklich und gutgläubig“: Sie können Ihre Schulden auch langfristig nicht bezahlen, ohne Ihre Zahlungsunfähigkeit selbst herbeigeführt zu haben.",
+          "Sie haben in den fünf Jahren vor Ihrem Antrag keinen unbefristeten Aufschub erhalten.",
+          "Die Steuern sind nicht angefochten und beruhen nicht auf Steuerbetrug (für ältere Einkommensteuer- und Mehrwertsteuerschulden vor 2020 gelten zusätzliche Grenzen)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 162,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Fonds voor de Medische Ongevallen / Fonds des accidents médicaux (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/medische-ongevallen/een-aanvraag-indienen",
+    "amount_source_url": "https://www.riziv.fgov.be/nl/thema-s/medische-ongevallen/ons-advies-over-de-aansprakelijkheid-en-de-weerslag-op-de-vergoeding",
+    "request_url": "https://webapps.riziv-inami.fgov.be/damov2-poema-fo/",
+    "content": {
+      "en": {
+        "title": "Compensation for Medical Accidents (FMO)",
+        "desc": "If you suffered harm from healthcare, the Fund for Medical Accidents examines your case for free and gives a reasoned opinion on whether a care provider is liable. If so, it asks the provider's insurer to compensate you (and pays itself if the insurer does not cover it or refuses). If no one is liable but the harm is abnormal and serious, the Fund compensates you itself.",
+        "deadline": "Only for harm caused by care given on or after 2 April 2010.",
+        "amount": "Full compensation for the harm, minus what your health insurance or other insurance pays",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Description of the event, the harm and the care providers involved"
+          },
+          {
+            "type": "doc",
+            "label": "Details of other compensation, insurers and court cases"
+          }
+        ],
+        "steps": [
+          "Check that your case meets the conditions and is not one of the situations the Fund cannot handle",
+          "Apply online (where you can follow your file) or by registered post to the Fund for Medical Accidents, Galileelaan 5/01, 1210 Brussels",
+          "A case manager analyses your file; a medical expertise may be organised",
+          "You get a reasoned opinion on liability, then the compensation procedure follows"
+        ]
+      },
+      "nl": {
+        "title": "Vergoeding bij medische ongevallen (FMO)",
+        "desc": "Liep je schade op door gezondheidszorg, dan onderzoekt het Fonds voor de Medische Ongevallen je dossier gratis en geeft het een gemotiveerd advies over de aansprakelijkheid van de zorgverlener. Is die aansprakelijk, dan vraagt het de verzekeraar van de zorgverlener om je te vergoeden (en betaalt het zelf als de verzekering niet dekt of weigert). Is niemand aansprakelijk maar is de schade abnormaal en ernstig, dan vergoedt het Fonds zelf.",
+        "deadline": "Enkel voor schade door zorg verleend vanaf 2 april 2010.",
+        "amount": "Volledige schadevergoeding, min wat je ziekteverzekering of een andere verzekering betaalt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Beschrijving van de gebeurtenis, de schade en de betrokken zorgverleners"
+          },
+          {
+            "type": "doc",
+            "label": "Gegevens over andere vergoedingen, verzekeraars en rechtszaken"
+          }
+        ],
+        "steps": [
+          "Controleer of je dossier aan de voorwaarden voldoet en niet onder de situaties valt waarvoor het Fonds niet bevoegd is",
+          "Dien online in (dan kan je je dossier volgen) of aangetekend bij het Fonds voor de Medische Ongevallen, Galileelaan 5/01, 1210 Brussel",
+          "Een dossierbeheerder analyseert je dossier; er kan een medische expertise volgen",
+          "Je krijgt een gemotiveerd advies over de aansprakelijkheid, daarna volgt de procedure voor de vergoeding"
+        ]
+      },
+      "fr": {
+        "title": "Indemnisation des accidents médicaux (FAM)",
+        "desc": "Si vous avez subi un dommage causé par des soins de santé, le Fonds des accidents médicaux examine gratuitement votre dossier et rend un avis motivé sur la responsabilité du prestataire. S'il est responsable, le Fonds demande à son assureur de vous indemniser (et paie lui-même si l'assurance ne couvre pas ou refuse). Si personne n'est responsable mais que le dommage est anormal et grave, le Fonds vous indemnise lui-même.",
+        "deadline": "Uniquement pour un dommage causé par des soins prestés à partir du 2 avril 2010.",
+        "amount": "Indemnisation complète du dommage, moins ce que paient l'assurance soins de santé ou une autre assurance",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Description de l'événement, du dommage et des prestataires concernés"
+          },
+          {
+            "type": "doc",
+            "label": "Informations sur d'autres indemnisations, assureurs et procédures judiciaires"
+          }
+        ],
+        "steps": [
+          "Vérifiez que votre dossier remplit les conditions et ne relève pas des situations pour lesquelles le Fonds n'est pas compétent",
+          "Introduisez la demande en ligne (avec suivi du dossier) ou par recommandé au Fonds des accidents médicaux, avenue Galilée 5/01, 1210 Bruxelles",
+          "Un gestionnaire analyse votre dossier ; une expertise médicale peut être organisée",
+          "Vous recevez un avis motivé sur la responsabilité, puis la procédure d'indemnisation suit"
+        ]
+      },
+      "de": {
+        "title": "Entschädigung bei medizinischen Unfällen (FMU)",
+        "desc": "Haben Sie durch Gesundheitsversorgung einen Schaden erlitten, prüft der Fonds für medizinische Unfälle Ihre Akte kostenlos und gibt eine begründete Stellungnahme zur Haftung des Leistungserbringers ab. Haftet dieser, fordert der Fonds dessen Versicherer zur Entschädigung auf (und zahlt selbst, wenn die Versicherung nicht deckt oder ablehnt). Haftet niemand, ist der Schaden aber abnormal und schwer, entschädigt der Fonds selbst.",
+        "deadline": "Nur für Schäden durch Versorgung ab dem 2. April 2010.",
+        "amount": "Volle Entschädigung des Schadens, abzüglich dessen, was Krankenversicherung oder andere Versicherungen zahlen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Beschreibung des Ereignisses, des Schadens und der beteiligten Leistungserbringer"
+          },
+          {
+            "type": "doc",
+            "label": "Angaben zu anderen Entschädigungen, Versicherern und Gerichtsverfahren"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie, ob Ihr Fall die Bedingungen erfüllt und nicht zu den Situationen gehört, für die der Fonds nicht zuständig ist",
+          "Beantragen Sie online (mit Verfolgung Ihrer Akte) oder per Einschreiben beim Fonds für medizinische Unfälle, Galileelaan 5/01, 1210 Brüssel",
+          "Ein Sachbearbeiter prüft Ihre Akte; eine medizinische Begutachtung ist möglich",
+          "Sie erhalten eine begründete Stellungnahme zur Haftung, danach folgt das Entschädigungsverfahren"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/medische-ongevallen/een-aanvraag-indienen",
+      "conditions": {
+        "en": [
+          "The harm results from healthcare given on or after 2 April 2010.",
+          "Either a care provider is liable, or it is a medical accident without liability that is not due to your own condition, is abnormal, and is serious: at least 25% permanent invalidity, at least 6 months unfit for work (within 12 months), particularly serious harm to your living conditions, or death.",
+          "The patient, the patient's heirs or representative, or relatives for their own harm can apply."
+        ],
+        "nl": [
+          "De schade is het gevolg van gezondheidszorg verleend vanaf 2 april 2010.",
+          "Ofwel is een zorgverlener aansprakelijk, ofwel gaat het om een medisch ongeval zonder aansprakelijkheid dat niet door je eigen toestand komt, abnormaal is en ernstig: minstens 25% blijvende invaliditeit, minstens 6 maanden arbeidsongeschiktheid (binnen 12 maanden), bijzonder zware schade voor je levensomstandigheden, of overlijden.",
+          "De patiënt, de rechthebbenden of mandataris van de patiënt, of naasten voor hun eigen schade kunnen een aanvraag indienen."
+        ],
+        "fr": [
+          "Le dommage résulte de soins de santé prestés à partir du 2 avril 2010.",
+          "Soit un prestataire est responsable, soit il s'agit d'un accident médical sans responsabilité qui n'est pas dû à votre état, est anormal et grave : au moins 25 % d'invalidité permanente, au moins 6 mois d'incapacité de travail (sur 12 mois), un dommage particulièrement grave pour vos conditions de vie, ou le décès.",
+          "Le patient, ses ayants droit ou son mandataire, ou ses proches pour leur propre dommage peuvent introduire une demande."
+        ],
+        "de": [
+          "Der Schaden beruht auf einer Gesundheitsversorgung ab dem 2. April 2010.",
+          "Entweder haftet ein Leistungserbringer, oder es ist ein medizinischer Unfall ohne Haftung, der nicht auf Ihren eigenen Zustand zurückgeht, abnormal und schwer ist: mindestens 25 % bleibende Invalidität, mindestens 6 Monate Arbeitsunfähigkeit (innerhalb von 12 Monaten), besonders schwere Folgen für Ihre Lebensumstände oder Tod.",
+          "Antragsberechtigt sind der Patient, seine Rechtsnachfolger oder Bevollmächtigten sowie Angehörige für ihren eigenen Schaden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 163,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-thuis-enterale-sondevoeding",
+    "content": {
+      "en": {
+        "title": "Tube Feeding at Home (Enteral Nutrition)",
+        "desc": "For patients who cannot eat by mouth and are fed through a tube at home, health insurance pays a daily lump sum for the feeding, the material and the pump, for the diseases and conditions on the RIZIV list. The refund is never higher than what you paid.",
+        "deadline": "Your doctor applies; after approval you hand in your paid invoices.",
+        "amount": "Per day €5.46 (polymeric) or €19.98 (semi-elemental/elemental) feeding, plus pump and material",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form filled in by your treating doctor"
+          },
+          {
+            "type": "doc",
+            "label": "Paid invoices"
+          }
+        ],
+        "steps": [
+          "Ask your treating doctor to fill in the application form (new form from 1 September 2026)",
+          "Give the form to your health fund; the advisory doctor examines it",
+          "If approved, you receive an authorisation",
+          "Hand in the paid invoices at your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Sondevoeding thuis (enterale voeding)",
+        "desc": "Voor patiënten die niet via de mond kunnen eten en thuis via een sonde gevoed worden, betaalt de ziekteverzekering een dagforfait terug voor de voeding, het materiaal en de pomp, bij de ziekten en voorwaarden op de lijst van het RIZIV. De terugbetaling is nooit hoger dan wat je betaalde.",
+        "deadline": "Je arts dient de aanvraag in; na goedkeuring bezorg je je betaalde facturen.",
+        "amount": "Per dag €5,46 (polymeer) of €19,98 (semi-elementair/elementair) voor de voeding, plus pomp en materiaal",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier ingevuld door je behandelende arts"
+          },
+          {
+            "type": "doc",
+            "label": "Betaalde facturen"
+          }
+        ],
+        "steps": [
+          "Vraag je behandelende arts het aanvraagformulier in te vullen (nieuw formulier vanaf 1 september 2026)",
+          "Bezorg het formulier aan je ziekenfonds; de adviserend arts onderzoekt het",
+          "Bij goedkeuring krijg je een machtiging",
+          "Dien de betaalde facturen in bij je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Alimentation par sonde à domicile (nutrition entérale)",
+        "desc": "Pour les patients qui ne peuvent pas s'alimenter par la bouche et sont nourris par sonde à domicile, l'assurance soins de santé rembourse un forfait journalier pour l'alimentation, le matériel et la pompe, pour les maladies et conditions de la liste de l'INAMI. Le remboursement ne dépasse jamais ce que vous avez payé.",
+        "deadline": "Votre médecin introduit la demande ; après accord, vous remettez vos factures payées.",
+        "amount": "Par jour 5,46 € (polymérique) ou 19,98 € (semi-élémentaire/élémentaire) pour l'alimentation, plus pompe et matériel",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande rempli par votre médecin traitant"
+          },
+          {
+            "type": "doc",
+            "label": "Factures payées"
+          }
+        ],
+        "steps": [
+          "Demandez à votre médecin traitant de remplir le formulaire (nouveau formulaire dès le 1er septembre 2026)",
+          "Remettez le formulaire à votre mutualité ; le médecin-conseil l'examine",
+          "En cas d'accord, vous recevez une autorisation",
+          "Remettez les factures payées à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Sondenernährung zu Hause (enterale Ernährung)",
+        "desc": "Für Patienten, die nicht über den Mund essen können und zu Hause über eine Sonde ernährt werden, zahlt die Krankenversicherung eine Tagespauschale für Nahrung, Material und Pumpe, bei den Krankheiten und Bedingungen der LIKIV-Liste. Die Erstattung ist nie höher als Ihre Ausgaben.",
+        "deadline": "Ihr Arzt stellt den Antrag; nach Zustimmung reichen Sie die bezahlten Rechnungen ein.",
+        "amount": "Pro Tag 5,46 € (polymer) oder 19,98 € (semi-elementar/elementar) für die Nahrung, plus Pumpe und Material",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, von Ihrem behandelnden Arzt ausgefüllt"
+          },
+          {
+            "type": "doc",
+            "label": "Bezahlte Rechnungen"
+          }
+        ],
+        "steps": [
+          "Lassen Sie Ihren behandelnden Arzt das Antragsformular ausfüllen (neues Formular ab 1. September 2026)",
+          "Geben Sie das Formular Ihrer Krankenkasse; der beratende Arzt prüft es",
+          "Bei Zustimmung erhalten Sie eine Genehmigung",
+          "Reichen Sie die bezahlten Rechnungen bei Ihrer Krankenkasse ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-thuis-enterale-sondevoeding",
+      "conditions": {
+        "en": [
+          "You cannot feed yourself by mouth and are fed through a tube at home.",
+          "You have one of the diseases or meet the conditions on the RIZIV list, and the advisory doctor of your health fund approves."
+        ],
+        "nl": [
+          "Je kan je niet via de mond voeden en wordt thuis via een sonde gevoed.",
+          "Je hebt een van de ziekten of voldoet aan de voorwaarden op de lijst van het RIZIV, en de adviserend arts van je ziekenfonds geeft akkoord."
+        ],
+        "fr": [
+          "Vous ne pouvez pas vous alimenter par la bouche et êtes nourri(e) par sonde à domicile.",
+          "Vous avez l'une des maladies ou remplissez les conditions de la liste de l'INAMI, et le médecin-conseil de votre mutualité donne son accord."
+        ],
+        "de": [
+          "Sie können sich nicht über den Mund ernähren und werden zu Hause über eine Sonde ernährt.",
+          "Sie haben eine der Krankheiten oder erfüllen die Bedingungen der LIKIV-Liste, und der beratende Arzt Ihrer Krankenkasse stimmt zu."
+        ]
+      }
+    }
+  },
+  {
+    "id": 164,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-thuis-parenterale-voeding",
+    "content": {
+      "en": {
+        "title": "Intravenous Feeding at Home (Parenteral Nutrition)",
+        "desc": "Health insurance pays all or part of preparing and giving parenteral (intravenous) nutrition at home, and also fluids and electrolytes, for the diseases and indications on the RIZIV list. The pump is included in the lump sum; the stand is not. The hospital bills your health fund directly.",
+        "deadline": "Your specialist applies; after approval the hospital handles the billing.",
+        "amount": "Daily lump sum; you pay a personal share per day (€0.62 on 1 Jan 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form filled in by your treating specialist"
+          }
+        ],
+        "steps": [
+          "Ask your treating specialist to fill in the application form",
+          "Give the form to your health fund; the advisory doctor examines it",
+          "If approved, you receive an authorisation",
+          "The hospital pays the costs and recovers the insurance share from your health fund"
+        ]
+      },
+      "nl": {
+        "title": "Voeding via de ader thuis (parenterale voeding)",
+        "desc": "De ziekteverzekering betaalt de bereiding en toediening van parenterale voeding thuis volledig of gedeeltelijk terug, en ook vocht en elektrolyten, bij de ziekten en indicaties op de lijst van het RIZIV. De pomp zit in het forfait, de staander niet. Het ziekenhuis rekent rechtstreeks af met je ziekenfonds.",
+        "deadline": "Je arts-specialist dient de aanvraag in; na goedkeuring regelt het ziekenhuis de facturatie.",
+        "amount": "Dagforfait; je betaalt een persoonlijk aandeel per dag (€0,62 op 1 jan 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier ingevuld door je behandelende arts-specialist"
+          }
+        ],
+        "steps": [
+          "Vraag je behandelende arts-specialist het aanvraagformulier in te vullen",
+          "Bezorg het formulier aan je ziekenfonds; de adviserend arts onderzoekt het",
+          "Bij goedkeuring krijg je een machtiging",
+          "Het ziekenhuis betaalt de kosten en vordert het deel van de verzekering terug van je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Alimentation intraveineuse à domicile (nutrition parentérale)",
+        "desc": "L'assurance soins de santé rembourse totalement ou partiellement la préparation et l'administration de la nutrition parentérale à domicile, ainsi que les liquides et électrolytes, pour les maladies et indications de la liste de l'INAMI. La pompe est comprise dans le forfait, le pied à perfusion non. L'hôpital facture directement votre mutualité.",
+        "deadline": "Votre spécialiste introduit la demande ; après accord, l'hôpital s'occupe de la facturation.",
+        "amount": "Forfait journalier ; vous payez une quote-part par jour (0,62 € au 1er janv. 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande rempli par votre médecin spécialiste"
+          }
+        ],
+        "steps": [
+          "Demandez à votre spécialiste traitant de remplir le formulaire de demande",
+          "Remettez le formulaire à votre mutualité ; le médecin-conseil l'examine",
+          "En cas d'accord, vous recevez une autorisation",
+          "L'hôpital paie les frais et récupère la part de l'assurance auprès de votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Intravenöse Ernährung zu Hause (parenterale Ernährung)",
+        "desc": "Die Krankenversicherung erstattet Zubereitung und Gabe parenteraler Ernährung zu Hause ganz oder teilweise, ebenso Flüssigkeit und Elektrolyte, bei den Krankheiten und Indikationen der LIKIV-Liste. Die Pumpe ist in der Pauschale enthalten, der Ständer nicht. Das Krankenhaus rechnet direkt mit Ihrer Krankenkasse ab.",
+        "deadline": "Ihr Facharzt stellt den Antrag; nach Zustimmung übernimmt das Krankenhaus die Abrechnung.",
+        "amount": "Tagespauschale; Sie zahlen einen Eigenanteil pro Tag (0,62 € am 1. Jan. 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, von Ihrem behandelnden Facharzt ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Lassen Sie Ihren behandelnden Facharzt das Antragsformular ausfüllen",
+          "Geben Sie das Formular Ihrer Krankenkasse; der beratende Arzt prüft es",
+          "Bei Zustimmung erhalten Sie eine Genehmigung",
+          "Das Krankenhaus zahlt die Kosten und fordert den Versicherungsanteil bei Ihrer Krankenkasse zurück"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/medische-voeding-thuis-parenterale-voeding",
+      "conditions": {
+        "en": [
+          "You receive parenteral nutrition and/or fluids and electrolytes at home, prescribed by a doctor and supplied by a pharmacist.",
+          "You have one of the diseases or indications on the RIZIV list, and the advisory doctor of your health fund approves."
+        ],
+        "nl": [
+          "Je krijgt thuis parenterale voeding en/of vocht en elektrolyten, voorgeschreven door een arts en afgeleverd door een apotheker.",
+          "Je hebt een van de ziekten of indicaties op de lijst van het RIZIV, en de adviserend arts van je ziekenfonds geeft akkoord."
+        ],
+        "fr": [
+          "Vous recevez à domicile une nutrition parentérale et/ou des liquides et électrolytes, prescrits par un médecin et délivrés par un pharmacien.",
+          "Vous avez l'une des maladies ou indications de la liste de l'INAMI, et le médecin-conseil de votre mutualité donne son accord."
+        ],
+        "de": [
+          "Sie erhalten zu Hause parenterale Ernährung und/oder Flüssigkeit und Elektrolyte, ärztlich verordnet und von einem Apotheker geliefert.",
+          "Sie haben eine der Krankheiten oder Indikationen der LIKIV-Liste, und der beratende Arzt Ihrer Krankenkasse stimmt zu."
+        ]
+      }
+    }
+  },
+  {
+    "id": 165,
+    "category": "health",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/chronische-nierinsufficientie",
+    "content": {
+      "en": {
+        "title": "Special Food for Children with Chronic Kidney Failure",
+        "desc": "Health insurance pays a monthly lump sum towards special food products for children with chronic kidney failure on dialysis or with tubulopathy.",
+        "deadline": "Your child's specialist sends the notification to the health fund; payment follows every three months.",
+        "amount": "€30 a month, paid every three months",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notification of chronic kidney failure, filled in by the specialist"
+          }
+        ],
+        "steps": [
+          "Ask your child's treating specialist to fill in the notification of chronic kidney failure",
+          "The specialist sends it to the advisory doctor of your health fund",
+          "Your health fund pays €30 a month, every three months"
+        ]
+      },
+      "nl": {
+        "title": "Bijzondere voeding voor kinderen met chronische nierinsufficiëntie",
+        "desc": "De ziekteverzekering betaalt een maandelijks forfait voor bijzondere voedingsproducten voor kinderen met chronische nierinsufficiëntie onder dialyse of met tubulopathie.",
+        "deadline": "De arts-specialist van je kind bezorgt de kennisgeving aan het ziekenfonds; de betaling volgt elk kwartaal.",
+        "amount": "€30 per maand, driemaandelijks betaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kennisgeving van chronische nierinsufficiëntie, ingevuld door de arts-specialist"
+          }
+        ],
+        "steps": [
+          "Vraag de behandelende arts-specialist van je kind de kennisgeving van chronische nierinsufficiëntie in te vullen",
+          "De arts-specialist bezorgt ze aan de adviserend arts van je ziekenfonds",
+          "Je ziekenfonds betaalt €30 per maand, per drie maanden"
+        ]
+      },
+      "fr": {
+        "title": "Alimentation spéciale pour enfants en insuffisance rénale chronique",
+        "desc": "L'assurance soins de santé verse un forfait mensuel pour les produits alimentaires spéciaux des enfants en insuffisance rénale chronique sous dialyse ou atteints de tubulopathie.",
+        "deadline": "Le spécialiste de votre enfant envoie la notification à la mutualité ; le paiement suit chaque trimestre.",
+        "amount": "30 € par mois, versés par trimestre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notification d'insuffisance rénale chronique, remplie par le spécialiste"
+          }
+        ],
+        "steps": [
+          "Demandez au spécialiste traitant de votre enfant de remplir la notification d'insuffisance rénale chronique",
+          "Le spécialiste l'envoie au médecin-conseil de votre mutualité",
+          "Votre mutualité verse 30 € par mois, par trimestre"
+        ]
+      },
+      "de": {
+        "title": "Spezialnahrung für Kinder mit chronischer Niereninsuffizienz",
+        "desc": "Die Krankenversicherung zahlt eine monatliche Pauschale für spezielle Nahrungsmittel für Kinder mit chronischer Niereninsuffizienz unter Dialyse oder mit Tubulopathie.",
+        "deadline": "Der Facharzt Ihres Kindes schickt die Mitteilung an die Krankenkasse; die Zahlung erfolgt vierteljährlich.",
+        "amount": "30 € pro Monat, vierteljährlich gezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Mitteilung über chronische Niereninsuffizienz, vom Facharzt ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Lassen Sie den behandelnden Facharzt Ihres Kindes die Mitteilung über chronische Niereninsuffizienz ausfüllen",
+          "Der Facharzt schickt sie an den beratenden Arzt Ihrer Krankenkasse",
+          "Ihre Krankenkasse zahlt 30 € pro Monat, vierteljährlich"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/chronische-nierinsufficientie",
+      "conditions": {
+        "en": [
+          "The child is under 18.",
+          "The child has chronic kidney failure on dialysis or tubulopathy, diagnosed by a paediatric specialist working in a recognised paediatric nephrology centre."
+        ],
+        "nl": [
+          "Het kind is jonger dan 18 jaar.",
+          "Het kind heeft chronische nierinsufficiëntie onder dialyse of tubulopathie, vastgesteld door een arts-specialist kindergeneeskunde in een erkend centrum voor pediatrische nefrologie."
+        ],
+        "fr": [
+          "L'enfant a moins de 18 ans.",
+          "L'enfant souffre d'insuffisance rénale chronique sous dialyse ou de tubulopathie, diagnostiquée par un pédiatre travaillant dans un centre agréé de néphrologie pédiatrique."
+        ],
+        "de": [
+          "Das Kind ist unter 18 Jahre alt.",
+          "Das Kind hat chronische Niereninsuffizienz unter Dialyse oder Tubulopathie, festgestellt von einem Facharzt für Kinderheilkunde in einem anerkannten Zentrum für pädiatrische Nephrologie."
+        ]
+      }
+    }
+  },
+  {
+    "id": 166,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/zeldzame-monogenische-erfelijke-metabole-ziekten",
+    "content": {
+      "en": {
+        "title": "Special Food for Rare Inherited Metabolic Diseases",
+        "desc": "Health insurance contributes to special food used at home by patients with a rare inherited (monogenic) disorder of amino acid metabolism or of the breakdown of long or very long fatty-acid chains, or with Smith-Lemli-Opitz syndrome. In the first year the maximum is reduced by €220.55 for each full month before your first reimbursed invoice.",
+        "deadline": "Hand the completed prescription form, which serves as a paid invoice, to your health fund.",
+        "amount": "Up to €2,646.60 a calendar year (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription form filled in by the leading doctor of the specialised centre and completed by the pharmacist"
+          }
+        ],
+        "steps": [
+          "Follow rehabilitation for your metabolic disease in a specialised centre with a RIZIV agreement",
+          "The leading doctor of the centre fills in the prescription form",
+          "The pharmacist supplies the products and completes the form",
+          "Hand the form to your health fund for the refund"
+        ]
+      },
+      "nl": {
+        "title": "Bijzondere voeding bij zeldzame erfelijke metabole ziekten",
+        "desc": "De ziekteverzekering komt tussen in bijzondere voeding die thuis gebruikt wordt door patiënten met een zeldzame erfelijke (monogenetische) stoornis van het aminozuurmetabolisme of van de afbraak van lange of zeer lange vetzuurketens, of met het syndroom van Smith-Lemli-Opitz. Het eerste jaar wordt het maximum verminderd met €220,55 per volledige maand vóór je eerste terugbetaalde factuur.",
+        "deadline": "Bezorg het ingevulde voorschriftformulier, dat geldt als voldane factuur, aan je ziekenfonds.",
+        "amount": "Tot €2.646,60 per kalenderjaar (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschriftformulier ingevuld door de leidende arts van het gespecialiseerd centrum en aangevuld door de apotheker"
+          }
+        ],
+        "steps": [
+          "Volg revalidatie voor je metabole ziekte in een gespecialiseerd centrum met een overeenkomst met het RIZIV",
+          "De leidende arts van het centrum vult het voorschriftformulier in",
+          "De apotheker levert de producten en vult het formulier aan",
+          "Bezorg het formulier aan je ziekenfonds voor de terugbetaling"
+        ]
+      },
+      "fr": {
+        "title": "Alimentation spéciale pour maladies métaboliques héréditaires rares",
+        "desc": "L'assurance soins de santé intervient dans l'alimentation spéciale utilisée à domicile par les patients atteints d'un trouble héréditaire (monogénique) rare du métabolisme des acides aminés ou de la dégradation des chaînes longues ou très longues d'acides gras, ou du syndrome de Smith-Lemli-Opitz. La première année, le maximum est réduit de 220,55 € par mois complet avant votre première facture remboursée.",
+        "deadline": "Remettez à votre mutualité le formulaire de prescription complété, qui vaut facture acquittée.",
+        "amount": "Jusqu'à 2.646,60 € par année civile (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de prescription rempli par le médecin responsable du centre spécialisé et complété par le pharmacien"
+          }
+        ],
+        "steps": [
+          "Suivez une rééducation pour votre maladie métabolique dans un centre spécialisé conventionné avec l'INAMI",
+          "Le médecin responsable du centre remplit le formulaire de prescription",
+          "Le pharmacien délivre les produits et complète le formulaire",
+          "Remettez le formulaire à votre mutualité pour le remboursement"
+        ]
+      },
+      "de": {
+        "title": "Spezialnahrung bei seltenen erblichen Stoffwechselkrankheiten",
+        "desc": "Die Krankenversicherung beteiligt sich an Spezialnahrung, die zu Hause von Patienten mit einer seltenen erblichen (monogenen) Störung des Aminosäurestoffwechsels oder des Abbaus langer oder sehr langer Fettsäureketten oder mit Smith-Lemli-Opitz-Syndrom verwendet wird. Im ersten Jahr verringert sich der Höchstbetrag um 220,55 € je vollem Monat vor Ihrer ersten erstatteten Rechnung.",
+        "deadline": "Geben Sie das ausgefüllte Verordnungsformular, das als quittierte Rechnung gilt, Ihrer Krankenkasse.",
+        "amount": "Bis 2.646,60 € pro Kalenderjahr (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verordnungsformular, vom leitenden Arzt des Fachzentrums ausgefüllt und vom Apotheker ergänzt"
+          }
+        ],
+        "steps": [
+          "Folgen Sie einer Rehabilitation für Ihre Stoffwechselkrankheit in einem Fachzentrum mit LIKIV-Vereinbarung",
+          "Der leitende Arzt des Zentrums füllt das Verordnungsformular aus",
+          "Der Apotheker liefert die Produkte und ergänzt das Formular",
+          "Geben Sie das Formular für die Erstattung Ihrer Krankenkasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/bijzondere-voeding-specifieke-aandoeningen/zeldzame-monogenische-erfelijke-metabole-ziekten",
+      "conditions": {
+        "en": [
+          "You have a rare inherited monogenic disorder of amino acid metabolism or of mitochondrial beta-oxidation of long or very long fatty-acid chains, or Smith-Lemli-Opitz syndrome.",
+          "You follow rehabilitation for it in a specialised centre with a RIZIV agreement, and use the food products at home on that centre's prescription."
+        ],
+        "nl": [
+          "Je hebt een zeldzame erfelijke monogenetische stoornis van het aminozuurmetabolisme of van de mitochondriale bèta-oxidatie van lange of zeer lange vetzuurketens, of het syndroom van Smith-Lemli-Opitz.",
+          "Je volgt daarvoor revalidatie in een gespecialiseerd centrum met een overeenkomst met het RIZIV, en gebruikt de voedingsproducten thuis op voorschrift van dat centrum."
+        ],
+        "fr": [
+          "Vous êtes atteint(e) d'un trouble héréditaire monogénique rare du métabolisme des acides aminés ou de la bêta-oxydation mitochondriale des chaînes longues ou très longues d'acides gras, ou du syndrome de Smith-Lemli-Opitz.",
+          "Vous suivez une rééducation pour cela dans un centre spécialisé conventionné avec l'INAMI et utilisez les produits à domicile sur prescription de ce centre."
+        ],
+        "de": [
+          "Sie haben eine seltene erbliche monogene Störung des Aminosäurestoffwechsels oder der mitochondrialen Beta-Oxidation langer oder sehr langer Fettsäureketten oder das Smith-Lemli-Opitz-Syndrom.",
+          "Sie folgen dafür einer Rehabilitation in einem Fachzentrum mit LIKIV-Vereinbarung und verwenden die Nahrungsmittel zu Hause auf Verordnung dieses Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 167,
+    "category": "health",
+    "situations": [
+      "pregnancy",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/vruchtbaarheidsstoornissen",
+    "content": {
+      "en": {
+        "title": "Fertility Medicines (Lump-Sum Reimbursement)",
+        "desc": "Health insurance reimburses certain medicines used for fertility problems through a fixed amount per treatment, whatever the medicine actually costs: for IVF, egg donation, follicle stimulation or intrauterine insemination (IUI). The hospital pharmacist supplies them.",
+        "deadline": "Your health fund's advisory doctor must authorise it before the hospital pharmacist can bill it.",
+        "amount": "Nothing to pay, or only the personal share, depending on the case",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form filled in by your treating doctor (form A1 for IVF or egg donation, B1 for follicle stimulation or IUI)"
+          }
+        ],
+        "steps": [
+          "Your treating doctor fills in the application form and gives it to you",
+          "Hand it to your health fund; the advisory doctor examines it",
+          "If approved, you receive a paper authorisation",
+          "Your doctor fills in the billing form for the hospital pharmacist, who supplies the medicines"
+        ]
+      },
+      "nl": {
+        "title": "Geneesmiddelen bij vruchtbaarheidsstoornissen (forfait)",
+        "desc": "De ziekteverzekering vergoedt bepaalde geneesmiddelen bij vruchtbaarheidsstoornissen via een vast bedrag per behandeling, ongeacht de echte kostprijs: bij IVF, eiceldonatie, follikelgroeistimulatie of intra-uteriene inseminatie (IUI). De ziekenhuisapotheker levert ze af.",
+        "deadline": "De adviserend arts van je ziekenfonds moet een machtiging geven voor de ziekenhuisapotheker kan factureren.",
+        "amount": "Niets te betalen, of enkel het remgeld, naargelang het geval",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier ingevuld door je behandelende arts (formulier A1 bij IVF of eiceldonatie, B1 bij follikelgroeistimulatie of IUI)"
+          }
+        ],
+        "steps": [
+          "Je behandelende arts vult het aanvraagformulier in en geeft het aan jou",
+          "Bezorg het aan je ziekenfonds; de adviserend arts onderzoekt het",
+          "Bij goedkeuring krijg je een machtiging op papier",
+          "Je arts vult het facturatieformulier in voor de ziekenhuisapotheker, die de geneesmiddelen aflevert"
+        ]
+      },
+      "fr": {
+        "title": "Médicaments contre les troubles de la fertilité (forfait)",
+        "desc": "L'assurance soins de santé rembourse certains médicaments utilisés contre les troubles de la fertilité via un montant fixe par traitement, quel que soit leur coût réel : pour une FIV, un don d'ovocytes, une stimulation folliculaire ou une insémination intra-utérine (IIU). Le pharmacien hospitalier les délivre.",
+        "deadline": "Le médecin-conseil de votre mutualité doit donner une autorisation avant que le pharmacien hospitalier puisse facturer.",
+        "amount": "Rien à payer, ou seulement le ticket modérateur, selon le cas",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande rempli par votre médecin traitant (A1 pour FIV ou don d'ovocytes, B1 pour stimulation folliculaire ou IIU)"
+          }
+        ],
+        "steps": [
+          "Votre médecin traitant remplit le formulaire de demande et vous le remet",
+          "Remettez-le à votre mutualité ; le médecin-conseil l'examine",
+          "En cas d'accord, vous recevez une autorisation sur papier",
+          "Votre médecin remplit le formulaire de facturation pour le pharmacien hospitalier, qui délivre les médicaments"
+        ]
+      },
+      "de": {
+        "title": "Arzneimittel bei Fruchtbarkeitsstörungen (Pauschale)",
+        "desc": "Die Krankenversicherung erstattet bestimmte Arzneimittel bei Fruchtbarkeitsstörungen über einen festen Betrag pro Behandlung, unabhängig vom tatsächlichen Preis: bei IVF, Eizellspende, Follikelstimulation oder intrauteriner Insemination (IUI). Der Krankenhausapotheker gibt sie ab.",
+        "deadline": "Der beratende Arzt Ihrer Krankenkasse muss eine Genehmigung erteilen, bevor der Krankenhausapotheker abrechnen kann.",
+        "amount": "Nichts zu zahlen oder nur der Eigenanteil, je nach Fall",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, von Ihrem behandelnden Arzt ausgefüllt (A1 bei IVF oder Eizellspende, B1 bei Follikelstimulation oder IUI)"
+          }
+        ],
+        "steps": [
+          "Ihr behandelnder Arzt füllt das Antragsformular aus und gibt es Ihnen",
+          "Geben Sie es Ihrer Krankenkasse; der beratende Arzt prüft es",
+          "Bei Zustimmung erhalten Sie eine Genehmigung auf Papier",
+          "Ihr Arzt füllt das Abrechnungsformular für den Krankenhausapotheker aus, der die Arzneimittel abgibt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/vruchtbaarheidsstoornissen",
+      "conditions": {
+        "en": [
+          "You follow IVF, egg donation, follicle stimulation or IUI treatment, and a doctor prescribes the medicines.",
+          "The reimbursement conditions are met and the advisory doctor of your health fund authorises it."
+        ],
+        "nl": [
+          "Je volgt een behandeling met IVF, eiceldonatie, follikelgroeistimulatie of IUI, en een arts schrijft de geneesmiddelen voor.",
+          "De vergoedingsvoorwaarden zijn vervuld en de adviserend arts van je ziekenfonds geeft een machtiging."
+        ],
+        "fr": [
+          "Vous suivez un traitement de FIV, don d'ovocytes, stimulation folliculaire ou IIU, et un médecin prescrit les médicaments.",
+          "Les conditions de remboursement sont remplies et le médecin-conseil de votre mutualité donne une autorisation."
+        ],
+        "de": [
+          "Sie folgen einer Behandlung mit IVF, Eizellspende, Follikelstimulation oder IUI, und ein Arzt verordnet die Arzneimittel.",
+          "Die Erstattungsbedingungen sind erfüllt und der beratende Arzt Ihrer Krankenkasse erteilt eine Genehmigung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 168,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-van-continue-glucosemonitoring-in-een-gespecialiseerd-centrum",
+    "content": {
+      "en": {
+        "title": "Continuous Glucose Monitoring in a Specialised Centre",
+        "desc": "People with diabetes on an insulin pump who still struggle to control their blood sugar can get continuous glucose monitoring through one of 17 specialised centres. The centre provides the receiver, transmitter, sensors and batteries, plus training and follow-up.",
+        "deadline": "The centre checks the conditions and sends the application to your health fund; treatment starts after approval.",
+        "amount": "Material and follow-up free; you pay the personal share for consultations and disposables such as plasters",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form, filled in and sent by the specialised centre"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on the RIZIV list",
+          "The centre's doctors decide whether monitoring is useful for you",
+          "The centre fills in the application form and submits it to your health fund",
+          "After approval, the centre provides the material, training and follow-up"
+        ]
+      },
+      "nl": {
+        "title": "Continue glucosemonitoring in een gespecialiseerd centrum",
+        "desc": "Diabetespatiënten met een insulinepomp die hun bloedsuiker nog moeilijk onder controle krijgen, kunnen continue glucosemonitoring krijgen via een van de 17 gespecialiseerde centra. Het centrum zorgt voor ontvanger, zender, sensoren en batterijen, en voor opleiding en begeleiding.",
+        "deadline": "Het centrum controleert de voorwaarden en dient de aanvraag in bij je ziekenfonds; de behandeling start na akkoord.",
+        "amount": "Materiaal en begeleiding gratis; je betaalt remgeld voor raadplegingen en wegwerpmateriaal zoals pleisters",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier, ingevuld en ingediend door het gespecialiseerd centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "De artsen van het centrum beslissen of monitoring voor jou nuttig is",
+          "Het centrum vult het aanvraagformulier in en dient het in bij je ziekenfonds",
+          "Na akkoord zorgt het centrum voor materiaal, opleiding en begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Monitoring continu du glucose dans un centre spécialisé",
+        "desc": "Les personnes diabétiques sous pompe à insuline qui peinent encore à contrôler leur glycémie peuvent bénéficier d'un monitoring continu du glucose via l'un des 17 centres spécialisés. Le centre fournit récepteur, émetteur, capteurs et piles, ainsi que la formation et le suivi.",
+        "deadline": "Le centre vérifie les conditions et introduit la demande auprès de votre mutualité ; le traitement commence après accord.",
+        "amount": "Matériel et suivi gratuits ; vous payez le ticket modérateur pour les consultations et le matériel jetable comme les pansements",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande, rempli et introduit par le centre spécialisé"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Les médecins du centre décident si le monitoring vous est utile",
+          "Le centre remplit le formulaire de demande et l'introduit auprès de votre mutualité",
+          "Après accord, le centre fournit le matériel, la formation et le suivi"
+        ]
+      },
+      "de": {
+        "title": "Kontinuierliche Glukosemessung in einem Fachzentrum",
+        "desc": "Diabetiker mit Insulinpumpe, die ihren Blutzucker weiterhin schwer kontrollieren, können über eines von 17 Fachzentren eine kontinuierliche Glukosemessung erhalten. Das Zentrum stellt Empfänger, Sender, Sensoren und Batterien sowie Schulung und Begleitung.",
+        "deadline": "Das Zentrum prüft die Bedingungen und reicht den Antrag bei Ihrer Krankenkasse ein; die Behandlung beginnt nach Zustimmung.",
+        "amount": "Material und Begleitung kostenlos; Sie zahlen den Eigenanteil für Konsultationen und Einwegmaterial wie Pflaster",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, vom Fachzentrum ausgefüllt und eingereicht"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Die Ärzte des Zentrums entscheiden, ob die Messung für Sie sinnvoll ist",
+          "Das Zentrum füllt das Antragsformular aus und reicht es bei Ihrer Krankenkasse ein",
+          "Nach Zustimmung stellt das Zentrum Material, Schulung und Begleitung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/diabetes-tegemoetkoming-in-de-kosten-van-continue-glucosemonitoring-in-een-gespecialiseerd-centrum",
+      "conditions": {
+        "en": [
+          "You have diabetes and are already treated with an insulin pump under the RIZIV agreement (for adults, or for children and adolescents).",
+          "You already follow a self-regulation programme, still have trouble controlling your blood sugar, and are motivated to follow the treatment.",
+          "The doctors of the specialised centre select you, and your health fund approves."
+        ],
+        "nl": [
+          "Je hebt diabetes en wordt al behandeld met een insulinepomp binnen de RIZIV-overeenkomst (voor volwassenen, of voor kinderen en adolescenten).",
+          "Je volgt al een programma voor zelfregulatie, hebt nog altijd problemen om je bloedsuiker onder controle te houden, en bent gemotiveerd om de behandeling te volgen.",
+          "De artsen van het gespecialiseerd centrum selecteren je, en je ziekenfonds gaat akkoord."
+        ],
+        "fr": [
+          "Vous êtes diabétique et déjà traité(e) par pompe à insuline dans le cadre de la convention INAMI (pour adultes, ou pour enfants et adolescents).",
+          "Vous suivez déjà un programme d'autogestion, avez encore du mal à contrôler votre glycémie et êtes motivé(e) à suivre le traitement.",
+          "Les médecins du centre spécialisé vous sélectionnent, et votre mutualité donne son accord."
+        ],
+        "de": [
+          "Sie haben Diabetes und werden bereits mit einer Insulinpumpe im Rahmen der LIKIV-Vereinbarung behandelt (für Erwachsene oder für Kinder und Jugendliche).",
+          "Sie folgen bereits einem Selbstregulierungsprogramm, haben weiterhin Probleme, Ihren Blutzucker zu kontrollieren, und sind motiviert, die Behandlung zu befolgen.",
+          "Die Ärzte des Fachzentrums wählen Sie aus, und Ihre Krankenkasse stimmt zu."
+        ]
+      }
+    }
+  },
+  {
+    "id": 169,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/ademhalingsondersteuning-thuis",
+    "content": {
+      "en": {
+        "title": "Breathing Support at Home (Home Ventilation)",
+        "desc": "If you can no longer breathe sufficiently, a specialised centre can provide a breathing support device for long-term use at home. The centre installs, maintains and replaces the device, provides the other material (except cannulas with a tracheostomy) and trains you and your carers.",
+        "deadline": "The centre checks the conditions and applies to your health fund; treatment starts after approval. Tests may require a hospital stay first.",
+        "amount": "No personal share for the device and material; you pay the personal share for doctor consultations",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form and medical report, filled in by the specialised centre"
+          }
+        ],
+        "steps": [
+          "Contact a specialised centre for home ventilation on the RIZIV list",
+          "The centre checks whether you meet the conditions (sometimes after sleep tests in hospital)",
+          "The centre sends the application and medical report to your health fund",
+          "After approval, the centre installs the device at home and trains you"
+        ]
+      },
+      "nl": {
+        "title": "Ademhalingsondersteuning thuis",
+        "desc": "Kan je niet meer voldoende ademen, dan kan een gespecialiseerd centrum je een toestel voor ademhalingsondersteuning geven om thuis langdurig te gebruiken. Het centrum installeert, onderhoudt en vervangt het toestel, levert het andere materiaal (behalve canules bij tracheostomie) en leert jou en je zorgverleners ermee werken.",
+        "deadline": "Het centrum controleert de voorwaarden en dient de aanvraag in bij je ziekenfonds; de behandeling start na akkoord. Soms is eerst een ziekenhuisopname nodig voor onderzoeken.",
+        "amount": "Geen remgeld voor toestel en materiaal; je betaalt wel remgeld voor raadplegingen bij de arts",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier en medisch verslag, ingevuld door het gespecialiseerd centrum"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een gespecialiseerd centrum voor ademhalingsondersteuning thuis op de lijst van het RIZIV",
+          "Het centrum gaat na of je aan de voorwaarden voldoet (soms na slaaponderzoek in het ziekenhuis)",
+          "Het centrum bezorgt de aanvraag en het medisch verslag aan je ziekenfonds",
+          "Na akkoord installeert het centrum het toestel thuis en leert het je ermee werken"
+        ]
+      },
+      "fr": {
+        "title": "Assistance respiratoire à domicile",
+        "desc": "Si vous ne pouvez plus respirer suffisamment, un centre spécialisé peut vous fournir un appareil d'assistance respiratoire à utiliser longtemps à domicile. Le centre installe, entretient et remplace l'appareil, fournit le reste du matériel (sauf les canules en cas de trachéotomie) et vous forme, vous et vos soignants.",
+        "deadline": "Le centre vérifie les conditions et introduit la demande auprès de votre mutualité ; le traitement commence après accord. Une hospitalisation pour examens est parfois nécessaire d'abord.",
+        "amount": "Pas de ticket modérateur pour l'appareil et le matériel ; vous payez le ticket modérateur des consultations",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande et rapport médical, remplis par le centre spécialisé"
+          }
+        ],
+        "steps": [
+          "Contactez un centre spécialisé en assistance respiratoire à domicile de la liste de l'INAMI",
+          "Le centre vérifie si vous remplissez les conditions (parfois après des examens du sommeil à l'hôpital)",
+          "Le centre envoie la demande et le rapport médical à votre mutualité",
+          "Après accord, le centre installe l'appareil chez vous et vous forme"
+        ]
+      },
+      "de": {
+        "title": "Atemunterstützung zu Hause",
+        "desc": "Können Sie nicht mehr ausreichend atmen, kann ein Fachzentrum Ihnen ein Gerät zur Atemunterstützung für die langfristige Nutzung zu Hause stellen. Das Zentrum installiert, wartet und ersetzt das Gerät, liefert das übrige Material (außer Kanülen bei Tracheostomie) und schult Sie und Ihre Pflegenden.",
+        "deadline": "Das Zentrum prüft die Bedingungen und stellt den Antrag bei Ihrer Krankenkasse; die Behandlung beginnt nach Zustimmung. Manchmal ist zuerst ein Krankenhausaufenthalt für Untersuchungen nötig.",
+        "amount": "Kein Eigenanteil für Gerät und Material; Sie zahlen den Eigenanteil für Arztkonsultationen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular und ärztlicher Bericht, vom Fachzentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an ein Fachzentrum für Atemunterstützung zu Hause auf der LIKIV-Liste",
+          "Das Zentrum prüft, ob Sie die Bedingungen erfüllen (manchmal nach Schlafuntersuchungen im Krankenhaus)",
+          "Das Zentrum schickt Antrag und ärztlichen Bericht an Ihre Krankenkasse",
+          "Nach Zustimmung installiert das Zentrum das Gerät bei Ihnen und schult Sie"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/ademhalingsondersteuning-thuis",
+      "conditions": {
+        "en": [
+          "You can no longer breathe sufficiently on your own and need long-term mechanical breathing support at home.",
+          "You meet the RIZIV medical conditions for the device concerned, as checked by a specialised centre, and your health fund approves."
+        ],
+        "nl": [
+          "Je kan zelf niet meer voldoende ademen en hebt langdurig mechanische ademhalingsondersteuning thuis nodig.",
+          "Je voldoet aan de medische voorwaarden van het RIZIV voor het betrokken toestel, nagegaan door een gespecialiseerd centrum, en je ziekenfonds gaat akkoord."
+        ],
+        "fr": [
+          "Vous ne pouvez plus respirer suffisamment par vous-même et avez besoin d'une assistance respiratoire mécanique de longue durée à domicile.",
+          "Vous remplissez les conditions médicales de l'INAMI pour l'appareil concerné, vérifiées par un centre spécialisé, et votre mutualité donne son accord."
+        ],
+        "de": [
+          "Sie können nicht mehr ausreichend selbst atmen und brauchen langfristig mechanische Atemunterstützung zu Hause.",
+          "Sie erfüllen die medizinischen LIKIV-Bedingungen für das betreffende Gerät, geprüft von einem Fachzentrum, und Ihre Krankenkasse stimmt zu."
+        ]
+      }
+    }
   }
 ]
