@@ -16,6 +16,7 @@
     "697": 96,
     "726": 90,
     "749": 87,
+    "804": 196,
     "807": 142,
     "808": 140,
     "809": 102,
@@ -49,6 +50,7 @@
     "1551": 128,
     "1564": 47,
     "1656": 105,
+    "1667": 199,
     "1764": 132,
     "1810": 45,
     "1939": 131,
@@ -74,6 +76,7 @@
     "2972": 125,
     "2974": 173,
     "2977": 180,
+    "2978": 195,
     "2980": 178,
     "2984": 174,
     "2985": 176,
@@ -81,9 +84,13 @@
     "2988": 169,
     "2995": 141,
     "2997": 121,
+    "2998": 198,
     "3008": 168,
     "3013": 181,
     "3016": 89,
+    "3027": 201,
+    "3028": 201,
+    "3030": 194,
     "3034": 118,
     "3036": 118,
     "3037": 184,
@@ -94,8 +101,10 @@
     "3052": 191,
     "3056": 123,
     "3057": 186,
+    "3059": 202,
     "3061": 157,
     "3062": 161,
+    "3063": 203,
     "3068": 25,
     "3071": 89,
     "3072": 94,
@@ -105,6 +114,7 @@
     "3077": 158,
     "3079": 179,
     "3080": 177,
+    "3082": 200,
     "3087": 159,
     "3099": 115,
     "3100": 155,
@@ -120,6 +130,7 @@
     "51544": 193,
     "75001": 130,
     "75018": 93,
+    "75020": 197,
     "75067": 136,
     "75762": 172,
     "75766": 190,
@@ -540,15 +551,6 @@
       ]
     },
     {
-      "nr": "2998",
-      "name": "Terugbetaling gepersonaliseerde follow-up door een huisapotheker",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/gepersonaliseerde-follow-up-door-een-huisapotheker"
-      ]
-    },
-    {
       "nr": "52892",
       "name": "Terugbetaling multidisciplinair zorgtraject voor jongeren met een eetstoornis",
       "level": "Federaal",
@@ -612,15 +614,6 @@
       ]
     },
     {
-      "nr": "3028",
-      "name": "Terugbetaling van verplaatsingskosten bij arbeidsongeval (privésector) (Fedris)",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.fedris.be/nl/formulier/terugbetaling-verplaatsingskosten-privesector"
-      ]
-    },
-    {
       "nr": "2981",
       "name": "Terugbetaling van verplaatsingskosten bij arbeidsongeval (publieke sector)",
       "level": "Federaal",
@@ -657,15 +650,6 @@
       ]
     },
     {
-      "nr": "804",
-      "name": "Tussenkomst in de kosten voor het vaccin tegen HPV",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.departementzorg.be/nl/infectieziekte/humaan-papillomavirus-hpv"
-      ]
-    },
-    {
       "nr": "3017",
       "name": "Tussenkomst in het programma van globale tenlasteneming voor patiënten met een ernstige neurologische ziekte in een gevorderd stadium",
       "level": "Federaal",
@@ -681,42 +665,6 @@
       "financial": true,
       "official": [
         "https://www.health.belgium.be/nl/medex/overheidspersoneel/arbeidsongevallen/herziening-en-verergering"
-      ]
-    },
-    {
-      "nr": "3030",
-      "name": "Vergoeding bij asbestziekte",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.asbestfonds.be/nl"
-      ]
-    },
-    {
-      "nr": "2978",
-      "name": "Vergoeding bij definitieve stopzetting van schadelijk werk",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.fedris.be/nl/themas/preventie-bz/stopzetting-van-werk-om-gezondheidsredenen"
-      ]
-    },
-    {
-      "nr": "3063",
-      "name": "Vergoeding van beengeleidingssystemen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-beengeleidingssystemen"
-      ]
-    },
-    {
-      "nr": "3059",
-      "name": "Vergoeding van cochleaire implantaten",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-cochleaire-implantaten"
       ]
     },
     {
@@ -759,25 +707,6 @@
       "level": "Federaal",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "3027",
-      "name": "Vergoeding voor blijvende arbeidsongeschiktheid na arbeidsongeval (privésector)",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.fedris.be/nl/themas/vergoedingen-ao/vergoedingen-de-privesector",
-        "https://www.socialsecurity.be/citizen/nl/arbeidsongeschiktheid-ongeval-en-beroepsziekte/vergoedingen-na-arbeidsongeval"
-      ]
-    },
-    {
-      "nr": "75020",
-      "name": "Vergoeding voor thuishospitalisatie voor oncologie en antimicrobiële behandeling",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/thuishospitalisatie-voor-oncologie-en-antimicrobiele-behandeling"
-      ]
     },
     {
       "nr": "3113",
@@ -860,15 +789,6 @@
       ]
     },
     {
-      "nr": "1667",
-      "name": "Abattement (vrijstelling) in de erfbelasting voor een erfopvolger met een handicap",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/abattement-in-de-erfbelasting-voor-een-erfopvolger-met-een-handicap"
-      ]
-    },
-    {
       "nr": "58345",
       "name": "Abattement op de schenkbelasting voor begiftigden met een handicap",
       "level": "Vlaams",
@@ -891,15 +811,6 @@
       "financial": true,
       "official": [
         "https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/salaris-onderwijspersoneel/vergoedingen-en-toelagen-voor-onderwijspersoneel/de-lerarenbonus"
-      ]
-    },
-    {
-      "nr": "3082",
-      "name": "Gratis begeleiding door een Multidisciplinaire BegeleidingsEquipe voor palliatieve verzorging (MBE)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.departementzorg.be/nl/wat-zijn-multidisciplinaire-begeleidingsequipes"
       ]
     },
     {

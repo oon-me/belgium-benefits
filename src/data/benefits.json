@@ -23748,5 +23748,1033 @@
         ]
       }
     }
+  },
+  {
+    "id": 194,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Asbestfonds / Fonds amiante (AFA)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.asbestfonds.be/nl/topics/ziek-door-asbest/wanneer-een-aanvraag-tot-vergoeding-indienen",
+    "amount_source_url": "https://www.asbestfonds.be/nl/topics/ziek-door-asbest/bedragen-en-vergoedingen",
+    "content": {
+      "en": {
+        "title": "Asbestos Fund Compensation",
+        "desc": "People exposed to asbestos in Belgium who develop mesothelioma, asbestosis, diffuse pleural thickening or asbestos-related lung, larynx or ovarian cancer can get compensation from the Asbestos Fund, whether they were employees, civil servants, self-employed or exposed at home. Other asbestos diseases: €23.65 a month per % of unfitness. After a death, the partner, ex-partner and children can get a lump sum, and whoever paid the funeral €1,293.60. Help from another person: €1,116.81 or €2,233.61 a month. All tax-free.",
+        "deadline": "Relatives have 6 months after the death to apply if the victim never did. Payment within 45 days of a positive decision.",
+        "amount": "Mesothelioma: €12,936 once plus €2,365.35 a month (from 1 Sep 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form"
+          },
+          {
+            "type": "doc",
+            "label": "Medical certificate filled in by your doctor, with the medical documents it asks for"
+          }
+        ],
+        "steps": [
+          "Download the application form and the medical certificate from the Asbestos Fund",
+          "Fill in the form yourself, describing where and when you were in contact with asbestos",
+          "Have your doctor fill in the medical certificate and add the medical documents",
+          "Send everything by post to Asbestfonds, Sterrenkundelaan 1, 1210 Brussels (an application to Fedris is checked automatically too)"
+        ]
+      },
+      "nl": {
+        "title": "Vergoeding door het Asbestfonds",
+        "desc": "Wie in België aan asbest werd blootgesteld en mesothelioom, asbestose, diffuse verdikkingen van het borstvlies of door asbest veroorzaakte long-, strottenhoofd- of eierstokkanker krijgt, kan een vergoeding krijgen van het Asbestfonds, als werknemer, ambtenaar, zelfstandige of door blootstelling thuis. Andere asbestziekten: €23,65 per maand per % arbeidsongeschiktheid. Na een overlijden kunnen partner, ex-partner en kinderen een kapitaal krijgen, en wie de begrafenis betaalde €1.293,60. Hulp van een derde: €1.116,81 of €2.233,61 per maand. Alles belastingvrij.",
+        "deadline": "Nabestaanden hebben 6 maanden na het overlijden om aan te vragen als het slachtoffer dat nooit deed. Betaling binnen 45 dagen na een positieve beslissing.",
+        "amount": "Mesothelioom: €12.936 eenmalig plus €2.365,35 per maand (vanaf 1 sep 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Medisch attest ingevuld door je arts, met de gevraagde medische documenten"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier en het medisch attest van het Asbestfonds",
+          "Vul het formulier zelf in en beschrijf waar en wanneer je met asbest in contact kwam",
+          "Laat je arts het medisch attest invullen en voeg de medische documenten toe",
+          "Stuur alles per post naar Asbestfonds, Sterrenkundelaan 1, 1210 Brussel (een aanvraag bij Fedris wordt ook automatisch onderzocht)"
+        ]
+      },
+      "fr": {
+        "title": "Indemnisation par le Fonds amiante",
+        "desc": "Les personnes exposées à l'amiante en Belgique atteintes d'un mésothéliome, d'une asbestose, d'épaississements pleuraux diffus ou d'un cancer du poumon, du larynx ou de l'ovaire causé par l'amiante peuvent être indemnisées par le Fonds amiante, qu'elles aient été salariées, fonctionnaires, indépendantes ou exposées à domicile. Autres maladies de l'amiante : 23,65 € par mois par % d'incapacité. Après un décès, partenaire, ex-partenaire et enfants peuvent recevoir un capital, et la personne qui a payé les funérailles 1.293,60 €. Aide d'une tierce personne : 1.116,81 € ou 2.233,61 € par mois. Le tout exonéré d'impôt.",
+        "deadline": "Les proches ont 6 mois après le décès pour introduire une demande si la victime ne l'a jamais fait. Paiement dans les 45 jours d'une décision positive.",
+        "amount": "Mésothéliome : 12.936 € une fois plus 2.365,35 € par mois (dès le 1er sept. 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Certificat médical rempli par votre médecin, avec les documents médicaux demandés"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande et le certificat médical du Fonds amiante",
+          "Remplissez le formulaire vous-même en décrivant où et quand vous avez été en contact avec l'amiante",
+          "Faites remplir le certificat par votre médecin et joignez les documents médicaux",
+          "Envoyez le tout par la poste au Fonds amiante, avenue de l'Astronomie 1, 1210 Bruxelles (une demande à Fedris est aussi examinée automatiquement)"
+        ]
+      },
+      "de": {
+        "title": "Entschädigung durch den Asbestfonds",
+        "desc": "Wer in Belgien Asbest ausgesetzt war und an Mesotheliom, Asbestose, diffusen Pleuraverdickungen oder durch Asbest verursachtem Lungen-, Kehlkopf- oder Eierstockkrebs erkrankt, kann vom Asbestfonds entschädigt werden, ob als Arbeitnehmer, Beamter, Selbstständiger oder durch Exposition zu Hause. Andere Asbestkrankheiten: 23,65 € pro Monat je % Arbeitsunfähigkeit. Nach einem Todesfall können Partner, Ex-Partner und Kinder ein Kapital erhalten, und wer die Beerdigung bezahlt hat 1.293,60 €. Hilfe einer Drittperson: 1.116,81 € oder 2.233,61 € pro Monat. Alles steuerfrei.",
+        "deadline": "Angehörige haben 6 Monate nach dem Tod, um einen Antrag zu stellen, wenn das Opfer dies nie getan hat. Zahlung binnen 45 Tagen nach positiver Entscheidung.",
+        "amount": "Mesotheliom: 12.936 € einmalig plus 2.365,35 € pro Monat (ab 1. Sept. 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung, von Ihrem Arzt ausgefüllt, mit den verlangten medizinischen Unterlagen"
+          }
+        ],
+        "steps": [
+          "Laden Sie Antragsformular und ärztliche Bescheinigung beim Asbestfonds herunter",
+          "Füllen Sie das Formular selbst aus und beschreiben Sie, wo und wann Sie mit Asbest in Kontakt kamen",
+          "Lassen Sie die Bescheinigung von Ihrem Arzt ausfüllen und fügen Sie die medizinischen Unterlagen bei",
+          "Schicken Sie alles per Post an den Asbestfonds, Sterrenkundelaan 1, 1210 Brüssel (ein Antrag bei Fedris wird ebenfalls automatisch geprüft)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.asbestfonds.be/nl/topics/ziek-door-asbest/wanneer-een-aanvraag-tot-vergoeding-indienen",
+        "https://www.asbestfonds.be/nl/topics/ziek-door-asbest/welke-ziekten-worden-erkend"
+      ],
+      "conditions": {
+        "en": [
+          "You were exposed to asbestos in Belgium (at work, in your surroundings or in daily life), as a private-sector employee, civil servant or self-employed person.",
+          "You have mesothelioma, asbestosis, diffuse pleural thickening, or lung, larynx or ovarian cancer caused by asbestos under the set criteria (pleural plaques alone do not count), or you are close family of someone who died of one of these.",
+          "You do not need to prove that asbestos caused the disease, only sufficient exposure in Belgium."
+        ],
+        "nl": [
+          "Je werd in België aan asbest blootgesteld (op het werk, in je omgeving of in het dagelijks leven), als werknemer in de privésector, ambtenaar of zelfstandige.",
+          "Je hebt mesothelioom, asbestose, diffuse verdikkingen van het borstvlies, of long-, strottenhoofd- of eierstokkanker door asbest volgens de vastgelegde criteria (pleurale plaques alleen tellen niet), of je bent naaste familie van iemand die aan een van deze ziekten overleed.",
+          "Je hoeft niet te bewijzen dat asbest de ziekte veroorzaakte, enkel voldoende blootstelling in België."
+        ],
+        "fr": [
+          "Vous avez été exposé(e) à l'amiante en Belgique (au travail, dans votre environnement ou dans la vie quotidienne), comme salarié(e) du privé, fonctionnaire ou indépendant(e).",
+          "Vous êtes atteint(e) d'un mésothéliome, d'une asbestose, d'épaississements pleuraux diffus, ou d'un cancer du poumon, du larynx ou de l'ovaire causé par l'amiante selon les critères fixés (les plaques pleurales seules ne comptent pas), ou vous êtes un proche d'une personne décédée de l'une de ces maladies.",
+          "Vous ne devez pas prouver que l'amiante a causé la maladie, seulement une exposition suffisante en Belgique."
+        ],
+        "de": [
+          "Sie waren in Belgien Asbest ausgesetzt (bei der Arbeit, in Ihrer Umgebung oder im Alltag), als Arbeitnehmer im Privatsektor, Beamter oder Selbstständiger.",
+          "Sie haben Mesotheliom, Asbestose, diffuse Pleuraverdickungen oder durch Asbest verursachten Lungen-, Kehlkopf- oder Eierstockkrebs nach den festgelegten Kriterien (Pleuraplaques allein zählen nicht), oder Sie sind nahe Angehörige einer Person, die an einer dieser Krankheiten gestorben ist.",
+          "Sie müssen nicht beweisen, dass Asbest die Krankheit verursacht hat, nur eine ausreichende Exposition in Belgien."
+        ]
+      }
+    }
+  },
+  {
+    "id": 195,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Fedris (Federaal agentschap voor beroepsrisico's / Agence fédérale des risques professionnels)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.fedris.be/nl/themas/preventie-bz/stopzetting-van-werk-om-gezondheidsredenen",
+    "content": {
+      "en": {
+        "title": "Benefit for Stopping Harmful Work (Fedris)",
+        "desc": "If further work would seriously harm your health or risk an occupational disease, Fedris can propose that you stop the harmful work temporarily or for good. While temporarily stopped without adapted work, you get 90% of your base wage; if adapted work pays less, Fedris can make up the difference. If you stop for good, you keep any permanent-unfitness benefit and get a lump sum of 90 days as if fully permanently unfit. Retraining is free, with a benefit as if 100% permanently unfit and travel costs refunded.",
+        "deadline": "Temporary benefits can start at most 365 days before the application. If you refuse and keep doing the harmful work, you lose Fedris benefits for a later relapse or worsening.",
+        "amount": "Temporary stop: 90% of your base wage; definitive stop: 90-day lump sum",
+        "requirements": [],
+        "steps": [
+          "Fedris examines your situation (often after a request by the occupational doctor or during an occupational disease application)",
+          "Fedris proposes adapted work, another job in the company, or a temporary or definitive stop; your employer has 15 days to react",
+          "Accept or refuse Fedris's proposal",
+          "If you stop for good and no other job is possible in the company, discuss retraining with Fedris"
+        ]
+      },
+      "nl": {
+        "title": "Vergoeding bij stopzetting van schadelijk werk (Fedris)",
+        "desc": "Kan verder werken je gezondheid ernstig schaden of het risico op een beroepsziekte vergroten, dan kan Fedris voorstellen het schadelijke werk tijdelijk of definitief stop te zetten. Bij een tijdelijke stopzetting zonder aangepast werk krijg je 90% van je basisloon; betaalt aangepast werk minder, dan kan Fedris het loonverlies compenseren. Stop je definitief, dan behoud je een eventuele vergoeding voor blijvende ongeschiktheid en krijg je een forfait van 90 dagen alsof je volledig blijvend ongeschikt bent. Herscholing is gratis, met een vergoeding alsof je 100% blijvend ongeschikt bent en terugbetaling van verplaatsingskosten.",
+        "deadline": "Tijdelijke vergoedingen kunnen ten vroegste 365 dagen vóór de aanvraag ingaan. Weiger je en blijf je het schadelijke werk doen, dan verlies je de vergoedingen van Fedris bij later herval of verergering.",
+        "amount": "Tijdelijke stopzetting: 90% van je basisloon; definitieve stopzetting: forfait van 90 dagen",
+        "requirements": [],
+        "steps": [
+          "Fedris onderzoekt je situatie (vaak op vraag van de arbeidsarts of tijdens een aanvraag voor een beroepsziekte)",
+          "Fedris stelt aangepast werk, een andere werkpost in het bedrijf, of een tijdelijke of definitieve stopzetting voor; je werkgever heeft 15 dagen om te reageren",
+          "Aanvaard of weiger het voorstel van Fedris",
+          "Stop je definitief en is ander werk in het bedrijf niet mogelijk, bespreek dan een herscholing met Fedris"
+        ]
+      },
+      "fr": {
+        "title": "Indemnité en cas d'écartement d'un travail nocif (Fedris)",
+        "desc": "Si continuer à travailler risque de nuire gravement à votre santé ou de provoquer une maladie professionnelle, Fedris peut proposer d'arrêter le travail nocif temporairement ou définitivement. En cas d'arrêt temporaire sans travail adapté, vous recevez 90 % de votre salaire de base ; si le travail adapté est moins payé, Fedris peut compenser la perte. En cas d'arrêt définitif, vous gardez une éventuelle indemnité d'incapacité permanente et recevez un forfait de 90 jours comme si vous étiez totalement en incapacité permanente. La reconversion est gratuite, avec une indemnité comme si vous étiez à 100 % en incapacité permanente et le remboursement des déplacements.",
+        "deadline": "Les indemnités temporaires peuvent commencer au plus tôt 365 jours avant la demande. Si vous refusez et poursuivez le travail nocif, vous perdez les indemnités de Fedris en cas de rechute ou d'aggravation.",
+        "amount": "Arrêt temporaire : 90 % de votre salaire de base ; arrêt définitif : forfait de 90 jours",
+        "requirements": [],
+        "steps": [
+          "Fedris examine votre situation (souvent à la demande du médecin du travail ou lors d'une demande de maladie professionnelle)",
+          "Fedris propose un travail adapté, un autre poste dans l'entreprise, ou un arrêt temporaire ou définitif ; votre employeur a 15 jours pour réagir",
+          "Acceptez ou refusez la proposition de Fedris",
+          "Si vous arrêtez définitivement et qu'aucun autre poste n'est possible dans l'entreprise, discutez d'une reconversion avec Fedris"
+        ]
+      },
+      "de": {
+        "title": "Entschädigung bei Einstellung schädlicher Arbeit (Fedris)",
+        "desc": "Würde Weiterarbeiten Ihre Gesundheit ernsthaft schädigen oder das Risiko einer Berufskrankheit erhöhen, kann Fedris vorschlagen, die schädliche Arbeit vorübergehend oder endgültig einzustellen. Bei vorübergehender Einstellung ohne angepasste Arbeit erhalten Sie 90 % Ihres Basislohns; ist angepasste Arbeit schlechter bezahlt, kann Fedris den Lohnverlust ausgleichen. Bei endgültiger Einstellung behalten Sie eine etwaige Entschädigung für bleibende Arbeitsunfähigkeit und erhalten eine Pauschale von 90 Tagen, als wären Sie vollständig bleibend arbeitsunfähig. Eine Umschulung ist kostenlos, mit einer Entschädigung wie bei 100 % bleibender Arbeitsunfähigkeit und Erstattung der Fahrtkosten.",
+        "deadline": "Vorübergehende Entschädigungen beginnen frühestens 365 Tage vor dem Antrag. Lehnen Sie ab und setzen die schädliche Arbeit fort, verlieren Sie Fedris-Leistungen bei späterem Rückfall oder Verschlimmerung.",
+        "amount": "Vorübergehende Einstellung: 90 % des Basislohns; endgültige Einstellung: 90-Tage-Pauschale",
+        "requirements": [],
+        "steps": [
+          "Fedris prüft Ihre Situation (oft auf Antrag des Arbeitsarztes oder bei einem Berufskrankheitsantrag)",
+          "Fedris schlägt angepasste Arbeit, eine andere Stelle im Betrieb oder eine vorübergehende oder endgültige Einstellung vor; Ihr Arbeitgeber hat 15 Tage, um zu reagieren",
+          "Nehmen Sie den Vorschlag von Fedris an oder lehnen Sie ihn ab",
+          "Stellen Sie endgültig ein und ist keine andere Stelle im Betrieb möglich, besprechen Sie mit Fedris eine Umschulung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.fedris.be/nl/themas/preventie-bz/stopzetting-van-werk-om-gezondheidsredenen",
+      "conditions": {
+        "en": [
+          "You are an employee in the private sector.",
+          "You have a recognised occupational disease, its first symptoms, or an increased risk of one, and Fedris proposes stopping the harmful work.",
+          "During a temporary stop you may not do any other professional activity."
+        ],
+        "nl": [
+          "Je bent werknemer in de privésector.",
+          "Je hebt een erkende beroepsziekte, de eerste symptomen ervan, of een verhoogd risico erop, en Fedris stelt voor het schadelijke werk stop te zetten.",
+          "Tijdens een tijdelijke stopzetting mag je geen andere beroepsactiviteit uitoefenen."
+        ],
+        "fr": [
+          "Vous êtes salarié(e) dans le secteur privé.",
+          "Vous avez une maladie professionnelle reconnue, ses premiers symptômes ou un risque accru, et Fedris propose d'arrêter le travail nocif.",
+          "Pendant un arrêt temporaire, vous ne pouvez exercer aucune autre activité professionnelle."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer im Privatsektor.",
+          "Sie haben eine anerkannte Berufskrankheit, deren erste Symptome oder ein erhöhtes Risiko dafür, und Fedris schlägt vor, die schädliche Arbeit einzustellen.",
+          "Während einer vorübergehenden Einstellung dürfen Sie keine andere Berufstätigkeit ausüben."
+        ]
+      }
+    }
+  },
+  {
+    "id": 196,
+    "category": "health",
+    "situations": [
+      "children",
+      "school"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Departement Zorg (Vlaamse overheid)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.departementzorg.be/nl/infectieziekte/humaan-papillomavirus-hpv",
+    "content": {
+      "en": {
+        "title": "Free HPV Vaccine for Young People",
+        "desc": "In Flanders, girls and boys in the 1st year of secondary school (or aged 12) get the HPV vaccine Gardasil 9 free, in 2 doses 6 months apart, at school through the CLB or from their GP (the GP consultation is not free). Missed it? Catch up free until the 3rd year of secondary school or age 15. After that, part of the vaccine's cost is refunded up to age 30 (45 for risk groups), with a prescription and bought at a pharmacy.",
+        "deadline": "Free until the 3rd year of secondary school or age 15; partial refund until 30 (45 in a risk group).",
+        "amount": "Free vaccine (the GP consultation is paid); later partly refunded",
+        "requirements": [],
+        "steps": [
+          "Get vaccinated at school through the CLB in the 1st year of secondary school",
+          "Or ask your GP: the vaccine is free, the consultation is paid",
+          "Catch up via the CLB or your GP until the 3rd year of secondary school",
+          "Later: get a prescription, buy the vaccine at the pharmacy and get part of the cost back"
+        ]
+      },
+      "nl": {
+        "title": "Gratis HPV-vaccin voor jongeren",
+        "desc": "In Vlaanderen krijgen meisjes en jongens in het 1e middelbaar (of 12 jaar) gratis het HPV-vaccin Gardasil 9, in 2 dosissen met 6 maanden ertussen, op school via het CLB of bij de huisarts (de raadpleging bij de huisarts is niet gratis). Gemist? Gratis inhalen kan tot en met het 3e middelbaar of 15 jaar. Daarna wordt tot 30 jaar (45 jaar voor risicogroepen) een deel van de kosten van het vaccin terugbetaald, met voorschrift en via de apotheek.",
+        "deadline": "Gratis tot en met het 3e middelbaar of 15 jaar; gedeeltelijke terugbetaling tot 30 jaar (45 in een risicogroep).",
+        "amount": "Gratis vaccin (de raadpleging bij de huisarts betaal je); later deels terugbetaald",
+        "requirements": [],
+        "steps": [
+          "Laat je vaccineren op school via het CLB in het 1e middelbaar",
+          "Of vraag het aan je huisarts: het vaccin is gratis, de raadpleging betaal je",
+          "Inhalen kan via het CLB of je huisarts tot en met het 3e middelbaar",
+          "Later: vraag een voorschrift, koop het vaccin bij de apotheek en krijg een deel van de kosten terug"
+        ]
+      },
+      "fr": {
+        "title": "Vaccin HPV gratuit pour les jeunes",
+        "desc": "En Flandre, les filles et garçons de 1re secondaire (ou de 12 ans) reçoivent gratuitement le vaccin HPV Gardasil 9, en 2 doses à 6 mois d'intervalle, à l'école via le CLB ou chez leur médecin généraliste (la consultation n'est pas gratuite). Raté ? Rattrapage gratuit jusqu'à la 3e secondaire ou 15 ans. Ensuite, une partie du coût du vaccin est remboursée jusqu'à 30 ans (45 ans pour les groupes à risque), sur prescription et en pharmacie.",
+        "deadline": "Gratuit jusqu'à la 3e secondaire ou 15 ans ; remboursement partiel jusqu'à 30 ans (45 dans un groupe à risque).",
+        "amount": "Vaccin gratuit (la consultation chez le généraliste est payante) ; plus tard partiellement remboursé",
+        "requirements": [],
+        "steps": [
+          "Faites-vous vacciner à l'école via le CLB en 1re secondaire",
+          "Ou demandez à votre généraliste : le vaccin est gratuit, la consultation est payante",
+          "Rattrapage via le CLB ou le généraliste jusqu'à la 3e secondaire",
+          "Plus tard : obtenez une prescription, achetez le vaccin en pharmacie et récupérez une partie du coût"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose HPV-Impfung für Jugendliche",
+        "desc": "In Flandern erhalten Mädchen und Jungen im 1. Sekundarschuljahr (oder mit 12) kostenlos den HPV-Impfstoff Gardasil 9, in 2 Dosen im Abstand von 6 Monaten, in der Schule über das CLB oder beim Hausarzt (die Hausarztkonsultation ist nicht kostenlos). Verpasst? Kostenlos nachholen bis zum 3. Sekundarschuljahr oder 15 Jahren. Danach wird bis 30 (45 für Risikogruppen) ein Teil der Impfstoffkosten erstattet, mit Verordnung und über die Apotheke.",
+        "deadline": "Kostenlos bis zum 3. Sekundarschuljahr oder 15 Jahren; teilweise Erstattung bis 30 (45 in einer Risikogruppe).",
+        "amount": "Kostenloser Impfstoff (die Hausarztkonsultation zahlen Sie); später teilweise erstattet",
+        "requirements": [],
+        "steps": [
+          "Lassen Sie sich im 1. Sekundarschuljahr in der Schule über das CLB impfen",
+          "Oder fragen Sie Ihren Hausarzt: Der Impfstoff ist kostenlos, die Konsultation zahlen Sie",
+          "Nachholen über das CLB oder den Hausarzt bis zum 3. Sekundarschuljahr",
+          "Später: Verordnung holen, Impfstoff in der Apotheke kaufen und einen Teil der Kosten zurückerhalten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.departementzorg.be/nl/infectieziekte/humaan-papillomavirus-hpv",
+      "conditions": {
+        "en": [
+          "Free: young people in Flanders from the 1st to the 3rd year of secondary school (or aged 12 to 15, or the same age in special education), with vaccine supplied by the Flemish government through the CLB or a GP.",
+          "Partial refund: up to age 30 (45 for risk groups), with a doctor's prescription and the vaccine bought at a pharmacy."
+        ],
+        "nl": [
+          "Gratis: jongeren in Vlaanderen van het 1e tot en met het 3e middelbaar (of 12 tot 15 jaar, of dezelfde leeftijd in het buitengewoon onderwijs), met vaccin dat de Vlaamse overheid via het CLB of een huisarts levert.",
+          "Gedeeltelijke terugbetaling: tot 30 jaar (45 voor risicogroepen), met voorschrift van een arts en het vaccin gekocht bij de apotheek."
+        ],
+        "fr": [
+          "Gratuit : les jeunes en Flandre de la 1re à la 3e secondaire (ou de 12 à 15 ans, ou du même âge dans l'enseignement spécialisé), avec le vaccin fourni par le gouvernement flamand via le CLB ou un généraliste.",
+          "Remboursement partiel : jusqu'à 30 ans (45 pour les groupes à risque), sur prescription médicale et avec le vaccin acheté en pharmacie."
+        ],
+        "de": [
+          "Kostenlos: Jugendliche in Flandern vom 1. bis 3. Sekundarschuljahr (oder 12 bis 15 Jahre, oder gleichaltrig im Förderunterricht), mit vom flämischen Staat über das CLB oder einen Hausarzt gelieferten Impfstoff.",
+          "Teilweise Erstattung: bis 30 Jahre (45 für Risikogruppen), mit ärztlicher Verordnung und in der Apotheke gekauftem Impfstoff."
+        ]
+      }
+    }
+  },
+  {
+    "id": 197,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/thuishospitalisatie-voor-oncologie-en-antimicrobiele-behandeling",
+    "content": {
+      "en": {
+        "title": "Home Hospitalisation for Cancer or Antibiotic Treatment",
+        "desc": "Some hospital treatments can be given at home or in a care home: intravenous antibiotics with no oral alternative (at least 5 days) and cancer treatments by injection or drip (at least 3 days). A hospital team coordinates with a home nurse and your GP, so you can keep up daily activities.",
+        "deadline": "The first two administrations always take place in hospital; your specialist decides, with you, whether to start, continue or stop.",
+        "amount": "No personal share for the medicines and care in the programme; some nursing or material may cost a little",
+        "requirements": [],
+        "steps": [
+          "Discuss home hospitalisation with your specialist",
+          "Receive the first two administrations in hospital",
+          "Give your explicit consent once you have been informed",
+          "The hospital pharmacist supplies the medicine and a nurse gives it at home"
+        ]
+      },
+      "nl": {
+        "title": "Thuishospitalisatie voor kanker- of antibioticabehandeling",
+        "desc": "Sommige ziekenhuisbehandelingen kunnen thuis of in een woonzorgcentrum gegeven worden: intraveneuze antibiotica zonder orale variant (minstens 5 dagen) en kankerbehandelingen via injectie of infuus (minstens 3 dagen). Een ziekenhuisteam werkt samen met een thuisverpleegkundige en je huisarts, zodat je je dagelijkse activiteiten kan blijven doen.",
+        "deadline": "De eerste twee toedieningen gebeuren altijd in het ziekenhuis; je arts-specialist beslist samen met jou over starten, voortzetten of stoppen.",
+        "amount": "Geen remgeld voor de geneesmiddelen en zorg in het programma; sommige verpleegzorg of materiaal kan iets kosten",
+        "requirements": [],
+        "steps": [
+          "Bespreek thuishospitalisatie met je arts-specialist",
+          "Krijg de eerste twee toedieningen in het ziekenhuis",
+          "Geef uitdrukkelijk je toestemming nadat je geïnformeerd bent",
+          "De ziekenhuisapotheker levert het geneesmiddel en een verpleegkundige dient het thuis toe"
+        ]
+      },
+      "fr": {
+        "title": "Hospitalisation à domicile pour traitement anticancéreux ou antibiotique",
+        "desc": "Certains traitements hospitaliers peuvent être administrés à domicile ou en maison de repos : antibiotiques intraveineux sans alternative orale (au moins 5 jours) et traitements anticancéreux par injection ou perfusion (au moins 3 jours). Une équipe hospitalière se coordonne avec un infirmier à domicile et votre généraliste, pour que vous puissiez poursuivre vos activités.",
+        "deadline": "Les deux premières administrations ont toujours lieu à l'hôpital ; votre spécialiste décide avec vous de commencer, poursuivre ou arrêter.",
+        "amount": "Pas de ticket modérateur pour les médicaments et soins du programme ; certains soins infirmiers ou matériels peuvent coûter un peu",
+        "requirements": [],
+        "steps": [
+          "Parlez de l'hospitalisation à domicile avec votre spécialiste",
+          "Recevez les deux premières administrations à l'hôpital",
+          "Donnez votre accord explicite après avoir été informé(e)",
+          "Le pharmacien hospitalier fournit le médicament et un infirmier l'administre à domicile"
+        ]
+      },
+      "de": {
+        "title": "Krankenhausbehandlung zu Hause bei Krebs- oder Antibiotikatherapie",
+        "desc": "Manche Krankenhausbehandlungen können zu Hause oder im Pflegeheim erfolgen: intravenöse Antibiotika ohne orale Alternative (mindestens 5 Tage) und Krebsbehandlungen per Injektion oder Infusion (mindestens 3 Tage). Ein Krankenhausteam arbeitet mit einer Hauskrankenpflege und Ihrem Hausarzt zusammen, sodass Sie Ihren Alltag fortsetzen können.",
+        "deadline": "Die ersten beiden Gaben erfolgen immer im Krankenhaus; Ihr Facharzt entscheidet mit Ihnen über Beginn, Fortsetzung oder Abbruch.",
+        "amount": "Kein Eigenanteil für Arzneimittel und Pflege im Programm; manche Pflege oder Material kann etwas kosten",
+        "requirements": [],
+        "steps": [
+          "Besprechen Sie die Behandlung zu Hause mit Ihrem Facharzt",
+          "Erhalten Sie die ersten beiden Gaben im Krankenhaus",
+          "Geben Sie nach Information Ihre ausdrückliche Zustimmung",
+          "Der Krankenhausapotheker liefert das Arzneimittel, eine Pflegekraft verabreicht es zu Hause"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/thuishospitalisatie-voor-oncologie-en-antimicrobiele-behandeling",
+      "conditions": {
+        "en": [
+          "You need intravenous antimicrobial treatment with no oral alternative for at least 5 days, or parenteral cancer treatment for at least 3 days, with a medicine on the RIZIV home-hospitalisation list.",
+          "You are clinically stable, informed and give explicit consent, and your home (or care home) allows safe administration."
+        ],
+        "nl": [
+          "Je hebt een intraveneuze antimicrobiële behandeling zonder oraal alternatief van minstens 5 dagen nodig, of een parenterale kankerbehandeling van minstens 3 dagen, met een geneesmiddel op de RIZIV-lijst voor thuishospitalisatie.",
+          "Je bent klinisch stabiel, geïnformeerd en geeft uitdrukkelijk toestemming, en je woonplaats (of woonzorgcentrum) laat een veilige toediening toe."
+        ],
+        "fr": [
+          "Vous avez besoin d'un traitement antimicrobien intraveineux sans alternative orale d'au moins 5 jours, ou d'un traitement anticancéreux parentéral d'au moins 3 jours, avec un médicament de la liste INAMI d'hospitalisation à domicile.",
+          "Vous êtes cliniquement stable, informé(e) et donnez votre accord explicite, et votre domicile (ou maison de repos) permet une administration sûre."
+        ],
+        "de": [
+          "Sie brauchen eine intravenöse antimikrobielle Behandlung ohne orale Alternative von mindestens 5 Tagen oder eine parenterale Krebsbehandlung von mindestens 3 Tagen, mit einem Arzneimittel der LIKIV-Liste für Krankenhausbehandlung zu Hause.",
+          "Sie sind klinisch stabil, informiert und geben Ihre ausdrückliche Zustimmung, und Ihr Zuhause (oder Pflegeheim) erlaubt eine sichere Verabreichung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 198,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/gepersonaliseerde-follow-up-door-een-huisapotheker",
+    "content": {
+      "en": {
+        "title": "Free Follow-Up by a Home Pharmacist",
+        "desc": "If you are chronically ill and take several medicines, you can ask your pharmacist to become your 'home pharmacist'. They keep an up-to-date medication schedule for you, follow up your treatment and share useful information with your other care providers (with your consent). You can change or stop at any time.",
+        "deadline": "You can start at any time by signing an agreement with your pharmacist.",
+        "amount": "Free for you: health insurance pays the pharmacist €40.18 a year (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Agreement signed with your pharmacist"
+          }
+        ],
+        "steps": [
+          "Ask your usual pharmacy to become your home pharmacist",
+          "The pharmacist explains the service and gives you a leaflet",
+          "Sign the agreement, which also covers consent to keep your file and to share data (eHealthConsent)",
+          "Get your personal medication schedule and take it to every care provider"
+        ]
+      },
+      "nl": {
+        "title": "Gratis opvolging door een huisapotheker",
+        "desc": "Ben je chronisch ziek en neem je verschillende geneesmiddelen, dan kan je je apotheker vragen om je 'huisapotheker' te worden. Die houdt een actueel medicatieschema voor je bij, volgt je behandeling op en deelt nuttige informatie met je andere zorgverleners (met jouw toestemming). Je kan op elk moment veranderen of stoppen.",
+        "deadline": "Je kan op elk moment starten door een overeenkomst met je apotheker te ondertekenen.",
+        "amount": "Gratis voor jou: de ziekteverzekering betaalt de apotheker €40,18 per jaar (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Overeenkomst ondertekend met je apotheker"
+          }
+        ],
+        "steps": [
+          "Vraag je vaste apotheek om je huisapotheker te worden",
+          "De apotheker legt de dienst uit en geeft je een folder",
+          "Onderteken de overeenkomst, die ook je toestemming bevat om een dossier bij te houden en gegevens te delen (eHealthConsent)",
+          "Krijg je persoonlijk medicatieschema en neem het mee naar elke zorgverlener"
+        ]
+      },
+      "fr": {
+        "title": "Suivi gratuit par un pharmacien de référence",
+        "desc": "Si vous êtes malade chronique et prenez plusieurs médicaments, vous pouvez demander à votre pharmacien de devenir votre « pharmacien de référence ». Il tient à jour un schéma de médication, suit votre traitement et partage les informations utiles avec vos autres prestataires (avec votre accord). Vous pouvez changer ou arrêter à tout moment.",
+        "deadline": "Vous pouvez commencer à tout moment en signant une convention avec votre pharmacien.",
+        "amount": "Gratuit pour vous : l'assurance paie au pharmacien 40,18 € par an (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Convention signée avec votre pharmacien"
+          }
+        ],
+        "steps": [
+          "Demandez à votre pharmacie habituelle de devenir votre pharmacien de référence",
+          "Le pharmacien explique le service et vous remet un dépliant",
+          "Signez la convention, qui comprend aussi votre accord pour tenir un dossier et partager les données (eHealthConsent)",
+          "Recevez votre schéma de médication personnel et emportez-le chez chaque prestataire"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Begleitung durch einen Hausapotheker",
+        "desc": "Sind Sie chronisch krank und nehmen mehrere Arzneimittel, können Sie Ihren Apotheker bitten, Ihr „Hausapotheker“ zu werden. Er führt einen aktuellen Medikationsplan, begleitet Ihre Behandlung und teilt nützliche Informationen mit Ihren anderen Leistungserbringern (mit Ihrer Zustimmung). Sie können jederzeit wechseln oder aufhören.",
+        "deadline": "Sie können jederzeit beginnen, indem Sie eine Vereinbarung mit Ihrem Apotheker unterschreiben.",
+        "amount": "Kostenlos für Sie: die Krankenversicherung zahlt dem Apotheker 40,18 € pro Jahr (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Mit Ihrem Apotheker unterschriebene Vereinbarung"
+          }
+        ],
+        "steps": [
+          "Bitten Sie Ihre Stammapotheke, Ihr Hausapotheker zu werden",
+          "Der Apotheker erklärt den Dienst und gibt Ihnen ein Faltblatt",
+          "Unterschreiben Sie die Vereinbarung, die auch Ihre Einwilligung zur Aktenführung und zum Datenaustausch (eHealthConsent) enthält",
+          "Erhalten Sie Ihren persönlichen Medikationsplan und nehmen Sie ihn zu jedem Leistungserbringer mit"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/chronische-ziekten/gepersonaliseerde-follow-up-door-een-huisapotheker",
+      "conditions": {
+        "en": [
+          "You are chronically ill, go to a public pharmacy and do not live in a rest home or nursing home.",
+          "In one year the same pharmacy supplied you at least 5 different reimbursed medicines, of which at least 2 chronic ones (since 1 January 2026)."
+        ],
+        "nl": [
+          "Je bent chronisch ziek, gaat naar een openbare apotheek en verblijft niet in een rustoord of rust- en verzorgingstehuis.",
+          "Over een periode van 1 jaar leverde dezelfde apotheek je minstens 5 verschillende terugbetaalde geneesmiddelen, waaronder minstens 2 chronische (sinds 1 januari 2026)."
+        ],
+        "fr": [
+          "Vous êtes malade chronique, allez dans une pharmacie ouverte au public et ne résidez pas en maison de repos ou de soins.",
+          "Sur un an, la même pharmacie vous a délivré au moins 5 médicaments remboursés différents, dont au moins 2 chroniques (depuis le 1er janvier 2026)."
+        ],
+        "de": [
+          "Sie sind chronisch krank, gehen in eine öffentliche Apotheke und wohnen nicht in einem Alten- oder Pflegeheim.",
+          "Innerhalb eines Jahres hat Ihnen dieselbe Apotheke mindestens 5 verschiedene erstattete Arzneimittel geliefert, davon mindestens 2 chronische (seit 1. Januar 2026)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 199,
+    "category": "family",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/abattement-in-de-erfbelasting-voor-een-erfopvolger-met-een-handicap",
+    "content": {
+      "en": {
+        "title": "Inheritance Tax Allowance for an Heir with a Disability",
+        "desc": "Heirs with a disability pay no Flemish inheritance tax on a first part of their share. The tax-free amount is €3,000 (direct line, spouses and cohabitants) or €1,000 (others), multiplied by a factor that falls with age: 18 at 20 or younger, down to 2 above 80. It cannot make the tax negative.",
+        "deadline": "Tick it on the inheritance declaration; if you forgot, you can still claim it by filing an objection.",
+        "amount": "Up to €54,000 tax-free (direct line, aged 20 or under), less with age",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate of disability (only for heirs living in Wallonia or Brussels)"
+          }
+        ],
+        "steps": [
+          "Tick 'abattement voor een persoon met een handicap' under 'Gunstregelingen' on the inheritance declaration",
+          "If you live in the Flemish Region, no certificate is needed; in Wallonia or Brussels, add a valid certificate",
+          "Forgot? File an objection with the Vlaamse Belastingdienst"
+        ]
+      },
+      "nl": {
+        "title": "Abattement in de erfbelasting voor een erfopvolger met een handicap",
+        "desc": "Erfgenamen met een handicap betalen geen Vlaamse erfbelasting op een eerste deel van hun aandeel. Het vrijgestelde bedrag is €3.000 (rechte lijn, partners en samenwonenden) of €1.000 (anderen), vermenigvuldigd met een cijfer dat daalt met de leeftijd: 18 bij 20 jaar of jonger, tot 2 boven de 80. De erfbelasting kan er niet negatief door worden.",
+        "deadline": "Kruis het aan op de aangifte van nalatenschap; vergeten, dan kan je het nog krijgen via een bezwaar.",
+        "amount": "Tot €54.000 vrijgesteld (rechte lijn, 20 jaar of jonger), minder naarmate je ouder bent",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van handicap (enkel voor erfgenamen in Wallonië of Brussel)"
+          }
+        ],
+        "steps": [
+          "Kruis 'abattement voor een persoon met een handicap' aan onder 'Gunstregelingen' op de aangifte van nalatenschap",
+          "Woon je in het Vlaamse Gewest, dan is geen attest nodig; in Wallonië of Brussel voeg je een geldig attest toe",
+          "Vergeten? Dien een bezwaar in bij de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Abattement en droits de succession pour un héritier handicapé",
+        "desc": "Les héritiers handicapés ne paient pas de droits de succession flamands sur une première partie de leur part. Le montant exonéré est de 3.000 € (ligne directe, conjoints et cohabitants) ou 1.000 € (autres), multiplié par un coefficient qui baisse avec l'âge : 18 à 20 ans ou moins, jusqu'à 2 au-delà de 80 ans. L'impôt ne peut pas devenir négatif.",
+        "deadline": "Cochez-le dans la déclaration de succession ; en cas d'oubli, vous pouvez encore l'obtenir par réclamation.",
+        "amount": "Jusqu'à 54.000 € exonérés (ligne directe, 20 ans ou moins), moins avec l'âge",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation de handicap (uniquement pour les héritiers domiciliés en Wallonie ou à Bruxelles)"
+          }
+        ],
+        "steps": [
+          "Cochez « abattement voor een persoon met een handicap » sous « Gunstregelingen » dans la déclaration de succession",
+          "Si vous habitez en Région flamande, aucune attestation n'est nécessaire ; en Wallonie ou à Bruxelles, joignez une attestation valable",
+          "Oubli ? Introduisez une réclamation auprès de la Vlaamse Belastingdienst"
+        ]
+      },
+      "de": {
+        "title": "Freibetrag in der Erbschaftsteuer für Erben mit Behinderung",
+        "desc": "Erben mit Behinderung zahlen auf einen ersten Teil ihres Anteils keine flämische Erbschaftsteuer. Der Freibetrag beträgt 3.000 € (gerade Linie, Ehepartner und Zusammenwohnende) oder 1.000 € (andere), multipliziert mit einem Faktor, der mit dem Alter sinkt: 18 bei 20 Jahren oder jünger, bis 2 über 80. Die Steuer kann dadurch nicht negativ werden.",
+        "deadline": "Kreuzen Sie ihn in der Nachlasserklärung an; vergessen, können Sie ihn noch per Einspruch erhalten.",
+        "amount": "Bis 54.000 € steuerfrei (gerade Linie, bis 20 Jahre), weniger mit zunehmendem Alter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Behindertenbescheinigung (nur für Erben mit Wohnsitz in der Wallonie oder in Brüssel)"
+          }
+        ],
+        "steps": [
+          "Kreuzen Sie in der Nachlasserklärung unter „Gunstregelingen“ „abattement voor een persoon met een handicap“ an",
+          "Wohnen Sie in der Flämischen Region, ist keine Bescheinigung nötig; in der Wallonie oder Brüssel fügen Sie eine gültige bei",
+          "Vergessen? Legen Sie Einspruch bei der Vlaamse Belastingdienst ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/abattement-in-de-erfbelasting-voor-een-erfopvolger-met-een-handicap",
+      "conditions": {
+        "en": [
+          "You inherit from an estate subject to Flemish inheritance tax.",
+          "You are recognised as an invalid by RIZIV after a year of incapacity, or at least 66% permanently disabled or unfit by an administrative or court decision, or have a loss of self-reliance of at least 9 points.",
+          "The disability arose before 65 and reduced your earning capacity to a third or less, and the certificate is valid on the date of death."
+        ],
+        "nl": [
+          "Je erft uit een nalatenschap waarop Vlaamse erfbelasting van toepassing is.",
+          "Je bent na een jaar arbeidsongeschiktheid door het RIZIV als invalide erkend, of door een administratieve of gerechtelijke beslissing voor minstens 66% blijvend gehandicapt of arbeidsongeschikt verklaard, of je hebt een vermindering van zelfredzaamheid van minstens 9 punten.",
+          "De handicap ontstond vóór 65 jaar en verminderde je verdienvermogen tot 1/3 of minder, en het attest is geldig op de datum van overlijden."
+        ],
+        "fr": [
+          "Vous héritez d'une succession soumise aux droits de succession flamands.",
+          "Vous êtes reconnu(e) invalide par l'INAMI après un an d'incapacité, ou handicapé(e) ou en incapacité permanente d'au moins 66 % par décision administrative ou judiciaire, ou avez une perte d'autonomie d'au moins 9 points.",
+          "Le handicap est survenu avant 65 ans et a réduit votre capacité de gain à un tiers ou moins, et l'attestation est valable à la date du décès."
+        ],
+        "de": [
+          "Sie erben aus einem Nachlass, der der flämischen Erbschaftsteuer unterliegt.",
+          "Sie sind nach einem Jahr Arbeitsunfähigkeit vom LIKIV als invalide anerkannt, oder durch Verwaltungs- oder Gerichtsentscheidung zu mindestens 66 % dauerhaft behindert oder arbeitsunfähig erklärt, oder haben eine Verminderung der Selbstständigkeit von mindestens 9 Punkten.",
+          "Die Behinderung entstand vor 65 und verringerte Ihre Erwerbsfähigkeit auf ein Drittel oder weniger, und die Bescheinigung ist am Todestag gültig."
+        ]
+      }
+    }
+  },
+  {
+    "id": 200,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Departement Zorg (Vlaamse overheid)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.departementzorg.be/nl/wat-zijn-multidisciplinaire-begeleidingsequipes",
+    "content": {
+      "en": {
+        "title": "Free Palliative Home Support Team (MBE)",
+        "desc": "Multidisciplinary palliative support teams (a team doctor and nurses) support carers and family when a palliative person is cared for at home or in a home-like setting: advice to care providers, organising and coordinating palliative care, information for the patient and family, psychological support, and phone availability for the GP and nurses. They work with your GP.",
+        "deadline": "Contact the team for your area through your GP or the palliative network.",
+        "amount": "Free for the palliative person (the team tells you about any extra costs, such as specific medication)",
+        "requirements": [],
+        "steps": [
+          "Talk to your GP about calling in the palliative support team",
+          "The team in your area (linked to the palliative network) contacts you and your care providers",
+          "The team advises, coordinates the care and stays reachable by phone"
+        ]
+      },
+      "nl": {
+        "title": "Gratis multidisciplinaire begeleidingsequipe voor palliatieve zorg (MBE)",
+        "desc": "Multidisciplinaire begeleidingsequipes voor palliatieve zorg (een equipearts en verpleegkundigen) ondersteunen zorgverleners en mantelzorgers wanneer een palliatieve persoon thuis of in een thuisvervangend milieu verzorgd wordt: advies aan zorgverleners, palliatieve zorg organiseren en coördineren, informatie voor patiënt en familie, psychologische steun, en telefonische bereikbaarheid voor huisarts en verpleegkundigen. Ze werken samen met je huisarts.",
+        "deadline": "Neem contact op met de equipe in je regio via je huisarts of het palliatief netwerk.",
+        "amount": "Gratis voor de palliatieve persoon (de equipe meldt eventuele extra kosten, zoals specifieke medicatie)",
+        "requirements": [],
+        "steps": [
+          "Bespreek met je huisarts om de palliatieve begeleidingsequipe in te schakelen",
+          "De equipe in je regio (verbonden aan het palliatief netwerk) neemt contact op met jou en je zorgverleners",
+          "De equipe geeft advies, coördineert de zorg en blijft telefonisch bereikbaar"
+        ]
+      },
+      "fr": {
+        "title": "Équipe multidisciplinaire d'accompagnement palliatif gratuite (Flandre)",
+        "desc": "Les équipes multidisciplinaires d'accompagnement palliatif (un médecin d'équipe et des infirmiers) soutiennent soignants et aidants quand une personne en soins palliatifs est soignée à domicile ou en milieu de vie : conseils aux prestataires, organisation et coordination des soins palliatifs, information du patient et de la famille, soutien psychologique, et joignabilité téléphonique pour le généraliste et les infirmiers. Elles travaillent avec votre généraliste.",
+        "deadline": "Contactez l'équipe de votre région via votre généraliste ou le réseau palliatif.",
+        "amount": "Gratuit pour la personne en soins palliatifs (l'équipe signale d'éventuels frais, comme certains médicaments)",
+        "requirements": [],
+        "steps": [
+          "Parlez à votre généraliste de faire appel à l'équipe d'accompagnement palliatif",
+          "L'équipe de votre région (liée au réseau palliatif) prend contact avec vous et vos prestataires",
+          "L'équipe conseille, coordonne les soins et reste joignable par téléphone"
+        ]
+      },
+      "de": {
+        "title": "Kostenloses multidisziplinäres Palliativ-Begleitteam (Flandern)",
+        "desc": "Multidisziplinäre Palliativ-Begleitteams (ein Teamarzt und Pflegekräfte) unterstützen Pflegende und Angehörige, wenn eine Palliativperson zu Hause oder in einem häuslichen Umfeld versorgt wird: Beratung der Leistungserbringer, Organisation und Koordination der Palliativversorgung, Information für Patient und Familie, psychologische Unterstützung und telefonische Erreichbarkeit für Hausarzt und Pflegekräfte. Sie arbeiten mit Ihrem Hausarzt zusammen.",
+        "deadline": "Kontaktieren Sie das Team Ihrer Region über Ihren Hausarzt oder das Palliativnetz.",
+        "amount": "Kostenlos für die Palliativperson (das Team informiert über etwaige Zusatzkosten, etwa spezielle Medikamente)",
+        "requirements": [],
+        "steps": [
+          "Sprechen Sie mit Ihrem Hausarzt über die Einbindung des Palliativ-Begleitteams",
+          "Das Team Ihrer Region (verbunden mit dem Palliativnetz) nimmt Kontakt mit Ihnen und Ihren Leistungserbringern auf",
+          "Das Team berät, koordiniert die Versorgung und bleibt telefonisch erreichbar"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.departementzorg.be/nl/wat-zijn-multidisciplinaire-begeleidingsequipes",
+      "conditions": {
+        "en": [
+          "You (or your relative) are a palliative person cared for at home or in a home-like setting in Flanders, in the area of a palliative network with a team recognised by Departement Zorg."
+        ],
+        "nl": [
+          "Jij (of je naaste) bent een palliatieve persoon die thuis of in een thuisvervangend milieu in Vlaanderen verzorgd wordt, in het werkingsgebied van een palliatief samenwerkingsverband met een door het Departement Zorg erkende equipe."
+        ],
+        "fr": [
+          "Vous (ou votre proche) êtes une personne en soins palliatifs soignée à domicile ou en milieu de vie en Flandre, dans la zone d'une plate-forme palliative disposant d'une équipe reconnue par le Departement Zorg."
+        ],
+        "de": [
+          "Sie (oder Ihr Angehöriger) sind eine Palliativperson, die zu Hause oder in einem häuslichen Umfeld in Flandern versorgt wird, im Gebiet eines Palliativnetzes mit einem vom Departement Zorg anerkannten Team."
+        ]
+      }
+    }
+  },
+  {
+    "id": 201,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Arbeidsongevallenverzekeraar van de werkgever / Assureur accidents du travail (Fedris)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.fedris.be/nl/themas/vergoedingen-ao/vergoedingen-de-privesector",
+    "content": {
+      "en": {
+        "title": "Work Accident Benefits (Private Sector)",
+        "desc": "Every employer must insure its employees against accidents at work and on the way to and from work. After a recognised work accident, the insurer pays a daily benefit while you cannot work, a benefit for permanent effects, medical costs at the official RIZIV rate including the personal share, certain travel costs, visiting costs during hospitalisation and prosthesis costs. Fedris pays only in specific cases.",
+        "deadline": "Prior approval from the insurer is needed for physiotherapy, surgery, hospital stays over a day, care abroad and alternative treatments.",
+        "amount": "Fully unfit: 90% of your base wage ÷ 365 per calendar day; permanent: a percentage of your base wage",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Original receipts for medical costs"
+          },
+          {
+            "type": "doc",
+            "label": "Travel cost form, with original public transport tickets"
+          }
+        ],
+        "steps": [
+          "Make sure the accident is reported to your employer's work accident insurer, which recognises it",
+          "Send original proof of medical costs to the insurer (prescription medicines usually with a certificate)",
+          "Claim travel costs with the insurer's form (or Fedris's form when Fedris covers it), adding original tickets",
+          "If you have permanent effects, the insurer sets a degree of permanent unfitness; it can be revised for 3 years"
+        ]
+      },
+      "nl": {
+        "title": "Vergoedingen bij een arbeidsongeval (privésector)",
+        "desc": "Elke werkgever moet zijn werknemers verzekeren tegen ongevallen op het werk en op de weg van en naar het werk. Na een erkend arbeidsongeval betaalt de verzekeraar een dagvergoeding zolang je niet kan werken, een vergoeding voor blijvende gevolgen, medische kosten aan het RIZIV-tarief inclusief remgeld, bepaalde verplaatsingskosten, bezoekkosten bij hospitalisatie en prothesekosten. Fedris betaalt enkel in specifieke situaties.",
+        "deadline": "Voor kinesitherapie, heelkundige ingrepen, ziekenhuisopnames van meer dan een dag, zorg in het buitenland en alternatieve behandelingen is vooraf akkoord van de verzekeraar nodig.",
+        "amount": "Volledig ongeschikt: 90% van je basisloon ÷ 365 per kalenderdag; blijvend: een percentage van je basisloon",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Originele bewijsstukken van medische kosten"
+          },
+          {
+            "type": "doc",
+            "label": "Formulier verplaatsingskosten, met originele vervoerbewijzen"
+          }
+        ],
+        "steps": [
+          "Zorg dat het ongeval gemeld is bij de arbeidsongevallenverzekeraar van je werkgever, die het erkent",
+          "Stuur originele bewijsstukken van medische kosten naar de verzekeraar (geneesmiddelen op voorschrift meestal met een attest)",
+          "Vraag verplaatsingskosten terug met het formulier van de verzekeraar (of van Fedris als Fedris ze ten laste neemt), met de originele vervoerbewijzen",
+          "Hou je blijvende gevolgen over, dan stelt de verzekeraar een graad van blijvende ongeschiktheid vast; die kan 3 jaar herzien worden"
+        ]
+      },
+      "fr": {
+        "title": "Indemnités en cas d'accident du travail (secteur privé)",
+        "desc": "Tout employeur doit assurer ses travailleurs contre les accidents du travail et sur le chemin du travail. Après un accident du travail reconnu, l'assureur verse une indemnité journalière tant que vous ne pouvez pas travailler, une indemnité pour les séquelles permanentes, les frais médicaux au tarif INAMI y compris le ticket modérateur, certains frais de déplacement, les frais de visite en cas d'hospitalisation et les frais de prothèse. Fedris ne paie que dans des cas spécifiques.",
+        "deadline": "L'accord préalable de l'assureur est nécessaire pour la kinésithérapie, la chirurgie, les hospitalisations de plus d'un jour, les soins à l'étranger et les traitements alternatifs.",
+        "amount": "Incapacité totale : 90 % du salaire de base ÷ 365 par jour civil ; permanente : un pourcentage du salaire de base",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Justificatifs originaux des frais médicaux"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de frais de déplacement, avec les titres de transport originaux"
+          }
+        ],
+        "steps": [
+          "Veillez à ce que l'accident soit déclaré à l'assureur accidents du travail de votre employeur, qui le reconnaît",
+          "Envoyez les justificatifs originaux des frais médicaux à l'assureur (médicaments sur prescription en général avec une attestation)",
+          "Demandez les frais de déplacement avec le formulaire de l'assureur (ou de Fedris s'il les prend en charge), avec les titres originaux",
+          "En cas de séquelles, l'assureur fixe un taux d'incapacité permanente ; il peut être révisé pendant 3 ans"
+        ]
+      },
+      "de": {
+        "title": "Leistungen bei einem Arbeitsunfall (Privatsektor)",
+        "desc": "Jeder Arbeitgeber muss seine Arbeitnehmer gegen Unfälle bei der Arbeit und auf dem Arbeitsweg versichern. Nach einem anerkannten Arbeitsunfall zahlt der Versicherer ein Tagegeld, solange Sie nicht arbeiten können, eine Entschädigung für bleibende Folgen, Arztkosten zum LIKIV-Tarif einschließlich Eigenanteil, bestimmte Fahrtkosten, Besuchskosten bei Krankenhausaufenthalt und Prothesenkosten. Fedris zahlt nur in bestimmten Fällen.",
+        "deadline": "Für Physiotherapie, Operationen, Krankenhausaufenthalte über einen Tag, Behandlung im Ausland und alternative Behandlungen ist die vorherige Zustimmung des Versicherers nötig.",
+        "amount": "Voll arbeitsunfähig: 90 % des Basislohns ÷ 365 pro Kalendertag; bleibend: ein Prozentsatz des Basislohns",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Originalbelege der Arztkosten"
+          },
+          {
+            "type": "doc",
+            "label": "Fahrtkostenformular mit Original-Fahrscheinen"
+          }
+        ],
+        "steps": [
+          "Sorgen Sie dafür, dass der Unfall dem Arbeitsunfallversicherer Ihres Arbeitgebers gemeldet wird, der ihn anerkennt",
+          "Schicken Sie Originalbelege der Arztkosten an den Versicherer (verordnete Arzneimittel meist mit Bescheinigung)",
+          "Beantragen Sie Fahrtkosten mit dem Formular des Versicherers (oder von Fedris, wenn Fedris sie übernimmt), mit Original-Fahrscheinen",
+          "Bleiben Folgen, legt der Versicherer einen Grad der bleibenden Arbeitsunfähigkeit fest; er kann 3 Jahre lang überprüft werden"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.fedris.be/nl/themas/vergoedingen-ao/vergoedingen-de-privesector",
+        "https://www.fedris.be/nl/formulier/terugbetaling-verplaatsingskosten-privesector"
+      ],
+      "conditions": {
+        "en": [
+          "You work as an employee in the private sector.",
+          "You had an accident at work or on the way to or from work, and it is recognised as a work accident."
+        ],
+        "nl": [
+          "Je werkt als werknemer in de privésector.",
+          "Je had een ongeval op het werk of op de weg van of naar het werk, en het is erkend als arbeidsongeval."
+        ],
+        "fr": [
+          "Vous travaillez comme salarié(e) dans le secteur privé.",
+          "Vous avez eu un accident au travail ou sur le chemin du travail, reconnu comme accident du travail."
+        ],
+        "de": [
+          "Sie arbeiten als Arbeitnehmer im Privatsektor.",
+          "Sie hatten einen Unfall bei der Arbeit oder auf dem Arbeitsweg, der als Arbeitsunfall anerkannt ist."
+        ]
+      }
+    }
+  },
+  {
+    "id": 202,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-cochleaire-implantaten",
+    "content": {
+      "en": {
+        "title": "Cochlear Implants",
+        "desc": "For deaf people and people with severe to profound hearing loss, health insurance fully covers a cochlear implant and its external sound processor at first implantation, and their replacement. With severe hearing loss in both ears (at least 70 dB), children under 18 get both ears covered and adults one. The refund is deducted automatically.",
+        "deadline": "For one-sided deafness, no reimbursement if more than 7 years pass between diagnosis and implantation.",
+        "amount": "Implant and sound processor fully covered; you pay the hospital pharmacist's delivery margin",
+        "requirements": [],
+        "steps": [
+          "Discuss a cochlear implant with your ENT specialist",
+          "The specialist checks the RIZIV criteria (code C-01) and applies where needed",
+          "The refund is settled directly with the hospital",
+          "After implantation, follow the rehabilitation your specialist advises"
+        ]
+      },
+      "nl": {
+        "title": "Cochleaire implantaten",
+        "desc": "Voor dove personen en mensen met ernstig tot zeer ernstig gehoorverlies betaalt de ziekteverzekering een cochleair implantaat en de externe geluidsprocessor volledig terug bij de eerste implantatie, en ook de vervanging ervan. Bij ernstig gehoorverlies aan beide oren (minstens 70 dB) worden bij kinderen onder 18 beide oren terugbetaald, bij volwassenen één oor. De terugbetaling wordt automatisch verrekend.",
+        "deadline": "Bij eenzijdige doofheid is er geen terugbetaling als er meer dan 7 jaar ligt tussen diagnose en implantatie.",
+        "amount": "Implantaat en geluidsprocessor volledig terugbetaald; je betaalt de afleveringsmarge van de ziekenhuisapotheker",
+        "requirements": [],
+        "steps": [
+          "Bespreek een cochleair implantaat met je NKO-arts",
+          "De specialist controleert de RIZIV-criteria (code C-01) en dient zo nodig een aanvraag in",
+          "De terugbetaling wordt rechtstreeks met het ziekenhuis verrekend",
+          "Volg na de implantatie de revalidatie die je specialist aanraadt"
+        ]
+      },
+      "fr": {
+        "title": "Implants cochléaires",
+        "desc": "Pour les personnes sourdes ou souffrant d'une perte auditive sévère à profonde, l'assurance soins de santé rembourse entièrement un implant cochléaire et son processeur externe lors de la première implantation, ainsi que leur remplacement. En cas de perte auditive sévère aux deux oreilles (au moins 70 dB), les deux oreilles sont remboursées avant 18 ans, une seule pour les adultes. Le remboursement est déduit automatiquement.",
+        "deadline": "En cas de surdité unilatérale, pas de remboursement si plus de 7 ans séparent le diagnostic et l'implantation.",
+        "amount": "Implant et processeur entièrement remboursés ; vous payez la marge de délivrance du pharmacien hospitalier",
+        "requirements": [],
+        "steps": [
+          "Parlez d'un implant cochléaire avec votre ORL",
+          "Le spécialiste vérifie les critères INAMI (code C-01) et introduit une demande si nécessaire",
+          "Le remboursement est réglé directement avec l'hôpital",
+          "Après l'implantation, suivez la rééducation conseillée par votre spécialiste"
+        ]
+      },
+      "de": {
+        "title": "Cochlea-Implantate",
+        "desc": "Für gehörlose Menschen und Menschen mit hochgradigem bis an Taubheit grenzendem Hörverlust erstattet die Krankenversicherung ein Cochlea-Implantat und den externen Soundprozessor bei der Erstimplantation vollständig, ebenso deren Ersatz. Bei schwerem Hörverlust auf beiden Ohren (mindestens 70 dB) werden bei Kindern unter 18 beide Ohren erstattet, bei Erwachsenen eines. Die Erstattung wird automatisch verrechnet.",
+        "deadline": "Bei einseitiger Taubheit keine Erstattung, wenn zwischen Diagnose und Implantation mehr als 7 Jahre liegen.",
+        "amount": "Implantat und Soundprozessor vollständig erstattet; Sie zahlen die Abgabemarge des Krankenhausapothekers",
+        "requirements": [],
+        "steps": [
+          "Besprechen Sie ein Cochlea-Implantat mit Ihrem HNO-Arzt",
+          "Der Facharzt prüft die LIKIV-Kriterien (Code C-01) und stellt bei Bedarf einen Antrag",
+          "Die Erstattung wird direkt mit dem Krankenhaus verrechnet",
+          "Folgen Sie nach der Implantation der von Ihrem Facharzt empfohlenen Rehabilitation"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-cochleaire-implantaten",
+      "conditions": {
+        "en": [
+          "You are deaf or have severe to profound hearing loss meeting the RIZIV criteria (C-01), which depend on the type of hearing loss and your age: for example an average loss of at least 70 dB in each ear, an asymmetric loss, or one-sided deafness.",
+          "The device is on the RIZIV list of reimbursable implants."
+        ],
+        "nl": [
+          "Je bent doof of hebt ernstig tot zeer ernstig gehoorverlies dat voldoet aan de RIZIV-criteria (C-01), die afhangen van het type gehoorverlies en je leeftijd: bijvoorbeeld een gemiddeld verlies van minstens 70 dB aan elk oor, een asymmetrisch verlies, of eenzijdige doofheid.",
+          "Het hulpmiddel staat op de RIZIV-lijst van terugbetaalbare implantaten."
+        ],
+        "fr": [
+          "Vous êtes sourd(e) ou avez une perte auditive sévère à profonde répondant aux critères INAMI (C-01), qui dépendent du type de perte et de votre âge : par exemple une perte moyenne d'au moins 70 dB à chaque oreille, une perte asymétrique ou une surdité unilatérale.",
+          "Le dispositif figure sur la liste INAMI des implants remboursables."
+        ],
+        "de": [
+          "Sie sind gehörlos oder haben einen hochgradigen bis an Taubheit grenzenden Hörverlust nach den LIKIV-Kriterien (C-01), die von Art des Hörverlusts und Alter abhängen: etwa ein mittlerer Verlust von mindestens 70 dB auf jedem Ohr, ein asymmetrischer Verlust oder einseitige Taubheit.",
+          "Das Hilfsmittel steht auf der LIKIV-Liste erstattungsfähiger Implantate."
+        ]
+      }
+    }
+  },
+  {
+    "id": 203,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-beengeleidingssystemen",
+    "content": {
+      "en": {
+        "title": "Bone Conduction Hearing Implants",
+        "desc": "For people with middle-ear hearing loss who cannot wear a traditional hearing aid because of recurring infections or a malformed outer ear, health insurance covers bone conduction implants. Active systems: implant and sound processor fully covered, at first implantation and replacement. Passive (bone-anchored) systems: implant fully covered, sound processor partly. The refund is deducted automatically.",
+        "deadline": "Your specialist checks the conditions and applies where needed.",
+        "amount": "Fully covered (passive systems: sound processor partly); you pay the hospital pharmacist's delivery margin",
+        "requirements": [],
+        "steps": [
+          "Discuss a bone conduction implant with your ENT specialist",
+          "The specialist checks the RIZIV conditions (codes C-12 and C-02) and applies where needed",
+          "The refund is settled directly; you pay only the delivery margin"
+        ]
+      },
+      "nl": {
+        "title": "Beengeleidingsimplantaten",
+        "desc": "Voor mensen met gehoorverlies ter hoogte van het middenoor die door terugkerende infecties of een misvorming van het buitenoor geen gewoon hoorapparaat kunnen dragen, betaalt de ziekteverzekering beengeleidingsimplantaten terug. Actieve systemen: implantaat en geluidsprocessor volledig terugbetaald, bij eerste implantatie en vervanging. Passieve systemen (met botverankering): implantaat volledig, geluidsprocessor gedeeltelijk. De terugbetaling wordt automatisch verrekend.",
+        "deadline": "Je specialist controleert de voorwaarden en dient zo nodig een aanvraag in.",
+        "amount": "Volledig terugbetaald (passieve systemen: geluidsprocessor deels); je betaalt de afleveringsmarge van de ziekenhuisapotheker",
+        "requirements": [],
+        "steps": [
+          "Bespreek een beengeleidingsimplantaat met je NKO-arts",
+          "De specialist controleert de RIZIV-voorwaarden (codes C-12 en C-02) en dient zo nodig een aanvraag in",
+          "De terugbetaling wordt rechtstreeks verrekend; je betaalt enkel de afleveringsmarge"
+        ]
+      },
+      "fr": {
+        "title": "Implants à conduction osseuse",
+        "desc": "Pour les personnes ayant une perte auditive au niveau de l'oreille moyenne qui ne peuvent pas porter d'appareil auditif classique à cause d'infections récurrentes ou d'une malformation de l'oreille externe, l'assurance soins de santé rembourse les implants à conduction osseuse. Systèmes actifs : implant et processeur entièrement remboursés, à la première implantation et au remplacement. Systèmes passifs (à ancrage osseux) : implant entièrement, processeur partiellement. Le remboursement est déduit automatiquement.",
+        "deadline": "Votre spécialiste vérifie les conditions et introduit une demande si nécessaire.",
+        "amount": "Entièrement remboursé (systèmes passifs : processeur en partie) ; vous payez la marge de délivrance du pharmacien hospitalier",
+        "requirements": [],
+        "steps": [
+          "Parlez d'un implant à conduction osseuse avec votre ORL",
+          "Le spécialiste vérifie les conditions INAMI (codes C-12 et C-02) et introduit une demande si nécessaire",
+          "Le remboursement est réglé directement ; vous ne payez que la marge de délivrance"
+        ]
+      },
+      "de": {
+        "title": "Knochenleitungsimplantate",
+        "desc": "Für Menschen mit Hörverlust im Mittelohr, die wegen wiederkehrender Infektionen oder einer Fehlbildung des Außenohrs kein herkömmliches Hörgerät tragen können, erstattet die Krankenversicherung Knochenleitungsimplantate. Aktive Systeme: Implantat und Soundprozessor vollständig erstattet, bei Erstimplantation und Ersatz. Passive Systeme (knochenverankert): Implantat vollständig, Soundprozessor teilweise. Die Erstattung wird automatisch verrechnet.",
+        "deadline": "Ihr Facharzt prüft die Bedingungen und stellt bei Bedarf einen Antrag.",
+        "amount": "Vollständig erstattet (passive Systeme: Soundprozessor teilweise); Sie zahlen die Abgabemarge des Krankenhausapothekers",
+        "requirements": [],
+        "steps": [
+          "Besprechen Sie ein Knochenleitungsimplantat mit Ihrem HNO-Arzt",
+          "Der Facharzt prüft die LIKIV-Bedingungen (Codes C-12 und C-02) und stellt bei Bedarf einen Antrag",
+          "Die Erstattung wird direkt verrechnet; Sie zahlen nur die Abgabemarge"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-beengeleidingssystemen",
+      "conditions": {
+        "en": [
+          "You have hearing loss at the level of the middle ear and cannot wear a traditional hearing aid because of recurring infections or a malformation of the outer ear.",
+          "You meet the RIZIV reimbursement conditions for the system concerned, and the device is on the RIZIV list."
+        ],
+        "nl": [
+          "Je hebt gehoorverlies ter hoogte van het middenoor en kan door terugkerende infecties of een misvorming van het buitenoor geen gewoon hoorapparaat dragen.",
+          "Je voldoet aan de vergoedingsvoorwaarden van het RIZIV voor het betrokken systeem, en het hulpmiddel staat op de RIZIV-lijst."
+        ],
+        "fr": [
+          "Vous avez une perte auditive au niveau de l'oreille moyenne et ne pouvez pas porter d'appareil auditif classique à cause d'infections récurrentes ou d'une malformation de l'oreille externe.",
+          "Vous remplissez les conditions de remboursement de l'INAMI pour le système concerné, et le dispositif figure sur la liste INAMI."
+        ],
+        "de": [
+          "Sie haben einen Hörverlust im Mittelohr und können wegen wiederkehrender Infektionen oder einer Fehlbildung des Außenohrs kein herkömmliches Hörgerät tragen.",
+          "Sie erfüllen die LIKIV-Erstattungsbedingungen für das betreffende System, und das Hilfsmittel steht auf der LIKIV-Liste."
+        ]
+      }
+    }
   }
 ]
