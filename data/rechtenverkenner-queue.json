@@ -4,6 +4,8 @@
     "131": 95,
     "136": 103,
     "185": 5,
+    "201": 206,
+    "246": 211,
     "331": 126,
     "365": 15,
     "630": 114,
@@ -12,6 +14,7 @@
     "676": 99,
     "682": 129,
     "685": 11,
+    "688": 114,
     "692": 6,
     "697": 96,
     "726": 90,
@@ -31,15 +34,18 @@
     "862": 44,
     "868": 137,
     "879": 92,
+    "881": 212,
     "883": 108,
     "885": 88,
     "894": 120,
     "1130": 109,
     "1213": 16,
+    "1247": 205,
     "1371": 127,
     "1387": 101,
     "1424": 126,
     "1446": 133,
+    "1466": 208,
     "1526": 97,
     "1527": 112,
     "1530": 98,
@@ -51,11 +57,13 @@
     "1564": 47,
     "1656": 105,
     "1667": 199,
+    "1672": 209,
     "1764": 132,
     "1810": 45,
     "1939": 131,
     "1975": 100,
     "2026": 9,
+    "2784": 204,
     "2847": 110,
     "2945": 156,
     "2950": 182,
@@ -123,7 +131,10 @@
     "3103": 119,
     "3108": 156,
     "3111": 26,
+    "3114": 210,
     "3117": 155,
+    "3120": 195,
+    "3122": 195,
     "38554": 155,
     "43693": 106,
     "49892": 107,
@@ -131,6 +142,7 @@
     "75001": 130,
     "75018": 93,
     "75020": 197,
+    "75066": 207,
     "75067": 136,
     "75762": 172,
     "75766": 190,
@@ -823,15 +835,6 @@
       ]
     },
     {
-      "nr": "2784",
-      "name": "JobbonusPLUS voor zelfstandigen",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/jobbonus/jobbonusplus-voor-zelfstandigen"
-      ]
-    },
-    {
       "nr": "1823",
       "name": "Leefvergoeding voor personen onder elektronisch toezicht",
       "level": "Vlaams",
@@ -910,29 +913,11 @@
       ]
     },
     {
-      "nr": "1247",
-      "name": "Tegemoetkoming voor arbeidsgereedschap, -kleding en arbeidspostaanpassingen",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/tussenkomst-arbeidsgereedschap"
-      ]
-    },
-    {
       "nr": "77395",
       "name": "Vergoeding voor schade door slechte staat van een gewestweg of door wegenwerken op een gewestweg",
       "level": "Vlaams",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "201",
-      "name": "Verhoogde vermindering van de onroerende voorheffing voor bescheiden woning",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verhoogde-vermindering-van-de-onroerende-voorheffing-voor-bescheiden-nieuwbouwwoning"
-      ]
     },
     {
       "nr": "1509",
@@ -947,15 +932,6 @@
       "level": "Vlaams",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "688",
-      "name": "Vermindering van de onroerende voorheffing voor huurders",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-onroerende-voorheffing-als-huurder"
-      ]
     },
     {
       "nr": "496",
@@ -996,15 +972,6 @@
       "financial": true,
       "official": [
         "https://vlaamswoningfonds.be/vlaamse-woonlening"
-      ]
-    },
-    {
-      "nr": "75066",
-      "name": "Vrijstelling in de erfbelasting voor kinderen jonger dan 21 jaar die beide ouders verloren hebben",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-in-de-erfbelasting-voor-kinderen-jonger-dan-21-jaar-die-beide-ouders-verloren-hebben"
       ]
     },
     {
@@ -1082,25 +1049,6 @@
       "official": []
     },
     {
-      "nr": "1466",
-      "name": "Europese handicapkaart of European Disability Card (EDC)",
-      "level": "Europees",
-      "financial": false,
-      "official": [
-        "https://eudisabilitycard.be/nl",
-        "https://eudisabilitycard.be/nl/voor-partners"
-      ]
-    },
-    {
-      "nr": "1672",
-      "name": "Adoptieverlof",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/adoptieverlof"
-      ]
-    },
-    {
       "nr": "2949",
       "name": "Ambtenaar tijdelijk gepensioneerd wegens lichamelijke ongeschiktheid",
       "level": "Federaal",
@@ -1119,39 +1067,12 @@
       ]
     },
     {
-      "nr": "3122",
-      "name": "Beroepsziekte - Definitief stopzetten van een schadelijke beroepsactiviteit (Fedris)",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.fedris.be/nl/themas/preventie-bz/stopzetting-van-werk-om-gezondheidsredenen"
-      ]
-    },
-    {
-      "nr": "3120",
-      "name": "Beroepsziekte - Tijdelijk stopzetten van een schadelijke beroepsactiviteit",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.fedris.be/nl/themas/preventie-bz/stopzetting-van-werk-om-gezondheidsredenen"
-      ]
-    },
-    {
       "nr": "55547",
       "name": "Bijverdienen tijdens uw pensioen",
       "level": "Federaal",
       "financial": false,
       "official": [
         "https://www.sfpd.fgov.be/nl/pensioenbedrag/bijverdienen"
-      ]
-    },
-    {
-      "nr": "3114",
-      "name": "Borstvoedingspauzes",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/borstvoedingspauzes"
       ]
     },
     {
@@ -1175,15 +1096,6 @@
       ]
     },
     {
-      "nr": "246",
-      "name": "Kaart voor kosteloos begeleiden van een persoon met een handicap op het openbaar vervoer",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.belgiantrain.be/nl/products/special-conditions/free-carer"
-      ]
-    },
-    {
       "nr": "250",
       "name": "Kaart voor Vaderlandslievende Reden (NMBS)",
       "level": "Federaal",
@@ -1191,15 +1103,6 @@
       "official": [
         "https://www.belgiantrain.be/nl/products/special-conditions/national-recognition-status",
         "https://www.caami-hziv.fgov.be/nl/oorlogsslachtoffers"
-      ]
-    },
-    {
-      "nr": "881",
-      "name": "Kortingkaart NMBS ‘Verhoogde tegemoetkoming'",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.belgiantrain.be/nl/products/special-conditions/preferential-reimbursement-ticket"
       ]
     },
     {

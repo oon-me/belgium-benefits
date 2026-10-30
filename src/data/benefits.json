@@ -24776,5 +24776,1093 @@
         ]
       }
     }
+  },
+  {
+    "id": 204,
+    "category": "employment",
+    "situations": [
+      "self-employed",
+      "employee"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse overheid – Departement Werk en Sociale Economie",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/jobbonus/jobbonusplus-voor-zelfstandigen",
+    "request_url": "https://www.burgerprofiel.be/jobbonus",
+    "content": {
+      "en": {
+        "title": "JobbonusPLUS for Employees Who Become Self-Employed",
+        "desc": "Employees with a lower wage who become full-time self-employed in Flanders get a one-off bonus in two instalments, on top of the regular jobbonus: €650 when they start and another €650 if they are still self-employed full-time a year later. It is taxable. The Flemish government only contacts you by letter (paper or eBox), never by text or WhatsApp.",
+        "deadline": "You receive a letter; payment follows about a month after the decision letter.",
+        "amount": "Up to 2 × €650",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bank account registered in Mijn Burgerprofiel"
+          },
+          {
+            "type": "doc",
+            "label": "Sworn statement on de minimis aid"
+          }
+        ],
+        "steps": [
+          "Wait for the letter from the Flemish government",
+          "Register your bank account at burgerprofiel.be/jobbonus and tick 'JobbonusPLUS voor zelfstandigen'",
+          "In Mijn Burgerprofiel, fill in the sworn statement that your business stayed under the de minimis aid limit (€300,000 over three years)",
+          "You get a decision letter; payment follows about a month later"
+        ]
+      },
+      "nl": {
+        "title": "JobbonusPLUS voor werknemers die zelfstandige worden",
+        "desc": "Werknemers met een lager loon die voltijds zelfstandige worden in Vlaanderen krijgen bovenop de gewone jobbonus een eenmalige premie in twee schijven: €650 bij de start en nog eens €650 als ze een jaar later nog voltijds zelfstandige zijn. Er zijn belastingen op verschuldigd. De Vlaamse overheid contacteert je enkel per brief (papier of eBox), nooit via sms of WhatsApp.",
+        "deadline": "Je krijgt een brief; de uitbetaling volgt ongeveer een maand na de beslissingsbrief.",
+        "amount": "Maximaal 2 × €650",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Rekeningnummer geregistreerd in Mijn Burgerprofiel"
+          },
+          {
+            "type": "doc",
+            "label": "Verklaring op eer over de-minimissteun"
+          }
+        ],
+        "steps": [
+          "Wacht op de brief van de Vlaamse overheid",
+          "Registreer je rekeningnummer op burgerprofiel.be/jobbonus en vink 'JobbonusPLUS voor zelfstandigen' aan",
+          "Vul in Mijn Burgerprofiel de verklaring op eer in dat je onderneming onder de grens voor de-minimissteun bleef (€300.000 over drie jaar)",
+          "Je krijgt een beslissingsbrief; de uitbetaling volgt ongeveer een maand later"
+        ]
+      },
+      "fr": {
+        "title": "JobbonusPLUS pour salariés qui deviennent indépendants",
+        "desc": "Les salariés à salaire modeste qui deviennent indépendants à titre principal en Flandre reçoivent, en plus du jobbonus ordinaire, une prime unique en deux tranches : 650 € au démarrage et encore 650 € s'ils sont toujours indépendants à titre principal un an plus tard. Elle est imposable. Le gouvernement flamand ne vous contacte que par courrier (papier ou eBox), jamais par SMS ou WhatsApp.",
+        "deadline": "Vous recevez un courrier ; le paiement suit environ un mois après la lettre de décision.",
+        "amount": "Jusqu'à 2 × 650 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Numéro de compte enregistré dans Mijn Burgerprofiel"
+          },
+          {
+            "type": "doc",
+            "label": "Déclaration sur l'honneur relative aux aides de minimis"
+          }
+        ],
+        "steps": [
+          "Attendez le courrier du gouvernement flamand",
+          "Enregistrez votre numéro de compte sur burgerprofiel.be/jobbonus et cochez « JobbonusPLUS voor zelfstandigen »",
+          "Dans Mijn Burgerprofiel, remplissez la déclaration sur l'honneur que votre entreprise est restée sous le plafond des aides de minimis (300.000 € sur trois ans)",
+          "Vous recevez une lettre de décision ; le paiement suit environ un mois plus tard"
+        ]
+      },
+      "de": {
+        "title": "JobbonusPLUS für Arbeitnehmer, die selbstständig werden",
+        "desc": "Arbeitnehmer mit niedrigerem Lohn, die in Flandern hauptberuflich selbstständig werden, erhalten zusätzlich zum regulären Jobbonus eine einmalige Prämie in zwei Raten: 650 € beim Start und weitere 650 €, wenn sie ein Jahr später noch hauptberuflich selbstständig sind. Sie ist steuerpflichtig. Die flämische Regierung kontaktiert Sie nur per Brief (Papier oder eBox), nie per SMS oder WhatsApp.",
+        "deadline": "Sie erhalten einen Brief; die Zahlung folgt etwa einen Monat nach dem Entscheidungsschreiben.",
+        "amount": "Bis zu 2 × 650 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "In Mijn Burgerprofiel registrierte Kontonummer"
+          },
+          {
+            "type": "doc",
+            "label": "Ehrenwörtliche Erklärung zu De-minimis-Beihilfen"
+          }
+        ],
+        "steps": [
+          "Warten Sie auf den Brief der flämischen Regierung",
+          "Registrieren Sie Ihre Kontonummer auf burgerprofiel.be/jobbonus und kreuzen Sie „JobbonusPLUS voor zelfstandigen“ an",
+          "Füllen Sie in Mijn Burgerprofiel die Erklärung aus, dass Ihr Unternehmen unter der De-minimis-Grenze blieb (300.000 € über drei Jahre)",
+          "Sie erhalten ein Entscheidungsschreiben; die Zahlung folgt etwa einen Monat später"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/jobbonus/jobbonusplus-voor-zelfstandigen",
+      "conditions": {
+        "en": [
+          "As an employee (worker, temp or civil servant) you earned less than €3,115 gross a month full-time, and worked at least one day as an employee in the three months before starting.",
+          "You became full-time self-employed in 2026, your business is in Flanders and you lived in Flanders on 1 January 2026.",
+          "You had not reached the legal pension age when you started and did not receive a transition premium. For the second instalment, you are still self-employed full-time one year after starting."
+        ],
+        "nl": [
+          "Als loontrekkende (werknemer, uitzendkracht of ambtenaar) verdiende je minder dan €3.115 bruto per maand voltijds, en je werkte minstens één dag als loontrekkende in de drie maanden vóór je start.",
+          "Je werd in 2026 voltijds zelfstandige, je onderneming is gevestigd in Vlaanderen en je woonde op 1 januari 2026 in Vlaanderen.",
+          "Je had bij de start de wettelijke pensioenleeftijd nog niet bereikt en kreeg geen transitiepremie. Voor de tweede schijf ben je een jaar na de start nog zelfstandige in hoofdberoep."
+        ],
+        "fr": [
+          "Comme salarié(e) (travailleur, intérimaire ou fonctionnaire), vous gagniez moins de 3.115 € bruts par mois à temps plein, et avez travaillé au moins un jour comme salarié(e) dans les trois mois avant le démarrage.",
+          "Vous êtes devenu(e) indépendant(e) à titre principal en 2026, votre entreprise est établie en Flandre et vous habitiez en Flandre le 1er janvier 2026.",
+          "Vous n'aviez pas atteint l'âge légal de la pension au démarrage et n'avez pas reçu de prime de transition. Pour la seconde tranche, vous êtes toujours indépendant(e) à titre principal un an après le démarrage."
+        ],
+        "de": [
+          "Als Lohnempfänger (Arbeitnehmer, Leiharbeiter oder Beamter) verdienten Sie weniger als 3.115 € brutto pro Monat in Vollzeit und arbeiteten in den drei Monaten vor dem Start mindestens einen Tag als Lohnempfänger.",
+          "Sie wurden 2026 hauptberuflich selbstständig, Ihr Unternehmen ist in Flandern ansässig und Sie wohnten am 1. Januar 2026 in Flandern.",
+          "Sie hatten beim Start das gesetzliche Rentenalter noch nicht erreicht und erhielten keine Übergangsprämie. Für die zweite Rate sind Sie ein Jahr nach dem Start noch hauptberuflich selbstständig."
+        ]
+      }
+    }
+  },
+  {
+    "id": 205,
+    "category": "employment",
+    "situations": [
+      "health-issue",
+      "employee",
+      "self-employed"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "VDAB",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/tussenkomst-arbeidsgereedschap",
+    "content": {
+      "en": {
+        "title": "Adapted Work Tools, Clothing and Workplace (VDAB)",
+        "desc": "If a disability or health problem means you need adapted tools or clothing (a braille display, large screen, orthopaedic safety shoes, a made-to-measure chair…), VDAB pays for them and you own them. VDAB also pays the purchase and installation of workplace adaptations for your employer or for you as self-employed (a light signal on a machine, a ramp, adapted sanitary facilities, a stairlift, adapting a car…); for an adapted version of something standard, it pays the difference.",
+        "deadline": "First request the right to this support; then apply for the support itself. You can contest a refusal within 45 days.",
+        "amount": "The costs are paid by VDAB (not everything: see VDAB's list of exclusions)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doctor's written statement on your condition and prognosis"
+          },
+          {
+            "type": "doc",
+            "label": "Copies of documents proving your disability or health problem"
+          }
+        ],
+        "steps": [
+          "Without a job: call VDAB free on 0800 30 700 and come to an interview with your documents",
+          "Employee, student, trainee or self-employed: fill in, sign and send the application form with your documents",
+          "VDAB tells you whether you have the right",
+          "Then apply for the support itself (there is a separate form for the self-employed)"
+        ]
+      },
+      "nl": {
+        "title": "Aangepast arbeidsgereedschap, -kledij en arbeidspost (VDAB)",
+        "desc": "Heb je door een beperking of gezondheidsprobleem aangepast werkmateriaal of aangepaste kledij nodig (een brailleleesregel, groot scherm, orthopedische veiligheidsschoenen, een bureaustoel op maat…), dan betaalt VDAB de kosten en word je eigenaar. VDAB betaalt ook de aankoop en installatie van aanpassingen aan de werkplek voor je werkgever of voor jou als zelfstandige (een lichtsignaal op een machine, een hellend vlak, aangepast sanitair, een traplift, een auto laten aanpassen…); voor een aangepast model van iets standaard betaalt VDAB het verschil.",
+        "deadline": "Vraag eerst het recht op deze tegemoetkoming aan; daarna vraag je de tegemoetkoming zelf aan. Tegen een weigering kan je binnen 45 dagen een heroverweging vragen.",
+        "amount": "VDAB betaalt de kosten (niet alles: zie de lijst van VDAB met wat niet betaald wordt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schriftelijke verklaring van je arts over je aandoening en prognose"
+          },
+          {
+            "type": "doc",
+            "label": "Kopieën van documenten die je beperking of gezondheidsprobleem aantonen"
+          }
+        ],
+        "steps": [
+          "Zonder werk: bel gratis VDAB op 0800 30 700 en kom op gesprek met je documenten",
+          "Werknemer, student, stagiair of zelfstandige: vul het aanvraagformulier in, onderteken het en stuur het met je documenten op",
+          "VDAB laat je weten of je het recht hebt",
+          "Vraag daarna de tegemoetkoming zelf aan (er is een apart formulier voor zelfstandigen)"
+        ]
+      },
+      "fr": {
+        "title": "Outils, vêtements de travail et poste de travail adaptés (VDAB)",
+        "desc": "Si un handicap ou un problème de santé vous oblige à utiliser des outils ou vêtements adaptés (plage braille, grand écran, chaussures de sécurité orthopédiques, chaise sur mesure…), le VDAB paie les frais et vous en devenez propriétaire. Le VDAB paie aussi l'achat et l'installation d'aménagements du poste de travail pour votre employeur ou pour vous comme indépendant(e) (signal lumineux sur une machine, rampe, sanitaires adaptés, monte-escalier, adaptation d'une voiture…) ; pour un modèle adapté d'un équipement standard, il paie la différence.",
+        "deadline": "Demandez d'abord le droit à cette intervention, puis l'intervention elle-même. Vous pouvez contester un refus dans les 45 jours.",
+        "amount": "Le VDAB paie les frais (pas tout : voir la liste des exclusions du VDAB)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Déclaration écrite du médecin sur votre affection et le pronostic"
+          },
+          {
+            "type": "doc",
+            "label": "Copies de documents prouvant votre handicap ou problème de santé"
+          }
+        ],
+        "steps": [
+          "Sans emploi : appelez gratuitement le VDAB au 0800 30 700 et venez à un entretien avec vos documents",
+          "Salarié(e), étudiant(e), stagiaire ou indépendant(e) : remplissez, signez et envoyez le formulaire avec vos documents",
+          "Le VDAB vous informe si vous avez le droit",
+          "Demandez ensuite l'intervention elle-même (formulaire distinct pour les indépendants)"
+        ]
+      },
+      "de": {
+        "title": "Angepasste Arbeitsmittel, Arbeitskleidung und Arbeitsplätze (VDAB)",
+        "desc": "Brauchen Sie wegen einer Behinderung oder eines Gesundheitsproblems angepasste Arbeitsmittel oder Kleidung (Braillezeile, großer Bildschirm, orthopädische Sicherheitsschuhe, Bürostuhl nach Maß…), zahlt der VDAB die Kosten, und Sie werden Eigentümer. Der VDAB zahlt auch Kauf und Einbau von Anpassungen am Arbeitsplatz für Ihren Arbeitgeber oder für Sie als Selbstständigen (Lichtsignal an einer Maschine, Rampe, angepasste Sanitäranlagen, Treppenlift, Umbau eines Autos…); bei einem angepassten Modell eines Standardgegenstands zahlt er den Unterschied.",
+        "deadline": "Beantragen Sie zuerst das Recht auf diese Beihilfe, dann die Beihilfe selbst. Gegen eine Ablehnung können Sie binnen 45 Tagen Überprüfung beantragen.",
+        "amount": "Der VDAB zahlt die Kosten (nicht alles: siehe Ausschlussliste des VDAB)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schriftliche Erklärung Ihres Arztes zu Erkrankung und Prognose"
+          },
+          {
+            "type": "doc",
+            "label": "Kopien von Unterlagen, die Ihre Behinderung oder Ihr Gesundheitsproblem belegen"
+          }
+        ],
+        "steps": [
+          "Ohne Arbeit: Rufen Sie den VDAB kostenlos unter 0800 30 700 an und kommen Sie mit Ihren Unterlagen zum Gespräch",
+          "Arbeitnehmer, Schüler, Praktikant oder Selbstständiger: Füllen Sie das Antragsformular aus, unterschreiben Sie es und schicken Sie es mit Ihren Unterlagen",
+          "Der VDAB teilt Ihnen mit, ob Sie das Recht haben",
+          "Beantragen Sie danach die Beihilfe selbst (für Selbstständige gibt es ein eigenes Formular)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/tussenkomst-arbeidsgereedschap",
+        "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/recht"
+      ],
+      "conditions": {
+        "en": [
+          "You have a disability or health problem and VDAB has granted you the right to support.",
+          "You are an employee or student worker, self-employed (main or side activity), in social-economy work, wijk-werken, dual learning, a final-year pupil, in a recognised VDAB or apprenticeship training, IBO, or a recognised traineeship (jobseekers can already request the right). Material for training, dual learning or traineeships is on loan only."
+        ],
+        "nl": [
+          "Je hebt een beperking of gezondheidsprobleem en VDAB kende je het recht op tegemoetkomingen toe.",
+          "Je bent werknemer of jobstudent, zelfstandige (hoofd- of bijberoep), actief in de sociale economie, wijk-werker, duaal lerende, laatstejaarsleerling, in een erkende VDAB-opleiding of opleiding met leertijd, IBO, of een erkende stage (werkzoekenden kunnen het recht al aanvragen). Materiaal bij een opleiding, duaal leren of stage krijg je enkel in bruikleen."
+        ],
+        "fr": [
+          "Vous avez un handicap ou un problème de santé et le VDAB vous a reconnu le droit aux interventions.",
+          "Vous êtes salarié(e) ou étudiant(e) jobiste, indépendant(e) (principal ou complémentaire), en économie sociale, en wijk-werken, en apprentissage dual, élève de dernière année, en formation reconnue VDAB ou en alternance, en IBO, ou en stage reconnu (les demandeurs d'emploi peuvent déjà demander le droit). En formation, dual ou stage, le matériel n'est que prêté."
+        ],
+        "de": [
+          "Sie haben eine Behinderung oder ein Gesundheitsproblem, und der VDAB hat Ihnen das Recht auf Beihilfen zuerkannt.",
+          "Sie sind Arbeitnehmer oder Werkstudent, Selbstständiger (haupt- oder nebenberuflich), in der Sozialwirtschaft, wijk-werken, dualer Ausbildung, Abschlussklasse, anerkannter VDAB- oder Lehrlingsausbildung, IBO oder anerkanntem Praktikum (Arbeitsuchende können das Recht schon beantragen). Bei Ausbildung, dualem Lernen oder Praktikum wird Material nur geliehen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 206,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verhoogde-vermindering-van-de-onroerende-voorheffing-voor-bescheiden-nieuwbouwwoning",
+    "content": {
+      "en": {
+        "title": "Higher Property Tax Reduction for a Modest New-Build Home",
+        "desc": "Owners who live in a modest home they had built new or bought new get 50% off the property tax for 5 years, instead of the usual 25%. After those 5 years the 25% reduction continues if you still meet the conditions.",
+        "deadline": "Apply once; the reduction then applies automatically for 5 years, starting with the first year property tax is due (the year after you start living there).",
+        "amount": "50% off your property tax for 5 years, then 25%",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form for the increased reduction"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of your property tax bill, if you already received it"
+          }
+        ],
+        "steps": [
+          "Download the application form for the increased reduction for a modest home",
+          "Add a copy of your property tax bill if you have one",
+          "Send it to the Vlaamse Belastingdienst",
+          "The reduction is then granted automatically for 5 years"
+        ]
+      },
+      "nl": {
+        "title": "Verhoogde vermindering van de onroerende voorheffing voor bescheiden nieuwbouwwoning",
+        "desc": "Eigenaars die wonen in een bescheiden woning die ze nieuw lieten bouwen of nieuw kochten, krijgen 5 jaar lang 50% korting op de onroerende voorheffing, in plaats van de gewone 25%. Na die 5 jaar loopt de vermindering van 25% verder als je nog aan de voorwaarden voldoet.",
+        "deadline": "Vraag één keer aan; daarna wordt de vermindering 5 jaar automatisch toegekend, vanaf het eerste jaar waarvoor onroerende voorheffing verschuldigd is (het jaar na ingebruikname).",
+        "amount": "50% korting op je onroerende voorheffing gedurende 5 jaar, daarna 25%",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier verhoogde vermindering"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van je aanslagbiljet onroerende voorheffing, als je het al ontving"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier verhoogde vermindering voor bescheiden woning",
+          "Voeg een kopie van je aanslagbiljet toe als je het al hebt",
+          "Bezorg het aan de Vlaamse Belastingdienst",
+          "De vermindering wordt daarna 5 jaar automatisch toegekend"
+        ]
+      },
+      "fr": {
+        "title": "Réduction majorée du précompte immobilier pour une habitation modeste neuve",
+        "desc": "Les propriétaires qui habitent une habitation modeste qu'ils ont fait construire neuve ou achetée neuve bénéficient pendant 5 ans de 50 % de réduction sur le précompte immobilier, au lieu des 25 % habituels. Après ces 5 ans, la réduction de 25 % continue si vous remplissez toujours les conditions.",
+        "deadline": "Demandez une seule fois ; la réduction est ensuite accordée automatiquement pendant 5 ans, à partir de la première année où le précompte est dû (l'année suivant l'occupation).",
+        "amount": "50 % de réduction sur le précompte immobilier pendant 5 ans, puis 25 %",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande de réduction majorée"
+          },
+          {
+            "type": "doc",
+            "label": "Copie de votre avertissement-extrait de rôle du précompte, si vous l'avez déjà reçu"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande de réduction majorée pour habitation modeste",
+          "Joignez une copie de votre avertissement-extrait de rôle si vous l'avez",
+          "Envoyez-le à la Vlaamse Belastingdienst",
+          "La réduction est ensuite accordée automatiquement pendant 5 ans"
+        ]
+      },
+      "de": {
+        "title": "Erhöhte Ermäßigung des Immobilienvorabzugs für eine bescheidene Neubauwohnung",
+        "desc": "Eigentümer, die in einer bescheidenen Wohnung wohnen, die sie neu bauen ließen oder neu kauften, erhalten 5 Jahre lang 50 % Ermäßigung auf den Immobilienvorabzug statt der üblichen 25 %. Danach läuft die 25-%-Ermäßigung weiter, wenn Sie die Bedingungen noch erfüllen.",
+        "deadline": "Einmal beantragen; die Ermäßigung gilt dann 5 Jahre automatisch, ab dem ersten Jahr, in dem Immobilienvorabzug fällig ist (dem Jahr nach dem Bezug).",
+        "amount": "50 % Ermäßigung auf den Immobilienvorabzug für 5 Jahre, danach 25 %",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular für die erhöhte Ermäßigung"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie Ihres Steuerbescheids zum Immobilienvorabzug, falls bereits erhalten"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular für die erhöhte Ermäßigung für eine bescheidene Wohnung herunter",
+          "Fügen Sie eine Kopie Ihres Steuerbescheids bei, falls vorhanden",
+          "Schicken Sie es an die Vlaamse Belastingdienst",
+          "Die Ermäßigung wird danach 5 Jahre automatisch gewährt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verhoogde-vermindering-van-de-onroerende-voorheffing-voor-bescheiden-nieuwbouwwoning",
+      "conditions": {
+        "en": [
+          "You are liable for property tax on the home and were registered (population or foreigners' register) at that address on 1 January of the tax year.",
+          "The home is a new build that had not been occupied before: you had it built new or bought it new.",
+          "The total non-indexed cadastral income of all your property in the Flemish Region is at most €745."
+        ],
+        "nl": [
+          "Je bent belastingplichtige voor de woning en was op 1 januari van het aanslagjaar op dat adres ingeschreven (bevolkings- of vreemdelingenregister).",
+          "De woning is een nieuwbouwwoning die nog niet eerder in gebruik was: je liet ze nieuw bouwen of kocht ze nieuw.",
+          "Het totale niet-geïndexeerde kadastraal inkomen van al je onroerende goederen in het Vlaamse Gewest is maximaal €745."
+        ],
+        "fr": [
+          "Vous êtes redevable du précompte pour l'habitation et y étiez domicilié(e) (registre de la population ou des étrangers) le 1er janvier de l'exercice.",
+          "L'habitation est une construction neuve jamais occupée auparavant : vous l'avez fait construire ou l'avez achetée neuve.",
+          "Le revenu cadastral total non indexé de tous vos biens en Région flamande est de 745 € au maximum."
+        ],
+        "de": [
+          "Sie schulden den Immobilienvorabzug für die Wohnung und waren am 1. Januar des Steuerjahres dort gemeldet (Bevölkerungs- oder Fremdenregister).",
+          "Die Wohnung ist ein zuvor nie bewohnter Neubau: Sie ließen sie neu bauen oder kauften sie neu.",
+          "Das gesamte nicht indexierte Katastereinkommen all Ihrer Immobilien in der Flämischen Region beträgt höchstens 745 €."
+        ]
+      }
+    }
+  },
+  {
+    "id": 207,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-in-de-erfbelasting-voor-kinderen-jonger-dan-21-jaar-die-beide-ouders-verloren-hebben",
+    "content": {
+      "en": {
+        "title": "Inheritance Tax Exemption for Children under 21 Who Lost Both Parents",
+        "desc": "Young people who lose both parents before 21 pay no Flemish inheritance tax on their share of the family home, and none on the first €75,000 of their share in movable assets (money, shares, cars, jewellery…). It can be combined with the disability allowance, the tax credit and the reduction for young children.",
+        "deadline": "Claim it in the inheritance declaration under 'Gunstregelingen'; if forgotten, you can still get it by filing an objection.",
+        "amount": "Family home tax-free, plus the first €75,000 of movable assets",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Inheritance declaration"
+          }
+        ],
+        "steps": [
+          "In the inheritance declaration, claim the exemption under 'Gunstregelingen'",
+          "Forgot? File an objection with the Vlaamse Belastingdienst"
+        ]
+      },
+      "nl": {
+        "title": "Vrijstelling in de erfbelasting voor kinderen jonger dan 21 die beide ouders verloren",
+        "desc": "Jongeren die vóór hun 21e beide ouders verliezen, betalen geen Vlaamse erfbelasting op hun aandeel in de gezinswoning, en geen op de eerste €75.000 van hun aandeel in roerende goederen (geld, aandelen, auto's, juwelen…). Dit is combineerbaar met het abattement voor een handicap, het belastingkrediet en de vermindering voor jonge kinderen.",
+        "deadline": "Vraag het aan in de aangifte van nalatenschap onder 'Gunstregelingen'; vergeten, dan kan je het nog krijgen via een bezwaar.",
+        "amount": "Gezinswoning vrijgesteld, plus de eerste €75.000 aan roerende goederen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aangifte van nalatenschap"
+          }
+        ],
+        "steps": [
+          "Vraag in de aangifte van nalatenschap de vrijstelling aan onder 'Gunstregelingen'",
+          "Vergeten? Dien een bezwaar in bij de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Exonération de droits de succession pour les moins de 21 ans ayant perdu leurs deux parents",
+        "desc": "Les jeunes qui perdent leurs deux parents avant 21 ans ne paient pas de droits de succession flamands sur leur part du logement familial, ni sur les premiers 75.000 € de leur part en biens meubles (argent, actions, voitures, bijoux…). Cumulable avec l'abattement pour handicap, le crédit d'impôt et la réduction pour jeunes enfants.",
+        "deadline": "Demandez-la dans la déclaration de succession sous « Gunstregelingen » ; en cas d'oubli, vous pouvez encore l'obtenir par réclamation.",
+        "amount": "Logement familial exonéré, plus les premiers 75.000 € de biens meubles",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Déclaration de succession"
+          }
+        ],
+        "steps": [
+          "Dans la déclaration de succession, demandez l'exonération sous « Gunstregelingen »",
+          "Oubli ? Introduisez une réclamation auprès de la Vlaamse Belastingdienst"
+        ]
+      },
+      "de": {
+        "title": "Erbschaftsteuerbefreiung für unter 21-Jährige, die beide Eltern verloren haben",
+        "desc": "Jugendliche, die vor 21 beide Eltern verlieren, zahlen keine flämische Erbschaftsteuer auf ihren Anteil an der Familienwohnung und keine auf die ersten 75.000 € ihres Anteils an beweglichem Vermögen (Geld, Aktien, Autos, Schmuck…). Kombinierbar mit dem Freibetrag bei Behinderung, der Steuergutschrift und der Ermäßigung für junge Kinder.",
+        "deadline": "Beantragen Sie sie in der Nachlasserklärung unter „Gunstregelingen“; vergessen, können Sie sie noch per Einspruch erhalten.",
+        "amount": "Familienwohnung steuerfrei, plus die ersten 75.000 € beweglichen Vermögens",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachlasserklärung"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie in der Nachlasserklärung die Befreiung unter „Gunstregelingen“",
+          "Vergessen? Legen Sie Einspruch bei der Vlaamse Belastingdienst ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-in-de-erfbelasting-voor-kinderen-jonger-dan-21-jaar-die-beide-ouders-verloren-hebben",
+      "conditions": {
+        "en": [
+          "You are a child of the deceased (by legal parentage) and younger than 21.",
+          "The deceased was your only or surviving parent, the estate is subject to Flemish inheritance tax, and the death was on or after 1 September 2018."
+        ],
+        "nl": [
+          "Je bent kind van de overledene (volgens de wettelijke afstamming) en jonger dan 21 jaar.",
+          "De overledene was je enige of langstlevende ouder, de nalatenschap valt onder de Vlaamse erfbelasting, en het overlijden was op of na 1 september 2018."
+        ],
+        "fr": [
+          "Vous êtes enfant du défunt (filiation légale) et avez moins de 21 ans.",
+          "Le défunt était votre seul parent ou le parent survivant, la succession relève des droits de succession flamands, et le décès a eu lieu le 1er septembre 2018 ou après."
+        ],
+        "de": [
+          "Sie sind Kind des Verstorbenen (gesetzliche Abstammung) und unter 21 Jahre alt.",
+          "Der Verstorbene war Ihr einziger oder überlebender Elternteil, der Nachlass unterliegt der flämischen Erbschaftsteuer, und der Tod trat am oder nach dem 1. September 2018 ein."
+        ]
+      }
+    }
+  },
+  {
+    "id": 208,
+    "category": "other",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Sociale Zekerheid – DG Personen met een handicap / SPF Sécurité sociale",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://eudisabilitycard.be/nl",
+    "content": {
+      "en": {
+        "title": "European Disability Card",
+        "desc": "The European Disability Card proves your disability with a single card, valid for 5 years and renewed automatically. Since 1 January 2024 you get it automatically, about 30 working days after the DG Persons with Disabilities approves an allowance, the parking card, the public-transport reduction card or vehicle tax benefits. If you were recognised before 2024, request it in MyHandicap.",
+        "deadline": "Automatic for recognitions since 1 January 2024; otherwise request it in MyHandicap.",
+        "amount": "Free card, valid 5 years",
+        "requirements": [],
+        "steps": [
+          "Recognised since 1 January 2024? Nothing to do: the card arrives by post",
+          "Recognised before 2024? Request the card in your MyHandicap file",
+          "Recognised by Iriscare, Phare, AVIQ, VAPH or DSL? Check that agency's website",
+          "Lost it? Ask the agency that recognised you for a one-time duplicate"
+        ]
+      },
+      "nl": {
+        "title": "Europese handicapkaart (European Disability Card)",
+        "desc": "De European Disability Card bewijst je handicap met één kaart, 5 jaar geldig en automatisch verlengd. Sinds 1 januari 2024 krijg je ze automatisch, ongeveer 30 werkdagen nadat de DG Personen met een handicap een tegemoetkoming, de parkeerkaart, de verminderingskaart voor het openbaar vervoer of fiscale voordelen voor je voertuig goedkeurt. Werd je vóór 2024 erkend, vraag ze dan aan in MyHandicap.",
+        "deadline": "Automatisch bij erkenningen sinds 1 januari 2024; anders aanvragen in MyHandicap.",
+        "amount": "Gratis kaart, 5 jaar geldig",
+        "requirements": [],
+        "steps": [
+          "Erkend sinds 1 januari 2024? Niets te doen: de kaart komt met de post",
+          "Erkend vóór 2024? Vraag de kaart aan in je dossier in MyHandicap",
+          "Erkend door Iriscare, Phare, AVIQ, VAPH of DSL? Kijk op de website van die instelling",
+          "Kwijt? Vraag eenmalig een duplicaat bij de instelling die je erkende"
+        ]
+      },
+      "fr": {
+        "title": "Carte européenne du handicap (European Disability Card)",
+        "desc": "La European Disability Card prouve votre handicap avec une seule carte, valable 5 ans et renouvelée automatiquement. Depuis le 1er janvier 2024, vous la recevez automatiquement, environ 30 jours ouvrables après que la DG Personnes handicapées a approuvé une allocation, la carte de stationnement, la carte de réduction pour les transports en commun ou des avantages fiscaux pour votre véhicule. Reconnu(e) avant 2024 ? Demandez-la dans MyHandicap.",
+        "deadline": "Automatique pour les reconnaissances depuis le 1er janvier 2024 ; sinon demande dans MyHandicap.",
+        "amount": "Carte gratuite, valable 5 ans",
+        "requirements": [],
+        "steps": [
+          "Reconnu(e) depuis le 1er janvier 2024 ? Rien à faire : la carte arrive par la poste",
+          "Reconnu(e) avant 2024 ? Demandez la carte dans votre dossier MyHandicap",
+          "Reconnu(e) par Iriscare, Phare, AVIQ, VAPH ou DSL ? Consultez le site de cet organisme",
+          "Perdue ? Demandez une seule fois un duplicata à l'organisme qui vous a reconnu(e)"
+        ]
+      },
+      "de": {
+        "title": "Europäischer Behindertenausweis (European Disability Card)",
+        "desc": "Die European Disability Card weist Ihre Behinderung mit einer einzigen Karte nach, 5 Jahre gültig und automatisch verlängert. Seit dem 1. Januar 2024 erhalten Sie sie automatisch, etwa 30 Werktage nachdem die GD Personen mit Behinderung eine Beihilfe, den Parkausweis, die Ermäßigungskarte für den öffentlichen Verkehr oder Steuervorteile für Ihr Fahrzeug bewilligt. Vor 2024 anerkannt? Beantragen Sie sie in MyHandicap.",
+        "deadline": "Automatisch bei Anerkennungen seit 1. Januar 2024; sonst Antrag in MyHandicap.",
+        "amount": "Kostenlose Karte, 5 Jahre gültig",
+        "requirements": [],
+        "steps": [
+          "Seit 1. Januar 2024 anerkannt? Nichts zu tun: die Karte kommt per Post",
+          "Vor 2024 anerkannt? Beantragen Sie die Karte in Ihrer MyHandicap-Akte",
+          "Von Iriscare, Phare, AVIQ, VAPH oder DSL anerkannt? Sehen Sie auf deren Website nach",
+          "Verloren? Beantragen Sie einmalig ein Duplikat bei der Stelle, die Sie anerkannt hat"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://eudisabilitycard.be/nl",
+      "conditions": {
+        "en": [
+          "You have a recognised disability with at least one of: an income replacement allowance, an integration allowance, the parking card, the national public-transport reduction card or tax benefits for your own vehicle (or a recognition by Iriscare, Phare, AVIQ, VAPH or DSL under the same conditions)."
+        ],
+        "nl": [
+          "Je hebt een erkende handicap met minstens één van: een inkomensvervangende tegemoetkoming, een integratietegemoetkoming, de parkeerkaart, de nationale verminderingskaart voor het openbaar vervoer of belastingvoordelen voor je eigen voertuig (of een erkenning door Iriscare, Phare, AVIQ, VAPH of DSL onder dezelfde voorwaarden)."
+        ],
+        "fr": [
+          "Vous avez un handicap reconnu avec au moins l'un de : une allocation de remplacement de revenus, une allocation d'intégration, la carte de stationnement, la carte nationale de réduction sur les transports en commun ou des avantages fiscaux pour votre véhicule (ou une reconnaissance par Iriscare, Phare, AVIQ, VAPH ou DSL aux mêmes conditions)."
+        ],
+        "de": [
+          "Sie haben eine anerkannte Behinderung mit mindestens einem von: Einkommensersatzbeihilfe, Integrationsbeihilfe, Parkausweis, nationale Ermäßigungskarte für den öffentlichen Verkehr oder Steuervorteile für Ihr eigenes Fahrzeug (oder eine Anerkennung durch Iriscare, Phare, AVIQ, VAPH oder DSL zu denselben Bedingungen)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 209,
+    "category": "family",
+    "situations": [
+      "children",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Werkgelegenheid / SPF Emploi (WASO-ETCS)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/adoptieverlof",
+    "content": {
+      "en": {
+        "title": "Adoption Leave for Employees",
+        "desc": "Employees who adopt a minor child are entitled to adoption leave: an individual credit of up to 6 weeks per adoptive parent, plus extra weeks to share between the parents (4 weeks for requests from 1 January 2025, 5 from 1 January 2027). The leave doubles for a child with a recognised disability and adds 2 weeks for several children at once. You are protected against dismissal from 2 months before until 1 month after the leave.",
+        "deadline": "Start within 2 months after the child is registered as part of your household (earlier for an international adoption). Notify your employer in writing at least 1 month before.",
+        "amount": "Up to 6 weeks per parent, plus 4 weeks to share (5 from 2027)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Written notice to your employer"
+          },
+          {
+            "type": "doc",
+            "label": "Sworn statement on how the extra weeks are shared, if there are two adoptive parents"
+          }
+        ],
+        "steps": [
+          "Tell your employer in writing at least 1 month before the leave starts",
+          "Take the leave in one continuous block of whole weeks",
+          "With two adoptive parents, give your employer a sworn statement on how the extra weeks are shared"
+        ]
+      },
+      "nl": {
+        "title": "Adoptieverlof voor werknemers",
+        "desc": "Werknemers die een minderjarig kind adopteren hebben recht op adoptieverlof: een individueel krediet van maximaal 6 weken per adoptieouder, plus extra weken te verdelen tussen de ouders (4 weken bij aanvragen vanaf 1 januari 2025, 5 vanaf 1 januari 2027). Het verlof verdubbelt voor een kind met een erkende handicap en krijgt 2 weken extra bij meerdere kinderen tegelijk. Je bent beschermd tegen ontslag van 2 maanden vóór tot 1 maand na het verlof.",
+        "deadline": "Begin binnen 2 maanden nadat het kind als deel van je gezin is ingeschreven (vroeger bij interlandelijke adoptie). Verwittig je werkgever minstens 1 maand vooraf schriftelijk.",
+        "amount": "Tot 6 weken per ouder, plus 4 weken te verdelen (5 vanaf 2027)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schriftelijke kennisgeving aan je werkgever"
+          },
+          {
+            "type": "doc",
+            "label": "Verklaring op eer over de verdeling van de extra weken, bij twee adoptieouders"
+          }
+        ],
+        "steps": [
+          "Verwittig je werkgever minstens 1 maand vóór het verlof schriftelijk",
+          "Neem het verlof aaneensluitend op, in volledige weken",
+          "Bij twee adoptieouders: bezorg je werkgever een verklaring op eer over de verdeling van de extra weken"
+        ]
+      },
+      "fr": {
+        "title": "Congé d'adoption pour les salariés",
+        "desc": "Les salariés qui adoptent un enfant mineur ont droit à un congé d'adoption : un crédit individuel de 6 semaines maximum par parent adoptif, plus des semaines supplémentaires à partager entre les parents (4 semaines pour les demandes dès le 1er janvier 2025, 5 dès le 1er janvier 2027). Le congé double pour un enfant avec un handicap reconnu et s'allonge de 2 semaines pour plusieurs enfants à la fois. Vous êtes protégé(e) contre le licenciement de 2 mois avant à 1 mois après le congé.",
+        "deadline": "Commencez dans les 2 mois suivant l'inscription de l'enfant dans votre ménage (plus tôt pour une adoption internationale). Prévenez votre employeur par écrit au moins 1 mois avant.",
+        "amount": "Jusqu'à 6 semaines par parent, plus 4 semaines à partager (5 dès 2027)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notification écrite à votre employeur"
+          },
+          {
+            "type": "doc",
+            "label": "Déclaration sur l'honneur sur la répartition des semaines supplémentaires, s'il y a deux parents adoptifs"
+          }
+        ],
+        "steps": [
+          "Prévenez votre employeur par écrit au moins 1 mois avant le congé",
+          "Prenez le congé en une période continue de semaines entières",
+          "Avec deux parents adoptifs, remettez à votre employeur une déclaration sur l'honneur sur la répartition des semaines supplémentaires"
+        ]
+      },
+      "de": {
+        "title": "Adoptionsurlaub für Arbeitnehmer",
+        "desc": "Arbeitnehmer, die ein minderjähriges Kind adoptieren, haben Anspruch auf Adoptionsurlaub: ein individuelles Guthaben von bis zu 6 Wochen pro Adoptivelternteil, plus zusätzliche Wochen, die zwischen den Eltern aufgeteilt werden (4 Wochen bei Anträgen ab 1. Januar 2025, 5 ab 1. Januar 2027). Der Urlaub verdoppelt sich bei einem Kind mit anerkannter Behinderung und verlängert sich um 2 Wochen bei mehreren Kindern zugleich. Sie sind von 2 Monaten vor bis 1 Monat nach dem Urlaub kündigungsgeschützt.",
+        "deadline": "Beginnen Sie binnen 2 Monaten nach der Eintragung des Kindes in Ihren Haushalt (früher bei internationaler Adoption). Informieren Sie Ihren Arbeitgeber mindestens 1 Monat vorher schriftlich.",
+        "amount": "Bis zu 6 Wochen pro Elternteil, plus 4 Wochen zum Aufteilen (5 ab 2027)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schriftliche Mitteilung an Ihren Arbeitgeber"
+          },
+          {
+            "type": "doc",
+            "label": "Ehrenwörtliche Erklärung zur Aufteilung der zusätzlichen Wochen, bei zwei Adoptiveltern"
+          }
+        ],
+        "steps": [
+          "Informieren Sie Ihren Arbeitgeber mindestens 1 Monat vor dem Urlaub schriftlich",
+          "Nehmen Sie den Urlaub am Stück in ganzen Wochen",
+          "Bei zwei Adoptiveltern: Geben Sie Ihrem Arbeitgeber eine ehrenwörtliche Erklärung zur Aufteilung der Zusatzwochen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/adoptieverlof",
+      "conditions": {
+        "en": [
+          "You are an employee on an employment contract (private sector or contract staff in the public sector) and take a minor child into your family through adoption.",
+          "Statutory civil servants, some subsidised staff in free education, volunteers, the self-employed and assisting spouses fall under other rules."
+        ],
+        "nl": [
+          "Je bent werknemer met een arbeidsovereenkomst (privésector of contractueel in overheidsdienst) en onthaalt via adoptie een minderjarig kind in je gezin.",
+          "Statutaire ambtenaren, sommige gesubsidieerde personeelsleden van het vrij onderwijs, vrijwilligers, zelfstandigen en meewerkende echtgenoten vallen onder andere regels."
+        ],
+        "fr": [
+          "Vous êtes salarié(e) sous contrat de travail (secteur privé ou contractuel dans le secteur public) et accueillez un enfant mineur dans votre famille par adoption.",
+          "Les fonctionnaires statutaires, certains membres du personnel subventionné de l'enseignement libre, les bénévoles, les indépendants et les conjoints aidants relèvent d'autres règles."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer mit Arbeitsvertrag (Privatsektor oder Vertragsbedienstete im öffentlichen Dienst) und nehmen durch Adoption ein minderjähriges Kind in Ihre Familie auf.",
+          "Statutarische Beamte, manche subventionierte Bedienstete des freien Unterrichts, Ehrenamtliche, Selbstständige und mithelfende Ehepartner fallen unter andere Regeln."
+        ]
+      }
+    }
+  },
+  {
+    "id": 210,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/borstvoedingspauzes",
+    "content": {
+      "en": {
+        "title": "Paid Breastfeeding Breaks at Work",
+        "desc": "Back at work after giving birth, employees can take breaks to breastfeed or express milk until the baby is 9 months old: two half-hour breaks a day if you work at least 7.5 hours, one if you work more than 4 hours. Your health fund pays a benefit for the lost wages.",
+        "deadline": "Tell your employer at least 2 months before you start; available until 9 months after the birth.",
+        "amount": "82% of your uncapped gross wage for the break time",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate of breastfeeding from a child health clinic or a doctor (then monthly)"
+          },
+          {
+            "type": "doc",
+            "label": "Monthly certificate for your health fund, filled in with your employer"
+          }
+        ],
+        "steps": [
+          "Tell your employer at least 2 months before you start taking breastfeeding breaks",
+          "At the start, give your employer proof of breastfeeding (child health clinic or medical certificate), then a certificate every month",
+          "Each month, fill in the certificate for your health fund with your employer",
+          "Your health fund calculates and pays the benefit"
+        ]
+      },
+      "nl": {
+        "title": "Betaalde borstvoedingspauzes op het werk",
+        "desc": "Na je bevalling kan je als werkneemster op het werk pauzes nemen om borstvoeding te geven of melk af te kolven, tot je baby 9 maanden is: twee pauzes van een half uur per dag als je minstens 7u30 werkt, één als je meer dan 4 uur werkt. Je ziekenfonds betaalt een uitkering voor het loonverlies.",
+        "deadline": "Verwittig je werkgever minstens 2 maanden vóór je start; mogelijk tot 9 maanden na de geboorte.",
+        "amount": "82% van je onbegrensd brutoloon voor de pauzetijd",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Getuigschrift van borstvoeding van een consultatiebureau of arts (daarna maandelijks)"
+          },
+          {
+            "type": "doc",
+            "label": "Maandelijks getuigschrift voor je ziekenfonds, ingevuld met je werkgever"
+          }
+        ],
+        "steps": [
+          "Verwittig je werkgever minstens 2 maanden vóór je borstvoedingspauzes start",
+          "Bezorg je werkgever bij de start een bewijs van borstvoeding (consultatiebureau of medisch getuigschrift), daarna elke maand een getuigschrift",
+          "Vul elke maand met je werkgever het getuigschrift voor je ziekenfonds in",
+          "Je ziekenfonds berekent en betaalt de uitkering"
+        ]
+      },
+      "fr": {
+        "title": "Pauses d'allaitement rémunérées au travail",
+        "desc": "De retour au travail après l'accouchement, les travailleuses peuvent prendre des pauses pour allaiter ou tirer leur lait jusqu'aux 9 mois du bébé : deux pauses d'une demi-heure par jour si vous travaillez au moins 7 h 30, une si vous travaillez plus de 4 heures. Votre mutualité verse une indemnité pour la perte de salaire.",
+        "deadline": "Prévenez votre employeur au moins 2 mois avant de commencer ; possible jusqu'à 9 mois après la naissance.",
+        "amount": "82 % de votre salaire brut non plafonné pour le temps de pause",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation d'allaitement d'une consultation pour nourrissons ou d'un médecin (puis chaque mois)"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation mensuelle pour votre mutualité, remplie avec votre employeur"
+          }
+        ],
+        "steps": [
+          "Prévenez votre employeur au moins 2 mois avant de commencer les pauses d'allaitement",
+          "Au début, remettez à votre employeur une preuve d'allaitement (consultation ou certificat médical), puis une attestation chaque mois",
+          "Chaque mois, remplissez avec votre employeur l'attestation pour votre mutualité",
+          "Votre mutualité calcule et verse l'indemnité"
+        ]
+      },
+      "de": {
+        "title": "Bezahlte Stillpausen bei der Arbeit",
+        "desc": "Nach der Entbindung können Arbeitnehmerinnen bei der Arbeit Pausen zum Stillen oder Abpumpen nehmen, bis das Baby 9 Monate alt ist: zwei halbstündige Pausen pro Tag bei mindestens 7,5 Stunden Arbeit, eine bei mehr als 4 Stunden. Ihre Krankenkasse zahlt eine Leistung für den Lohnausfall.",
+        "deadline": "Informieren Sie Ihren Arbeitgeber mindestens 2 Monate vor Beginn; möglich bis 9 Monate nach der Geburt.",
+        "amount": "82 % Ihres unbegrenzten Bruttolohns für die Pausenzeit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Stillbescheinigung einer Säuglingsberatungsstelle oder eines Arztes (danach monatlich)"
+          },
+          {
+            "type": "doc",
+            "label": "Monatliche Bescheinigung für Ihre Krankenkasse, mit dem Arbeitgeber ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Informieren Sie Ihren Arbeitgeber mindestens 2 Monate vor Beginn der Stillpausen",
+          "Geben Sie Ihrem Arbeitgeber zu Beginn einen Stillnachweis (Beratungsstelle oder ärztliche Bescheinigung), danach monatlich eine Bescheinigung",
+          "Füllen Sie jeden Monat mit Ihrem Arbeitgeber die Bescheinigung für die Krankenkasse aus",
+          "Ihre Krankenkasse berechnet und zahlt die Leistung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/borstvoedingspauzes",
+      "conditions": {
+        "en": [
+          "You are an employee who has given birth and returned to work, and you breastfeed or express milk; your baby is under 9 months.",
+          "You work more than 4 hours a day. Not if you receive an unemployment benefit."
+        ],
+        "nl": [
+          "Je bent werkneemster, bent bevallen en weer aan het werk, en geeft borstvoeding of kolft af; je baby is jonger dan 9 maanden.",
+          "Je werkt meer dan 4 uur per dag. Niet als je een werkloosheidsuitkering krijgt."
+        ],
+        "fr": [
+          "Vous êtes travailleuse salariée, avez accouché et repris le travail, et allaitez ou tirez votre lait ; votre bébé a moins de 9 mois.",
+          "Vous travaillez plus de 4 heures par jour. Pas si vous percevez une allocation de chômage."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmerin, haben entbunden und arbeiten wieder, und Sie stillen oder pumpen ab; Ihr Baby ist jünger als 9 Monate.",
+          "Sie arbeiten mehr als 4 Stunden pro Tag. Nicht, wenn Sie Arbeitslosengeld beziehen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 211,
+    "category": "other",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "NMBS / SNCB",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/free-carer",
+    "content": {
+      "en": {
+        "title": "Free Companion Card on the Train (NMBS)",
+        "desc": "If you travel by train with the help of a person or a dog, the companion travels completely free with the Free Companion Card, in the same class and on the same journey as you. Your own ticket covers them too.",
+        "deadline": "Get the card at any station ticket office during opening hours.",
+        "amount": "Companion travels free; the card costs €6 to make",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Your electronic identity card"
+          },
+          {
+            "type": "card",
+            "label": "€6 for the card"
+          }
+        ],
+        "steps": [
+          "Go to the ticket office of any station with your eID and €6",
+          "The agent checks the Crossroads Bank for Social Security; if positive, you get the card straight away",
+          "If not: fill in the application form, get a disability certificate (e.g. FOD Sociale Zekerheid) and send both to the address on the form",
+          "With the approval letter (valid 3 months), get the card at the ticket office"
+        ]
+      },
+      "nl": {
+        "title": "Kaart Kosteloze Begeleider op de trein (NMBS)",
+        "desc": "Reis je met de trein met hulp van een persoon of je hond, dan reist je begeleider helemaal gratis mee met de Kaart Kosteloze Begeleider, in dezelfde klas en op hetzelfde traject als jij. Jouw vervoersbewijs geldt ook voor je begeleider.",
+        "deadline": "Haal de kaart aan het loket van een station naar keuze, tijdens de openingsuren.",
+        "amount": "Begeleider reist gratis; de kaart kost €6 om aan te maken",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Je elektronische identiteitskaart"
+          },
+          {
+            "type": "card",
+            "label": "€6 voor de kaart"
+          }
+        ],
+        "steps": [
+          "Ga met je eID en €6 naar het loket van een station",
+          "De loketmedewerker controleert de Kruispuntbank van de Sociale Zekerheid; bij een positief resultaat krijg je de kaart meteen",
+          "Zo niet: vul het aanvraagformulier in, vraag een attest van erkenning van invaliditeit (bv. FOD Sociale Zekerheid) en stuur beide naar het adres op het formulier",
+          "Haal met de toelatingsbrief (3 maanden geldig) de kaart aan het loket"
+        ]
+      },
+      "fr": {
+        "title": "Carte Accompagnateur gratuit dans le train (SNCB)",
+        "desc": "Si vous voyagez en train avec l'aide d'une personne ou de votre chien, votre accompagnateur voyage gratuitement avec la Carte Accompagnateur gratuit, dans la même classe et sur le même trajet que vous. Votre titre de transport vaut aussi pour lui.",
+        "deadline": "Obtenez la carte au guichet de n'importe quelle gare pendant les heures d'ouverture.",
+        "amount": "Accompagnateur gratuit ; la carte coûte 6 € à établir",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Votre carte d'identité électronique"
+          },
+          {
+            "type": "card",
+            "label": "6 € pour la carte"
+          }
+        ],
+        "steps": [
+          "Rendez-vous au guichet d'une gare avec votre eID et 6 €",
+          "L'agent consulte la Banque-Carrefour de la Sécurité sociale ; si c'est positif, vous recevez la carte immédiatement",
+          "Sinon : remplissez le formulaire de demande, obtenez une attestation de reconnaissance d'invalidité (p. ex. SPF Sécurité sociale) et envoyez les deux à l'adresse indiquée",
+          "Avec la lettre d'autorisation (valable 3 mois), retirez la carte au guichet"
+        ]
+      },
+      "de": {
+        "title": "Karte Kostenlose Begleitperson im Zug (SNCB)",
+        "desc": "Reisen Sie mit Hilfe einer Person oder Ihres Hundes mit dem Zug, fährt Ihre Begleitung mit der Karte Kostenlose Begleitperson völlig kostenlos mit, in derselben Klasse und auf derselben Strecke wie Sie. Ihr Fahrschein gilt auch für die Begleitung.",
+        "deadline": "Holen Sie die Karte während der Öffnungszeiten am Schalter eines beliebigen Bahnhofs ab.",
+        "amount": "Begleitung fährt kostenlos; die Karte kostet 6 € in der Ausstellung",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Ihr elektronischer Personalausweis"
+          },
+          {
+            "type": "card",
+            "label": "6 € für die Karte"
+          }
+        ],
+        "steps": [
+          "Gehen Sie mit Ihrer eID und 6 € zum Schalter eines Bahnhofs",
+          "Der Mitarbeiter prüft die Zentrale Datenbank der sozialen Sicherheit; bei positivem Ergebnis erhalten Sie die Karte sofort",
+          "Andernfalls: Antragsformular ausfüllen, eine Invaliditätsbescheinigung (z. B. FÖD Soziale Sicherheit) besorgen und beides an die Adresse auf dem Formular schicken",
+          "Mit dem Genehmigungsschreiben (3 Monate gültig) holen Sie die Karte am Schalter ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/free-carer",
+      "conditions": {
+        "en": [
+          "You are registered in Belgium.",
+          "You meet at least one of: a loss of self-reliance of at least 12 points (or 4 points in pillar 1 of the medical-social scale), permanent invalidity or unfitness of at least 80%, permanent invalidity of the lower limbs of at least 50%, complete paralysis or amputation of the upper limbs, an integration allowance of category III or higher, or total blindness or 90% loss of sight."
+        ],
+        "nl": [
+          "Je bent in België gedomicilieerd.",
+          "Je voldoet aan minstens één van: een vermindering van zelfredzaamheid van minstens 12 punten (of 4 punten in pijler 1 van de medisch-sociale schaal), blijvende invaliditeit of arbeidsongeschiktheid van minstens 80%, blijvende invaliditeit van de onderste ledematen van minstens 50%, volledige verlamming of amputatie van de bovenste ledematen, een integratietegemoetkoming categorie III of hoger, of totale blindheid of 90% gezichtsverlies."
+        ],
+        "fr": [
+          "Vous êtes domicilié(e) en Belgique.",
+          "Vous remplissez au moins l'une des conditions : perte d'autonomie d'au moins 12 points (ou 4 points dans le pilier 1 de l'échelle médico-sociale), invalidité ou incapacité permanente d'au moins 80 %, invalidité permanente des membres inférieurs d'au moins 50 %, paralysie complète ou amputation des membres supérieurs, allocation d'intégration de catégorie III ou plus, ou cécité totale ou perte de 90 % de la vue."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in Belgien.",
+          "Sie erfüllen mindestens eine der Bedingungen: Verminderung der Selbstständigkeit um mindestens 12 Punkte (oder 4 Punkte in Säule 1 der medizinisch-sozialen Skala), bleibende Invalidität oder Arbeitsunfähigkeit von mindestens 80 %, bleibende Invalidität der unteren Gliedmaßen von mindestens 50 %, vollständige Lähmung oder Amputation der oberen Gliedmaßen, Integrationsbeihilfe der Kategorie III oder höher, oder vollständige Blindheit oder 90 % Sehverlust."
+        ]
+      }
+    }
+  },
+  {
+    "id": 212,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "NMBS / SNCB",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/preferential-reimbursement-ticket",
+    "content": {
+      "en": {
+        "title": "40% Off the Train with Increased Reimbursement (NMBS)",
+        "desc": "If you are entitled to increased reimbursement of health costs, the 'Increased Reimbursement' card gives you 40% off train journeys anywhere in Belgium, in 1st and 2nd class. The card is personal and is loaded onto your MoBIB card.",
+        "deadline": "Renew the card every year if you are under 65, every 5 years from 65.",
+        "amount": "40% off train tickets in Belgium",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Identity card"
+          },
+          {
+            "type": "card",
+            "label": "Personalised MoBIB card (a new one costs €6)"
+          }
+        ],
+        "steps": [
+          "Request the card online in your My NMBS account, or at a station ticket office",
+          "At the ticket office, show your identity card and personalised MoBIB card",
+          "The agent checks your status with the Crossroads Bank for Social Security and loads the card onto your MoBIB",
+          "Buy your tickets with the discount; renew the card in time"
+        ]
+      },
+      "nl": {
+        "title": "40% korting op de trein met verhoogde tegemoetkoming (NMBS)",
+        "desc": "Heb je recht op verhoogde tegemoetkoming voor gezondheidskosten, dan geeft de kaart 'Verhoogde Tegemoetkoming' je 40% korting op treinreizen overal in België, in 1e en 2e klas. De kaart is persoonlijk en staat op je MoBIB-kaart.",
+        "deadline": "Verleng de kaart elk jaar als je jonger bent dan 65, elke 5 jaar vanaf 65.",
+        "amount": "40% korting op treintickets in België",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Identiteitskaart"
+          },
+          {
+            "type": "card",
+            "label": "Gepersonaliseerde MoBIB-kaart (een nieuwe kost €6)"
+          }
+        ],
+        "steps": [
+          "Vraag de kaart online aan via je My NMBS-account, of aan het loket van een station",
+          "Toon aan het loket je identiteitskaart en je gepersonaliseerde MoBIB-kaart",
+          "De loketmedewerker controleert je statuut bij de Kruispuntbank van de Sociale Zekerheid en zet de kaart op je MoBIB",
+          "Koop je tickets met korting; verleng de kaart op tijd"
+        ]
+      },
+      "fr": {
+        "title": "40 % de réduction en train avec l'intervention majorée (SNCB)",
+        "desc": "Si vous avez droit à l'intervention majorée pour les soins de santé, la carte « Intervention majorée » vous donne 40 % de réduction sur les trajets en train partout en Belgique, en 1re et 2e classe. La carte est personnelle et chargée sur votre carte MoBIB.",
+        "deadline": "Renouvelez la carte chaque année avant 65 ans, tous les 5 ans à partir de 65 ans.",
+        "amount": "40 % de réduction sur les billets de train en Belgique",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Carte d'identité"
+          },
+          {
+            "type": "card",
+            "label": "Carte MoBIB personnalisée (une nouvelle coûte 6 €)"
+          }
+        ],
+        "steps": [
+          "Demandez la carte en ligne via votre compte My SNCB, ou au guichet d'une gare",
+          "Au guichet, montrez votre carte d'identité et votre carte MoBIB personnalisée",
+          "L'agent vérifie votre statut auprès de la Banque-Carrefour de la Sécurité sociale et charge la carte sur votre MoBIB",
+          "Achetez vos billets avec la réduction ; renouvelez la carte à temps"
+        ]
+      },
+      "de": {
+        "title": "40 % Rabatt im Zug mit erhöhter Kostenbeteiligung (SNCB)",
+        "desc": "Haben Sie Anspruch auf erhöhte Kostenbeteiligung bei Gesundheitskosten, erhalten Sie mit der Karte „Erhöhte Kostenbeteiligung“ 40 % Rabatt auf Zugfahrten überall in Belgien, in der 1. und 2. Klasse. Die Karte ist persönlich und wird auf Ihre MoBIB-Karte geladen.",
+        "deadline": "Erneuern Sie die Karte jährlich unter 65, alle 5 Jahre ab 65.",
+        "amount": "40 % Rabatt auf Zugfahrkarten in Belgien",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Personalausweis"
+          },
+          {
+            "type": "card",
+            "label": "Personalisierte MoBIB-Karte (eine neue kostet 6 €)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Karte online über Ihr My-SNCB-Konto oder am Schalter eines Bahnhofs",
+          "Zeigen Sie am Schalter Ihren Personalausweis und Ihre personalisierte MoBIB-Karte",
+          "Der Mitarbeiter prüft Ihren Status bei der Zentralen Datenbank der sozialen Sicherheit und lädt die Karte auf Ihre MoBIB",
+          "Kaufen Sie Ihre Fahrkarten mit Rabatt; erneuern Sie die Karte rechtzeitig"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/preferential-reimbursement-ticket",
+      "conditions": {
+        "en": [
+          "You are entitled to increased reimbursement (verhoogde tegemoetkoming / intervention majorée) of health costs, as recorded by your health fund in the Crossroads Bank for Social Security."
+        ],
+        "nl": [
+          "Je hebt recht op de verhoogde tegemoetkoming voor gezondheidskosten, zoals je ziekenfonds dat in de Kruispuntbank van de Sociale Zekerheid registreert."
+        ],
+        "fr": [
+          "Vous avez droit à l'intervention majorée pour les soins de santé, telle qu'enregistrée par votre mutualité dans la Banque-Carrefour de la Sécurité sociale."
+        ],
+        "de": [
+          "Sie haben Anspruch auf erhöhte Kostenbeteiligung bei Gesundheitskosten, wie von Ihrer Krankenkasse in der Zentralen Datenbank der sozialen Sicherheit erfasst."
+        ]
+      }
+    }
   }
 ]
