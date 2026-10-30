@@ -274,49 +274,90 @@
       "name": "Verviers",
       "checked": "29 Oct 2026",
       "ids": []
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "57096",
-      "name": "Moeskroen / Mouscron"
+      "name": "Moeskroen / Mouscron",
+      "checked": "30 Oct 2026",
+      "ids": []
     },
     {
       "nis": "21007",
-      "name": "Vorst / Forest"
+      "name": "Vorst / Forest",
+      "checked": "30 Oct 2026",
+      "ids": [
+        150
+      ]
     },
     {
       "nis": "21010",
-      "name": "Jette"
+      "name": "Jette",
+      "checked": "30 Oct 2026",
+      "ids": [
+        151
+      ]
     },
     {
       "nis": "13040",
-      "name": "Turnhout"
+      "name": "Turnhout",
+      "checked": "30 Oct 2026",
+      "ids": [
+        143
+      ]
     },
     {
       "nis": "21005",
-      "name": "Etterbeek"
+      "name": "Etterbeek",
+      "checked": "30 Oct 2026",
+      "ids": [
+        152,
+        153
+      ]
     },
     {
       "nis": "21006",
-      "name": "Evere"
+      "name": "Evere",
+      "checked": "30 Oct 2026",
+      "ids": [
+        154
+      ]
     },
     {
       "nis": "12014",
-      "name": "Heist-op-den-Berg"
+      "name": "Heist-op-den-Berg",
+      "checked": "30 Oct 2026",
+      "ids": [
+        144,
+        145
+      ]
     },
     {
       "nis": "46029",
-      "name": "Lokeren"
+      "name": "Lokeren",
+      "checked": "30 Oct 2026",
+      "ids": [
+        146,
+        147
+      ]
     },
     {
       "nis": "23088",
-      "name": "Vilvoorde / Vilvorde"
+      "name": "Vilvoorde / Vilvorde",
+      "checked": "30 Oct 2026",
+      "ids": [
+        148
+      ]
     },
     {
       "nis": "72020",
-      "name": "Lommel"
-    },
+      "name": "Lommel",
+      "checked": "30 Oct 2026",
+      "ids": [
+        149
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "33011",
       "name": "Ieper / Ypres"

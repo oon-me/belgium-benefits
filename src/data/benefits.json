@@ -17603,5 +17603,1596 @@
         ]
       }
     }
+  },
+  {
+    "id": 143,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13040"
+    ],
+    "institution": "OCMW Turnhout",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.turnhout.be/nl/samenleven-zorg-welzijn/welzijn-en-gezondheid/sociale-hulpverlening/financiele-hulpverlening/diftar",
+    "content": {
+      "en": {
+        "title": "Toelage DIFTAR om medische redenen (Medical Waste Allowance, Turnhout)",
+        "desc": "A yearly credit of €30 on your DIFTAR waste account if a chronic condition such as incontinence, a stoma or home dialysis makes you produce more waste; €60 if you also have increased reimbursement.",
+        "deadline": "Hand in the doctor's certificate by 30 June of the subsidy year.",
+        "amount": "€30 a year on your DIFTAR account, €60 with increased reimbursement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, filled in by your GP with the date the condition was diagnosed"
+          },
+          {
+            "type": "doc",
+            "label": "For the higher amount: a certificate of increased reimbursement from your health fund"
+          }
+        ],
+        "steps": [
+          "Get the form at the OCMW or use the online form on turnhout.be",
+          "Have your GP fill it in; for the higher amount, also get a form from your health fund",
+          "Hand the forms in at the OCMW or email them to diftar@ocmwturnhout.be",
+          "Handed in before 1 April: credit by 1 July; before 31 December: credit by 31 January of the next year"
+        ]
+      },
+      "nl": {
+        "title": "Toelage DIFTAR om medische redenen (Turnhout)",
+        "desc": "Een jaarlijkse toelage van €30 op je DIFTAR-rekening als je door chronische incontinentie of een andere aandoening (stoma, nierdialyse …) meer afval produceert; €60 als je ook recht hebt op verhoogde tegemoetkoming.",
+        "deadline": "Bezorg het medisch attest uiterlijk op 30 juni van het subsidiejaar.",
+        "amount": "€30 per jaar op je DIFTAR-rekening, €60 met verhoogde tegemoetkoming",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ingevuld door je huisarts met de datum waarop de aandoening werd vastgesteld"
+          },
+          {
+            "type": "doc",
+            "label": "Voor de verhoogde toelage: een attest van verhoogde tegemoetkoming van je ziekenfonds"
+          }
+        ],
+        "steps": [
+          "Haal het formulier bij het OCMW of gebruik het digitale aanvraagformulier op turnhout.be",
+          "Laat het invullen door je huisarts; voor de verhoogde toelage haal je ook een formulier bij je ziekenfonds",
+          "Breng de formulieren binnen bij het OCMW of mail ze naar diftar@ocmwturnhout.be",
+          "Binnengebracht voor 1 april: toelage voor 1 juli; voor 31 december: toelage voor 31 januari van het volgende jaar"
+        ]
+      },
+      "fr": {
+        "title": "Toelage DIFTAR om medische redenen (allocation déchets pour raisons médicales, Turnhout)",
+        "desc": "Un crédit annuel de 30 € sur votre compte déchets DIFTAR si une affection chronique (incontinence, stomie, dialyse rénale…) vous fait produire plus de déchets ; 60 € si vous bénéficiez aussi de l'intervention majorée.",
+        "deadline": "Remettez le certificat médical au plus tard le 30 juin de l'année de subvention.",
+        "amount": "30 € par an sur votre compte DIFTAR, 60 € avec l'intervention majorée",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, complété par votre médecin traitant avec la date du diagnostic"
+          },
+          {
+            "type": "doc",
+            "label": "Pour le montant majoré : une attestation d'intervention majorée de votre mutualité"
+          }
+        ],
+        "steps": [
+          "Retirez le formulaire à l'OCMW ou utilisez le formulaire en ligne sur turnhout.be",
+          "Faites-le compléter par votre médecin ; pour le montant majoré, demandez aussi un formulaire à votre mutualité",
+          "Remettez les formulaires à l'OCMW ou envoyez-les à diftar@ocmwturnhout.be",
+          "Remis avant le 1er avril : crédit avant le 1er juillet ; avant le 31 décembre : crédit avant le 31 janvier suivant"
+        ]
+      },
+      "de": {
+        "title": "Toelage DIFTAR om medische redenen (Abfallzulage aus medizinischen Gründen, Turnhout)",
+        "desc": "Eine jährliche Gutschrift von 30 € auf Ihrem DIFTAR-Abfallkonto, wenn Sie wegen chronischer Inkontinenz oder einer anderen Erkrankung (Stoma, Nierendialyse …) mehr Abfall erzeugen; 60 €, wenn Sie außerdem die erhöhte Kostenerstattung erhalten.",
+        "deadline": "Reichen Sie das ärztliche Attest bis spätestens 30. Juni des Förderjahres ein.",
+        "amount": "30 € pro Jahr auf Ihrem DIFTAR-Konto, 60 € mit erhöhter Kostenerstattung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, ausgefüllt von Ihrem Hausarzt mit dem Datum der Diagnose"
+          },
+          {
+            "type": "doc",
+            "label": "Für den höheren Betrag: eine Bescheinigung der erhöhten Kostenerstattung Ihrer Krankenkasse"
+          }
+        ],
+        "steps": [
+          "Holen Sie das Formular beim OCMW oder nutzen Sie das Online-Formular auf turnhout.be",
+          "Lassen Sie es von Ihrem Hausarzt ausfüllen; für den höheren Betrag holen Sie auch ein Formular bei Ihrer Krankenkasse",
+          "Geben Sie die Formulare beim OCMW ab oder senden Sie sie an diftar@ocmwturnhout.be",
+          "Vor dem 1. April eingereicht: Gutschrift vor dem 1. Juli; vor dem 31. Dezember: Gutschrift vor dem 31. Januar des Folgejahres"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.turnhout.be/nl/samenleven-zorg-welzijn/welzijn-en-gezondheid/sociale-hulpverlening/financiele-hulpverlening/diftar"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Turnhout and are registered with IOK Afvalbeheer for Turnhout's DIFTAR system.",
+          "You have chronic incontinence or another condition (stoma, kidney dialysis…) that produces more waste than average, shown by a doctor's certificate as present on 1 January of the subsidy year.",
+          "For €60 instead of €30: a health-fund certificate that you qualify for increased reimbursement.",
+          "A temporary incontinence problem needs a new certificate every year."
+        ],
+        "nl": [
+          "Je woont in Turnhout en bent aangemeld bij IOK Afvalbeheer voor het DIFTAR-systeem van Turnhout.",
+          "Je lijdt aan chronische incontinentie of een ander ziektebeeld (stoma, nierdialyse …) dat meer afval dan gemiddeld oplevert, met een medisch attest dat de aandoening op 1 januari van het subsidiejaar aantoont.",
+          "Voor €60 in plaats van €30: een attest van het ziekenfonds dat je in aanmerking komt voor verhoogde tegemoetkoming.",
+          "Bij een tijdelijk incontinentieprobleem moet je het attest jaarlijks hernieuwen."
+        ],
+        "fr": [
+          "Vous habitez Turnhout et êtes inscrit(e) auprès d'IOK Afvalbeheer pour le système DIFTAR de Turnhout.",
+          "Vous souffrez d'incontinence chronique ou d'une autre affection (stomie, dialyse rénale…) produisant plus de déchets que la moyenne, attestée par un médecin au 1er janvier de l'année de subvention.",
+          "Pour 60 € au lieu de 30 € : une attestation de la mutualité indiquant que vous avez droit à l'intervention majorée.",
+          "En cas d'incontinence temporaire, le certificat doit être renouvelé chaque année."
+        ],
+        "de": [
+          "Sie wohnen in Turnhout und sind bei IOK Afvalbeheer für das DIFTAR-System von Turnhout angemeldet.",
+          "Sie leiden an chronischer Inkontinenz oder einer anderen Erkrankung (Stoma, Nierendialyse …), die mehr Abfall als üblich verursacht, belegt durch ein ärztliches Attest für den 1. Januar des Förderjahres.",
+          "Für 60 € statt 30 €: eine Bescheinigung der Krankenkasse, dass Sie Anspruch auf erhöhte Kostenerstattung haben.",
+          "Bei vorübergehender Inkontinenz muss das Attest jedes Jahr erneuert werden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 144,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12014"
+    ],
+    "institution": "Lokaal Bestuur Heist-op-den-Berg",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.heist-op-den-berg.be/diftar-toelage",
+    "content": {
+      "en": {
+        "title": "Diftar-toelage om medische redenen (Medical Waste Allowance, Heist-op-den-Berg)",
+        "desc": "A yearly credit on your Diftar waste balance: €30 if you have incontinence, €15 for another medical reason such as kidney dialysis at home or a stoma.",
+        "deadline": "Requests are processed after 1 July and in January of the next year; the allowance still counts for the year you applied.",
+        "amount": "€30 a year (incontinence) or €15 a year (other medical reason)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The 2026 application form, filled in by your doctor or health fund (incontinence)"
+          },
+          {
+            "type": "doc",
+            "label": "A medical certificate (other medical reason), or a copy of the VAPH decision if VAPH pays for your incontinence material"
+          }
+        ],
+        "steps": [
+          "Download the application form from heist-op-den-berg.be",
+          "Have your doctor or health fund fill it in; they can mark it as valid without time limit, so it is granted again every year",
+          "Send it to Team Milieu, Leopoldlei 40, 2220 Heist-op-den-Berg, or milieu@heist-op-den-berg.be",
+          "The allowance is added to your Diftar balance; check it on mijndiftar.be"
+        ]
+      },
+      "nl": {
+        "title": "Diftar-toelage om medische redenen (Heist-op-den-Berg)",
+        "desc": "Een jaarlijkse toelage op je Diftarsaldo: €30 bij incontinentie, €15 bij een andere medische reden zoals nierdialyse aan huis of een stoma.",
+        "deadline": "Aanvragen worden verwerkt na 1 juli en in januari van het volgende jaar; de toelage geldt nog voor het jaar van de aanvraag.",
+        "amount": "€30 per jaar (incontinentie) of €15 per jaar (andere medische reden)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier 2026, ingevuld door je arts of ziekenfonds (incontinentie)"
+          },
+          {
+            "type": "doc",
+            "label": "Een medisch attest (andere medische reden), of een kopie van de VAPH-beslissing als het VAPH je incontinentiemateriaal betaalt"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op heist-op-den-berg.be",
+          "Laat het invullen door je arts of ziekenfonds; zij kunnen aanduiden dat het voor onbeperkte tijd geldt, dan krijg je de toelage elk jaar automatisch",
+          "Bezorg het aan Team Milieu, Leopoldlei 40, 2220 Heist-op-den-Berg, of milieu@heist-op-den-berg.be",
+          "De toelage wordt toegevoegd aan je Diftarsaldo; raadpleeg het via mijndiftar.be"
+        ]
+      },
+      "fr": {
+        "title": "Diftar-toelage om medische redenen (allocation déchets pour raisons médicales, Heist-op-den-Berg)",
+        "desc": "Un crédit annuel sur votre solde déchets Diftar : 30 € en cas d'incontinence, 15 € pour une autre raison médicale comme la dialyse rénale à domicile ou une stomie.",
+        "deadline": "Les demandes sont traitées après le 1er juillet et en janvier de l'année suivante ; l'allocation vaut encore pour l'année de la demande.",
+        "amount": "30 € par an (incontinence) ou 15 € par an (autre raison médicale)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande 2026, complété par votre médecin ou votre mutualité (incontinence)"
+          },
+          {
+            "type": "doc",
+            "label": "Un certificat médical (autre raison médicale), ou une copie de la décision du VAPH s'il paie votre matériel d'incontinence"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur heist-op-den-berg.be",
+          "Faites-le compléter par votre médecin ou votre mutualité ; ils peuvent indiquer une durée illimitée, et l'allocation est alors accordée chaque année",
+          "Envoyez-le à Team Milieu, Leopoldlei 40, 2220 Heist-op-den-Berg, ou à milieu@heist-op-den-berg.be",
+          "L'allocation est ajoutée à votre solde Diftar ; consultez-le sur mijndiftar.be"
+        ]
+      },
+      "de": {
+        "title": "Diftar-toelage om medische redenen (Abfallzulage aus medizinischen Gründen, Heist-op-den-Berg)",
+        "desc": "Eine jährliche Gutschrift auf Ihrem Diftar-Abfallsaldo: 30 € bei Inkontinenz, 15 € aus einem anderen medizinischen Grund wie Heimdialyse oder Stoma.",
+        "deadline": "Anträge werden nach dem 1. Juli und im Januar des Folgejahres bearbeitet; die Zulage gilt noch für das Antragsjahr.",
+        "amount": "30 € pro Jahr (Inkontinenz) oder 15 € pro Jahr (anderer medizinischer Grund)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular 2026, ausgefüllt von Ihrem Arzt oder Ihrer Krankenkasse (Inkontinenz)"
+          },
+          {
+            "type": "doc",
+            "label": "Ein ärztliches Attest (anderer medizinischer Grund) oder eine Kopie der VAPH-Entscheidung, wenn das VAPH Ihr Inkontinenzmaterial bezahlt"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf heist-op-den-berg.be herunter",
+          "Lassen Sie es von Ihrem Arzt oder Ihrer Krankenkasse ausfüllen; sie können eine unbefristete Gültigkeit angeben, dann wird die Zulage jedes Jahr gewährt",
+          "Senden Sie es an Team Milieu, Leopoldlei 40, 2220 Heist-op-den-Berg, oder milieu@heist-op-den-berg.be",
+          "Die Zulage wird Ihrem Diftar-Saldo gutgeschrieben; einsehbar auf mijndiftar.be"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.heist-op-den-berg.be/diftar-toelage",
+        "https://www.heist-op-den-berg.be/file/download/98f3040a-1dab-4913-9eba-e36aeb5bd75a/snjKK1GnfPP19bFjoJv1aH2cdiYb06u4j9fts3rU3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are registered as living in Heist-op-den-Berg.",
+          "For €30: a doctor or your health fund confirms incontinence (score 2 or more for continence on the dependency scale), or VAPH pays towards your incontinence material.",
+          "For €15: a medical certificate shows another medical reason, such as kidney dialysis at home or a stoma.",
+          "The incontinence is confirmed for an unlimited period or for at least one uninterrupted year."
+        ],
+        "nl": [
+          "Je bent ingeschreven in Heist-op-den-Berg.",
+          "Voor €30: een arts of je ziekenfonds bevestigt incontinentie (score 2 of meer voor continentie op het afhankelijkheidsrooster), of het VAPH komt tussen in je incontinentiemateriaal.",
+          "Voor €15: een medisch attest toont een andere medische reden aan, zoals nierdialyse aan huis of een stoma.",
+          "De incontinentie wordt bevestigd voor onbeperkte tijd of voor minstens 1 jaar ononderbroken."
+        ],
+        "fr": [
+          "Vous êtes inscrit(e) à Heist-op-den-Berg.",
+          "Pour 30 € : un médecin ou votre mutualité confirme l'incontinence (score de 2 ou plus pour la continence sur l'échelle de dépendance), ou le VAPH intervient dans votre matériel d'incontinence.",
+          "Pour 15 € : un certificat médical atteste une autre raison médicale, comme la dialyse rénale à domicile ou une stomie.",
+          "L'incontinence est confirmée pour une durée illimitée ou pour au moins 1 an sans interruption."
+        ],
+        "de": [
+          "Sie sind in Heist-op-den-Berg gemeldet.",
+          "Für 30 €: Ein Arzt oder Ihre Krankenkasse bestätigt die Inkontinenz (Wert 2 oder mehr für Kontinenz auf der Abhängigkeitsskala), oder das VAPH beteiligt sich an Ihrem Inkontinenzmaterial.",
+          "Für 15 €: Ein ärztliches Attest belegt einen anderen medizinischen Grund, etwa Heimdialyse oder ein Stoma.",
+          "Die Inkontinenz ist unbefristet oder für mindestens 1 ununterbrochenes Jahr bestätigt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 145,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12014"
+    ],
+    "institution": "Lokaal Bestuur Heist-op-den-Berg",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.heist-op-den-berg.be/herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Premie herbruikbare luiers (Washable Nappies Premium, Heist-op-den-Berg)",
+        "desc": "Half of what you spend on buying or renting washable nappies and accessories, up to €100.",
+        "deadline": "Apply before your child's second birthday, with receipts less than a year old.",
+        "amount": "50% of the purchase price, up to €100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of purchase of at least €200 (buying) or at least €50 (renting) for washable nappies and accessories, less than a year old"
+          }
+        ],
+        "steps": [
+          "Download the application form from heist-op-den-berg.be",
+          "Fill in your details, your child's name and date of birth, and your bank account number",
+          "Send it with the receipt to Team Milieu en Klimaat, Leopoldlei 40, 2220 Heist-op-den-Berg, or milieu@heist-op-den-berg.be"
+        ]
+      },
+      "nl": {
+        "title": "Premie herbruikbare luiers (Heist-op-den-Berg)",
+        "desc": "De helft van wat je uitgeeft aan de aankoop of huur van herbruikbare luiers en benodigdheden, met een maximum van €100.",
+        "deadline": "Vraag aan voor de tweede verjaardag van je kind, met aankoopbewijzen van minder dan een jaar oud.",
+        "amount": "50% van het aankoopbedrag, maximaal €100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een aankoopbewijs van minstens €200 (aankoop) of minstens €50 (huur) voor herbruikbare luiers en benodigdheden, niet ouder dan een jaar"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op heist-op-den-berg.be",
+          "Vul je gegevens, de naam en geboortedatum van je kindje en je rekeningnummer in",
+          "Bezorg het met het aankoopbewijs aan Team Milieu en Klimaat, Leopoldlei 40, 2220 Heist-op-den-Berg, of milieu@heist-op-den-berg.be"
+        ]
+      },
+      "fr": {
+        "title": "Premie herbruikbare luiers (prime langes lavables, Heist-op-den-Berg)",
+        "desc": "La moitié de vos dépenses d'achat ou de location de langes lavables et accessoires, avec un maximum de 100 €.",
+        "deadline": "Demandez-la avant le deuxième anniversaire de votre enfant, avec des preuves d'achat de moins d'un an.",
+        "amount": "50 % du prix d'achat, maximum 100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve d'achat d'au moins 200 € (achat) ou d'au moins 50 € (location) pour des langes lavables et accessoires, datant de moins d'un an"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur heist-op-den-berg.be",
+          "Indiquez vos coordonnées, le nom et la date de naissance de l'enfant et votre numéro de compte",
+          "Envoyez-le avec la preuve d'achat à Team Milieu en Klimaat, Leopoldlei 40, 2220 Heist-op-den-Berg, ou à milieu@heist-op-den-berg.be"
+        ]
+      },
+      "de": {
+        "title": "Premie herbruikbare luiers (Prämie für Mehrwegwindeln, Heist-op-den-Berg)",
+        "desc": "Die Hälfte Ihrer Ausgaben für Kauf oder Miete von Mehrwegwindeln und Zubehör, höchstens 100 €.",
+        "deadline": "Beantragen Sie sie vor dem zweiten Geburtstag Ihres Kindes, mit Kaufbelegen, die weniger als ein Jahr alt sind.",
+        "amount": "50 % des Kaufpreises, höchstens 100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Kaufbeleg über mindestens 200 € (Kauf) oder mindestens 50 € (Miete) für Mehrwegwindeln und Zubehör, nicht älter als ein Jahr"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf heist-op-den-berg.be herunter",
+          "Tragen Sie Ihre Daten, Name und Geburtsdatum des Kindes und Ihre Kontonummer ein",
+          "Senden Sie es mit dem Kaufbeleg an Team Milieu en Klimaat, Leopoldlei 40, 2220 Heist-op-den-Berg, oder milieu@heist-op-den-berg.be"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.heist-op-den-berg.be/herbruikbare-luiers",
+        "https://www.heist-op-den-berg.be/file/download/c9db589b-7fd1-4d4e-b868-5957907f6120/a2WI7mrk4tQHN6ymQjyO5bAyx4L1c31MQxd56KnQOk3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are the father or mother of the child.",
+          "You bought washable nappies and accessories for at least €200, or rented them for at least €50.",
+          "The receipts are less than a year old when you apply, and you apply before the child's second birthday."
+        ],
+        "nl": [
+          "Je bent de vader of moeder van het kind.",
+          "Je kocht herbruikbare luiers en benodigdheden voor minstens €200, of huurde ze voor minstens €50.",
+          "De aankoopbewijzen zijn niet ouder dan een jaar op de datum van de aanvraag, en je vraagt aan voor de tweede verjaardag van het kind."
+        ],
+        "fr": [
+          "Vous êtes le père ou la mère de l'enfant.",
+          "Vous avez acheté des langes lavables et accessoires pour au moins 200 €, ou les avez loués pour au moins 50 €.",
+          "Les preuves d'achat ont moins d'un an à la date de la demande, et vous la faites avant le deuxième anniversaire de l'enfant."
+        ],
+        "de": [
+          "Sie sind Vater oder Mutter des Kindes.",
+          "Sie haben Mehrwegwindeln und Zubehör für mindestens 200 € gekauft oder für mindestens 50 € gemietet.",
+          "Die Kaufbelege sind bei Antragstellung weniger als ein Jahr alt, und Sie beantragen vor dem zweiten Geburtstag des Kindes."
+        ]
+      }
+    }
+  },
+  {
+    "id": 146,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "46029"
+    ],
+    "institution": "Stad Lokeren",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://lokeren.be/producten-en-diensten/toelage-incontinentie-stomapatienten-nierdialyse",
+    "content": {
+      "en": {
+        "title": "Toelage incontinentie, stomapatiënten, nierdialyse (Incontinence, Stoma and Dialysis Allowance, Lokeren)",
+        "desc": "A yearly allowance for people with chronic incontinence, stoma patients and people on kidney dialysis at home: €45, or €30 if you have increased reimbursement.",
+        "deadline": "Apply by 1 December of the year.",
+        "amount": "€45 a year, or €30 with increased reimbursement (indexed yearly)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Incontinence: proof of purchase of incontinence material worth at least €40"
+          },
+          {
+            "type": "doc",
+            "label": "Home dialysis or stoma: a certificate from your treating doctor"
+          }
+        ],
+        "steps": [
+          "Make an appointment with the Welzijnshuis",
+          "Hand in your request with the proof by 1 December"
+        ]
+      },
+      "nl": {
+        "title": "Toelage incontinentie, stomapatiënten, nierdialyse (Lokeren)",
+        "desc": "Een jaarlijkse toelage voor personen met chronische incontinentie, stomapatiënten en personen die thuis nierdialyse doen: €45, of €30 als je recht hebt op verhoogde tegemoetkoming.",
+        "deadline": "Vraag aan uiterlijk op 1 december van het dienstjaar.",
+        "amount": "€45 per jaar, of €30 met verhoogde tegemoetkoming (jaarlijks geïndexeerd)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Incontinentie: een bewijs van aankoop van incontinentiemateriaal voor minstens €40"
+          },
+          {
+            "type": "doc",
+            "label": "Nierdialyse thuis of stoma: een attest van de behandelende arts"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak met het Welzijnshuis",
+          "Dien je aanvraag met de bewijsstukken in uiterlijk op 1 december"
+        ]
+      },
+      "fr": {
+        "title": "Toelage incontinentie, stomapatiënten, nierdialyse (allocation incontinence, stomie, dialyse, Lokeren)",
+        "desc": "Une allocation annuelle pour les personnes souffrant d'incontinence chronique, les patients stomisés et les personnes en dialyse rénale à domicile : 45 €, ou 30 € si vous avez droit à l'intervention majorée.",
+        "deadline": "À demander au plus tard le 1er décembre de l'année.",
+        "amount": "45 € par an, ou 30 € avec l'intervention majorée (indexé chaque année)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Incontinence : une preuve d'achat de matériel d'incontinence d'au moins 40 €"
+          },
+          {
+            "type": "doc",
+            "label": "Dialyse à domicile ou stomie : une attestation du médecin traitant"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous au Welzijnshuis",
+          "Introduisez votre demande avec les preuves au plus tard le 1er décembre"
+        ]
+      },
+      "de": {
+        "title": "Toelage incontinentie, stomapatiënten, nierdialyse (Zulage bei Inkontinenz, Stoma und Dialyse, Lokeren)",
+        "desc": "Eine jährliche Zulage für Menschen mit chronischer Inkontinenz, Stomapatienten und Menschen mit Heimdialyse: 45 € oder 30 €, wenn Sie Anspruch auf die erhöhte Kostenerstattung haben.",
+        "deadline": "Bis spätestens 1. Dezember des Jahres beantragen.",
+        "amount": "45 € pro Jahr oder 30 € mit erhöhter Kostenerstattung (jährlich indexiert)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Inkontinenz: ein Kaufbeleg für Inkontinenzmaterial von mindestens 40 €"
+          },
+          {
+            "type": "doc",
+            "label": "Heimdialyse oder Stoma: ein Attest des behandelnden Arztes"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin im Welzijnshuis",
+          "Reichen Sie Ihren Antrag mit den Nachweisen bis spätestens 1. Dezember ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://lokeren.be/producten-en-diensten/toelage-incontinentie-stomapatienten-nierdialyse"
+      ],
+      "conditions": {
+        "en": [
+          "On 1 January of the year you are registered in the population registers (bevolkingsregisters) of Lokeren.",
+          "You have chronic incontinence or a stoma, or do kidney dialysis at home.",
+          "You are not admitted to a hospital, residential care centre or care institution."
+        ],
+        "nl": [
+          "Je bent op 1 januari van het dienstjaar ingeschreven in de bevolkingsregisters van de stad Lokeren.",
+          "Je lijdt aan chronische incontinentie, bent stomapatiënt of doet thuis nierdialyse.",
+          "Je bent niet opgenomen in een ziekenhuis, woonzorgcentrum of verzorgingsinstelling."
+        ],
+        "fr": [
+          "Au 1er janvier de l'année, vous êtes inscrit(e) aux registres de la population (bevolkingsregisters) de Lokeren.",
+          "Vous souffrez d'incontinence chronique, êtes stomisé(e) ou faites une dialyse rénale à domicile.",
+          "Vous n'êtes pas admis(e) dans un hôpital, une maison de repos et de soins ou un établissement de soins."
+        ],
+        "de": [
+          "Am 1. Januar des Jahres sind Sie in den Bevölkerungsregistern (bevolkingsregisters) von Lokeren eingetragen.",
+          "Sie leiden an chronischer Inkontinenz, haben ein Stoma oder machen eine Heimdialyse.",
+          "Sie sind nicht in einem Krankenhaus, Wohn- und Pflegezentrum oder einer Pflegeeinrichtung aufgenommen."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the page requires registration in Lokeren's population registers (bevolkingsregisters).",
+            "nl": "Niet voor jou: de pagina vereist een inschrijving in de bevolkingsregisters van Lokeren.",
+            "fr": "Pas pour vous : la page exige une inscription aux registres de la population (bevolkingsregisters) de Lokeren.",
+            "de": "Nicht für Sie: Die Seite verlangt eine Eintragung in den Bevölkerungsregistern (bevolkingsregisters) von Lokeren."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 147,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "46029"
+    ],
+    "institution": "Stad Lokeren",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://lokeren.be/producten-en-diensten/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Lokeren)",
+        "desc": "€147 a year for the unpaid care at home of someone aged 65 or over who needs care.",
+        "deadline": "No deadline on the page; one premium per person cared for.",
+        "amount": "€147 a year (indexed yearly)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A care-need certificate: 30-34 points on the BEL scale or a matching BelRAI screener score from a recognised assessor of the Flemish Social Protection, or 12-14 points on the FPS Social Security scale"
+          }
+        ],
+        "steps": [
+          "Ask the Welzijnshuis for the application form",
+          "Hand it in with the care-need certificate"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Lokeren)",
+        "desc": "€147 per jaar voor de onbetaalde thuiszorg voor iemand van 65 jaar of ouder die zorg nodig heeft.",
+        "deadline": "Geen termijn op de pagina; per zorgbehoevende wordt maar één premie toegekend.",
+        "amount": "€147 per jaar (jaarlijks geïndexeerd)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een attest van zorgbehoevendheid: 30-34 punten op de BEL-schaal of een overeenkomstige score op de BelRAI-screener van een erkende indicatiesteller van de Vlaamse Sociale Bescherming, of 12 tot 14 punten op de schaal van de FOD Sociale Zekerheid"
+          }
+        ],
+        "steps": [
+          "Vraag het aanvraagformulier aan bij het Welzijnshuis",
+          "Dien het in met het attest van zorgbehoevendheid"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aidant proche, Lokeren)",
+        "desc": "147 € par an pour les soins non rémunérés à domicile d'une personne de 65 ans ou plus qui a besoin d'aide.",
+        "deadline": "Pas de délai sur la page ; une seule prime par personne aidée.",
+        "amount": "147 € par an (indexé chaque année)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une attestation de dépendance : 30 à 34 points sur l'échelle BEL ou un score équivalent au screener BelRAI, délivrée par un évaluateur agréé de la Protection sociale flamande, ou 12 à 14 points sur l'échelle du SPF Sécurité sociale"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire au Welzijnshuis",
+          "Introduisez-le avec l'attestation de dépendance"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Lokeren)",
+        "desc": "147 € pro Jahr für die unbezahlte häusliche Pflege einer Person ab 65 Jahren, die Pflege braucht.",
+        "deadline": "Keine Frist auf der Seite; pro pflegebedürftiger Person wird nur eine Prämie gewährt.",
+        "amount": "147 € pro Jahr (jährlich indexiert)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Pflegebedürftigkeit: 30-34 Punkte auf der BEL-Skala oder ein entsprechender BelRAI-Screener-Wert von einem anerkannten Gutachter des Flämischen Sozialschutzes, oder 12 bis 14 Punkte auf der Skala des FÖD Soziale Sicherheit"
+          }
+        ],
+        "steps": [
+          "Fragen Sie im Welzijnshuis nach dem Antragsformular",
+          "Reichen Sie es mit der Bescheinigung der Pflegebedürftigkeit ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://lokeren.be/producten-en-diensten/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for is at least 65 when the care is given.",
+          "The person cared for is domiciled and actually lives in Lokeren; people living in an institution cannot get it.",
+          "The person cared for, or any adult living with the carer, applies; one premium per person cared for.",
+          "No care budget for people with a severe care need from the Flemish Social Protection has been granted for the person cared for."
+        ],
+        "nl": [
+          "De zorgbehoevende is minstens 65 jaar oud op het moment van de zorgverlening.",
+          "De zorgbehoevende is gedomicilieerd en effectief woonachtig in Lokeren; wie in een instelling verblijft, kan de premie niet krijgen.",
+          "De zorgbehoevende of elke meerderjarige die met de mantelzorger samenwoont, vraagt aan; per zorgbehoevende één premie.",
+          "Voor de zorgbehoevende is geen zorgbudget voor zwaar zorgbehoevenden vanuit de Vlaamse Sociale Bescherming toegekend."
+        ],
+        "fr": [
+          "La personne aidée a au moins 65 ans au moment des soins.",
+          "La personne aidée est domiciliée et vit effectivement à Lokeren ; les personnes vivant en institution n'y ont pas droit.",
+          "La personne aidée, ou tout adulte cohabitant avec l'aidant, introduit la demande ; une seule prime par personne aidée.",
+          "La personne aidée ne reçoit pas de budget de soins pour personnes fortement dépendantes de la Protection sociale flamande."
+        ],
+        "de": [
+          "Die gepflegte Person ist zum Zeitpunkt der Pflege mindestens 65 Jahre alt.",
+          "Die gepflegte Person hat ihren Wohnsitz in Lokeren und wohnt tatsächlich dort; wer in einer Einrichtung lebt, erhält die Prämie nicht.",
+          "Die gepflegte Person oder jeder Erwachsene, der mit der pflegenden Person zusammenwohnt, stellt den Antrag; eine Prämie pro gepflegter Person.",
+          "Für die gepflegte Person wurde kein Pflegebudget für schwer Pflegebedürftige des Flämischen Sozialschutzes gewährt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 148,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23088"
+    ],
+    "institution": "Stad Vilvoorde",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vilvoorde.be/gratis-restafvalzakken-voor-personen-met-specifieke-gezondheidsproblemen",
+    "content": {
+      "en": {
+        "title": "Gratis restafvalzakken voor personen met specifieke gezondheidsproblemen (Free Waste Bags for Health Conditions, Vilvoorde)",
+        "desc": "Once a year, 2 rolls of 10 residual-waste bags (22.5 litres) for people with lasting incontinence, a stoma, home dialysis or a similar condition. If you use a container instead of bags, you get the same value in money.",
+        "deadline": "Once per calendar year.",
+        "amount": "2 rolls of 10 waste bags of 22.5 l a year, or their value if you use a container",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, with the part for the doctor or nurse filled in (a separate doctor's certificate may be added)"
+          }
+        ],
+        "steps": [
+          "Print the form from vilvoorde.be or get one at the Sociaal Huis, Kursaalstraat 40",
+          "Fill in your part and have your doctor or nurse fill in theirs",
+          "Bring it to the Sociaal Huis during opening hours; someone else may come for you",
+          "If you qualify, you take the bags home straight away"
+        ]
+      },
+      "nl": {
+        "title": "Gratis restafvalzakken voor personen met specifieke gezondheidsproblemen (Vilvoorde)",
+        "desc": "Eén keer per jaar 2 rollen van 10 restafvalzakken (22,5 liter) voor personen met blijvende incontinentie, een stoma, nierdialyse thuis of een gelijkaardige aandoening. Gebruik je een afvalcontainer, dan krijg je een tegemoetkoming gelijk aan de waarde van de zakken.",
+        "deadline": "Eén keer per kalenderjaar.",
+        "amount": "2 rollen van 10 restafvalzakken van 22,5 l per jaar, of hun waarde als je een container gebruikt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, met het luik voor de dokter of verpleegkundige ingevuld (een apart doktersattest mag erbij)"
+          }
+        ],
+        "steps": [
+          "Druk het formulier af via vilvoorde.be of haal het aan het loket van het Sociaal Huis, Kursaalstraat 40",
+          "Vul jouw luik in en laat je dokter of verpleegkundige het andere luik invullen",
+          "Breng het naar het Sociaal Huis tijdens de openingsuren; iemand anders mag het ook voor jou doen",
+          "Voldoe je aan de voorwaarden, dan krijg je de zakken meteen mee"
+        ]
+      },
+      "fr": {
+        "title": "Gratis restafvalzakken voor personen met specifieke gezondheidsproblemen (sacs poubelle gratuits pour raisons de santé, Vilvoorde)",
+        "desc": "Une fois par an, 2 rouleaux de 10 sacs pour déchets résiduels (22,5 litres) pour les personnes souffrant d'incontinence permanente, stomisées, en dialyse à domicile ou avec une affection similaire. Si vous utilisez un conteneur, vous recevez la valeur des sacs.",
+        "deadline": "Une fois par année civile.",
+        "amount": "2 rouleaux de 10 sacs de 22,5 l par an, ou leur valeur si vous utilisez un conteneur",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, avec la partie du médecin ou de l'infirmier complétée (un certificat médical séparé peut être joint)"
+          }
+        ],
+        "steps": [
+          "Imprimez le formulaire sur vilvoorde.be ou retirez-le au Sociaal Huis, Kursaalstraat 40",
+          "Complétez votre partie et faites compléter l'autre par votre médecin ou infirmier",
+          "Apportez-le au Sociaal Huis pendant les heures d'ouverture ; quelqu'un peut venir à votre place",
+          "Si vous remplissez les conditions, vous repartez directement avec les sacs"
+        ]
+      },
+      "de": {
+        "title": "Gratis restafvalzakken voor personen met specifieke gezondheidsproblemen (kostenlose Müllsäcke aus Gesundheitsgründen, Vilvoorde)",
+        "desc": "Einmal pro Jahr 2 Rollen mit je 10 Restmüllsäcken (22,5 Liter) für Menschen mit dauerhafter Inkontinenz, Stoma, Heimdialyse oder einer ähnlichen Erkrankung. Wer einen Container nutzt, erhält den Gegenwert.",
+        "deadline": "Einmal pro Kalenderjahr.",
+        "amount": "2 Rollen mit 10 Restmüllsäcken zu 22,5 l pro Jahr oder deren Gegenwert bei Containernutzung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular mit dem vom Arzt oder Pflegedienst ausgefüllten Teil (ein separates ärztliches Attest kann beigefügt werden)"
+          }
+        ],
+        "steps": [
+          "Drucken Sie das Formular auf vilvoorde.be aus oder holen Sie es im Sociaal Huis, Kursaalstraat 40",
+          "Füllen Sie Ihren Teil aus und lassen Sie Ihren Arzt oder Pflegedienst den anderen ausfüllen",
+          "Bringen Sie es während der Öffnungszeiten zum Sociaal Huis; jemand anderes darf für Sie kommen",
+          "Erfüllen Sie die Bedingungen, erhalten Sie die Säcke sofort"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.vilvoorde.be/gratis-restafvalzakken-voor-personen-met-specifieke-gezondheidsproblemen",
+        "https://www.vilvoorde.be/file_uploads/18310.pdf?sc=A8AC615E25E52AB9E4FD122EF6177FAC"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in Vilvoorde.",
+          "You live at home, not in an institution or residential care home, and are not part of a community.",
+          "You have lasting incontinence, get kidney dialysis at home, have a stoma, or have a similar condition confirmed by your doctor.",
+          "You have not had free waste bags yet this calendar year."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in Vilvoorde.",
+          "Je woont thuis, niet in een instelling of rust- en verzorgingstehuis, en maakt geen deel uit van een gemeenschap.",
+          "Je lijdt aan blijvende incontinentie, krijgt thuis nierdialyse, bent stomapatiënt of hebt een gelijkaardige aandoening die je arts bevestigt.",
+          "Je kreeg dit kalenderjaar nog geen gratis restafvalzakken."
+        ],
+        "fr": [
+          "Vous êtes domicilié(e) à Vilvoorde.",
+          "Vous vivez chez vous, pas en institution ni en maison de repos, et ne faites pas partie d'une communauté.",
+          "Vous souffrez d'incontinence permanente, êtes en dialyse rénale à domicile, êtes stomisé(e) ou avez une affection similaire confirmée par votre médecin.",
+          "Vous n'avez pas encore reçu de sacs gratuits cette année civile."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in Vilvoorde.",
+          "Sie wohnen zu Hause, nicht in einer Einrichtung oder einem Alten- und Pflegeheim, und gehören keiner Gemeinschaft an.",
+          "Sie leiden an dauerhafter Inkontinenz, erhalten Heimdialyse, haben ein Stoma oder eine ähnliche, vom Arzt bestätigte Erkrankung.",
+          "Sie haben in diesem Kalenderjahr noch keine kostenlosen Müllsäcke erhalten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 149,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "72020"
+    ],
+    "institution": "OCMW Lommel",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.lommel.be/sociaal-pedagogische-toelage",
+    "content": {
+      "en": {
+        "title": "Sociaal-pedagogische toelage (Allowance for Parents Caring for a Disabled Child, Lommel)",
+        "desc": "A yearly allowance of €100 to €400, depending on income, for the parent who raises and cares for a disabled child aged 3 to 21 at home.",
+        "deadline": "Apply between 1 January and 31 December of the year the allowance is for.",
+        "amount": "€400, €200 or €100 a year, depending on net taxable income",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form, with a statement from the school"
+          },
+          {
+            "type": "doc",
+            "label": "Your latest personal income tax assessment"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate from the child-benefit fund or the FPS Social Security"
+          },
+          {
+            "type": "id",
+            "label": "Your identity card and bank card"
+          }
+        ],
+        "steps": [
+          "Download the application form from lommel.be",
+          "Have the school fill in its statement",
+          "Hand it in with the documents at the Sociaal Huis",
+          "The OCMW carries out a social inquiry before deciding"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-pedagogische toelage (Lommel)",
+        "desc": "Een jaarlijkse toelage van €100 tot €400, afhankelijk van het inkomen, voor de ouder die thuis de opvoeding en zorg op zich neemt van een kind met een beperking van 3 tot 21 jaar.",
+        "deadline": "Vraag aan tussen 1 januari en 31 december van het jaar waarvoor je de toelage vraagt.",
+        "amount": "€400, €200 of €100 per jaar, afhankelijk van het netto belastbaar inkomen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier, met verklaring van de onderwijsinstelling"
+          },
+          {
+            "type": "doc",
+            "label": "Het recentste aanslagbiljet van de personenbelasting"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van het kinderbijslagfonds of de FOD Sociale Zekerheid"
+          },
+          {
+            "type": "id",
+            "label": "Je identiteitskaart en bankkaart"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op lommel.be",
+          "Laat de school haar verklaring invullen",
+          "Bezorg het met de bewijsstukken aan het Sociaal Huis",
+          "Het OCMW doet een sociaal onderzoek voor het beslist"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-pedagogische toelage (allocation socio-pédagogique, Lommel)",
+        "desc": "Une allocation annuelle de 100 € à 400 €, selon les revenus, pour le parent qui élève et soigne à domicile un enfant handicapé de 3 à 21 ans.",
+        "deadline": "À demander entre le 1er janvier et le 31 décembre de l'année concernée.",
+        "amount": "400 €, 200 € ou 100 € par an, selon le revenu net imposable",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété, avec la déclaration de l'établissement scolaire"
+          },
+          {
+            "type": "doc",
+            "label": "Votre dernier avertissement-extrait de rôle à l'impôt des personnes physiques"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de la caisse d'allocations familiales ou du SPF Sécurité sociale"
+          },
+          {
+            "type": "id",
+            "label": "Votre carte d'identité et votre carte bancaire"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur lommel.be",
+          "Faites compléter la déclaration par l'école",
+          "Remettez-le avec les documents au Sociaal Huis",
+          "L'OCMW mène une enquête sociale avant de décider"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-pedagogische toelage (sozialpädagogische Zulage, Lommel)",
+        "desc": "Eine jährliche Zulage von 100 € bis 400 €, je nach Einkommen, für den Elternteil, der ein Kind mit Behinderung zwischen 3 und 21 Jahren zu Hause erzieht und pflegt.",
+        "deadline": "Zwischen dem 1. Januar und dem 31. Dezember des betreffenden Jahres beantragen.",
+        "amount": "400 €, 200 € oder 100 € pro Jahr, je nach steuerpflichtigem Nettoeinkommen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular mit der Erklärung der Schule"
+          },
+          {
+            "type": "doc",
+            "label": "Ihr letzter Steuerbescheid der Einkommensteuer"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Kindergeldkasse oder des FÖD Soziale Sicherheit"
+          },
+          {
+            "type": "id",
+            "label": "Ihr Personalausweis und Ihre Bankkarte"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf lommel.be herunter",
+          "Lassen Sie die Schule ihre Erklärung ausfüllen",
+          "Geben Sie es mit den Unterlagen im Sociaal Huis ab",
+          "Das OCMW führt vor der Entscheidung eine Sozialuntersuchung durch"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://www.lommel.be/sociaal-pedagogische-toelage",
+        "https://www.lommel.be/file/download/18edbfa7-df4c-4da8-992f-6c59740ab1a1/bfd4LQOYC1e8vzsbP33K1vLmFfgK3SaQ11z5GcmU3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are the parent who raises and cares for the child at home.",
+          "The child has at least 66% incapacity, or is entitled to increased child benefit for medical reasons (certificate from the FPS Social Security or the child-benefit fund).",
+          "The child is between 3 and 21 (until 31 December of the year they turn 21) and has no income of their own.",
+          "Net taxable income is at most €34,105.57, plus €3,536.95 per dependant: under €19,105.58 gives €400, up to €26,605.57 gives €200, up to €34,105.57 gives €100."
+        ],
+        "nl": [
+          "Je bent de ouder die thuis de opvoeding en zorg van het kind op zich neemt.",
+          "Het kind heeft een arbeidsongeschiktheid van minstens 66%, of recht op verhoogde kinderbijslag om medische redenen (attest van de FOD Sociale Zekerheid of het kinderbijslagfonds).",
+          "Het kind is tussen 3 en 21 jaar (tot 31 december van het jaar waarin het 21 wordt) en heeft geen eigen inkomsten.",
+          "Je netto belastbaar inkomen is maximaal €34.105,57, te verhogen met €3.536,95 per persoon ten laste: onder €19.105,58 geeft €400, tot €26.605,57 geeft €200, tot €34.105,57 geeft €100."
+        ],
+        "fr": [
+          "Vous êtes le parent qui élève et soigne l'enfant à domicile.",
+          "L'enfant a une incapacité d'au moins 66 %, ou a droit à des allocations familiales majorées pour raisons médicales (attestation du SPF Sécurité sociale ou de la caisse d'allocations familiales).",
+          "L'enfant a entre 3 et 21 ans (jusqu'au 31 décembre de l'année de ses 21 ans) et n'a pas de revenus propres.",
+          "Votre revenu net imposable est d'au plus 34.105,57 €, majoré de 3.536,95 € par personne à charge : moins de 19.105,58 € donne 400 €, jusqu'à 26.605,57 € donne 200 €, jusqu'à 34.105,57 € donne 100 €."
+        ],
+        "de": [
+          "Sie sind der Elternteil, der das Kind zu Hause erzieht und pflegt.",
+          "Das Kind hat eine Arbeitsunfähigkeit von mindestens 66 % oder Anspruch auf erhöhtes Kindergeld aus medizinischen Gründen (Bescheinigung des FÖD Soziale Sicherheit oder der Kindergeldkasse).",
+          "Das Kind ist zwischen 3 und 21 Jahre alt (bis zum 31. Dezember des Jahres, in dem es 21 wird) und hat kein eigenes Einkommen.",
+          "Ihr steuerpflichtiges Nettoeinkommen beträgt höchstens 34.105,57 €, zuzüglich 3.536,95 € pro unterhaltsberechtigter Person: unter 19.105,58 € gibt 400 €, bis 26.605,57 € gibt 200 €, bis 34.105,57 € gibt 100 €."
+        ]
+      }
+    }
+  },
+  {
+    "id": 150,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21007"
+    ],
+    "institution": "Commune de Forest",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://forest.brussels/fr/demarches/primes/prime-aux-nouveaux-proprietaires",
+    "content": {
+      "en": {
+        "title": "Prime aux nouveaux propriétaires (New Homeowner Premium, Forest)",
+        "desc": "A one-off premium equal to the municipal share of the property tax (précompte immobilier), up to €822, for people who buy their only home in Forest and live in it for at least 5 years.",
+        "deadline": "Apply within 6 months of the first property-tax assessment notice in your name.",
+        "amount": "The municipal share of your property tax, up to €822, paid once",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form from forest.brussels"
+          }
+        ],
+        "steps": [
+          "Download the application form from forest.brussels",
+          "Send it in within 6 months of your first property-tax assessment notice"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor nieuwe eigenaars (Vorst)",
+        "desc": "Een eenmalige premie gelijk aan het gemeentelijke deel van de onroerende voorheffing, maximaal €822, voor wie zijn enige woning in Vorst koopt en er minstens 5 jaar woont.",
+        "deadline": "Vraag aan binnen 6 maanden na het allereerste aanslagbiljet onroerende voorheffing op je naam.",
+        "amount": "Het gemeentelijke deel van je onroerende voorheffing, maximaal €822, eenmalig",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier op forest.brussels"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op forest.brussels",
+          "Dien het in binnen 6 maanden na je eerste aanslagbiljet onroerende voorheffing"
+        ]
+      },
+      "fr": {
+        "title": "Prime aux nouveaux propriétaires (Forest)",
+        "desc": "Une prime unique équivalente à la part communale du précompte immobilier, plafonnée à 822 €, pour qui achète son unique logement à Forest et s'y domicilie pendant au moins 5 ans.",
+        "deadline": "À introduire dans les 6 mois de l'envoi du tout premier avertissement-extrait de rôle du précompte immobilier à votre nom.",
+        "amount": "La part communale de votre précompte immobilier, plafonnée à 822 €, en une fois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande sur forest.brussels"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande sur forest.brussels",
+          "Introduisez-le dans les 6 mois de votre premier avertissement-extrait de rôle du précompte immobilier"
+        ]
+      },
+      "de": {
+        "title": "Prime aux nouveaux propriétaires (Prämie für neue Eigentümer, Forest)",
+        "desc": "Eine einmalige Prämie in Höhe des Gemeindeanteils am Immobilienvorabzug, höchstens 822 €, für alle, die ihre einzige Wohnung in Forest kaufen und mindestens 5 Jahre dort wohnen.",
+        "deadline": "Innerhalb von 6 Monaten nach dem allerersten Steuerbescheid über den Immobilienvorabzug auf Ihren Namen beantragen.",
+        "amount": "Der Gemeindeanteil Ihres Immobilienvorabzugs, höchstens 822 €, einmalig",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular auf forest.brussels"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf forest.brussels herunter",
+          "Reichen Sie es innerhalb von 6 Monaten nach Ihrem ersten Steuerbescheid über den Immobilienvorabzug ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://forest.brussels/fr/demarches/primes/prime-aux-nouveaux-proprietaires"
+      ],
+      "conditions": {
+        "en": [
+          "You bought a home in Forest, are domiciled at that address, and stay there for 5 years from when the premium is granted.",
+          "You do not fully own or co-own any other property.",
+          "You are subject to personal income tax and owe it (your assessment notice shows income).",
+          "Income below €60,071 if single or €86,769 for a couple, plus €4,005 per dependent child."
+        ],
+        "nl": [
+          "Je kocht een woning in Vorst, bent er gedomicilieerd en blijft er 5 jaar wonen vanaf de toekenning van de premie.",
+          "Je bent geen volle eigenaar of mede-eigenaar van een ander onroerend goed.",
+          "Je bent onderworpen aan en verschuldigd in de personenbelasting (je aanslagbiljet vermeldt inkomsten).",
+          "Je inkomen ligt onder €60.071 als alleenstaande of €86.769 voor een koppel, verhoogd met €4.005 per kind ten laste."
+        ],
+        "fr": [
+          "Vous avez acquis un logement à Forest, y êtes domicilié(e) et vous y maintenez pendant 5 ans à partir de l'octroi de la prime.",
+          "Vous n'êtes pas plein(e) propriétaire ou copropriétaire d'un autre bien immobilier.",
+          "Vous êtes assujetti(e) et redevable de l'impôt des personnes physiques (votre avertissement-extrait de rôle comporte des revenus).",
+          "Vos revenus sont inférieurs à 60.071 € pour un(e) isolé(e) et 86.769 € pour un couple, plus 4.005 € par enfant à charge."
+        ],
+        "de": [
+          "Sie haben eine Wohnung in Forest erworben, haben dort Ihren Wohnsitz und bleiben 5 Jahre ab Gewährung der Prämie.",
+          "Sie sind nicht Voll- oder Miteigentümer einer anderen Immobilie.",
+          "Sie unterliegen der Einkommensteuer und schulden sie (Ihr Steuerbescheid weist Einkünfte aus).",
+          "Ihr Einkommen liegt unter 60.071 € für Alleinstehende oder 86.769 € für Paare, zuzüglich 4.005 € pro unterhaltsberechtigtem Kind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 151,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "low-income"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21010"
+    ],
+    "institution": "Commune de Jette",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://jette.irisnet.be/fr/actualite/une-prime-communale-be-home-jette-de-100-eur-pour-les-proprietaires-habitants-jettois-a",
+    "content": {
+      "en": {
+        "title": "Prime communale Be Home Jette (Homeowner Top-Up, Jette)",
+        "desc": "€100 on top of the regional Be Home premium for low-income owners who live in their own flat or house in Jette. It is not automatic: you must apply.",
+        "deadline": "For the 2026 property-tax assessment, apply by 15 February 2027.",
+        "amount": "€100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Copies of your 2025 personal income tax assessment notice and your 2026 property-tax assessment notice"
+          }
+        ],
+        "steps": [
+          "Download the Be Home Jette form from jette.irisnet.be",
+          "Email it with the copies to prime1090@jette.brussels, or hand it in at counter 2 of the GEFICO service, chaussée de Wemmel 100"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke premie Be Home Jette",
+        "desc": "€100 bovenop de gewestelijke Be Home-premie voor eigenaars met een laag inkomen die hun eigen appartement of huis in Jette bewonen. Niet automatisch: je moet ze aanvragen.",
+        "deadline": "Voor het aanslagbiljet onroerende voorheffing 2026 vraag je aan uiterlijk op 15 februari 2027.",
+        "amount": "€100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van je aanslagbiljet personenbelasting 2025 en je aanslagbiljet onroerende voorheffing 2026"
+          }
+        ],
+        "steps": [
+          "Download het formulier Be Home Jette op jette.irisnet.be",
+          "Mail het met de kopieën naar prime1090@jette.brussels of geef het af aan loket 2 van de dienst GEFICO, Wemmelsesteenweg 100"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale Be Home Jette",
+        "desc": "100 € en plus de la prime régionale Be Home pour les propriétaires à faibles revenus qui occupent leur propre appartement ou maison à Jette. Elle n'est pas automatique : il faut la demander.",
+        "deadline": "Pour l'avertissement-extrait de rôle du précompte immobilier 2026, demande au plus tard le 15 février 2027.",
+        "amount": "100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de votre avertissement-extrait de rôle IPP 2025 et de celui du précompte immobilier 2026"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire Be Home Jette sur jette.irisnet.be",
+          "Envoyez-le avec les copies à prime1090@jette.brussels ou déposez-le au guichet 2 du service GEFICO, chaussée de Wemmel 100"
+        ]
+      },
+      "de": {
+        "title": "Prime communale Be Home Jette (Eigentümer-Zuschlag, Jette)",
+        "desc": "100 € zusätzlich zur regionalen Be-Home-Prämie für Eigentümer mit geringem Einkommen, die ihre eigene Wohnung oder ihr Haus in Jette bewohnen. Nicht automatisch: Sie müssen sie beantragen.",
+        "deadline": "Für den Steuerbescheid über den Immobilienvorabzug 2026 bis spätestens 15. Februar 2027 beantragen.",
+        "amount": "100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kopien Ihres Einkommensteuerbescheids 2025 und Ihres Bescheids über den Immobilienvorabzug 2026"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular Be Home Jette auf jette.irisnet.be herunter",
+          "Senden Sie es mit den Kopien an prime1090@jette.brussels oder geben Sie es am Schalter 2 des Dienstes GEFICO, Chaussée de Wemmel 100, ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://jette.irisnet.be/fr/actualite/une-prime-communale-be-home-jette-de-100-eur-pour-les-proprietaires-habitants-jettois-a"
+      ],
+      "conditions": {
+        "en": [
+          "You receive the regional Be Home premium (€164) from Brussels Fiscalité as an owner living in your home in Jette.",
+          "Tax due for 2025 is at most €10,875 if you own alone, or €16,595 as a household (see your 2025 assessment notice).",
+          "You own only one property."
+        ],
+        "nl": [
+          "Je krijgt als eigenaar-bewoner in Jette de gewestelijke Be Home-premie (€164) van Brussel Fiscaliteit.",
+          "Je verschuldigde belasting voor 2025 is maximaal €10.875 als alleenstaande eigenaar, of €16.595 als gezin (zie aanslagbiljet 2025).",
+          "Je bent eigenaar van slechts één goed."
+        ],
+        "fr": [
+          "Vous recevez la prime régionale Be Home (164 €) de Bruxelles Fiscalité comme propriétaire occupant votre bien à Jette.",
+          "Votre impôt dû pour 2025 est inférieur ou égal à 10.875 € pour un(e) propriétaire isolé(e), ou 16.595 € pour un ménage (voir l'avertissement-extrait de rôle 2025).",
+          "Vous êtes propriétaire d'un seul bien."
+        ],
+        "de": [
+          "Sie erhalten als selbst bewohnender Eigentümer in Jette die regionale Be-Home-Prämie (164 €) von Brüssel Fiskalität.",
+          "Ihre geschuldete Steuer für 2025 beträgt höchstens 10.875 € als alleinstehender Eigentümer oder 16.595 € als Haushalt (siehe Steuerbescheid 2025).",
+          "Sie besitzen nur eine Immobilie."
+        ]
+      }
+    }
+  },
+  {
+    "id": 152,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21005"
+    ],
+    "institution": "Commune d'Etterbeek",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://etterbeek.brussels/fr/demarches/primes-et-subsides/prime-de-naissance",
+    "content": {
+      "en": {
+        "title": "Prime de naissance (Birth Premium, Etterbeek)",
+        "desc": "€25 in Broebel local vouchers when your child is born, or when you take in a child under 10 by adoption or unofficial guardianship.",
+        "deadline": "The page says to return the form within two months of the child's registration, and also within six months of receiving it: send it back early.",
+        "amount": "€25 in Broebel local vouchers",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The form the municipality sends you by post"
+          }
+        ],
+        "steps": [
+          "After the birth is registered, the municipality sends you a form by post",
+          "Return it completed by email or post to the Education service, Hôtel communal, avenue des Casernes 31/1"
+        ]
+      },
+      "nl": {
+        "title": "Geboortepremie (Etterbeek)",
+        "desc": "€25 in lokale Broebel-cheques bij de geboorte van je kind, of als je een kind jonger dan 10 opneemt via adoptie of pleegvoogdij.",
+        "deadline": "De pagina vraagt het formulier terug te sturen binnen twee maanden na de inschrijving van het kind, en ook binnen zes maanden na ontvangst: stuur het snel terug.",
+        "amount": "€25 in lokale Broebel-cheques",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier dat de gemeente je per post stuurt"
+          }
+        ],
+        "steps": [
+          "Na de inschrijving van de geboorte stuurt de gemeente je een formulier per post",
+          "Stuur het ingevuld per mail of post terug naar de dienst Onderwijs, Gemeentehuis, Kazernenlaan 31/1"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance (Etterbeek)",
+        "desc": "25 € en chèques locaux Broebel à la naissance de votre enfant, ou lorsque vous accueillez un enfant de moins de 10 ans par adoption ou tutelle officieuse.",
+        "deadline": "La page demande de renvoyer le formulaire dans les deux mois de l'inscription de l'enfant, et aussi dans les 6 mois de sa réception : renvoyez-le rapidement.",
+        "amount": "25 € en chèques locaux Broebel",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire que la commune vous envoie par courrier"
+          }
+        ],
+        "steps": [
+          "Après l'inscription de la naissance, la commune vous envoie un formulaire par courrier",
+          "Renvoyez-le complété par mail ou par courrier au service Enseignement, Hôtel communal, avenue des Casernes 31/1"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance (Geburtsprämie, Etterbeek)",
+        "desc": "25 € in lokalen Broebel-Gutscheinen bei der Geburt Ihres Kindes oder wenn Sie ein Kind unter 10 Jahren durch Adoption oder inoffizielle Vormundschaft aufnehmen.",
+        "deadline": "Laut Seite ist das Formular innerhalb von zwei Monaten nach der Eintragung des Kindes und auch innerhalb von sechs Monaten nach Erhalt zurückzusenden: Senden Sie es früh zurück.",
+        "amount": "25 € in lokalen Broebel-Gutscheinen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular, das die Gemeinde Ihnen per Post schickt"
+          }
+        ],
+        "steps": [
+          "Nach Eintragung der Geburt schickt Ihnen die Gemeinde ein Formular per Post",
+          "Senden Sie es ausgefüllt per E-Mail oder Post an den Dienst Unterricht, Hôtel communal, Avenue des Casernes 31/1"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://etterbeek.brussels/fr/demarches/primes-et-subsides/prime-de-naissance"
+      ],
+      "conditions": {
+        "en": [
+          "You are a parent registered in Etterbeek's population register (registre de la population).",
+          "People who take in a child under 10 after signing an adoption deed or an unofficial guardianship agreement (tutelle officieuse) can also get it."
+        ],
+        "nl": [
+          "Je bent een ouder ingeschreven in het bevolkingsregister van Etterbeek.",
+          "Ook wie een kind jonger dan 10 opneemt na een adoptieakte of een overeenkomst van pleegvoogdij, kan de premie krijgen."
+        ],
+        "fr": [
+          "Vous êtes un parent inscrit au registre de la population d'Etterbeek.",
+          "Les personnes accueillant un enfant de moins de 10 ans après un acte d'adoption ou une convention de tutelle officieuse peuvent aussi en bénéficier."
+        ],
+        "de": [
+          "Sie sind ein Elternteil, der im Bevölkerungsregister (registre de la population) von Etterbeek eingetragen ist.",
+          "Auch wer ein Kind unter 10 Jahren nach einer Adoptionsurkunde oder einer Vereinbarung über inoffizielle Vormundschaft aufnimmt, kann sie erhalten."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the page requires parents to be registered in the population register (registre de la population).",
+            "nl": "Niet voor jou: de pagina vereist dat de ouders in het bevolkingsregister ingeschreven zijn.",
+            "fr": "Pas pour vous : la page exige que les parents soient inscrits au registre de la population.",
+            "de": "Nicht für Sie: Die Seite verlangt, dass die Eltern im Bevölkerungsregister (registre de la population) eingetragen sind."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 153,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21005"
+    ],
+    "institution": "Commune d'Etterbeek",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://etterbeek.brussels/fr/demarches/primes-et-subsides/prime-langes-lavables",
+    "content": {
+      "en": {
+        "title": "Prime langes lavables (Washable Nappies Premium, Etterbeek)",
+        "desc": "Broebel local vouchers for washable nappies or Natural Infant Hygiene (HNI) gear: one month's rental up to €100, and/or 50% of purchase invoices up to €100, with a possible bonus for buying locally.",
+        "deadline": "Apply before your child turns three.",
+        "amount": "Rental up to €100; purchase 50% of invoices up to €100 (in Broebel vouchers)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form from etterbeek.brussels"
+          }
+        ],
+        "steps": [
+          "Fill in the online application form",
+          "Email it to primes.premies@etterbeek.brussels, drop it at the reception, or post it to Administration communale d'Etterbeek, gestion des primes, avenue des Casernes 31/1, 1040 Etterbeek"
+        ]
+      },
+      "nl": {
+        "title": "Premie herbruikbare luiers (Etterbeek)",
+        "desc": "Lokale Broebel-cheques voor herbruikbare luiers of materiaal voor natuurlijke zuigelingenhygiëne (HNI): een maand huur tot €100, en/of 50% van de aankoopfacturen tot €100, met mogelijk een bonus bij lokale aankoop.",
+        "deadline": "Vraag aan voor je kind drie jaar wordt.",
+        "amount": "Huur tot €100; aankoop 50% van de facturen tot €100 (in Broebel-cheques)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier op etterbeek.brussels"
+          }
+        ],
+        "steps": [
+          "Vul het online aanvraagformulier in",
+          "Mail het naar primes.premies@etterbeek.brussels, geef het af aan het onthaal of stuur het naar Gemeentebestuur Etterbeek, beheer van de premies, Kazernenlaan 31/1, 1040 Etterbeek"
+        ]
+      },
+      "fr": {
+        "title": "Prime langes lavables (Etterbeek)",
+        "desc": "Des chèques locaux Broebel pour des langes lavables ou du matériel d'Hygiène Naturelle Infantile (HNI) : location d'un mois jusqu'à 100 €, et/ou 50 % des factures d'achat jusqu'à 100 €, avec un bonus possible en cas d'achat local.",
+        "deadline": "À introduire avant les trois ans de l'enfant.",
+        "amount": "Location jusqu'à 100 € ; achat 50 % des factures jusqu'à 100 € (en chèques Broebel)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande sur etterbeek.brussels"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire en ligne",
+          "Envoyez-le à primes.premies@etterbeek.brussels, déposez-le à l'accueil ou envoyez-le à l'Administration communale d'Etterbeek, gestion des primes, avenue des Casernes 31/1, 1040 Etterbeek"
+        ]
+      },
+      "de": {
+        "title": "Prime langes lavables (Prämie für Mehrwegwindeln, Etterbeek)",
+        "desc": "Lokale Broebel-Gutscheine für Mehrwegwindeln oder Material für natürliche Säuglingshygiene (HNI): ein Monat Miete bis 100 € und/oder 50 % der Kaufrechnungen bis 100 €, mit möglichem Bonus bei lokalem Kauf.",
+        "deadline": "Vor dem dritten Geburtstag des Kindes beantragen.",
+        "amount": "Miete bis 100 €; Kauf 50 % der Rechnungen bis 100 € (in Broebel-Gutscheinen)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular auf etterbeek.brussels"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Online-Antragsformular aus",
+          "Senden Sie es an primes.premies@etterbeek.brussels, geben Sie es am Empfang ab oder schicken Sie es an die Administration communale d'Etterbeek, gestion des primes, Avenue des Casernes 31/1, 1040 Etterbeek"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://etterbeek.brussels/fr/demarches/primes-et-subsides/prime-langes-lavables"
+      ],
+      "conditions": {
+        "en": [
+          "You are a parent living in Etterbeek.",
+          "Once per child and per household; possible again for a new birth.",
+          "You apply before the child is three."
+        ],
+        "nl": [
+          "Je bent een ouder die in Etterbeek woont.",
+          "Eén keer per kind en per gezin; opnieuw mogelijk bij een nieuwe geboorte.",
+          "Je vraagt aan voor het kind drie jaar is."
+        ],
+        "fr": [
+          "Vous êtes un parent habitant la commune d'Etterbeek.",
+          "Une seule fois par enfant et par ménage ; renouvelable en cas de nouvelle naissance.",
+          "La demande est introduite avant les trois ans de l'enfant."
+        ],
+        "de": [
+          "Sie sind ein Elternteil mit Wohnsitz in Etterbeek.",
+          "Einmal pro Kind und Haushalt; bei einer neuen Geburt erneut möglich.",
+          "Sie beantragen vor dem dritten Geburtstag des Kindes."
+        ]
+      }
+    }
+  },
+  {
+    "id": 154,
+    "category": "family",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21006"
+    ],
+    "institution": "Commune d'Evere",
+    "verified": "30 Oct 2026",
+    "status": "verified",
+    "source_url": "https://evere.brussels/fr/que-faire/sport/bourse-des-sports",
+    "content": {
+      "en": {
+        "title": "Bourse des sports (Youth Sports Grant, Evere)",
+        "desc": "Up to €75 back on the yearly sports-club membership fee of a child aged 18 or under in a lower-income household.",
+        "deadline": "One grant per child per school year.",
+        "amount": "The yearly membership fee, up to €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, filled in by the club and the child's legal representative"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition less than 3 months old (free at the Population service for this grant)"
+          },
+          {
+            "type": "doc",
+            "label": "The latest tax assessment notice of every adult in the household"
+          }
+        ],
+        "steps": [
+          "Get the form at Evere's front office (1st floor of the town hall) or download it from evere.brussels",
+          "Have the club fill in its part",
+          "Hand in the form and documents at the front office",
+          "Within 2 months the sports service tells you its decision; if accepted, the money is paid into your account"
+        ]
+      },
+      "nl": {
+        "title": "Sportbeurs (Evere)",
+        "desc": "Tot €75 terug op het jaarlijkse lidgeld van een sportclub voor een kind tot 18 jaar uit een gezin met een lager inkomen.",
+        "deadline": "Eén beurs per kind per schooljaar.",
+        "amount": "Het jaarlijkse lidgeld, maximaal €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ingevuld door de club en de wettelijke vertegenwoordiger van het kind"
+          },
+          {
+            "type": "doc",
+            "label": "Een samenstelling van het gezin van minder dan 3 maanden oud (gratis bij de dienst Bevolking voor deze beurs)"
+          },
+          {
+            "type": "doc",
+            "label": "Het recentste aanslagbiljet van alle volwassenen in het gezin"
+          }
+        ],
+        "steps": [
+          "Haal het formulier aan de front-office van Evere (1e verdieping van het gemeentehuis) of download het op evere.brussels",
+          "Laat de club haar deel invullen",
+          "Geef het formulier en de documenten af aan de front-office",
+          "Binnen 2 maanden laat de sportdienst weten of je dossier aanvaard is; dan wordt het bedrag op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Bourse des sports (Evere)",
+        "desc": "Jusqu'à 75 € remboursés sur la cotisation annuelle d'un club sportif pour un jeune de 18 ans maximum issu d'un ménage aux revenus modestes.",
+        "deadline": "Une seule bourse par enfant et par année scolaire.",
+        "amount": "La cotisation annuelle, maximum 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, rempli par le club et le représentant légal de l'enfant"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage de moins de 3 mois (gratuite au service Population pour la bourse des sports)"
+          },
+          {
+            "type": "doc",
+            "label": "Le dernier avertissement-extrait de rôle de chaque adulte du ménage"
+          }
+        ],
+        "steps": [
+          "Retirez le formulaire au front-office d'Evere (1er étage de la maison communale) ou téléchargez-le sur evere.brussels",
+          "Faites compléter la partie du club",
+          "Redéposez le formulaire et les documents au front-office",
+          "Dans les 2 mois, le service des sports vous informe de sa décision ; si elle est positive, le montant est versé sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Bourse des sports (Sportstipendium für Jugendliche, Evere)",
+        "desc": "Bis zu 75 € Erstattung auf den Jahresbeitrag eines Sportvereins für ein Kind bis 18 Jahre aus einem Haushalt mit geringerem Einkommen.",
+        "deadline": "Ein Stipendium pro Kind und Schuljahr.",
+        "amount": "Der Jahresbeitrag, höchstens 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, ausgefüllt vom Verein und vom gesetzlichen Vertreter des Kindes"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung, nicht älter als 3 Monate (für dieses Stipendium kostenlos beim Bevölkerungsdienst)"
+          },
+          {
+            "type": "doc",
+            "label": "Der letzte Steuerbescheid jedes Erwachsenen im Haushalt"
+          }
+        ],
+        "steps": [
+          "Holen Sie das Formular am Front-Office von Evere (1. Stock des Gemeindehauses) oder laden Sie es auf evere.brussels herunter",
+          "Lassen Sie den Verein seinen Teil ausfüllen",
+          "Geben Sie Formular und Unterlagen am Front-Office ab",
+          "Innerhalb von 2 Monaten teilt der Sportdienst die Entscheidung mit; bei Zusage wird der Betrag auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "30 Oct 2026",
+      "source_url": [
+        "https://evere.brussels/fr/que-faire/sport/bourse-des-sports",
+        "https://evere.evo-cdn2.cloud/files/Nouveau%20R%C3%A8glement%20BS%20bilingue_20260701104149.doc"
+      ],
+      "conditions": {
+        "en": [
+          "The child is registered with Evere's Population service, or lives in Evere with a certificate from that service; the grant goes to the child's legal representatives.",
+          "The child is 18 or under on 31 December of the year of application and is a member of a sports club, in Evere or elsewhere.",
+          "Net taxable household income is at most €28,567 for one person, €31,974 for a household with one income, or €36,370 with two or more incomes, plus €3,330 per dependent child and €5,719 per adult with a disability (French text of the rules; indexed each September)."
+        ],
+        "nl": [
+          "Het kind is ingeschreven in een register van de dienst Bevolking van Evere, of verblijft in Evere met een attest van die dienst; de beurs gaat naar de wettelijke vertegenwoordigers van het kind.",
+          "Het kind is maximaal 18 jaar op 31 december van het jaar van de aanvraag en is lid van een sportclub, in Evere of elders.",
+          "Het netto belastbaar gezinsinkomen is maximaal €28.567 voor één persoon, €31.974 voor een gezin met één inkomen, of €36.370 met twee of meer inkomens, plus €3.330 per kind ten laste en €5.719 per meerderjarige met een handicap (Franse tekst van het reglement; jaarlijks geïndexeerd in september)."
+        ],
+        "fr": [
+          "L'enfant est inscrit au registre de la population d'Evere, ou hébergé à Evere avec une attestation du service Population ; la bourse est attribuée à ses représentants légaux.",
+          "L'enfant a 18 ans maximum au 31 décembre de l'année de la demande et est affilié à un club sportif, à Evere ou ailleurs.",
+          "Les revenus nets imposables du ménage ne dépassent pas 28.567 € pour une personne, 31.974 € pour un ménage à un revenu, ou 36.370 € à deux revenus ou plus, majorés de 3.330 € par enfant à charge et de 5.719 € par adulte handicapé (montants indexés chaque mois de septembre)."
+        ],
+        "de": [
+          "Das Kind ist beim Bevölkerungsdienst von Evere eingetragen oder wohnt mit einer Bescheinigung dieses Dienstes in Evere; das Stipendium geht an die gesetzlichen Vertreter des Kindes.",
+          "Das Kind ist am 31. Dezember des Antragsjahres höchstens 18 Jahre alt und Mitglied eines Sportvereins, in Evere oder anderswo.",
+          "Das steuerpflichtige Nettoeinkommen des Haushalts beträgt höchstens 28.567 € für eine Person, 31.974 € für einen Haushalt mit einem Einkommen oder 36.370 € mit zwei oder mehr Einkommen, zuzüglich 3.330 € pro unterhaltsberechtigtem Kind und 5.719 € pro Erwachsenem mit Behinderung (französischer Text der Regelung; jedes Jahr im September indexiert)."
+        ]
+      }
+    }
   }
 ]
