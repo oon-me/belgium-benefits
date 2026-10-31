@@ -32742,5 +32742,1415 @@
         ]
       }
     }
+  },
+  {
+    "id": 272,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Bureau voor Juridische Bijstand van de balie / Bureau d'aide juridique (BJB-BAJ)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.advocaat.be/nl/gratis-rechtsbijstand/tweedelijnsbijstand",
+    "amount_source_url": "https://www.advocaat.be/ovb_filesystem/ovb/Documenten/toegang-tot-het-recht/2026_20260901_inkomensgrenzen_juridische_tweedelijnsbijstand.pdf",
+    "content": {
+      "en": {
+        "title": "Free or Low-cost Lawyer (Pro Deo)",
+        "desc": "If your income is low, you can get a lawyer for detailed legal advice, assistance and representation in court, fully or partly paid by the government (second-line legal aid). With partial aid you pay your lawyer between €25 and €125. Each bar's Legal Aid Office (BJB/BAJ) appoints the lawyer. Check first whether you have legal expenses insurance.",
+        "deadline": "No deadline. If your case is urgent, contact the Legal Aid Office or a lawyer directly instead of using the online form.",
+        "amount": "Fully free up to €1,670 net a month for a single person, or €1,988 for a household plus €369.58 per dependant; partly free (you pay €25–€125) up to €1,988 or €2,305 plus €369.58 per dependant (from 1 September 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form for second-line legal aid, with proof of income"
+          }
+        ],
+        "steps": [
+          "Fill in the application form and gather the supporting documents listed by the bar",
+          "Go to the Legal Aid Office of your bar, or ask a lawyer directly to take your case pro deo",
+          "With partial aid, pay the agreed amount (€25–€125) before your lawyer starts"
+        ]
+      },
+      "nl": {
+        "title": "Gratis of goedkope advocaat (pro deo)",
+        "desc": "Met een laag inkomen kan je een advocaat krijgen voor omstandig juridisch advies, bijstand en vertegenwoordiging voor de rechtbank, volledig of gedeeltelijk betaald door de overheid (juridische tweedelijnsbijstand). Bij gedeeltelijke kosteloosheid betaal je je advocaat tussen €25 en €125. Het Bureau voor Juridische Bijstand (BJB) van elke balie wijst de advocaat aan. Kijk eerst of je een rechtsbijstandverzekering hebt.",
+        "deadline": "Geen deadline. Is je zaak dringend, neem dan rechtstreeks contact op met het BJB of een advocaat in plaats van het online formulier te gebruiken.",
+        "amount": "Volledig gratis tot €1.670 netto per maand voor een alleenstaande, of €1.988 voor een gezin plus €369,58 per persoon ten laste; gedeeltelijk gratis (je betaalt €25–€125) tot €1.988 of €2.305 plus €369,58 per persoon ten laste (vanaf 1 september 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier juridische tweedelijnsbijstand, met bewijs van je inkomen"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in en verzamel de stukken die de balie vraagt",
+          "Ga naar het BJB van je balie, of vraag rechtstreeks aan een advocaat om je zaak pro deo te behandelen",
+          "Bij gedeeltelijke kosteloosheid betaal je het afgesproken bedrag (€25–€125) voor je advocaat begint"
+        ]
+      },
+      "fr": {
+        "title": "Avocat gratuit ou à coût réduit (pro deo)",
+        "desc": "Avec un revenu modeste, vous pouvez obtenir un avocat pour un avis juridique circonstancié, une assistance et une représentation en justice, payé totalement ou partiellement par l'État (aide juridique de deuxième ligne). En cas de gratuité partielle, vous payez à votre avocat entre 25 € et 125 €. Le Bureau d'aide juridique (BAJ) de chaque barreau désigne l'avocat. Vérifiez d'abord si vous avez une assurance protection juridique.",
+        "deadline": "Pas de délai. Si votre affaire est urgente, contactez directement le BAJ ou un avocat plutôt que d'utiliser le formulaire en ligne.",
+        "amount": "Entièrement gratuit jusqu'à 1.670 € net par mois pour une personne isolée, ou 1.988 € pour un ménage plus 369,58 € par personne à charge ; partiellement gratuit (vous payez 25 à 125 €) jusqu'à 1.988 € ou 2.305 € plus 369,58 € par personne à charge (à partir du 1er septembre 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande d'aide juridique de deuxième ligne, avec preuve de vos revenus"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande et rassemblez les pièces demandées par le barreau",
+          "Rendez-vous au BAJ de votre barreau, ou demandez directement à un avocat de prendre votre affaire pro deo",
+          "En cas de gratuité partielle, payez le montant convenu (25 à 125 €) avant que l'avocat ne commence"
+        ]
+      },
+      "de": {
+        "title": "Kostenloser oder günstiger Anwalt (Pro Deo)",
+        "desc": "Mit niedrigem Einkommen erhalten Sie einen Anwalt für ausführliche Rechtsberatung, Beistand und Vertretung vor Gericht, ganz oder teilweise vom Staat bezahlt (juristischer Beistand der zweiten Linie). Bei teilweiser Kostenlosigkeit zahlen Sie Ihrem Anwalt zwischen 25 € und 125 €. Das Büro für juristischen Beistand jeder Rechtsanwaltskammer bestellt den Anwalt. Prüfen Sie zuerst, ob Sie eine Rechtsschutzversicherung haben.",
+        "deadline": "Keine Frist. Bei dringenden Fällen wenden Sie sich direkt an das Büro für juristischen Beistand oder einen Anwalt statt an das Online-Formular.",
+        "amount": "Vollständig kostenlos bis 1.670 € netto pro Monat für Alleinstehende oder 1.988 € für einen Haushalt plus 369,58 € pro unterhaltsberechtigte Person; teilweise kostenlos (Sie zahlen 25–125 €) bis 1.988 € bzw. 2.305 € plus 369,58 € pro unterhaltsberechtigte Person (ab 1. September 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular für juristischen Beistand der zweiten Linie mit Einkommensnachweis"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus und sammeln Sie die von der Kammer verlangten Unterlagen",
+          "Gehen Sie zum Büro für juristischen Beistand Ihrer Kammer oder bitten Sie einen Anwalt direkt, Ihren Fall pro deo zu übernehmen",
+          "Bei teilweiser Kostenlosigkeit zahlen Sie den vereinbarten Betrag (25–125 €), bevor Ihr Anwalt beginnt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.advocaat.be/nl/gratis-rechtsbijstand/tweedelijnsbijstand",
+      "conditions": {
+        "en": [
+          "A single person: fully free with a net income of at most €1,670 a month, partly free between €1,670 and €1,988.",
+          "Married, cohabiting or single with a dependant: fully free with a household income of at most €1,988, partly free up to €2,305; each limit rises by €369.58 per dependant."
+        ],
+        "nl": [
+          "Alleenstaande: volledig gratis met een netto-inkomen van hoogstens €1.670 per maand, gedeeltelijk gratis tussen €1.670 en €1.988.",
+          "Gehuwd, samenwonend of alleenstaand met persoon ten laste: volledig gratis met een gezinsinkomen van hoogstens €1.988, gedeeltelijk gratis tot €2.305; elke grens stijgt met €369,58 per persoon ten laste."
+        ],
+        "fr": [
+          "Personne isolée : entièrement gratuit avec un revenu net de 1.670 € par mois au plus, partiellement gratuit entre 1.670 € et 1.988 €.",
+          "Marié(e), cohabitant(e) ou isolé(e) avec personne à charge : entièrement gratuit avec un revenu du ménage de 1.988 € au plus, partiellement gratuit jusqu'à 2.305 € ; chaque plafond augmente de 369,58 € par personne à charge."
+        ],
+        "de": [
+          "Alleinstehende: vollständig kostenlos mit höchstens 1.670 € Nettoeinkommen pro Monat, teilweise kostenlos zwischen 1.670 € und 1.988 €.",
+          "Verheiratet, zusammenwohnend oder alleinstehend mit Unterhaltsberechtigtem: vollständig kostenlos mit höchstens 1.988 € Haushaltseinkommen, teilweise kostenlos bis 2.305 €; jede Grenze steigt um 369,58 € pro unterhaltsberechtigte Person."
+        ]
+      }
+    }
+  },
+  {
+    "id": 273,
+    "category": "other",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Justitie / SPF Justice",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://justitie.belgium.be/nl/themas_en_dossiers/personen_en_gezinnen/bescherming_van_meerderjarigen/buitengerechtelijke_bescherming",
+    "amount_source_url": "https://justitie.belgium.be/nl/themas_en_dossiers/personen_en_gezinnen/bescherming_van_meerderjarigen/buitengerechtelijke_bescherming/hoe_een_lastgeving_opstellen",
+    "content": {
+      "en": {
+        "title": "Arrange in Advance Who Acts for You (Extrajudicial Protection)",
+        "desc": "While you are still able to decide for yourself, you can give a mandate to one or more people you trust to manage your property and/or exercise your personal rights for you once you no longer can. No judge is involved and you keep the right to do everything yourself. You can also name a person of trust or representative for your patient rights.",
+        "deadline": "Draw up the mandate while you are still capable. Register it, or it ends once you can no longer look after your own interests.",
+        "amount": "No money; a legal protection you set up yourself",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Written mandate (power of attorney); some acts, such as selling a house, need a notary"
+          }
+        ],
+        "steps": [
+          "Write the mandate yourself or with a notary, naming the people you trust and the tasks they get",
+          "Have it registered in the central register of mandates via the registry of the justice of the peace or via a notary",
+          "Choose whether the mandate starts immediately or only once you are no longer capable"
+        ]
+      },
+      "nl": {
+        "title": "Buitengerechtelijke bescherming: vooraf regelen wie voor jou optreedt",
+        "desc": "Zolang je zelf nog kan beslissen, kan je een volmacht (lastgeving) geven aan een of meer mensen die je vertrouwt om je goederen te beheren en/of je persoonlijke rechten uit te oefenen wanneer je dat zelf niet meer kan. Er komt geen rechter aan te pas en je blijft bekwaam om alles zelf te doen. Je kan ook een vertrouwenspersoon of vertegenwoordiger voor je patiëntenrechten aanduiden.",
+        "deadline": "Stel de lastgeving op zolang je nog wilsbekwaam bent. Laat ze registreren, anders stopt ze zodra je niet meer zelf voor je belangen kan zorgen.",
+        "amount": "Geen geldbedrag; een wettelijke bescherming die je zelf regelt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schriftelijke lastgeving (volmacht); voor sommige handelingen, zoals de verkoop van een huis, is een notaris nodig"
+          }
+        ],
+        "steps": [
+          "Stel de lastgeving zelf of met een notaris op en vermeld wie je vertrouwt en welke taken die krijgen",
+          "Laat ze registreren in het centraal register van lastgevingsovereenkomsten via de griffie van het vredegerecht of via de notaris",
+          "Kies of de volmacht meteen ingaat of pas wanneer je wilsonbekwaam wordt"
+        ]
+      },
+      "fr": {
+        "title": "Protection extrajudiciaire : désigner à l'avance qui agira pour vous",
+        "desc": "Tant que vous êtes capable de décider, vous pouvez donner un mandat à une ou plusieurs personnes de confiance pour gérer vos biens et/ou exercer vos droits personnels lorsque vous ne le pourrez plus. Aucun juge n'intervient et vous restez capable de tout faire vous-même. Vous pouvez aussi désigner une personne de confiance ou un représentant pour vos droits du patient.",
+        "deadline": "Établissez le mandat tant que vous êtes encore capable. Faites-le enregistrer, sinon il prend fin dès que vous ne pouvez plus gérer vos intérêts.",
+        "amount": "Pas de montant ; une protection juridique que vous organisez vous-même",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Mandat écrit (procuration) ; certains actes, comme la vente d'une maison, exigent un notaire"
+          }
+        ],
+        "steps": [
+          "Rédigez le mandat vous-même ou avec un notaire, en désignant les personnes de confiance et leurs tâches",
+          "Faites-le enregistrer dans le registre central des contrats de mandat via le greffe de la justice de paix ou via un notaire",
+          "Choisissez si le mandat prend effet immédiatement ou seulement lorsque vous ne serez plus capable"
+        ]
+      },
+      "de": {
+        "title": "Außergerichtlicher Schutz: im Voraus festlegen, wer für Sie handelt",
+        "desc": "Solange Sie selbst entscheiden können, können Sie einer oder mehreren Vertrauenspersonen ein Mandat erteilen, Ihr Vermögen zu verwalten und/oder Ihre persönlichen Rechte wahrzunehmen, wenn Sie es selbst nicht mehr können. Kein Richter ist beteiligt, und Sie bleiben fähig, alles selbst zu tun. Sie können auch eine Vertrauensperson oder einen Vertreter für Ihre Patientenrechte bestimmen.",
+        "deadline": "Erstellen Sie das Mandat, solange Sie noch geschäftsfähig sind. Lassen Sie es registrieren, sonst endet es, sobald Sie Ihre Interessen nicht mehr selbst wahrnehmen können.",
+        "amount": "Kein Geldbetrag; ein rechtlicher Schutz, den Sie selbst regeln",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schriftliches Mandat (Vollmacht); für manche Handlungen, etwa den Verkauf eines Hauses, ist ein Notar nötig"
+          }
+        ],
+        "steps": [
+          "Verfassen Sie das Mandat selbst oder mit einem Notar und nennen Sie die Vertrauenspersonen und ihre Aufgaben",
+          "Lassen Sie es über die Kanzlei des Friedensgerichts oder einen Notar im Zentralregister der Mandatsverträge eintragen",
+          "Wählen Sie, ob das Mandat sofort gilt oder erst, wenn Sie nicht mehr geschäftsfähig sind"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://justitie.belgium.be/nl/themas_en_dossiers/personen_en_gezinnen/bescherming_van_meerderjarigen/buitengerechtelijke_bescherming",
+      "conditions": {
+        "en": [
+          "You are an adult who can still express your own will when you give the mandate."
+        ],
+        "nl": [
+          "Je bent meerderjarig en kan je wil nog zelf uiten op het moment dat je de lastgeving geeft."
+        ],
+        "fr": [
+          "Vous êtes majeur(e) et encore capable d'exprimer votre volonté au moment où vous donnez le mandat."
+        ],
+        "de": [
+          "Sie sind volljährig und können Ihren Willen bei Erteilung des Mandats noch selbst äußern."
+        ]
+      }
+    }
+  },
+  {
+    "id": 274,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Moderator, forum voor herstelrecht en bemiddeling",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.slachtofferzorg.be/contact-met-de-dader",
+    "content": {
+      "en": {
+        "title": "Free Victim–Offender Mediation",
+        "desc": "As a victim of a crime, you can talk with the offender through a neutral mediator about the facts and their consequences, to get answers, make agreements and come to terms with what happened. It is possible for every crime, at every stage: before, during or after the court case. Mediation is free, voluntary and confidential, and does not replace police or court procedures. Moderator offers it for adult offenders; for minors, mediation goes through the HCA services.",
+        "deadline": "No deadline: possible before, during or after the court case.",
+        "amount": "Free",
+        "requirements": [],
+        "steps": [
+          "Contact Moderator (adult offender) or the HCA service in your province (minor offender)",
+          "The mediator passes messages between you and the offender; you only meet if you both agree"
+        ]
+      },
+      "nl": {
+        "title": "Gratis slachtoffer-daderbemiddeling",
+        "desc": "Als slachtoffer van een misdrijf kan je via een neutrale bemiddelaar met de dader praten over de feiten en de gevolgen, om antwoorden te krijgen, afspraken te maken en de gebeurtenis een plaats te geven. Het kan voor alle misdrijven, op elk moment: voor, tijdens of na de rechtszaak. Bemiddeling is gratis, vrijwillig en vertrouwelijk en vervangt politie en justitie niet. Moderator biedt het aan voor meerderjarige daders; voor minderjarigen loopt herstelbemiddeling via de HCA-diensten.",
+        "deadline": "Geen deadline: kan voor, tijdens of na de rechtszaak.",
+        "amount": "Gratis",
+        "requirements": [],
+        "steps": [
+          "Neem contact op met Moderator (meerderjarige dader) of de HCA-dienst in je provincie (minderjarige dader)",
+          "De bemiddelaar brengt boodschappen over tussen jou en de dader; jullie ontmoeten elkaar alleen als jullie beiden akkoord gaan"
+        ]
+      },
+      "fr": {
+        "title": "Médiation gratuite entre victime et auteur",
+        "desc": "En tant que victime d'une infraction, vous pouvez dialoguer avec l'auteur par l'intermédiaire d'un médiateur neutre sur les faits et leurs conséquences, pour obtenir des réponses, conclure des accords et tourner la page. C'est possible pour toutes les infractions, à tout moment : avant, pendant ou après le procès. La médiation est gratuite, volontaire et confidentielle et ne remplace pas la police ni la justice. Moderator la propose pour les auteurs majeurs ; pour les mineurs, elle passe par les services HCA.",
+        "deadline": "Pas de délai : possible avant, pendant ou après le procès.",
+        "amount": "Gratuit",
+        "requirements": [],
+        "steps": [
+          "Contactez Moderator (auteur majeur) ou le service HCA de votre province (auteur mineur)",
+          "Le médiateur transmet les messages entre vous et l'auteur ; vous ne vous rencontrez que si vous êtes tous deux d'accord"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Täter-Opfer-Vermittlung",
+        "desc": "Als Opfer einer Straftat können Sie über einen neutralen Vermittler mit dem Täter über die Tat und ihre Folgen sprechen, um Antworten zu bekommen, Absprachen zu treffen und das Geschehene zu verarbeiten. Das ist bei allen Straftaten und in jeder Phase möglich: vor, während oder nach dem Gerichtsverfahren. Die Vermittlung ist kostenlos, freiwillig und vertraulich und ersetzt Polizei und Justiz nicht. Moderator bietet sie bei volljährigen Tätern an; bei Minderjährigen läuft sie über die HCA-Dienste.",
+        "deadline": "Keine Frist: möglich vor, während oder nach dem Gerichtsverfahren.",
+        "amount": "Kostenlos",
+        "requirements": [],
+        "steps": [
+          "Wenden Sie sich an Moderator (volljähriger Täter) oder den HCA-Dienst Ihrer Provinz (minderjähriger Täter)",
+          "Der Vermittler überbringt Nachrichten zwischen Ihnen und dem Täter; ein Treffen gibt es nur, wenn beide zustimmen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.slachtofferzorg.be/contact-met-de-dader",
+      "conditions": {
+        "en": [
+          "You are the victim of a crime and the offender is also willing to take part; both take part voluntarily."
+        ],
+        "nl": [
+          "Je bent slachtoffer van een misdrijf en ook de dader wil deelnemen; beiden nemen vrijwillig deel."
+        ],
+        "fr": [
+          "Vous êtes victime d'une infraction et l'auteur accepte aussi d'y participer ; tous deux participent volontairement."
+        ],
+        "de": [
+          "Sie sind Opfer einer Straftat, und auch der Täter ist zur Teilnahme bereit; beide nehmen freiwillig teil."
+        ]
+      }
+    }
+  },
+  {
+    "id": 275,
+    "category": "other",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Sociale Zekerheid – DG Personen met een handicap / SPF Sécurité sociale",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://handicap.belgium.be/nl/andere-hulp/parkeerkaart",
+    "content": {
+      "en": {
+        "title": "Disability Parking Card",
+        "desc": "With the parking card you may park in reserved disability spaces anywhere in Belgium, as driver or passenger, and in some municipalities park for free. The card is personal: only you may use it, in whichever vehicle you travel in. It can also be used abroad. It does not prove that you are recognised as a person with a disability.",
+        "deadline": "No deadline. To renew a card with an end date, apply at the earliest 6 months before it expires.",
+        "amount": "Free parking card; parking itself is free only where the municipality allows it",
+        "requirements": [],
+        "steps": [
+          "Log in to My Handicap and choose 'Request a parking card' under 'My file'",
+          "Describe the impact of your disability in daily life and give the name of your treating doctor",
+          "The DG Persons with Disabilities assesses your file and sends the card if you qualify"
+        ]
+      },
+      "nl": {
+        "title": "Parkeerkaart voor personen met een handicap",
+        "desc": "Met de parkeerkaart mag je in heel België parkeren op plaatsen die voorbehouden zijn voor personen met een handicap, als chauffeur of als passagier, en in sommige gemeenten gratis parkeren. De kaart is persoonlijk: alleen jij mag ze gebruiken, in het voertuig waarmee je op dat moment rijdt. Je kan ze ook in het buitenland gebruiken. Ze bewijst niet dat je erkend bent als persoon met een handicap.",
+        "deadline": "Geen deadline. Voor een nieuwe kaart als je kaart een vervaldatum heeft, vraag je ten vroegste 6 maanden voor die datum aan.",
+        "amount": "Gratis parkeerkaart; gratis parkeren alleen waar de gemeente dat toelaat",
+        "requirements": [],
+        "steps": [
+          "Log in op My Handicap en kies 'Een parkeerkaart aanvragen' onder 'Mijn dossier'",
+          "Beschrijf de impact van je handicap op je dagelijks leven en vermeld de naam van je behandelend arts",
+          "De DG Personen met een handicap beoordeelt je dossier en stuurt de kaart als je in aanmerking komt"
+        ]
+      },
+      "fr": {
+        "title": "Carte de stationnement pour personnes handicapées",
+        "desc": "Avec la carte de stationnement, vous pouvez vous garer sur les places réservées aux personnes handicapées partout en Belgique, comme conducteur ou passager, et stationner gratuitement dans certaines communes. La carte est personnelle : vous seul(e) pouvez l'utiliser, dans le véhicule où vous vous trouvez. Elle est aussi utilisable à l'étranger. Elle ne prouve pas la reconnaissance de votre handicap.",
+        "deadline": "Pas de délai. Pour renouveler une carte à durée limitée, faites la demande au plus tôt 6 mois avant son échéance.",
+        "amount": "Carte gratuite ; stationnement gratuit seulement là où la commune le permet",
+        "requirements": [],
+        "steps": [
+          "Connectez-vous à My Handicap et choisissez « Demander une carte de stationnement » sous « Mon dossier »",
+          "Décrivez l'impact de votre handicap au quotidien et indiquez le nom de votre médecin traitant",
+          "La DG Personnes handicapées évalue votre dossier et envoie la carte si vous y avez droit"
+        ]
+      },
+      "de": {
+        "title": "Parkausweis für Menschen mit Behinderung",
+        "desc": "Mit dem Parkausweis dürfen Sie in ganz Belgien als Fahrer oder Mitfahrer auf Behindertenparkplätzen parken und in manchen Gemeinden kostenlos parken. Der Ausweis ist persönlich: Nur Sie dürfen ihn nutzen, in dem Fahrzeug, in dem Sie gerade fahren. Er gilt auch im Ausland. Er ist kein Nachweis einer anerkannten Behinderung.",
+        "deadline": "Keine Frist. Für einen neuen Ausweis mit Ablaufdatum stellen Sie den Antrag frühestens 6 Monate vor dem Ablauf.",
+        "amount": "Kostenloser Ausweis; kostenloses Parken nur, wo die Gemeinde es erlaubt",
+        "requirements": [],
+        "steps": [
+          "Melden Sie sich bei My Handicap an und wählen Sie unter „Mein Dossier“ den Parkausweis-Antrag",
+          "Beschreiben Sie die Auswirkungen Ihrer Behinderung im Alltag und nennen Sie Ihren behandelnden Arzt",
+          "Die GD Personen mit Behinderung prüft Ihr Dossier und schickt den Ausweis, wenn Sie Anspruch haben"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://handicap.belgium.be/nl/andere-hulp/parkeerkaart",
+      "conditions": {
+        "en": [
+          "Adults: at least 12 points for self-reliance, or at least 2 points for getting around, in the DG Persons with Disabilities assessment.",
+          "Or: a permanent invalidity of at least 50% linked to the legs; full paralysis or amputation of both arms; approval to buy a mobility aid (not scooters or tricycles); or war invalidity of 50% or more.",
+          "Children under 18: a certificate from Opgroeien, Iriscare or AViQ with 6 points on the first pillar or 2 points for getting around."
+        ],
+        "nl": [
+          "Volwassenen: minstens 12 punten voor zelfredzaamheid, of minstens 2 punten voor verplaatsingen, in de evaluatie van de DG Personen met een handicap.",
+          "Of: een blijvende invaliditeit van minstens 50% aan de benen; volledige verlamming of amputatie van beide armen; toelating om een mobiliteitshulpmiddel aan te kopen (geen scooters of driewielers); of oorlogsinvaliditeit van 50% of meer.",
+          "Kinderen jonger dan 18: een attest van Opgroeien, Iriscare of AViQ met 6 punten op de eerste pijler of 2 punten voor verplaatsing."
+        ],
+        "fr": [
+          "Adultes : au moins 12 points d'autonomie, ou au moins 2 points pour les déplacements, dans l'évaluation de la DG Personnes handicapées.",
+          "Ou : une invalidité permanente d'au moins 50 % liée aux jambes ; une paralysie complète ou amputation des deux bras ; une autorisation d'achat d'une aide à la mobilité (hors scooters et tricycles) ; ou une invalidité de guerre de 50 % ou plus.",
+          "Enfants de moins de 18 ans : une attestation d'Opgroeien, Iriscare ou l'AViQ avec 6 points au premier pilier ou 2 points pour les déplacements."
+        ],
+        "de": [
+          "Erwachsene: mindestens 12 Punkte für Selbständigkeit oder mindestens 2 Punkte für Fortbewegung in der Bewertung der GD Personen mit Behinderung.",
+          "Oder: eine dauerhafte Invalidität von mindestens 50 % an den Beinen; vollständige Lähmung oder Amputation beider Arme; Genehmigung zum Kauf eines Mobilitätshilfsmittels (keine Scooter oder Dreiräder); oder Kriegsinvalidität von 50 % oder mehr.",
+          "Kinder unter 18: eine Bescheinigung von Opgroeien, Iriscare oder AViQ mit 6 Punkten im ersten Pfeiler oder 2 Punkten für Fortbewegung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 276,
+    "category": "other",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "NMBS / SNCB",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/blind",
+    "content": {
+      "en": {
+        "title": "Free Train Travel for Blind and Visually Impaired People (NMBS)",
+        "desc": "With a permanent visual impairment of at least 90% recognised by the FPS Social Security, you get the National Reduction Card for public transport for free. On showing the card you travel free in 2nd class; for 1st class you need a valid ticket. The European Disability Card is not a valid ticket.",
+        "deadline": "No deadline.",
+        "amount": "Free travel in 2nd class on the train",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "National Reduction Card for public transport"
+          }
+        ],
+        "steps": [
+          "Ask your municipality for the application form for the National Reduction Card",
+          "Send the completed form to the FPS Social Security, DG Persons with Disabilities",
+          "Show the card during ticket checks in 2nd class"
+        ]
+      },
+      "nl": {
+        "title": "Gratis met de trein voor blinden en slechtzienden (NMBS)",
+        "desc": "Met een definitieve invaliditeit van je gezichtsvermogen van minstens 90%, erkend door de FOD Sociale Zekerheid, krijg je de Nationale Verminderingskaart voor het openbaar vervoer gratis. Op vertoon van de kaart reis je gratis in 2e klas; voor 1e klas heb je een geldig vervoersbewijs nodig. De European Disability Card is geen geldig vervoersbewijs.",
+        "deadline": "Geen deadline.",
+        "amount": "Gratis reizen in 2e klas met de trein",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Nationale Verminderingskaart voor het openbaar vervoer"
+          }
+        ],
+        "steps": [
+          "Vraag het aanvraagformulier voor de Nationale Verminderingskaart aan bij je gemeentebestuur",
+          "Stuur het ingevulde formulier naar de FOD Sociale Zekerheid, DG Personen met een handicap",
+          "Toon de kaart bij controle in 2e klas"
+        ]
+      },
+      "fr": {
+        "title": "Train gratuit pour les personnes aveugles et malvoyantes (SNCB)",
+        "desc": "Avec une invalidité visuelle définitive d'au moins 90 % reconnue par le SPF Sécurité sociale, vous recevez gratuitement la Carte nationale de réduction sur les transports en commun. Sur présentation de la carte, vous voyagez gratuitement en 2e classe ; en 1re classe, il faut un titre de transport valable. La European Disability Card n'est pas un titre de transport.",
+        "deadline": "Pas de délai.",
+        "amount": "Voyages gratuits en 2e classe en train",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Carte nationale de réduction sur les transports en commun"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire de la Carte nationale de réduction à votre administration communale",
+          "Envoyez le formulaire complété au SPF Sécurité sociale, DG Personnes handicapées",
+          "Présentez la carte lors des contrôles en 2e classe"
+        ]
+      },
+      "de": {
+        "title": "Kostenlos Zug fahren für blinde und sehbehinderte Menschen (SNCB)",
+        "desc": "Mit einer dauerhaften Sehbehinderung von mindestens 90 %, anerkannt vom FÖD Soziale Sicherheit, erhalten Sie kostenlos die Nationale Ermäßigungskarte für öffentliche Verkehrsmittel. Gegen Vorlage der Karte reisen Sie kostenlos in der 2. Klasse; für die 1. Klasse brauchen Sie einen gültigen Fahrschein. Die European Disability Card ist kein gültiger Fahrschein.",
+        "deadline": "Keine Frist.",
+        "amount": "Kostenlose Fahrten in der 2. Klasse mit dem Zug",
+        "requirements": [
+          {
+            "type": "card",
+            "label": "Nationale Ermäßigungskarte für öffentliche Verkehrsmittel"
+          }
+        ],
+        "steps": [
+          "Fragen Sie bei Ihrer Gemeindeverwaltung das Antragsformular für die Nationale Ermäßigungskarte an",
+          "Senden Sie das ausgefüllte Formular an den FÖD Soziale Sicherheit, GD Personen mit Behinderung",
+          "Zeigen Sie die Karte bei Kontrollen in der 2. Klasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/blind",
+      "conditions": {
+        "en": [
+          "Your sight has a permanent invalidity of at least 90%, recognised by the FPS Social Security."
+        ],
+        "nl": [
+          "Je gezichtsvermogen heeft een definitieve invaliditeit van minstens 90%, erkend door de FOD Sociale Zekerheid."
+        ],
+        "fr": [
+          "Votre vue présente une invalidité définitive d'au moins 90 %, reconnue par le SPF Sécurité sociale."
+        ],
+        "de": [
+          "Ihr Sehvermögen hat eine dauerhafte Invalidität von mindestens 90 %, anerkannt vom FÖD Soziale Sicherheit."
+        ]
+      }
+    }
+  },
+  {
+    "id": 277,
+    "category": "other",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "NMBS / SNCB",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/priority-seat",
+    "content": {
+      "en": {
+        "title": "Priority Seat on the Train (NMBS)",
+        "desc": "If standing for a long time is hard for you or your mobility is reduced, you may use a priority seat on NMBS trains. Since September 2025 you no longer need to buy a 'priority seat' card: a certificate from your GP is enough.",
+        "deadline": "No deadline.",
+        "amount": "No cost: you only need a certificate from your GP",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate from your GP"
+          }
+        ],
+        "steps": [
+          "Ask your GP for a certificate that you have difficulty standing for long or reduced mobility",
+          "Carry the certificate when you travel and use a priority seat"
+        ]
+      },
+      "nl": {
+        "title": "Voorrang op een zitplaats in de trein (NMBS)",
+        "desc": "Heb je moeite met lang rechtstaan of ben je minder mobiel, dan mag je een voorrangszitplaats gebruiken in de treinen van de NMBS. Sinds september 2025 hoef je daarvoor geen kaart 'voorrang zitplaats' meer te kopen: een attest van je huisarts volstaat.",
+        "deadline": "Geen deadline.",
+        "amount": "Geen kosten: je hebt alleen een attest van je huisarts nodig",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van je huisarts"
+          }
+        ],
+        "steps": [
+          "Vraag je huisarts een attest dat je moeilijk lang rechtstaat of minder mobiel bent",
+          "Neem het attest mee als je reist en gebruik een voorrangszitplaats"
+        ]
+      },
+      "fr": {
+        "title": "Place prioritaire dans le train (SNCB)",
+        "desc": "Si rester longtemps debout vous est difficile ou si votre mobilité est réduite, vous pouvez utiliser une place prioritaire dans les trains de la SNCB. Depuis septembre 2025, il n'est plus nécessaire d'acheter une carte « place prioritaire » : une attestation de votre médecin généraliste suffit.",
+        "deadline": "Pas de délai.",
+        "amount": "Gratuit : il suffit d'une attestation de votre médecin généraliste",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation de votre médecin généraliste"
+          }
+        ],
+        "steps": [
+          "Demandez à votre généraliste une attestation indiquant que vous avez du mal à rester debout ou une mobilité réduite",
+          "Emportez l'attestation en voyage et utilisez une place prioritaire"
+        ]
+      },
+      "de": {
+        "title": "Vorrangsitzplatz im Zug (SNCB)",
+        "desc": "Fällt Ihnen langes Stehen schwer oder sind Sie weniger mobil, dürfen Sie in den Zügen der SNCB einen Vorrangsitzplatz nutzen. Seit September 2025 müssen Sie dafür keine Karte „Vorrangsitzplatz“ mehr kaufen: eine Bescheinigung Ihres Hausarztes genügt.",
+        "deadline": "Keine Frist.",
+        "amount": "Kostenlos: Sie brauchen nur eine Bescheinigung Ihres Hausarztes",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung Ihres Hausarztes"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von Ihrem Hausarzt bescheinigen, dass Ihnen langes Stehen schwerfällt oder Ihre Mobilität eingeschränkt ist",
+          "Nehmen Sie die Bescheinigung auf Reisen mit und nutzen Sie einen Vorrangsitzplatz"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/priority-seat",
+      "conditions": {
+        "en": [
+          "You find it hard to stand for a long time or have reduced mobility, as certified by your GP."
+        ],
+        "nl": [
+          "Je hebt moeite met lang rechtstaan of bent minder mobiel, zoals je huisarts attesteert."
+        ],
+        "fr": [
+          "Vous avez du mal à rester longtemps debout ou une mobilité réduite, attesté par votre généraliste."
+        ],
+        "de": [
+          "Ihnen fällt langes Stehen schwer oder Sie sind weniger mobil, wie Ihr Hausarzt bescheinigt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 278,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "NMBS / SNCB",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/national-recognition-status",
+    "content": {
+      "en": {
+        "title": "Free Train Travel for National Recognition Status (NMBS)",
+        "desc": "Holders of a national recognition status and their widows or widowers (veterans, prisoners of war and war invalids of 1914–18, 1940–45, Korea and the former Congo), and direct victims of terrorist attacks with an invalidity of at least 10%, travel free on the train in 1st and 2nd class, anytime and anywhere in Belgium (except border points). The card is loaded on your MoBIB card and is valid for 5 years.",
+        "deadline": "No deadline. The card is valid for 5 years.",
+        "amount": "Free train travel in 1st and 2nd class in Belgium",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate from Defence or the Federal Pensions Service"
+          }
+        ],
+        "steps": [
+          "Go to a station ticket office with your identity card and the certificate (someone else may go for you with your identity card)",
+          "The ticket office links the card to your MoBIB card"
+        ]
+      },
+      "nl": {
+        "title": "Gratis met de trein met de Kaart voor Vaderlandslievende Redenen (NMBS)",
+        "desc": "Houders van een statuut van nationale erkentelijkheid en hun weduwes of weduwnaars (oud-strijders, krijgsgevangenen en oorlogsinvaliden van '14-'18, '40-'45, Korea en ex-Congo), en rechtstreekse slachtoffers van terreurdaden met een invaliditeit van minstens 10%, reizen gratis met de trein in 1e en 2e klas, altijd en overal in België (behalve grenspunten). De kaart staat op je MoBIB-kaart en is 5 jaar geldig.",
+        "deadline": "Geen deadline. De kaart is 5 jaar geldig.",
+        "amount": "Gratis met de trein in 1e en 2e klas in België",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van Defensie of de Federale Pensioendienst"
+          }
+        ],
+        "steps": [
+          "Ga naar een stationsloket met je identiteitskaart en het attest (iemand anders mag in jouw plaats gaan met je identiteitskaart)",
+          "Het loket koppelt de kaart aan je MoBIB-kaart"
+        ]
+      },
+      "fr": {
+        "title": "Train gratuit avec la Carte pour raisons patriotiques (SNCB)",
+        "desc": "Les titulaires d'un statut de reconnaissance nationale et leurs veuves ou veufs (anciens combattants, prisonniers de guerre et invalides de guerre de 14-18, 40-45, Corée et ex-Congo), ainsi que les victimes directes d'actes de terrorisme avec une invalidité d'au moins 10 %, voyagent gratuitement en train en 1re et 2e classe, partout et à tout moment en Belgique (sauf points frontières). La carte est chargée sur votre carte MoBIB et valable 5 ans.",
+        "deadline": "Pas de délai. La carte est valable 5 ans.",
+        "amount": "Train gratuit en 1re et 2e classe en Belgique",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de la Défense ou du Service fédéral des Pensions"
+          }
+        ],
+        "steps": [
+          "Rendez-vous à un guichet de gare avec votre carte d'identité et l'attestation (quelqu'un peut y aller à votre place avec votre carte d'identité)",
+          "Le guichet associe la carte à votre carte MoBIB"
+        ]
+      },
+      "de": {
+        "title": "Kostenlos Zug fahren mit der Karte aus patriotischen Gründen (SNCB)",
+        "desc": "Inhaber eines Status der nationalen Anerkennung und ihre Witwen oder Witwer (Veteranen, Kriegsgefangene und Kriegsinvaliden von 1914–18, 1940–45, Korea und Ex-Kongo) sowie direkte Opfer von Terroranschlägen mit einer Invalidität von mindestens 10 % fahren kostenlos Zug in der 1. und 2. Klasse, jederzeit und überall in Belgien (außer Grenzpunkte). Die Karte wird auf Ihre MoBIB-Karte geladen und gilt 5 Jahre.",
+        "deadline": "Keine Frist. Die Karte gilt 5 Jahre.",
+        "amount": "Kostenlos Zug fahren in der 1. und 2. Klasse in Belgien",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Personalausweis"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Verteidigung oder des Föderalen Pensionsdienstes"
+          }
+        ],
+        "steps": [
+          "Gehen Sie mit Personalausweis und Bescheinigung zu einem Bahnhofsschalter (jemand anders kann mit Ihrem Ausweis für Sie gehen)",
+          "Der Schalter verknüpft die Karte mit Ihrer MoBIB-Karte"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.belgiantrain.be/nl/products/special-conditions/national-recognition-status",
+      "conditions": {
+        "en": [
+          "You hold a national recognition status (veteran, prisoner of war or war invalid of 1914–18, 1940–45, Korea or the former Congo) or are the widow or widower of such a holder.",
+          "Or you are recognised as a direct victim of terrorism with an invalidity of at least 10%."
+        ],
+        "nl": [
+          "Je hebt een statuut van nationale erkentelijkheid (oud-strijder, krijgsgevangene of oorlogsinvalide van '14-'18, '40-'45, Korea of ex-Congo) of bent weduwe of weduwnaar van zo'n houder.",
+          "Of je bent erkend als rechtstreeks slachtoffer van terreurdaden met een invaliditeit van minstens 10%."
+        ],
+        "fr": [
+          "Vous êtes titulaire d'un statut de reconnaissance nationale (ancien combattant, prisonnier de guerre ou invalide de guerre de 14-18, 40-45, Corée ou ex-Congo) ou veuve ou veuf d'un tel titulaire.",
+          "Ou vous êtes reconnu(e) comme victime directe d'actes de terrorisme avec une invalidité d'au moins 10 %."
+        ],
+        "de": [
+          "Sie haben einen Status der nationalen Anerkennung (Veteran, Kriegsgefangener oder Kriegsinvalide von 1914–18, 1940–45, Korea oder Ex-Kongo) oder sind Witwe oder Witwer eines solchen Inhabers.",
+          "Oder Sie sind als direktes Opfer von Terroranschlägen mit einer Invalidität von mindestens 10 % anerkannt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 279,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Economie / SPF Économie",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://economie.fgov.be/nl/themas/financiele-diensten/verzekeringen/schuldsaldo/toegangsbevorderende",
+    "content": {
+      "en": {
+        "title": "Access to Mortgage Life Insurance Despite Illness (Right to Be Forgotten)",
+        "desc": "When you take out mortgage life insurance for the loan on your own and only family home, special rules protect you if your health is a risk. The insurer must explain any refusal or extra premium, and you can have it reviewed by its reinsurer and, free of charge, by the Monitoring Office for mortgage life insurance pricing. Extra premiums above 125% of the base premium are partly covered by the Compensation Fund. Since 1 June 2026 you no longer have to report a cancer cured more than 5 years ago without relapse, and for listed chronic illnesses the insurer may not refuse you.",
+        "deadline": "When you apply for the insurance. The Monitoring Office gives a binding proposal within 15 working days of a complete file.",
+        "amount": "Extra premium above 125% of the base premium partly paid by the Compensation Fund (up to 800%); review by the Monitoring Office is free",
+        "requirements": [],
+        "steps": [
+          "Ask several insurers for an offer and compare them",
+          "If you disagree with the premium, tell the insurer: it must have your file re-examined by its reinsurer",
+          "If still refused or too expensive, ask the Monitoring Office for mortgage life insurance pricing for a binding proposal"
+        ]
+      },
+      "nl": {
+        "title": "Toegang tot een schuldsaldoverzekering ondanks ziekte (recht om vergeten te worden)",
+        "desc": "Wanneer je een schuldsaldoverzekering afsluit voor de lening op je eigen en enige gezinswoning, beschermen specifieke regels je als je gezondheid een risico vormt. De verzekeraar moet een weigering of bijpremie motiveren, en je kan die laten herbekijken door zijn herverzekeraar en gratis door het Opvolgingsbureau voor de tarifering schuldsaldoverzekering. Bijpremies boven 125% van de basispremie worden deels gedragen door de Compensatiekas. Sinds 1 juni 2026 hoef je een kanker die meer dan 5 jaar zonder herval genezen is niet meer te melden, en voor chronische ziekten op de lijst mag de verzekeraar je niet weigeren.",
+        "deadline": "Bij de aanvraag van de verzekering. Het Opvolgingsbureau doet binnen 15 werkdagen na een volledig dossier een bindend voorstel.",
+        "amount": "Bijpremie boven 125% van de basispremie deels betaald door de Compensatiekas (tot 800%); herbekijking door het Opvolgingsbureau is gratis",
+        "requirements": [],
+        "steps": [
+          "Vraag offertes bij verschillende verzekeraars en vergelijk ze",
+          "Ga je niet akkoord met de premie, laat het de verzekeraar weten: die moet je dossier laten herbekijken door zijn herverzekeraar",
+          "Blijft het een weigering of te duur, vraag dan een bindend voorstel aan het Opvolgingsbureau voor de tarifering schuldsaldoverzekering"
+        ]
+      },
+      "fr": {
+        "title": "Accès à l'assurance solde restant dû malgré une maladie (droit à l'oubli)",
+        "desc": "Lorsque vous souscrivez une assurance solde restant dû pour le prêt de votre habitation propre et unique, des règles spécifiques vous protègent si votre santé présente un risque. L'assureur doit motiver tout refus ou surprime, et vous pouvez la faire réexaminer par son réassureur et, gratuitement, par le Bureau du suivi de la tarification assurance solde restant dû. Les surprimes au-delà de 125 % de la prime de base sont en partie prises en charge par la Caisse de compensation. Depuis le 1er juin 2026, vous ne devez plus déclarer un cancer guéri depuis plus de 5 ans sans rechute, et pour les maladies chroniques listées l'assureur ne peut pas vous refuser.",
+        "deadline": "Lors de la demande d'assurance. Le Bureau du suivi formule une proposition contraignante dans les 15 jours ouvrables suivant un dossier complet.",
+        "amount": "Surprime au-delà de 125 % de la prime de base partiellement payée par la Caisse de compensation (jusqu'à 800 %) ; l'examen par le Bureau du suivi est gratuit",
+        "requirements": [],
+        "steps": [
+          "Demandez des offres à plusieurs assureurs et comparez-les",
+          "Si vous contestez la prime, dites-le à l'assureur : il doit faire réexaminer votre dossier par son réassureur",
+          "En cas de refus persistant ou de prix trop élevé, demandez une proposition contraignante au Bureau du suivi de la tarification"
+        ]
+      },
+      "de": {
+        "title": "Zugang zur Restschuldversicherung trotz Krankheit (Recht auf Vergessenwerden)",
+        "desc": "Wenn Sie für den Kredit Ihrer eigenen und einzigen Familienwohnung eine Restschuldversicherung abschließen, schützen Sie besondere Regeln, wenn Ihre Gesundheit ein Risiko darstellt. Der Versicherer muss eine Ablehnung oder Zusatzprämie begründen, und Sie können sie von seinem Rückversicherer und kostenlos vom Begleitbüro für die Tarifierung der Restschuldversicherung überprüfen lassen. Zusatzprämien über 125 % der Grundprämie trägt teilweise die Ausgleichskasse. Seit dem 1. Juni 2026 müssen Sie eine seit über 5 Jahren ohne Rückfall geheilte Krebserkrankung nicht mehr melden, und bei gelisteten chronischen Krankheiten darf der Versicherer Sie nicht ablehnen.",
+        "deadline": "Beim Antrag auf die Versicherung. Das Begleitbüro macht innerhalb von 15 Werktagen nach vollständiger Akte einen verbindlichen Vorschlag.",
+        "amount": "Zusatzprämie über 125 % der Grundprämie teilweise von der Ausgleichskasse bezahlt (bis 800 %); die Prüfung durch das Begleitbüro ist kostenlos",
+        "requirements": [],
+        "steps": [
+          "Holen Sie Angebote mehrerer Versicherer ein und vergleichen Sie sie",
+          "Sind Sie mit der Prämie nicht einverstanden, sagen Sie es dem Versicherer: Er muss Ihre Akte vom Rückversicherer prüfen lassen",
+          "Bleibt es bei Ablehnung oder zu hohem Preis, verlangen Sie einen verbindlichen Vorschlag vom Begleitbüro für die Tarifierung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://economie.fgov.be/nl/themas/financiele-diensten/verzekeringen/schuldsaldo/toegangsbevorderende",
+      "conditions": {
+        "en": [
+          "The insurance guarantees a mortgage loan to build, buy or renovate your own and only family home (another home you are transferring within 2 years, or bare ownership received by inheritance or gift, is allowed).",
+          "The Compensation Fund helps when the extra premium is more than 125% of the base premium; you do not apply yourself, the insurer receives the amount."
+        ],
+        "nl": [
+          "De verzekering waarborgt een hypothecaire lening voor de bouw, aankoop of verbouwing van je eigen en enige gezinswoning (een andere woning die je binnen 2 jaar overdraagt, of naakte eigendom uit een erfenis of schenking, mag).",
+          "De Compensatiekas komt tussen als de bijpremie meer dan 125% van de basispremie bedraagt; je vraagt dat niet zelf aan, de verzekeraar ontvangt het bedrag."
+        ],
+        "fr": [
+          "L'assurance garantit un crédit hypothécaire pour construire, acheter ou rénover votre habitation propre et unique (une autre habitation cédée dans les 2 ans, ou une nue-propriété héritée ou reçue en donation, est admise).",
+          "La Caisse de compensation intervient si la surprime dépasse 125 % de la prime de base ; vous ne faites pas de demande, l'assureur reçoit le montant."
+        ],
+        "de": [
+          "Die Versicherung sichert einen Hypothekarkredit für Bau, Kauf oder Renovierung Ihrer eigenen und einzigen Familienwohnung (eine andere Wohnung, die Sie innerhalb von 2 Jahren übertragen, oder geerbtes oder geschenktes nacktes Eigentum ist erlaubt).",
+          "Die Ausgleichskasse greift ein, wenn die Zusatzprämie mehr als 125 % der Grundprämie beträgt; Sie stellen keinen Antrag, der Versicherer erhält den Betrag."
+        ]
+      }
+    }
+  },
+  {
+    "id": 280,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Federale Pensioendienst / Service fédéral des Pensions",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.sfpd.fgov.be/nl/pensioenbedrag/bijverdienen",
+    "content": {
+      "en": {
+        "title": "Working While Receiving a Retirement Pension",
+        "desc": "From 1 January of the year you reach the legal pension age, or with a career of at least 45 years when your pension starts, you may earn without limit alongside your retirement pension and do not have to declare it. Otherwise you may earn up to a yearly limit; if you go over it, your pension is reduced by the same percentage, and suspended at 100% or more. You may not combine a retirement pension with a replacement income such as unemployment or sickness benefit.",
+        "deadline": "If your earnings are limited: declare a new activity within 30 days of starting it, and as soon as possible if you exceed the limit or stop.",
+        "amount": "2026 limits before pension age without 45 career years: €10,432 gross a year as employee, €8,346 net as self-employed, €8,121 from a flexi-job; with dependent children €15,648 gross or €12,519 net",
+        "requirements": [],
+        "steps": [
+          "Check whether you may earn without limit (legal pension age reached, or 45 career years when your pension started)",
+          "If not, fill in the declaration of professional activity (model 74) and send it to the Federal Pensions Service, or to INASTI if you only receive a self-employed pension"
+        ]
+      },
+      "nl": {
+        "title": "Bijverdienen tijdens je rustpensioen",
+        "desc": "Vanaf 1 januari van het jaar waarin je de wettelijke pensioenleeftijd bereikt, of met minstens 45 loopbaanjaren bij de start van je pensioen, mag je onbeperkt bijverdienen naast je rustpensioen en moet je dat niet aangeven. Anders mag je bijverdienen tot een jaarlijks grensbedrag; ga je erover, dan vermindert je pensioen met hetzelfde percentage, en bij 100% of meer wordt het geschorst. Een rustpensioen mag je niet combineren met een vervangingsinkomen zoals een werkloosheids- of ziekte-uitkering.",
+        "deadline": "Als je bijverdiensten beperkt zijn: geef een nieuwe activiteit aan binnen 30 dagen na de start, en zo snel mogelijk als je het grensbedrag overschrijdt of stopt.",
+        "amount": "Grensbedragen 2026 voor de pensioenleeftijd zonder 45 loopbaanjaren: €10.432 bruto per jaar als werknemer, €8.346 netto als zelfstandige, €8.121 uit een flexi-job; met kinderen ten laste €15.648 bruto of €12.519 netto",
+        "requirements": [],
+        "steps": [
+          "Kijk of je onbeperkt mag bijverdienen (wettelijke pensioenleeftijd bereikt, of 45 loopbaanjaren bij de start van je pensioen)",
+          "Zo niet, vul de 'Verklaring over de beroepsbezigheid en de sociale uitkeringen' (model 74) in en stuur ze naar de Federale Pensioendienst, of naar het RSVZ als je enkel een zelfstandigenpensioen ontvangt"
+        ]
+      },
+      "fr": {
+        "title": "Travailler tout en percevant une pension de retraite",
+        "desc": "À partir du 1er janvier de l'année où vous atteignez l'âge légal de la pension, ou avec une carrière d'au moins 45 ans au début de votre pension, vous pouvez travailler sans limite à côté de votre pension de retraite sans devoir le déclarer. Sinon, vous pouvez gagner jusqu'à un plafond annuel ; au-delà, votre pension est réduite du même pourcentage, et suspendue à partir de 100 %. Une pension de retraite ne peut pas être cumulée avec un revenu de remplacement comme une allocation de chômage ou de maladie.",
+        "deadline": "Si vos revenus sont plafonnés : déclarez une nouvelle activité dans les 30 jours suivant son début, et dès que possible en cas de dépassement ou d'arrêt.",
+        "amount": "Plafonds 2026 avant l'âge de la pension sans 45 ans de carrière : 10.432 € brut par an comme salarié, 8.346 € net comme indépendant, 8.121 € en flexi-job ; avec enfants à charge 15.648 € brut ou 12.519 € net",
+        "requirements": [],
+        "steps": [
+          "Vérifiez si vous pouvez travailler sans limite (âge légal atteint, ou 45 ans de carrière au début de la pension)",
+          "Sinon, remplissez la déclaration d'activité professionnelle (modèle 74) et envoyez-la au Service fédéral des Pensions, ou à l'INASTI si vous ne percevez qu'une pension d'indépendant"
+        ]
+      },
+      "de": {
+        "title": "Hinzuverdienen während der Altersrente",
+        "desc": "Ab dem 1. Januar des Jahres, in dem Sie das gesetzliche Rentenalter erreichen, oder mit mindestens 45 Laufbahnjahren bei Rentenbeginn dürfen Sie neben Ihrer Altersrente unbegrenzt hinzuverdienen und müssen es nicht melden. Sonst dürfen Sie bis zu einer jährlichen Grenze hinzuverdienen; überschreiten Sie sie, wird die Rente um denselben Prozentsatz gekürzt und ab 100 % ausgesetzt. Eine Altersrente darf nicht mit einem Ersatzeinkommen wie Arbeitslosen- oder Krankengeld kombiniert werden.",
+        "deadline": "Wenn Ihr Hinzuverdienst begrenzt ist: Melden Sie eine neue Tätigkeit innerhalb von 30 Tagen nach Beginn und so bald wie möglich bei Überschreitung oder Beendigung.",
+        "amount": "Grenzen 2026 vor dem Rentenalter ohne 45 Laufbahnjahre: 10.432 € brutto pro Jahr als Arbeitnehmer, 8.346 € netto als Selbständiger, 8.121 € aus einem Flexi-Job; mit unterhaltsberechtigten Kindern 15.648 € brutto oder 12.519 € netto",
+        "requirements": [],
+        "steps": [
+          "Prüfen Sie, ob Sie unbegrenzt hinzuverdienen dürfen (gesetzliches Rentenalter erreicht oder 45 Laufbahnjahre bei Rentenbeginn)",
+          "Wenn nicht, füllen Sie die Erklärung über die Berufstätigkeit (Modell 74) aus und senden Sie sie an den Föderalen Pensionsdienst oder an das LISVS, wenn Sie nur eine Selbständigenrente beziehen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.sfpd.fgov.be/nl/pensioenbedrag/bijverdienen",
+      "conditions": {
+        "en": [
+          "You receive a retirement pension, possibly with a survivor's pension; other pensions and supplements (such as the guaranteed minimum for civil servants) have other limits.",
+          "Unlimited: from 1 January of the year you reach the legal pension age, or with 45 career years (each of at least 104 days for pensions starting before 2027, 156 days from 2027)."
+        ],
+        "nl": [
+          "Je ontvangt een rustpensioen, eventueel samen met een overlevingspensioen; voor andere pensioenen en supplementen (zoals het gewaarborgd minimum voor ambtenaren) gelden andere grenzen.",
+          "Onbeperkt: vanaf 1 januari van het jaar waarin je de wettelijke pensioenleeftijd bereikt, of met 45 loopbaanjaren (elk minstens 104 dagen voor pensioenen die voor 2027 ingaan, 156 dagen vanaf 2027)."
+        ],
+        "fr": [
+          "Vous percevez une pension de retraite, éventuellement avec une pension de survie ; d'autres pensions et suppléments (comme le minimum garanti des fonctionnaires) ont d'autres plafonds.",
+          "Sans limite : à partir du 1er janvier de l'année où vous atteignez l'âge légal, ou avec 45 années de carrière (chacune d'au moins 104 jours pour les pensions prenant cours avant 2027, 156 jours à partir de 2027)."
+        ],
+        "de": [
+          "Sie beziehen eine Altersrente, eventuell mit Hinterbliebenenrente; für andere Renten und Zuschläge (etwa das garantierte Minimum für Beamte) gelten andere Grenzen.",
+          "Unbegrenzt: ab dem 1. Januar des Jahres, in dem Sie das gesetzliche Rentenalter erreichen, oder mit 45 Laufbahnjahren (jeweils mindestens 104 Tage bei Rentenbeginn vor 2027, 156 Tage ab 2027)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 281,
+    "category": "employment",
+    "situations": [
+      "job-loss"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM · uitbetalingsinstelling / organisme de paiement",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/bladzijde/welke-gevolgen-kan-een-werkverlating-zonder-geldige-reden-hebben-voor-uw-recht-op-uitkeringen",
+    "content": {
+      "en": {
+        "title": "Fresh Start Right After Quitting Your Job (Recht op doorstart)",
+        "desc": "If you quit your job without a valid reason, the RVA can exclude you from unemployment benefit for 4 to 52 weeks. With a career of about 10 years you can instead ask, once in your life, to replace that fixed-term exclusion with up to 6 months of unemployment benefit. It can be extended once by up to 6 months if you pass a training for a shortage occupation that you started in the first 3 months.",
+        "deadline": "Form C109 must reach the RVA within 30 days after the day following notification of the exclusion. For the extension: within 2 months of passing the training. The choice is final.",
+        "amount": "Unemployment benefit for up to 6 months (once extendable by 6 months), never longer than your normal entitlement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Form C109 – Doorstart"
+          }
+        ],
+        "steps": [
+          "Hand in form C109 – Doorstart at your payment institution (HVW-CAPAC, ACV, ABVV or SYNOVA)",
+          "During the benefit period, stay registered as a jobseeker, available for work, and fill in your control card"
+        ]
+      },
+      "nl": {
+        "title": "Recht op doorstart na vrijwillig ontslag",
+        "desc": "Verlaat je je werk zonder geldige reden, dan kan de RVA je 4 tot 52 weken uitsluiten van werkloosheidsuitkeringen. Met een loopbaan van ongeveer 10 jaar kan je in plaats daarvan, één keer in je leven, vragen om die uitsluiting van bepaalde duur te vervangen door maximaal 6 maanden werkloosheidsuitkeringen. Dat kan één keer verlengd worden met maximaal 6 maanden als je slaagt voor een opleiding voor een knelpuntberoep die je in de eerste 3 maanden startte.",
+        "deadline": "Formulier C109 moet binnen 30 dagen vanaf de dag na de kennisgeving van de uitsluiting bij de RVA zijn. Voor de verlenging: binnen 2 maanden na het slagen voor de opleiding. De keuze is definitief.",
+        "amount": "Werkloosheidsuitkeringen gedurende maximaal 6 maanden (één keer verlengbaar met 6 maanden), nooit langer dan je normale recht",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier C109 – Doorstart"
+          }
+        ],
+        "steps": [
+          "Dien formulier C109 – Doorstart in bij je uitbetalingsinstelling (HVW, ACV, ABVV of SYNOVA)",
+          "Blijf tijdens de uitkeringsperiode ingeschreven als werkzoekende, beschikbaar voor de arbeidsmarkt, en vul je controlekaart in"
+        ]
+      },
+      "fr": {
+        "title": "Droit au redémarrage après une démission",
+        "desc": "Si vous quittez votre emploi sans motif légitime, l'ONEM peut vous exclure des allocations de chômage pendant 4 à 52 semaines. Avec une carrière d'environ 10 ans, vous pouvez à la place demander, une seule fois, de remplacer cette exclusion à durée déterminée par 6 mois maximum d'allocations de chômage. Elle peut être prolongée une fois de 6 mois maximum si vous réussissez une formation à un métier en pénurie commencée dans les 3 premiers mois.",
+        "deadline": "Le formulaire C109 doit parvenir à l'ONEM dans les 30 jours à compter du lendemain de la notification de l'exclusion. Pour la prolongation : dans les 2 mois de la réussite de la formation. Le choix est définitif.",
+        "amount": "Allocations de chômage pendant 6 mois maximum (prolongeables une fois de 6 mois), jamais plus longtemps que votre droit normal",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire C109 – Redémarrage"
+          }
+        ],
+        "steps": [
+          "Remettez le formulaire C109 à votre organisme de paiement (CAPAC, CSC, FGTB ou SYNOVA)",
+          "Pendant la période d'allocations, restez inscrit(e) comme demandeur d'emploi, disponible et remplissez votre carte de contrôle"
+        ]
+      },
+      "de": {
+        "title": "Recht auf Neustart nach eigener Kündigung",
+        "desc": "Wenn Sie Ihre Arbeit ohne triftigen Grund aufgeben, kann das LfA Sie für 4 bis 52 Wochen vom Arbeitslosengeld ausschließen. Mit einer Laufbahn von etwa 10 Jahren können Sie stattdessen einmal im Leben beantragen, diesen befristeten Ausschluss durch höchstens 6 Monate Arbeitslosengeld zu ersetzen. Eine einmalige Verlängerung um höchstens 6 Monate ist möglich, wenn Sie eine in den ersten 3 Monaten begonnene Ausbildung für einen Mangelberuf bestehen.",
+        "deadline": "Das Formular C109 muss innerhalb von 30 Tagen ab dem Tag nach der Mitteilung des Ausschlusses beim LfA eingehen. Für die Verlängerung: innerhalb von 2 Monaten nach Bestehen der Ausbildung. Die Wahl ist endgültig.",
+        "amount": "Arbeitslosengeld für höchstens 6 Monate (einmal um 6 Monate verlängerbar), nie länger als Ihr normaler Anspruch",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular C109 – Neustart"
+          }
+        ],
+        "steps": [
+          "Reichen Sie das Formular C109 bei Ihrer Zahlstelle ein (HVW-CAPAC, CSC, FGTB oder SYNOVA)",
+          "Bleiben Sie während des Leistungszeitraums arbeitsuchend gemeldet, verfügbar und füllen Sie Ihre Kontrollkarte aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/bladzijde/welke-gevolgen-kan-een-werkverlating-zonder-geldige-reden-hebben-voor-uw-recht-op-uitkeringen",
+      "conditions": {
+        "en": [
+          "You left your job after 28 February 2026 and were excluded for a fixed period (not indefinitely for intending to claim benefit, nor for repeat cases).",
+          "When you left, you had at least 3,120 working or equivalent days (about 10 years), and you never used the fresh start right before."
+        ],
+        "nl": [
+          "Je verliet je werk na 28 februari 2026 en werd uitgesloten voor een bepaalde duur (niet voor onbepaalde duur wegens de bedoeling uitkeringen te vragen, noch bij herhaling).",
+          "Bij je vertrek had je minstens 3.120 arbeids- of gelijkgestelde dagen (ongeveer 10 jaar), en je gebruikte het recht op doorstart nog nooit."
+        ],
+        "fr": [
+          "Vous avez quitté votre emploi après le 28 février 2026 et avez été exclu(e) pour une durée déterminée (pas pour une durée indéterminée pour intention de percevoir des allocations, ni en cas de récidive).",
+          "Lors de votre départ, vous aviez au moins 3.120 jours de travail ou assimilés (environ 10 ans) et n'avez jamais utilisé ce droit."
+        ],
+        "de": [
+          "Sie haben Ihre Arbeit nach dem 28. Februar 2026 aufgegeben und wurden befristet ausgeschlossen (nicht unbefristet wegen Absicht, Leistungen zu beziehen, und nicht im Wiederholungsfall).",
+          "Bei Ihrem Weggang hatten Sie mindestens 3.120 Arbeits- oder gleichgestellte Tage (etwa 10 Jahre) und haben das Recht noch nie genutzt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 282,
+    "category": "employment",
+    "situations": [
+      "job-loss",
+      "self-employed"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM · uitbetalingsinstelling / organisme de paiement",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/volledige-werkloosheid/mag-u-werken-tijdens-uw-werkloosheid/mag-u-een-activiteit-uitoefenen-tijdens-uw-volledige-werkloosheid",
+    "content": {
+      "en": {
+        "title": "Prepare a Self-employed Start While Keeping Unemployment Benefit",
+        "desc": "If you receive unemployment benefit, you may spend up to 6 months preparing to become self-employed or to set up a company while keeping your benefit: feasibility and market studies, buying or renting premises and equipment, finding partners, suppliers and lenders, founding the company, recruiting staff (without employing them yet) and the registrations with the Crossroads Bank for Enterprises, VAT and social security. This is granted only once.",
+        "deadline": "Declare it to the RVA in writing before you start the preparation. At most 6 months, once.",
+        "amount": "You keep your unemployment benefit for up to 6 months",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Form C45E (declaration of preparatory activities), from your payment institution"
+          }
+        ],
+        "steps": [
+          "Get form C45E from your payment institution and declare the preparation to the RVA office before you start",
+          "During the preparation, stay registered as a jobseeker and keep filling in your control card",
+          "Do not note the allowed preparatory activities on your control card; declare any other activity"
+        ]
+      },
+      "nl": {
+        "title": "Je start als zelfstandige voorbereiden met behoud van werkloosheidsuitkering",
+        "desc": "Ontvang je werkloosheidsuitkeringen, dan mag je met behoud van uitkering maximaal 6 maanden je vestiging als zelfstandige of de oprichting van een onderneming voorbereiden: haalbaarheids- en marktstudies, lokalen en materiaal kopen of huren, vennoten, leveranciers en kredietverleners zoeken, de vennootschap oprichten, personeel aanwerven (nog zonder tewerk te stellen) en de stappen bij de Kruispuntbank van Ondernemingen, de btw en de sociale zekerheid. Dit wordt maar één keer toegekend.",
+        "deadline": "Geef het vooraf schriftelijk aan bij de RVA voor je met de voorbereiding begint. Hoogstens 6 maanden, één keer.",
+        "amount": "Je behoudt je werkloosheidsuitkering gedurende maximaal 6 maanden",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier C45E (aangifte van voorbereidende activiteiten), bij je uitbetalingsinstelling"
+          }
+        ],
+        "steps": [
+          "Haal formulier C45E bij je uitbetalingsinstelling en geef de voorbereiding vooraf aan bij het RVA-kantoor",
+          "Blijf tijdens de voorbereiding ingeschreven als werkzoekende en vul je controlekaart verder in",
+          "Vermeld de toegelaten voorbereidende activiteiten niet op je controlekaart; geef andere activiteiten wel aan"
+        ]
+      },
+      "fr": {
+        "title": "Préparer votre installation comme indépendant en gardant vos allocations",
+        "desc": "Si vous percevez des allocations de chômage, vous pouvez consacrer jusqu'à 6 mois à préparer votre installation comme indépendant(e) ou la création d'une entreprise en gardant vos allocations : études de faisabilité et de marché, achat ou location de locaux et de matériel, recherche d'associés, de fournisseurs et de prêteurs, constitution de la société, recrutement (sans encore occuper le personnel) et démarches auprès de la Banque-Carrefour des Entreprises, de la TVA et de la sécurité sociale. Ce n'est accordé qu'une fois.",
+        "deadline": "Déclarez-la par écrit à l'ONEM avant de commencer la préparation. 6 mois maximum, une seule fois.",
+        "amount": "Vous gardez vos allocations de chômage pendant 6 mois maximum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire C45E (déclaration des activités préparatoires), auprès de votre organisme de paiement"
+          }
+        ],
+        "steps": [
+          "Obtenez le formulaire C45E auprès de votre organisme de paiement et déclarez la préparation au bureau de l'ONEM avant de commencer",
+          "Pendant la préparation, restez inscrit(e) comme demandeur d'emploi et continuez à remplir votre carte de contrôle",
+          "N'indiquez pas les activités préparatoires autorisées sur votre carte de contrôle ; déclarez toute autre activité"
+        ]
+      },
+      "de": {
+        "title": "Selbständigkeit vorbereiten und Arbeitslosengeld behalten",
+        "desc": "Wenn Sie Arbeitslosengeld beziehen, dürfen Sie bis zu 6 Monate lang Ihre Selbständigkeit oder eine Firmengründung vorbereiten und Ihr Arbeitslosengeld behalten: Machbarkeits- und Marktstudien, Kauf oder Miete von Räumen und Material, Suche nach Partnern, Lieferanten und Kreditgebern, Gründung der Gesellschaft, Personalsuche (noch ohne Beschäftigung) und Schritte bei der Zentralen Datenbank der Unternehmen, der MwSt. und der sozialen Sicherheit. Das wird nur einmal gewährt.",
+        "deadline": "Melden Sie es dem LfA schriftlich, bevor Sie mit der Vorbereitung beginnen. Höchstens 6 Monate, einmalig.",
+        "amount": "Sie behalten Ihr Arbeitslosengeld für höchstens 6 Monate",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular C45E (Erklärung vorbereitender Tätigkeiten), bei Ihrer Zahlstelle"
+          }
+        ],
+        "steps": [
+          "Holen Sie das Formular C45E bei Ihrer Zahlstelle und melden Sie die Vorbereitung vorab beim LfA-Büro",
+          "Bleiben Sie während der Vorbereitung als Arbeitsuchender eingetragen und füllen Sie weiter Ihre Kontrollkarte aus",
+          "Tragen Sie die erlaubten Vorbereitungstätigkeiten nicht in die Kontrollkarte ein; melden Sie andere Tätigkeiten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/volledige-werkloosheid/mag-u-werken-tijdens-uw-werkloosheid/mag-u-een-activiteit-uitoefenen-tijdens-uw-volledige-werkloosheid",
+      "conditions": {
+        "en": [
+          "You receive unemployment benefit (including integration benefit or unemployment with company supplement).",
+          "You have not used this 6-month preparation period before."
+        ],
+        "nl": [
+          "Je ontvangt werkloosheidsuitkeringen (ook inschakelingsuitkeringen of werkloosheid met bedrijfstoeslag).",
+          "Je hebt deze voorbereidingsperiode van 6 maanden nog niet eerder gebruikt."
+        ],
+        "fr": [
+          "Vous percevez des allocations de chômage (y compris d'insertion ou chômage avec complément d'entreprise).",
+          "Vous n'avez pas encore utilisé cette période de préparation de 6 mois."
+        ],
+        "de": [
+          "Sie beziehen Arbeitslosengeld (auch Eingliederungsgeld oder Arbeitslosigkeit mit Betriebszuschlag).",
+          "Sie haben diese 6-monatige Vorbereitungszeit noch nicht genutzt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 283,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Fedris (Federaal agentschap voor beroepsrisico's / Agence fédérale des risques professionnels)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.fedris.be/nl/themas/lage-rugpijn/wat-het-preventieprogramma",
+    "amount_source_url": "https://www.fedris.be/nl/themas/lage-rugpijn/wat-je-moet-weten-als-werknemer",
+    "content": {
+      "en": {
+        "title": "Free Rehabilitation for Low Back Pain from Heavy Work (Fedris)",
+        "desc": "Employees who do work that strains the back and are off work with low back pain can follow Fedris's prevention programme: up to 36 two-hour sessions over at most 6 months in a rehabilitation centre that works with Fedris, plus an ergonomic intervention at the workplace. Fedris pays the personal share of the sessions and your travel at €0.3460 per km (up to 1,000 km), so the programme is in principle free. Taking part is voluntary.",
+        "deadline": "Apply through the occupational physician before starting. If rehabilitation already started without them, the application must be made within the first 4 weeks. Claim travel costs yourself after the programme.",
+        "amount": "Personal share of up to 36 sessions paid, plus travel at €0.3460 per km (up to 1,000 km)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form for functional rehabilitation, filled in by the occupational physician"
+          }
+        ],
+        "steps": [
+          "Ask your treating doctor whether there are medical reasons not to follow the programme",
+          "Make an appointment with the occupational physician, who checks the conditions and sends the form to Fedris",
+          "After Fedris approves (usually within about 15 days), book your sessions with a partner rehabilitation centre"
+        ]
+      },
+      "nl": {
+        "title": "Gratis revalidatie bij lage rugpijn door rugbelastend werk (Fedris)",
+        "desc": "Werknemers met rugbelastend werk die door lage rugpijn arbeidsongeschikt zijn, kunnen het Preventieprogramma lage rugpijn van Fedris volgen: maximaal 36 sessies van 2 uur gespreid over hoogstens 6 maanden in een revalidatiecentrum dat met Fedris samenwerkt, plus een ergonomische interventie op de werkvloer. Fedris betaalt het remgeld van de sessies en je verplaatsingen aan €0,3460 per km (tot 1.000 km), zodat het programma in principe gratis is. Deelname is vrijwillig.",
+        "deadline": "Vraag het aan via de arbeidsarts voor je start. Is de revalidatie al gestart zonder arbeidsarts, dan moet de aanvraag binnen de eerste 4 weken gebeuren. Vraag je verplaatsingskosten zelf aan na het programma.",
+        "amount": "Remgeld van maximaal 36 sessies betaald, plus verplaatsingen aan €0,3460 per km (tot 1.000 km)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier functionele revalidatie, ingevuld door de arbeidsarts"
+          }
+        ],
+        "steps": [
+          "Vraag je behandelend arts of er medische redenen zijn om het programma niet te volgen",
+          "Maak een afspraak met de arbeidsarts, die de voorwaarden nagaat en het formulier naar Fedris stuurt",
+          "Na goedkeuring door Fedris (doorgaans binnen ongeveer 15 dagen) plan je je sessies bij een revalidatiecentrum dat met Fedris samenwerkt"
+        ]
+      },
+      "fr": {
+        "title": "Revalidation gratuite pour lombalgie due à un travail pénible pour le dos (Fedris)",
+        "desc": "Les travailleurs dont le travail sollicite le dos et en incapacité pour lombalgie peuvent suivre le programme de prévention de Fedris : jusqu'à 36 séances de 2 heures sur 6 mois maximum dans un centre de revalidation partenaire de Fedris, plus une intervention ergonomique sur le lieu de travail. Fedris paie le ticket modérateur des séances et vos déplacements à 0,3460 € par km (jusqu'à 1.000 km), de sorte que le programme est en principe gratuit. La participation est volontaire.",
+        "deadline": "Faites la demande via le médecin du travail avant de commencer. Si la revalidation a déjà commencé sans lui, la demande doit être faite dans les 4 premières semaines. Demandez vous-même vos frais de déplacement après le programme.",
+        "amount": "Ticket modérateur de 36 séances maximum payé, plus déplacements à 0,3460 € par km (jusqu'à 1.000 km)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande de revalidation fonctionnelle, rempli par le médecin du travail"
+          }
+        ],
+        "steps": [
+          "Demandez à votre médecin traitant s'il existe des raisons médicales de ne pas suivre le programme",
+          "Prenez rendez-vous avec le médecin du travail, qui vérifie les conditions et envoie le formulaire à Fedris",
+          "Après l'accord de Fedris (en général dans les 15 jours environ), planifiez vos séances dans un centre partenaire"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Rehabilitation bei Kreuzschmerzen durch rückenbelastende Arbeit (Fedris)",
+        "desc": "Arbeitnehmer mit rückenbelastender Arbeit, die wegen Kreuzschmerzen arbeitsunfähig sind, können am Präventionsprogramm von Fedris teilnehmen: bis zu 36 Sitzungen von 2 Stunden über höchstens 6 Monate in einem Rehabilitationszentrum, das mit Fedris zusammenarbeitet, plus eine ergonomische Maßnahme am Arbeitsplatz. Fedris zahlt den Eigenanteil der Sitzungen und Ihre Fahrten zu 0,3460 € pro km (bis 1.000 km), sodass das Programm grundsätzlich kostenlos ist. Die Teilnahme ist freiwillig.",
+        "deadline": "Beantragen Sie es vor Beginn über den Arbeitsarzt. Hat die Rehabilitation schon ohne ihn begonnen, muss der Antrag in den ersten 4 Wochen gestellt werden. Beantragen Sie die Fahrtkosten nach dem Programm selbst.",
+        "amount": "Eigenanteil für bis zu 36 Sitzungen bezahlt, plus Fahrten zu 0,3460 € pro km (bis 1.000 km)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular für funktionelle Rehabilitation, ausgefüllt vom Arbeitsarzt"
+          }
+        ],
+        "steps": [
+          "Fragen Sie Ihren behandelnden Arzt, ob medizinische Gründe gegen das Programm sprechen",
+          "Vereinbaren Sie einen Termin beim Arbeitsarzt, der die Bedingungen prüft und das Formular an Fedris schickt",
+          "Nach der Zustimmung von Fedris (meist innerhalb von etwa 15 Tagen) vereinbaren Sie Ihre Sitzungen in einem Partnerzentrum"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.fedris.be/nl/themas/lage-rugpijn/wat-het-preventieprogramma",
+      "conditions": {
+        "en": [
+          "You work in the private sector or for a provincial or local authority, and the occupational physician monitors your health because your work strains the back (lifting loads, ergonomic strain or whole-body vibration); office work does not count.",
+          "You are off work with low back pain for 4 weeks to 6 months (or 1 week to 6 months after at least 3 weeks the year before, or 4 weeks to 6 months after back surgery), or you returned to adapted work after such an absence.",
+          "The back pain is not the result of a recognised accident at work."
+        ],
+        "nl": [
+          "Je werkt in de privésector of bij een provinciale of plaatselijke overheid, en de arbeidsarts volgt je gezondheid op wegens rugbelastend werk (tillen van lasten, ergonomische belasting of trillingen via het zitvlak); kantoorwerk telt niet.",
+          "Je bent door lage rugpijn 4 weken tot 6 maanden arbeidsongeschikt (of 1 week tot 6 maanden na al minstens 3 weken het jaar ervoor, of 4 weken tot 6 maanden na een rugoperatie), of je hervatte na zo'n afwezigheid met aangepast werk.",
+          "De rugpijn is niet het gevolg van een erkend arbeidsongeval."
+        ],
+        "fr": [
+          "Vous travaillez dans le secteur privé ou pour un pouvoir provincial ou local, et le médecin du travail assure votre surveillance de santé pour un travail sollicitant le dos (port de charges, contraintes ergonomiques ou vibrations du corps entier) ; le travail de bureau ne compte pas.",
+          "Vous êtes en incapacité pour lombalgie depuis 4 semaines à 6 mois (ou 1 semaine à 6 mois après au moins 3 semaines l'année précédente, ou 4 semaines à 6 mois après une opération du dos), ou vous avez repris un travail adapté après une telle absence.",
+          "La lombalgie ne résulte pas d'un accident du travail reconnu."
+        ],
+        "de": [
+          "Sie arbeiten im Privatsektor oder bei einer Provinz- oder Lokalbehörde, und der Arbeitsarzt überwacht Ihre Gesundheit wegen rückenbelastender Arbeit (Heben von Lasten, ergonomische Belastung oder Ganzkörpervibrationen); Büroarbeit zählt nicht.",
+          "Sie sind wegen Kreuzschmerzen 4 Wochen bis 6 Monate arbeitsunfähig (oder 1 Woche bis 6 Monate nach mindestens 3 Wochen im Vorjahr, oder 4 Wochen bis 6 Monate nach einer Rückenoperation) oder haben nach einer solchen Abwesenheit angepasste Arbeit aufgenommen.",
+          "Die Kreuzschmerzen sind nicht Folge eines anerkannten Arbeitsunfalls."
+        ]
+      }
+    }
+  },
+  {
+    "id": 284,
+    "category": "employment",
+    "situations": [
+      "health-issue",
+      "employee",
+      "job-loss",
+      "self-employed"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/socio-professionele-re-integratie",
+    "content": {
+      "en": {
+        "title": "Back-to-Work Pathway While on Sick Leave (Terug Naar Werk-traject)",
+        "desc": "If you are recognised as unfit for work, whether employee, self-employed or jobseeker, you can start a back-to-work pathway on a voluntary basis. A back-to-work coordinator helps you look for adapted work or another job that fits what you can still do, and if needed you can follow training to brush up or learn new skills. You can start it through your health fund at any time, or after a year of incapacity also through VDAB, Actiris, Forem or ADG.",
+        "deadline": "No deadline: you can contact the coordinator of your health fund at any time during your incapacity. After 10 weeks you receive a questionnaire that you must return within 2 weeks.",
+        "amount": "Free guidance and, if needed, training",
+        "requirements": [],
+        "steps": [
+          "Contact the back-to-work coordinator of your health fund, or ask the medical adviser to refer you",
+          "After more than a year of incapacity you can also register with VDAB, Actiris, Forem or ADG",
+          "Attend the first meeting with the coordinator; missing it without a valid reason can reduce your benefit"
+        ]
+      },
+      "nl": {
+        "title": "Terug Naar Werk-traject tijdens arbeidsongeschiktheid",
+        "desc": "Ben je erkend als arbeidsongeschikt, als werknemer, zelfstandige of werkzoekende, dan kan je vrijwillig een Terug-naar-werktraject starten. Een Terug-naar-werkcoördinator begeleidt je in je zoektocht naar aangepast werk of een andere job die past bij wat je nog kan, en zo nodig volg je een opleiding om je vaardigheden bij te schaven of nieuwe te leren. Je start het op elk moment via je ziekenfonds, of na een jaar arbeidsongeschiktheid ook via VDAB, Actiris, Forem of ADG.",
+        "deadline": "Geen deadline: je kan op elk moment tijdens je arbeidsongeschiktheid contact opnemen met de coördinator van je ziekenfonds. Na 10 weken krijg je een vragenlijst die je binnen 2 weken moet terugsturen.",
+        "amount": "Gratis begeleiding en, zo nodig, opleiding",
+        "requirements": [],
+        "steps": [
+          "Neem contact op met de Terug-naar-werkcoördinator van je ziekenfonds, of vraag de adviserend arts om je door te verwijzen",
+          "Na meer dan een jaar arbeidsongeschiktheid kan je je ook melden bij VDAB, Actiris, Forem of ADG",
+          "Ga naar het eerste contactmoment met de coördinator; wegblijven zonder geldige reden kan je uitkering verminderen"
+        ]
+      },
+      "fr": {
+        "title": "Trajet Retour au travail pendant l'incapacité de travail",
+        "desc": "Si vous êtes reconnu(e) en incapacité de travail, comme salarié(e), indépendant(e) ou demandeur d'emploi, vous pouvez commencer volontairement un trajet Retour au travail. Un coordinateur Retour au travail vous accompagne dans la recherche d'un travail adapté ou d'un autre emploi correspondant à vos capacités, et si nécessaire vous suivez une formation pour actualiser ou acquérir des compétences. Vous le démarrez à tout moment via votre mutualité, ou après un an d'incapacité aussi via le VDAB, Actiris, le Forem ou l'ADG.",
+        "deadline": "Pas de délai : vous pouvez contacter le coordinateur de votre mutualité à tout moment pendant l'incapacité. Après 10 semaines, vous recevez un questionnaire à renvoyer dans les 2 semaines.",
+        "amount": "Accompagnement gratuit et, si nécessaire, formation",
+        "requirements": [],
+        "steps": [
+          "Contactez le coordinateur Retour au travail de votre mutualité, ou demandez au médecin-conseil de vous orienter",
+          "Après plus d'un an d'incapacité, vous pouvez aussi vous adresser au VDAB, à Actiris, au Forem ou à l'ADG",
+          "Présentez-vous au premier rendez-vous avec le coordinateur ; une absence sans motif valable peut réduire votre indemnité"
+        ]
+      },
+      "de": {
+        "title": "Rückkehr-zur-Arbeit-Weg während der Arbeitsunfähigkeit",
+        "desc": "Wenn Sie als arbeitsunfähig anerkannt sind, ob Arbeitnehmer, Selbständiger oder Arbeitsuchender, können Sie freiwillig einen Rückkehr-zur-Arbeit-Weg beginnen. Ein Rückkehr-zur-Arbeit-Koordinator begleitet Sie bei der Suche nach angepasster Arbeit oder einer anderen Stelle, die zu Ihren Möglichkeiten passt, und bei Bedarf machen Sie eine Ausbildung, um Fähigkeiten aufzufrischen oder neue zu lernen. Sie beginnen ihn jederzeit über Ihre Krankenkasse oder nach einem Jahr Arbeitsunfähigkeit auch über VDAB, Actiris, Forem oder das ADG.",
+        "deadline": "Keine Frist: Sie können den Koordinator Ihrer Krankenkasse jederzeit während der Arbeitsunfähigkeit kontaktieren. Nach 10 Wochen erhalten Sie einen Fragebogen, den Sie innerhalb von 2 Wochen zurückschicken müssen.",
+        "amount": "Kostenlose Begleitung und bei Bedarf Ausbildung",
+        "requirements": [],
+        "steps": [
+          "Wenden Sie sich an den Rückkehr-zur-Arbeit-Koordinator Ihrer Krankenkasse oder bitten Sie den Vertrauensarzt um eine Überweisung",
+          "Nach mehr als einem Jahr Arbeitsunfähigkeit können Sie sich auch bei VDAB, Actiris, Forem oder dem ADG melden",
+          "Nehmen Sie das erste Gespräch mit dem Koordinator wahr; Fernbleiben ohne triftigen Grund kann Ihre Leistung kürzen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/socio-professionele-re-integratie",
+      "conditions": {
+        "en": [
+          "You are recognised as unfit for work by your health fund, as employee, self-employed person or jobseeker.",
+          "Starting through VDAB, Actiris, Forem or ADG on your own initiative is possible after more than a year of incapacity."
+        ],
+        "nl": [
+          "Je bent door je ziekenfonds erkend als arbeidsongeschikt, als werknemer, zelfstandige of werkzoekende.",
+          "Zelf starten via VDAB, Actiris, Forem of ADG kan na meer dan een jaar arbeidsongeschiktheid."
+        ],
+        "fr": [
+          "Vous êtes reconnu(e) en incapacité de travail par votre mutualité, comme salarié(e), indépendant(e) ou demandeur d'emploi.",
+          "Démarrer de votre propre initiative via le VDAB, Actiris, le Forem ou l'ADG est possible après plus d'un an d'incapacité."
+        ],
+        "de": [
+          "Sie sind von Ihrer Krankenkasse als arbeitsunfähig anerkannt, als Arbeitnehmer, Selbständiger oder Arbeitsuchender.",
+          "Selbst über VDAB, Actiris, Forem oder das ADG zu starten ist nach mehr als einem Jahr Arbeitsunfähigkeit möglich."
+        ]
+      }
+    }
+  },
+  {
+    "id": 285,
+    "category": "family",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Financiën / SPF Finances (DAVO-SECAL)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://financien.belgium.be/nl/particulieren/meer-diensten/onderhoudsgeld-davo/onderhoudsgeld-opeisen-als-onderhoudsgerechtigde",
+    "content": {
+      "en": {
+        "title": "Advances on Unpaid Child Maintenance (DAVO)",
+        "desc": "If the other parent does not pay the maintenance set by a court or notary, the Maintenance Claims Service (DAVO) of the FPS Finance can recover the arrears for you and, for children, pay monthly advances on future maintenance so you have a regular income. DAVO then collects the money from the person who owes it.",
+        "deadline": "You can apply once the maintenance has not been paid, fully or partly, in two months of the past twelve. Report changes (new judgment within 3 months, address, children's situation) while DAVO acts for you.",
+        "amount": "Monthly advance on the child maintenance, plus recovery of arrears",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Enforceable title: a court decision served by a bailiff, or a notarial deed, fixing the amount and period"
+          },
+          {
+            "type": "doc",
+            "label": "For a child aged 18 to 25: proof of child benefit and of school attendance or job-seeking integration period"
+          }
+        ],
+        "steps": [
+          "Fill in the DAVO application for intervention and, for children, the form for advances (on the FPS Finance website)",
+          "Add the enforceable title and send your application to DAVO",
+          "While DAVO acts for you, do not take your own steps (bailiff, lawyer) to recover the arrears, and follow your file in MyMinfin"
+        ]
+      },
+      "nl": {
+        "title": "Voorschotten op niet-betaald onderhoudsgeld (DAVO)",
+        "desc": "Betaalt de andere ouder het onderhoudsgeld niet dat een rechter of notaris heeft vastgelegd, dan kan de Dienst voor Alimentatievorderingen (DAVO) van de FOD Financiën het achterstallige bedrag voor jou invorderen en, voor kinderen, maandelijkse voorschotten op het toekomstige onderhoudsgeld betalen zodat je een regelmatig inkomen hebt. De DAVO vordert het geld daarna in bij wie het verschuldigd is.",
+        "deadline": "Je kan aanvragen zodra het onderhoudsgeld in twee maanden van de afgelopen twaalf volledig of gedeeltelijk niet betaald werd. Meld wijzigingen (nieuw vonnis binnen 3 maanden, adres, situatie van de kinderen) zolang DAVO tussenkomt.",
+        "amount": "Maandelijks voorschot op het onderhoudsgeld voor je kind, plus invordering van achterstallen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Uitvoerbare titel: een gerechtelijke beslissing betekend door een gerechtsdeurwaarder, of een notariële akte, met het bedrag en de periode"
+          },
+          {
+            "type": "doc",
+            "label": "Voor een kind van 18 tot 25: attest van kinderbijslag en bewijs van schoolbezoek of beroepsinschakelingstijd"
+          }
+        ],
+        "steps": [
+          "Vul de DAVO-aanvraag tot tussenkomst in en, voor kinderen, het formulier voor voorschotten (op de website van de FOD Financiën)",
+          "Voeg de uitvoerbare titel toe en bezorg je aanvraag aan de DAVO",
+          "Zolang DAVO tussenkomt, onderneem je zelf geen stappen (deurwaarder, advocaat) om achterstallen te innen; volg je dossier op via MyMinfin"
+        ]
+      },
+      "fr": {
+        "title": "Avances sur les pensions alimentaires impayées (SECAL)",
+        "desc": "Si l'autre parent ne paie pas la pension alimentaire fixée par un juge ou un notaire, le Service des créances alimentaires (SECAL) du SPF Finances peut récupérer les arriérés pour vous et, pour les enfants, verser des avances mensuelles sur la pension future afin d'assurer un revenu régulier. Le SECAL réclame ensuite l'argent au débiteur.",
+        "deadline": "Vous pouvez introduire la demande dès que la pension n'a pas été payée, totalement ou partiellement, durant deux mois sur les douze derniers. Signalez les changements (nouveau jugement dans les 3 mois, adresse, situation des enfants) tant que le SECAL intervient.",
+        "amount": "Avance mensuelle sur la pension alimentaire de l'enfant, plus récupération des arriérés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Titre exécutoire : une décision judiciaire signifiée par huissier, ou un acte notarié, fixant le montant et la période"
+          },
+          {
+            "type": "doc",
+            "label": "Pour un enfant de 18 à 25 ans : attestation d'allocations familiales et preuve de scolarité ou de stage d'insertion"
+          }
+        ],
+        "steps": [
+          "Remplissez la demande d'intervention du SECAL et, pour les enfants, le formulaire d'avances (sur le site du SPF Finances)",
+          "Joignez le titre exécutoire et envoyez votre demande au SECAL",
+          "Tant que le SECAL intervient, n'entreprenez pas vous-même de démarches (huissier, avocat) pour les arriérés ; suivez votre dossier via MyMinfin"
+        ]
+      },
+      "de": {
+        "title": "Vorschüsse auf nicht gezahlten Kindesunterhalt (DAVO)",
+        "desc": "Zahlt der andere Elternteil den von einem Richter oder Notar festgelegten Unterhalt nicht, kann der Dienst für Unterhaltsforderungen (DAVO) des FÖD Finanzen die Rückstände für Sie eintreiben und für Kinder monatliche Vorschüsse auf den künftigen Unterhalt zahlen, damit Sie ein regelmäßiges Einkommen haben. Der DAVO treibt das Geld danach beim Schuldner ein.",
+        "deadline": "Sie können den Antrag stellen, sobald der Unterhalt in zwei der letzten zwölf Monate ganz oder teilweise nicht gezahlt wurde. Melden Sie Änderungen (neues Urteil innerhalb von 3 Monaten, Adresse, Situation der Kinder), solange der DAVO tätig ist.",
+        "amount": "Monatlicher Vorschuss auf den Kindesunterhalt plus Eintreibung der Rückstände",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vollstreckbarer Titel: ein von einem Gerichtsvollzieher zugestelltes Urteil oder eine notarielle Urkunde mit Betrag und Zeitraum"
+          },
+          {
+            "type": "doc",
+            "label": "Für ein Kind von 18 bis 25: Kindergeldbescheinigung und Nachweis über Schulbesuch oder Berufseingliederungszeit"
+          }
+        ],
+        "steps": [
+          "Füllen Sie den DAVO-Antrag auf Intervention und für Kinder das Formular für Vorschüsse aus (auf der Website des FÖD Finanzen)",
+          "Fügen Sie den vollstreckbaren Titel bei und senden Sie Ihren Antrag an den DAVO",
+          "Solange der DAVO tätig ist, unternehmen Sie selbst keine Schritte (Gerichtsvollzieher, Anwalt) zur Eintreibung; verfolgen Sie Ihre Akte über MyMinfin"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://financien.belgium.be/nl/particulieren/meer-diensten/onderhoudsgeld-davo/onderhoudsgeld-opeisen-als-onderhoudsgerechtigde",
+      "conditions": {
+        "en": [
+          "You and the children entitled to maintenance live in Belgium (the parent who owes it may live abroad).",
+          "You have an enforceable title fixing the maintenance, and it was fully or partly unpaid in two of the past twelve months.",
+          "Advances are only for children: under 18, or 18 to 25 if still entitled to maintenance with proof of child benefit and studies or job-seeking; DAVO must also act for the future maintenance."
+        ],
+        "nl": [
+          "Jij en de kinderen die recht hebben op onderhoudsgeld wonen in België (de onderhoudsplichtige mag in het buitenland wonen).",
+          "Je hebt een uitvoerbare titel die het onderhoudsgeld vastlegt, en het werd in twee van de afgelopen twaalf maanden volledig of gedeeltelijk niet betaald.",
+          "Voorschotten zijn er alleen voor kinderen: jonger dan 18, of 18 tot 25 als ze nog recht hebben op onderhoudsgeld met bewijs van kinderbijslag en studies of beroepsinschakelingstijd; DAVO moet ook tussenkomen voor het toekomstige onderhoudsgeld."
+        ],
+        "fr": [
+          "Vous et les enfants créanciers d'aliments habitez en Belgique (le débiteur peut vivre à l'étranger).",
+          "Vous disposez d'un titre exécutoire fixant la pension, et elle n'a pas été payée, totalement ou partiellement, durant deux des douze derniers mois.",
+          "Les avances ne concernent que les enfants : moins de 18 ans, ou 18 à 25 ans s'ils ont encore droit à la pension avec preuve d'allocations familiales et d'études ou de stage d'insertion ; le SECAL doit aussi intervenir pour la pension future."
+        ],
+        "de": [
+          "Sie und die unterhaltsberechtigten Kinder wohnen in Belgien (der Unterhaltspflichtige darf im Ausland wohnen).",
+          "Sie haben einen vollstreckbaren Titel über den Unterhalt, und er wurde in zwei der letzten zwölf Monate ganz oder teilweise nicht gezahlt.",
+          "Vorschüsse gibt es nur für Kinder: unter 18 oder 18 bis 25, wenn sie noch Unterhaltsanspruch haben, mit Nachweis von Kindergeld und Studium oder Berufseingliederung; der DAVO muss auch für den künftigen Unterhalt tätig sein."
+        ]
+      }
+    }
   }
 ]
