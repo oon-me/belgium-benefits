@@ -355,49 +355,85 @@
       "ids": [
         149
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "33011",
-      "name": "Ieper / Ypres"
+      "name": "Ieper / Ypres",
+      "checked": "31 Oct 2026",
+      "ids": []
     },
     {
       "nis": "71004",
-      "name": "Beringen"
+      "name": "Beringen",
+      "checked": "31 Oct 2026",
+      "ids": [
+        232
+      ]
     },
     {
       "nis": "21013",
-      "name": "Sint-Gillis / Saint-Gilles"
+      "name": "Sint-Gillis / Saint-Gilles",
+      "checked": "31 Oct 2026",
+      "ids": [
+        233
+      ]
     },
     {
       "nis": "62051",
-      "name": "Herstal"
+      "name": "Herstal",
+      "checked": "31 Oct 2026",
+      "ids": []
     },
     {
       "nis": "25112",
-      "name": "Waver / Wavre"
+      "name": "Waver / Wavre",
+      "checked": "31 Oct 2026",
+      "ids": [
+        234
+      ]
     },
     {
       "nis": "52012",
-      "name": "Châtelet"
+      "name": "Châtelet",
+      "checked": "31 Oct 2026",
+      "ids": [
+        235
+      ]
     },
     {
       "nis": "41048",
-      "name": "Ninove"
+      "name": "Ninove",
+      "checked": "31 Oct 2026",
+      "ids": [
+        236
+      ]
     },
     {
       "nis": "34040",
-      "name": "Waregem"
+      "name": "Waregem",
+      "checked": "31 Oct 2026",
+      "ids": [
+        237
+      ]
     },
     {
       "nis": "13008",
-      "name": "Geel"
+      "name": "Geel",
+      "checked": "31 Oct 2026",
+      "ids": [
+        238
+      ]
     },
     {
       "nis": "23027",
-      "name": "Halle / Hal"
-    },
+      "name": "Halle / Hal",
+      "checked": "31 Oct 2026",
+      "ids": [
+        239
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "25014",
       "name": "Eigenbrakel / Braine-lAlleud"

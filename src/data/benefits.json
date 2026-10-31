@@ -28043,5 +28043,1288 @@
         ]
       }
     }
+  },
+  {
+    "id": 232,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "71004"
+    ],
+    "institution": "OCMW Beringen",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.beringen.be/stedelijke-mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Stedelijke mantelzorgpremie (Carer Premium, Beringen)",
+        "desc": "A monthly premium of €15, not taxed, for a resident who regularly cares for someone in Beringen with a high care need.",
+        "deadline": "No deadline: the premium starts the month after your application and runs as long as you meet the conditions.",
+        "amount": "€15 a month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The online or written application form"
+          },
+          {
+            "type": "doc",
+            "label": "A FOD Social Security certificate of at least 9 points, or the certificate of the care budget for people with a high care need"
+          }
+        ],
+        "steps": [
+          "Read the regulation on beringen.be",
+          "Apply online or with the written form",
+          "Tell any other carers about your application",
+          "Report any change in the care situation"
+        ]
+      },
+      "nl": {
+        "title": "Stedelijke mantelzorgpremie (Beringen)",
+        "desc": "Een maandelijkse premie van €15, niet belastbaar, voor een inwoner die regelmatig zorgt voor iemand in Beringen met een grote zorgnood.",
+        "deadline": "Geen termijn: de premie gaat in vanaf de maand na je aanvraag en loopt zolang je aan de voorwaarden voldoet.",
+        "amount": "€15 per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het online of schriftelijke aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van de FOD Sociale Zekerheid van minstens 9 punten, of het attest van het zorgbudget voor zwaar zorgbehoevenden"
+          }
+        ],
+        "steps": [
+          "Lees het reglement op beringen.be",
+          "Vraag online aan of met het schriftelijke formulier",
+          "Breng eventuele andere mantelzorgers op de hoogte",
+          "Meld elke wijziging in de zorgsituatie"
+        ]
+      },
+      "fr": {
+        "title": "Stedelijke mantelzorgpremie (prime aux aidants proches, Beringen)",
+        "desc": "Une prime mensuelle de 15 €, non imposable, pour un habitant qui aide régulièrement une personne de Beringen ayant un grand besoin de soins.",
+        "deadline": "Pas de délai : la prime court à partir du mois suivant la demande, tant que les conditions sont remplies.",
+        "amount": "15 € par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande en ligne ou papier"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du SPF Sécurité sociale d'au moins 9 points, ou l'attestation du budget de soins pour personnes fortement dépendantes"
+          }
+        ],
+        "steps": [
+          "Lisez le règlement sur beringen.be",
+          "Introduisez la demande en ligne ou avec le formulaire papier",
+          "Informez les éventuels autres aidants proches",
+          "Signalez tout changement dans la situation de soins"
+        ]
+      },
+      "de": {
+        "title": "Stedelijke mantelzorgpremie (Prämie für pflegende Angehörige, Beringen)",
+        "desc": "Eine monatliche, steuerfreie Prämie von 15 € für Einwohner, die regelmäßig eine pflegebedürftige Person in Beringen betreuen.",
+        "deadline": "Keine Frist: Die Prämie beginnt im Monat nach dem Antrag und läuft, solange die Bedingungen erfüllt sind.",
+        "amount": "15 € pro Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Online- oder Papierantragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des FÖD Soziale Sicherheit über mindestens 9 Punkte oder die Bescheinigung des Pflegebudgets für stark pflegebedürftige Personen"
+          }
+        ],
+        "steps": [
+          "Lesen Sie die Regelung auf beringen.be",
+          "Beantragen Sie online oder mit dem Papierformular",
+          "Informieren Sie eventuelle andere pflegende Angehörige",
+          "Melden Sie jede Änderung der Pflegesituation"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": [
+        "https://www.beringen.be/stedelijke-mantelzorgpremie",
+        "https://www.beringen.be/file/download/1bc4a768-1bf0-45a5-8e69-5b939b9ea8e9/KB1I9OoLmyf4B2FZsyAzP6eGCRn8WvD7j2b6TVXsY3d"
+      ],
+      "conditions": {
+        "en": [
+          "The carer lives in Beringen, is at least 18, helps regularly and not as a profession, and has a close personal relationship with the person cared for.",
+          "The person cared for lives in Beringen, is at least 18 and needs care because of their health or a disability.",
+          "The care need is shown by a FOD Social Security certificate of at least 9 points (category 2) or a certificate of the care budget for people with a high care need.",
+          "The person cared for does not live in a care home permanently or for more than 3 months.",
+          "One premium per carer and per person cared for; other carers must be told about the application."
+        ],
+        "nl": [
+          "De mantelzorger woont in Beringen, is minstens 18, helpt regelmatig en niet vanuit zijn beroep, en heeft een vertrouwensrelatie of nauwe affectieve relatie met de zorgvrager.",
+          "De zorgvrager woont in Beringen, is minstens 18 en heeft zorg nodig door zijn gezondheidssituatie of beperking.",
+          "De zorgnood blijkt uit een algemeen attest van de FOD Sociale Zekerheid van minstens 9 punten (categorie 2) of een attest van het zorgbudget voor zwaar zorgbehoevenden.",
+          "De zorgvrager verblijft niet permanent of langer dan 3 maanden in een zorginstelling.",
+          "Eén premie per mantelzorger en per zorgvrager; andere mantelzorgers worden op de hoogte gebracht van de aanvraag."
+        ],
+        "fr": [
+          "L'aidant habite à Beringen, a au moins 18 ans, aide régulièrement et pas à titre professionnel, et a une relation de confiance ou affective étroite avec la personne aidée.",
+          "La personne aidée habite à Beringen, a au moins 18 ans et a besoin de soins en raison de sa santé ou d'un handicap.",
+          "Le besoin de soins est prouvé par une attestation du SPF Sécurité sociale d'au moins 9 points (catégorie 2) ou une attestation du budget de soins pour personnes fortement dépendantes.",
+          "La personne aidée ne séjourne pas dans une institution de soins de façon permanente ou plus de 3 mois.",
+          "Une prime par aidant et par personne aidée ; les autres aidants doivent être informés de la demande."
+        ],
+        "de": [
+          "Die pflegende Person wohnt in Beringen, ist mindestens 18, hilft regelmäßig und nicht beruflich und hat eine enge persönliche Beziehung zur gepflegten Person.",
+          "Die gepflegte Person wohnt in Beringen, ist mindestens 18 und braucht Pflege wegen ihrer Gesundheit oder einer Behinderung.",
+          "Der Pflegebedarf wird durch eine Bescheinigung des FÖD Soziale Sicherheit über mindestens 9 Punkte (Kategorie 2) oder eine Bescheinigung des Pflegebudgets für stark pflegebedürftige Personen nachgewiesen.",
+          "Die gepflegte Person lebt nicht dauerhaft oder länger als 3 Monate in einer Pflegeeinrichtung.",
+          "Eine Prämie pro pflegender und pro gepflegter Person; andere pflegende Angehörige werden über den Antrag informiert."
+        ]
+      }
+    }
+  },
+  {
+    "id": 233,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21013"
+    ],
+    "institution": "Commune de Saint-Gilles",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://stgilles.brussels/procedures/prime-consultation-veterinaire/",
+    "request_url": "https://irisbox.irisnet.be/irisbox/formulaire/ac-saint-gilles/demande-de-prime-pour-des-consultations-de-soins-chez-le-veterinaire",
+    "content": {
+      "en": {
+        "title": "Prime consultation vétérinaire (Vet Visit Premium, Saint-Gilles)",
+        "desc": "Pet owners in Saint-Gilles on a low or middle income get back half the cost of a vet consultation, up to €150 a year.",
+        "deadline": "Within three months of the vet consultation.",
+        "amount": "50% of the consultation cost, up to €150 a year (at most three premiums)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The vet's fee note"
+          },
+          {
+            "type": "id",
+            "label": "A copy of your identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Your income tax assessment for the previous tax year"
+          },
+          {
+            "type": "doc",
+            "label": "The pet's microchip details, if it has one"
+          }
+        ],
+        "steps": [
+          "Take your pet to a vet with a practice in the Brussels-Capital Region",
+          "Apply online through IRISbox or with the paper form",
+          "Attach the documents within three months of the visit"
+        ]
+      },
+      "nl": {
+        "title": "Prime consultation vétérinaire (Premie voor dierenartsbezoek, Sint-Gillis)",
+        "desc": "Eigenaars van een huisdier in Sint-Gillis met een laag of middeninkomen krijgen de helft van de kosten van een dierenartsconsultatie terug, tot €150 per jaar.",
+        "deadline": "Binnen drie maanden na de consultatie bij de dierenarts.",
+        "amount": "50% van de kosten van de consultatie, tot €150 per jaar (maximaal drie premies)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De ereloonnota van de dierenarts"
+          },
+          {
+            "type": "id",
+            "label": "Een kopie van je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Je aanslagbiljet personenbelasting van het vorige aanslagjaar"
+          },
+          {
+            "type": "doc",
+            "label": "De gegevens van de chip van het dier, indien van toepassing"
+          }
+        ],
+        "steps": [
+          "Ga met je huisdier naar een dierenarts met een praktijk in het Brussels Hoofdstedelijk Gewest",
+          "Vraag aan via IRISbox of met het papieren formulier",
+          "Voeg de documenten toe binnen drie maanden na het bezoek"
+        ]
+      },
+      "fr": {
+        "title": "Prime consultation vétérinaire (Saint-Gilles)",
+        "desc": "Les propriétaires d'un animal de compagnie à Saint-Gilles aux revenus faibles ou moyens récupèrent la moitié du coût d'une consultation vétérinaire, jusqu'à 150 € par an.",
+        "deadline": "Dans les trois mois de la consultation chez le vétérinaire.",
+        "amount": "50 % du coût de la consultation, jusqu'à 150 € par an (trois primes au maximum)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La note d'honoraires du vétérinaire"
+          },
+          {
+            "type": "id",
+            "label": "Une copie de votre carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Votre avertissement-extrait de rôle de l'exercice d'imposition précédent"
+          },
+          {
+            "type": "doc",
+            "label": "Les informations de la puce de l'animal, le cas échéant"
+          }
+        ],
+        "steps": [
+          "Consultez un vétérinaire ayant son cabinet en Région de Bruxelles-Capitale",
+          "Introduisez la demande en ligne via IRISbox ou avec le formulaire papier",
+          "Joignez les documents dans les trois mois de la consultation"
+        ]
+      },
+      "de": {
+        "title": "Prime consultation vétérinaire (Prämie für Tierarztbesuche, Saint-Gilles)",
+        "desc": "Haustierbesitzer in Saint-Gilles mit niedrigem oder mittlerem Einkommen erhalten die Hälfte der Kosten eines Tierarztbesuchs zurück, bis zu 150 € pro Jahr.",
+        "deadline": "Innerhalb von drei Monaten nach dem Tierarztbesuch.",
+        "amount": "50 % der Kosten des Besuchs, bis zu 150 € pro Jahr (höchstens drei Prämien)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die Honorarnote des Tierarztes"
+          },
+          {
+            "type": "id",
+            "label": "Eine Kopie Ihres Personalausweises"
+          },
+          {
+            "type": "doc",
+            "label": "Ihr Steuerbescheid der Einkommensteuer des vorigen Steuerjahres"
+          },
+          {
+            "type": "doc",
+            "label": "Die Chipdaten des Tieres, falls vorhanden"
+          }
+        ],
+        "steps": [
+          "Gehen Sie mit Ihrem Haustier zu einem Tierarzt mit Praxis in der Region Brüssel-Hauptstadt",
+          "Beantragen Sie online über IRISbox oder mit dem Papierformular",
+          "Reichen Sie die Unterlagen innerhalb von drei Monaten nach dem Besuch ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": [
+        "https://stgilles.brussels/procedures/prime-consultation-veterinaire/",
+        "https://stgillis.brussels/wp-content/uploads//2022/08/FR-Reglement-Prime-Consultation-Animal-domestique-version-def_compressed....pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You own a pet and are domiciled in Saint-Gilles.",
+          "Your taxable income is below €37,600 gross a year if you live alone, or €52,600 if you live with someone or as a couple.",
+          "The consultation is with a vet who has a practice in the Brussels-Capital Region; cat sterilisation is not covered by this premium.",
+          "At most three premiums a year per owner, together no more than €150.",
+          "Apply within three months of the consultation."
+        ],
+        "nl": [
+          "Je bent eigenaar van een huisdier en gedomicilieerd in Sint-Gillis.",
+          "Je belastbaar inkomen is lager dan €37.600 bruto per jaar als alleenstaande, of €52.600 als samenwonende of koppel.",
+          "De consultatie is bij een dierenarts met een praktijk in het Brussels Hoofdstedelijk Gewest; sterilisatie van katten valt niet onder deze premie.",
+          "Maximaal drie premies per jaar per eigenaar, samen niet meer dan €150.",
+          "Vraag aan binnen drie maanden na de consultatie."
+        ],
+        "fr": [
+          "Vous êtes propriétaire d'un animal de compagnie et domicilié à Saint-Gilles.",
+          "Votre revenu imposable est inférieur à 37.600 € brut par an pour une personne isolée, ou à 52.600 € pour une personne cohabitante ou en couple.",
+          "La consultation a lieu chez un vétérinaire ayant son cabinet en Région de Bruxelles-Capitale ; la stérilisation des chats n'est pas couverte par cette prime.",
+          "Trois primes maximum par an et par propriétaire, pour un total de 150 € au plus.",
+          "La demande est introduite dans les trois mois de la consultation."
+        ],
+        "de": [
+          "Sie besitzen ein Haustier und haben Ihren Wohnsitz in Saint-Gilles.",
+          "Ihr steuerpflichtiges Einkommen liegt unter 37.600 € brutto pro Jahr für Alleinstehende oder 52.600 € für Zusammenwohnende oder Paare.",
+          "Der Besuch erfolgt bei einem Tierarzt mit Praxis in der Region Brüssel-Hauptstadt; die Sterilisation von Katzen fällt nicht unter diese Prämie.",
+          "Höchstens drei Prämien pro Jahr und Besitzer, zusammen höchstens 150 €.",
+          "Beantragen Sie innerhalb von drei Monaten nach dem Besuch."
+        ]
+      }
+    }
+  },
+  {
+    "id": 234,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25112"
+    ],
+    "institution": "Ville de Wavre",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.wavre.be/prime-couches-lavables",
+    "content": {
+      "en": {
+        "title": "Prime couches lavables (Washable Nappies Premium, Wavre)",
+        "desc": "Wavre refunds half of what parents spend on washable nappies, up to €125, plus €25 for parents who attended a workshop on using them.",
+        "deadline": "Purchases count until the child turns 3.",
+        "amount": "50% of the invoices, up to €125, plus €25 after a workshop",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The purchase invoice(s)"
+          },
+          {
+            "type": "doc",
+            "label": "An extract of the child's birth certificate or a recent household composition certificate"
+          },
+          {
+            "type": "doc",
+            "label": "The workshop attendance certificate, for the extra €25"
+          }
+        ],
+        "steps": [
+          "Download the application form from wavre.be",
+          "Send it with the invoices to the Ville de Wavre's Finance Department by post or email",
+          "For the extra €25, send the second form with the workshop certificate"
+        ]
+      },
+      "nl": {
+        "title": "Prime couches lavables (Premie herbruikbare luiers, Waver)",
+        "desc": "Waver betaalt ouders de helft terug van wat ze uitgeven aan herbruikbare luiers, tot €125, plus €25 voor ouders die een workshop over het gebruik volgden.",
+        "deadline": "Aankopen tellen mee tot het kind 3 jaar wordt.",
+        "amount": "50% van de facturen, tot €125, plus €25 na een workshop",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De aankoopfactuur of -facturen"
+          },
+          {
+            "type": "doc",
+            "label": "Een uittreksel uit de geboorteakte van het kind of een recente gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "Het attest van deelname aan de workshop, voor de extra €25"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op wavre.be",
+          "Stuur het met de facturen per post of e-mail naar de financiële dienst van de stad Waver",
+          "Stuur voor de extra €25 het tweede formulier met het workshopattest"
+        ]
+      },
+      "fr": {
+        "title": "Prime couches lavables (Wavre)",
+        "desc": "Wavre rembourse la moitié des dépenses des parents en couches lavables, jusqu'à 125 €, plus 25 € pour les parents qui ont suivi un atelier sur leur utilisation.",
+        "deadline": "Les achats sont pris en compte jusqu'aux 3 ans de l'enfant.",
+        "amount": "50 % des factures, jusqu'à 125 €, plus 25 € après un atelier",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La ou les factures d'achat"
+          },
+          {
+            "type": "doc",
+            "label": "Un extrait d'acte de naissance de l'enfant ou une composition de ménage récente"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation de participation à l'atelier, pour les 25 € supplémentaires"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande sur wavre.be",
+          "Envoyez-le avec les factures au Service des Finances de la Ville de Wavre, par courrier ou par e-mail",
+          "Pour les 25 € supplémentaires, envoyez le second formulaire avec l'attestation d'atelier"
+        ]
+      },
+      "de": {
+        "title": "Prime couches lavables (Prämie für Stoffwindeln, Wavre)",
+        "desc": "Wavre erstattet Eltern die Hälfte ihrer Ausgaben für Stoffwindeln, bis zu 125 €, plus 25 € für Eltern, die einen Workshop zur Anwendung besucht haben.",
+        "deadline": "Käufe zählen bis zum 3. Geburtstag des Kindes.",
+        "amount": "50 % der Rechnungen, bis zu 125 €, plus 25 € nach einem Workshop",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die Kaufrechnung(en)"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Auszug aus der Geburtsurkunde des Kindes oder eine aktuelle Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Die Teilnahmebescheinigung des Workshops, für die zusätzlichen 25 €"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf wavre.be herunter",
+          "Senden Sie es mit den Rechnungen per Post oder E-Mail an den Finanzdienst der Stadt Wavre",
+          "Für die zusätzlichen 25 € senden Sie das zweite Formular mit der Workshop-Bescheinigung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": [
+        "https://www.wavre.be/prime-couches-lavables",
+        "https://www.wavre.be/sites/wavre/files/2021-07/Formulaire%20prime%20langes%20VDEF.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "For parents who buy washable nappies for their child.",
+          "Purchases made until the child turns 3 count; several invoices can be added up to the €125 cap.",
+          "The extra €25 is for parents who attended a workshop on using washable nappies, with proof of attendance.",
+          "The claim includes the invoices and an extract of the child's birth certificate or a recent household composition certificate."
+        ],
+        "nl": [
+          "Voor ouders die herbruikbare luiers kopen voor hun kind.",
+          "Aankopen tot het kind 3 jaar wordt tellen mee; meerdere facturen kunnen worden samengeteld tot het plafond van €125.",
+          "De extra €25 is voor ouders die een workshop over herbruikbare luiers volgden, met bewijs van deelname.",
+          "De aanvraag bevat de facturen en een uittreksel uit de geboorteakte van het kind of een recente gezinssamenstelling."
+        ],
+        "fr": [
+          "Pour les parents qui achètent des couches lavables pour leur enfant.",
+          "Les achats jusqu'aux 3 ans de l'enfant sont pris en compte ; plusieurs factures peuvent être cumulées jusqu'au plafond de 125 €.",
+          "Les 25 € supplémentaires sont pour les parents ayant suivi un atelier sur l'utilisation des couches lavables, avec attestation de présence.",
+          "La demande comprend les factures et un extrait d'acte de naissance de l'enfant ou une composition de ménage récente."
+        ],
+        "de": [
+          "Für Eltern, die Stoffwindeln für ihr Kind kaufen.",
+          "Käufe bis zum 3. Geburtstag des Kindes zählen; mehrere Rechnungen können bis zur Obergrenze von 125 € zusammengerechnet werden.",
+          "Die zusätzlichen 25 € gibt es für Eltern, die einen Workshop zur Anwendung von Stoffwindeln besucht haben, mit Teilnahmenachweis.",
+          "Der Antrag enthält die Rechnungen und einen Auszug aus der Geburtsurkunde des Kindes oder eine aktuelle Haushaltszusammensetzung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 235,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "52012"
+    ],
+    "institution": "Ville de Châtelet",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.chatelet.be/actualites/prime-a-lembellissement-des-facades-prolongation?u=029a93fa3adb4d9fbd0573ec7b821b72",
+    "content": {
+      "en": {
+        "title": "Prime à l'embellissement des façades (Façade Renovation Premium, Châtelet)",
+        "desc": "Owners of a home in Châtelet built before 2000 get €10 per m² for renovating the façade visible from the street, up to 100 m² per home.",
+        "deadline": "Apply before the work starts; the premium runs from 1 January to 31 December 2026.",
+        "amount": "€10 per m² of façade treated, up to 100 m² per home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form from the city's Housing Department"
+          },
+          {
+            "type": "doc",
+            "label": "Photos of the façade"
+          },
+          {
+            "type": "doc",
+            "label": "The contractor's quotes"
+          },
+          {
+            "type": "doc",
+            "label": "The planning permit, if the work needs one"
+          }
+        ],
+        "steps": [
+          "Ask the Housing Department (service Logement) for the form",
+          "Submit it with the documents before the work starts",
+          "Carry out the work"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'embellissement des façades (Premie gevelverfraaiing, Châtelet)",
+        "desc": "Eigenaars van een woning in Châtelet die vóór 2000 gebouwd is, krijgen €10 per m² voor de renovatie van de gevel die zichtbaar is vanaf de straat, tot 100 m² per woning.",
+        "deadline": "Vraag aan vóór de werken beginnen; de premie loopt van 1 januari tot 31 december 2026.",
+        "amount": "€10 per m² behandelde gevel, tot 100 m² per woning",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de huisvestingsdienst van de stad"
+          },
+          {
+            "type": "doc",
+            "label": "Foto's van de gevel"
+          },
+          {
+            "type": "doc",
+            "label": "De offertes van de aannemer"
+          },
+          {
+            "type": "doc",
+            "label": "De stedenbouwkundige vergunning, als de werken er een vragen"
+          }
+        ],
+        "steps": [
+          "Vraag het formulier aan bij de huisvestingsdienst (service Logement)",
+          "Dien het met de documenten in vóór de werken beginnen",
+          "Voer de werken uit"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'embellissement des façades (Châtelet)",
+        "desc": "Les propriétaires d'un logement à Châtelet construit avant 2000 reçoivent 10 € par m² pour rénover la façade visible depuis la voirie, jusqu'à 100 m² par logement.",
+        "deadline": "À demander avant le début des travaux ; la prime court du 1er janvier au 31 décembre 2026.",
+        "amount": "10 € par m² de façade traitée, maximum 100 m² par logement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande du service Logement de la Ville"
+          },
+          {
+            "type": "doc",
+            "label": "Des photos de la façade"
+          },
+          {
+            "type": "doc",
+            "label": "Les devis de l'entrepreneur"
+          },
+          {
+            "type": "doc",
+            "label": "Le permis d'urbanisme, si les travaux en demandent un"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire au service Logement",
+          "Introduisez-le avec les documents avant le début des travaux",
+          "Réalisez les travaux"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'embellissement des façades (Prämie für Fassadenverschönerung, Châtelet)",
+        "desc": "Eigentümer einer vor 2000 gebauten Wohnung in Châtelet erhalten 10 € pro m² für die Renovierung der von der Straße sichtbaren Fassade, bis zu 100 m² pro Wohnung.",
+        "deadline": "Vor Beginn der Arbeiten beantragen; die Prämie gilt vom 1. Januar bis 31. Dezember 2026.",
+        "amount": "10 € pro m² behandelter Fassade, höchstens 100 m² pro Wohnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular des Wohnungsdienstes der Stadt"
+          },
+          {
+            "type": "doc",
+            "label": "Fotos der Fassade"
+          },
+          {
+            "type": "doc",
+            "label": "Die Kostenvoranschläge des Unternehmers"
+          },
+          {
+            "type": "doc",
+            "label": "Die Baugenehmigung, falls die Arbeiten eine erfordern"
+          }
+        ],
+        "steps": [
+          "Fordern Sie das Formular beim Wohnungsdienst (service Logement) an",
+          "Reichen Sie es mit den Unterlagen vor Beginn der Arbeiten ein",
+          "Führen Sie die Arbeiten aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": [
+        "https://www.chatelet.be/actualites/prime-a-lembellissement-des-facades-prolongation?u=029a93fa3adb4d9fbd0573ec7b821b72"
+      ],
+      "conditions": {
+        "en": [
+          "You hold a real right (owner, co-owner…) on a residential building in Châtelet; companies and other legal persons can also apply.",
+          "The building was built before 2000 and the façade is visible from the street.",
+          "Covered work: sandblasting, repointing or resurfacing, render, cladding or facing brick, and replacing or repairing window frames and doors.",
+          "Apply before the work starts, during 2026; the premium can be combined with Walloon aid but not exceed the total cost."
+        ],
+        "nl": [
+          "Je hebt een zakelijk recht (eigenaar, mede-eigenaar…) op een woongebouw in Châtelet; ook rechtspersonen kunnen aanvragen.",
+          "Het gebouw is gebouwd vóór 2000 en de gevel is zichtbaar vanaf de straat.",
+          "Gedekte werken: zandstralen, voegen of opknappen van de gevel, pleisterwerk, gevelbekleding of gevelsteen, en vervangen of herstellen van ramen en deuren.",
+          "Vraag aan vóór de werken beginnen, in 2026; de premie is cumuleerbaar met Waalse steun maar mag de totale kosten niet overschrijden."
+        ],
+        "fr": [
+          "Vous disposez d'un droit réel (propriétaire, copropriétaire…) sur un immeuble d'habitation situé à Châtelet ; les personnes morales peuvent aussi introduire une demande.",
+          "L'immeuble a été construit avant l'an 2000 et la façade est visible depuis la voirie.",
+          "Travaux couverts : sablage, rejointoyage ou ravalement, pose d'un enduit, d'un bardage ou d'une brique de parement, remplacement ou remise en état des châssis et portes.",
+          "La demande est introduite avant le début des travaux, en 2026 ; la prime est cumulable avec les aides wallonnes sans dépasser le coût total des travaux."
+        ],
+        "de": [
+          "Sie haben ein dingliches Recht (Eigentümer, Miteigentümer…) an einem Wohngebäude in Châtelet; auch juristische Personen können beantragen.",
+          "Das Gebäude wurde vor 2000 gebaut und die Fassade ist von der Straße aus sichtbar.",
+          "Abgedeckte Arbeiten: Sandstrahlen, Neuverfugen oder Erneuern der Fassade, Putz, Verkleidung oder Verblendsteine sowie Ersetzen oder Instandsetzen von Fenstern und Türen.",
+          "Beantragen Sie vor Beginn der Arbeiten, im Jahr 2026; die Prämie ist mit wallonischen Hilfen kombinierbar, darf aber die Gesamtkosten nicht übersteigen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 236,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "41048"
+    ],
+    "institution": "Stad Ninove",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.ninove.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Ninove)",
+        "desc": "A yearly premium of €25 to €80 a month, paid in December, for a Ninove resident who cares for someone receiving the Flemish care budget for people with a high care need.",
+        "deadline": "Renew every year before 30 November.",
+        "amount": "€25 a month (one person), €40 (two), €50 (one with at least 17 points), €80 (two, one with at least 17 points)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed and signed application form"
+          },
+          {
+            "type": "doc",
+            "label": "The Zorgkas decision granting the care budget"
+          },
+          {
+            "type": "id",
+            "label": "Copies of the identity cards of the carer and the person cared for"
+          },
+          {
+            "type": "doc",
+            "label": "Certificates of residence of both (the team can request them with your consent)"
+          },
+          {
+            "type": "card",
+            "label": "A copy of the carer's bank card"
+          },
+          {
+            "type": "doc",
+            "label": "For at least 17 points: the FOD Social Security certificate stating the points"
+          }
+        ],
+        "steps": [
+          "Read the regulation on ninove.be",
+          "Make the first application in person, with an intake interview at the Seniors team (Sociaal Huis)",
+          "Renew each year by email to mantelzorg@ninove.be or at the Sociaal Huis before 30 November",
+          "The premium is paid in December"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Ninove)",
+        "desc": "Een jaarlijkse premie van €25 tot €80 per maand, uitbetaald in december, voor een inwoner van Ninove die zorgt voor iemand met het zorgbudget voor zwaar zorgbehoevenden.",
+        "deadline": "Vernieuw elk jaar vóór 30 november.",
+        "amount": "€25 per maand (één zorgbehoevende), €40 (twee), €50 (één met minstens 17 punten), €80 (twee, waarvan één met minstens 17 punten)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het volledig ingevulde en ondertekende aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De positieve beslissing van de Zorgkas"
+          },
+          {
+            "type": "id",
+            "label": "Kopieën van de identiteitskaarten van mantelzorger en zorgbehoevende"
+          },
+          {
+            "type": "doc",
+            "label": "Attesten van woonst van beiden (team Senioren kan ze opvragen met je toestemming)"
+          },
+          {
+            "type": "card",
+            "label": "Een kopie van de bankkaart van de mantelzorger"
+          },
+          {
+            "type": "doc",
+            "label": "Bij minstens 17 punten: het attest van de FOD Sociale Zekerheid met de punten"
+          }
+        ],
+        "steps": [
+          "Lees het reglement op ninove.be",
+          "Dien de eerste aanvraag persoonlijk in, met een intakegesprek bij team Senioren (Sociaal Huis)",
+          "Vernieuw elk jaar vóór 30 november via mantelzorg@ninove.be of in het Sociaal Huis",
+          "De premie wordt in december uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Ninove)",
+        "desc": "Une prime annuelle de 25 € à 80 € par mois, versée en décembre, pour un habitant de Ninove qui aide une personne bénéficiant du budget de soins flamand pour personnes fortement dépendantes.",
+        "deadline": "À renouveler chaque année avant le 30 novembre.",
+        "amount": "25 € par mois (une personne), 40 € (deux), 50 € (une avec au moins 17 points), 80 € (deux, dont une avec au moins 17 points)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété et signé"
+          },
+          {
+            "type": "doc",
+            "label": "La décision positive de la Zorgkas"
+          },
+          {
+            "type": "id",
+            "label": "Des copies des cartes d'identité de l'aidant et de la personne aidée"
+          },
+          {
+            "type": "doc",
+            "label": "Les certificats de résidence des deux (l'équipe peut les demander avec votre accord)"
+          },
+          {
+            "type": "card",
+            "label": "Une copie de la carte bancaire de l'aidant"
+          },
+          {
+            "type": "doc",
+            "label": "Pour au moins 17 points : l'attestation du SPF Sécurité sociale mentionnant les points"
+          }
+        ],
+        "steps": [
+          "Lisez le règlement sur ninove.be",
+          "Introduisez la première demande en personne, avec un entretien d'accueil auprès de l'équipe Seniors (Sociaal Huis)",
+          "Renouvelez chaque année avant le 30 novembre par e-mail à mantelzorg@ninove.be ou au Sociaal Huis",
+          "La prime est versée en décembre"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Ninove)",
+        "desc": "Eine jährliche Prämie von 25 € bis 80 € pro Monat, ausgezahlt im Dezember, für Einwohner von Ninove, die eine Person mit dem flämischen Pflegebudget für stark Pflegebedürftige betreuen.",
+        "deadline": "Jedes Jahr vor dem 30. November erneuern.",
+        "amount": "25 € pro Monat (eine Person), 40 € (zwei), 50 € (eine mit mindestens 17 Punkten), 80 € (zwei, davon eine mit mindestens 17 Punkten)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte und unterschriebene Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die positive Entscheidung der Zorgkas"
+          },
+          {
+            "type": "id",
+            "label": "Kopien der Personalausweise der pflegenden und der gepflegten Person"
+          },
+          {
+            "type": "doc",
+            "label": "Wohnsitzbescheinigungen beider (das Team kann sie mit Ihrer Zustimmung anfordern)"
+          },
+          {
+            "type": "card",
+            "label": "Eine Kopie der Bankkarte der pflegenden Person"
+          },
+          {
+            "type": "doc",
+            "label": "Bei mindestens 17 Punkten: die Bescheinigung des FÖD Soziale Sicherheit mit den Punkten"
+          }
+        ],
+        "steps": [
+          "Lesen Sie die Regelung auf ninove.be",
+          "Stellen Sie den ersten Antrag persönlich, mit einem Aufnahmegespräch beim Seniorenteam (Sociaal Huis)",
+          "Erneuern Sie jedes Jahr vor dem 30. November per E-Mail an mantelzorg@ninove.be oder im Sociaal Huis",
+          "Die Prämie wird im Dezember ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": [
+        "https://www.ninove.be/mantelzorgpremie",
+        "https://www.ninove.be/file/download/6bceb0ab-9a12-4c32-8126-4d247b35a003/8ZRih04G4HsQFOc7wnjDETFFyQFdHEC0wumk6eNA3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for has been domiciled and living in Ninove for at least 6 months when you apply, lives at home and not permanently in a residential facility.",
+          "The person cared for receives the Flemish care budget for people with a high care need (zorgbudget voor zwaar zorgbehoevenden) every month.",
+          "The carer is an adult, helps with daily activities, does not need care themselves, and is domiciled and living in Ninove.",
+          "One premium per carer, whatever the number of people cared for; the person cared for names one carer.",
+          "The right starts the month after the application, once the Zorgkas decision is available, and ends when the care budget ends; changes must be reported within one month."
+        ],
+        "nl": [
+          "De zorgbehoevende is bij de aanvraag minstens 6 maanden gedomicilieerd en woonachtig in Ninove, verblijft thuis en niet permanent in een residentiële voorziening.",
+          "De zorgbehoevende ontvangt maandelijks het zorgbudget voor zwaar zorgbehoevenden bij mantel- en thuiszorg.",
+          "De mantelzorger is meerderjarig, helpt bij activiteiten van het dagelijks leven, is zelf niet zorgbehoevend en is gedomicilieerd en woonachtig in Ninove.",
+          "Eén premie per mantelzorger, ongeacht het aantal zorgbehoevenden; de zorgbehoevende duidt één mantelzorger aan.",
+          "Het recht start de maand na de aanvraag, als de beslissing van de Zorgkas er is, en eindigt met het zorgbudget; wijzigingen meld je binnen één maand."
+        ],
+        "fr": [
+          "La personne aidée est domiciliée et habite à Ninove depuis au moins 6 mois au moment de la demande, vit à domicile et pas de façon permanente en institution résidentielle.",
+          "La personne aidée reçoit chaque mois le budget de soins flamand pour personnes fortement dépendantes (zorgbudget voor zwaar zorgbehoevenden).",
+          "L'aidant est majeur, aide aux activités de la vie quotidienne, n'a pas lui-même besoin de soins, et est domicilié et habite à Ninove.",
+          "Une prime par aidant, quel que soit le nombre de personnes aidées ; la personne aidée désigne un seul aidant.",
+          "Le droit commence le mois suivant la demande, si la décision de la Zorgkas est disponible, et prend fin avec le budget de soins ; les changements sont à signaler dans un mois."
+        ],
+        "de": [
+          "Die gepflegte Person hat bei Antragstellung seit mindestens 6 Monaten ihren Wohnsitz in Ninove und wohnt dort, zu Hause und nicht dauerhaft in einer Pflegeeinrichtung.",
+          "Die gepflegte Person erhält monatlich das flämische Pflegebudget für stark Pflegebedürftige (zorgbudget voor zwaar zorgbehoevenden).",
+          "Die pflegende Person ist volljährig, hilft bei den Aktivitäten des täglichen Lebens, ist selbst nicht pflegebedürftig und hat ihren Wohnsitz in Ninove und wohnt dort.",
+          "Eine Prämie pro pflegender Person, unabhängig von der Zahl der Gepflegten; die gepflegte Person benennt eine pflegende Person.",
+          "Der Anspruch beginnt im Monat nach dem Antrag, sobald die Entscheidung der Zorgkas vorliegt, und endet mit dem Pflegebudget; Änderungen sind innerhalb eines Monats zu melden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 237,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "34040"
+    ],
+    "institution": "OCMW Waregem",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.waregem.be/zorgtoelage",
+    "request_url": "https://www.waregem.be/welzijnshuis/formulieren/aanvraag-zorgtoelage",
+    "content": {
+      "en": {
+        "title": "Stedelijke zorgtoelage (Care Allowance, Waregem)",
+        "desc": "A yearly €250 for Waregem residents who live at home, need a lot of care and are entitled to increased reimbursement (or, for children, the Groeipakket social supplement).",
+        "deadline": "Apply by 30 November of the year; apply again every year.",
+        "amount": "€250 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form (online or on paper)"
+          }
+        ],
+        "steps": [
+          "Check the conditions on waregem.be",
+          "Apply online or hand in the paper form at the Welzijnshuis by 30 November",
+          "The allowance is paid by 31 January of the following year"
+        ]
+      },
+      "nl": {
+        "title": "Stedelijke zorgtoelage (Waregem)",
+        "desc": "Jaarlijks €250 voor inwoners van Waregem die thuis wonen, zorgbehoevend zijn en recht hebben op verhoogde tegemoetkoming (of, voor kinderen, de sociale toeslag van het Groeipakket).",
+        "deadline": "Vraag aan uiterlijk op 30 november van het jaar; vraag elk jaar opnieuw aan.",
+        "amount": "€250 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier (online of op papier)"
+          }
+        ],
+        "steps": [
+          "Bekijk de voorwaarden op waregem.be",
+          "Vraag online aan of bezorg het papieren formulier aan het Welzijnshuis uiterlijk op 30 november",
+          "De toelage wordt uiterlijk op 31 januari van het volgende jaar gestort"
+        ]
+      },
+      "fr": {
+        "title": "Stedelijke zorgtoelage (allocation de soins, Waregem)",
+        "desc": "250 € par an pour les habitants de Waregem qui vivent à domicile, ont un grand besoin de soins et bénéficient de l'intervention majorée (ou, pour les enfants, du supplément social du Groeipakket).",
+        "deadline": "À demander au plus tard le 30 novembre de l'année ; à redemander chaque année.",
+        "amount": "250 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété (en ligne ou papier)"
+          }
+        ],
+        "steps": [
+          "Vérifiez les conditions sur waregem.be",
+          "Demandez en ligne ou remettez le formulaire papier au Welzijnshuis au plus tard le 30 novembre",
+          "L'allocation est versée au plus tard le 31 janvier de l'année suivante"
+        ]
+      },
+      "de": {
+        "title": "Stedelijke zorgtoelage (Pflegezulage, Waregem)",
+        "desc": "Jährlich 250 € für Einwohner von Waregem, die zu Hause wohnen, stark pflegebedürftig sind und Anspruch auf erhöhte Kostenerstattung haben (oder, bei Kindern, auf den Sozialzuschlag des Groeipakket).",
+        "deadline": "Bis spätestens 30. November des Jahres beantragen; jedes Jahr neu beantragen.",
+        "amount": "250 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular (online oder auf Papier)"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie die Bedingungen auf waregem.be",
+          "Beantragen Sie online oder geben Sie das Papierformular bis spätestens 30. November im Welzijnshuis ab",
+          "Die Zulage wird bis spätestens 31. Januar des Folgejahres überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": [
+        "https://www.waregem.be/zorgtoelage"
+      ],
+      "conditions": {
+        "en": [
+          "You have been domiciled in Waregem for at least 3 months before applying.",
+          "You live at home, not in a residential facility.",
+          "You need care: at least 9 points on the FOD Social Security medical-social scale or at least care category 2 of the care budget for older people (adults), or 4 points in pillar 1 of the Groeipakket care supplement (children).",
+          "You are entitled to increased reimbursement (adults) or the Groeipakket social supplement (children).",
+          "One allowance a year, to be requested every year; for children with a disability the OCMW gets the data from the Groeipakket and no application is needed."
+        ],
+        "nl": [
+          "Je bent minstens 3 maanden voor je aanvraag in Waregem gedomicilieerd.",
+          "Je verblijft thuis en niet in een residentiële voorziening.",
+          "Je bent zorgbehoevend: minstens 9 punten op de medisch-sociale schaal van de FOD Sociale Zekerheid of minstens zorgcategorie 2 voor het zorgbudget voor ouderen met een zorgnood (volwassenen), of 4 punten in pijler 1 voor de zorgtoeslag van het Groeipakket (kinderen).",
+          "Je hebt recht op verhoogde tegemoetkoming (volwassenen) of op de sociale toeslag van het Groeipakket (kinderen).",
+          "Eén toelage per jaar, elk jaar opnieuw aan te vragen; voor kinderen met een handicap krijgt het OCMW de gegevens van het Groeipakket en is geen aanvraag nodig."
+        ],
+        "fr": [
+          "Vous êtes domicilié à Waregem depuis au moins 3 mois avant la demande.",
+          "Vous vivez à domicile, pas dans une institution résidentielle.",
+          "Vous avez besoin de soins : au moins 9 points sur l'échelle médico-sociale du SPF Sécurité sociale ou au moins la catégorie 2 du budget de soins pour personnes âgées (adultes), ou 4 points dans le pilier 1 du supplément de soins du Groeipakket (enfants).",
+          "Vous bénéficiez de l'intervention majorée (adultes) ou du supplément social du Groeipakket (enfants).",
+          "Une allocation par an, à redemander chaque année ; pour les enfants handicapés, l'OCMW reçoit les données du Groeipakket et aucune demande n'est nécessaire."
+        ],
+        "de": [
+          "Sie haben seit mindestens 3 Monaten vor dem Antrag Ihren Wohnsitz in Waregem.",
+          "Sie wohnen zu Hause, nicht in einer Pflegeeinrichtung.",
+          "Sie sind pflegebedürftig: mindestens 9 Punkte auf der medizinisch-sozialen Skala des FÖD Soziale Sicherheit oder mindestens Pflegekategorie 2 des Pflegebudgets für ältere Menschen (Erwachsene), oder 4 Punkte in Säule 1 des Pflegezuschlags des Groeipakket (Kinder).",
+          "Sie haben Anspruch auf erhöhte Kostenerstattung (Erwachsene) oder auf den Sozialzuschlag des Groeipakket (Kinder).",
+          "Eine Zulage pro Jahr, jedes Jahr neu zu beantragen; bei Kindern mit Behinderung erhält das OCMW die Daten vom Groeipakket und es ist kein Antrag nötig."
+        ]
+      }
+    }
+  },
+  {
+    "id": 238,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13008"
+    ],
+    "institution": "Stad Geel",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.geel.be/mantelzorgpremie",
+    "request_url": "https://eloket.geel.be/nl/geel-eloket/eloket/1/4/0?sc=eFFJrMp9Ox5Dz2H7Kdg5bVeMP5HyilyKU94oCPmS6HM3d",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Geel)",
+        "desc": "A yearly premium of €180 for someone who gives long-term, unpaid care to a person in Geel with a high care need or a recognised disability.",
+        "deadline": "Can be requested once a year.",
+        "amount": "€180 a year",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "The identity cards of the carer and the person cared for"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate of the care need of the person cared for"
+          },
+          {
+            "type": "doc",
+            "label": "The application form, signed by both the carer and the person cared for"
+          }
+        ],
+        "steps": [
+          "Read the regulation on geel.be",
+          "Apply through the e-loket, or at the Sociaal Huis by appointment",
+          "The Special Committee for Social Services decides and you are informed by letter",
+          "The premium is transferred to your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Geel)",
+        "desc": "Een jaarlijkse premie van €180 voor wie langdurig en onbetaald zorgt voor een zorgbehoevende of persoon met een erkende handicap in Geel.",
+        "deadline": "Kan één keer per jaar aangevraagd worden.",
+        "amount": "€180 per jaar",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "De identiteitskaarten van mantelzorger en zorgbehoevende"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest over de zorgbehoefte van de zorgbehoevende"
+          },
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ondertekend door zowel de mantelzorger als de zorgbehoevende"
+          }
+        ],
+        "steps": [
+          "Lees het reglement op geel.be",
+          "Vraag aan via het e-loket of in het Sociaal Huis (op afspraak)",
+          "Het Bijzonder Comité voor de Sociale Dienst beslist en je krijgt een brief",
+          "De premie wordt op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Geel)",
+        "desc": "Une prime annuelle de 180 € pour la personne qui aide de façon durable et non rémunérée une personne de Geel ayant un grand besoin de soins ou un handicap reconnu.",
+        "deadline": "Peut être demandée une fois par an.",
+        "amount": "180 € par an",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Les cartes d'identité de l'aidant et de la personne aidée"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du besoin de soins de la personne aidée"
+          },
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, signé par l'aidant et par la personne aidée"
+          }
+        ],
+        "steps": [
+          "Lisez le règlement sur geel.be",
+          "Demandez via l'e-loket ou au Sociaal Huis (sur rendez-vous)",
+          "Le Comité spécial du service social décide et vous êtes informé par courrier",
+          "La prime est versée sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Geel)",
+        "desc": "Eine jährliche Prämie von 180 € für Personen, die langfristig und unbezahlt eine stark pflegebedürftige oder anerkannt behinderte Person in Geel betreuen.",
+        "deadline": "Kann einmal pro Jahr beantragt werden.",
+        "amount": "180 € pro Jahr",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Die Personalausweise der pflegenden und der gepflegten Person"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung über den Pflegebedarf der gepflegten Person"
+          },
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, unterschrieben von der pflegenden und der gepflegten Person"
+          }
+        ],
+        "steps": [
+          "Lesen Sie die Regelung auf geel.be",
+          "Beantragen Sie über den E-Schalter oder im Sociaal Huis (nach Termin)",
+          "Der Sonderausschuss für den Sozialdienst entscheidet, Sie werden per Brief informiert",
+          "Die Prämie wird auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": [
+        "https://www.geel.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for lives in Geel and has been domiciled there for at least 1 year.",
+          "The person cared for does not live in a residential institution.",
+          "The person cared for receives the Flemish care budget for people with a high care need, or has a recognised disability of at least 12 points at the FOD Social Security (children: at least 6 points, of which at least 4 in pillar 1 or 3, or a matching Kind en Gezin certificate); or the carer has a valid carer status (mantelzorgstatuut) with a social benefit.",
+          "The carer gives long-term, unpaid care; the premium can be requested once a year."
+        ],
+        "nl": [
+          "De zorgbehoevende verblijft in Geel en is er minstens 1 jaar gedomicilieerd.",
+          "De zorgbehoevende verblijft niet in een residentiële instelling.",
+          "De zorgbehoevende heeft recht op het zorgbudget voor zwaar zorgbehoevenden van de Vlaamse sociale bescherming, of heeft een erkende handicap van minstens 12 punten bij de FOD Sociale Zekerheid (kinderen: minstens 6 punten, waarvan minstens 4 in pijler 1 of 3, of een overeenstemmend attest van Kind en Gezin); of de mantelzorger heeft een geldig mantelzorgstatuut met sociaal voordeel.",
+          "De mantelzorger biedt langdurig en onbetaald hulp; de premie kan één keer per jaar aangevraagd worden."
+        ],
+        "fr": [
+          "La personne aidée habite à Geel et y est domiciliée depuis au moins 1 an.",
+          "La personne aidée ne séjourne pas dans une institution résidentielle.",
+          "La personne aidée bénéficie du budget de soins flamand pour personnes fortement dépendantes, ou a un handicap reconnu d'au moins 12 points auprès du SPF Sécurité sociale (enfants : au moins 6 points, dont au moins 4 dans le pilier 1 ou 3, ou une attestation équivalente de Kind en Gezin) ; ou l'aidant a un statut d'aidant proche valide avec avantage social.",
+          "L'aidant apporte une aide durable et non rémunérée ; la prime peut être demandée une fois par an."
+        ],
+        "de": [
+          "Die gepflegte Person wohnt in Geel und hat dort seit mindestens 1 Jahr ihren Wohnsitz.",
+          "Die gepflegte Person lebt nicht in einer Pflegeeinrichtung.",
+          "Die gepflegte Person erhält das flämische Pflegebudget für stark Pflegebedürftige oder hat eine anerkannte Behinderung von mindestens 12 Punkten beim FÖD Soziale Sicherheit (Kinder: mindestens 6 Punkte, davon mindestens 4 in Säule 1 oder 3, oder eine entsprechende Bescheinigung von Kind en Gezin); oder die pflegende Person hat einen gültigen Status als pflegender Angehöriger mit Sozialvorteil.",
+          "Die pflegende Person hilft langfristig und unbezahlt; die Prämie kann einmal pro Jahr beantragt werden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 239,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23027"
+    ],
+    "institution": "Stad Halle",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.halle.be/producten-en-dienstencatalogus/toelage-voor-thuis-en-mantelzorg",
+    "content": {
+      "en": {
+        "title": "Toelage voor thuis- en mantelzorg (Home and Carer Allowance, Halle)",
+        "desc": "A yearly allowance of €150 to €450 for low-income people with a disability who live alone at home in Halle, for those who care for them at home, and for people on career break to care for a seriously or terminally ill person.",
+        "deadline": "Applications made before 31 March count for the whole year; proofs must be in by 31 December.",
+        "amount": "€150 a year (person living alone; carer of one person), €225 (carer of several), €300 or €450 (career break for medical assistance or palliative leave)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form for your situation"
+          },
+          {
+            "type": "doc",
+            "label": "A health-fund certificate of increased reimbursement, or proof of income"
+          },
+          {
+            "type": "doc",
+            "label": "For a career break: the certificate filled in by the RVA/ONEM"
+          }
+        ],
+        "steps": [
+          "Download the application form on halle.be",
+          "Apply at the Welzijnsbalie in the Sociaal Huis",
+          "The social service checks whether you meet the conditions"
+        ]
+      },
+      "nl": {
+        "title": "Toelage voor thuis- en mantelzorg (Halle)",
+        "desc": "Een jaarlijkse toelage van €150 tot €450 voor alleenstaande, minvermogende personen met een handicap die thuis wonen in Halle, voor wie hen thuis verzorgt, en voor wie loopbaanonderbreking neemt om een ernstig of terminaal zieke te verzorgen.",
+        "deadline": "Aanvragen vóór 31 maart gelden voor het hele jaar; bewijzen binnenbrengen vóór 31 december.",
+        "amount": "€150 per jaar (alleenstaande; verzorger van één persoon), €225 (verzorger van meerdere), €300 of €450 (loopbaanonderbreking voor medische bijstand of palliatief verlof)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier voor jouw situatie"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van het ziekenfonds over de verhoogde tegemoetkoming, of bewijs van inkomsten"
+          },
+          {
+            "type": "doc",
+            "label": "Bij loopbaanonderbreking: het attest in te vullen door de RVA"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op halle.be",
+          "Vraag aan bij de Welzijnsbalie in het Sociaal Huis",
+          "De sociale dienst onderzoekt of je aan de voorwaarden voldoet"
+        ]
+      },
+      "fr": {
+        "title": "Toelage voor thuis- en mantelzorg (allocation de soins à domicile, Hal)",
+        "desc": "Une allocation annuelle de 150 € à 450 € pour les personnes handicapées isolées à faibles revenus vivant à domicile à Hal, pour ceux qui les soignent à domicile, et pour ceux qui prennent une interruption de carrière pour soigner un malade grave ou en fin de vie.",
+        "deadline": "Les demandes introduites avant le 31 mars valent pour toute l'année ; les preuves doivent être remises avant le 31 décembre.",
+        "amount": "150 € par an (personne isolée ; aidant d'une personne), 225 € (aidant de plusieurs), 300 € ou 450 € (interruption de carrière pour assistance médicale ou congé palliatif)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande correspondant à votre situation"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de la mutualité pour l'intervention majorée, ou une preuve de revenus"
+          },
+          {
+            "type": "doc",
+            "label": "En cas d'interruption de carrière : l'attestation à compléter par l'ONEM"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur halle.be",
+          "Introduisez la demande au Welzijnsbalie du Sociaal Huis",
+          "Le service social vérifie si vous remplissez les conditions"
+        ]
+      },
+      "de": {
+        "title": "Toelage voor thuis- en mantelzorg (Zulage für häusliche Pflege, Halle)",
+        "desc": "Eine jährliche Zulage von 150 € bis 450 € für alleinstehende Menschen mit Behinderung und geringem Einkommen, die in Halle zu Hause wohnen, für Personen, die sie zu Hause pflegen, und für Personen in Laufbahnunterbrechung zur Pflege eines schwer oder unheilbar Kranken.",
+        "deadline": "Anträge vor dem 31. März gelten für das ganze Jahr; Nachweise bis zum 31. Dezember einreichen.",
+        "amount": "150 € pro Jahr (Alleinstehende; Pflege einer Person), 225 € (Pflege mehrerer), 300 € oder 450 € (Laufbahnunterbrechung für medizinischen Beistand oder Palliativurlaub)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular für Ihre Situation"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Krankenkasse über die erhöhte Kostenerstattung oder ein Einkommensnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Bei Laufbahnunterbrechung: die vom LfA auszufüllende Bescheinigung"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf halle.be herunter",
+          "Beantragen Sie am Welzijnsbalie im Sociaal Huis",
+          "Der Sozialdienst prüft, ob Sie die Bedingungen erfüllen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": [
+        "https://www.halle.be/producten-en-dienstencatalogus/toelage-voor-thuis-en-mantelzorg",
+        "https://www.halle.be/system/files/2020-11/Subsidiereglement%20Toelage%20Thuiszorg.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "A single, low-income person with a disability who needs help, lives in Halle and does not live in an institution: €150 a year.",
+          "A live-in carer of a low-income person with a disability who needs help: €150 a year for one person, €225 for several.",
+          "A person on career break for medical assistance or palliative leave: €300 a year for one sick person, €450 for several (RVA/ONEM certificate).",
+          "Low income means you have increased reimbursement from your health fund, or an income no higher than the increased-reimbursement ceiling.",
+          "Applications before 31 March count for the whole year; proofs handed in after 31 December are not accepted."
+        ],
+        "nl": [
+          "Een alleenstaande, minvermogende, hulpbehoevende persoon met een handicap die in Halle woont en niet in een instelling verblijft: €150 per jaar.",
+          "Een inwonende die een minvermogende, hulpbehoevende persoon met een handicap verzorgt: €150 per jaar voor één persoon, €225 voor meerdere.",
+          "Een persoon met loopbaanonderbreking voor medische bijstand of palliatief verlof: €300 per jaar voor één zieke, €450 voor meerdere (attest van de RVA).",
+          "Minvermogend betekent dat je de verhoogde tegemoetkoming van het ziekenfonds hebt, of inkomsten die niet hoger zijn dan het grensbedrag daarvan.",
+          "Aanvragen vóór 31 maart gelden voor het hele jaar; bewijzen die na 31 december binnenkomen, worden niet aanvaard."
+        ],
+        "fr": [
+          "Une personne isolée à faibles revenus, handicapée et ayant besoin d'aide, qui habite à Hal et ne séjourne pas en institution : 150 € par an.",
+          "Un cohabitant qui soigne une personne handicapée à faibles revenus ayant besoin d'aide : 150 € par an pour une personne, 225 € pour plusieurs.",
+          "Une personne en interruption de carrière pour assistance médicale ou congé palliatif : 300 € par an pour un malade, 450 € pour plusieurs (attestation de l'ONEM).",
+          "Faibles revenus signifie bénéficier de l'intervention majorée de la mutualité, ou avoir des revenus ne dépassant pas son plafond.",
+          "Les demandes introduites avant le 31 mars valent pour toute l'année ; les preuves remises après le 31 décembre ne sont pas acceptées."
+        ],
+        "de": [
+          "Eine alleinstehende Person mit Behinderung, geringem Einkommen und Hilfebedarf, die in Halle wohnt und nicht in einer Einrichtung lebt: 150 € pro Jahr.",
+          "Eine im selben Haushalt lebende Person, die einen Menschen mit Behinderung, geringem Einkommen und Hilfebedarf pflegt: 150 € pro Jahr für eine Person, 225 € für mehrere.",
+          "Eine Person in Laufbahnunterbrechung für medizinischen Beistand oder Palliativurlaub: 300 € pro Jahr für einen Kranken, 450 € für mehrere (Bescheinigung des LfA).",
+          "Geringes Einkommen bedeutet Anspruch auf erhöhte Kostenerstattung der Krankenkasse oder ein Einkommen, das deren Obergrenze nicht übersteigt.",
+          "Anträge vor dem 31. März gelten für das ganze Jahr; Nachweise, die nach dem 31. Dezember eingehen, werden nicht angenommen."
+        ]
+      }
+    }
   }
 ]
