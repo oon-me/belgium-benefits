@@ -32767,7 +32767,7 @@
         "requirements": [
           {
             "type": "doc",
-            "label": "Application form for second-line legal aid, with proof of income"
+            "label": "Application form for second-line legal aid, with the supporting documents listed by the bar"
           }
         ],
         "steps": [
@@ -32784,7 +32784,7 @@
         "requirements": [
           {
             "type": "doc",
-            "label": "Aanvraagformulier juridische tweedelijnsbijstand, met bewijs van je inkomen"
+            "label": "Aanvraagformulier juridische tweedelijnsbijstand, met de stukken die de balie opsomt"
           }
         ],
         "steps": [
@@ -32801,7 +32801,7 @@
         "requirements": [
           {
             "type": "doc",
-            "label": "Formulaire de demande d'aide juridique de deuxième ligne, avec preuve de vos revenus"
+            "label": "Formulaire de demande d'aide juridique de deuxième ligne, avec les pièces énumérées par le barreau"
           }
         ],
         "steps": [
@@ -32818,7 +32818,7 @@
         "requirements": [
           {
             "type": "doc",
-            "label": "Antragsformular für juristischen Beistand der zweiten Linie mit Einkommensnachweis"
+            "label": "Antragsformular für juristischen Beistand der zweiten Linie mit den von der Kammer aufgeführten Unterlagen"
           }
         ],
         "steps": [
