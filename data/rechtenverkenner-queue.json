@@ -16,6 +16,7 @@
     "289": 286,
     "331": 126,
     "365": 15,
+    "496": 313,
     "630": 114,
     "631": 134,
     "662": 135,
@@ -57,7 +58,9 @@
     "1130": 109,
     "1213": 16,
     "1225": 257,
+    "1246": 301,
     "1247": 205,
+    "1337": 303,
     "1371": 127,
     "1387": 101,
     "1421": 299,
@@ -65,6 +68,7 @@
     "1433": 292,
     "1434": 290,
     "1446": 133,
+    "1447": 305,
     "1466": 208,
     "1478": 295,
     "1505": 269,
@@ -77,7 +81,9 @@
     "1533": 111,
     "1549": 113,
     "1551": 128,
+    "1559": 302,
     "1564": 47,
+    "1633": 304,
     "1649": 265,
     "1654": 282,
     "1655": 264,
@@ -101,6 +107,7 @@
     "2952": 182,
     "2954": 165,
     "2955": 166,
+    "2956": 310,
     "2957": 163,
     "2958": 164,
     "2960": 183,
@@ -121,8 +128,11 @@
     "2978": 195,
     "2979": 249,
     "2980": 178,
+    "2981": 307,
+    "2983": 308,
     "2984": 174,
     "2985": 176,
+    "2986": 312,
     "2987": 175,
     "2988": 169,
     "2989": 231,
@@ -146,6 +156,7 @@
     "3011": 213,
     "3012": 262,
     "3013": 181,
+    "3014": 311,
     "3015": 228,
     "3016": 89,
     "3017": 248,
@@ -170,6 +181,7 @@
     "3051": 255,
     "3052": 191,
     "3053": 274,
+    "3055": 309,
     "3056": 123,
     "3057": 186,
     "3058": 254,
@@ -191,6 +203,7 @@
     "3077": 158,
     "3079": 179,
     "3080": 177,
+    "3081": 308,
     "3082": 200,
     "3087": 159,
     "3088": 245,
@@ -204,6 +217,8 @@
     "3108": 156,
     "3111": 26,
     "3114": 210,
+    "3115": 306,
+    "3116": 306,
     "3117": 155,
     "3120": 195,
     "3122": 195,
@@ -228,15 +243,6 @@
     "77094": 27
   },
   "queue": [
-    {
-      "nr": "3014",
-      "name": "Belastingvrijstelling voor Duitse oorlogspensioenen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers#DuitsteBelastingen"
-      ]
-    },
     {
       "nr": "1916",
       "name": "Beschermingsuitkering",
@@ -318,39 +324,12 @@
       ]
     },
     {
-      "nr": "3081",
-      "name": "Inschakelingsvergoeding bij collectief ontslag na herstructurering",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.rva.be/burgers/tewerkstelling---opleiding/herstructurering/uw-rechten-en-plichten-in-het-kader-van-de-herstructurering-van-het-bedrijf-waarvoor-u-werkt#welke-rechten-hebt-u"
-      ]
-    },
-    {
       "nr": "3112",
       "name": "Invaliditeitspensioen voor mijnwerkers",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/arbeidsongeschiktheid/mijnwerkers/de-aanvraag-van-een-invaliditeitspensioen-voor-mijnwerkers"
-      ]
-    },
-    {
-      "nr": "3055",
-      "name": "Oorlogsinvaliditeitspensioen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers#invaliditeitspensioen_oorlogsfeiten_aanvragen"
-      ]
-    },
-    {
-      "nr": "2956",
-      "name": "Rente voor de slachtoffers van raciale vervolgingen",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers"
       ]
     },
     {
@@ -453,30 +432,12 @@
       ]
     },
     {
-      "nr": "2981",
-      "name": "Terugbetaling van verplaatsingskosten bij arbeidsongeval (publieke sector)",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.fedris.be/nl/themas/vergoedingen-ao/vergoedingen-de-publieke-sector"
-      ]
-    },
-    {
       "nr": "3047",
       "name": "Terugbetaling voor kortdurende zuurstoftherapie",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/palliatieve-zorg/kortdurende-zuurstoftherapie"
-      ]
-    },
-    {
-      "nr": "3115",
-      "name": "Verergeringsvergoeding overheidspersoneel",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.health.belgium.be/nl/medex/overheidspersoneel/arbeidsongevallen/herziening-en-verergering"
       ]
     },
     {
@@ -509,24 +470,6 @@
       "financial": true,
       "official": [
         "https://fin.belgium.be/nl/particulieren/belastingvoordelen/autos-personen-beperking"
-      ]
-    },
-    {
-      "nr": "2983",
-      "name": "Vermindering werknemersbijdragen bij ontslag na herstructurering",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.socialsecurity.be/employer/instructions/dmfa/nl/latest/instructions/deductions/workers_reductions/contributionreduction_restructuring.html"
-      ]
-    },
-    {
-      "nr": "2986",
-      "name": "Verwarmingstoelage bij pensioen voor mijnwerkers",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.sfpd.fgov.be/nl/pensioenbedrag/berekening/verschillende-soorten-pensioenen/werknemers/speciale-stelsels#verwarmingstoelage"
       ]
     },
     {
@@ -700,15 +643,6 @@
       "official": []
     },
     {
-      "nr": "496",
-      "name": "Vermindering van de onroerende voorheffing voor oorlogsslachtoffers (grootoorlogsverminkten)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-oorlogsslachtoffers"
-      ]
-    },
-    {
       "nr": "58341",
       "name": "Vermindering van de schenkbelasting wegens kinderlast",
       "level": "Vlaams",
@@ -824,15 +758,6 @@
       ]
     },
     {
-      "nr": "3116",
-      "name": "Herziening arbeidsongeval overheidspersoneel",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.health.belgium.be/nl/medex/overheidspersoneel/arbeidsongevallen/herziening-en-verergering"
-      ]
-    },
-    {
       "nr": "1991",
       "name": "Materiële steun tijdens asielprocedures",
       "level": "Federaal",
@@ -896,24 +821,6 @@
       "level": "Vlaams",
       "financial": false,
       "official": []
-    },
-    {
-      "nr": "1246",
-      "name": "Bijstand van een tolk voor dove of slechthorende werknemers, zelfstandigen en werkzoekenden met een arbeidsbeperking",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/gratis-tolk"
-      ]
-    },
-    {
-      "nr": "1633",
-      "name": "Diensten ondersteuningsplan (DOP's): samen uw ondersteuning plannen",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://www.vaph.be/diensten-ondersteuningsplan-dop-samen-uw-ondersteuning-plannen"
-      ]
     },
     {
       "nr": "601",
@@ -1001,15 +908,6 @@
       ]
     },
     {
-      "nr": "1447",
-      "name": "Rechtstreeks toegankelijke hulp (RTH) voor personen met een (vermoeden van) handicap",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp"
-      ]
-    },
-    {
       "nr": "505",
       "name": "Speciale onderwijsleermiddelen voor leerlingen, cursisten en studenten met een beperking",
       "level": "Vlaams",
@@ -1038,15 +936,6 @@
       "level": "Vlaams",
       "financial": false,
       "official": []
-    },
-    {
-      "nr": "1559",
-      "name": "Toelating om in een maatwerkbedrijf te werken",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/collectief-maatwerk"
-      ]
     },
     {
       "nr": "59256",
@@ -1085,15 +974,6 @@
       "financial": false,
       "official": [
         "https://www.adibib.be"
-      ]
-    },
-    {
-      "nr": "1337",
-      "name": "Vrijstelling van beschikbaarheid",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://www.vdab.be/opleidingen/gratis-en-voordelig-leren/geen-werk/niet-erkend/vrijstelling"
       ]
     },
     {

@@ -35567,5 +35567,1260 @@
         ]
       }
     }
+  },
+  {
+    "id": 301,
+    "category": "employment",
+    "situations": [
+      "health-issue",
+      "employee",
+      "job-loss"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "VDAB",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/gratis-tolk",
+    "content": {
+      "en": {
+        "title": "Free Interpreter for Deaf or Hard-of-Hearing Workers and Jobseekers",
+        "desc": "If you are deaf or hard of hearing, you get a number of free hours of an interpreter to apply for jobs, during your working time or during your training. VDAB pays the interpreter's hours and travel costs. You can use a Flemish Sign Language interpreter, a speech-to-text interpreter or an oral interpreter. You can also use the free remote interpreter service without applying.",
+        "deadline": "No deadline. If refused, you can ask for reconsideration within 45 days.",
+        "amount": "At least 18 free interpreter hours a year for job applications; at work a basic package of 10% of your working time (via CAB) plus up to 20% more via VDAB; during training as many hours as needed",
+        "requirements": [],
+        "steps": [
+          "Apply to VDAB for the right to this support (no job: call 0800 30 700; working or in training: send the application form with a doctor's statement)",
+          "VDAB tells you whether you have the right and how many interpreter hours you get",
+          "Book the interpreter at CAB (Vlaams Communicatie Assistentie Bureau voor Doven); for extra hours, apply to VDAB"
+        ]
+      },
+      "nl": {
+        "title": "Gratis tolk voor dove of slechthorende werknemers en werkzoekenden",
+        "desc": "Ben je doof of slechthorend, dan krijg je een aantal uur gratis ondersteuning van een tolk om te solliciteren, tijdens je werktijd of tijdens je opleiding. VDAB betaalt de uren van de tolk én zijn verplaatsingskosten. Je kan kiezen voor een tolk Vlaamse Gebarentaal, een schrijftolk of een orale tolk. Je kan ook zonder aanvraag een beroep doen op de gratis afstandstolk.",
+        "deadline": "Geen deadline. Bij een weigering kan je binnen 45 dagen om heroverweging vragen.",
+        "amount": "Minstens 18 gratis tolkuren per jaar om te solliciteren; op het werk een basispakket van 10% van je werktijd (via het CAB) plus maximaal 20% extra via VDAB; tijdens een opleiding zoveel uren als nodig",
+        "requirements": [],
+        "steps": [
+          "Vraag bij VDAB het recht op deze tegemoetkoming aan (geen werk: bel 0800 30 700; aan het werk of in opleiding: stuur het aanvraagformulier met een verklaring van je arts)",
+          "VDAB laat je weten of je recht hebt en op hoeveel tolkuren",
+          "Vraag de tolk aan bij het CAB (Vlaams Communicatie Assistentie Bureau voor Doven); voor extra uren vraag je een uitbreiding bij VDAB"
+        ]
+      },
+      "fr": {
+        "title": "Interprète gratuit pour travailleurs et demandeurs d'emploi sourds ou malentendants",
+        "desc": "Si vous êtes sourd(e) ou malentendant(e), vous recevez un certain nombre d'heures gratuites d'interprète pour postuler, pendant votre temps de travail ou pendant votre formation. Le VDAB paie les heures de l'interprète et ses frais de déplacement. Vous pouvez faire appel à un interprète en langue des signes flamande, un interprète de l'écrit ou un interprète oral. Vous pouvez aussi utiliser gratuitement l'interprète à distance, sans demande.",
+        "deadline": "Pas de délai. En cas de refus, vous pouvez demander un réexamen dans les 45 jours.",
+        "amount": "Au moins 18 heures d'interprète gratuites par an pour postuler ; au travail un forfait de base de 10 % de votre temps de travail (via le CAB) plus jusqu'à 20 % supplémentaires via le VDAB ; en formation, autant d'heures que nécessaire",
+        "requirements": [],
+        "steps": [
+          "Demandez au VDAB le droit à cette aide (sans emploi : appelez le 0800 30 700 ; au travail ou en formation : envoyez le formulaire avec une déclaration de votre médecin)",
+          "Le VDAB vous indique si vous y avez droit et combien d'heures d'interprète vous recevez",
+          "Réservez l'interprète auprès du CAB (Vlaams Communicatie Assistentie Bureau voor Doven) ; pour des heures supplémentaires, adressez-vous au VDAB"
+        ]
+      },
+      "de": {
+        "title": "Kostenloser Dolmetscher für gehörlose oder schwerhörige Beschäftigte und Arbeitsuchende",
+        "desc": "Wenn Sie gehörlos oder schwerhörig sind, erhalten Sie eine Anzahl kostenloser Dolmetscherstunden für Bewerbungen, während der Arbeitszeit oder während der Ausbildung. VDAB bezahlt die Stunden und Fahrtkosten des Dolmetschers. Sie können einen Dolmetscher für Flämische Gebärdensprache, einen Schriftdolmetscher oder einen oralen Dolmetscher nutzen. Den kostenlosen Ferndolmetscher können Sie auch ohne Antrag nutzen.",
+        "deadline": "Keine Frist. Bei Ablehnung können Sie innerhalb von 45 Tagen eine Überprüfung beantragen.",
+        "amount": "Mindestens 18 kostenlose Dolmetscherstunden pro Jahr für Bewerbungen; bei der Arbeit ein Grundpaket von 10 % Ihrer Arbeitszeit (über CAB) plus bis zu 20 % zusätzlich über VDAB; in der Ausbildung so viele Stunden wie nötig",
+        "requirements": [],
+        "steps": [
+          "Beantragen Sie bei VDAB das Recht auf diese Unterstützung (ohne Arbeit: 0800 30 700 anrufen; in Arbeit oder Ausbildung: Antragsformular mit ärztlicher Erklärung senden)",
+          "VDAB teilt Ihnen mit, ob Sie Anspruch haben und wie viele Dolmetscherstunden Sie erhalten",
+          "Buchen Sie den Dolmetscher beim CAB (Vlaams Communicatie Assistentie Bureau voor Doven); für zusätzliche Stunden wenden Sie sich an VDAB"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/gratis-tolk/voorwaarden",
+      "conditions": {
+        "en": [
+          "You are deaf or hard of hearing and meet one of these: VAPH already granted the right or a 'hearing replacement' ticket; VAPH or the Education department allowed interpreter or educational support; or an ENT doctor states, after treatment, that your better ear has at least 70 dB loss, that you understand 70% of speech or less, or that you are deafblind.",
+          "And you are a jobseeker, employee, student worker, self-employed (main or secondary), in recognised VDAB training, apprenticeship or dual learning, a final-year pupil or student, a wijk-werker, or doing a work placement in a transition pathway."
+        ],
+        "nl": [
+          "Je bent doof of slechthorend en voldoet aan een van deze voorwaarden: het VAPH kende je het recht of een ticket 'Vervanging gehoor' toe; het VAPH of het departement Onderwijs gaf toelating voor een tolk of pedagogische hulp; of een NKO-arts verklaart dat je uitbehandeld bent en je beste oor minstens 70 dB verlies heeft, je 70% of minder spraakverstaan hebt, of dat je doofblind bent.",
+          "En je bent werkzoekende, werknemer, jobstudent, zelfstandige in hoofd- of bijberoep, volgt een erkende opleiding bij VDAB, een opleiding met leertijd of duaal leren, bent laatstejaarsleerling of -student, wijk-werker, of loopt stage tijdens een doorstroomtraject."
+        ],
+        "fr": [
+          "Vous êtes sourd(e) ou malentendant(e) et remplissez une de ces conditions : le VAPH vous a déjà accordé le droit ou un ticket « remplacement de l'ouïe » ; le VAPH ou le département de l'Enseignement a autorisé un interprète ou une aide pédagogique ; ou un ORL atteste qu'après traitement votre meilleure oreille a une perte d'au moins 70 dB, que vous comprenez 70 % de la parole ou moins, ou que vous êtes sourd-aveugle.",
+          "Et vous êtes demandeur d'emploi, salarié(e), étudiant(e) jobiste, indépendant(e) à titre principal ou complémentaire, suivez une formation reconnue au VDAB, une formation en alternance ou un apprentissage dual, êtes en dernière année d'études, wijk-werker, ou en stage dans un trajet de transition."
+        ],
+        "de": [
+          "Sie sind gehörlos oder schwerhörig und erfüllen eine dieser Bedingungen: VAPH hat Ihnen das Recht oder ein Ticket „Hörersatz“ gewährt; VAPH oder das Unterrichtsdepartement hat einen Dolmetscher oder pädagogische Hilfe erlaubt; oder ein HNO-Arzt bestätigt, dass nach Behandlung Ihr besseres Ohr mindestens 70 dB Hörverlust hat, Sie 70 % oder weniger Sprache verstehen oder taubblind sind.",
+          "Und Sie sind arbeitsuchend, Arbeitnehmer, Ferienjobber, Selbstständiger im Haupt- oder Nebenberuf, in einer anerkannten VDAB-Ausbildung, Lehre oder dualen Ausbildung, im letzten Schul- oder Studienjahr, Wijk-Werker oder im Praktikum eines Übergangspfads."
+        ]
+      }
+    }
+  },
+  {
+    "id": 302,
+    "category": "employment",
+    "situations": [
+      "health-issue",
+      "job-loss"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "VDAB",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/collectief-maatwerk",
+    "content": {
+      "en": {
+        "title": "Work in a Social Workshop (Collectief Maatwerk)",
+        "desc": "If you have a disability or health problem, VDAB can approve you for collective customised work: adapted work in a maatwerkbedrijf (formerly sheltered or social workshop) with expert supervision. These companies supply products and services to businesses, governments and individuals. If you later feel ready for a regular job, a transition pathway with coaching and a work placement can help you move on.",
+        "deadline": "No deadline. If refused, you can ask for reconsideration within 45 days.",
+        "amount": "Adapted paid work with supervision",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doctor's statement on your condition and prognosis, plus documents showing your disability or health problem"
+          }
+        ],
+        "steps": [
+          "No job: call VDAB free on 0800 30 700 and mention your disability or health problem; you are invited for an interview",
+          "Working or self-employed: send VDAB the signed application form with your supporting documents",
+          "If VDAB approves, your counsellor looks with you for a suitable job in a maatwerkbedrijf"
+        ]
+      },
+      "nl": {
+        "title": "Werken in een maatwerkbedrijf (collectief maatwerk)",
+        "desc": "Heb je een beperking of gezondheidsprobleem, dan kan VDAB je toelating geven voor collectief maatwerk: aangepast werk in een maatwerkbedrijf (vroeger beschutte of sociale werkplaats) met deskundige begeleiding. Een maatwerkbedrijf levert producten en diensten aan bedrijven, overheden of particulieren. Voel je je later klaar voor een job in het gewone arbeidscircuit, dan helpt een doorstroomtraject met begeleiding en stage je verder.",
+        "deadline": "Geen deadline. Bij een weigering kan je binnen 45 dagen om heroverweging vragen.",
+        "amount": "Aangepast werk met begeleiding",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verklaring van je arts over wat je hebt en de prognose, plus documenten die je beperking of gezondheidsprobleem aantonen"
+          }
+        ],
+        "steps": [
+          "Geen werk: bel VDAB gratis op 0800 30 700 en vermeld je beperking of gezondheidsprobleem; je wordt uitgenodigd voor een gesprek",
+          "Aan het werk of zelfstandige: bezorg VDAB het ondertekende aanvraagformulier met je bewijsstukken",
+          "Keurt VDAB je aanvraag goed, dan zoekt je bemiddelaar samen met jou een geschikte job in een maatwerkbedrijf"
+        ]
+      },
+      "fr": {
+        "title": "Travailler dans une entreprise de travail adapté (collectief maatwerk)",
+        "desc": "Si vous avez un handicap ou un problème de santé, le VDAB peut vous autoriser au travail adapté collectif : un travail adapté dans une maatwerkbedrijf (ancien atelier protégé ou social) avec un accompagnement spécialisé. Ces entreprises fournissent des produits et services aux entreprises, pouvoirs publics ou particuliers. Si vous vous sentez prêt(e) plus tard pour un emploi ordinaire, un trajet de transition avec accompagnement et stage vous aide.",
+        "deadline": "Pas de délai. En cas de refus, vous pouvez demander un réexamen dans les 45 jours.",
+        "amount": "Travail adapté avec accompagnement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Déclaration de votre médecin sur votre affection et le pronostic, plus des documents prouvant votre handicap ou problème de santé"
+          }
+        ],
+        "steps": [
+          "Sans emploi : appelez gratuitement le VDAB au 0800 30 700 et mentionnez votre handicap ou problème de santé ; vous êtes invité(e) à un entretien",
+          "Au travail ou indépendant(e) : envoyez au VDAB le formulaire signé avec vos pièces justificatives",
+          "Si le VDAB accepte, votre conseiller cherche avec vous un emploi adapté dans une maatwerkbedrijf"
+        ]
+      },
+      "de": {
+        "title": "Arbeit in einem Maßarbeitsbetrieb (collectief maatwerk)",
+        "desc": "Wenn Sie eine Behinderung oder ein Gesundheitsproblem haben, kann VDAB Sie für kollektive Maßarbeit zulassen: angepasste Arbeit in einem Maßarbeitsbetrieb (früher geschützte oder soziale Werkstätte) mit fachkundiger Begleitung. Diese Betriebe liefern Produkte und Dienstleistungen an Unternehmen, Behörden oder Privatpersonen. Fühlen Sie sich später bereit für den regulären Arbeitsmarkt, hilft ein Übergangspfad mit Begleitung und Praktikum.",
+        "deadline": "Keine Frist. Bei Ablehnung können Sie innerhalb von 45 Tagen eine Überprüfung beantragen.",
+        "amount": "Angepasste Arbeit mit Begleitung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Erklärung zu Erkrankung und Prognose sowie Nachweise Ihrer Behinderung oder Ihres Gesundheitsproblems"
+          }
+        ],
+        "steps": [
+          "Ohne Arbeit: Rufen Sie VDAB kostenlos unter 0800 30 700 an und nennen Sie Ihre Behinderung oder Ihr Gesundheitsproblem; Sie werden zu einem Gespräch eingeladen",
+          "Berufstätig oder selbstständig: Senden Sie VDAB das unterschriebene Antragsformular mit Ihren Nachweisen",
+          "Genehmigt VDAB den Antrag, sucht Ihr Vermittler mit Ihnen eine passende Stelle in einem Maßarbeitsbetrieb"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/advies",
+      "conditions": {
+        "en": [
+          "You have a disability or health problem and VDAB gives a positive advice for collective customised work."
+        ],
+        "nl": [
+          "Je hebt een beperking of gezondheidsprobleem en VDAB geeft een positief advies voor collectief maatwerk."
+        ],
+        "fr": [
+          "Vous avez un handicap ou un problème de santé et le VDAB rend un avis positif pour le travail adapté collectif."
+        ],
+        "de": [
+          "Sie haben eine Behinderung oder ein Gesundheitsproblem und VDAB erteilt eine positive Empfehlung für kollektive Maßarbeit."
+        ]
+      }
+    }
+  },
+  {
+    "id": 303,
+    "category": "employment",
+    "situations": [
+      "job-loss"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "VDAB",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vdab.be/opleidingen/gratis-en-voordelig-leren/geen-werk/niet-erkend/vrijstelling",
+    "content": {
+      "en": {
+        "title": "Exemption from Job Search for a Non-Recognised Course (Vrijstelling van beschikbaarheid)",
+        "desc": "If you receive an unemployment-type benefit and follow a course, study or work placement that VDAB does not recognise, you can ask for an exemption from availability. You then do not have to look for work or accept suitable jobs during your course. You do stay registered as a jobseeker, take part regularly and keep to the agreements with your counsellor. Ask your payment body first: your benefit may drop or stop during a non-recognised course. For a recognised course you get the exemption automatically.",
+        "deadline": "Apply at the earliest 3 months and at the latest 1 month before the start. VDAB decides within 30 days. The exemption lasts 12 months (3 months abroad); apply for an extension before it ends.",
+        "amount": "No obligation to look for work during your course",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Training certificate (opleidingsattest) completed and signed by the school or training provider"
+          }
+        ],
+        "steps": [
+          "Ask your payment body what the course means for your benefit",
+          "Download the training certificate and have the school or training provider complete and sign it",
+          "Fill in VDAB's online application form and attach the certificate (or ask your counsellor, or call 0800 30 700)"
+        ]
+      },
+      "nl": {
+        "title": "Vrijstelling van beschikbaarheid voor een niet-erkende opleiding",
+        "desc": "Krijg je een werkloosheids- of vergelijkbare uitkering en volg je een opleiding, studie of stage die VDAB niet erkent, dan kan je een vrijstelling van beschikbaarheid aanvragen. Je hoeft dan tijdens je opleiding niet naar werk te zoeken en niet in te gaan op passende jobs. Je blijft wel ingeschreven als werkzoekende, neemt regelmatig deel en volgt de afspraken met je bemiddelaar. Vraag eerst raad aan je uitbetalingsinstelling: je uitkering kan dalen of wegvallen tijdens een niet-erkende opleiding. Bij een erkende opleiding krijg je de vrijstelling automatisch.",
+        "deadline": "Vraag aan ten vroegste 3 maanden en ten laatste 1 maand voor de start. VDAB beslist binnen 30 dagen. De vrijstelling geldt 12 maanden (3 maanden in het buitenland); vraag een verlenging aan voor ze afloopt.",
+        "amount": "Geen verplichting om werk te zoeken tijdens je opleiding",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Opleidingsattest, ingevuld en ondertekend door de school of opleidingsverstrekker"
+          }
+        ],
+        "steps": [
+          "Vraag je uitbetalingsinstelling wat de opleiding betekent voor je uitkering",
+          "Download het opleidingsattest en laat het invullen en ondertekenen door de school of opleidingsverstrekker",
+          "Vul het online aanvraagformulier van VDAB in en voeg het attest toe (of vraag je bemiddelaar, of bel 0800 30 700)"
+        ]
+      },
+      "fr": {
+        "title": "Dispense de disponibilité pour une formation non reconnue",
+        "desc": "Si vous recevez une allocation de chômage (ou similaire) et suivez une formation, des études ou un stage non reconnus par le VDAB, vous pouvez demander une dispense de disponibilité. Vous ne devez alors pas chercher d'emploi ni accepter des emplois convenables pendant la formation. Vous restez inscrit(e) comme demandeur d'emploi, participez régulièrement et respectez les accords avec votre conseiller. Renseignez-vous d'abord auprès de votre organisme de paiement : votre allocation peut baisser ou s'arrêter. Pour une formation reconnue, la dispense est automatique.",
+        "deadline": "Demandez au plus tôt 3 mois et au plus tard 1 mois avant le début. Le VDAB décide dans les 30 jours. La dispense vaut 12 mois (3 mois à l'étranger) ; demandez une prolongation avant son échéance.",
+        "amount": "Pas d'obligation de chercher un emploi pendant la formation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation de formation remplie et signée par l'école ou l'organisme de formation"
+          }
+        ],
+        "steps": [
+          "Demandez à votre organisme de paiement l'effet de la formation sur votre allocation",
+          "Téléchargez l'attestation de formation et faites-la remplir et signer par l'école ou l'organisme",
+          "Remplissez le formulaire en ligne du VDAB et joignez l'attestation (ou demandez à votre conseiller, ou appelez le 0800 30 700)"
+        ]
+      },
+      "de": {
+        "title": "Befreiung von der Verfügbarkeit für eine nicht anerkannte Ausbildung",
+        "desc": "Wenn Sie eine Arbeitslosen- oder vergleichbare Leistung beziehen und eine von VDAB nicht anerkannte Ausbildung, ein Studium oder Praktikum machen, können Sie eine Befreiung von der Verfügbarkeit beantragen. Sie müssen dann während der Ausbildung keine Arbeit suchen und keine zumutbaren Stellen annehmen. Sie bleiben aber als arbeitsuchend gemeldet, nehmen regelmäßig teil und halten die Absprachen mit Ihrem Vermittler ein. Fragen Sie zuerst Ihre Zahlstelle: Ihre Leistung kann sinken oder entfallen. Bei einer anerkannten Ausbildung gilt die Befreiung automatisch.",
+        "deadline": "Beantragen Sie frühestens 3 Monate und spätestens 1 Monat vor Beginn. VDAB entscheidet innerhalb von 30 Tagen. Die Befreiung gilt 12 Monate (3 Monate im Ausland); beantragen Sie eine Verlängerung vor Ablauf.",
+        "amount": "Keine Pflicht zur Arbeitsuche während der Ausbildung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausbildungsbescheinigung, ausgefüllt und unterschrieben von Schule oder Ausbildungsanbieter"
+          }
+        ],
+        "steps": [
+          "Fragen Sie Ihre Zahlstelle, was die Ausbildung für Ihre Leistung bedeutet",
+          "Laden Sie die Ausbildungsbescheinigung herunter und lassen Sie sie von Schule oder Anbieter ausfüllen und unterschreiben",
+          "Füllen Sie das Online-Formular von VDAB aus und fügen Sie die Bescheinigung bei (oder fragen Sie Ihren Vermittler oder rufen Sie 0800 30 700 an)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vdab.be/opleidingen/gratis-en-voordelig-leren/geen-werk/niet-erkend/vrijstelling",
+      "conditions": {
+        "en": [
+          "You are registered with VDAB as a jobseeker, receive an unemployment, integration, protection or income-guarantee benefit, and live in Flanders.",
+          "The course fits your path to work and greatly improves your job chances; it lasts at least 4 weeks, at least 20 hours a week, in daytime (not Saturdays or after 5 pm); higher education must include at least 27 new credits."
+        ],
+        "nl": [
+          "Je bent bij VDAB ingeschreven als werkzoekende, krijgt een werkloosheids-, inschakelings-, beschermings- of inkomensgarantie-uitkering, en woont in Vlaanderen.",
+          "De opleiding past in je traject naar werk en verhoogt je kansen op werk in grote mate; ze duurt minstens 4 weken, minstens 20 uur per week, overdag (niet op zaterdag of na 17 uur); hoger onderwijs omvat minstens 27 nieuwe studiepunten."
+        ],
+        "fr": [
+          "Vous êtes inscrit(e) au VDAB comme demandeur d'emploi, recevez une allocation de chômage, d'insertion, de sauvegarde ou de garantie de revenus, et habitez en Flandre.",
+          "La formation s'inscrit dans votre trajet vers l'emploi et augmente fortement vos chances ; elle dure au moins 4 semaines, au moins 20 heures par semaine, en journée (pas le samedi ni après 17 h) ; l'enseignement supérieur doit compter au moins 27 nouveaux crédits."
+        ],
+        "de": [
+          "Sie sind bei VDAB arbeitsuchend gemeldet, beziehen Arbeitslosengeld, Eingliederungs-, Schutz- oder Einkommensgarantieleistung und wohnen in Flandern.",
+          "Die Ausbildung passt zu Ihrem Weg in Arbeit und erhöht Ihre Chancen deutlich; sie dauert mindestens 4 Wochen, mindestens 20 Stunden pro Woche, tagsüber (nicht samstags oder nach 17 Uhr); ein Hochschulstudium umfasst mindestens 27 neue Studienpunkte."
+        ]
+      }
+    }
+  },
+  {
+    "id": 304,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "VAPH (Vlaams Agentschap voor Personen met een Handicap)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vaph.be/organisaties/diensten-ondersteuningsplan-dop-samen-uw-ondersteuning-plannen",
+    "content": {
+      "en": {
+        "title": "Free Support Planning for People with a Disability (DOP)",
+        "desc": "A support planning service (dienst ondersteuningsplan, DOP) helps you map your support needs and find the most suitable support, together with the people you trust: for example if you want to live on your own, look for meaningful daytime activities, or your child was just diagnosed. The result is a support plan listing all options for you and those around you. If it shows you need more intensive disability-specific support, the DOP can help you apply for a personal budget (PVB, from age 17). The conversations are free.",
+        "deadline": "Support lasts up to one year, exceptionally 18 months.",
+        "amount": "Free",
+        "requirements": [],
+        "steps": [
+          "Find a DOP in the VAPH address list and ask for an introductory meeting",
+          "Decide afterwards whether you want to work with them; together you draw up your support plan"
+        ]
+      },
+      "nl": {
+        "title": "Dienst ondersteuningsplan (DOP): gratis je ondersteuning plannen",
+        "desc": "Een dienst ondersteuningsplan (DOP) helpt je om je ondersteuningsnood in kaart te brengen en de meest geschikte ondersteuning te zoeken, samen met de mensen die je vertrouwt: bijvoorbeeld als je alleen wil gaan wonen, een zinvolle dagbesteding zoekt, of je kind net een diagnose kreeg. Het resultaat is een ondersteuningsplan met alle mogelijkheden voor jou en je omgeving. Blijkt dat je intensievere handicapspecifieke ondersteuning nodig hebt, dan helpt de DOP je een persoonsvolgend budget (PVB, vanaf 17 jaar) aan te vragen. De gesprekken zijn gratis.",
+        "deadline": "De ondersteuning duurt maximaal één jaar, uitzonderlijk achttien maanden.",
+        "amount": "Gratis",
+        "requirements": [],
+        "steps": [
+          "Zoek een DOP in de adressenlijst van het VAPH en vraag een kennismakingsgesprek aan",
+          "Beslis daarna zelf of je met hen verder wil; samen maken jullie je ondersteuningsplan op"
+        ]
+      },
+      "fr": {
+        "title": "Service plan de soutien (DOP) : planifier gratuitement votre soutien",
+        "desc": "Un service plan de soutien (DOP) vous aide à cerner vos besoins de soutien et à trouver le soutien le plus adapté, avec les personnes en qui vous avez confiance : par exemple pour vivre seul(e), trouver une occupation de jour utile, ou si votre enfant vient d'être diagnostiqué. Vous obtenez un plan de soutien qui reprend toutes les possibilités pour vous et votre entourage. S'il apparaît que vous avez besoin d'un soutien spécifique plus intensif, le DOP vous aide à demander un budget personnalisé (PVB, dès 17 ans). Les entretiens sont gratuits.",
+        "deadline": "Le soutien dure au maximum un an, exceptionnellement dix-huit mois.",
+        "amount": "Gratuit",
+        "requirements": [],
+        "steps": [
+          "Trouvez un DOP dans la liste d'adresses du VAPH et demandez un entretien de présentation",
+          "Décidez ensuite si vous voulez continuer avec eux ; ensemble, vous établissez votre plan de soutien"
+        ]
+      },
+      "de": {
+        "title": "Dienst für Unterstützungsplanung (DOP): kostenlose Planung Ihrer Unterstützung",
+        "desc": "Ein Dienst für Unterstützungsplanung (DOP) hilft Ihnen, Ihren Unterstützungsbedarf zu erfassen und die passendste Unterstützung zu finden, gemeinsam mit Menschen, denen Sie vertrauen: etwa wenn Sie allein wohnen möchten, eine sinnvolle Tagesbeschäftigung suchen oder Ihr Kind gerade eine Diagnose erhielt. Ergebnis ist ein Unterstützungsplan mit allen Möglichkeiten für Sie und Ihr Umfeld. Brauchen Sie intensivere behinderungsspezifische Unterstützung, hilft der DOP beim Antrag auf ein personengebundenes Budget (PVB, ab 17 Jahren). Die Gespräche sind kostenlos.",
+        "deadline": "Die Unterstützung dauert höchstens ein Jahr, ausnahmsweise achtzehn Monate.",
+        "amount": "Kostenlos",
+        "requirements": [],
+        "steps": [
+          "Suchen Sie einen DOP in der Adressliste des VAPH und vereinbaren Sie ein Kennenlerngespräch",
+          "Entscheiden Sie danach, ob Sie mit ihnen arbeiten möchten; gemeinsam erstellen Sie Ihren Unterstützungsplan"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vaph.be/organisaties/diensten-ondersteuningsplan-dop-samen-uw-ondersteuning-plannen",
+      "conditions": {
+        "en": [
+          "You have a disability or a suspected disability and live in Flanders or the Brussels-Capital Region.",
+          "You are under 65 (unless VAPH already recognised your disability), and do not yet have a PAB or PVB or use a multifunctional centre (exceptions possible)."
+        ],
+        "nl": [
+          "Je hebt een handicap of een vermoeden van handicap en woont in Vlaanderen of in het Brussels Hoofdstedelijk Gewest.",
+          "Je bent jonger dan 65 (tenzij het VAPH je handicap al erkende), en hebt nog geen PAB of PVB en maakt nog geen gebruik van een multifunctioneel centrum (uitzonderingen mogelijk)."
+        ],
+        "fr": [
+          "Vous avez un handicap ou une suspicion de handicap et habitez en Flandre ou en Région de Bruxelles-Capitale.",
+          "Vous avez moins de 65 ans (sauf si le VAPH a déjà reconnu votre handicap), et n'avez pas encore de PAB ou de PVB ni n'utilisez un centre multifonctionnel (exceptions possibles)."
+        ],
+        "de": [
+          "Sie haben eine Behinderung oder einen Verdacht darauf und wohnen in Flandern oder in der Region Brüssel-Hauptstadt.",
+          "Sie sind unter 65 (außer VAPH hat Ihre Behinderung bereits anerkannt) und haben noch kein PAB oder PVB und nutzen kein multifunktionales Zentrum (Ausnahmen möglich)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 305,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "VAPH (Vlaams Agentschap voor Personen met een Handicap)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+    "content": {
+      "en": {
+        "title": "Directly Accessible Help (RTH) for People with a Disability",
+        "desc": "If you occasionally need disability-specific support, you can go directly to a recognised care provider, without applying to VAPH. You choose between guidance (individual, group or supported work), day care and overnight stays, and can combine them. Every calendar year you can spend up to 8 RTH points (exceptionally 12): for example 51 outpatient guidance sessions, 91 days of day care or 61 nights. You only pay a small capped contribution.",
+        "deadline": "Points per calendar year.",
+        "amount": "Your contribution is at most €6.72 per guidance session, €12.76 per day of day care, €32.11 per night, €3.36 per hour of care at home (amounts since 1 January 2026)",
+        "requirements": [],
+        "steps": [
+          "Find an RTH provider in the VAPH address list and contact them directly",
+          "Discuss what support is possible; check your remaining points in mijnvaph.be",
+          "Sign an individual service agreement (IDO) with the provider at the start"
+        ]
+      },
+      "nl": {
+        "title": "Rechtstreeks toegankelijke hulp (RTH) voor personen met een handicap",
+        "desc": "Heb je af en toe handicapspecifieke ondersteuning nodig, dan kan je rechtstreeks bij een erkende zorgaanbieder terecht, zonder aanvraag bij het VAPH. Je kiest tussen begeleiding (individueel, in groep of begeleid werken), dagopvang en verblijf, en mag ze combineren. Per kalenderjaar kan je maximaal 8 RTH-punten besteden (uitzonderlijk 12): bijvoorbeeld 51 ambulante begeleidingen, 91 dagen dagopvang of 61 nachten verblijf. Je betaalt alleen een kleine, geplafonneerde bijdrage.",
+        "deadline": "Punten per kalenderjaar.",
+        "amount": "Je bijdrage is maximaal 6,72 euro per begeleiding, 12,76 euro per dag dagopvang, 32,11 euro per nacht, 3,36 euro per uur opvang thuis (bedragen sinds 1 januari 2026)",
+        "requirements": [],
+        "steps": [
+          "Zoek een RTH-aanbieder in de adressenlijst van het VAPH en neem rechtstreeks contact op",
+          "Bespreek welke ondersteuning mogelijk is; je resterende punten zie je in mijnvaph.be",
+          "Onderteken bij de start een individuele dienstverleningsovereenkomst (IDO) met de aanbieder"
+        ]
+      },
+      "fr": {
+        "title": "Aide directement accessible (RTH) pour les personnes handicapées",
+        "desc": "Si vous avez besoin de temps en temps d'un soutien spécifique au handicap, vous pouvez vous adresser directement à un prestataire agréé, sans demande au VAPH. Vous choisissez entre accompagnement (individuel, en groupe ou travail accompagné), accueil de jour et séjour, et pouvez les combiner. Par année civile, vous pouvez utiliser jusqu'à 8 points RTH (exceptionnellement 12) : par exemple 51 accompagnements ambulatoires, 91 jours d'accueil de jour ou 61 nuits. Vous ne payez qu'une petite contribution plafonnée.",
+        "deadline": "Points par année civile.",
+        "amount": "Votre contribution est au maximum de 6,72 € par séance d'accompagnement, 12,76 € par jour d'accueil, 32,11 € par nuit, 3,36 € par heure d'accueil à domicile (montants depuis le 1er janvier 2026)",
+        "requirements": [],
+        "steps": [
+          "Trouvez un prestataire RTH dans la liste d'adresses du VAPH et contactez-le directement",
+          "Discutez du soutien possible ; consultez vos points restants sur mijnvaph.be",
+          "Signez au départ une convention individuelle de services (IDO) avec le prestataire"
+        ]
+      },
+      "de": {
+        "title": "Direkt zugängliche Hilfe (RTH) für Menschen mit Behinderung",
+        "desc": "Wenn Sie gelegentlich behinderungsspezifische Unterstützung brauchen, können Sie sich direkt an einen anerkannten Anbieter wenden, ohne Antrag beim VAPH. Sie wählen zwischen Begleitung (einzeln, in der Gruppe oder begleitetes Arbeiten), Tagesbetreuung und Übernachtung und können kombinieren. Pro Kalenderjahr können Sie bis zu 8 RTH-Punkte nutzen (ausnahmsweise 12): etwa 51 ambulante Begleitungen, 91 Tage Tagesbetreuung oder 61 Nächte. Sie zahlen nur einen kleinen, gedeckelten Beitrag.",
+        "deadline": "Punkte pro Kalenderjahr.",
+        "amount": "Ihr Beitrag beträgt höchstens 6,72 € pro Begleitung, 12,76 € pro Tag Tagesbetreuung, 32,11 € pro Nacht, 3,36 € pro Stunde Betreuung zu Hause (Beträge seit 1. Januar 2026)",
+        "requirements": [],
+        "steps": [
+          "Suchen Sie einen RTH-Anbieter in der Adressliste des VAPH und wenden Sie sich direkt an ihn",
+          "Besprechen Sie die mögliche Unterstützung; Ihre restlichen Punkte sehen Sie auf mijnvaph.be",
+          "Unterschreiben Sie zu Beginn eine individuelle Dienstleistungsvereinbarung (IDO) mit dem Anbieter"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vaph.be/organisaties/rechtstreeks-toegankelijke-hulp",
+      "conditions": {
+        "en": [
+          "You have a disability or a suspected disability.",
+          "You are under 65 (unless VAPH already recognised your disability, or you already used RTH before 65).",
+          "You live in Flanders or the Brussels-Capital Region (adults need a domicile there).",
+          "As an adult you do not yet have a personal budget (PVB); as a minor you are not supported by a multifunctional centre and have no PAB."
+        ],
+        "nl": [
+          "Je hebt een handicap of een vermoeden van handicap.",
+          "Je bent jonger dan 65 (tenzij het VAPH je handicap al erkende, of je al voor je 65e RTH gebruikte).",
+          "Je woont in Vlaanderen of het Brussels Hoofdstedelijk Gewest (volwassenen moeten er gedomicilieerd zijn).",
+          "Als meerderjarige heb je nog geen persoonsvolgend budget (PVB); als minderjarige word je niet ondersteund door een multifunctioneel centrum en heb je geen PAB."
+        ],
+        "fr": [
+          "Vous avez un handicap ou une suspicion de handicap.",
+          "Vous avez moins de 65 ans (sauf si le VAPH a déjà reconnu votre handicap ou si vous utilisiez déjà le RTH avant 65 ans).",
+          "Vous habitez en Flandre ou en Région de Bruxelles-Capitale (les adultes doivent y être domiciliés).",
+          "Adulte, vous n'avez pas encore de budget personnalisé (PVB) ; mineur, vous n'êtes pas soutenu(e) par un centre multifonctionnel et n'avez pas de PAB."
+        ],
+        "de": [
+          "Sie haben eine Behinderung oder einen Verdacht darauf.",
+          "Sie sind unter 65 (außer VAPH hat Ihre Behinderung anerkannt oder Sie nutzten RTH schon vor 65).",
+          "Sie wohnen in Flandern oder der Region Brüssel-Hauptstadt (Erwachsene mit Wohnsitz dort).",
+          "Als Erwachsener haben Sie noch kein personengebundenes Budget (PVB); als Minderjähriger werden Sie nicht von einem multifunktionalen Zentrum unterstützt und haben kein PAB."
+        ]
+      }
+    }
+  },
+  {
+    "id": 306,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Medex (FOD Volksgezondheid / SPF Santé publique)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.health.belgium.be/nl/professionals/medex/overheidspersoneel/arbeidsongeval/verloop-je-arbeidsongeval",
+    "content": {
+      "en": {
+        "title": "Revision or Aggravation Allowance after a Public-Sector Work Accident",
+        "desc": "If you are a civil servant and your health gets worse after your work accident file was closed, you can ask for a new assessment. Within 3 years of the closure you ask for a revision of your permanent incapacity percentage; after those 3 years you can ask for an aggravation allowance if your condition has permanently worsened. In both cases the worsening must be based on a new fact that was not known or foreseeable when your incapacity was set. Medex examines you; your employer decides on the payment.",
+        "deadline": "Revision: within 3 years of the decision of recovery or the final settlement (fixed, cannot be extended). Aggravation allowance: after those 3 years.",
+        "amount": "Revision: a new incapacity percentage; aggravation allowance: a flat-rate amount (a higher percentage does not automatically mean a proportionally higher payment)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Written request plus all relevant medical evidence (may be in a closed envelope addressed to Medex)"
+          }
+        ],
+        "steps": [
+          "Send your written request and medical evidence to your employer, which checks it and forwards it to Medex",
+          "Medex invites you for a medical examination (for a revision within 3 months of receiving the request)",
+          "Medex sends its conclusions to your employer, which informs you and settles the payment"
+        ]
+      },
+      "nl": {
+        "title": "Herziening of verergeringsbijslag na een arbeidsongeval in de overheidssector",
+        "desc": "Ben je ambtenaar en wordt je gezondheid slechter nadat je arbeidsongevallendossier werd afgesloten, dan kan je een nieuwe beoordeling vragen. Binnen 3 jaar na de afsluiting vraag je een herziening van je percentage blijvende arbeidsongeschiktheid; na die 3 jaar kan je een verergeringsbijslag vragen als je toestand blijvend verslechterd is. In beide gevallen moet de verslechtering steunen op een nieuw feit dat niet gekend of voorspelbaar was toen je ongeschiktheid werd vastgesteld. Medex onderzoekt je; je werkgever beslist over de betaling.",
+        "deadline": "Herziening: binnen 3 jaar na de genezingsbeslissing of de definitieve afhandeling (vaste termijn, niet te verlengen). Verergeringsbijslag: na die 3 jaar.",
+        "amount": "Herziening: een nieuw percentage ongeschiktheid; verergeringsbijslag: een forfaitair bedrag (een hoger percentage leidt niet automatisch tot een evenredig hogere vergoeding)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schriftelijke aanvraag plus alle relevante medische bewijsstukken (mag in een gesloten envelop op naam van Medex)"
+          }
+        ],
+        "steps": [
+          "Bezorg je schriftelijke aanvraag en medische bewijsstukken aan je werkgever, die ze nakijkt en doorstuurt naar Medex",
+          "Medex nodigt je uit voor een medisch onderzoek (bij een herziening binnen 3 maanden na ontvangst van de aanvraag)",
+          "Medex stuurt zijn besluiten naar je werkgever, die je op de hoogte brengt en de betaling regelt"
+        ]
+      },
+      "fr": {
+        "title": "Révision ou allocation d'aggravation après un accident du travail dans le secteur public",
+        "desc": "Si vous êtes fonctionnaire et que votre santé se dégrade après la clôture de votre dossier d'accident du travail, vous pouvez demander une nouvelle évaluation. Dans les 3 ans suivant la clôture, vous demandez une révision de votre pourcentage d'incapacité permanente ; après ces 3 ans, vous pouvez demander une allocation d'aggravation si votre état s'est aggravé durablement. Dans les deux cas, l'aggravation doit reposer sur un fait nouveau, inconnu ou imprévisible lors de la fixation de votre incapacité. Medex vous examine ; votre employeur décide du paiement.",
+        "deadline": "Révision : dans les 3 ans suivant la décision de guérison ou le règlement définitif (délai fixe, non prolongeable). Allocation d'aggravation : après ces 3 ans.",
+        "amount": "Révision : un nouveau pourcentage d'incapacité ; allocation d'aggravation : un montant forfaitaire (un pourcentage plus élevé n'entraîne pas automatiquement une indemnité proportionnellement plus élevée)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Demande écrite et toutes les pièces médicales utiles (peuvent être dans une enveloppe fermée adressée à Medex)"
+          }
+        ],
+        "steps": [
+          "Remettez votre demande écrite et vos pièces médicales à votre employeur, qui la vérifie et la transmet à Medex",
+          "Medex vous convoque à un examen médical (pour une révision dans les 3 mois suivant la réception de la demande)",
+          "Medex envoie ses conclusions à votre employeur, qui vous informe et règle le paiement"
+        ]
+      },
+      "de": {
+        "title": "Revision oder Verschlimmerungszulage nach einem Arbeitsunfall im öffentlichen Dienst",
+        "desc": "Wenn Sie Beamter sind und sich Ihre Gesundheit nach Abschluss Ihrer Arbeitsunfallakte verschlechtert, können Sie eine neue Bewertung beantragen. Innerhalb von 3 Jahren nach dem Abschluss beantragen Sie eine Revision Ihres Prozentsatzes dauerhafter Arbeitsunfähigkeit; danach können Sie eine Verschlimmerungszulage beantragen, wenn sich Ihr Zustand dauerhaft verschlechtert hat. In beiden Fällen muss die Verschlechterung auf einer neuen Tatsache beruhen, die bei der Festlegung nicht bekannt oder vorhersehbar war. Medex untersucht Sie; Ihr Arbeitgeber entscheidet über die Zahlung.",
+        "deadline": "Revision: innerhalb von 3 Jahren nach der Heilungsentscheidung oder endgültigen Regelung (feste Frist, nicht verlängerbar). Verschlimmerungszulage: nach diesen 3 Jahren.",
+        "amount": "Revision: ein neuer Prozentsatz der Arbeitsunfähigkeit; Verschlimmerungszulage: ein Pauschalbetrag (ein höherer Prozentsatz bedeutet nicht automatisch eine proportional höhere Zahlung)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schriftlicher Antrag mit allen relevanten medizinischen Nachweisen (darf in einem verschlossenen Umschlag an Medex sein)"
+          }
+        ],
+        "steps": [
+          "Geben Sie Ihren schriftlichen Antrag und die medizinischen Nachweise Ihrem Arbeitgeber, der ihn prüft und an Medex weiterleitet",
+          "Medex lädt Sie zu einer ärztlichen Untersuchung ein (bei einer Revision innerhalb von 3 Monaten nach Eingang)",
+          "Medex schickt die Befunde an Ihren Arbeitgeber, der Sie informiert und die Zahlung regelt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.health.belgium.be/nl/professionals/medex/overheidspersoneel/arbeidsongeval/verloop-je-arbeidsongeval",
+      "conditions": {
+        "en": [
+          "You are a statutory or contractual civil servant whose work accident was recognised and closed.",
+          "Your health has worsened because of a new fact that was not known, foreseeable or very likely when your permanent incapacity was set.",
+          "For the aggravation allowance: the worsening is permanent, occurs after the 3-year revision period, and your permanent incapacity is at least 10% afterwards."
+        ],
+        "nl": [
+          "Je bent statutair of contractueel ambtenaar en je arbeidsongeval werd erkend en afgesloten.",
+          "Je gezondheid is verslechterd door een nieuw feit dat niet gekend, niet voorspelbaar en niet hoogstwaarschijnlijk was toen je blijvende ongeschiktheid werd vastgesteld.",
+          "Voor de verergeringsbijslag: de verslechtering is blijvend, doet zich voor na de herzieningstermijn van 3 jaar, en je blijvende ongeschiktheid bedraagt daarna minstens 10%."
+        ],
+        "fr": [
+          "Vous êtes fonctionnaire statutaire ou contractuel(le) et votre accident du travail a été reconnu et clôturé.",
+          "Votre santé s'est dégradée en raison d'un fait nouveau qui n'était ni connu, ni prévisible, ni très probable lors de la fixation de votre incapacité permanente.",
+          "Pour l'allocation d'aggravation : l'aggravation est durable, survient après le délai de révision de 3 ans, et votre incapacité permanente atteint ensuite au moins 10 %."
+        ],
+        "de": [
+          "Sie sind statutarischer oder vertraglicher Beamter, und Ihr Arbeitsunfall wurde anerkannt und abgeschlossen.",
+          "Ihre Gesundheit hat sich durch eine neue Tatsache verschlechtert, die bei der Festlegung der dauerhaften Arbeitsunfähigkeit weder bekannt, vorhersehbar noch sehr wahrscheinlich war.",
+          "Für die Verschlimmerungszulage: Die Verschlechterung ist dauerhaft, tritt nach der 3-jährigen Revisionsfrist ein, und Ihre dauerhafte Arbeitsunfähigkeit beträgt danach mindestens 10 %."
+        ]
+      }
+    }
+  },
+  {
+    "id": 307,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Fedris (Federaal agentschap voor beroepsrisico's / Agence fédérale des risques professionnels)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.fedris.be/nl/themas/vergoedingen-ao/vergoedingen-de-publieke-sector",
+    "content": {
+      "en": {
+        "title": "Travel Costs Refunded after a Public-Sector Work Accident",
+        "desc": "After a recognised work accident in the public sector, necessary trips are refunded: to get care or examinations because of the accident, or when the medical service (usually Medex) or the labour court asks you to come. Public transport is refunded in full, your own car at €0.4427 per km, and an urgent taxi or ambulance in full with a doctor's report. Close family members visiting you in hospital also get trips refunded.",
+        "deadline": "No deadline stated.",
+        "amount": "Public transport in full; own car €0.4427 per km for round trips of at least 5 km (parking not refunded); urgent taxi or ambulance in full",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Original tickets or proof of payment; for urgent taxi or ambulance, a medical report from your doctor"
+          }
+        ],
+        "steps": [
+          "Federal government employer: fill in the form 'verplaatsingskosten arbeidsongeval' and send it to Medex",
+          "Any other public employer: ask your employer for the refund"
+        ]
+      },
+      "nl": {
+        "title": "Terugbetaling van verplaatsingskosten na een arbeidsongeval in de publieke sector",
+        "desc": "Na een erkend arbeidsongeval in de publieke sector worden noodzakelijke verplaatsingen terugbetaald: om je te laten verzorgen of onderzoeken door het ongeval, of als de medische dienst (meestal Medex) of de arbeidsrechtbank je oproept. Openbaar vervoer wordt volledig terugbetaald, eigen vervoer aan 0,4427 euro per km, en een dringende taxi of ziekenwagen volledig met een medisch verslag. Ook naaste familieleden die je in het ziekenhuis bezoeken krijgen verplaatsingen terugbetaald.",
+        "deadline": "Geen termijn vermeld.",
+        "amount": "Openbaar vervoer volledig; eigen vervoer 0,4427 euro per km bij minstens 5 km heen en terug (parking niet terugbetaald); dringende taxi of ziekenwagen volledig",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Originele vervoerbewijzen of betalingsbewijzen; bij dringende taxi of ziekenwagen een medisch verslag van je arts"
+          }
+        ],
+        "steps": [
+          "Werkgever is een federale overheid: vul het formulier 'verplaatsingskosten arbeidsongeval' in en bezorg het aan Medex",
+          "Andere publieke werkgever: vraag de terugbetaling aan bij je werkgever"
+        ]
+      },
+      "fr": {
+        "title": "Remboursement des frais de déplacement après un accident du travail dans le secteur public",
+        "desc": "Après un accident du travail reconnu dans le secteur public, les déplacements nécessaires sont remboursés : pour des soins ou examens liés à l'accident, ou quand le service médical (généralement Medex) ou le tribunal du travail vous convoque. Les transports en commun sont remboursés intégralement, votre véhicule à 0,4427 € par km, et un taxi ou une ambulance urgents intégralement avec un rapport médical. Les proches qui vous rendent visite à l'hôpital sont aussi remboursés.",
+        "deadline": "Aucun délai indiqué.",
+        "amount": "Transports en commun intégralement ; véhicule personnel 0,4427 € par km pour au moins 5 km aller-retour (parking non remboursé) ; taxi ou ambulance urgents intégralement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Titres de transport ou preuves de paiement originaux ; pour un taxi ou une ambulance urgents, un rapport médical de votre médecin"
+          }
+        ],
+        "steps": [
+          "Employeur fédéral : remplissez le formulaire « frais de déplacement accident du travail » et envoyez-le à Medex",
+          "Autre employeur public : demandez le remboursement à votre employeur"
+        ]
+      },
+      "de": {
+        "title": "Erstattung von Fahrtkosten nach einem Arbeitsunfall im öffentlichen Dienst",
+        "desc": "Nach einem anerkannten Arbeitsunfall im öffentlichen Dienst werden notwendige Fahrten erstattet: zu Behandlungen oder Untersuchungen wegen des Unfalls oder wenn der medizinische Dienst (meist Medex) oder das Arbeitsgericht Sie vorlädt. Öffentliche Verkehrsmittel werden voll erstattet, das eigene Auto mit 0,4427 € pro km, ein dringendes Taxi oder ein Krankenwagen voll mit ärztlichem Bericht. Auch nahe Angehörige, die Sie im Krankenhaus besuchen, erhalten Fahrten erstattet.",
+        "deadline": "Keine Frist angegeben.",
+        "amount": "Öffentliche Verkehrsmittel voll; eigenes Fahrzeug 0,4427 € pro km bei mindestens 5 km hin und zurück (Parken nicht erstattet); dringendes Taxi oder Krankenwagen voll",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Originalfahrscheine oder Zahlungsbelege; bei dringendem Taxi oder Krankenwagen ein ärztlicher Bericht"
+          }
+        ],
+        "steps": [
+          "Föderaler Arbeitgeber: Füllen Sie das Formular „Fahrtkosten Arbeitsunfall“ aus und senden Sie es an Medex",
+          "Anderer öffentlicher Arbeitgeber: Beantragen Sie die Erstattung bei Ihrem Arbeitgeber"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.fedris.be/nl/themas/vergoedingen-ao/vergoedingen-de-publieke-sector",
+      "conditions": {
+        "en": [
+          "You work in the public sector and your work accident has been recognised.",
+          "The trip was needed for care or examinations due to the accident, or at the request of the medical service or the labour court."
+        ],
+        "nl": [
+          "Je werkt in de publieke sector en je arbeidsongeval werd erkend.",
+          "De verplaatsing was nodig voor verzorging of onderzoek door het ongeval, of op vraag van de medische dienst of de arbeidsrechtbank."
+        ],
+        "fr": [
+          "Vous travaillez dans le secteur public et votre accident du travail a été reconnu.",
+          "Le déplacement était nécessaire pour des soins ou examens liés à l'accident, ou à la demande du service médical ou du tribunal du travail."
+        ],
+        "de": [
+          "Sie arbeiten im öffentlichen Dienst und Ihr Arbeitsunfall wurde anerkannt.",
+          "Die Fahrt war für Behandlung oder Untersuchung wegen des Unfalls nötig oder erfolgte auf Verlangen des medizinischen Dienstes oder des Arbeitsgerichts."
+        ]
+      }
+    }
+  },
+  {
+    "id": 308,
+    "category": "employment",
+    "situations": [
+      "job-loss",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/tewerkstelling---opleiding/herstructurering/uw-rechten-en-plichten-in-het-kader-van-de-herstructurering-van-het-bedrijf-waarvoor-u-werkt",
+    "content": {
+      "en": {
+        "title": "Rights after Collective Dismissal in a Restructuring (Integration Pay and Reduction Card)",
+        "desc": "If you are dismissed by a private employer in restructuring that set up an employment cell, you must register with that employment cell. With at least 1 year of uninterrupted service you then receive an integration allowance (inschakelingsvergoeding) equal to your current wage, paid by your employer. You also automatically receive a restructuring reduction card from the RVA: if you start working for a new employer while it is valid, your personal social security contributions can be reduced, so you earn a higher net wage.",
+        "deadline": "Stay registered in the employment cell for 3 months (under 45 at the announcement) or 6 months (45 or older); the reduction card is valid until 12 months after your registration.",
+        "amount": "Integration allowance equal to your current wage for up to 3 or 6 months; with a new job, a reduction of personal contributions of up to €133.33 a month (full-time full month; ×1.08 for manual workers), depending on your wage",
+        "requirements": [],
+        "steps": [
+          "Register in the employment cell set up by your employer (ask your regional employment service how)",
+          "Accept the outplacement offer and any suitable training offered in the cell",
+          "Show the reduction card you receive from the RVA to a new employer, so it applies the lower contributions to your net wage"
+        ]
+      },
+      "nl": {
+        "title": "Rechten bij ontslag na herstructurering (inschakelingsvergoeding en verminderingskaart)",
+        "desc": "Word je ontslagen door een private werkgever in herstructurering die een tewerkstellingscel heeft opgericht, dan moet je je inschrijven in die tewerkstellingscel. Met minstens 1 jaar ononderbroken dienstanciënniteit krijg je dan een inschakelingsvergoeding gelijk aan je lopend loon, betaald door je werkgever. Je krijgt ook automatisch een verminderingskaart herstructureringen van de RVA: ga je tijdens de geldigheid ervan aan het werk bij een nieuwe werkgever, dan kunnen je persoonlijke RSZ-bijdragen dalen en krijg je een hoger nettoloon.",
+        "deadline": "Blijf 3 maanden (jonger dan 45 bij de aankondiging) of 6 maanden (45 of ouder) ingeschreven in de tewerkstellingscel; de verminderingskaart is geldig tot 12 maanden na je inschrijving.",
+        "amount": "Inschakelingsvergoeding gelijk aan je lopend loon gedurende maximaal 3 of 6 maanden; bij een nieuwe job een vermindering van je persoonlijke bijdragen tot 133,33 euro per maand (voltijdse volledige maand; ×1,08 voor arbeiders), afhankelijk van je loon",
+        "requirements": [],
+        "steps": [
+          "Schrijf je in in de tewerkstellingscel die je werkgever oprichtte (je gewestelijke dienst voor arbeidsbemiddeling legt uit hoe)",
+          "Aanvaard het outplacementaanbod en elke passende opleiding die de cel aanbiedt",
+          "Toon de verminderingskaart die je van de RVA krijgt aan een nieuwe werkgever, zodat die de lagere bijdragen toepast op je nettoloon"
+        ]
+      },
+      "fr": {
+        "title": "Droits en cas de licenciement lors d'une restructuration (indemnité de reclassement et carte de réduction)",
+        "desc": "Si vous êtes licencié(e) par un employeur privé en restructuration qui a mis en place une cellule pour l'emploi, vous devez vous y inscrire. Avec au moins 1 an d'ancienneté ininterrompue, vous recevez alors une indemnité de reclassement égale à votre rémunération en cours, payée par votre employeur. Vous recevez aussi automatiquement de l'ONEM une carte de réduction restructurations : si vous travaillez pour un nouvel employeur pendant sa validité, vos cotisations personnelles de sécurité sociale peuvent être réduites et votre salaire net augmente.",
+        "deadline": "Restez inscrit(e) 3 mois (moins de 45 ans à l'annonce) ou 6 mois (45 ans ou plus) dans la cellule pour l'emploi ; la carte de réduction est valable jusqu'à 12 mois après votre inscription.",
+        "amount": "Indemnité de reclassement égale à votre rémunération pendant 3 ou 6 mois maximum ; avec un nouvel emploi, une réduction de vos cotisations personnelles jusqu'à 133,33 € par mois (mois complet à temps plein ; ×1,08 pour les ouvriers), selon votre salaire",
+        "requirements": [],
+        "steps": [
+          "Inscrivez-vous dans la cellule pour l'emploi créée par votre employeur (votre service régional de l'emploi vous explique comment)",
+          "Acceptez l'offre d'outplacement et toute formation adaptée proposée par la cellule",
+          "Montrez la carte de réduction reçue de l'ONEM à un nouvel employeur pour qu'il applique les cotisations réduites à votre salaire net"
+        ]
+      },
+      "de": {
+        "title": "Rechte bei Entlassung nach einer Umstrukturierung (Eingliederungsentschädigung und Ermäßigungskarte)",
+        "desc": "Wenn Sie von einem privaten Arbeitgeber in Umstrukturierung entlassen werden, der eine Beschäftigungszelle eingerichtet hat, müssen Sie sich dort einschreiben. Mit mindestens 1 Jahr ununterbrochener Betriebszugehörigkeit erhalten Sie dann eine Eingliederungsentschädigung in Höhe Ihres laufenden Lohns, gezahlt vom Arbeitgeber. Sie erhalten außerdem automatisch eine Ermäßigungskarte Umstrukturierungen vom LfA: Arbeiten Sie während ihrer Gültigkeit bei einem neuen Arbeitgeber, können Ihre persönlichen Sozialbeiträge sinken und Ihr Nettolohn steigt.",
+        "deadline": "Bleiben Sie 3 Monate (unter 45 bei der Ankündigung) oder 6 Monate (45 oder älter) in der Beschäftigungszelle eingeschrieben; die Ermäßigungskarte gilt bis 12 Monate nach Ihrer Einschreibung.",
+        "amount": "Eingliederungsentschädigung in Höhe Ihres Lohns für höchstens 3 oder 6 Monate; bei neuer Stelle eine Senkung Ihrer persönlichen Beiträge um bis zu 133,33 € pro Monat (voller Vollzeitmonat; ×1,08 für Arbeiter), abhängig vom Lohn",
+        "requirements": [],
+        "steps": [
+          "Schreiben Sie sich in der von Ihrem Arbeitgeber eingerichteten Beschäftigungszelle ein (Ihr regionaler Arbeitsvermittlungsdienst erklärt, wie)",
+          "Nehmen Sie das Outplacement-Angebot und jede passende Schulung der Zelle an",
+          "Zeigen Sie die vom LfA erhaltene Ermäßigungskarte einem neuen Arbeitgeber, damit er die niedrigeren Beiträge anwendet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/tewerkstelling---opleiding/herstructurering/uw-rechten-en-plichten-in-het-kader-van-de-herstructurering-van-het-bedrijf-waarvoor-u-werkt",
+      "conditions": {
+        "en": [
+          "You were dismissed during the recognition period by a private-sector employer in restructuring that set up an employment cell, and you worked in the company when the collective dismissal was announced (or your fixed-term or temp contract was not renewed because of it).",
+          "For the integration allowance: at least 1 year of uninterrupted service at the announcement, and registration in the employment cell.",
+          "For the contribution reduction: your reference monthly wage stays below a ceiling that depends on whether you are under or over 30."
+        ],
+        "nl": [
+          "Je werd tijdens de erkenningsperiode ontslagen door een private werkgever in herstructurering die een tewerkstellingscel oprichtte, en je werkte in het bedrijf bij de aankondiging van het collectief ontslag (of je contract van bepaalde duur of uitzendcontract werd daardoor niet verlengd).",
+          "Voor de inschakelingsvergoeding: minstens 1 jaar ononderbroken dienstanciënniteit bij de aankondiging, en inschrijving in de tewerkstellingscel.",
+          "Voor de bijdragevermindering: je refertemaandloon blijft onder een grensbedrag dat afhangt van of je jonger of ouder bent dan 30."
+        ],
+        "fr": [
+          "Vous avez été licencié(e) pendant la période de reconnaissance par un employeur privé en restructuration ayant créé une cellule pour l'emploi, et vous travailliez dans l'entreprise à l'annonce du licenciement collectif (ou votre contrat à durée déterminée ou intérimaire n'a pas été renouvelé pour cette raison).",
+          "Pour l'indemnité de reclassement : au moins 1 an d'ancienneté ininterrompue à l'annonce, et inscription dans la cellule pour l'emploi.",
+          "Pour la réduction de cotisations : votre salaire mensuel de référence reste sous un plafond qui dépend de votre âge (moins ou plus de 30 ans)."
+        ],
+        "de": [
+          "Sie wurden während des Anerkennungszeitraums von einem privaten Arbeitgeber in Umstrukturierung mit Beschäftigungszelle entlassen und arbeiteten bei der Ankündigung der Massenentlassung im Betrieb (oder Ihr befristeter oder Leiharbeitsvertrag wurde deshalb nicht verlängert).",
+          "Für die Eingliederungsentschädigung: mindestens 1 Jahr ununterbrochene Betriebszugehörigkeit bei der Ankündigung und Einschreibung in die Beschäftigungszelle.",
+          "Für die Beitragssenkung: Ihr Referenzmonatslohn bleibt unter einer Grenze, die davon abhängt, ob Sie unter oder über 30 sind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 309,
+    "category": "other",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Federale Pensioendienst / Service fédéral des Pensions",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers",
+    "content": {
+      "en": {
+        "title": "Civilian War Invalidity Pension",
+        "desc": "If you suffered physical harm from an act of war in 1914–1918, 1940–1945, the independence wars in Congo, Rwanda and Burundi, or the Tessenderlo disaster of 29 April 1942, you can ask for an invalidity pension. Widows and other beneficiaries of a recognised invalid can also apply, as can recognised invalids whose condition has worsened. The amount depends on your degree of invalidity and is indexed. Medical expenses are then reimbursed through the HZIV (War Victims Directorate).",
+        "deadline": "The pension starts on the first day of the quarter after your application. You can appeal a decision within 60 days.",
+        "amount": "Depends on your degree of invalidity; indexed",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of Belgian nationality, your written account of what happened, and a detailed medical report linking your invalidity to the act of war"
+          }
+        ],
+        "steps": [
+          "Send a personally signed registered letter with the documents to: Federal Pension Service, Cell Civilian Victims of War and Terrorism, Zuidertoren, Europaesplanade 1, 1060 Brussels (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)",
+          "You are examined by the Forensic Medical Service; the Civil Invalidity Commission then decides"
+        ]
+      },
+      "nl": {
+        "title": "Invaliditeitspensioen voor burgerlijke oorlogsinvaliden",
+        "desc": "Liep je lichamelijke schade op door een oorlogshandeling tijdens 1914-1918, 1940-1945, de onafhankelijkheidsoorlogen in Kongo, Rwanda en Burundi, of de ramp in Tessenderlo van 29 april 1942, dan kan je een invaliditeitspensioen aanvragen. Ook weduwen en andere rechthebbenden van een erkende invalide kunnen aanvragen, net als erkende invaliden van wie de toestand verergerd is. Het bedrag hangt af van je invaliditeitsgraad en is geïndexeerd. De medische verzorging wordt daarna terugbetaald via de HZIV (Directie Oorlogsslachtoffers).",
+        "deadline": "Het pensioen gaat in op de eerste dag van het kwartaal na je aanvraag. Tegen een beslissing kan je binnen 60 dagen in beroep gaan.",
+        "amount": "Afhankelijk van je invaliditeitsgraad; geïndexeerd",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van Belgische nationaliteit, je getuigenis over wat er gebeurde, en een uitvoerig medisch verslag over je invaliditeit en het verband met de oorlogshandeling"
+          }
+        ],
+        "steps": [
+          "Stuur een persoonlijk ondertekende aangetekende brief met de stukken naar: Federale Pensioendienst, Cel Burgerslachtoffers van oorlog en terrorisme, Zuidertoren, Europaesplanade 1, 1060 Brussel (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)",
+          "Je wordt onderzocht door de Gerechtelijk-Geneeskundige Dienst; daarna beslist de Burgerlijke Invaliditeitscommissie"
+        ]
+      },
+      "fr": {
+        "title": "Pension d'invalidité pour invalides civils de guerre",
+        "desc": "Si vous avez subi un dommage physique dû à un fait de guerre en 1914-1918, 1940-1945, lors des guerres d'indépendance au Congo, au Rwanda et au Burundi, ou lors de la catastrophe de Tessenderlo du 29 avril 1942, vous pouvez demander une pension d'invalidité. Les veuves et autres ayants droit d'un invalide reconnu peuvent aussi la demander, de même que les invalides reconnus dont l'état s'est aggravé. Le montant dépend du degré d'invalidité et est indexé. Les soins médicaux sont ensuite remboursés via la CAAMI (Direction Victimes de guerre).",
+        "deadline": "La pension prend cours le premier jour du trimestre suivant la demande. Vous pouvez faire appel d'une décision dans les 60 jours.",
+        "amount": "Selon le degré d'invalidité ; indexé",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve de nationalité belge, votre témoignage sur les faits, et un rapport médical détaillé établissant le lien entre votre invalidité et le fait de guerre"
+          }
+        ],
+        "steps": [
+          "Envoyez une lettre recommandée signée personnellement avec les documents à : Service fédéral des Pensions, Cellule Victimes civiles de la guerre et du terrorisme, Tour du Midi, Esplanade de l'Europe 1, 1060 Bruxelles (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)",
+          "Vous êtes examiné(e) par l'Office médico-légal ; la Commission d'invalidité civile décide ensuite"
+        ]
+      },
+      "de": {
+        "title": "Invaliditätspension für zivile Kriegsinvaliden",
+        "desc": "Wenn Sie durch eine Kriegshandlung 1914–1918, 1940–1945, in den Unabhängigkeitskriegen in Kongo, Ruanda und Burundi oder bei der Katastrophe von Tessenderlo am 29. April 1942 körperlich geschädigt wurden, können Sie eine Invaliditätspension beantragen. Auch Witwen und andere Berechtigte eines anerkannten Invaliden sowie anerkannte Invaliden mit verschlechtertem Zustand können sie beantragen. Der Betrag hängt vom Invaliditätsgrad ab und ist indexiert. Medizinische Versorgung wird danach über die HKIV (Direktion Kriegsopfer) erstattet.",
+        "deadline": "Die Pension beginnt am ersten Tag des Quartals nach Ihrem Antrag. Gegen eine Entscheidung können Sie innerhalb von 60 Tagen Berufung einlegen.",
+        "amount": "Abhängig vom Invaliditätsgrad; indexiert",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis der belgischen Staatsangehörigkeit, Ihr schriftlicher Bericht über das Geschehene und ein ausführlicher ärztlicher Bericht zum Zusammenhang mit der Kriegshandlung"
+          }
+        ],
+        "steps": [
+          "Senden Sie einen persönlich unterschriebenen Einschreibebrief mit den Unterlagen an: Föderaler Pensionsdienst, Zelle Zivile Kriegs- und Terroropfer, Südturm, Europaesplanade 1, 1060 Brüssel (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)",
+          "Sie werden vom Gerichtsmedizinischen Dienst untersucht; danach entscheidet die Kommission für Zivilinvalidität"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers",
+      "conditions": {
+        "en": [
+          "You are Belgian on the date of the decision and were Belgian at the time of the war acts or applied for naturalisation before 10 May 1940 (otherwise: Belgian before 1 January 2003, at most 22 on 10 May 1940, and normally resident in Belgium at the time of the war acts).",
+          "You suffered physical harm (or its worsening or complications), medically and legally linked to an act of war in one of the listed conflicts; or you are a beneficiary (e.g. widow) of a recognised invalid."
+        ],
+        "nl": [
+          "Je bent Belg op de datum van de beslissing en was Belg op het moment van de oorlogsfeiten of vroeg je naturalisatie aan vóór 10 mei 1940 (anders: Belg geworden vóór 1 januari 2003, maximaal 22 jaar op 10 mei 1940, en gewone verblijfplaats in België op het moment van de oorlogshandelingen).",
+          "Je liep lichamelijke schade op (of een verergering of complicaties ervan), medisch en juridisch verbonden met een oorlogshandeling in een van de genoemde conflicten; of je bent rechthebbende (bv. weduwe) van een erkende invalide."
+        ],
+        "fr": [
+          "Vous êtes belge à la date de la décision et l'étiez au moment des faits de guerre, ou avez demandé votre naturalisation avant le 10 mai 1940 (sinon : devenu belge avant le 1er janvier 2003, 22 ans au plus le 10 mai 1940, et résidence habituelle en Belgique au moment des faits).",
+          "Vous avez subi un dommage physique (ou son aggravation ou ses complications), lié médicalement et juridiquement à un fait de guerre d'un des conflits cités ; ou vous êtes ayant droit (p. ex. veuve) d'un invalide reconnu."
+        ],
+        "de": [
+          "Sie sind Belgier am Tag der Entscheidung und waren es zur Zeit der Kriegshandlungen oder haben die Einbürgerung vor dem 10. Mai 1940 beantragt (sonst: Belgier vor dem 1. Januar 2003, höchstens 22 am 10. Mai 1940 und gewöhnlicher Aufenthalt in Belgien zur Zeit der Kriegshandlungen).",
+          "Sie haben einen Körperschaden (oder dessen Verschlimmerung oder Komplikationen) erlitten, medizinisch und rechtlich mit einer Kriegshandlung eines der genannten Konflikte verbunden; oder Sie sind Berechtigte(r) (z. B. Witwe) eines anerkannten Invaliden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 310,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Federale Pensioendienst / Service fédéral des Pensions",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers",
+    "content": {
+      "en": {
+        "title": "Life Annuity for Victims of Racial Persecution (1940–1945)",
+        "desc": "If both your parents were deported from Belgium under the occupier's racial persecution measures and died during deportation, or if you had to live in hiding to escape those measures, you are entitled to a personal life annuity. On top of it you get reimbursement of medical co-payments through the HZIV and free public transport with a certificate from the Federal Pension Service. You can receive only one annuity, and a posthumous application is not possible.",
+        "deadline": "No deadline; the procedure lapses if the applicant dies.",
+        "amount": "€477.59 a year (linked to the consumer price index)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "All supporting evidence (e.g. documents on the deportation and death of your parents, or on your life in hiding; birth records proving parentage)"
+          }
+        ],
+        "steps": [
+          "Fill in and personally sign the form 'Application for the orphan's annuity ... or the hiding annuity due to racial persecution measures'",
+          "Send it with all evidence to: Federal Pension Service, Cell Civilian Victims of War and Terrorism, Zuidertoren, Europaesplanade 1, 1060 Brussels (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)"
+        ]
+      },
+      "nl": {
+        "title": "Lijfrente voor slachtoffers van raciale vervolgingen (1940-1945)",
+        "desc": "Werden je vader en moeder uit België weggevoerd door de raciale vervolgingsmaatregelen van de bezetter en zijn ze tijdens de deportatie overleden, of moest je ondergedoken leven om aan die maatregelen te ontsnappen, dan heb je recht op een persoonlijke lijfrente. Daarbovenop krijg je terugbetaling van het remgeld via de HZIV en kosteloos openbaar vervoer met een attest van de Federale Pensioendienst. Je hebt recht op slechts één rente, en een postume aanvraag is niet mogelijk.",
+        "deadline": "Geen deadline; de procedure vervalt als de aanvrager overlijdt.",
+        "amount": "477,59 euro per jaar (gekoppeld aan de index van de consumptieprijzen)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Alle bewijsstukken (bv. documenten over de deportatie en het overlijden van je ouders, of over je ondergedoken leven; akten van de burgerlijke stand die de afstamming bewijzen)"
+          }
+        ],
+        "steps": [
+          "Vul het formulier 'Aanvraag voor de wezenrente van vader en moeder overleden tijdens de deportatie of voor de clandestiniteitsrente als gevolg van de raciale vervolgingsmaatregelen' in en onderteken het persoonlijk",
+          "Stuur het met alle bewijsstukken naar: Federale Pensioendienst, Cel Burgerslachtoffers van oorlog en terrorisme, Zuidertoren, Europaesplanade 1, 1060 Brussel (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)"
+        ]
+      },
+      "fr": {
+        "title": "Rente viagère pour les victimes des persécutions raciales (1940-1945)",
+        "desc": "Si vos deux parents ont été déportés de Belgique en raison des mesures de persécution raciale de l'occupant et sont décédés pendant la déportation, ou si vous avez dû vivre dans la clandestinité pour y échapper, vous avez droit à une rente viagère personnelle. En plus, vous obtenez le remboursement du ticket modérateur via la CAAMI et la gratuité des transports en commun avec une attestation du Service fédéral des Pensions. Vous n'avez droit qu'à une seule rente, et une demande posthume n'est pas possible.",
+        "deadline": "Pas de délai ; la procédure s'éteint au décès du demandeur.",
+        "amount": "477,59 € par an (lié à l'indice des prix à la consommation)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Toutes les pièces justificatives (p. ex. documents sur la déportation et le décès de vos parents, ou sur votre vie dans la clandestinité ; actes d'état civil prouvant la filiation)"
+          }
+        ],
+        "steps": [
+          "Remplissez et signez personnellement le formulaire de demande de rente d'orphelin ou de rente de clandestinité suite aux mesures de persécution raciale",
+          "Envoyez-le avec toutes les pièces à : Service fédéral des Pensions, Cellule Victimes civiles de la guerre et du terrorisme, Tour du Midi, Esplanade de l'Europe 1, 1060 Bruxelles (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)"
+        ]
+      },
+      "de": {
+        "title": "Leibrente für Opfer rassischer Verfolgung (1940–1945)",
+        "desc": "Wenn Ihre beiden Eltern aufgrund der rassischen Verfolgungsmaßnahmen der Besatzer aus Belgien deportiert wurden und während der Deportation starben oder Sie im Versteck leben mussten, um diesen Maßnahmen zu entgehen, haben Sie Anspruch auf eine persönliche Leibrente. Zusätzlich erhalten Sie die Erstattung von Eigenanteilen über die HKIV und kostenlose öffentliche Verkehrsmittel mit einer Bescheinigung des Föderalen Pensionsdienstes. Sie haben nur Anspruch auf eine Rente; ein Antrag nach dem Tod ist nicht möglich.",
+        "deadline": "Keine Frist; das Verfahren erlischt mit dem Tod des Antragstellers.",
+        "amount": "477,59 € pro Jahr (an den Verbraucherpreisindex gekoppelt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Alle Nachweise (z. B. Dokumente zur Deportation und zum Tod Ihrer Eltern oder zu Ihrem Leben im Versteck; Personenstandsurkunden zur Abstammung)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular für die Waisen- oder Versteckrente infolge rassischer Verfolgungsmaßnahmen aus und unterschreiben Sie es persönlich",
+          "Senden Sie es mit allen Nachweisen an: Föderaler Pensionsdienst, Zelle Zivile Kriegs- und Terroropfer, Südturm, Europaesplanade 1, 1060 Brüssel (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers",
+      "conditions": {
+        "en": [
+          "Both your parents were deported from Belgium under racial persecution measures and died during deportation; you were under 21 on 10 May 1940, were Belgian on 1 January 2003, lived in Belgium on 10 May 1940 (or were born later to parents living in Belgium then), and never received orphan's pensions under the compensation pension laws.",
+          "Or you had to live in hiding because of the occupier's racial persecution measures, lived in Belgium on 10 May 1940 (or were born later to parents living in Belgium then), and were Belgian on 1 January 2003."
+        ],
+        "nl": [
+          "Je vader en moeder werden uit België weggevoerd door raciale vervolgingsmaatregelen en overleden tijdens de deportatie; je was jonger dan 21 op 10 mei 1940, was Belg op 1 januari 2003, woonde in België op 10 mei 1940 (of bent later geboren uit ouders die toen in België woonden), en had nooit recht op wezenpensioenen krachtens de wetten op de vergoedingspensioenen.",
+          "Of je moest ondergedoken leven door de raciale vervolgingsmaatregelen van de bezetter, woonde in België op 10 mei 1940 (of bent later geboren uit ouders die toen in België woonden), en was Belg op 1 januari 2003."
+        ],
+        "fr": [
+          "Vos deux parents ont été déportés de Belgique en raison des persécutions raciales et sont décédés pendant la déportation ; vous aviez moins de 21 ans le 10 mai 1940, étiez belge le 1er janvier 2003, habitiez en Belgique le 10 mai 1940 (ou êtes né(e) après de parents qui y habitaient alors), et n'avez jamais eu droit à des pensions d'orphelin en vertu des lois sur les pensions de réparation.",
+          "Ou vous avez dû vivre dans la clandestinité en raison des persécutions raciales de l'occupant, habitiez en Belgique le 10 mai 1940 (ou êtes né(e) après de parents qui y habitaient alors), et étiez belge le 1er janvier 2003."
+        ],
+        "de": [
+          "Ihre beiden Eltern wurden aufgrund rassischer Verfolgung aus Belgien deportiert und starben während der Deportation; Sie waren am 10. Mai 1940 unter 21, waren am 1. Januar 2003 Belgier, wohnten am 10. Mai 1940 in Belgien (oder wurden später von damals in Belgien wohnenden Eltern geboren) und hatten nie Anspruch auf Waisenpensionen nach den Gesetzen über Entschädigungspensionen.",
+          "Oder Sie mussten wegen der rassischen Verfolgung der Besatzer im Versteck leben, wohnten am 10. Mai 1940 in Belgien (oder wurden später von damals in Belgien wohnenden Eltern geboren) und waren am 1. Januar 2003 Belgier."
+        ]
+      }
+    }
+  },
+  {
+    "id": 311,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Federale Pensioendienst / Service fédéral des Pensions",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers",
+    "content": {
+      "en": {
+        "title": "Exemption from German Tax on a German War Victim's Pension",
+        "desc": "If you receive a German pension as a war victim and hold a Belgian status of national recognition as a deportee for forced labour, a person forcibly conscripted into the German army, a Jewish deportee, a political prisoner or a prisoner of war, you can ask to be exempted from German tax on it. The exemption is granted on the basis of name lists drawn up by the DG War Victims; if you are not on them, archive searches can often prove your war past, but this is not guaranteed.",
+        "deadline": "No deadline.",
+        "amount": "No German tax on your German war victim's pension",
+        "requirements": [],
+        "steps": [
+          "Ask the Federal Pension Service's statutes department for the forms (statuten@sfpd.fgov.be)",
+          "For more information: Federal Pension Service, Cell Civilian Victims of War and Terrorism, Zuidertoren, Europaesplanade 1, 1060 Brussels (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)"
+        ]
+      },
+      "nl": {
+        "title": "Vrijstelling van Duitse belasting op een Duits oorlogsslachtofferpensioen",
+        "desc": "Ontvang je een Duits pensioen als oorlogsslachtoffer en heb je een Belgisch statuut van nationale erkentelijkheid als weggevoerde voor de verplichte tewerkstelling, verplicht ingelijfde in het Duitse leger, Joodse weggevoerde, politiek gevangene of krijgsgevangene, dan kan je vrijstelling van Duitse belasting op dat pensioen vragen. De vrijstelling wordt toegekend op basis van naamlijsten van de DG Oorlogsslachtoffers; sta je er niet op, dan kan het bewijs vaak in de archieven worden teruggevonden, maar dat is niet gegarandeerd.",
+        "deadline": "Geen deadline.",
+        "amount": "Geen Duitse belasting op je Duits oorlogsslachtofferpensioen",
+        "requirements": [],
+        "steps": [
+          "Vraag de formulieren aan bij de afdeling statuten van de Federale Pensioendienst (statuten@sfpd.fgov.be)",
+          "Meer informatie: Federale Pensioendienst, Cel Burgerslachtoffers van oorlog en terrorisme, Zuidertoren, Europaesplanade 1, 1060 Brussel (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)"
+        ]
+      },
+      "fr": {
+        "title": "Exonération de l'impôt allemand sur une pension allemande de victime de guerre",
+        "desc": "Si vous percevez une pension allemande de victime de guerre et avez un statut belge de reconnaissance nationale comme déporté pour le travail obligatoire, enrôlé de force dans l'armée allemande, déporté juif, prisonnier politique ou prisonnier de guerre, vous pouvez demander l'exonération de l'impôt allemand sur cette pension. L'exonération est accordée sur la base de listes nominatives établies par la DG Victimes de la guerre ; si vous n'y figurez pas, les archives permettent souvent de prouver votre passé de guerre, sans garantie.",
+        "deadline": "Pas de délai.",
+        "amount": "Pas d'impôt allemand sur votre pension allemande de victime de guerre",
+        "requirements": [],
+        "steps": [
+          "Demandez les formulaires à la section statuts du Service fédéral des Pensions (statuten@sfpd.fgov.be)",
+          "Plus d'informations : Service fédéral des Pensions, Cellule Victimes civiles de la guerre et du terrorisme, Tour du Midi, Esplanade de l'Europe 1, 1060 Bruxelles (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)"
+        ]
+      },
+      "de": {
+        "title": "Befreiung von der deutschen Steuer auf eine deutsche Kriegsopferrente",
+        "desc": "Wenn Sie eine deutsche Rente als Kriegsopfer beziehen und einen belgischen Status nationaler Anerkennung als zur Zwangsarbeit Deportierter, zwangsweise in die deutsche Armee Eingezogener, jüdischer Deportierter, politischer Gefangener oder Kriegsgefangener haben, können Sie die Befreiung von der deutschen Steuer darauf beantragen. Die Befreiung beruht auf Namenslisten der GD Kriegsopfer; stehen Sie nicht darauf, lässt sich Ihre Kriegsvergangenheit oft in Archiven nachweisen, ohne Garantie.",
+        "deadline": "Keine Frist.",
+        "amount": "Keine deutsche Steuer auf Ihre deutsche Kriegsopferrente",
+        "requirements": [],
+        "steps": [
+          "Fordern Sie die Formulare bei der Statutenabteilung des Föderalen Pensionsdienstes an (statuten@sfpd.fgov.be)",
+          "Weitere Informationen: Föderaler Pensionsdienst, Zelle Zivile Kriegs- und Terroropfer, Südturm, Europaesplanade 1, 1060 Brüssel (Solidariteitspensioen@sfpd.fgov.be, 02 529 32 03)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.sfpd.fgov.be/nl/recht-op-pensioen/burgerslachtoffers",
+      "conditions": {
+        "en": [
+          "You receive a German pension as a war victim.",
+          "You hold one or more Belgian statuses of national recognition as a deportee for forced labour, forcibly conscripted into the German army, Jewish deportee, political prisoner or prisoner of war."
+        ],
+        "nl": [
+          "Je ontvangt een Duits pensioen als oorlogsslachtoffer.",
+          "Je hebt een of meer Belgische statuten van nationale erkentelijkheid als weggevoerde voor de verplichte tewerkstelling, verplicht ingelijfde in het Duitse leger, Joodse weggevoerde, politiek gevangene of krijgsgevangene."
+        ],
+        "fr": [
+          "Vous percevez une pension allemande de victime de guerre.",
+          "Vous avez un ou plusieurs statuts belges de reconnaissance nationale comme déporté pour le travail obligatoire, enrôlé de force dans l'armée allemande, déporté juif, prisonnier politique ou prisonnier de guerre."
+        ],
+        "de": [
+          "Sie beziehen eine deutsche Rente als Kriegsopfer.",
+          "Sie haben einen oder mehrere belgische Status nationaler Anerkennung als zur Zwangsarbeit Deportierter, zwangsweise in die deutsche Armee Eingezogener, jüdischer Deportierter, politischer Gefangener oder Kriegsgefangener."
+        ]
+      }
+    }
+  },
+  {
+    "id": 312,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Federale Pensioendienst / Service fédéral des Pensions",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.sfpd.fgov.be/nl/pensioenbedrag/berekening/verschillende-soorten-pensioenen/werknemers/speciale-stelsels",
+    "content": {
+      "en": {
+        "title": "Heating Allowance for Retired Miners",
+        "desc": "If you worked in the mines and receive a retirement pension, the Federal Pension Service can grant you a heating allowance, based on the number of years you worked as a miner (up to 30). It is paid every month with your pension. A surviving spouse of an underground miner can receive the allowance their partner was entitled to; a separated spouse can receive half only if entitled to part of the retirement pension. If you lose your pension right, you also lose the allowance.",
+        "deadline": "Paid monthly with your pension.",
+        "amount": "€104.70 a month for 30 years of mining work (proportionally less for fewer years) (amount from 1 September 2026)",
+        "requirements": [],
+        "steps": [
+          "The Federal Pension Service grants the allowance with your retirement pension and pays it monthly",
+          "Questions about your entitlement? Contact the Federal Pension Service"
+        ]
+      },
+      "nl": {
+        "title": "Verwarmingstoelage voor gepensioneerde mijnwerkers",
+        "desc": "Werkte je in de mijnen en ontvang je een rustpensioen, dan kan de Federale Pensioendienst je een verwarmingstoelage toekennen, op basis van het aantal jaren dat je als mijnwerker werkte (maximaal 30). Ze wordt elke maand samen met je pensioen uitbetaald. De langstlevende huwelijkspartner van een ondergronds mijnwerker kan de toelage krijgen waar de partner recht op had; een feitelijk gescheiden partner krijgt de helft enkel als die recht heeft op een deel van het rustpensioen. Verlies je je pensioenrecht, dan verlies je ook de toelage.",
+        "deadline": "Maandelijks betaald met je pensioen.",
+        "amount": "104,70 euro per maand bij 30 jaar mijnwerk (evenredig minder bij minder jaren) (bedrag vanaf 1 september 2026)",
+        "requirements": [],
+        "steps": [
+          "De Federale Pensioendienst kent de toelage toe bij je rustpensioen en betaalt ze maandelijks uit",
+          "Vragen over je recht? Neem contact op met de Federale Pensioendienst"
+        ]
+      },
+      "fr": {
+        "title": "Allocation de chauffage pour mineurs pensionnés",
+        "desc": "Si vous avez travaillé dans les mines et percevez une pension de retraite, le Service fédéral des Pensions peut vous accorder une allocation de chauffage, selon le nombre d'années de travail comme mineur (30 au maximum). Elle est versée chaque mois avec votre pension. Le conjoint survivant d'un mineur de fond peut recevoir l'allocation à laquelle son partenaire avait droit ; un conjoint séparé de fait n'en reçoit la moitié que s'il a droit à une partie de la pension de retraite. Si vous perdez votre droit à la pension, vous perdez aussi l'allocation.",
+        "deadline": "Versée chaque mois avec votre pension.",
+        "amount": "104,70 € par mois pour 30 ans de travail à la mine (proportionnellement moins pour moins d'années) (montant depuis le 1er septembre 2026)",
+        "requirements": [],
+        "steps": [
+          "Le Service fédéral des Pensions accorde l'allocation avec votre pension de retraite et la verse chaque mois",
+          "Des questions sur votre droit ? Contactez le Service fédéral des Pensions"
+        ]
+      },
+      "de": {
+        "title": "Heizzulage für pensionierte Bergleute",
+        "desc": "Wenn Sie im Bergbau gearbeitet haben und eine Ruhestandspension beziehen, kann Ihnen der Föderale Pensionsdienst eine Heizzulage gewähren, abhängig von Ihren Jahren als Bergmann (höchstens 30). Sie wird monatlich mit Ihrer Pension gezahlt. Der überlebende Ehepartner eines Untertage-Bergmanns kann die Zulage erhalten, auf die der Partner Anspruch hatte; ein faktisch getrennter Ehepartner erhält die Hälfte nur bei Anspruch auf einen Teil der Ruhestandspension. Verlieren Sie Ihren Pensionsanspruch, entfällt auch die Zulage.",
+        "deadline": "Monatlich mit Ihrer Pension gezahlt.",
+        "amount": "104,70 € pro Monat bei 30 Jahren Bergbau (anteilig weniger bei weniger Jahren) (Betrag ab 1. September 2026)",
+        "requirements": [],
+        "steps": [
+          "Der Föderale Pensionsdienst gewährt die Zulage mit Ihrer Ruhestandspension und zahlt sie monatlich",
+          "Fragen zu Ihrem Anspruch? Wenden Sie sich an den Föderalen Pensionsdienst"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.sfpd.fgov.be/nl/pensioenbedrag/berekening/verschillende-soorten-pensioenen/werknemers/speciale-stelsels",
+      "conditions": {
+        "en": [
+          "You receive a retirement pension and worked usually and mainly in the mines (underground or above ground) for at least 20 years in Belgium or another EEA country; or you received, when your retirement pension started, an RIZIV invalidity pension due solely to mining work; or you worked at least 25 years mainly as an underground miner.",
+          "If you were born from 1 January 1957, only your years as an underground miner up to 31 December 2011 count."
+        ],
+        "nl": [
+          "Je ontvangt een rustpensioen en werkte minstens 20 jaar gewoonlijk en hoofdzakelijk in de mijnen (onder- of bovengronds) in België of een ander land van de EER; of je ontving bij de start van je rustpensioen een RIZIV-invaliditeitspensioen louter op basis van je werk in de mijnen; of je werkte minstens 25 jaar hoofdzakelijk als ondergronds mijnwerker.",
+          "Ben je geboren vanaf 1 januari 1957, dan tellen enkel je jaren als ondergronds mijnwerker tot 31 december 2011 mee."
+        ],
+        "fr": [
+          "Vous percevez une pension de retraite et avez travaillé habituellement et principalement au moins 20 ans dans les mines (fond ou surface) en Belgique ou dans un autre pays de l'EEE ; ou vous perceviez, au début de votre pension de retraite, une pension d'invalidité INAMI fondée uniquement sur votre travail dans les mines ; ou vous avez travaillé au moins 25 ans principalement comme mineur de fond.",
+          "Si vous êtes né(e) à partir du 1er janvier 1957, seules vos années de mineur de fond jusqu'au 31 décembre 2011 comptent."
+        ],
+        "de": [
+          "Sie beziehen eine Ruhestandspension und haben mindestens 20 Jahre gewöhnlich und hauptsächlich im Bergbau (unter oder über Tage) in Belgien oder einem anderen EWR-Land gearbeitet; oder Sie bezogen beim Beginn der Ruhestandspension eine LIKIV-Invaliditätspension allein aufgrund der Arbeit im Bergbau; oder Sie haben mindestens 25 Jahre hauptsächlich als Untertage-Bergmann gearbeitet.",
+          "Wenn Sie ab dem 1. Januar 1957 geboren sind, zählen nur Ihre Jahre als Untertage-Bergmann bis zum 31. Dezember 2011."
+        ]
+      }
+    }
+  },
+  {
+    "id": 313,
+    "category": "housing",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verminderingen-van-de-onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-oorlogsslachtoffers",
+    "content": {
+      "en": {
+        "title": "Property Tax Reduction for 100% War Invalids",
+        "desc": "War victims with a 100% invalidity (officially 'grootoorlogsverminkten') get a 20% reduction of the property tax (onroerende voorheffing) on the home that is their main residence on 1 January of the tax year. This includes soldiers of 1914–1918, soldiers and certain civilians of 1940–1945, soldiers of the Korean war (under conditions) and soldiers on NATO, UN or government-recognised missions. You apply once; afterwards the reduction is granted automatically. It cannot be combined with the disability reduction: you always get the more favourable one.",
+        "deadline": "Apply once; the home must be your main residence on 1 January of the tax year.",
+        "amount": "20% off your property tax",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of your entitlement, issued by the Federal Pension Service"
+          }
+        ],
+        "steps": [
+          "Ask the Federal Pension Service for proof of your status",
+          "Send your request with the proof by post to the Vlaamse Belastingdienst, Vaartstraat 16, 9300 Aalst"
+        ]
+      },
+      "nl": {
+        "title": "Vermindering van de onroerende voorheffing voor oorlogsslachtoffers",
+        "desc": "Oorlogsslachtoffers met een invaliditeit van 100% (officieel 'grootoorlogsverminkten') krijgen 20% vermindering van de onroerende voorheffing op de woning die op 1 januari van het aanslagjaar hun hoofdverblijfplaats is. Het gaat om militairen van 1914-1918, militairen en bepaalde burgers van 1940-1945, militairen van de oorlog in Korea (onder voorwaarden) en militairen met opdrachten voor de NAVO, de VN of erkend door de Ministerraad. Je vraagt het één keer aan; daarna krijg je de vermindering automatisch. Ze is niet combineerbaar met de vermindering voor een persoon met een handicap: je krijgt altijd de voordeligste.",
+        "deadline": "Eén keer aanvragen; de woning moet je hoofdverblijfplaats zijn op 1 januari van het aanslagjaar.",
+        "amount": "20% vermindering van de onroerende voorheffing",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs dat je recht hebt op de vermindering, afgeleverd door de Federale Pensioendienst"
+          }
+        ],
+        "steps": [
+          "Vraag bij de Federale Pensioendienst een bewijs van je statuut",
+          "Stuur je aanvraag met het bewijs per post naar de Vlaamse Belastingdienst, Vaartstraat 16, 9300 Aalst"
+        ]
+      },
+      "fr": {
+        "title": "Réduction du précompte immobilier pour les grands invalides de guerre",
+        "desc": "Les victimes de guerre atteintes d'une invalidité de 100 % (officiellement « grands mutilés de guerre ») bénéficient d'une réduction de 20 % du précompte immobilier sur le logement qui est leur résidence principale au 1er janvier de l'exercice. Sont visés les militaires de 1914-1918, les militaires et certains civils de 1940-1945, les militaires de la guerre de Corée (sous conditions) et les militaires en mission OTAN, ONU ou reconnue par le Conseil des ministres. Vous la demandez une fois ; ensuite, elle est accordée automatiquement. Elle n'est pas cumulable avec la réduction pour personne handicapée : vous recevez toujours la plus avantageuse.",
+        "deadline": "Une seule demande ; le logement doit être votre résidence principale au 1er janvier de l'exercice.",
+        "amount": "20 % de réduction du précompte immobilier",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve de votre droit, délivrée par le Service fédéral des Pensions"
+          }
+        ],
+        "steps": [
+          "Demandez au Service fédéral des Pensions une preuve de votre statut",
+          "Envoyez votre demande avec la preuve par la poste à la Vlaamse Belastingdienst, Vaartstraat 16, 9300 Alost"
+        ]
+      },
+      "de": {
+        "title": "Ermäßigung des Immobiliensteuervorabzugs für Kriegsversehrte",
+        "desc": "Kriegsopfer mit 100 % Invalidität (offiziell „grootoorlogsverminkten“) erhalten 20 % Ermäßigung des Immobiliensteuervorabzugs auf die Wohnung, die am 1. Januar des Steuerjahres ihr Hauptwohnsitz ist. Betroffen sind Soldaten von 1914–1918, Soldaten und bestimmte Zivilisten von 1940–1945, Soldaten des Koreakriegs (unter Bedingungen) und Soldaten in NATO-, UN- oder vom Ministerrat anerkannten Einsätzen. Sie beantragen sie einmal; danach wird sie automatisch gewährt. Sie ist nicht mit der Ermäßigung für Menschen mit Behinderung kombinierbar: Sie erhalten immer die günstigere.",
+        "deadline": "Einmal beantragen; die Wohnung muss am 1. Januar des Steuerjahres Ihr Hauptwohnsitz sein.",
+        "amount": "20 % Ermäßigung des Immobiliensteuervorabzugs",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis Ihres Anspruchs, ausgestellt vom Föderalen Pensionsdienst"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie beim Föderalen Pensionsdienst einen Nachweis Ihres Status",
+          "Senden Sie Ihren Antrag mit dem Nachweis per Post an die Vlaamse Belastingdienst, Vaartstraat 16, 9300 Aalst"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/verminderingen-van-de-onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-oorlogsslachtoffers",
+      "conditions": {
+        "en": [
+          "You are a war victim with a 100% invalidity (grootoorlogsverminkte): a soldier of 1914–1918, a soldier or certain civilian of 1940–1945, a Korean war soldier (under conditions), or a soldier on a NATO, UN or Council-of-Ministers-recognised mission.",
+          "The home in the Flemish Region is your main residence on 1 January of the tax year."
+        ],
+        "nl": [
+          "Je bent een oorlogsslachtoffer met een invaliditeit van 100% (grootoorlogsverminkte): militair van 1914-1918, militair of bepaalde burger van 1940-1945, militair van de oorlog in Korea (onder voorwaarden), of militair met een opdracht voor de NAVO, de VN of erkend door de Ministerraad.",
+          "De woning in het Vlaams Gewest is je hoofdverblijfplaats op 1 januari van het aanslagjaar."
+        ],
+        "fr": [
+          "Vous êtes une victime de guerre avec une invalidité de 100 % (grand mutilé de guerre) : militaire de 1914-1918, militaire ou certain civil de 1940-1945, militaire de la guerre de Corée (sous conditions), ou militaire en mission OTAN, ONU ou reconnue par le Conseil des ministres.",
+          "Le logement en Région flamande est votre résidence principale au 1er janvier de l'exercice."
+        ],
+        "de": [
+          "Sie sind ein Kriegsopfer mit 100 % Invalidität: Soldat von 1914–1918, Soldat oder bestimmter Zivilist von 1940–1945, Soldat des Koreakriegs (unter Bedingungen) oder Soldat in einem NATO-, UN- oder vom Ministerrat anerkannten Einsatz.",
+          "Die Wohnung in der Flämischen Region ist am 1. Januar des Steuerjahres Ihr Hauptwohnsitz."
+        ]
+      }
+    }
   }
 ]
