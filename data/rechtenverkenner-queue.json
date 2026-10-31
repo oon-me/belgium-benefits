@@ -11,6 +11,7 @@
     "201": 206,
     "212": 293,
     "222": 294,
+    "241": 334,
     "245": 289,
     "246": 211,
     "247": 288,
@@ -19,6 +20,7 @@
     "289": 286,
     "331": 126,
     "365": 15,
+    "432": 333,
     "496": 313,
     "505": 318,
     "630": 114,
@@ -64,6 +66,7 @@
     "1130": 109,
     "1213": 16,
     "1225": 257,
+    "1240": 326,
     "1246": 301,
     "1247": 205,
     "1327": 314,
@@ -81,6 +84,7 @@
     "1466": 208,
     "1478": 295,
     "1505": 269,
+    "1509": 331,
     "1526": 97,
     "1527": 112,
     "1528": 296,
@@ -107,6 +111,7 @@
     "1810": 45,
     "1821": 300,
     "1939": 131,
+    "1954": 335,
     "1975": 100,
     "2026": 9,
     "2410": 297,
@@ -234,11 +239,18 @@
     "3122": 195,
     "38554": 155,
     "43693": 106,
+    "46632": 337,
     "48571": 298,
+    "49105": 327,
     "49892": 107,
     "51544": 193,
     "54449": 317,
+    "54680": 336,
     "55547": 280,
+    "58255": 332,
+    "58341": 329,
+    "58345": 328,
+    "58390": 330,
     "59227": 315,
     "59255": 315,
     "59256": 315,
@@ -524,28 +536,12 @@
       ]
     },
     {
-      "nr": "58345",
-      "name": "Abattement op de schenkbelasting voor begiftigden met een handicap",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
       "nr": "486",
       "name": "Buzzy Pazz, van 6 tot 24 jaar",
       "level": "Vlaams",
       "financial": true,
       "official": [
         "https://www.delijn.be/nl/content/abonnementen/buzzy-pazz/"
-      ]
-    },
-    {
-      "nr": "46632",
-      "name": "De lerarenbonus",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/salaris-onderwijspersoneel/vergoedingen-en-toelagen-voor-onderwijspersoneel/de-lerarenbonus"
       ]
     },
     {
@@ -574,15 +570,6 @@
       ]
     },
     {
-      "nr": "49105",
-      "name": "Partnerabattement voor de roerende goederen in de erfbelasting",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/erfbelasting"
-      ]
-    },
-    {
       "nr": "2344",
       "name": "Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek",
       "level": "Vlaams",
@@ -590,13 +577,6 @@
       "official": [
         "https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten"
       ]
-    },
-    {
-      "nr": "241",
-      "name": "Sociaal tarief of vrijstelling van de heffing op de waterverontreiniging",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
     },
     {
       "nr": "51959",
@@ -617,27 +597,6 @@
     {
       "nr": "77395",
       "name": "Vergoeding voor schade door slechte staat van een gewestweg of door wegenwerken op een gewestweg",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
-      "nr": "1509",
-      "name": "Verkooprecht op de gezinswoning",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
-      "nr": "58255",
-      "name": "Verlaagd tarief van de verkooprechten voor de aankoop van een sociale woning",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
-      "nr": "58341",
-      "name": "Vermindering van de schenkbelasting wegens kinderlast",
       "level": "Vlaams",
       "financial": true,
       "official": []
@@ -694,22 +653,6 @@
       "level": "Vlaams",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "58390",
-      "name": "Vrijstelling van de schenkbelasting bij erfenissprong",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
-      "nr": "1240",
-      "name": "Vrijstelling van erfbelasting voor de wettelijke terugkeer van schenkingen",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-van-erfbelasting-voor-de-wettelijke-terugkeer-van-schenkingen"
-      ]
     },
     {
       "nr": "58277",
@@ -811,13 +754,6 @@
       ]
     },
     {
-      "nr": "432",
-      "name": "Een sociale woning huren bij een woonmaatschappij",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
       "nr": "2464",
       "name": "Hulp -en dienstverlening aan gedetineerden",
       "level": "Vlaams",
@@ -859,22 +795,6 @@
     {
       "nr": "215",
       "name": "Ondersteuning via opvoedingswinkels",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
-      "nr": "1954",
-      "name": "Ondersteuning vragen aan het VAPH - erkenning handicap",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://www.vaph.be"
-      ]
-    },
-    {
-      "nr": "54680",
-      "name": "Teletolk voor doven of slechthorenden",
       "level": "Vlaams",
       "financial": false,
       "official": []

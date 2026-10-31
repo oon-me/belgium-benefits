@@ -38203,5 +38203,1295 @@
         ]
       }
     }
+  },
+  {
+    "id": 326,
+    "category": "family",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-van-erfbelasting-voor-de-wettelijke-terugkeer-van-schenkingen",
+    "content": {
+      "en": {
+        "title": "Inheritance Tax Exemption When a Gift Returns to the Parent (Legal Return)",
+        "desc": "If parents or (great-)grandparents gave goods to a child or (great-)grandchild and that child dies before them without descendants of their own, the goods that come back to the giver are exempt from Flemish inheritance tax. It has the same effect as a contractual return clause.",
+        "deadline": "Request it in the declaration of succession, under 'Gunstregelingen'.",
+        "amount": "No inheritance tax on the returned gifted goods",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Declaration of succession"
+          }
+        ],
+        "steps": [
+          "In the declaration of succession, request the exemption under 'Gunstregelingen'",
+          "Questions: contact the Flemish Tax Administration (Vlaamse Belastingdienst)"
+        ]
+      },
+      "nl": {
+        "title": "Vrijstelling van erfbelasting voor de wettelijke terugkeer van schenkingen",
+        "desc": "Als ouders of (over)grootouders goederen schonken aan hun kind of (achter)kleinkind en dat kind overlijdt vóór de schenker zonder eigen nakomelingen, dan zijn de geschonken goederen die naar de schenker terugkeren vrijgesteld van Vlaamse erfbelasting. Het heeft hetzelfde effect als een beding van conventionele terugkeer.",
+        "deadline": "Vraag het aan in de aangifte van nalatenschap, onder de rubriek 'Gunstregelingen'.",
+        "amount": "Geen erfbelasting op de teruggekeerde geschonken goederen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aangifte van nalatenschap"
+          }
+        ],
+        "steps": [
+          "Vraag de vrijstelling aan in de aangifte van nalatenschap, onder de rubriek 'Gunstregelingen'",
+          "Vragen: neem contact op met de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Exonération des droits de succession pour le retour légal des donations",
+        "desc": "Si des parents ou (arrière-)grands-parents ont donné des biens à leur enfant ou (arrière-)petit-enfant et que celui-ci décède avant eux sans descendants, les biens qui reviennent au donateur sont exonérés des droits de succession flamands. L'effet est le même qu'une clause de retour conventionnel.",
+        "deadline": "Demandez-la dans la déclaration de succession, rubrique 'Gunstregelingen'.",
+        "amount": "Pas de droits de succession sur les biens donnés qui reviennent",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Déclaration de succession"
+          }
+        ],
+        "steps": [
+          "Demandez l'exonération dans la déclaration de succession, rubrique 'Gunstregelingen'",
+          "Questions : contactez la Vlaamse Belastingdienst (administration fiscale flamande)"
+        ]
+      },
+      "de": {
+        "title": "Erbschaftsteuerbefreiung beim gesetzlichen Rückfall von Schenkungen",
+        "desc": "Haben Eltern oder (Ur-)Großeltern einem Kind oder (Ur-)Enkel Güter geschenkt und stirbt dieses Kind vor ihnen ohne eigene Nachkommen, sind die an den Schenker zurückfallenden Güter von der flämischen Erbschaftsteuer befreit. Die Wirkung entspricht einer vertraglichen Rückfallklausel.",
+        "deadline": "Beantragen Sie sie in der Nachlasserklärung unter der Rubrik 'Gunstregelingen'.",
+        "amount": "Keine Erbschaftsteuer auf die zurückfallenden geschenkten Güter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachlasserklärung"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Befreiung in der Nachlasserklärung unter 'Gunstregelingen'",
+          "Fragen: Wenden Sie sich an die Flämische Steuerverwaltung (Vlaamse Belastingdienst)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/verminderingen-en-vrijstellingen-in-de-erfbelasting/vrijstelling-van-erfbelasting-voor-de-wettelijke-terugkeer-van-schenkingen",
+      "conditions": {
+        "en": [
+          "The goods were given by a parent or (great-)grandparent to a child or (great-)grandchild before the child's death, and the giver is still alive when the child dies",
+          "The goods themselves are still in the estate or, if they were sold, a claim for them is",
+          "The child who died had no descendants at the time of death"
+        ],
+        "nl": [
+          "De goederen werden door een ouder of (over)grootouder geschonken aan een (achter)(klein)kind vóór diens overlijden, en de schenker leeft nog bij het overlijden van het kind",
+          "De goederen zijn nog in natura in de nalatenschap aanwezig, of er is nog een schuldvordering voor in de nalatenschap",
+          "Het overleden kind had zelf geen nakomelingen op het moment van overlijden"
+        ],
+        "fr": [
+          "Les biens ont été donnés par un parent ou (arrière-)grand-parent à un (arrière-)(petit-)enfant avant son décès, et le donateur est encore en vie au décès de l'enfant",
+          "Les biens se trouvent encore en nature dans la succession ou, s'ils ont été aliénés, une créance s'y rapportant",
+          "L'enfant décédé n'avait pas de descendants au moment du décès"
+        ],
+        "de": [
+          "Die Güter wurden von einem Elternteil oder (Ur-)Großelternteil vor dessen Tod einem (Ur-)(Enkel-)Kind geschenkt, und der Schenker lebt beim Tod des Kindes noch",
+          "Die Güter befinden sich noch im Nachlass oder, falls veräußert, eine Forderung dafür",
+          "Das verstorbene Kind hatte zum Zeitpunkt des Todes keine Nachkommen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 327,
+    "category": "family",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/partnerabattement-voor-de-roerende-goederen-in-de-erfbelasting",
+    "content": {
+      "en": {
+        "title": "Partner Allowance on Movable Assets in Inheritance Tax (€75,000)",
+        "desc": "As the surviving partner (spouse, legal cohabitant or de facto cohabitant for at least a year), the first €75,000 of the movable assets you inherit (money, shares, cars, jewellery...) is exempt from Flemish inheritance tax. Only the part above it is taxed. It is applied automatically.",
+        "deadline": "Automatic. If your tax bill does not include it, file an objection (bezwaar).",
+        "amount": "First €75,000 of inherited movable assets tax-free (€50,000 for deaths before 1 January 2026)",
+        "requirements": [],
+        "steps": [
+          "Nothing to request: the Flemish Tax Administration applies it automatically",
+          "Tax bill without the allowance although you qualify? File an objection"
+        ]
+      },
+      "nl": {
+        "title": "Partnerabattement voor de roerende goederen in de erfbelasting",
+        "desc": "Als langstlevende partner (echtgenoot, wettelijk samenwonende of minstens een jaar feitelijk samenwonende) is de eerste 75.000 euro van de roerende goederen die je erft (geld, aandelen, auto's, juwelen...) vrijgesteld van Vlaamse erfbelasting. Alleen het deel daarboven wordt belast. Het wordt automatisch toegekend.",
+        "deadline": "Automatisch. Staat het niet op je aanslagbiljet, dien dan bezwaar in.",
+        "amount": "Eerste 75.000 euro roerend erfdeel vrijgesteld (50.000 euro voor overlijdens vóór 1 januari 2026)",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: de Vlaamse Belastingdienst past het automatisch toe",
+          "Aanslagbiljet zonder het abattement terwijl je in aanmerking komt? Dien bezwaar in"
+        ]
+      },
+      "fr": {
+        "title": "Abattement du partenaire sur les biens meubles en droits de succession (75 000 €)",
+        "desc": "En tant que partenaire survivant (conjoint, cohabitant légal ou cohabitant de fait depuis au moins un an), les premiers 75 000 € des biens meubles dont vous héritez (argent, actions, voitures, bijoux...) sont exonérés des droits de succession flamands. Seule la partie au-delà est taxée. L'abattement est appliqué automatiquement.",
+        "deadline": "Automatique. S'il n'apparaît pas sur votre avertissement-extrait de rôle, introduisez une réclamation.",
+        "amount": "Premiers 75 000 € de biens meubles hérités exonérés (50 000 € pour les décès avant le 1er janvier 2026)",
+        "requirements": [],
+        "steps": [
+          "Rien à demander : la Vlaamse Belastingdienst l'applique automatiquement",
+          "Avertissement-extrait de rôle sans l'abattement alors que vous y avez droit ? Introduisez une réclamation"
+        ]
+      },
+      "de": {
+        "title": "Partnerfreibetrag für bewegliches Vermögen in der Erbschaftsteuer (75.000 €)",
+        "desc": "Als überlebender Partner (Ehegatte, gesetzlich oder seit mindestens einem Jahr faktisch Zusammenwohnender) sind die ersten 75.000 € des geerbten beweglichen Vermögens (Geld, Aktien, Autos, Schmuck...) von der flämischen Erbschaftsteuer befreit. Nur der Teil darüber wird besteuert. Der Freibetrag wird automatisch gewährt.",
+        "deadline": "Automatisch. Fehlt er auf Ihrem Steuerbescheid, legen Sie Einspruch ein.",
+        "amount": "Erste 75.000 € des geerbten beweglichen Vermögens steuerfrei (50.000 € bei Todesfällen vor dem 1. Januar 2026)",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: Die Flämische Steuerverwaltung wendet ihn automatisch an",
+          "Steuerbescheid ohne Freibetrag, obwohl Sie berechtigt sind? Legen Sie Einspruch ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/erfbelasting/partnerabattement-voor-de-roerende-goederen-in-de-erfbelasting",
+      "conditions": {
+        "en": [
+          "You are the surviving spouse, legal cohabitant, or de facto cohabitant who lived with the deceased for at least one uninterrupted year in a shared household",
+          "You are not a blood relative in the direct line of the deceased (a parent or child living with them does not qualify)",
+          "The estate falls under Flemish inheritance tax and the death was on or after 1 September 2018"
+        ],
+        "nl": [
+          "Je bent de langstlevende echtgenoot, wettelijk samenwonende of feitelijk samenwonende die minstens één jaar ononderbroken met de erflater samenwoonde en een gemeenschappelijke huishouding voerde",
+          "Je bent geen bloedverwant in de rechte lijn van de erflater (een samenwonende ouder of kind komt niet in aanmerking)",
+          "De nalatenschap valt onder de Vlaamse erfbelasting en het overlijden was op of na 1 september 2018"
+        ],
+        "fr": [
+          "Vous êtes le conjoint survivant, le cohabitant légal ou le cohabitant de fait ayant vécu au moins un an sans interruption avec le défunt en ménage commun",
+          "Vous n'êtes pas parent en ligne directe du défunt (un parent ou enfant cohabitant n'y a pas droit)",
+          "La succession relève des droits de succession flamands et le décès date du 1er septembre 2018 ou après"
+        ],
+        "de": [
+          "Sie sind der überlebende Ehegatte, gesetzlich Zusammenwohnende oder faktisch Zusammenwohnende, der mindestens ein Jahr ununterbrochen mit dem Erblasser in gemeinsamem Haushalt lebte",
+          "Sie sind kein Blutsverwandter in gerader Linie des Erblassers (zusammenwohnende Eltern oder Kinder sind ausgeschlossen)",
+          "Der Nachlass unterliegt der flämischen Erbschaftsteuer und der Tod war am oder nach dem 1. September 2018"
+        ]
+      }
+    }
+  },
+  {
+    "id": 328,
+    "category": "family",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/schenkbelasting/vrijstellingen-en-verminderingen-in-de-schenkbelasting/abattement-voor-begiftigden-met-een-handicap",
+    "content": {
+      "en": {
+        "title": "Gift Tax Allowance for Recipients with a Disability",
+        "desc": "When a person with a disability receives a gift of real estate (taxed at the general rate), part of its value is exempt from Flemish gift tax. The tax-free amount depends on the recipient's age and on whether the gift comes from a parent or grandparent (direct line) or from someone else. It applies once between the same giver and recipient.",
+        "deadline": "Must be requested explicitly in the deed of gift.",
+        "amount": "Direct line: €3,000 × an age factor (18 up to age 20, falling to 2 above 80); otherwise €1,000 × the same factor. Example: a 37-year-old receiving a house from a parent gets €48,000 tax-free",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notarial deed of gift that explicitly requests this relief"
+          }
+        ],
+        "steps": [
+          "Ask the notary to request the allowance explicitly in the deed of gift",
+          "Recipients living in Belgium need no certificate; those living abroad add a disability certificate from the foreign authority",
+          "Questions: contact the Flemish Tax Administration (Vlaamse Belastingdienst)"
+        ]
+      },
+      "nl": {
+        "title": "Abattement in de schenkbelasting voor begiftigden met een handicap",
+        "desc": "Ontvangt een persoon met een handicap een schenking van onroerende goederen (tegen het algemeen tarief), dan is een deel van de waarde vrijgesteld van Vlaamse schenkbelasting. Het vrijgestelde bedrag hangt af van de leeftijd van de begiftigde en van of de schenking in rechte lijn gebeurt of niet. Het geldt één keer tussen dezelfde schenker en begiftigde.",
+        "deadline": "Moet uitdrukkelijk gevraagd worden in de schenkingsakte.",
+        "amount": "Rechte lijn: 3.000 euro × een leeftijdscijfer (18 tot 20 jaar, dalend tot 2 boven 80 jaar); anders 1.000 euro × hetzelfde cijfer. Voorbeeld: iemand van 37 die een huis krijgt van een ouder, heeft 48.000 euro vrijgesteld",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notariële schenkingsakte waarin deze gunstregeling uitdrukkelijk gevraagd wordt"
+          }
+        ],
+        "steps": [
+          "Vraag de notaris het abattement uitdrukkelijk te vermelden in de schenkingsakte",
+          "Woont de begiftigde in België, dan is geen attest nodig; woont hij of zij in het buitenland, voeg dan een invaliditeitsattest van de buitenlandse instantie toe",
+          "Vragen: neem contact op met de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Abattement en droits de donation pour donataires handicapés",
+        "desc": "Lorsqu'une personne handicapée reçoit une donation immobilière (taxée au taux général), une partie de sa valeur est exonérée des droits de donation flamands. Le montant exonéré dépend de l'âge du donataire et du fait que la donation soit en ligne directe ou non. Il s'applique une seule fois entre le même donateur et le même donataire.",
+        "deadline": "Doit être demandé expressément dans l'acte de donation.",
+        "amount": "Ligne directe : 3 000 € × un coefficient d'âge (18 jusqu'à 20 ans, jusqu'à 2 au-delà de 80 ans) ; sinon 1 000 € × le même coefficient. Exemple : une personne de 37 ans recevant une maison d'un parent a 48 000 € exonérés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Acte de donation notariée qui demande expressément cet avantage"
+          }
+        ],
+        "steps": [
+          "Demandez au notaire de mentionner expressément l'abattement dans l'acte de donation",
+          "Si le donataire réside en Belgique, aucune attestation n'est requise ; s'il réside à l'étranger, joignez une attestation d'invalidité de l'autorité étrangère",
+          "Questions : contactez la Vlaamse Belastingdienst (administration fiscale flamande)"
+        ]
+      },
+      "de": {
+        "title": "Freibetrag in der Schenkungsteuer für Beschenkte mit Behinderung",
+        "desc": "Erhält eine Person mit Behinderung eine Immobilienschenkung (zum allgemeinen Satz besteuert), ist ein Teil des Wertes von der flämischen Schenkungsteuer befreit. Der Freibetrag hängt vom Alter des Beschenkten und davon ab, ob die Schenkung in gerader Linie erfolgt. Er gilt einmal zwischen demselben Schenker und Beschenkten.",
+        "deadline": "Muss in der Schenkungsurkunde ausdrücklich beantragt werden.",
+        "amount": "Gerade Linie: 3.000 € × ein Altersfaktor (18 bis 20 Jahre, sinkend bis 2 über 80); sonst 1.000 € × derselbe Faktor. Beispiel: Eine 37-jährige Person, die ein Haus von einem Elternteil erhält, hat 48.000 € steuerfrei",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notarielle Schenkungsurkunde, in der diese Vergünstigung ausdrücklich beantragt wird"
+          }
+        ],
+        "steps": [
+          "Bitten Sie den Notar, den Freibetrag ausdrücklich in der Schenkungsurkunde zu beantragen",
+          "Wohnt der Beschenkte in Belgien, ist keine Bescheinigung nötig; wohnt er im Ausland, fügen Sie eine Invaliditätsbescheinigung der ausländischen Behörde bei",
+          "Fragen: Wenden Sie sich an die Flämische Steuerverwaltung (Vlaamse Belastingdienst)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/schenkbelasting/vrijstellingen-en-verminderingen-in-de-schenkbelasting/abattement-voor-begiftigden-met-een-handicap",
+      "conditions": {
+        "en": [
+          "The gift is of real estate taxed at the general rate (not a gift of movable assets)",
+          "The recipient is a child at least 66% affected in physical or mental ability, or someone whose earning capacity fell to a third or less, who has at least 9 points of reduced self-reliance, or who was declared at least 66% permanently disabled or unfit for work, due to facts before age 65",
+          "Only once between the same giver and the same recipient"
+        ],
+        "nl": [
+          "Het gaat om een schenking van onroerende goederen tegen het algemeen tarief (niet om een roerende schenking)",
+          "De begiftigde is een kind dat minstens 66% getroffen is in zijn lichamelijke of geestelijke geschiktheid, of iemand bij wie door feiten vóór 65 jaar het verdienvermogen daalde tot 1/3 of minder, de zelfredzaamheid met minstens 9 punten verminderde, of die minstens 66% blijvend gehandicapt of arbeidsongeschikt werd verklaard",
+          "Slechts één keer tussen dezelfde schenker en dezelfde begiftigde"
+        ],
+        "fr": [
+          "Il s'agit d'une donation immobilière au taux général (pas d'une donation mobilière)",
+          "Le donataire est un enfant atteint d'au moins 66 % dans ses capacités physiques ou mentales, ou une personne dont, par des faits survenus avant 65 ans, la capacité de gain est réduite à un tiers ou moins, l'autonomie réduite d'au moins 9 points, ou qui a été déclarée handicapée ou inapte au travail de manière permanente à 66 % au moins",
+          "Une seule fois entre le même donateur et le même donataire"
+        ],
+        "de": [
+          "Es handelt sich um eine Immobilienschenkung zum allgemeinen Satz (keine Schenkung beweglicher Güter)",
+          "Der Beschenkte ist ein Kind mit mindestens 66 % Beeinträchtigung der körperlichen oder geistigen Fähigkeiten, oder eine Person, deren Erwerbsfähigkeit durch Ereignisse vor 65 auf ein Drittel oder weniger sank, deren Selbstständigkeit um mindestens 9 Punkte vermindert ist oder die zu mindestens 66 % dauerhaft behindert oder arbeitsunfähig erklärt wurde",
+          "Nur einmal zwischen demselben Schenker und demselben Beschenkten"
+        ]
+      }
+    }
+  },
+  {
+    "id": 329,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/schenkbelasting/vrijstellingen-en-verminderingen-in-de-schenkbelasting/vermindering-van-de-schenkbelasting-wegens-kinderlast",
+    "content": {
+      "en": {
+        "title": "Gift Tax Reduction for Parents of Three or More Children Under 21",
+        "desc": "If you have at least three living children under 21 when you receive a gift of real estate taxed at the general rate, you get a discount on the Flemish gift tax for each child. The discount is doubled when the gift comes from your partner. An unborn child counts once it is born alive, via a refund.",
+        "deadline": "Must be mentioned in the deed of gift.",
+        "amount": "2% of the gift tax per child, up to €62 per child (4%, up to €124 per child, for a gift from your partner)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notarial deed of gift that explicitly requests this relief"
+          }
+        ],
+        "steps": [
+          "Ask the notary to mention the reduction in the deed of gift",
+          "Expecting a child at the time of the gift? Once it is born alive, you get the extra reduction back as a refund",
+          "Questions: contact the Flemish Tax Administration (Vlaamse Belastingdienst)"
+        ]
+      },
+      "nl": {
+        "title": "Vermindering van de schenkbelasting wegens kinderlast",
+        "desc": "Heb je minstens 3 kinderen in leven jonger dan 21 jaar op het moment dat je een schenking van onroerende goederen ontvangt tegen het algemeen tarief, dan krijg je per kind een korting op de Vlaamse schenkbelasting. Komt de schenking van je partner, dan wordt de korting verdubbeld. Een kind dat nog geboren moet worden, telt mee zodra het levensvatbaar geboren is, via een teruggave.",
+        "deadline": "Moet vermeld worden in de schenkingsakte.",
+        "amount": "2% van de schenkbelasting per kind, maximaal 62 euro per kind (4%, maximaal 124 euro per kind, bij een schenking van je partner)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notariële schenkingsakte waarin deze gunstregeling uitdrukkelijk gevraagd wordt"
+          }
+        ],
+        "steps": [
+          "Vraag de notaris de vermindering te vermelden in de schenkingsakte",
+          "Verwacht je een kind op het moment van de schenking? Zodra het levensvatbaar geboren is, krijg je de extra vermindering terug via een teruggave",
+          "Vragen: neem contact op met de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Réduction des droits de donation pour charge d'enfants",
+        "desc": "Si vous avez au moins 3 enfants vivants de moins de 21 ans lorsque vous recevez une donation immobilière au taux général, vous obtenez par enfant une réduction des droits de donation flamands. Elle est doublée si la donation vient de votre partenaire. Un enfant à naître compte dès qu'il naît viable, via une restitution.",
+        "deadline": "Doit être mentionnée dans l'acte de donation.",
+        "amount": "2 % des droits de donation par enfant, au maximum 62 € par enfant (4 %, au maximum 124 € par enfant, pour une donation de votre partenaire)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Acte de donation notariée qui demande expressément cet avantage"
+          }
+        ],
+        "steps": [
+          "Demandez au notaire de mentionner la réduction dans l'acte de donation",
+          "Vous attendez un enfant au moment de la donation ? Dès sa naissance viable, la réduction supplémentaire vous est restituée",
+          "Questions : contactez la Vlaamse Belastingdienst (administration fiscale flamande)"
+        ]
+      },
+      "de": {
+        "title": "Ermäßigung der Schenkungsteuer wegen unterhaltsberechtigter Kinder",
+        "desc": "Haben Sie beim Erhalt einer Immobilienschenkung zum allgemeinen Satz mindestens 3 lebende Kinder unter 21 Jahren, erhalten Sie pro Kind eine Ermäßigung der flämischen Schenkungsteuer. Kommt die Schenkung von Ihrem Partner, verdoppelt sie sich. Ein ungeborenes Kind zählt, sobald es lebensfähig geboren ist, über eine Erstattung.",
+        "deadline": "Muss in der Schenkungsurkunde erwähnt werden.",
+        "amount": "2 % der Schenkungsteuer pro Kind, höchstens 62 € pro Kind (4 %, höchstens 124 € pro Kind, bei einer Schenkung Ihres Partners)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notarielle Schenkungsurkunde, in der diese Vergünstigung ausdrücklich beantragt wird"
+          }
+        ],
+        "steps": [
+          "Bitten Sie den Notar, die Ermäßigung in der Schenkungsurkunde zu erwähnen",
+          "Erwarten Sie zum Zeitpunkt der Schenkung ein Kind? Sobald es lebensfähig geboren ist, erhalten Sie die zusätzliche Ermäßigung erstattet",
+          "Fragen: Wenden Sie sich an die Flämische Steuerverwaltung (Vlaamse Belastingdienst)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/schenkbelasting/vrijstellingen-en-verminderingen-in-de-schenkbelasting/vermindering-van-de-schenkbelasting-wegens-kinderlast",
+      "conditions": {
+        "en": [
+          "You have at least 3 living children under 21 when you receive the gift",
+          "You received a gift of real estate and pay the general rate for real estate on it"
+        ],
+        "nl": [
+          "Je hebt minstens 3 kinderen in leven jonger dan 21 jaar op het moment van de schenking",
+          "Je ontving een schenking van onroerende goederen en betaalt daarop het algemeen tarief voor onroerende goederen"
+        ],
+        "fr": [
+          "Vous avez au moins 3 enfants vivants de moins de 21 ans au moment de la donation",
+          "Vous avez reçu une donation immobilière et payez le taux général pour les immeubles"
+        ],
+        "de": [
+          "Sie haben beim Erhalt der Schenkung mindestens 3 lebende Kinder unter 21 Jahren",
+          "Sie haben eine Immobilienschenkung erhalten und zahlen darauf den allgemeinen Satz für Immobilien"
+        ]
+      }
+    }
+  },
+  {
+    "id": 330,
+    "category": "family",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/schenkbelasting/vrijstellingen-en-verminderingen-in-de-schenkbelasting/vrijstelling-van-schenkbelasting-bij-erfenissprong",
+    "content": {
+      "en": {
+        "title": "Gift Tax Exemption When Passing On an Inheritance Within a Year (Erfenissprong)",
+        "desc": "If you inherited and paid Flemish inheritance tax, and within a year you pass (part of) what you inherited on to your descendants as a gift, the gift tax they owe is reduced by the inheritance tax already paid. This avoids paying tax twice on the same assets.",
+        "deadline": "The gift must take place less than one year after the death, and the exemption must be requested in the notarial deed.",
+        "amount": "Gift tax reduced by the inheritance tax already paid (up to the full gift tax)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notarial deed of gift that explicitly requests this relief"
+          }
+        ],
+        "steps": [
+          "Make the gift by notarial deed within a year of the death, without a term or suspensive condition",
+          "Have the exemption formally requested in the deed",
+          "Questions: contact the Flemish Tax Administration (Vlaamse Belastingdienst)"
+        ]
+      },
+      "nl": {
+        "title": "Vrijstelling van schenkbelasting bij erfenissprong",
+        "desc": "Heb je geërfd en Vlaamse erfbelasting betaald, en schenk je binnen het jaar (een deel van) die goederen door aan je afstammelingen, dan wordt de schenkbelasting die zij betalen verminderd met de al betaalde erfbelasting. Zo wordt niet twee keer belasting op dezelfde goederen betaald.",
+        "deadline": "De schenking moet minder dan één jaar na het overlijden gebeuren, en de vrijstelling moet gevraagd worden in de notariële akte.",
+        "amount": "Schenkbelasting verminderd met de al betaalde erfbelasting (tot de volledige schenkbelasting)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notariële schenkingsakte waarin deze gunstregeling uitdrukkelijk gevraagd wordt"
+          }
+        ],
+        "steps": [
+          "Doe de schenking bij notariële akte binnen het jaar na het overlijden, zonder termijn of opschortende voorwaarde",
+          "Laat de vrijstelling formeel vragen in de schenkingsakte",
+          "Vragen: neem contact op met de Vlaamse Belastingdienst"
+        ]
+      },
+      "fr": {
+        "title": "Exonération des droits de donation en cas de saut de génération (erfenissprong)",
+        "desc": "Si vous avez hérité et payé des droits de succession flamands, et que dans l'année vous transmettez (une partie de) ces biens à vos descendants par donation, les droits de donation qu'ils doivent sont réduits des droits de succession déjà payés. Cela évite une double taxation des mêmes biens.",
+        "deadline": "La donation doit avoir lieu moins d'un an après le décès, et l'exonération doit être demandée dans l'acte notarié.",
+        "amount": "Droits de donation réduits des droits de succession déjà payés (jusqu'à la totalité)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Acte de donation notariée qui demande expressément cet avantage"
+          }
+        ],
+        "steps": [
+          "Faites la donation par acte notarié dans l'année du décès, sans terme ni condition suspensive",
+          "Faites demander formellement l'exonération dans l'acte",
+          "Questions : contactez la Vlaamse Belastingdienst (administration fiscale flamande)"
+        ]
+      },
+      "de": {
+        "title": "Schenkungsteuerbefreiung bei Weitergabe eines Erbes innerhalb eines Jahres (Erfenissprong)",
+        "desc": "Wenn Sie geerbt und flämische Erbschaftsteuer bezahlt haben und innerhalb eines Jahres (einen Teil) davon Ihren Nachkommen schenken, wird deren Schenkungsteuer um die bereits gezahlte Erbschaftsteuer verringert. So wird dasselbe Vermögen nicht doppelt besteuert.",
+        "deadline": "Die Schenkung muss weniger als ein Jahr nach dem Tod erfolgen, und die Befreiung muss in der notariellen Urkunde beantragt werden.",
+        "amount": "Schenkungsteuer um die bereits gezahlte Erbschaftsteuer verringert (bis zur vollen Schenkungsteuer)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notarielle Schenkungsurkunde, in der diese Vergünstigung ausdrücklich beantragt wird"
+          }
+        ],
+        "steps": [
+          "Nehmen Sie die Schenkung innerhalb eines Jahres nach dem Tod per notarieller Urkunde vor, ohne Frist oder aufschiebende Bedingung",
+          "Lassen Sie die Befreiung in der Urkunde förmlich beantragen",
+          "Fragen: Wenden Sie sich an die Flämische Steuerverwaltung (Vlaamse Belastingdienst)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/schenkbelasting/vrijstellingen-en-verminderingen-in-de-schenkbelasting/vrijstelling-van-schenkbelasting-bij-erfenissprong",
+      "conditions": {
+        "en": [
+          "The giver inherited from an estate opened in the Flemish Region, after 1 September 2018 and less than a year before the gift",
+          "The giver was taxed at the direct-line or partner rate, actually owed inheritance tax and paid it",
+          "The gift goes to the giver's descendants; if it is real estate, the giver received it at least partly from the estate"
+        ],
+        "nl": [
+          "De schenker erfde uit een nalatenschap die openviel in het Vlaams Gewest, na 1 september 2018 en minder dan één jaar vóór de schenking",
+          "De schenker werd belast tegen het tarief in rechte lijn of tussen partners, er werd effectief erfbelasting geheven en die is betaald",
+          "De schenking gaat naar afstammelingen van de schenker; gaat het om een onroerend goed, dan verkreeg de schenker het minstens voor een deel uit de nalatenschap"
+        ],
+        "fr": [
+          "Le donateur a hérité d'une succession ouverte en Région flamande, après le 1er septembre 2018 et moins d'un an avant la donation",
+          "Le donateur a été taxé au tarif en ligne directe ou entre partenaires, des droits de succession ont effectivement été dus et payés",
+          "La donation va aux descendants du donateur ; s'il s'agit d'un immeuble, le donateur l'a reçu au moins en partie de la succession"
+        ],
+        "de": [
+          "Der Schenker hat aus einem in der Flämischen Region eröffneten Nachlass geerbt, nach dem 1. September 2018 und weniger als ein Jahr vor der Schenkung",
+          "Der Schenker wurde zum Satz in gerader Linie oder zwischen Partnern besteuert, Erbschaftsteuer wurde tatsächlich erhoben und bezahlt",
+          "Die Schenkung geht an Nachkommen des Schenkers; bei einer Immobilie hat der Schenker sie zumindest teilweise aus dem Nachlass erhalten"
+        ]
+      }
+    }
+  },
+  {
+    "id": 331,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/verkooprecht/tarieven-in-het-verkooprecht/verlaagd-tarief-in-het-verkooprecht-voor-de-aankoop-van-de-enige-eigen-woning",
+    "content": {
+      "en": {
+        "title": "Reduced Registration Tax (2%) on Buying Your Only Home",
+        "desc": "If you buy an existing home in Flanders that will be your only home, you pay 2% registration tax instead of the general 12%. You must buy the full ownership, own no other home or building plot anywhere, and register at the address within three years and stay registered for at least a year. The notary applies the rate in the deed.",
+        "deadline": "Request it in the notarial purchase deed; it can also be obtained later by refund. Register at the address within 3 years of the deed.",
+        "amount": "2% registration tax instead of 12% (deeds from 1 January 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notarial purchase deed with the required statements"
+          }
+        ],
+        "steps": [
+          "Tell the notary you want the reduced rate for your only home; the deed must request it and state that you meet the conditions",
+          "Still own another home or plot? Commit in the deed to sell it within 2 years (the 'causal link' tolerance), or claim a refund once it is sold",
+          "Register at the address within 3 years and stay registered for at least one uninterrupted year; otherwise you pay the difference plus a 20% surcharge"
+        ]
+      },
+      "nl": {
+        "title": "Verlaagd tarief verkooprecht (2%) voor de aankoop van de enige eigen woning",
+        "desc": "Koop je in Vlaanderen een bestaande woning die je enige eigen woning wordt, dan betaal je 2% registratiebelasting in plaats van het algemeen tarief van 12%. Je moet de volle eigendom kopen, geen andere woning of bouwgrond bezitten (ook niet in het buitenland) en je binnen drie jaar op het adres inschrijven en daar minstens een jaar ingeschreven blijven. De notaris past het tarief toe in de akte.",
+        "deadline": "Vraag het aan in de notariële aankoopakte; het kan ook later via teruggave. Schrijf je binnen 3 jaar na de akte in op het adres.",
+        "amount": "2% registratiebelasting in plaats van 12% (akten vanaf 1 januari 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notariële aankoopakte met de verplichte vermeldingen"
+          }
+        ],
+        "steps": [
+          "Zeg de notaris dat je het verlaagd tarief voor de enige eigen woning wilt; de akte moet het uitdrukkelijk vragen en verklaren dat je aan de voorwaarden voldoet",
+          "Bezit je nog een andere woning of bouwgrond? Verbind je in de akte om die binnen 2 jaar te verkopen (tolerantie 'causaal verband'), of vraag een teruggave zodra ze verkocht is",
+          "Schrijf je binnen 3 jaar in op het adres en blijf er minstens een jaar ononderbroken ingeschreven; anders betaal je het verschil plus 20% belastingverhoging"
+        ]
+      },
+      "fr": {
+        "title": "Droits d'enregistrement réduits (2 %) pour l'achat de votre seule habitation",
+        "desc": "Si vous achetez en Flandre une habitation existante qui deviendra votre seule habitation, vous payez 2 % de droits d'enregistrement au lieu du taux général de 12 %. Vous devez acheter la pleine propriété, ne posséder aucune autre habitation ni terrain à bâtir (même à l'étranger), vous domicilier à l'adresse dans les trois ans et y rester inscrit au moins un an. Le notaire applique le taux dans l'acte.",
+        "deadline": "Demandez-le dans l'acte d'achat notarié ; il peut aussi être obtenu plus tard par restitution. Domiciliez-vous à l'adresse dans les 3 ans de l'acte.",
+        "amount": "2 % de droits d'enregistrement au lieu de 12 % (actes à partir du 1er janvier 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Acte d'achat notarié avec les mentions obligatoires"
+          }
+        ],
+        "steps": [
+          "Dites au notaire que vous voulez le taux réduit pour votre seule habitation ; l'acte doit le demander et déclarer que vous remplissez les conditions",
+          "Vous possédez encore une autre habitation ou un terrain ? Engagez-vous dans l'acte à le vendre dans les 2 ans (tolérance 'lien causal'), ou demandez une restitution après la vente",
+          "Domiciliez-vous à l'adresse dans les 3 ans et restez-y inscrit au moins un an sans interruption ; sinon vous payez la différence plus 20 % d'accroissement"
+        ]
+      },
+      "de": {
+        "title": "Ermäßigte Registrierungssteuer (2 %) beim Kauf Ihrer einzigen Wohnung",
+        "desc": "Wenn Sie in Flandern eine bestehende Wohnung kaufen, die Ihre einzige Wohnung wird, zahlen Sie 2 % Registrierungssteuer statt des allgemeinen Satzes von 12 %. Sie müssen das volle Eigentum kaufen, keine andere Wohnung oder kein Baugrundstück besitzen (auch nicht im Ausland), sich innerhalb von drei Jahren an der Adresse anmelden und mindestens ein Jahr gemeldet bleiben. Der Notar wendet den Satz in der Urkunde an.",
+        "deadline": "Beantragen Sie ihn in der notariellen Kaufurkunde; er ist auch später per Erstattung möglich. Melden Sie sich innerhalb von 3 Jahren nach der Urkunde an der Adresse an.",
+        "amount": "2 % Registrierungssteuer statt 12 % (Urkunden ab dem 1. Januar 2025)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notarielle Kaufurkunde mit den Pflichtangaben"
+          }
+        ],
+        "steps": [
+          "Teilen Sie dem Notar mit, dass Sie den ermäßigten Satz für Ihre einzige Wohnung wollen; die Urkunde muss ihn beantragen und erklären, dass Sie die Bedingungen erfüllen",
+          "Besitzen Sie noch eine andere Wohnung oder ein Grundstück? Verpflichten Sie sich in der Urkunde zum Verkauf binnen 2 Jahren (Toleranz 'kausaler Zusammenhang') oder beantragen Sie nach dem Verkauf eine Erstattung",
+          "Melden Sie sich innerhalb von 3 Jahren an der Adresse an und bleiben Sie mindestens ein Jahr ununterbrochen gemeldet; sonst zahlen Sie die Differenz plus 20 % Zuschlag"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/verkooprecht/tarieven-in-het-verkooprecht/verlaagd-tarief-in-het-verkooprecht-voor-de-aankoop-van-de-enige-eigen-woning",
+      "conditions": {
+        "en": [
+          "You buy, as one or more private persons (no company), the full ownership of a home in Flanders by a sale for a price in money",
+          "It is a home (not a building plot) and not a new build sold with VAT",
+          "You own no other complete home or building plot in full ownership, in Belgium or abroad (unless you sell it within the allowed period)",
+          "You commit to register at the address within 3 years and to stay registered for at least one uninterrupted year"
+        ],
+        "nl": [
+          "Je koopt als een of meer natuurlijke personen (geen vennootschap) de volle eigendom van een woning in Vlaanderen, via een verkoop tegen een prijs in geld",
+          "Het is een woning (geen bouwgrond) en geen nieuwbouw die met btw verkocht wordt",
+          "Je bent geen volledige en volle eigenaar van een andere woning of bouwgrond, in België of het buitenland (tenzij je die binnen de toegestane termijn verkoopt)",
+          "Je verbindt je ertoe je binnen 3 jaar op het adres in te schrijven en er minstens één jaar ononderbroken ingeschreven te blijven"
+        ],
+        "fr": [
+          "Vous achetez, en tant que personne(s) physique(s) (pas de société), la pleine propriété d'une habitation en Flandre, par une vente contre un prix en argent",
+          "Il s'agit d'une habitation (pas d'un terrain à bâtir) et non d'une construction neuve vendue avec TVA",
+          "Vous n'êtes pas plein propriétaire d'une autre habitation ou d'un terrain à bâtir, en Belgique ou à l'étranger (sauf si vous le vendez dans le délai permis)",
+          "Vous vous engagez à vous domicilier à l'adresse dans les 3 ans et à y rester inscrit au moins un an sans interruption"
+        ],
+        "de": [
+          "Sie kaufen als eine oder mehrere natürliche Personen (keine Gesellschaft) das volle Eigentum an einer Wohnung in Flandern durch Verkauf gegen Geld",
+          "Es ist eine Wohnung (kein Baugrundstück) und kein mit MwSt. verkaufter Neubau",
+          "Sie sind nicht volle Eigentümer einer anderen Wohnung oder eines Baugrundstücks, in Belgien oder im Ausland (außer Sie verkaufen es innerhalb der erlaubten Frist)",
+          "Sie verpflichten sich, sich innerhalb von 3 Jahren an der Adresse anzumelden und mindestens ein Jahr ununterbrochen gemeldet zu bleiben"
+        ]
+      }
+    },
+    "notice": {
+      "date": "1 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/vlaamse-belastingdienst/sp26021",
+      "text": {
+        "en": "Announced, not yet law (September Declaration 2026): the rate would rise to 3% from 1 January 2027. According to the Flemish Tax Administration, a private sales agreement signed before 1 January 2027 could still get 2%, unless the decree says otherwise.",
+        "nl": "Aangekondigd, nog geen decreet (Septemberverklaring 2026): het tarief zou vanaf 1 januari 2027 3% worden. Volgens de Vlaamse Belastingdienst kan een onderhandse verkoopovereenkomst die vóór 1 januari 2027 gesloten is nog 2% krijgen, tenzij het decreet anders bepaalt.",
+        "fr": "Annoncé, pas encore en vigueur (Déclaration de septembre 2026) : le taux passerait à 3 % au 1er janvier 2027. Selon la Vlaamse Belastingdienst, un compromis de vente signé avant le 1er janvier 2027 pourrait encore bénéficier de 2 %, sauf disposition contraire du décret.",
+        "de": "Angekündigt, noch kein Dekret (Septembererklärung 2026): Der Satz würde ab dem 1. Januar 2027 auf 3 % steigen. Laut Flämischer Steuerverwaltung könnte ein vor dem 1. Januar 2027 unterzeichneter privater Kaufvertrag noch 2 % erhalten, sofern das Dekret nichts anderes bestimmt."
+      }
+    }
+  },
+  {
+    "id": 332,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Woonmaatschappij · Wonen in Vlaanderen",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/aankoop-van-een-sociale-woning-of-bouwgrond-bij-een-woonmaatschappij",
+    "amount_source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/verkooprecht/tarieven-in-het-verkooprecht/het-verkooprecht-bij-de-aankoop-van-een-sociale-woning",
+    "content": {
+      "en": {
+        "title": "Buying a Social Home or Building Plot from a Housing Company",
+        "desc": "Flemish housing companies (woonmaatschappijen) sell homes and building plots on favourable terms to people with a modest income. A new social home is sold with 6% VAT; a home sold by a housing company to a buyer in housing need carries only 1.5% registration tax. You can also get a Vlaamse Woonlening for the purchase.",
+        "deadline": "Homes are allocated in order of registration, with some priority rules.",
+        "amount": "Favourable price; 6% VAT on a new social home or 1.5% registration tax on a social home sold by a housing company (instead of 12%)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Latest personal income tax assessment"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate of household composition (municipality) and, if relevant, proof of non-taxable income, child benefit or a serious disability"
+          }
+        ],
+        "steps": [
+          "Phone a housing company in the area where you want to live",
+          "Bring your documents; if you meet the conditions you are entered in its register (you can register with as many housing companies as you like)",
+          "When a home or plot is ready, it is allocated by order of registration and priority rules; the notary applies the reduced tax in the deed"
+        ]
+      },
+      "nl": {
+        "title": "Een sociale koopwoning of bouwgrond kopen bij een woonmaatschappij",
+        "desc": "Woonmaatschappijen verkopen in Vlaanderen woningen en bouwgronden tegen gunstige voorwaarden aan mensen met een bescheiden inkomen. Op een nieuwe sociale koopwoning betaal je 6% btw; voor een woning die een woonmaatschappij verkoopt aan een woonbehoeftige koper geldt een verlaagd verkooprecht van 1,5%. Voor de aankoop kan je ook een Vlaamse Woonlening krijgen.",
+        "deadline": "Woningen worden in principe toegewezen in de volgorde van inschrijving, met bepaalde voorrangsregels.",
+        "amount": "Gunstige prijs; 6% btw op een nieuwe sociale koopwoning of 1,5% verkooprecht op een sociale woning verkocht door een woonmaatschappij (in plaats van 12%)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Meest recente aanslagbiljet personenbelasting"
+          },
+          {
+            "type": "doc",
+            "label": "Attest gezinssamenstelling (gemeente) en eventueel bewijs van niet-belastbaar inkomen, kinderbijslag of een ernstige handicap"
+          }
+        ],
+        "steps": [
+          "Neem telefonisch contact op met een woonmaatschappij in de buurt waar je wilt wonen",
+          "Breng je documenten mee; voldoe je aan de voorwaarden, dan word je ingeschreven in het inschrijvingsregister (je kan je bij onbeperkt veel woonmaatschappijen inschrijven)",
+          "Is een woning of kavel klaar, dan wordt die toegewezen volgens de volgorde van inschrijving en de voorrangsregels; de notaris past het verlaagde tarief toe in de akte"
+        ]
+      },
+      "fr": {
+        "title": "Acheter une habitation sociale ou un terrain auprès d'une société de logement",
+        "desc": "Les sociétés de logement flamandes (woonmaatschappijen) vendent des habitations et des terrains à des conditions avantageuses aux personnes à revenus modestes. Une habitation sociale neuve est vendue avec 6 % de TVA ; pour une habitation vendue par une société de logement à un acheteur dans le besoin, les droits d'enregistrement ne sont que de 1,5 %. Vous pouvez aussi obtenir un Vlaamse Woonlening pour l'achat.",
+        "deadline": "Les biens sont attribués en principe dans l'ordre d'inscription, avec certaines règles de priorité.",
+        "amount": "Prix avantageux ; 6 % de TVA sur une habitation sociale neuve ou 1,5 % de droits d'enregistrement sur une habitation sociale vendue par une société de logement (au lieu de 12 %)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Dernier avertissement-extrait de rôle à l'impôt des personnes physiques"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de composition de ménage (commune) et, le cas échéant, preuve de revenus non imposables, d'allocations familiales ou d'un handicap grave"
+          }
+        ],
+        "steps": [
+          "Téléphonez à une société de logement de la région où vous voulez habiter",
+          "Apportez vos documents ; si vous remplissez les conditions, vous êtes inscrit(e) au registre (vous pouvez vous inscrire auprès d'autant de sociétés que vous voulez)",
+          "Quand une habitation ou un lot est prêt, il est attribué selon l'ordre d'inscription et les priorités ; le notaire applique le taux réduit dans l'acte"
+        ]
+      },
+      "de": {
+        "title": "Eine Sozialwohnung oder ein Baugrundstück bei einer Wohnungsgesellschaft kaufen",
+        "desc": "Flämische Wohnungsgesellschaften (woonmaatschappijen) verkaufen Wohnungen und Baugrundstücke zu günstigen Bedingungen an Menschen mit bescheidenem Einkommen. Eine neue Sozialkaufwohnung wird mit 6 % MwSt. verkauft; für eine Wohnung, die eine Wohnungsgesellschaft an einen wohnungsbedürftigen Käufer verkauft, gilt eine Registrierungssteuer von nur 1,5 %. Für den Kauf ist auch ein Vlaamse Woonlening möglich.",
+        "deadline": "Die Vergabe erfolgt grundsätzlich in der Reihenfolge der Einschreibung, mit bestimmten Vorrangregeln.",
+        "amount": "Günstiger Preis; 6 % MwSt. auf eine neue Sozialkaufwohnung oder 1,5 % Registrierungssteuer auf eine von einer Wohnungsgesellschaft verkaufte Sozialwohnung (statt 12 %)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Letzter Einkommensteuerbescheid"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Haushaltszusammensetzung (Gemeinde) und ggf. Nachweis über nicht steuerpflichtiges Einkommen, Kindergeld oder eine schwere Behinderung"
+          }
+        ],
+        "steps": [
+          "Rufen Sie eine Wohnungsgesellschaft in der Gegend an, in der Sie wohnen möchten",
+          "Bringen Sie Ihre Unterlagen mit; erfüllen Sie die Bedingungen, werden Sie ins Register eingetragen (bei beliebig vielen Gesellschaften möglich)",
+          "Ist eine Wohnung oder ein Grundstück fertig, wird es nach Einschreibungsreihenfolge und Vorrangregeln vergeben; der Notar wendet den ermäßigten Satz in der Urkunde an"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/aankoop-van-een-sociale-woning-of-bouwgrond-bij-een-woonmaatschappij",
+      "conditions": {
+        "en": [
+          "You are 18 or older",
+          "Your income in 2026 is at least €12,046 and at most €48,137 (single), €52,943 (single with a serious disability) or €72,197 (other cases), plus €4,807 per dependant; higher limits apply in cluster 1 or 2 municipalities",
+          "You and the household members moving with you own no home or building plot (in full ownership, usufruct, long lease or building right), in Belgium or abroad, apart from a few exceptions for uninhabitable or overcrowded homes"
+        ],
+        "nl": [
+          "Je bent 18 jaar of ouder",
+          "Je inkomen is in 2026 minstens 12.046 euro en maximaal 48.137 euro (alleenstaande), 52.943 euro (alleenstaande met ernstige handicap) of 72.197 euro (andere gevallen), plus 4.807 euro per persoon ten laste; in gemeenten van cluster 1 of 2 gelden hogere grenzen",
+          "Jij en de gezinsleden die mee verhuizen hebben geen woning of bouwgrond (in volle eigendom, vruchtgebruik, erfpacht of opstal), in België of het buitenland, op enkele uitzonderingen na voor onbewoonbare of overbewoonde woningen"
+        ],
+        "fr": [
+          "Vous avez 18 ans ou plus",
+          "Vos revenus 2026 sont d'au moins 12 046 € et au maximum 48 137 € (isolé), 52 943 € (isolé avec handicap grave) ou 72 197 € (autres cas), plus 4 807 € par personne à charge ; des plafonds plus élevés s'appliquent dans les communes des clusters 1 ou 2",
+          "Vous et les membres du ménage qui déménagent avec vous ne possédez aucune habitation ni terrain (pleine propriété, usufruit, emphytéose ou superficie), en Belgique ou à l'étranger, sauf exceptions pour logements inhabitables ou surpeuplés"
+        ],
+        "de": [
+          "Sie sind mindestens 18 Jahre alt",
+          "Ihr Einkommen 2026 beträgt mindestens 12.046 € und höchstens 48.137 € (alleinstehend), 52.943 € (alleinstehend mit schwerer Behinderung) oder 72.197 € (andere Fälle), plus 4.807 € pro unterhaltsberechtigter Person; in Gemeinden der Cluster 1 oder 2 gelten höhere Grenzen",
+          "Sie und die mitziehenden Haushaltsmitglieder besitzen keine Wohnung und kein Baugrundstück (Volleigentum, Nießbrauch, Erbpacht oder Baurecht), in Belgien oder im Ausland, mit wenigen Ausnahmen für unbewohnbare oder überbelegte Wohnungen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 333,
+    "category": "housing",
+    "situations": [
+      "renting",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Woonmaatschappij · Wonen in Vlaanderen",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/een-huis-of-appartement-huren/een-sociale-woning-huren-bij-een-woonmaatschappij",
+    "amount_source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/een-huis-of-appartement-huren/een-sociale-woning-huren-bij-een-woonmaatschappij/voorwaarden-voor-een-sociale-woning",
+    "content": {
+      "en": {
+        "title": "Renting a Social Home from a Housing Company",
+        "desc": "Housing companies in Flanders rent studios, houses and flats to people with a modest income. You register online in the central register and go on a waiting list. Since 1 July 2026 new tenants pay a rent calculated with a social formula that takes their situation into account, under a nine-year lease. If you wait at least four years while renting privately, you may get the Flemish rent premium.",
+        "deadline": "Waiting times vary widely depending on your situation and the homes available.",
+        "amount": "Rent based on a social formula linked to your situation; nine-year lease",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Registration in the Belgian population or foreigners' register"
+          }
+        ],
+        "steps": [
+          "Register online in the central register for candidate tenants (or at your housing company if online does not work)",
+          "You are put on a waiting list; the housing company tells you when a home is available",
+          "A home is allocated based on waiting time, local ties, your housing situation and target groups",
+          "When you accept, you sign a nine-year lease and pay a rental deposit"
+        ]
+      },
+      "nl": {
+        "title": "Een sociale woning huren bij een woonmaatschappij",
+        "desc": "Woonmaatschappijen in Vlaanderen verhuren studio's, woningen en appartementen aan mensen met een bescheiden inkomen. Je schrijft je online in via het centraal inschrijvingsregister en komt op een wachtlijst. Sinds 1 juli 2026 betalen nieuwe huurders een huurprijs volgens een sociale formule die rekening houdt met hun situatie, met een huurovereenkomst van negen jaar. Wacht je minstens vier jaar terwijl je privé huurt, dan kan je in aanmerking komen voor de Vlaamse huurpremie.",
+        "deadline": "De wachttijd varieert sterk volgens je situatie en het aantal beschikbare woningen.",
+        "amount": "Huurprijs volgens een sociale formule op basis van je situatie; huurovereenkomst van negen jaar",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Inschrijving in het bevolkings- of vreemdelingenregister"
+          }
+        ],
+        "steps": [
+          "Schrijf je online in via het centraal inschrijvingsregister voor kandidaat-huurders (of bij je woonmaatschappij als online niet lukt)",
+          "Je komt op een wachtlijst; de woonmaatschappij laat je weten wanneer er een woning vrij is",
+          "Een woning wordt toegewezen op basis van wachttijd, lokale binding, je woonsituatie en doelgroepen",
+          "Aanvaard je de woning, dan teken je een huurovereenkomst van negen jaar en betaal je een huurwaarborg"
+        ]
+      },
+      "fr": {
+        "title": "Louer un logement social auprès d'une société de logement",
+        "desc": "Les sociétés de logement flamandes louent des studios, maisons et appartements aux personnes à revenus modestes. Vous vous inscrivez en ligne dans le registre central et êtes placé(e) sur une liste d'attente. Depuis le 1er juillet 2026, les nouveaux locataires paient un loyer calculé selon une formule sociale tenant compte de leur situation, avec un bail de neuf ans. Si vous attendez au moins quatre ans en louant dans le privé, vous pouvez avoir droit à la prime au loyer flamande.",
+        "deadline": "Le délai d'attente varie fortement selon votre situation et les logements disponibles.",
+        "amount": "Loyer selon une formule sociale liée à votre situation ; bail de neuf ans",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Inscription au registre de la population ou des étrangers"
+          }
+        ],
+        "steps": [
+          "Inscrivez-vous en ligne au registre central des candidats locataires (ou auprès de votre société de logement si cela ne marche pas en ligne)",
+          "Vous êtes placé(e) sur une liste d'attente ; la société vous prévient quand un logement est libre",
+          "Un logement est attribué selon l'ancienneté, le lien local, votre situation de logement et les groupes cibles",
+          "Si vous acceptez, vous signez un bail de neuf ans et versez une garantie locative"
+        ]
+      },
+      "de": {
+        "title": "Eine Sozialwohnung bei einer Wohnungsgesellschaft mieten",
+        "desc": "Wohnungsgesellschaften in Flandern vermieten Studios, Häuser und Wohnungen an Menschen mit bescheidenem Einkommen. Sie melden sich online im zentralen Register an und kommen auf eine Warteliste. Seit dem 1. Juli 2026 zahlen neue Mieter eine nach einer sozialen Formel berechnete Miete, die ihre Lage berücksichtigt, mit einem Mietvertrag über neun Jahre. Warten Sie mindestens vier Jahre und mieten privat, kann Ihnen die flämische Mietprämie zustehen.",
+        "deadline": "Die Wartezeit hängt stark von Ihrer Lage und den verfügbaren Wohnungen ab.",
+        "amount": "Miete nach einer sozialen Formel je nach Ihrer Lage; Mietvertrag über neun Jahre",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Eintragung im Bevölkerungs- oder Fremdenregister"
+          }
+        ],
+        "steps": [
+          "Melden Sie sich online im zentralen Register für Mietinteressenten an (oder bei Ihrer Wohnungsgesellschaft, falls online nicht klappt)",
+          "Sie kommen auf eine Warteliste; die Gesellschaft informiert Sie, wenn eine Wohnung frei wird",
+          "Eine Wohnung wird nach Wartezeit, lokaler Bindung, Wohnsituation und Zielgruppen vergeben",
+          "Nehmen Sie an, unterschreiben Sie einen Mietvertrag über neun Jahre und zahlen eine Mietkaution"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/huren-en-verhuren/een-huis-of-appartement-huren/een-sociale-woning-huren-bij-een-woonmaatschappij",
+      "conditions": {
+        "en": [
+          "You are 18 or older and registered in the Belgian population or foreigners' register",
+          "Your indexed income (from at most 3 years ago) does not exceed €31,361 (single), €33,988 (single with a disability) or €47,039 (other cases) when registering in 2026, plus €2,629 per dependant",
+          "You do not fully own or hold full usufruct of a home or building plot in Belgium or abroad when you register",
+          "Your assets and savings stay below the limit of the means test (for new tenants since January 2024)"
+        ],
+        "nl": [
+          "Je bent 18 jaar of ouder en ingeschreven in het bevolkings- of vreemdelingenregister",
+          "Je geïndexeerd inkomen (van maximaal 3 jaar terug) is niet hoger dan 31.361 euro (alleenstaande), 33.988 euro (alleenstaande met handicap) of 47.039 euro (andere gevallen) bij inschrijving in 2026, plus 2.629 euro per persoon ten laste",
+          "Je hebt geen woning of bouwgrond volledig in volle eigendom of volledig vruchtgebruik, in België of het buitenland, op het moment van inschrijving",
+          "Je vermogen en saldi op spaar-, betaal-, termijn- en effectenrekeningen blijven onder de grens van de middelentoets (voor nieuwe huurders sinds januari 2024)"
+        ],
+        "fr": [
+          "Vous avez 18 ans ou plus et êtes inscrit(e) au registre de la population ou des étrangers",
+          "Vos revenus indexés (datant de 3 ans maximum) ne dépassent pas 31 361 € (isolé), 33 988 € (isolé handicapé) ou 47 039 € (autres cas) pour une inscription en 2026, plus 2 629 € par personne à charge",
+          "Vous ne possédez pas entièrement en pleine propriété ou en usufruit une habitation ou un terrain, en Belgique ou à l'étranger, au moment de l'inscription",
+          "Votre patrimoine et vos soldes bancaires restent sous le plafond du test de moyens (nouveaux locataires depuis janvier 2024)"
+        ],
+        "de": [
+          "Sie sind mindestens 18 Jahre alt und im Bevölkerungs- oder Fremdenregister eingetragen",
+          "Ihr indexiertes Einkommen (höchstens 3 Jahre alt) liegt bei Anmeldung 2026 nicht über 31.361 € (alleinstehend), 33.988 € (alleinstehend mit Behinderung) oder 47.039 € (andere Fälle), plus 2.629 € pro unterhaltsberechtigter Person",
+          "Sie besitzen bei der Anmeldung keine Wohnung und kein Baugrundstück vollständig in Volleigentum oder Nießbrauch, in Belgien oder im Ausland",
+          "Ihr Vermögen und Ihre Kontoguthaben bleiben unter der Grenze der Bedürftigkeitsprüfung (für neue Mieter seit Januar 2024)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 334,
+    "category": "other",
+    "situations": [
+      "low-income",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Milieumaatschappij (VMM)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://vmm.vlaanderen.be/diensten-producten/sociaal-tarief-heffing-op-waterverontreiniging",
+    "content": {
+      "en": {
+        "title": "Social Rate on the Water Pollution Levy (Own Water Source)",
+        "desc": "Households that get a water pollution levy from the Flemish Environment Agency (VMM), for example because they use their own well, pay only 20% of it if someone in the household receives a guaranteed income for older people, a living wage, a disability income replacement or integration allowance, or a care budget for older people. In most cases VMM applies it automatically.",
+        "deadline": "The situation on 1 January of the levy year counts. Once you have applied, you do not have to pay the levy until you get a decision.",
+        "amount": "You pay 20% of the levy (80% exempt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate or letter showing the allowance on 1 January (Federal Pension Service, OCMW, FPS Social Security or the Flemish Social Protection agency)"
+          }
+        ],
+        "steps": [
+          "Usually nothing to do: VMM knows your situation and sends a levy bill at the social rate",
+          "Not applied? Write your IBAN on the certificate or letter you received and add your file number or a copy of the levy bill",
+          "Send it to VMM, Koning Albert II-laan 15 bus 470, 1210 Brussels, or by e-mail to reactieskv@vmm.be"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal tarief voor de heffing op waterverontreiniging",
+        "desc": "Gezinnen die een heffing op waterverontreiniging krijgen van de Vlaamse Milieumaatschappij (VMM), bijvoorbeeld omdat ze putwater uit een eigen waterwinning gebruiken, betalen maar 20% van die heffing als iemand in het gezin een inkomensgarantie voor ouderen, een leefloon, een inkomensvervangende of integratietegemoetkoming of een zorgbudget voor ouderen krijgt. Meestal past de VMM het automatisch toe.",
+        "deadline": "De situatie op 1 januari van het heffingsjaar telt. Heb je het aangevraagd, dan hoef je de heffing nog niet te betalen tot je een beslissing krijgt.",
+        "amount": "Je betaalt 20% van de heffing (80% vrijgesteld)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest of brief die de tegemoetkoming op 1 januari aantoont (Federale Pensioendienst, OCMW, FOD Sociale Zekerheid of agentschap Vlaamse sociale bescherming)"
+          }
+        ],
+        "steps": [
+          "Meestal hoef je niets te doen: de VMM is op de hoogte en stuurt een heffingsbiljet met sociaal tarief",
+          "Niet toegepast? Vul je IBAN in op het attest of de brief die je kreeg en vermeld je dossiernummer of voeg een kopie van het heffingsbiljet toe",
+          "Stuur het naar de VMM, t.a.v. de leidend ambtenaar, Koning Albert II-laan 15 bus 470, 1210 Brussel, of mail naar reactieskv@vmm.be"
+        ]
+      },
+      "fr": {
+        "title": "Tarif social de la redevance sur la pollution de l'eau (captage propre)",
+        "desc": "Les ménages qui reçoivent de la VMM une redevance sur la pollution de l'eau, par exemple parce qu'ils utilisent leur propre puits, n'en paient que 20 % si un membre du ménage perçoit la GRAPA, le revenu d'intégration, une allocation de remplacement de revenus ou d'intégration ou un budget de soins pour personnes âgées. La VMM l'applique généralement automatiquement.",
+        "deadline": "C'est la situation au 1er janvier de l'année de la redevance qui compte. Une fois la demande faite, vous ne devez pas payer avant la décision.",
+        "amount": "Vous payez 20 % de la redevance (80 % exonérés)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation ou lettre prouvant l'allocation au 1er janvier (Service fédéral des Pensions, CPAS, SPF Sécurité sociale ou agence flamande de protection sociale)"
+          }
+        ],
+        "steps": [
+          "En général rien à faire : la VMM connaît votre situation et envoie un avertissement au tarif social",
+          "Pas appliqué ? Inscrivez votre IBAN sur l'attestation ou la lettre reçue et ajoutez votre numéro de dossier ou une copie de l'avertissement",
+          "Envoyez-le à la VMM, Koning Albert II-laan 15 bus 470, 1210 Bruxelles, ou par e-mail à reactieskv@vmm.be"
+        ]
+      },
+      "de": {
+        "title": "Sozialtarif für die Wasserverschmutzungsabgabe (eigene Wasserentnahme)",
+        "desc": "Haushalte, die von der Flämischen Umweltagentur (VMM) eine Wasserverschmutzungsabgabe erhalten, etwa weil sie einen eigenen Brunnen nutzen, zahlen nur 20 % davon, wenn jemand im Haushalt eine Einkommensgarantie für Betagte, ein Eingliederungseinkommen, eine Einkommensersatz- oder Integrationsbeihilfe oder ein Pflegebudget für Ältere erhält. Meist wendet die VMM es automatisch an.",
+        "deadline": "Maßgeblich ist die Lage am 1. Januar des Abgabejahres. Nach dem Antrag müssen Sie bis zur Entscheidung nicht zahlen.",
+        "amount": "Sie zahlen 20 % der Abgabe (80 % befreit)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung oder Schreiben über die Leistung am 1. Januar (Föderaler Pensionsdienst, ÖSHZ, FÖD Soziale Sicherheit oder Agentur für flämischen Sozialschutz)"
+          }
+        ],
+        "steps": [
+          "Meist nichts zu tun: Die VMM kennt Ihre Lage und schickt einen Bescheid zum Sozialtarif",
+          "Nicht angewendet? Tragen Sie Ihre IBAN auf der erhaltenen Bescheinigung oder dem Schreiben ein und geben Sie Ihre Aktennummer an oder legen Sie eine Kopie des Bescheids bei",
+          "Senden Sie es an die VMM, Koning Albert II-laan 15 bus 470, 1210 Brüssel, oder per E-Mail an reactieskv@vmm.be"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://vmm.vlaanderen.be/diensten-producten/sociaal-tarief-heffing-op-waterverontreiniging",
+      "conditions": {
+        "en": [
+          "On 1 January of the levy year you or a household member at the same address received the income guarantee for older people (or guaranteed income), a living wage, a disability income replacement and/or integration allowance, or a care budget for older people in need of care",
+          "The levy bill is in your name or that of a household member at the same address, covers only your household's water use, and the place of use is your legal address",
+          "If the bill covers more than one household, you cannot get the social rate but can request compensation instead"
+        ],
+        "nl": [
+          "Op 1 januari van het heffingsjaar kreeg jij of een gezinslid op hetzelfde adres een inkomensgarantie voor ouderen (of gewaarborgd inkomen), een leefloon, een inkomensvervangende en/of integratietegemoetkoming, of een zorgbudget voor ouderen met een zorgnood",
+          "Het heffingsbiljet staat op jouw naam of die van een gezinslid op hetzelfde adres, gaat enkel over het waterverbruik van je gezin, en de plaats van verbruik is je wettelijke domicilie",
+          "Gaat het heffingsbiljet over meer dan één gezin, dan kan je geen sociaal tarief krijgen, maar wel een compensatie aanvragen"
+        ],
+        "fr": [
+          "Au 1er janvier de l'année de la redevance, vous ou un membre du ménage à la même adresse perceviez la GRAPA (ou le revenu garanti), le revenu d'intégration, une allocation de remplacement de revenus et/ou d'intégration, ou un budget de soins pour personnes âgées",
+          "L'avertissement est à votre nom ou à celui d'un membre du ménage à la même adresse, ne concerne que la consommation de votre ménage, et le lieu de consommation est votre domicile légal",
+          "Si l'avertissement concerne plus d'un ménage, le tarif social n'est pas possible mais vous pouvez demander une compensation"
+        ],
+        "de": [
+          "Am 1. Januar des Abgabejahres erhielten Sie oder ein Haushaltsmitglied an derselben Adresse die Einkommensgarantie für Betagte (oder garantiertes Einkommen), ein Eingliederungseinkommen, eine Einkommensersatz- und/oder Integrationsbeihilfe oder ein Pflegebudget für pflegebedürftige Ältere",
+          "Der Bescheid lautet auf Sie oder ein Haushaltsmitglied an derselben Adresse, betrifft nur den Wasserverbrauch Ihres Haushalts, und der Verbrauchsort ist Ihr gesetzlicher Wohnsitz",
+          "Betrifft der Bescheid mehr als einen Haushalt, ist kein Sozialtarif möglich, aber Sie können eine Kompensation beantragen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 335,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "VAPH (Vlaams Agentschap voor Personen met een Handicap)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/ondersteuning-vragen-aan-het-vaph-erkenning-handicap",
+    "content": {
+      "en": {
+        "title": "Asking the VAPH for Support (Recognition of a Disability)",
+        "desc": "The Flemish Agency for Persons with a Disability (VAPH) funds care and support, such as a personal assistance budget (PVB) or allowances for aids and adaptations. To get them, the VAPH must recognise your disability. Recognition is always tied to a request for a specific form of support: you cannot apply for recognition alone.",
+        "deadline": "You must be under 65 when you first ask the VAPH for support.",
+        "amount": "Access to VAPH support such as a personal assistance budget or allowances for aids",
+        "requirements": [],
+        "steps": [
+          "Choose the support you need (personal assistance budget, or aids and adaptations) and read how to apply on the VAPH website",
+          "Already have a certificate from another body establishing your disability? You may use the faster procedure (article 6 bis)",
+          "The procedure answers two questions: is your disability recognised, and is the requested support approved? Questions: VAPH, 02 249 30 00"
+        ]
+      },
+      "nl": {
+        "title": "Ondersteuning vragen aan het VAPH (erkenning handicap)",
+        "desc": "Het Vlaams Agentschap voor Personen met een Handicap (VAPH) financiert zorg en ondersteuning, zoals een persoonsvolgend budget (PVB) of tegemoetkomingen voor hulpmiddelen en aanpassingen. Daarvoor moet het VAPH je handicap erkennen. Een erkenning hangt altijd samen met een vraag naar een bepaalde ondersteuning: je kan geen aanvraag doen enkel om erkend te worden.",
+        "deadline": "Je moet jonger zijn dan 65 wanneer je de eerste keer ondersteuning vraagt aan het VAPH.",
+        "amount": "Toegang tot ondersteuning van het VAPH, zoals een persoonsvolgend budget of tegemoetkomingen voor hulpmiddelen",
+        "requirements": [],
+        "steps": [
+          "Kies welke ondersteuning je nodig hebt (persoonsvolgend budget of hulpmiddelen en aanpassingen) en lees op de website van het VAPH hoe je die aanvraagt",
+          "Heb je al een attest waaruit blijkt dat een andere instantie je handicap vaststelde? Dan kan je de versnelde procedure (artikel 6 bis) volgen",
+          "De procedure beantwoordt 2 vragen: wordt je handicap erkend, en wordt de gevraagde ondersteuning goedgekeurd? Vragen: VAPH, 02 249 30 00"
+        ]
+      },
+      "fr": {
+        "title": "Demander un soutien au VAPH (reconnaissance du handicap)",
+        "desc": "L'Agence flamande pour les personnes handicapées (VAPH) finance des soins et du soutien, comme un budget personnalisé (PVB) ou des interventions pour aides et adaptations. Pour cela, le VAPH doit reconnaître votre handicap. La reconnaissance est toujours liée à une demande de soutien précise : on ne peut pas demander seulement la reconnaissance.",
+        "deadline": "Vous devez avoir moins de 65 ans lors de votre première demande au VAPH.",
+        "amount": "Accès au soutien du VAPH, comme un budget personnalisé ou des interventions pour aides",
+        "requirements": [],
+        "steps": [
+          "Choisissez le soutien nécessaire (budget personnalisé, ou aides et adaptations) et lisez sur le site du VAPH comment le demander",
+          "Vous avez déjà une attestation d'un autre organisme constatant votre handicap ? Vous pouvez suivre la procédure accélérée (article 6 bis)",
+          "La procédure répond à deux questions : votre handicap est-il reconnu, et le soutien demandé est-il accordé ? Questions : VAPH, 02 249 30 00"
+        ]
+      },
+      "de": {
+        "title": "Unterstützung beim VAPH beantragen (Anerkennung einer Behinderung)",
+        "desc": "Die Flämische Agentur für Personen mit Behinderung (VAPH) finanziert Pflege und Unterstützung, etwa ein personengebundenes Budget (PVB) oder Zuschüsse für Hilfsmittel und Anpassungen. Dafür muss die VAPH Ihre Behinderung anerkennen. Die Anerkennung ist immer an einen Antrag auf eine bestimmte Unterstützung gebunden: Eine Anerkennung allein kann nicht beantragt werden.",
+        "deadline": "Sie müssen bei Ihrem ersten Antrag bei der VAPH jünger als 65 sein.",
+        "amount": "Zugang zu VAPH-Unterstützung wie einem personengebundenen Budget oder Zuschüssen für Hilfsmittel",
+        "requirements": [],
+        "steps": [
+          "Wählen Sie die benötigte Unterstützung (personengebundenes Budget oder Hilfsmittel und Anpassungen) und lesen Sie auf der VAPH-Website, wie Sie sie beantragen",
+          "Haben Sie bereits eine Bescheinigung einer anderen Stelle über Ihre Behinderung? Dann ist das beschleunigte Verfahren (Artikel 6 bis) möglich",
+          "Das Verfahren klärt zwei Fragen: Wird Ihre Behinderung anerkannt, und wird die beantragte Unterstützung bewilligt? Fragen: VAPH, 02 249 30 00"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/ondersteuning-vragen-aan-het-vaph-erkenning-handicap",
+      "conditions": {
+        "en": [
+          "You live in Flanders or the Brussels-Capital Region, are registered in the Belgian population or foreigners' register and actually live there",
+          "You have lived in Belgium for 5 uninterrupted years before the request (or 10 years over your life)",
+          "You are under 65 at your first request and you are an adult (minors go through the intersectoral access gate of the agency Opgroeien)",
+          "The VAPH recognises you as a person with a disability"
+        ],
+        "nl": [
+          "Je verblijft in Vlaanderen of het Brussels Hoofdstedelijk Gewest, bent ingeschreven in het bevolkings- of vreemdelingenregister en verblijft er effectief",
+          "Je verblijft voorafgaand aan je aanvraag al 5 jaar ononderbroken in België (of 10 jaar in de loop van je leven)",
+          "Je bent jonger dan 65 bij je eerste aanvraag en meerderjarig (minderjarigen gaan via de intersectorale toegangspoort van agentschap Opgroeien)",
+          "Het VAPH erkent je als persoon met een handicap"
+        ],
+        "fr": [
+          "Vous résidez en Flandre ou en Région de Bruxelles-Capitale, êtes inscrit(e) au registre de la population ou des étrangers et y résidez effectivement",
+          "Vous résidez en Belgique depuis 5 ans sans interruption avant la demande (ou 10 ans au cours de votre vie)",
+          "Vous avez moins de 65 ans lors de la première demande et êtes majeur(e) (les mineurs passent par la porte d'accès intersectorielle de l'agence Opgroeien)",
+          "Le VAPH vous reconnaît comme personne handicapée"
+        ],
+        "de": [
+          "Sie wohnen in Flandern oder der Region Brüssel-Hauptstadt, sind im Bevölkerungs- oder Fremdenregister eingetragen und wohnen tatsächlich dort",
+          "Sie wohnen vor dem Antrag seit 5 Jahren ununterbrochen in Belgien (oder 10 Jahre im Laufe Ihres Lebens)",
+          "Sie sind beim ersten Antrag unter 65 und volljährig (Minderjährige wenden sich an das intersektorale Zugangstor der Agentur Opgroeien)",
+          "Die VAPH erkennt Sie als Person mit Behinderung an"
+        ]
+      }
+    }
+  },
+  {
+    "id": 336,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse overheid (Vlaanderen.be)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/gezondheid-en-welzijn/handicap/hulpmiddelen-en-begeleiding/teletolk-voor-doven-of-slechthorenden",
+    "content": {
+      "en": {
+        "title": "Teletolk: Free Relay Calls for Deaf or Hard-of-Hearing People",
+        "desc": "Teletolk is a free service of the Flemish government for deaf or hard-of-hearing people. You type your question online, a teletolk reads it to the person you want to reach (a doctor, hairdresser, authority...) and you see the answer on your screen. Use it for personal calls, such as making appointments or asking for information. The teletolk is bound by confidentiality.",
+        "deadline": "Available every working day from 8:00 to 19:00 and on Saturdays from 10:00 to 18:00; please end a session after 30 minutes.",
+        "amount": "Free",
+        "requirements": [],
+        "steps": [
+          "Go to the Teletolk page on Vlaanderen.be and click 'Start een Teletolksessie'",
+          "Type your question; the teletolk reads it out and types the answer back to you"
+        ]
+      },
+      "nl": {
+        "title": "Teletolk voor doven of slechthorenden",
+        "desc": "Teletolk is een gratis dienst van de Vlaamse overheid voor wie doof of slechthorend is. Je tikt je vraag online in, een teletolk leest ze voor aan de persoon die je wilt bereiken (arts, kapper, overheid...) en je ziet het antwoord op je scherm. Je gebruikt het voor persoonlijke gesprekken, zoals afspraken maken of informatie vragen. De teletolk heeft zwijgplicht.",
+        "deadline": "Bereikbaar elke werkdag van 8 tot 19 uur en op zaterdag van 10 tot 18 uur; rond een gesprek liefst na 30 minuten af.",
+        "amount": "Gratis",
+        "requirements": [],
+        "steps": [
+          "Ga naar de pagina Teletolk op Vlaanderen.be en klik op 'Start een Teletolksessie'",
+          "Tik je vraag in; de teletolk leest ze voor en tikt het antwoord voor je uit"
+        ]
+      },
+      "fr": {
+        "title": "Teletolk : appels relayés gratuits pour personnes sourdes ou malentendantes",
+        "desc": "Teletolk est un service gratuit de l'autorité flamande pour les personnes sourdes ou malentendantes. Vous tapez votre question en ligne, un teletolk la lit à la personne que vous voulez joindre (médecin, coiffeur, administration...) et vous voyez la réponse à l'écran. Il sert aux conversations personnelles, comme prendre rendez-vous ou demander des informations. Le teletolk est tenu au secret.",
+        "deadline": "Disponible chaque jour ouvrable de 8 h à 19 h et le samedi de 10 h à 18 h ; terminez si possible après 30 minutes.",
+        "amount": "Gratuit",
+        "requirements": [],
+        "steps": [
+          "Allez sur la page Teletolk de Vlaanderen.be et cliquez sur 'Start een Teletolksessie'",
+          "Tapez votre question ; le teletolk la lit et vous retranscrit la réponse"
+        ]
+      },
+      "de": {
+        "title": "Teletolk: kostenloser Vermittlungsdienst für gehörlose oder schwerhörige Menschen",
+        "desc": "Teletolk ist ein kostenloser Dienst der flämischen Regierung für gehörlose oder schwerhörige Menschen. Sie tippen Ihre Frage online ein, ein Teletolk liest sie der gewünschten Person vor (Arzt, Friseur, Behörde...) und Sie sehen die Antwort auf dem Bildschirm. Er dient persönlichen Gesprächen wie Terminvereinbarungen oder Auskünften. Der Teletolk ist zur Verschwiegenheit verpflichtet.",
+        "deadline": "Erreichbar werktags von 8 bis 19 Uhr und samstags von 10 bis 18 Uhr; beenden Sie ein Gespräch möglichst nach 30 Minuten.",
+        "amount": "Kostenlos",
+        "requirements": [],
+        "steps": [
+          "Gehen Sie auf die Teletolk-Seite von Vlaanderen.be und klicken Sie auf 'Start een Teletolksessie'",
+          "Tippen Sie Ihre Frage ein; der Teletolk liest sie vor und tippt Ihnen die Antwort"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/gezondheid-en-welzijn/handicap/hulpmiddelen-en-begeleiding/teletolk-voor-doven-of-slechthorenden",
+      "conditions": {
+        "en": [
+          "You are deaf or hard of hearing",
+          "The call is for personal purposes, not commercial; no paid numbers (0906, 0909) and no calls abroad"
+        ],
+        "nl": [
+          "Je bent doof of slechthorend",
+          "Het gesprek is voor persoonlijke doeleinden, niet commercieel; geen betaalnummers (0906, 0909) en geen gesprekken naar het buitenland"
+        ],
+        "fr": [
+          "Vous êtes sourd(e) ou malentendant(e)",
+          "L'appel est personnel, pas commercial ; pas de numéros payants (0906, 0909) ni d'appels vers l'étranger"
+        ],
+        "de": [
+          "Sie sind gehörlos oder schwerhörig",
+          "Das Gespräch ist privat, nicht kommerziell; keine kostenpflichtigen Nummern (0906, 0909) und keine Auslandsgespräche"
+        ]
+      }
+    }
+  },
+  {
+    "id": 337,
+    "category": "employment",
+    "situations": [
+      "employee"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/salaris-onderwijspersoneel/vergoedingen-en-toelagen-voor-onderwijspersoneel/de-lerarenbonus",
+    "content": {
+      "en": {
+        "title": "Teacher Bonus: Fewer Teaching Hours, Full Pay, While Training to Teach",
+        "desc": "Staff in Flemish primary and secondary schools who follow a teacher training course can reduce their teaching load by 2 or 3 periods a week while keeping their full salary. Staff without a teaching qualification are entitled to it; staff who already have one and train for a shortage subject or post can get it with the school board's agreement.",
+        "deadline": "While you are enrolled in a teacher training course and appointed for at least 105 consecutive calendar days.",
+        "amount": "2 fewer periods a week (50–74% job) or 3 fewer (75% or more), with full salary",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of enrolment in a teacher training course"
+          }
+        ],
+        "steps": [
+          "Discuss taking the teacher bonus with your school board; if you already have a teaching qualification, it must agree",
+          "Questions: contact the Ministry via Mijn Onderwijs Personeel"
+        ]
+      },
+      "nl": {
+        "title": "De lerarenbonus",
+        "desc": "Personeelsleden in het Vlaamse basis- en secundair onderwijs die een lerarenopleiding volgen, kunnen hun opdracht met 2 of 3 lesuren per week verminderen met behoud van hun volledige salaris. Wie nog geen pedagogisch bekwaamheidsbewijs heeft, heeft er recht op; wie er al een heeft en een opleiding volgt voor een knelpuntvak of -ambt, kan het krijgen met instemming van het schoolbestuur.",
+        "deadline": "Zolang je ingeschreven bent in een lerarenopleiding en aangesteld bent voor minstens 105 aaneensluitende kalenderdagen.",
+        "amount": "2 lesuren minder per week (opdracht van 50 tot 74%) of 3 minder (75% of meer), met volledig salaris",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van inschrijving in een lerarenopleiding"
+          }
+        ],
+        "steps": [
+          "Bespreek de opname van de lerarenbonus met je schoolbestuur; heb je al een pedagogisch bekwaamheidsbewijs, dan moet het bestuur instemmen",
+          "Vragen: neem contact op via Mijn Onderwijs Personeel"
+        ]
+      },
+      "fr": {
+        "title": "Bonus enseignant : moins d'heures de cours, salaire complet pendant la formation",
+        "desc": "Les membres du personnel de l'enseignement fondamental et secondaire flamand qui suivent une formation d'enseignant peuvent réduire leur charge de 2 ou 3 périodes par semaine en gardant leur salaire complet. Ceux qui n'ont pas encore de titre pédagogique y ont droit ; ceux qui en ont un et se forment pour une matière ou fonction en pénurie peuvent l'obtenir avec l'accord du pouvoir organisateur.",
+        "deadline": "Tant que vous êtes inscrit(e) dans une formation d'enseignant et désigné(e) pour au moins 105 jours calendrier consécutifs.",
+        "amount": "2 périodes de moins par semaine (charge de 50 à 74 %) ou 3 de moins (75 % ou plus), salaire complet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve d'inscription dans une formation d'enseignant"
+          }
+        ],
+        "steps": [
+          "Discutez de la prise du bonus avec votre pouvoir organisateur ; si vous avez déjà un titre pédagogique, il doit donner son accord",
+          "Questions : contactez le ministère via Mijn Onderwijs Personeel"
+        ]
+      },
+      "de": {
+        "title": "Lehrerbonus: weniger Unterrichtsstunden bei vollem Gehalt während der Lehrerausbildung",
+        "desc": "Personal an flämischen Grund- und Sekundarschulen, das eine Lehrerausbildung absolviert, kann seinen Lehrauftrag um 2 oder 3 Stunden pro Woche bei vollem Gehalt verringern. Wer noch keinen pädagogischen Befähigungsnachweis hat, hat Anspruch darauf; wer bereits einen hat und sich für ein Mangelfach oder -amt ausbildet, kann ihn mit Zustimmung des Schulträgers erhalten.",
+        "deadline": "Solange Sie in einer Lehrerausbildung eingeschrieben und für mindestens 105 aufeinanderfolgende Kalendertage angestellt sind.",
+        "amount": "2 Stunden weniger pro Woche (Auftrag 50–74 %) oder 3 weniger (ab 75 %), bei vollem Gehalt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis der Einschreibung in eine Lehrerausbildung"
+          }
+        ],
+        "steps": [
+          "Besprechen Sie die Inanspruchnahme mit Ihrem Schulträger; haben Sie bereits einen Befähigungsnachweis, muss er zustimmen",
+          "Fragen: Kontakt über Mijn Onderwijs Personeel"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/salaris-onderwijspersoneel/vergoedingen-en-toelagen-voor-onderwijspersoneel/de-lerarenbonus",
+      "conditions": {
+        "en": [
+          "You are appointed at least half-time in a recruitment post in mainstream or special primary or secondary education, for at least 105 consecutive calendar days",
+          "You are enrolled in a teacher training course",
+          "You have no teaching qualification yet, or you have one and the training leads to a required qualification for a shortage subject or post (with the school board's agreement)"
+        ],
+        "nl": [
+          "Je bent minstens halftijds aangesteld in een wervingsambt in het gewoon of buitengewoon basis- of secundair onderwijs, voor minstens 105 aaneensluitende kalenderdagen",
+          "Je bent ingeschreven in een lerarenopleiding",
+          "Je hebt nog geen pedagogisch bekwaamheidsbewijs, of je hebt er een en de opleiding leidt tot een vereist bekwaamheidsbewijs voor een knelpuntvak of -ambt (met instemming van het schoolbestuur)"
+        ],
+        "fr": [
+          "Vous êtes désigné(e) au moins à mi-temps dans une fonction de recrutement de l'enseignement fondamental ou secondaire ordinaire ou spécialisé, pour au moins 105 jours calendrier consécutifs",
+          "Vous êtes inscrit(e) dans une formation d'enseignant",
+          "Vous n'avez pas encore de titre pédagogique, ou vous en avez un et la formation mène à un titre requis pour une matière ou fonction en pénurie (avec l'accord du pouvoir organisateur)"
+        ],
+        "de": [
+          "Sie sind mindestens halbtags in einem Einstellungsamt der Regel- oder Förder-Grund- oder Sekundarschule angestellt, für mindestens 105 aufeinanderfolgende Kalendertage",
+          "Sie sind in einer Lehrerausbildung eingeschrieben",
+          "Sie haben noch keinen pädagogischen Befähigungsnachweis, oder Sie haben einen und die Ausbildung führt zu einem erforderlichen Nachweis für ein Mangelfach oder -amt (mit Zustimmung des Schulträgers)"
+        ]
+      }
+    }
   }
 ]
