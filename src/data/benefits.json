@@ -29326,5 +29326,1759 @@
         ]
       }
     }
+  },
+  {
+    "id": 240,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/vergevorderde-diabetes-terugbetalingen-in-het-kader-van-een-zorgtraject-diabetes-type-2",
+    "content": {
+      "en": {
+        "title": "Care Pathway for Type 2 Diabetes",
+        "desc": "People with advanced type 2 diabetes can agree a personal follow-up plan with their GP and diabetes specialist. In the pathway, GP and specialist consultations are fully reimbursed at official rates (not home visits), you get up to 5 diabetes education sessions a year (at least one at home), 2 free 30-minute dietitian sessions and, if you have a higher risk of foot problems, 2 free 45-minute podiatry sessions a year, and no personal share for the yearly dental check-up. If you take insulin or an incretin mimetic, you also get a blood glucose meter every 3 years and 3 × 50 test strips and 100 lancets every 6 months.",
+        "deadline": "No deadline. You decide whether and when to start.",
+        "amount": "Consultations, dietitian and podiatry sessions and self-care material free; no personal share for the yearly dental check-up (supplements of non-agreed providers are not covered)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Care pathway contract signed by you, your GP and your specialist"
+          }
+        ],
+        "steps": [
+          "Discuss the care pathway with your GP or specialist",
+          "Sign the care pathway contract with both doctors",
+          "Your GP sends a copy to your health fund; the pathway normally starts on the day the health fund receives it"
+        ]
+      },
+      "nl": {
+        "title": "Zorgtraject diabetes type 2",
+        "desc": "Mensen met vergevorderde diabetes type 2 kunnen met hun huisarts en diabetesspecialist een persoonlijk opvolgingsplan afspreken. In het zorgtraject worden raadplegingen bij huisarts en specialist volledig terugbetaald tegen de officiële tarieven (niet de huisbezoeken), krijg je maximaal 5 sessies diabeteseducatie per jaar (minstens 1 thuis), 2 gratis diëtetieksessies van 30 minuten en, bij een verhoogd risico op voetproblemen, 2 gratis podologiesessies van 45 minuten per jaar, en betaal je geen remgeld voor het jaarlijks mondonderzoek bij de tandarts. Neem je insuline of een incretinemimeticum, dan krijg je ook om de 3 jaar een bloedglucosemeter en om de 6 maanden 3 × 50 strips en 100 lancetten.",
+        "deadline": "Geen deadline. Je beslist zelf of en wanneer je start.",
+        "amount": "Raadplegingen, diëtetiek- en podologiesessies en zelfzorgmateriaal gratis; geen remgeld voor het jaarlijks mondonderzoek (supplementen van niet-geconventioneerde zorgverleners niet terugbetaald)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Zorgtrajectcontract, ondertekend door jou, je huisarts en je specialist"
+          }
+        ],
+        "steps": [
+          "Bespreek het zorgtraject met je huisarts of specialist",
+          "Onderteken het zorgtrajectcontract samen met beide artsen",
+          "Je huisarts stuurt een kopie naar je ziekenfonds; het traject start normaal op de dag dat het ziekenfonds die ontvangt"
+        ]
+      },
+      "fr": {
+        "title": "Trajet de soins diabète de type 2",
+        "desc": "Les personnes atteintes d'un diabète de type 2 avancé peuvent convenir d'un plan de suivi personnel avec leur médecin généraliste et leur spécialiste du diabète. Dans le trajet, les consultations chez le généraliste et le spécialiste sont entièrement remboursées aux tarifs officiels (pas les visites à domicile), vous avez droit à 5 séances d'éducation au diabète par an maximum (dont au moins 1 à domicile), 2 séances de diététique gratuites de 30 minutes et, en cas de risque accru de problèmes aux pieds, 2 séances de podologie gratuites de 45 minutes par an, et pas de ticket modérateur pour l'examen buccal annuel. Si vous prenez de l'insuline ou un incrétinomimétique, vous recevez aussi un glucomètre tous les 3 ans et 3 × 50 tigettes et 100 lancettes tous les 6 mois.",
+        "deadline": "Pas de délai. Vous décidez si et quand vous commencez.",
+        "amount": "Consultations, séances de diététique et de podologie et matériel d'autogestion gratuits ; pas de ticket modérateur pour l'examen buccal annuel (suppléments des prestataires non conventionnés non remboursés)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Contrat de trajet de soins signé par vous, votre médecin généraliste et votre spécialiste"
+          }
+        ],
+        "steps": [
+          "Parlez du trajet de soins avec votre médecin généraliste ou votre spécialiste",
+          "Signez le contrat de trajet de soins avec les deux médecins",
+          "Votre médecin généraliste envoie une copie à votre mutualité ; le trajet commence normalement le jour où elle la reçoit"
+        ]
+      },
+      "de": {
+        "title": "Behandlungspfad Typ-2-Diabetes",
+        "desc": "Menschen mit fortgeschrittenem Typ-2-Diabetes können mit Hausarzt und Diabetesfacharzt einen persönlichen Betreuungsplan vereinbaren. Im Behandlungspfad werden Konsultationen beim Hausarzt und Facharzt zu offiziellen Tarifen voll erstattet (keine Hausbesuche), Sie erhalten bis zu 5 Diabetesschulungen pro Jahr (mindestens 1 zu Hause), 2 kostenlose Diätberatungen von 30 Minuten und bei erhöhtem Risiko für Fußprobleme 2 kostenlose Podologiesitzungen von 45 Minuten pro Jahr, und Sie zahlen keinen Eigenanteil für die jährliche Mundkontrolle beim Zahnarzt. Wenn Sie Insulin oder ein Inkretinmimetikum nehmen, erhalten Sie außerdem alle 3 Jahre ein Blutzuckermessgerät und alle 6 Monate 3 × 50 Teststreifen und 100 Lanzetten.",
+        "deadline": "Keine Frist. Sie entscheiden selbst, ob und wann Sie beginnen.",
+        "amount": "Konsultationen, Diät- und Podologiesitzungen und Selbstkontrollmaterial kostenlos; kein Eigenanteil für die jährliche Mundkontrolle (Zuschläge nicht vertragsgebundener Anbieter werden nicht erstattet)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Behandlungspfadvertrag, unterschrieben von Ihnen, Ihrem Hausarzt und Ihrem Facharzt"
+          }
+        ],
+        "steps": [
+          "Besprechen Sie den Behandlungspfad mit Ihrem Hausarzt oder Facharzt",
+          "Unterschreiben Sie den Behandlungspfadvertrag mit beiden Ärzten",
+          "Ihr Hausarzt schickt eine Kopie an Ihre Krankenkasse; der Pfad beginnt normalerweise an dem Tag, an dem sie eingeht"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/de-voorwaarden-om-een-zorgtraject-diabetes-type-2-te-volgen",
+      "conditions": {
+        "en": [
+          "You have type 2 diabetes (not type 1) and take 1 or 2 insulin injections a day, or tablets do not work well enough so insulin is being considered (starting or taking an incretin mimetic counts).",
+          "You can go to consultations and are not pregnant or trying to become pregnant.",
+          "You sign the contract, your GP manages your global medical record (it can still be opened in the year after the start), and each year you see your GP at least twice and your specialist at least once."
+        ],
+        "nl": [
+          "Je hebt diabetes type 2 (geen type 1) en volgt een behandeling met 1 of 2 insuline-injecties per dag, of tabletten werken onvoldoende waardoor insuline te overwegen valt (starten of volgen van een behandeling met incretinemimetica telt mee).",
+          "Je kunt op raadpleging gaan en bent niet zwanger en hebt geen zwangerschapswens.",
+          "Je ondertekent het contract, je huisarts beheert je globaal medisch dossier (dat mag nog geopend worden in het jaar na de start), en je hebt elk jaar minstens 2 contacten met je huisarts en minstens 1 raadpleging bij je specialist."
+        ],
+        "fr": [
+          "Vous avez un diabète de type 2 (pas de type 1) et suivez un traitement de 1 ou 2 injections d'insuline par jour, ou les comprimés ne suffisent pas et l'insuline est envisagée (commencer ou suivre un traitement par incrétinomimétiques compte aussi).",
+          "Vous pouvez vous rendre en consultation et n'êtes pas enceinte ni en désir de grossesse.",
+          "Vous signez le contrat, votre médecin généraliste gère votre dossier médical global (il peut encore être ouvert l'année suivant le début), et chaque année vous voyez votre généraliste au moins 2 fois et votre spécialiste au moins 1 fois."
+        ],
+        "de": [
+          "Sie haben Typ-2-Diabetes (nicht Typ 1) und spritzen 1 oder 2 Mal täglich Insulin, oder Tabletten wirken nicht ausreichend, sodass Insulin erwogen wird (Beginn oder Behandlung mit Inkretinmimetika zählt auch).",
+          "Sie können zur Sprechstunde gehen und sind weder schwanger noch planen Sie eine Schwangerschaft.",
+          "Sie unterschreiben den Vertrag, Ihr Hausarzt führt Ihre globale medizinische Akte (sie kann noch im Jahr nach dem Start eröffnet werden), und Sie sehen jedes Jahr Ihren Hausarzt mindestens zweimal und Ihren Facharzt mindestens einmal."
+        ]
+      }
+    }
+  },
+  {
+    "id": 241,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/opstarttraject-diabetes-type-2-wat-zijn-uw-voordelen-als-patient",
+    "content": {
+      "en": {
+        "title": "Start Pathway for Early Type 2 Diabetes",
+        "desc": "People recently diagnosed with type 2 diabetes get specific support from the GP who manages their global medical record: the GP discusses goals with you, records your data and refers you to other care providers as needed. Since 1 January 2024 the start pathway gives you up to 4 free diabetes education sessions a year (at least 1 with a diabetes educator; individual sessions of at least 30 minutes or group sessions of at least 2 hours), 2 free 30-minute dietitian sessions and, with a higher risk of foot problems, 2 free 45-minute podiatry sessions a year, and no personal share for the yearly dental check-up.",
+        "deadline": "No deadline.",
+        "amount": "Education, dietitian and podiatry sessions free; no personal share for the yearly dental check-up",
+        "requirements": [],
+        "steps": [
+          "Talk to the GP who manages your global medical record",
+          "Your GP starts the pathway, sets goals with you and prescribes education, dietitian or podiatry sessions as needed",
+          "Your GP bills your health fund directly"
+        ]
+      },
+      "nl": {
+        "title": "Opstarttraject diabetes type 2",
+        "desc": "Mensen met een recente diagnose diabetes type 2 krijgen specifieke ondersteuning van de huisarts die hun globaal medisch dossier beheert: die bespreekt de doelstellingen met je, registreert je gegevens en verwijst je door naar andere zorgverleners als dat nodig is. Sinds 1 januari 2024 geeft het opstarttraject recht op maximaal 4 gratis sessies diabeteseducatie per jaar (minstens 1 bij een diabeteseducator; individueel minstens 30 minuten of in groep minstens 2 uur), 2 gratis diëtetieksessies van 30 minuten en, bij een verhoogd risico op voetproblemen, 2 gratis podologiesessies van 45 minuten per jaar, en geen remgeld voor het jaarlijks mondonderzoek.",
+        "deadline": "Geen deadline.",
+        "amount": "Diabeteseducatie, diëtetiek- en podologiesessies gratis; geen remgeld voor het jaarlijks mondonderzoek",
+        "requirements": [],
+        "steps": [
+          "Praat erover met de huisarts die je globaal medisch dossier beheert",
+          "Je huisarts start het traject, bespreekt de doelstellingen en schrijft diabeteseducatie, diëtetiek of podologie voor als dat nodig is",
+          "Je huisarts factureert rechtstreeks aan je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Trajet de démarrage diabète de type 2",
+        "desc": "Les personnes avec un diagnostic récent de diabète de type 2 reçoivent un accompagnement spécifique du médecin généraliste qui gère leur dossier médical global : il discute des objectifs avec vous, enregistre vos données et vous oriente vers d'autres prestataires si nécessaire. Depuis le 1er janvier 2024, le trajet de démarrage donne droit à 4 séances gratuites d'éducation au diabète par an maximum (dont au moins 1 chez un éducateur en diabétologie ; individuelles d'au moins 30 minutes ou en groupe d'au moins 2 heures), 2 séances de diététique gratuites de 30 minutes et, en cas de risque accru de problèmes aux pieds, 2 séances de podologie gratuites de 45 minutes par an, et pas de ticket modérateur pour l'examen buccal annuel.",
+        "deadline": "Pas de délai.",
+        "amount": "Éducation au diabète, séances de diététique et de podologie gratuites ; pas de ticket modérateur pour l'examen buccal annuel",
+        "requirements": [],
+        "steps": [
+          "Parlez-en au médecin généraliste qui gère votre dossier médical global",
+          "Votre généraliste ouvre le trajet, fixe les objectifs avec vous et prescrit l'éducation, la diététique ou la podologie si nécessaire",
+          "Votre généraliste facture directement à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Starttraject für beginnenden Typ-2-Diabetes",
+        "desc": "Menschen mit neu diagnostiziertem Typ-2-Diabetes erhalten gezielte Unterstützung von dem Hausarzt, der ihre globale medizinische Akte führt: Er bespricht die Ziele mit Ihnen, erfasst Ihre Daten und überweist Sie bei Bedarf an andere Gesundheitsdienstleister. Seit dem 1. Januar 2024 gibt das Starttraject Anspruch auf bis zu 4 kostenlose Diabetesschulungen pro Jahr (mindestens 1 bei einem Diabetesberater; einzeln mindestens 30 Minuten oder in der Gruppe mindestens 2 Stunden), 2 kostenlose Diätberatungen von 30 Minuten und bei erhöhtem Risiko für Fußprobleme 2 kostenlose Podologiesitzungen von 45 Minuten pro Jahr sowie keinen Eigenanteil für die jährliche Mundkontrolle.",
+        "deadline": "Keine Frist.",
+        "amount": "Diabetesschulung, Diät- und Podologiesitzungen kostenlos; kein Eigenanteil für die jährliche Mundkontrolle",
+        "requirements": [],
+        "steps": [
+          "Sprechen Sie mit dem Hausarzt, der Ihre globale medizinische Akte führt",
+          "Ihr Hausarzt startet den Pfad, legt mit Ihnen die Ziele fest und verordnet bei Bedarf Schulung, Diätberatung oder Podologie",
+          "Ihr Hausarzt rechnet direkt mit Ihrer Krankenkasse ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen/opstarttraject-diabetes-type-2-wat-zijn-uw-voordelen-als-patient",
+      "conditions": {
+        "en": [
+          "You have been diagnosed with type 2 diabetes.",
+          "You have a global medical record (GMD).",
+          "You are not already in a type 2 diabetes care pathway or a self-management programme in a specialised centre."
+        ],
+        "nl": [
+          "Je hebt een diagnose diabetes type 2.",
+          "Je hebt een globaal medisch dossier (GMD).",
+          "Je wordt niet al behandeld via een zorgtraject diabetes type 2 of een programma diabeteszelfregulatie in een gespecialiseerd centrum."
+        ],
+        "fr": [
+          "Vous avez un diagnostic de diabète de type 2.",
+          "Vous avez un dossier médical global (DMG).",
+          "Vous n'êtes pas déjà suivi(e) dans un trajet de soins diabète de type 2 ou un programme d'autogestion dans un centre spécialisé."
+        ],
+        "de": [
+          "Bei Ihnen wurde Typ-2-Diabetes diagnostiziert.",
+          "Sie haben eine globale medizinische Akte (GMA).",
+          "Sie werden nicht bereits in einem Behandlungspfad Typ-2-Diabetes oder einem Selbstregulierungsprogramm in einem Fachzentrum betreut."
+        ]
+      }
+    }
+  },
+  {
+    "id": 242,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/nierziekten/chronische-nierinsufficientie-terugbetaling-in-het-kader-van-een-zorgtraject",
+    "content": {
+      "en": {
+        "title": "Care Pathway for Chronic Kidney Failure",
+        "desc": "Adults with chronic kidney failure can agree a personal follow-up plan with their GP and their specialist (a nephrologist or an internist at a recognised dialysis centre): lifestyle, blood pressure, blood sugar, cholesterol, anaemia, avoiding medicines that harm the kidneys, and vaccinations. In the pathway, GP and specialist consultations are fully reimbursed at agreed rates (not home visits), dietitian sessions on your GP's prescription are partly reimbursed (2, 3 or 4 a year at stage 3B, 4 or 5), and health insurance pays up to €60 towards a blood pressure monitor on RIZIV's list.",
+        "deadline": "No deadline. You decide whether and when to start.",
+        "amount": "GP and specialist consultations free at agreed rates; up to €60 towards a blood pressure monitor (you pay at most €18 extra); dietitian sessions partly reimbursed",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Care pathway contract signed by you, your GP and your specialist"
+          }
+        ],
+        "steps": [
+          "Discuss the care pathway with your GP or specialist",
+          "Sign the care pathway contract with both doctors",
+          "Your GP sends a copy to your health fund; the pathway normally starts on the day the health fund receives it"
+        ]
+      },
+      "nl": {
+        "title": "Zorgtraject chronische nierinsufficiëntie",
+        "desc": "Volwassenen met chronische nierinsufficiëntie kunnen met hun huisarts en hun specialist (een nefroloog of een internist in een erkend dialysecentrum) een persoonlijk opvolgingsplan afspreken: leefstijl, bloeddruk, bloedsuiker, cholesterol, bloedarmoede, geen geneesmiddelen die de nieren schaden, en vaccinaties. In het zorgtraject worden raadplegingen bij huisarts en specialist volledig terugbetaald tegen geconventioneerde tarieven (niet de huisbezoeken), worden sessies bij een diëtist op voorschrift van je huisarts gedeeltelijk vergoed (2, 3 of 4 per jaar in stadium 3B, 4 of 5), en komt de ziekteverzekering tot 60 euro tegemoet in een bloeddrukmeter van de RIZIV-lijst.",
+        "deadline": "Geen deadline. Je beslist zelf of en wanneer je start.",
+        "amount": "Raadplegingen bij huisarts en specialist gratis tegen geconventioneerde tarieven; tot 60 euro voor een bloeddrukmeter (je betaalt maximaal 18 euro bij); diëtistsessies gedeeltelijk terugbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Zorgtrajectcontract, ondertekend door jou, je huisarts en je specialist"
+          }
+        ],
+        "steps": [
+          "Bespreek het zorgtraject met je huisarts of specialist",
+          "Onderteken het zorgtrajectcontract samen met beide artsen",
+          "Je huisarts stuurt een kopie naar je ziekenfonds; het traject start normaal op de dag dat het ziekenfonds die ontvangt"
+        ]
+      },
+      "fr": {
+        "title": "Trajet de soins insuffisance rénale chronique",
+        "desc": "Les adultes atteints d'insuffisance rénale chronique peuvent convenir d'un plan de suivi personnel avec leur médecin généraliste et leur spécialiste (un néphrologue ou un interniste d'un centre de dialyse agréé) : mode de vie, tension, glycémie, cholestérol, anémie, éviter les médicaments nocifs pour les reins, et vaccinations. Dans le trajet, les consultations chez le généraliste et le spécialiste sont entièrement remboursées aux tarifs conventionnés (pas les visites à domicile), les séances chez un diététicien sur prescription du généraliste sont partiellement remboursées (2, 3 ou 4 par an au stade 3B, 4 ou 5), et l'assurance intervient jusqu'à 60 euros dans un tensiomètre de la liste de l'INAMI.",
+        "deadline": "Pas de délai. Vous décidez si et quand vous commencez.",
+        "amount": "Consultations chez le généraliste et le spécialiste gratuites aux tarifs conventionnés ; jusqu'à 60 euros pour un tensiomètre (vous payez au maximum 18 euros en plus) ; séances de diététique partiellement remboursées",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Contrat de trajet de soins signé par vous, votre médecin généraliste et votre spécialiste"
+          }
+        ],
+        "steps": [
+          "Parlez du trajet de soins avec votre médecin généraliste ou votre spécialiste",
+          "Signez le contrat de trajet de soins avec les deux médecins",
+          "Votre médecin généraliste envoie une copie à votre mutualité ; le trajet commence normalement le jour où elle la reçoit"
+        ]
+      },
+      "de": {
+        "title": "Behandlungspfad chronische Niereninsuffizienz",
+        "desc": "Erwachsene mit chronischer Niereninsuffizienz können mit Hausarzt und Facharzt (einem Nephrologen oder einem Internisten in einem anerkannten Dialysezentrum) einen persönlichen Betreuungsplan vereinbaren: Lebensstil, Blutdruck, Blutzucker, Cholesterin, Blutarmut, Verzicht auf nierenschädigende Medikamente und Impfungen. Im Behandlungspfad werden Konsultationen beim Hausarzt und Facharzt zu vertraglichen Tarifen voll erstattet (keine Hausbesuche), Sitzungen bei einem Diätassistenten auf Verordnung des Hausarztes teilweise erstattet (2, 3 oder 4 pro Jahr im Stadium 3B, 4 oder 5), und die Krankenversicherung zahlt bis zu 60 Euro für ein Blutdruckmessgerät der LIKIV-Liste.",
+        "deadline": "Keine Frist. Sie entscheiden selbst, ob und wann Sie beginnen.",
+        "amount": "Konsultationen beim Hausarzt und Facharzt zu Vertragstarifen kostenlos; bis zu 60 Euro für ein Blutdruckmessgerät (Sie zahlen höchstens 18 Euro dazu); Diätsitzungen teilweise erstattet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Behandlungspfadvertrag, unterschrieben von Ihnen, Ihrem Hausarzt und Ihrem Facharzt"
+          }
+        ],
+        "steps": [
+          "Besprechen Sie den Behandlungspfad mit Ihrem Hausarzt oder Facharzt",
+          "Unterschreiben Sie den Behandlungspfadvertrag mit beiden Ärzten",
+          "Ihr Hausarzt schickt eine Kopie an Ihre Krankenkasse; der Pfad beginnt normalerweise an dem Tag, an dem sie eingeht"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/nierziekten/de-voorwaarden-om-een-zorgtraject-chronische-nierinsufficientie-te-volgen",
+      "conditions": {
+        "en": [
+          "You are older than 18 and can go to consultations (living in a residential care home does not exclude you).",
+          "You have severe chronic kidney failure: a GFR below 45 measured twice by blood test, and/or proteinuria above 1 g a day measured twice by urine test.",
+          "At the start you are not on dialysis and have not had a kidney transplant.",
+          "You sign the contract, your GP manages your global medical record (it can still be opened in the year after the start), and each year you see your GP at least twice and your specialist at least once."
+        ],
+        "nl": [
+          "Je bent ouder dan 18 jaar en kunt op raadpleging gaan (wie in een woonzorgcentrum verblijft, kan ook in aanmerking komen).",
+          "Je hebt een ernstig stadium van chronische nierinsufficiëntie: een GFR onder 45, 2 keer bepaald met een bloedanalyse, en/of een proteïnurie van meer dan 1 g per dag, 2 keer bepaald met een urineonderzoek.",
+          "Bij de start ben je niet in dialyse en heb je geen niertransplantatie gehad.",
+          "Je ondertekent het contract, je huisarts beheert je globaal medisch dossier (dat mag nog geopend worden in het jaar na de start), en je hebt elk jaar minstens 2 contacten met je huisarts en minstens 1 raadpleging bij je specialist."
+        ],
+        "fr": [
+          "Vous avez plus de 18 ans et pouvez vous rendre en consultation (résider en maison de repos n'exclut pas).",
+          "Vous avez une insuffisance rénale chronique sévère : un DFG inférieur à 45 mesuré 2 fois par prise de sang, et/ou une protéinurie de plus de 1 g par jour mesurée 2 fois par analyse d'urine.",
+          "Au départ, vous n'êtes pas en dialyse et n'avez pas eu de greffe de rein.",
+          "Vous signez le contrat, votre médecin généraliste gère votre dossier médical global (il peut encore être ouvert l'année suivant le début), et chaque année vous voyez votre généraliste au moins 2 fois et votre spécialiste au moins 1 fois."
+        ],
+        "de": [
+          "Sie sind älter als 18 und können zur Sprechstunde gehen (ein Aufenthalt im Wohn- und Pflegezentrum schließt nicht aus).",
+          "Sie haben eine schwere chronische Niereninsuffizienz: eine GFR unter 45, zweimal per Blutuntersuchung bestimmt, und/oder eine Proteinurie von mehr als 1 g pro Tag, zweimal per Urinuntersuchung bestimmt.",
+          "Zu Beginn sind Sie nicht in Dialyse und hatten keine Nierentransplantation.",
+          "Sie unterschreiben den Vertrag, Ihr Hausarzt führt Ihre globale medizinische Akte (sie kann noch im Jahr nach dem Start eröffnet werden), und Sie sehen jedes Jahr Ihren Hausarzt mindestens zweimal und Ihren Facharzt mindestens einmal."
+        ]
+      }
+    }
+  },
+  {
+    "id": 243,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/gespecialiseerde-centra/zorgtraject-obesitas-bij-kinderen-multidisciplinaire-zorg-voor-een-betere-behandeling-van-uw-jonge-patienten",
+    "content": {
+      "en": {
+        "title": "Care Pathway for Children with Obesity",
+        "desc": "Children aged 2 to 17 with obesity can be followed in a paediatric multidisciplinary obesity centre (PMOC) by a team of a paediatrician, specialised dietitian and psychologist, physiotherapist and social worker, with a treatment plan tailored to the child. There is one multidisciplinary contact with the whole team at the start and then every year, plus up to 12 other contacts (at least once every 3 months, at most once a month). The pathway runs for 1 to 5 years.",
+        "deadline": "No deadline.",
+        "amount": "Follow-up in the centre free (third-party payment); you pay the personal share for GP and paediatrician consultations",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Care pathway contract and reimbursement application, signed by a parent or guardian and the doctors"
+          }
+        ],
+        "steps": [
+          "Your GP, paediatrician or a school or child health service doctor refers your child after assessing the stage of the obesity (EOSS-P)",
+          "Sign the care pathway contract and the reimbursement application with your GP or paediatrician and the centre's paediatrician",
+          "The centre's coordinator sends them to your health fund; the pathway starts on the day the coordinator signs the contract"
+        ]
+      },
+      "nl": {
+        "title": "Zorgtraject obesitas bij kinderen",
+        "desc": "Kinderen van 2 tot en met 17 jaar met obesitas kunnen gevolgd worden in een Pediatrisch Multidisciplinair Obesitascentrum (PMOC) door een team met een kinderarts, gespecialiseerde diëtist en psycholoog, kinesitherapeut en sociaal werker, met een behandelplan op maat van het kind. Er is bij de start en daarna jaarlijks 1 multidisciplinair contact met het hele team, en maximaal 12 andere contactmomenten (minstens 1 keer per 3 maanden, maximaal 1 keer per maand). Het traject loopt 1 tot 5 jaar.",
+        "deadline": "Geen deadline.",
+        "amount": "Begeleiding in het centrum gratis (derdebetalersregeling); je betaalt remgeld voor raadplegingen bij de huisarts en kinderarts",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Zorgtrajectcontract en aanvraag tot tegemoetkoming, ondertekend door een ouder of voogd en de artsen"
+          }
+        ],
+        "steps": [
+          "Je huisarts, kinderarts of een arts van bijvoorbeeld het CLB of Kind en Gezin verwijst je kind door na een inschaling van de obesitas (EOSS-P)",
+          "Onderteken het zorgtrajectcontract en de aanvraag tot tegemoetkoming samen met je huisarts of kinderarts en de kinderarts van het PMOC",
+          "De PMOC-coördinator stuurt ze naar je ziekenfonds; het traject start op de dag dat de coördinator het contract ondertekent"
+        ]
+      },
+      "fr": {
+        "title": "Trajet de soins obésité chez l'enfant",
+        "desc": "Les enfants de 2 à 17 ans atteints d'obésité peuvent être suivis dans un centre pédiatrique multidisciplinaire de l'obésité (PMOC) par une équipe composée d'un pédiatre, d'un diététicien et d'un psychologue spécialisés, d'un kinésithérapeute et d'un assistant social, avec un plan de traitement adapté à l'enfant. Il y a un contact multidisciplinaire avec toute l'équipe au début puis chaque année, et jusqu'à 12 autres contacts (au moins 1 fois tous les 3 mois, au maximum 1 fois par mois). Le trajet dure de 1 à 5 ans.",
+        "deadline": "Pas de délai.",
+        "amount": "Suivi dans le centre gratuit (tiers payant) ; vous payez le ticket modérateur pour les consultations chez le généraliste et le pédiatre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Contrat de trajet de soins et demande d'intervention, signés par un parent ou tuteur et les médecins"
+          }
+        ],
+        "steps": [
+          "Votre généraliste, votre pédiatre ou un médecin de la santé scolaire ou de l'ONE oriente votre enfant après avoir évalué le stade de l'obésité (EOSS-P)",
+          "Signez le contrat de trajet de soins et la demande d'intervention avec votre généraliste ou pédiatre et le pédiatre du PMOC",
+          "Le coordinateur du PMOC les envoie à votre mutualité ; le trajet commence le jour où il signe le contrat"
+        ]
+      },
+      "de": {
+        "title": "Behandlungspfad Adipositas bei Kindern",
+        "desc": "Kinder von 2 bis 17 Jahren mit Adipositas können in einem pädiatrischen multidisziplinären Adipositaszentrum (PMOC) von einem Team aus Kinderarzt, spezialisiertem Diätassistenten und Psychologen, Physiotherapeut und Sozialarbeiter mit einem auf das Kind abgestimmten Behandlungsplan betreut werden. Zu Beginn und danach jährlich gibt es einen multidisziplinären Kontakt mit dem ganzen Team sowie bis zu 12 weitere Kontakte (mindestens alle 3 Monate, höchstens einmal im Monat). Der Pfad dauert 1 bis 5 Jahre.",
+        "deadline": "Keine Frist.",
+        "amount": "Betreuung im Zentrum kostenlos (Drittzahlerregelung); Sie zahlen den Eigenanteil für Konsultationen beim Hausarzt und Kinderarzt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Behandlungspfadvertrag und Kostenübernahmeantrag, unterschrieben von einem Elternteil oder Vormund und den Ärzten"
+          }
+        ],
+        "steps": [
+          "Ihr Hausarzt, Kinderarzt oder ein Arzt des schulärztlichen Dienstes oder Kinderdienstes überweist Ihr Kind nach Einstufung der Adipositas (EOSS-P)",
+          "Unterschreiben Sie den Behandlungspfadvertrag und den Antrag mit Ihrem Hausarzt oder Kinderarzt und dem Kinderarzt des PMOC",
+          "Der PMOC-Koordinator schickt sie an Ihre Krankenkasse; der Pfad beginnt an dem Tag, an dem er den Vertrag unterschreibt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/gespecialiseerde-centra/zorgtraject-obesitas-bij-kinderen-multidisciplinaire-zorg-voor-een-betere-behandeling-van-uw-jonge-patienten",
+      "conditions": {
+        "en": [
+          "Your child is between 2 and 17.",
+          "Their BMI is at or above the obesity threshold for their age and sex, as determined by the referring doctor.",
+          "The child is assessed at EOSS-P stage 2 or 3 (at stage 0 or 1 the GP or paediatrician keeps following the child).",
+          "Your health fund's medical adviser approves the contract."
+        ],
+        "nl": [
+          "Je kind is 2 tot en met 17 jaar oud.",
+          "De BMI is groter dan of gelijk aan de grenswaarde voor obesitas voor leeftijd en geslacht, zoals bepaald door de verwijzende arts.",
+          "Het kind is ingeschaald in EOSS-P-stadium 2 of 3 (bij stadium 0 of 1 blijft de huisarts of kinderarts het kind opvolgen).",
+          "De adviserend arts van je ziekenfonds keurt het contract goed."
+        ],
+        "fr": [
+          "Votre enfant a entre 2 et 17 ans.",
+          "Son IMC atteint ou dépasse le seuil d'obésité pour son âge et son sexe, tel que déterminé par le médecin qui l'oriente.",
+          "L'enfant est classé au stade EOSS-P 2 ou 3 (aux stades 0 ou 1, le généraliste ou le pédiatre continue le suivi).",
+          "Le médecin-conseil de votre mutualité approuve le contrat."
+        ],
+        "de": [
+          "Ihr Kind ist zwischen 2 und 17 Jahre alt.",
+          "Sein BMI liegt auf oder über dem Adipositas-Grenzwert für Alter und Geschlecht, wie vom überweisenden Arzt festgestellt.",
+          "Das Kind ist im EOSS-P-Stadium 2 oder 3 eingestuft (bei Stadium 0 oder 1 betreut der Hausarzt oder Kinderarzt weiter).",
+          "Der Vertrauensarzt Ihrer Krankenkasse genehmigt den Vertrag."
+        ]
+      }
+    }
+  },
+  {
+    "id": 244,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/ziekenhuizen/verzorging-in-ziekenhuizen/abdominale-transplantatie-vergoedingen-voor-multidisciplinaire-pre-en-rehabilitatiezorgpaden-voor-en-na-een-abdominale-transplantatie",
+    "content": {
+      "en": {
+        "title": "Rehabilitation Pathway before and after an Abdominal Transplant",
+        "desc": "Since 1 February 2024 health insurance reimburses multidisciplinary prehabilitation and rehabilitation around a transplant of one or more abdominal organs (kidney in combination, liver, pancreas or islets, small intestine) in hospitals that joined the RIZIV agreement. The transplant centre does an assessment (physiotherapy, psychology, dietetics, social) and an intake with a rehabilitation physician, who draws up your plan. You then get outpatient care from a dietitian, psychologist, social worker and occupational therapist at the centre and a physiotherapist. Before the transplant this runs from your activation on the Eurotransplant list; after it, for 2 treatment years.",
+        "deadline": "The hospital sends the application within 30 days after the pathway meeting.",
+        "amount": "The pathway's care is reimbursed by your health insurance, before the transplant and for 2 years after it",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Reimbursement application, sent by the hospital's pathway coordinator"
+          }
+        ],
+        "steps": [
+          "Your transplant centre (in a hospital that joined the agreement) does the assessment and intake",
+          "The pathway coordinator sends the application to your health fund within 30 days after the pathway meeting",
+          "Without a refusal by the medical adviser within 2 weeks, it counts as approved"
+        ]
+      },
+      "nl": {
+        "title": "Zorgpad voor en na een abdominale transplantatie",
+        "desc": "Sinds 1 februari 2024 betaalt de ziekteverzekering multidisciplinaire prehabilitatie en rehabilitatie terug rond een transplantatie van een of meer abdominale organen (nier in combinatie, lever, pancreas of eilandjes, dunne darm) in ziekenhuizen die tot de RIZIV-overeenkomst toetraden. Het transplantatiecentrum doet een assessment (kinesitherapie, psychologie, diëtetiek, sociaal) en een intake bij een arts fysische geneeskunde en revalidatie, die je behandelplan opstelt. Daarna krijg je ambulante zorg van een diëtist, psycholoog, maatschappelijk werker en ergotherapeut in het centrum en van een kinesitherapeut. Voor de transplantatie loopt dit vanaf je activatie op de Eurotransplant-lijst, erna 2 behandeljaren.",
+        "deadline": "Het ziekenhuis stuurt de aanvraag binnen 30 dagen na het overleg.",
+        "amount": "De zorg van het zorgpad wordt terugbetaald door je ziekteverzekering, voor de transplantatie en 2 jaar erna",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraag tot terugbetaling, verstuurd door de zorgpadcoördinator van het ziekenhuis"
+          }
+        ],
+        "steps": [
+          "Je transplantatiecentrum (in een toegetreden ziekenhuis) doet het assessment en de intake",
+          "De zorgpadcoördinator stuurt de aanvraag binnen 30 dagen na het overleg naar je ziekenfonds",
+          "Zonder weigering van de adviserend arts binnen 2 weken geldt de aanvraag als goedgekeurd"
+        ]
+      },
+      "fr": {
+        "title": "Trajet de soins avant et après une transplantation abdominale",
+        "desc": "Depuis le 1er février 2024, l'assurance soins de santé rembourse la préhabilitation et la réhabilitation multidisciplinaires autour d'une transplantation d'un ou plusieurs organes abdominaux (rein en combinaison, foie, pancréas ou îlots, intestin grêle) dans les hôpitaux ayant adhéré à la convention INAMI. Le centre de transplantation réalise un bilan (kinésithérapie, psychologie, diététique, social) et une consultation d'accueil chez un médecin en médecine physique et réadaptation, qui établit votre plan. Vous recevez ensuite des soins ambulatoires d'un diététicien, psychologue, assistant social et ergothérapeute au centre et d'un kinésithérapeute. Avant la greffe, cela court dès votre activation sur la liste Eurotransplant ; après, pendant 2 années de traitement.",
+        "deadline": "L'hôpital envoie la demande dans les 30 jours suivant la concertation.",
+        "amount": "Les soins du trajet sont remboursés par votre assurance soins de santé, avant la greffe et pendant 2 ans après",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Demande de remboursement, envoyée par le coordinateur du trajet de l'hôpital"
+          }
+        ],
+        "steps": [
+          "Votre centre de transplantation (dans un hôpital ayant adhéré) réalise le bilan et la consultation d'accueil",
+          "Le coordinateur du trajet envoie la demande à votre mutualité dans les 30 jours après la concertation",
+          "Sans refus du médecin-conseil dans les 2 semaines, la demande est considérée comme approuvée"
+        ]
+      },
+      "de": {
+        "title": "Behandlungspfad vor und nach einer Bauchorgantransplantation",
+        "desc": "Seit dem 1. Februar 2024 erstattet die Krankenversicherung multidisziplinäre Prähabilitation und Rehabilitation rund um eine Transplantation eines oder mehrerer Bauchorgane (Niere in Kombination, Leber, Bauchspeicheldrüse oder Inselzellen, Dünndarm) in Krankenhäusern, die der LIKIV-Vereinbarung beigetreten sind. Das Transplantationszentrum macht ein Assessment (Physiotherapie, Psychologie, Diätetik, Soziales) und ein Aufnahmegespräch bei einem Arzt für physikalische Medizin und Rehabilitation, der Ihren Plan erstellt. Danach erhalten Sie ambulante Betreuung durch Diätassistent, Psychologe, Sozialarbeiter und Ergotherapeut im Zentrum sowie einen Physiotherapeuten. Vor der Transplantation ab Ihrer Aktivierung auf der Eurotransplant-Liste, danach 2 Behandlungsjahre lang.",
+        "deadline": "Das Krankenhaus schickt den Antrag innerhalb von 30 Tagen nach der Besprechung.",
+        "amount": "Die Leistungen des Pfads werden von Ihrer Krankenversicherung erstattet, vor der Transplantation und 2 Jahre danach",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Erstattungsantrag, vom Pfadkoordinator des Krankenhauses geschickt"
+          }
+        ],
+        "steps": [
+          "Ihr Transplantationszentrum (in einem beigetretenen Krankenhaus) macht Assessment und Aufnahmegespräch",
+          "Der Pfadkoordinator schickt den Antrag innerhalb von 30 Tagen nach der Besprechung an Ihre Krankenkasse",
+          "Ohne Ablehnung durch den Vertrauensarzt innerhalb von 2 Wochen gilt der Antrag als genehmigt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/ziekenhuizen/verzorging-in-ziekenhuizen/abdominale-transplantatie-vergoedingen-voor-multidisciplinaire-pre-en-rehabilitatiezorgpaden-voor-en-na-een-abdominale-transplantatie",
+      "conditions": {
+        "en": [
+          "You are active on the Eurotransplant waiting list for, or have received, a transplant of one or more abdominal organs: kidney in combination, liver, pancreas (including islets) or small intestine.",
+          "You are followed by the transplant centre of a hospital that joined the RIZIV agreement.",
+          "Your health fund's medical adviser approves (no refusal within 2 weeks)."
+        ],
+        "nl": [
+          "Je staat actief op de Eurotransplant-wachtlijst voor, of kreeg, een transplantatie van een of meer abdominale organen: nier in combinatie, lever, pancreas (ook eilandjes) of dunne darm.",
+          "Je wordt gevolgd door het transplantatiecentrum van een ziekenhuis dat tot de RIZIV-overeenkomst toetrad.",
+          "De adviserend arts van je ziekenfonds gaat akkoord (geen weigering binnen 2 weken)."
+        ],
+        "fr": [
+          "Vous êtes actif sur la liste d'attente Eurotransplant pour, ou avez reçu, une transplantation d'un ou plusieurs organes abdominaux : rein en combinaison, foie, pancréas (y compris îlots) ou intestin grêle.",
+          "Vous êtes suivi(e) par le centre de transplantation d'un hôpital ayant adhéré à la convention INAMI.",
+          "Le médecin-conseil de votre mutualité accepte (pas de refus dans les 2 semaines)."
+        ],
+        "de": [
+          "Sie stehen aktiv auf der Eurotransplant-Warteliste für eine Transplantation eines oder mehrerer Bauchorgane oder haben sie erhalten: Niere in Kombination, Leber, Bauchspeicheldrüse (auch Inselzellen) oder Dünndarm.",
+          "Sie werden vom Transplantationszentrum eines Krankenhauses betreut, das der LIKIV-Vereinbarung beigetreten ist.",
+          "Der Vertrauensarzt Ihrer Krankenkasse stimmt zu (keine Ablehnung innerhalb von 2 Wochen)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 245,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/persoonlijk-aandeel-te-betalen-voor-de-zorg-verstrekt-door-een-centrum-dat-een-revalidatieovereenkomst-sloot",
+    "content": {
+      "en": {
+        "title": "Capped Personal Share in a RIZIV Rehabilitation Centre",
+        "desc": "Rehabilitation and specialised centres (mostly hospitals) with a RIZIV agreement give multidisciplinary care, for example for HIV, diabetes, cardiac rehabilitation, premature babies, sleep apnoea, oxygen therapy or transgender care. Health insurance pays the care; you only pay a fixed personal share per service (a session, a half or full day, a quarter or a year of follow-up). In some sectors you pay nothing: diabetes self-management for adults and children, insulin pumps, advanced diabetes technology, rare inherited metabolic diseases, cystic fibrosis, home oxygen therapy, neuromuscular diseases, infant cardiorespiratory monitoring and home mechanical ventilation.",
+        "deadline": "No deadline. The capped share applies to every service.",
+        "amount": "Outpatient: €2.33 per service, €0 with increased reimbursement. Residential: €47.88 the first day and €20.61 after; €7.32 a day with increased reimbursement; €34.59 the first day then €7.32 for dependent children and for people fully unemployed for at least 12 months (amounts on 1 January 2026)",
+        "requirements": [],
+        "steps": [
+          "Get care in a rehabilitation or specialised centre that has an agreement with RIZIV",
+          "The centre charges you only the personal share; your health fund pays the rest"
+        ]
+      },
+      "nl": {
+        "title": "Beperkt remgeld in een centrum met een RIZIV-revalidatieovereenkomst",
+        "desc": "Revalidatiecentra en gespecialiseerde centra (meestal ziekenhuizen) met een RIZIV-overeenkomst bieden multidisciplinaire begeleiding, bijvoorbeeld bij hiv, diabetes, hartrevalidatie, prematuur geboren kinderen, slaapapneu, zuurstoftherapie of transgenderzorg. De ziekteverzekering betaalt de zorg; jij betaalt alleen een vast persoonlijk aandeel per verstrekking (een sessie, een halve of volledige dag, een trimester of een jaar opvolging). In sommige sectoren betaal je niets: diabeteszelfregulatie bij volwassenen en kinderen, insulinepompen, geavanceerde diabetestechnologie, zeldzame erfelijke metabole ziekten, mucoviscidose, zuurstoftherapie thuis, neuromusculaire ziekten, cardiorespiratoire monitoring van zuigelingen en mechanische ademhalingsondersteuning thuis.",
+        "deadline": "Geen deadline. Het beperkte remgeld geldt voor elke verstrekking.",
+        "amount": "Ambulant: 2,33 euro per verstrekking, 0 euro met verhoogde tegemoetkoming. Residentieel: 47,88 euro de 1e dag en 20,61 euro daarna; 7,32 euro per dag met verhoogde tegemoetkoming; 34,59 euro de 1e dag en daarna 7,32 euro voor kinderen ten laste en wie al minstens 12 maanden volledig uitkeringsgerechtigd werkloos is (bedragen op 1 januari 2026)",
+        "requirements": [],
+        "steps": [
+          "Laat je verzorgen in een revalidatiecentrum of gespecialiseerd centrum met een RIZIV-overeenkomst",
+          "Het centrum rekent je alleen het persoonlijk aandeel aan; je ziekenfonds betaalt de rest"
+        ]
+      },
+      "fr": {
+        "title": "Ticket modérateur limité dans un centre ayant une convention de rééducation INAMI",
+        "desc": "Les centres de rééducation et centres spécialisés (le plus souvent des hôpitaux) ayant une convention avec l'INAMI offrent une prise en charge multidisciplinaire, par exemple pour le VIH, le diabète, la réadaptation cardiaque, les enfants prématurés, l'apnée du sommeil, l'oxygénothérapie ou les soins transgenres. L'assurance paie les soins ; vous ne payez qu'une quote-part fixe par prestation (une séance, une demi-journée ou une journée, un trimestre ou une année de suivi). Dans certains secteurs vous ne payez rien : autogestion du diabète chez l'adulte et l'enfant, pompes à insuline, technologies avancées pour le diabète, maladies métaboliques héréditaires rares, mucoviscidose, oxygénothérapie à domicile, maladies neuromusculaires, monitoring cardiorespiratoire des nourrissons et assistance ventilatoire mécanique à domicile.",
+        "deadline": "Pas de délai. La quote-part limitée s'applique à chaque prestation.",
+        "amount": "Ambulatoire : 2,33 euros par prestation, 0 euro avec intervention majorée. Résidentiel : 47,88 euros le 1er jour et 20,61 euros ensuite ; 7,32 euros par jour avec intervention majorée ; 34,59 euros le 1er jour puis 7,32 euros pour les enfants à charge et les chômeurs complets indemnisés depuis au moins 12 mois (montants au 1er janvier 2026)",
+        "requirements": [],
+        "steps": [
+          "Faites-vous soigner dans un centre de rééducation ou centre spécialisé ayant une convention avec l'INAMI",
+          "Le centre ne vous facture que la quote-part personnelle ; votre mutualité paie le reste"
+        ]
+      },
+      "de": {
+        "title": "Begrenzter Eigenanteil in einem Zentrum mit LIKIV-Rehabilitationsvereinbarung",
+        "desc": "Rehabilitations- und Fachzentren (meist Krankenhäuser) mit LIKIV-Vereinbarung bieten multidisziplinäre Betreuung, zum Beispiel bei HIV, Diabetes, Herzrehabilitation, Frühgeborenen, Schlafapnoe, Sauerstofftherapie oder Transgender-Versorgung. Die Krankenversicherung zahlt die Versorgung; Sie zahlen nur einen festen Eigenanteil pro Leistung (eine Sitzung, ein halber oder ganzer Tag, ein Quartal oder ein Jahr Betreuung). In einigen Bereichen zahlen Sie nichts: Diabetes-Selbstregulierung für Erwachsene und Kinder, Insulinpumpen, fortschrittliche Diabetestechnologie, seltene erbliche Stoffwechselkrankheiten, Mukoviszidose, Sauerstofftherapie zu Hause, neuromuskuläre Erkrankungen, Herz-Atem-Monitoring bei Säuglingen und mechanische Beatmung zu Hause.",
+        "deadline": "Keine Frist. Der begrenzte Eigenanteil gilt für jede Leistung.",
+        "amount": "Ambulant: 2,33 Euro pro Leistung, 0 Euro mit erhöhter Kostenbeteiligung. Stationär: 47,88 Euro am 1. Tag und danach 20,61 Euro; 7,32 Euro pro Tag mit erhöhter Kostenbeteiligung; 34,59 Euro am 1. Tag und danach 7,32 Euro für unterhaltsberechtigte Kinder und seit mindestens 12 Monaten voll entschädigte Arbeitslose (Beträge zum 1. Januar 2026)",
+        "requirements": [],
+        "steps": [
+          "Lassen Sie sich in einem Rehabilitations- oder Fachzentrum mit LIKIV-Vereinbarung behandeln",
+          "Das Zentrum berechnet Ihnen nur den Eigenanteil; Ihre Krankenkasse zahlt den Rest"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/persoonlijk-aandeel-te-betalen-voor-de-zorg-verstrekt-door-een-centrum-dat-een-revalidatieovereenkomst-sloot",
+      "conditions": {
+        "en": [
+          "You get care from a rehabilitation or specialised centre that has a rehabilitation agreement with RIZIV.",
+          "Your share depends on whether the care is outpatient or residential and whether you (or the person you depend on) have increased reimbursement."
+        ],
+        "nl": [
+          "Je krijgt zorg van een revalidatiecentrum of gespecialiseerd centrum dat een revalidatieovereenkomst met het RIZIV sloot.",
+          "Je aandeel hangt af van of de zorg ambulant of residentieel is en of jij (of de persoon bij wie je ten laste bent) recht hebt op verhoogde tegemoetkoming."
+        ],
+        "fr": [
+          "Vous recevez des soins d'un centre de rééducation ou d'un centre spécialisé ayant conclu une convention de rééducation avec l'INAMI.",
+          "Votre quote-part dépend du caractère ambulatoire ou résidentiel des soins et du fait que vous (ou la personne dont vous êtes à charge) bénéficiez de l'intervention majorée."
+        ],
+        "de": [
+          "Sie werden in einem Rehabilitations- oder Fachzentrum behandelt, das eine Rehabilitationsvereinbarung mit dem LIKIV hat.",
+          "Ihr Anteil hängt davon ab, ob die Versorgung ambulant oder stationär ist und ob Sie (oder die Person, bei der Sie mitversichert sind) Anspruch auf erhöhte Kostenbeteiligung haben."
+        ]
+      }
+    }
+  },
+  {
+    "id": 246,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/kinderen-en-adolescenten-neurologische-stoornissen-gekoppeld-aan-psychiatrische-stoornissen",
+    "content": {
+      "en": {
+        "title": "Specialised Centre for Children with Neurological and Psychiatric Disorders",
+        "desc": "Children and adolescents with serious neurological disorders combined with mental disorders can follow intensive residential or outpatient rehabilitation in a specialised centre. A multidisciplinary team (psychologists, speech therapists, physiotherapists or psychomotor therapists, specialised educators) works individually or in small groups on the child's cognitive, communication, social and motor skills, and helps the family understand the disorders. The care is time-limited and aims for the child to move on to school, training or work. Each centre has its own agreement, target group and maximum age.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Treatment paid by health insurance; you pay a personal share per residential day, outpatient day or half-day. Meals on outpatient days are extra",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with a medical report, filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Get a prescription for rehabilitation from a neurologist or child and adolescent psychiatrist",
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Gespecialiseerd centrum voor kinderen met neurologische en psychiatrische stoornissen",
+        "desc": "Kinderen en adolescenten met ernstige neurologische stoornissen in combinatie met mentale stoornissen kunnen een intensieve residentiële of ambulante revalidatie volgen in een gespecialiseerd centrum. Een multidisciplinair team (psychologen, logopedisten, kinesitherapeuten of psychomotorische therapeuten, gespecialiseerde pedagogen) werkt individueel of in kleine groepjes aan de cognitieve, communicatieve, sociale en motorische vaardigheden van het kind en geeft de omgeving meer inzicht in de stoornissen. De zorg heeft een beperkte duur en is gericht op het vertrek van het kind naar school, opleiding of werk. Elk centrum heeft een eigen overeenkomst, doelgroep en maximumleeftijd.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "Behandeling betaald door de ziekteverzekering; je betaalt remgeld per residentiële dag, ambulante dag of halve dag. Maaltijden op ambulante dagen zijn extra",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met medisch verslag, ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Vraag een voorschrift voor revalidatie aan een neuroloog of kinder- en jeugdpsychiater",
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Centre spécialisé pour enfants avec troubles neurologiques et psychiatriques",
+        "desc": "Les enfants et adolescents présentant des troubles neurologiques graves associés à des troubles mentaux peuvent suivre une rééducation intensive résidentielle ou ambulatoire dans un centre spécialisé. Une équipe multidisciplinaire (psychologues, logopèdes, kinésithérapeutes ou psychomotriciens, pédagogues spécialisés) travaille individuellement ou en petits groupes sur les capacités cognitives, de communication, sociales et motrices de l'enfant, et aide l'entourage à comprendre les troubles. La prise en charge est limitée dans le temps et vise le départ de l'enfant vers l'école, une formation ou un travail. Chaque centre a sa propre convention, son groupe cible et son âge maximum.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "Traitement payé par l'assurance ; vous payez un ticket modérateur par journée résidentielle, journée ou demi-journée ambulatoire. Les repas des journées ambulatoires sont en plus",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec rapport médical, complété par le centre"
+          }
+        ],
+        "steps": [
+          "Demandez une prescription de rééducation à un neurologue ou un pédopsychiatre",
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Fachzentrum für Kinder mit neurologischen und psychiatrischen Störungen",
+        "desc": "Kinder und Jugendliche mit schweren neurologischen Störungen in Verbindung mit psychischen Störungen können eine intensive stationäre oder ambulante Rehabilitation in einem Fachzentrum machen. Ein multidisziplinäres Team (Psychologen, Logopäden, Physio- oder Psychomotoriktherapeuten, Fachpädagogen) arbeitet einzeln oder in kleinen Gruppen an den kognitiven, kommunikativen, sozialen und motorischen Fähigkeiten des Kindes und hilft dem Umfeld, die Störungen zu verstehen. Die Betreuung ist zeitlich begrenzt und soll dem Kind den Weg in Schule, Ausbildung oder Arbeit ebnen. Jedes Zentrum hat eine eigene Vereinbarung, Zielgruppe und Altersgrenze.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Behandlung von der Krankenversicherung bezahlt; Sie zahlen einen Eigenanteil pro stationärem Tag, ambulantem Tag oder halbem Tag. Mahlzeiten an ambulanten Tagen kosten extra",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit ärztlichem Bericht, vom Zentrum ausgefüllt"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich die Rehabilitation von einem Neurologen oder Kinder- und Jugendpsychiater verordnen",
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/kinderen-en-adolescenten-neurologische-stoornissen-gekoppeld-aan-psychiatrische-stoornissen",
+      "conditions": {
+        "en": [
+          "Your child or adolescent has both a neurological disorder (such as refractory epilepsy, or the effects of a head injury, encephalitis, meningitis, stroke or oxygen deprivation in the brain) and a mental disorder.",
+          "The disorders are serious enough that lighter treatment (consultations with a neurologist or psychiatrist, sessions in an outpatient rehabilitation centre) is not possible.",
+          "A neurologist or child and adolescent psychiatrist prescribes the rehabilitation; the maximum age depends on the centre.",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Je kind of adolescent heeft tegelijk neurologische stoornissen (zoals refractaire epilepsie, of de gevolgen van een schedelletsel, encefalitis, meningitis, cva of zuurstofgebrek in de hersenen) en mentale stoornissen.",
+          "De stoornissen zijn zo ernstig dat een lichtere behandeling (raadplegingen bij neuroloog en psychiater, sessies in een centrum voor ambulante revalidatie) niet volstaat.",
+          "Een neuroloog of kinder- en jeugdpsychiater schrijft de revalidatie voor; de maximumleeftijd verschilt per centrum.",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Votre enfant ou adolescent a à la fois des troubles neurologiques (comme une épilepsie réfractaire, ou les suites d'un traumatisme crânien, d'une encéphalite, d'une méningite, d'un AVC ou d'un manque d'oxygène au cerveau) et des troubles mentaux.",
+          "Les troubles sont si graves qu'un traitement plus léger (consultations chez le neurologue et le psychiatre, séances dans un centre de rééducation ambulatoire) n'est pas possible.",
+          "Un neurologue ou un pédopsychiatre prescrit la rééducation ; l'âge maximum dépend du centre.",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Ihr Kind oder Jugendlicher hat sowohl neurologische Störungen (wie refraktäre Epilepsie oder Folgen eines Schädeltraumas, einer Enzephalitis, Meningitis, eines Schlaganfalls oder Sauerstoffmangels im Gehirn) als auch psychische Störungen.",
+          "Die Störungen sind so schwer, dass eine leichtere Behandlung (Konsultationen beim Neurologen und Psychiater, Sitzungen in einem ambulanten Rehabilitationszentrum) nicht möglich ist.",
+          "Ein Neurologe oder Kinder- und Jugendpsychiater verordnet die Rehabilitation; die Altersgrenze hängt vom Zentrum ab.",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 247,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-vaatstelsel/lymfoedeem",
+    "content": {
+      "en": {
+        "title": "Lymphoedema Treatment in a Specialised Centre",
+        "desc": "Hospital centres with a specialist doctor, physiotherapists, a nurse, a dietitian and a psychologist treat moderate or severe lymphoedema without surgery, mainly through physiotherapy: intensive manual lymph drainage, decongestive bandaging and exercise. You get a diagnostic examination, an intensive phase of several consecutive days (for example 5 days of 5 hours) and follow-up afterwards. You and your family learn to continue the treatment at home. A centre can give at most 20 intensive treatment days per patient per year.",
+        "deadline": "No deadline. The centre applies to your health fund before your care starts.",
+        "amount": "Health insurance pays the intensive treatment days (€147.50 a day on 1 January 2024), including bandaging material; you pay a limited personal share per day and for the doctors' and physiotherapists' services",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form signed by you, with a medical report filled in by the centre"
+          }
+        ],
+        "steps": [
+          "Your GP or the specialist treating your lymphoedema refers you to a centre on RIZIV's list",
+          "The centre checks the conditions and sends the application to your health fund",
+          "Once your health fund agrees, the centre starts your care"
+        ]
+      },
+      "nl": {
+        "title": "Behandeling van lymfoedeem in een gespecialiseerd centrum",
+        "desc": "Ziekenhuiscentra met een arts-specialist, kinesitherapeuten, een verpleegkundige, een diëtist en een psycholoog behandelen matig of ernstig lymfoedeem zonder chirurgie, vooral met kinesitherapie: intensieve manuele lymfedrainage, decongestieve zwachteling en oefentherapie. Je krijgt een diagnostisch onderzoek, een intensieve fase van enkele opeenvolgende dagen (bijvoorbeeld 5 dagen van 5 uur) en daarna opvolging. Jij en je familie leren de behandeling thuis verder te zetten. Een centrum mag maximaal 20 intensieve behandelingsdagen per patiënt per jaar geven.",
+        "deadline": "Geen deadline. Het centrum vraagt de tegemoetkoming aan bij je ziekenfonds voor je begeleiding start.",
+        "amount": "De ziekteverzekering betaalt de intensieve behandelingsdagen (147,50 euro per dag op 1 januari 2024), inclusief zwachtelmateriaal; je betaalt een beperkt remgeld per dag en voor de verstrekkingen van artsen en kinesitherapeuten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier ondertekend door jou, met een medisch verslag ingevuld door het centrum"
+          }
+        ],
+        "steps": [
+          "Je huisarts of de specialist die je lymfoedeem behandelt, verwijst je naar een centrum op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en stuurt de aanvraag naar je ziekenfonds",
+          "Zodra je ziekenfonds akkoord gaat, start het centrum je begeleiding"
+        ]
+      },
+      "fr": {
+        "title": "Traitement du lymphœdème dans un centre spécialisé",
+        "desc": "Des centres hospitaliers avec un médecin spécialiste, des kinésithérapeutes, un infirmier, un diététicien et un psychologue traitent le lymphœdème modéré ou sévère sans chirurgie, principalement par kinésithérapie : drainage lymphatique manuel intensif, bandages décongestifs et exercices. Vous bénéficiez d'un examen diagnostique, d'une phase intensive de plusieurs jours consécutifs (par exemple 5 jours de 5 heures) puis d'un suivi. Vous et votre famille apprenez à poursuivre le traitement à domicile. Un centre peut donner au maximum 20 journées de traitement intensif par patient et par an.",
+        "deadline": "Pas de délai. Le centre introduit la demande auprès de votre mutualité avant le début de la prise en charge.",
+        "amount": "L'assurance paie les journées de traitement intensif (147,50 euros par jour au 1er janvier 2024), matériel de bandage compris ; vous payez un ticket modérateur limité par jour et pour les prestations des médecins et kinésithérapeutes",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande signé par vous, avec un rapport médical complété par le centre"
+          }
+        ],
+        "steps": [
+          "Votre généraliste ou le spécialiste qui traite votre lymphœdème vous oriente vers un centre de la liste de l'INAMI",
+          "Le centre vérifie les conditions et envoie la demande à votre mutualité",
+          "Dès l'accord de votre mutualité, le centre commence votre prise en charge"
+        ]
+      },
+      "de": {
+        "title": "Lymphödembehandlung in einem Fachzentrum",
+        "desc": "Krankenhauszentren mit Facharzt, Physiotherapeuten, Pflegekraft, Diätassistent und Psychologe behandeln mittelschwere oder schwere Lymphödeme ohne Operation, vor allem mit Physiotherapie: intensive manuelle Lymphdrainage, entstauende Bandagierung und Bewegungstherapie. Sie erhalten eine diagnostische Untersuchung, eine intensive Phase von mehreren aufeinanderfolgenden Tagen (zum Beispiel 5 Tage à 5 Stunden) und danach eine Nachsorge. Sie und Ihre Familie lernen, die Behandlung zu Hause fortzusetzen. Ein Zentrum darf höchstens 20 intensive Behandlungstage pro Patient und Jahr geben.",
+        "deadline": "Keine Frist. Das Zentrum beantragt die Kostenübernahme bei Ihrer Krankenkasse, bevor die Betreuung beginnt.",
+        "amount": "Die Krankenversicherung zahlt die intensiven Behandlungstage (147,50 Euro pro Tag zum 1. Januar 2024) einschließlich Bandagematerial; Sie zahlen einen begrenzten Eigenanteil pro Tag und für die Leistungen der Ärzte und Physiotherapeuten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, von Ihnen unterschrieben, mit ärztlichem Bericht des Zentrums"
+          }
+        ],
+        "steps": [
+          "Ihr Hausarzt oder der Facharzt, der Ihr Lymphödem behandelt, überweist Sie an ein Zentrum der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und schickt den Antrag an Ihre Krankenkasse",
+          "Sobald Ihre Krankenkasse zustimmt, beginnt das Zentrum mit Ihrer Betreuung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-vaatstelsel/lymfoedeem",
+      "conditions": {
+        "en": [
+          "Conservative treatment is medically indicated, you need more physiotherapy and care material than is normally reimbursed, and you need treatment by several of the centre's therapists.",
+          "Your lymphoedema is stage II, late II or III, in the limbs or the central body (face, genitals, chest area), and has increased the size of the affected part by at least 10%. Lipoedema can qualify if it has features of lymphoedema.",
+          "You have no lymphoedema surgery in the month before or after the treatment in the centre.",
+          "You are referred by your GP or a specialist and in principle have a global medical record (without one you can get one reimbursement period once).",
+          "Your health fund approves the centre's application."
+        ],
+        "nl": [
+          "Een conservatieve behandeling is medisch aangewezen, je hebt meer kinesitherapie en verzorgingsmateriaal nodig dan normaal terugbetaald wordt, en je hebt behandeling door verschillende therapeuten van het centrum nodig.",
+          "Je lymfoedeem is stadium II, II laat of III, zit in de ledematen of de middenregio van het lichaam (aangezicht, genitaliën, borstkas), en heeft de omvang van het lichaamsdeel met minstens 10% doen toenemen. Lipoedeem kan in aanmerking komen als er kenmerken van lymfoedeem zijn.",
+          "Je ondergaat geen chirurgische behandeling van je lymfoedeem in de maand voor en na de behandeling in het centrum.",
+          "Je bent verwezen door je huisarts of een arts-specialist en hebt in principe een globaal medisch dossier (zonder GMD kun je eenmalig een terugbetalingsperiode krijgen).",
+          "Je ziekenfonds keurt de aanvraag van het centrum goed."
+        ],
+        "fr": [
+          "Un traitement conservateur est médicalement indiqué, vous avez besoin de plus de kinésithérapie et de matériel que ce qui est normalement remboursé, et d'un traitement par plusieurs thérapeutes du centre.",
+          "Votre lymphœdème est au stade II, II tardif ou III, situé aux membres ou dans la région centrale du corps (visage, organes génitaux, thorax), et a augmenté le volume de la partie atteinte d'au moins 10 %. Le lipœdème peut entrer en ligne de compte s'il présente des caractéristiques de lymphœdème.",
+          "Vous ne subissez pas de chirurgie de votre lymphœdème le mois avant ou après le traitement au centre.",
+          "Vous êtes orienté(e) par votre généraliste ou un spécialiste et avez en principe un dossier médical global (sans DMG, vous pouvez obtenir une seule période de remboursement).",
+          "Votre mutualité approuve la demande du centre."
+        ],
+        "de": [
+          "Eine konservative Behandlung ist medizinisch angezeigt, Sie brauchen mehr Physiotherapie und Pflegematerial als normalerweise erstattet, und eine Behandlung durch mehrere Therapeuten des Zentrums.",
+          "Ihr Lymphödem ist im Stadium II, spätes II oder III, an den Gliedmaßen oder im Rumpfbereich (Gesicht, Genitalien, Brustkorb), und hat den Umfang des betroffenen Körperteils um mindestens 10 % vergrößert. Ein Lipödem kann infrage kommen, wenn es Merkmale eines Lymphödems zeigt.",
+          "Sie haben im Monat vor und nach der Behandlung im Zentrum keine Lymphödem-Operation.",
+          "Sie werden von Ihrem Hausarzt oder einem Facharzt überwiesen und haben grundsätzlich eine globale medizinische Akte (ohne sie können Sie einmalig einen Erstattungszeitraum erhalten).",
+          "Ihre Krankenkasse genehmigt den Antrag des Zentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 248,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/neurologische-ziekte-in-een-gevorderd-stadium-globale-tenlasteneming",
+    "content": {
+      "en": {
+        "title": "Care Programme for Advanced Huntington's Disease, MS or ALS",
+        "desc": "People with advanced Huntington's disease, multiple sclerosis or ALS who can no longer stay at home can join a programme run by a reference hospital together with nursing homes, temporarily (to stabilise or to give relatives a break) or long-term. It brings specialist medical supervision in both the hospital and the nursing home, extra support from care staff, training for nursing-home staff, and a contribution to extra costs for food, material and transport.",
+        "deadline": "No deadline.",
+        "amount": "The programme is fully funded; you still pay part of the usual hospital or nursing-home costs, and in a nursing home health insurance refunds you €14.08 a day",
+        "requirements": [],
+        "steps": [
+          "Contact one of the reference hospitals on RIZIV's list",
+          "The doctor supervising the programme evaluates you together with the network's reference person",
+          "If you are admitted, you are cared for in the hospital or a partner nursing home"
+        ]
+      },
+      "nl": {
+        "title": "Programma van globale tenlasteneming bij gevorderde Huntington, MS of ALS",
+        "desc": "Mensen met de ziekte van Huntington, multiple sclerose of ALS in een gevorderd stadium die niet meer thuis kunnen blijven, kunnen deelnemen aan een programma van een referentieziekenhuis samen met rusthuizen, tijdelijk (om de toestand te stabiliseren of de omgeving te ontlasten) of op lange termijn. Het zorgt voor medisch toezicht door een arts-specialist in ziekenhuis en rusthuis, bredere begeleiding door het zorgpersoneel, opleiding van het rusthuispersoneel en een tegemoetkoming in de bijkomende kosten voor voeding, materiaal en verplaatsing.",
+        "deadline": "Geen deadline.",
+        "amount": "Het programma wordt volledig gefinancierd; je betaalt wel een deel van de gewone kosten van ziekenhuis of rusthuis, en in een rusthuis betaalt de ziekteverzekering je 14,08 euro per dag terug",
+        "requirements": [],
+        "steps": [
+          "Neem contact op met een van de referentieziekenhuizen op de lijst van het RIZIV",
+          "De arts die het medisch toezicht op het programma heeft, evalueert je samen met de referentiepersoon van het samenwerkingsverband",
+          "Als je wordt opgenomen, word je verzorgd in het ziekenhuis of een partnerrusthuis"
+        ]
+      },
+      "fr": {
+        "title": "Programme de prise en charge globale pour la maladie de Huntington, la SEP ou la SLA à un stade avancé",
+        "desc": "Les personnes atteintes de la maladie de Huntington, de sclérose en plaques ou de SLA à un stade avancé qui ne peuvent plus rester à domicile peuvent participer à un programme d'un hôpital de référence avec des maisons de repos, temporairement (pour stabiliser leur état ou soulager l'entourage) ou à long terme. Il assure une surveillance médicale par un spécialiste à l'hôpital et en maison de repos, un accompagnement élargi par le personnel soignant, une formation du personnel des maisons de repos et une intervention dans les frais supplémentaires d'alimentation, de matériel et de déplacement.",
+        "deadline": "Pas de délai.",
+        "amount": "Le programme est entièrement financé ; vous payez une partie des frais habituels d'hôpital ou de maison de repos, et en maison de repos l'assurance vous rembourse 14,08 euros par jour",
+        "requirements": [],
+        "steps": [
+          "Contactez l'un des hôpitaux de référence de la liste de l'INAMI",
+          "Le médecin chargé de la surveillance du programme vous évalue avec la personne de référence du réseau",
+          "Si vous êtes admis(e), vous êtes soigné(e) à l'hôpital ou dans une maison de repos partenaire"
+        ]
+      },
+      "de": {
+        "title": "Programm zur umfassenden Versorgung bei fortgeschrittener Huntington-Krankheit, MS oder ALS",
+        "desc": "Menschen mit fortgeschrittener Huntington-Krankheit, Multipler Sklerose oder ALS, die nicht mehr zu Hause bleiben können, können an einem Programm eines Referenzkrankenhauses zusammen mit Pflegeheimen teilnehmen, vorübergehend (zur Stabilisierung oder Entlastung der Angehörigen) oder langfristig. Es bietet fachärztliche Überwachung im Krankenhaus und im Pflegeheim, breitere Betreuung durch Pflegepersonal, Schulung des Pflegeheimpersonals und eine Beteiligung an Mehrkosten für Ernährung, Material und Fahrten.",
+        "deadline": "Keine Frist.",
+        "amount": "Das Programm wird vollständig finanziert; Sie zahlen einen Teil der üblichen Krankenhaus- oder Pflegeheimkosten, und im Pflegeheim erstattet Ihnen die Krankenversicherung 14,08 Euro pro Tag",
+        "requirements": [],
+        "steps": [
+          "Wenden Sie sich an eines der Referenzkrankenhäuser auf der LIKIV-Liste",
+          "Der für das Programm zuständige Arzt bewertet Sie zusammen mit der Bezugsperson des Netzwerks",
+          "Wenn Sie aufgenommen werden, werden Sie im Krankenhaus oder einem Partnerpflegeheim versorgt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/neurologische-ziekte-in-een-gevorderd-stadium-globale-tenlasteneming",
+      "conditions": {
+        "en": [
+          "You have Huntington's disease, multiple sclerosis or ALS at an advanced stage: a standard rehabilitation programme no longer helps and you no longer need acute hospital care.",
+          "You reach the minimum threshold on the scale for your disease (FIM scale for MS and ALS, Shoulson and Fahn scale for Huntington's).",
+          "You can no longer stay at home and are cared for in a participating institution, after an evaluation by the programme's doctor."
+        ],
+        "nl": [
+          "Je hebt de ziekte van Huntington, multiple sclerose of ALS in een gevorderd stadium: een klassiek revalidatieprogramma helpt niet meer en je hebt geen acute ziekenhuiszorg meer nodig.",
+          "Je bereikt de minimumdrempel op de schaal voor je ziekte (F.I.M.-schaal voor MS en ALS, schaal van Shoulson en Fahn voor Huntington).",
+          "Je kunt niet meer thuis blijven en wordt na evaluatie door de arts van het programma opgenomen in een geconventioneerde instelling."
+        ],
+        "fr": [
+          "Vous avez la maladie de Huntington, la sclérose en plaques ou la SLA à un stade avancé : un programme de rééducation classique ne vous aide plus et vous n'avez plus besoin de soins hospitaliers aigus.",
+          "Vous atteignez le seuil minimum sur l'échelle de votre maladie (échelle FIM pour la SEP et la SLA, échelle de Shoulson et Fahn pour Huntington).",
+          "Vous ne pouvez plus rester à domicile et êtes pris(e) en charge dans une institution conventionnée, après évaluation par le médecin du programme."
+        ],
+        "de": [
+          "Sie haben die Huntington-Krankheit, Multiple Sklerose oder ALS im fortgeschrittenen Stadium: Ein klassisches Rehabilitationsprogramm hilft nicht mehr, und Sie brauchen keine akute Krankenhausversorgung mehr.",
+          "Sie erreichen die Mindestschwelle auf der Skala Ihrer Krankheit (FIM-Skala für MS und ALS, Shoulson-Fahn-Skala für Huntington).",
+          "Sie können nicht mehr zu Hause bleiben und werden nach Bewertung durch den Programmarzt in einer vertragsgebundenen Einrichtung versorgt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 249,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/cardiorespiratoire-thuismonitoring-bij-pasgeborenen-en-zuigelingen",
+    "content": {
+      "en": {
+        "title": "Home Heart and Breathing Monitor for Babies",
+        "desc": "For some newborns and babies, a specialised centre lends a monitor that sounds an alarm if the baby's heart stops beating or the baby stops breathing. The centre provides the monitor and all material, sets and checks its sensitivity, teaches you how to use it and what to do when the alarm goes off, informs your GP or paediatrician, and is always available for problems or questions.",
+        "deadline": "Your child must be younger than 1.",
+        "amount": "Monitoring free (third-party payment, no personal share); you pay the personal share for doctor consultations and the usual hospital costs if a sleep study is needed",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notification form, sent by the centre to your child's health fund"
+          }
+        ],
+        "steps": [
+          "Contact one of the specialised centres on RIZIV's list",
+          "The centre checks the conditions and notifies your child's health fund",
+          "Unless the health fund objects, the centre starts the monitoring"
+        ]
+      },
+      "nl": {
+        "title": "Cardiorespiratoire thuismonitor voor baby's",
+        "desc": "Voor sommige pasgeborenen en zuigelingen stelt een gespecialiseerd centrum een monitor ter beschikking die alarm geeft als het hart van je kind niet meer zou slaan of als je kind zou ophouden met ademen. Het centrum zorgt voor de monitor en al het materiaal, stelt de gevoeligheid in en kijkt ze regelmatig na, leert je de monitor gebruiken en wat je moet doen bij alarm, informeert je huisarts of kinderarts, en staat altijd klaar bij problemen of vragen.",
+        "deadline": "Je kind moet jonger zijn dan 1 jaar.",
+        "amount": "Monitoring gratis (derdebetalersregeling, geen remgeld); je betaalt remgeld voor raadplegingen bij de arts en de gewone ziekenhuiskosten als een slaaponderzoek nodig is",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kennisgevingsformulier, door het centrum naar het ziekenfonds van je kind gestuurd"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een van de gespecialiseerde centra op de lijst van het RIZIV",
+          "Het centrum controleert de voorwaarden en brengt het ziekenfonds van je kind op de hoogte",
+          "Zonder tegenbericht van het ziekenfonds start het centrum de monitoring"
+        ]
+      },
+      "fr": {
+        "title": "Monitoring cardiorespiratoire à domicile pour bébés",
+        "desc": "Pour certains nouveau-nés et nourrissons, un centre spécialisé met à disposition un moniteur qui donne l'alarme si le cœur de votre enfant s'arrête de battre ou s'il cesse de respirer. Le centre fournit le moniteur et tout le matériel, règle et contrôle sa sensibilité, vous apprend à l'utiliser et quoi faire en cas d'alarme, informe votre généraliste ou pédiatre, et reste toujours disponible en cas de problème ou de question.",
+        "deadline": "Votre enfant doit avoir moins d'un an.",
+        "amount": "Monitoring gratuit (tiers payant, sans ticket modérateur) ; vous payez le ticket modérateur pour les consultations médicales et les frais hospitaliers habituels si une polysomnographie est nécessaire",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de notification, envoyé par le centre à la mutualité de votre enfant"
+          }
+        ],
+        "steps": [
+          "Contactez l'un des centres spécialisés de la liste de l'INAMI",
+          "Le centre vérifie les conditions et informe la mutualité de votre enfant",
+          "Sauf avis contraire de la mutualité, le centre commence le monitoring"
+        ]
+      },
+      "de": {
+        "title": "Herz-Atem-Heimmonitor für Babys",
+        "desc": "Für manche Neugeborene und Säuglinge stellt ein Fachzentrum einen Monitor zur Verfügung, der Alarm gibt, wenn das Herz Ihres Kindes aufhört zu schlagen oder es aufhört zu atmen. Das Zentrum stellt den Monitor und das ganze Material, stellt die Empfindlichkeit ein und kontrolliert sie, zeigt Ihnen die Bedienung und was bei Alarm zu tun ist, informiert Ihren Hausarzt oder Kinderarzt und ist bei Problemen oder Fragen immer erreichbar.",
+        "deadline": "Ihr Kind muss jünger als 1 Jahr sein.",
+        "amount": "Monitoring kostenlos (Drittzahlerregelung, kein Eigenanteil); Sie zahlen den Eigenanteil für Arztkonsultationen und die üblichen Krankenhauskosten, falls eine Schlafuntersuchung nötig ist",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Meldeformular, vom Zentrum an die Krankenkasse Ihres Kindes geschickt"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eines der Fachzentren auf der LIKIV-Liste",
+          "Das Zentrum prüft die Bedingungen und informiert die Krankenkasse Ihres Kindes",
+          "Ohne Einwand der Krankenkasse beginnt das Zentrum mit dem Monitoring"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/SiteCollectionDocuments/overeenkomst_monitoring_zuigelingen_doelgroepen.docx",
+      "conditions": {
+        "en": [
+          "Your child is younger than 1 and belongs to one of the 4 categories below. For some categories a sleep study (polysomnography) can or must be done during a hospital stay.",
+          "1: born after at most 30 weeks and 6 days of pregnancy and/or weighing at most 1,500 g, and needed cardiorespiratory monitoring until leaving neonatal care.",
+          "2: a condition such as a tracheostomy or long-term breathing support at home, bronchopulmonary dysplasia, Arnold-Chiari malformation, a jaw or face condition that obstructs breathing, trisomy 21, a neuromuscular disease, central hypoventilation or severe stridor, together with an abnormal sleep study.",
+          "3: born after 31 to 36 weeks and 6 days of pregnancy, with apnoeas or slow heart rates in the last 10 days before leaving hospital and an abnormal sleep study.",
+          "4: a serious apparent life-threatening event (ALTE) with no treatable explanation after full hospital examination, plus at least one further criterion (such as emergency ambulance transport, intensive care admission, or an abnormal sleep study)."
+        ],
+        "nl": [
+          "Je kind is jonger dan 1 jaar en behoort tot een van de 4 categorieën hieronder. Voor sommige categorieën kan of moet een slaaponderzoek (polysomnografie) gebeuren tijdens een ziekenhuisopname.",
+          "1: geboren na een zwangerschap van maximaal 30 weken en 6 dagen en/of met een geboortegewicht van maximaal 1.500 gram, en cardiorespiratoir toezicht nodig gehad tot het ontslag uit de neonatologie.",
+          "2: een aandoening zoals een tracheostomie of langdurige luchtwegondersteuning thuis, bronchopulmonale dysplasie, Arnold-Chiari-malformatie, een maxillofaciale aandoening met obstructieve ademhaling, trisomie 21, een neuromusculaire aandoening, centraal hypoventilatiesyndroom of ernstige stridor, samen met een afwijkend slaaponderzoek.",
+          "3: geboren na een zwangerschap van 31 tot 36 weken en 6 dagen, met apneus of bradycardieën in de laatste 10 dagen voor het ontslag uit het ziekenhuis en een afwijkend slaaponderzoek.",
+          "4: een ernstige ALTE (schijnbaar levensbedreigende gebeurtenis) zonder behandelbare verklaring na volledig onderzoek in het ziekenhuis, plus minstens één bijkomende voorwaarde (zoals een dringend ambulancetransport, opname op intensieve zorg of een afwijkend slaaponderzoek)."
+        ],
+        "fr": [
+          "Votre enfant a moins d'un an et relève de l'une des 4 catégories ci-dessous. Pour certaines catégories, une polysomnographie peut ou doit être réalisée lors d'une hospitalisation.",
+          "1 : né après une grossesse de 30 semaines et 6 jours maximum et/ou avec un poids de naissance de 1 500 g maximum, et ayant eu besoin d'une surveillance cardiorespiratoire jusqu'à la sortie de néonatologie.",
+          "2 : une affection comme une trachéostomie ou une assistance respiratoire de longue durée à domicile, une dysplasie bronchopulmonaire, une malformation d'Arnold-Chiari, une affection maxillo-faciale avec respiration obstructive, une trisomie 21, une maladie neuromusculaire, un syndrome d'hypoventilation centrale ou un stridor sévère, avec une polysomnographie anormale.",
+          "3 : né après une grossesse de 31 à 36 semaines et 6 jours, avec des apnées ou bradycardies dans les 10 derniers jours avant la sortie de l'hôpital et une polysomnographie anormale.",
+          "4 : un ALTE grave (malaise grave du nourrisson) sans explication traitable après un bilan hospitalier complet, plus au moins un critère supplémentaire (comme un transport urgent en ambulance, une admission aux soins intensifs ou une polysomnographie anormale)."
+        ],
+        "de": [
+          "Ihr Kind ist jünger als 1 Jahr und gehört zu einer der 4 Kategorien unten. Für einige Kategorien kann oder muss während eines Krankenhausaufenthalts eine Schlafuntersuchung (Polysomnographie) erfolgen.",
+          "1: nach höchstens 30 Wochen und 6 Tagen Schwangerschaft geboren und/oder mit höchstens 1.500 g Geburtsgewicht, und bis zur Entlassung aus der Neonatologie herz-atem-überwacht.",
+          "2: eine Erkrankung wie Tracheostomie oder langfristige Atemunterstützung zu Hause, bronchopulmonale Dysplasie, Arnold-Chiari-Malformation, eine Kiefer- oder Gesichtserkrankung mit obstruktiver Atmung, Trisomie 21, eine neuromuskuläre Erkrankung, zentrale Hypoventilation oder schwerer Stridor, zusammen mit einer auffälligen Schlafuntersuchung.",
+          "3: nach 31 bis 36 Wochen und 6 Tagen Schwangerschaft geboren, mit Apnoen oder Bradykardien in den letzten 10 Tagen vor der Entlassung und einer auffälligen Schlafuntersuchung.",
+          "4: ein schweres ALTE (scheinbar lebensbedrohliches Ereignis) ohne behandelbare Erklärung nach vollständiger Krankenhausuntersuchung, plus mindestens ein weiteres Kriterium (etwa ein dringender Krankenwagentransport, Aufnahme auf die Intensivstation oder eine auffällige Schlafuntersuchung)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 250,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/gepersonaliseerde-begeleiding",
+    "content": {
+      "en": {
+        "title": "Free Asthma Coaching at Your Pharmacy",
+        "desc": "If you have chronic asthma, your pharmacist can coach you in 2 individual appointments of about 15 minutes, a few weeks apart. The first covers your expectations, asthma and its treatment, correct use of your inhaler, sticking to treatment, and hygiene and diet precautions. The follow-up covers your experience and any problems such as side effects. You get a report of each session, and with your consent the pharmacist gives feedback to your doctor. You, your doctor or the pharmacist can propose the coaching.",
+        "deadline": "No deadline.",
+        "amount": "Free: health insurance pays your pharmacist €26.65 per session (1 January 2026)",
+        "requirements": [],
+        "steps": [
+          "Ask your pharmacist or doctor about asthma coaching, or accept it when the pharmacist proposes it",
+          "Make an appointment for the first session",
+          "Go back a few weeks later for the follow-up session"
+        ]
+      },
+      "nl": {
+        "title": "Gratis begeleidingsgesprekken bij astma in de apotheek",
+        "desc": "Heb je chronisch astma, dan kan je apotheker je begeleiden in 2 individuele gesprekken van ongeveer een kwartier, op afspraak en met enkele weken ertussen. Het eerste gaat over je verwachtingen, astma en de behandeling, correct geneesmiddelengebruik, therapietrouw en voorzorgen rond hygiëne en dieet. Het opvolggesprek gaat over je ervaringen en eventuele problemen zoals neveneffecten. Je krijgt een verslag van elk gesprek, en met je akkoord geeft de apotheker feedback aan je arts. Jij, je arts of de apotheker kan de begeleiding voorstellen.",
+        "deadline": "Geen deadline.",
+        "amount": "Gratis: de ziekteverzekering betaalt je apotheker 26,65 euro per gesprek (1 januari 2026)",
+        "requirements": [],
+        "steps": [
+          "Vraag je apotheker of arts naar de begeleiding, of ga in op het voorstel van je apotheker",
+          "Maak een afspraak voor het eerste gesprek",
+          "Ga enkele weken later terug voor het opvolggesprek"
+        ]
+      },
+      "fr": {
+        "title": "Entretiens d'accompagnement gratuits pour l'asthme en pharmacie",
+        "desc": "Si vous souffrez d'asthme chronique, votre pharmacien peut vous accompagner lors de 2 entretiens individuels d'environ un quart d'heure, sur rendez-vous et à quelques semaines d'intervalle. Le premier porte sur vos attentes, l'asthme et son traitement, le bon usage des médicaments, l'observance et les précautions d'hygiène et d'alimentation. L'entretien de suivi porte sur votre expérience et les éventuels problèmes comme les effets secondaires. Vous recevez un rapport de chaque entretien et, avec votre accord, le pharmacien fait un retour à votre médecin. Vous, votre médecin ou le pharmacien pouvez proposer cet accompagnement.",
+        "deadline": "Pas de délai.",
+        "amount": "Gratuit : l'assurance paie votre pharmacien 26,65 euros par entretien (1er janvier 2026)",
+        "requirements": [],
+        "steps": [
+          "Demandez l'accompagnement à votre pharmacien ou médecin, ou acceptez-le quand le pharmacien le propose",
+          "Prenez rendez-vous pour le premier entretien",
+          "Revenez quelques semaines plus tard pour l'entretien de suivi"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Asthma-Begleitgespräche in der Apotheke",
+        "desc": "Wenn Sie chronisches Asthma haben, kann Ihr Apotheker Sie in 2 Einzelgesprächen von etwa einer Viertelstunde begleiten, nach Termin und mit einigen Wochen Abstand. Im ersten geht es um Ihre Erwartungen, Asthma und seine Behandlung, den richtigen Gebrauch der Medikamente, Therapietreue sowie Hygiene- und Ernährungstipps. Im Folgegespräch geht es um Ihre Erfahrungen und mögliche Probleme wie Nebenwirkungen. Sie erhalten von jedem Gespräch einen Bericht, und mit Ihrer Zustimmung gibt der Apotheker Ihrem Arzt Rückmeldung. Sie, Ihr Arzt oder der Apotheker können die Begleitung vorschlagen.",
+        "deadline": "Keine Frist.",
+        "amount": "Kostenlos: Die Krankenversicherung zahlt Ihrem Apotheker 26,65 Euro pro Gespräch (1. Januar 2026)",
+        "requirements": [],
+        "steps": [
+          "Fragen Sie Ihren Apotheker oder Arzt nach der Begleitung oder nehmen Sie das Angebot des Apothekers an",
+          "Vereinbaren Sie einen Termin für das erste Gespräch",
+          "Kommen Sie einige Wochen später zum Folgegespräch"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/gepersonaliseerde-begeleiding",
+      "conditions": {
+        "en": [
+          "You have chronic asthma and your doctor has prescribed a medicine to inhale every day for the first time; or",
+          "You already take inhaled corticosteroids every day but your asthma is not well controlled (you wake up from asthma symptoms or shortness of breath, or repeatedly need your fast-acting inhaler), your symptoms started before age 50, and you had no coaching session in the past 12 months."
+        ],
+        "nl": [
+          "Je hebt chronisch astma en je arts heeft je voor het eerst een geneesmiddel voorgeschreven dat je elke dag moet inhaleren; of",
+          "Je neemt al dagelijks inhalatiecorticosteroïden maar je astma is onvoldoende onder controle (je wordt wakker door astmaklachten of kortademigheid, of je hebt herhaaldelijk je inhalator met snelwerkende medicatie nodig), je klachten begonnen voor je 50e, en je kreeg de afgelopen 12 maanden geen begeleidingsgesprek."
+        ],
+        "fr": [
+          "Vous souffrez d'asthme chronique et votre médecin vous a prescrit pour la première fois un médicament à inhaler chaque jour ; ou",
+          "Vous prenez déjà chaque jour des corticostéroïdes inhalés mais votre asthme est insuffisamment contrôlé (vous êtes réveillé(e) par des symptômes ou un essoufflement, ou avez souvent besoin de votre inhalateur à action rapide), vos symptômes ont commencé avant 50 ans et vous n'avez pas eu d'entretien ces 12 derniers mois."
+        ],
+        "de": [
+          "Sie haben chronisches Asthma, und Ihr Arzt hat Ihnen zum ersten Mal ein täglich zu inhalierendes Medikament verschrieben; oder",
+          "Sie nehmen bereits täglich inhalative Kortikosteroide, aber Ihr Asthma ist nicht ausreichend kontrolliert (Sie wachen wegen Beschwerden oder Atemnot auf oder brauchen wiederholt Ihr schnell wirkendes Spray), Ihre Beschwerden begannen vor dem 50. Lebensjahr, und Sie hatten in den letzten 12 Monaten kein Begleitgespräch."
+        ]
+      }
+    }
+  },
+  {
+    "id": 251,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/professionals/individuele-zorgverleners/tandartsen/verstrekkingen-kostprijs-en-terugbetaling/terugbetaling-van-moeilijke-tandherstellingen-bij-patienten-met-kanker-anodontie-en-of-oligodontie",
+    "content": {
+      "en": {
+        "title": "Complex Dental Restorations after Cancer or with Missing Permanent Teeth",
+        "desc": "Health insurance reimburses complex dental restorations for 4 target groups: people with serious jaw damage after cancer, no permanent teeth, or many congenitally missing teeth; tooth damage after stem cell therapy; tooth damage from chemotherapy or radiotherapy before age 12; and young people with many congenitally missing teeth. Depending on the group this covers crowns, bridges, a metal frame on a removable denture, implants, abutments and bars on implants, or an adhesive bridge. Your dentist must use third-party payment.",
+        "deadline": "No deadline.",
+        "amount": "Free: no personal share and no supplement, even with a non-agreed dentist",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Notification or application form for your target group, sent by your dentist to your health fund"
+          }
+        ],
+        "steps": [
+          "Ask your dentist whether you belong to one of the target groups; the dentist decides based on your medical record",
+          "The dentist sends the notification or application form for your group to your health fund",
+          "The dentist does the treatment and bills your health fund directly"
+        ]
+      },
+      "nl": {
+        "title": "Moeilijke tandherstellingen na kanker of bij ontbrekende blijvende tanden",
+        "desc": "De ziekteverzekering betaalt moeilijke tandherstellingen terug voor 4 doelgroepen: mensen met ernstig kaakletsel na kanker, zonder blijvende tanden of met veel aangeboren ontbrekende tanden; tandschade na stamceltherapie; tandschade door chemo- of radiotherapie voor de leeftijd van 12 jaar; en jongeren met veel aangeboren ontbrekende tanden. Afhankelijk van de groep gaat het om kronen, bruggen, een metalen frame op een uitneembare prothese, implantaten, abutments en stegen op implantaten, of een adhesieve brug. Je tandarts moet de derdebetalersregeling toepassen.",
+        "deadline": "Geen deadline.",
+        "amount": "Gratis: geen remgeld en geen supplement, ook niet bij een niet-geconventioneerde tandarts",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kennisgevings- of aanvraagformulier voor je doelgroep, door je tandarts naar je ziekenfonds gestuurd"
+          }
+        ],
+        "steps": [
+          "Vraag je tandarts of je tot een van de doelgroepen behoort; die bepaalt dat op basis van je medisch dossier",
+          "De tandarts stuurt het kennisgevings- of aanvraagformulier voor je groep naar je ziekenfonds",
+          "De tandarts voert de behandeling uit en factureert rechtstreeks aan je ziekenfonds"
+        ]
+      },
+      "fr": {
+        "title": "Restaurations dentaires complexes après un cancer ou en cas d'absence de dents définitives",
+        "desc": "L'assurance rembourse les restaurations dentaires complexes pour 4 groupes cibles : les personnes avec une grave mutilation de la mâchoire après un cancer, sans dents définitives ou avec de nombreuses dents absentes de naissance ; les dommages dentaires après une thérapie par cellules souches ; les dommages dus à une chimiothérapie ou radiothérapie avant 12 ans ; et les jeunes avec de nombreuses dents absentes de naissance. Selon le groupe, cela couvre couronnes, bridges, châssis métallique sur prothèse amovible, implants, piliers et barres sur implants, ou bridge collé. Votre dentiste doit appliquer le tiers payant.",
+        "deadline": "Pas de délai.",
+        "amount": "Gratuit : ni ticket modérateur ni supplément, même chez un dentiste non conventionné",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de notification ou de demande pour votre groupe cible, envoyé par votre dentiste à votre mutualité"
+          }
+        ],
+        "steps": [
+          "Demandez à votre dentiste si vous faites partie d'un groupe cible ; il le détermine sur la base de votre dossier médical",
+          "Le dentiste envoie le formulaire de notification ou de demande pour votre groupe à votre mutualité",
+          "Le dentiste réalise le traitement et facture directement à votre mutualité"
+        ]
+      },
+      "de": {
+        "title": "Schwierige Zahnrestaurationen nach Krebs oder bei fehlenden bleibenden Zähnen",
+        "desc": "Die Krankenversicherung erstattet schwierige Zahnrestaurationen für 4 Zielgruppen: Menschen mit schweren Kieferschäden nach Krebs, ohne bleibende Zähne oder mit vielen angeboren fehlenden Zähnen; Zahnschäden nach Stammzelltherapie; Zahnschäden durch Chemo- oder Strahlentherapie vor dem 12. Lebensjahr; und junge Menschen mit vielen angeboren fehlenden Zähnen. Je nach Gruppe umfasst das Kronen, Brücken, ein Metallgerüst auf einer herausnehmbaren Prothese, Implantate, Abutments und Stege auf Implantaten oder eine Klebebrücke. Ihr Zahnarzt muss die Drittzahlerregelung anwenden.",
+        "deadline": "Keine Frist.",
+        "amount": "Kostenlos: kein Eigenanteil und kein Zuschlag, auch nicht bei einem nicht vertragsgebundenen Zahnarzt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Melde- oder Antragsformular für Ihre Zielgruppe, vom Zahnarzt an Ihre Krankenkasse geschickt"
+          }
+        ],
+        "steps": [
+          "Fragen Sie Ihren Zahnarzt, ob Sie zu einer Zielgruppe gehören; er entscheidet anhand Ihrer Krankenakte",
+          "Der Zahnarzt schickt das Melde- oder Antragsformular für Ihre Gruppe an Ihre Krankenkasse",
+          "Der Zahnarzt führt die Behandlung durch und rechnet direkt mit Ihrer Krankenkasse ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/professionals/individuele-zorgverleners/tandartsen/verstrekkingen-kostprijs-en-terugbetaling/terugbetaling-van-moeilijke-tandherstellingen-bij-patienten-met-kanker-anodontie-en-of-oligodontie",
+      "conditions": {
+        "en": [
+          "Group 1: a severe functional and psychosocial handicap from severe bone loss after removal of a jaw tumour or orofacial osteoradionecrosis, or no permanent teeth (anodontia), or at least 4 congenitally missing permanent teeth with at least 2 in the same quadrant (not counting wisdom teeth and lateral incisors), and health insurance reimbursed your bone-anchored implants.",
+          "Group 2: teeth lost or several severe dental anomalies from a graft-versus-host reaction in the mouth and face after stem cell therapy.",
+          "Group 3: teeth lost or several severe dental anomalies from chemotherapy and/or radiotherapy before your 12th birthday.",
+          "Group 4: younger than 19 with at least 4 congenitally missing permanent teeth, at least 2 in the same quadrant (not counting wisdom teeth and lateral incisors)."
+        ],
+        "nl": [
+          "Doelgroep 1: een ernstige functionele en psychosociale handicap door ernstige beendermutilatie na verwijdering van een kaaktumor of orofaciale osteoradionecrose, of geen blijvende tanden (anodontie), of minstens 4 aangeboren ontbrekende blijvende tanden waarvan minstens 2 in hetzelfde kwadrant (verstandskiezen en laterale snijtanden niet meegeteld), en de ziekteverzekering betaalde je osteogeïntegreerde implantaten terug.",
+          "Doelgroep 2: tanden verloren of meerdere ernstige tandafwijkingen door een graft-versus-hostreactie in het orofaciaal gebied na stamceltherapie.",
+          "Doelgroep 3: tanden verloren of meerdere ernstige tandafwijkingen door chemotherapie en/of radiotherapie voor je 12e verjaardag.",
+          "Doelgroep 4: jonger dan 19 jaar met minstens 4 aangeboren ontbrekende blijvende tanden, waarvan minstens 2 in hetzelfde kwadrant (verstandskiezen en laterale snijtanden niet meegeteld)."
+        ],
+        "fr": [
+          "Groupe 1 : un handicap fonctionnel et psychosocial grave dû à une mutilation osseuse sévère après l'ablation d'une tumeur de la mâchoire ou à une ostéoradionécrose orofaciale, ou l'absence de dents définitives (anodontie), ou au moins 4 dents définitives absentes de naissance dont au moins 2 dans le même quadrant (hors dents de sagesse et incisives latérales), et l'assurance a remboursé vos implants ostéo-intégrés.",
+          "Groupe 2 : dents perdues ou plusieurs anomalies dentaires graves dues à une réaction du greffon contre l'hôte dans la région orofaciale après une thérapie par cellules souches.",
+          "Groupe 3 : dents perdues ou plusieurs anomalies dentaires graves dues à une chimiothérapie et/ou radiothérapie avant votre 12e anniversaire.",
+          "Groupe 4 : moins de 19 ans avec au moins 4 dents définitives absentes de naissance, dont au moins 2 dans le même quadrant (hors dents de sagesse et incisives latérales)."
+        ],
+        "de": [
+          "Gruppe 1: eine schwere funktionelle und psychosoziale Behinderung durch schweren Knochenverlust nach Entfernung eines Kiefertumors oder orofaziale Osteoradionekrose, oder keine bleibenden Zähne (Anodontie), oder mindestens 4 angeboren fehlende bleibende Zähne, davon mindestens 2 im selben Quadranten (ohne Weisheitszähne und seitliche Schneidezähne), und die Krankenversicherung hat Ihre knochenverankerten Implantate erstattet.",
+          "Gruppe 2: Zahnverlust oder mehrere schwere Zahnanomalien durch eine Graft-versus-Host-Reaktion im Mund- und Gesichtsbereich nach Stammzelltherapie.",
+          "Gruppe 3: Zahnverlust oder mehrere schwere Zahnanomalien durch Chemo- und/oder Strahlentherapie vor Ihrem 12. Geburtstag.",
+          "Gruppe 4: jünger als 19 mit mindestens 4 angeboren fehlenden bleibenden Zähnen, davon mindestens 2 im selben Quadranten (ohne Weisheitszähne und seitliche Schneidezähne)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 252,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-de-implantaten-voor-de-reconstructie-van-de-gehoorbeentjes",
+    "content": {
+      "en": {
+        "title": "Free Implant to Rebuild the Middle-Ear Bones",
+        "desc": "An ossicle implant partly or fully replaces the small bones of the middle ear, so sound travels again from the eardrum to the inner ear. It is meant for hearing loss caused by chronic ear infection, damage to the ossicles, or a malformation of the ossicles. Health insurance pays the implant in full, without conditions, and the reimbursement is settled automatically.",
+        "deadline": "No deadline and no application: the reimbursement is settled automatically.",
+        "amount": "Implant free; you only pay the hospital pharmacist's delivery margin",
+        "requirements": [],
+        "steps": [
+          "Your specialist places the implant",
+          "The reimbursement is settled automatically when the specialist bills the care; you do not need to apply"
+        ]
+      },
+      "nl": {
+        "title": "Gratis implantaat voor de reconstructie van de gehoorbeentjes",
+        "desc": "Een implantaat voor de reconstructie van de gehoorbeentjes vervangt de gehoorbeentjes van het middenoor gedeeltelijk of volledig, zodat het geluid weer van het trommelvlies naar het binnenoor gaat. Het is bedoeld voor gehoorverlies door chronische oorontsteking, schade aan de gehoorbeentjes of een misvorming ervan. De ziekteverzekering betaalt het implantaat volledig terug, zonder voorwaarden, en de vergoeding wordt automatisch verrekend.",
+        "deadline": "Geen deadline en geen aanvraag: de terugbetaling wordt automatisch verrekend.",
+        "amount": "Implantaat gratis; je betaalt alleen de afleveringsmarge van de ziekenhuisapotheker",
+        "requirements": [],
+        "steps": [
+          "Je arts-specialist plaatst het implantaat",
+          "De vergoeding wordt automatisch verrekend wanneer de specialist de verstrekkingen aanrekent; je hoeft niets aan te vragen"
+        ]
+      },
+      "fr": {
+        "title": "Implant gratuit pour la reconstruction des osselets",
+        "desc": "Un implant de reconstruction des osselets remplace partiellement ou totalement les osselets de l'oreille moyenne, pour que le son passe à nouveau du tympan à l'oreille interne. Il est destiné à la perte auditive due à une otite chronique, à des lésions des osselets ou à leur malformation. L'assurance rembourse intégralement l'implant, sans conditions, et le remboursement est réglé automatiquement.",
+        "deadline": "Pas de délai ni de demande : le remboursement est réglé automatiquement.",
+        "amount": "Implant gratuit ; vous ne payez que la marge de délivrance du pharmacien hospitalier",
+        "requirements": [],
+        "steps": [
+          "Votre spécialiste pose l'implant",
+          "Le remboursement est réglé automatiquement quand le spécialiste facture les soins ; vous n'avez rien à demander"
+        ]
+      },
+      "de": {
+        "title": "Kostenloses Implantat zur Rekonstruktion der Gehörknöchelchen",
+        "desc": "Ein Implantat zur Rekonstruktion der Gehörknöchelchen ersetzt diese kleinen Knochen des Mittelohrs ganz oder teilweise, damit der Schall wieder vom Trommelfell ins Innenohr gelangt. Es ist für Hörverlust durch chronische Mittelohrentzündung, Verletzung oder Fehlbildung der Gehörknöchelchen gedacht. Die Krankenversicherung erstattet das Implantat vollständig und ohne Bedingungen, die Erstattung wird automatisch verrechnet.",
+        "deadline": "Keine Frist und kein Antrag: Die Erstattung wird automatisch verrechnet.",
+        "amount": "Implantat kostenlos; Sie zahlen nur die Abgabemarge des Krankenhausapothekers",
+        "requirements": [],
+        "steps": [
+          "Ihr Facharzt setzt das Implantat ein",
+          "Die Erstattung wird automatisch verrechnet, wenn der Facharzt die Leistungen abrechnet; Sie müssen nichts beantragen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-de-implantaten-voor-de-reconstructie-van-de-gehoorbeentjes",
+      "conditions": {
+        "en": [
+          "You have an implant placed to reconstruct the ossicles; there are no further conditions."
+        ],
+        "nl": [
+          "Je laat een implantaat zetten voor de reconstructie van de gehoorbeentjes; er gelden geen verdere voorwaarden."
+        ],
+        "fr": [
+          "Vous vous faites poser un implant de reconstruction des osselets ; il n'y a pas d'autres conditions."
+        ],
+        "de": [
+          "Sie erhalten ein Implantat zur Rekonstruktion der Gehörknöchelchen; weitere Bedingungen gibt es nicht."
+        ]
+      }
+    }
+  },
+  {
+    "id": 253,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-middenoorimplantaten",
+    "content": {
+      "en": {
+        "title": "Reimbursement of Middle-Ear Implants",
+        "desc": "A middle-ear implant is an active electronic device that amplifies sound, either semi-implantable (with an external sound processor) or fully implantable. It is meant for sensorineural, conductive or mixed deafness when middle-ear surgery, a conventional hearing aid or a bone-anchored hearing prosthesis failed or is not possible. Health insurance fully reimburses a semi-implantable implant at the first implantation and the replacement of an implant, and partly reimburses the sound processor. The reimbursement is settled automatically.",
+        "deadline": "No deadline and no application: the reimbursement is settled automatically.",
+        "amount": "Implant and its replacement free; sound processor partly reimbursed; you pay the hospital pharmacist's delivery margin",
+        "requirements": [],
+        "steps": [
+          "Your specialist places the implant",
+          "The reimbursement is settled automatically when the specialist bills the care; you do not need to apply"
+        ]
+      },
+      "nl": {
+        "title": "Vergoeding van middenoorimplantaten",
+        "desc": "Een middenoorimplantaat is een actief elektronisch hulpmiddel dat geluid versterkt, semi-implanteerbaar (met een externe geluidsprocessor) of volledig implanteerbaar. Het is bedoeld voor neurosensoriële, conductieve of gemengde doofheid als een ingreep op het middenoor, een klassiek hoorapparaat of een gehoorprothese met botverankering mislukte of niet mogelijk is. De ziekteverzekering betaalt een semi-implanteerbaar implantaat bij de eerste inplanting en de vervanging van een implantaat volledig terug, en de geluidsprocessor gedeeltelijk. De vergoeding wordt automatisch verrekend.",
+        "deadline": "Geen deadline en geen aanvraag: de terugbetaling wordt automatisch verrekend.",
+        "amount": "Implantaat en vervanging gratis; geluidsprocessor gedeeltelijk terugbetaald; je betaalt de afleveringsmarge van de ziekenhuisapotheker",
+        "requirements": [],
+        "steps": [
+          "Je arts-specialist plaatst het implantaat",
+          "De vergoeding wordt automatisch verrekend wanneer de specialist de verstrekkingen aanrekent; je hoeft niets aan te vragen"
+        ]
+      },
+      "fr": {
+        "title": "Remboursement des implants d'oreille moyenne",
+        "desc": "Un implant d'oreille moyenne est un dispositif électronique actif qui amplifie le son, semi-implantable (avec un processeur externe) ou totalement implantable. Il est destiné à la surdité neurosensorielle, de transmission ou mixte quand une intervention sur l'oreille moyenne, une aide auditive classique ou une prothèse auditive à ancrage osseux a échoué ou n'est pas possible. L'assurance rembourse intégralement un implant semi-implantable à la première implantation et le remplacement d'un implant, et partiellement le processeur. Le remboursement est réglé automatiquement.",
+        "deadline": "Pas de délai ni de demande : le remboursement est réglé automatiquement.",
+        "amount": "Implant et remplacement gratuits ; processeur partiellement remboursé ; vous payez la marge de délivrance du pharmacien hospitalier",
+        "requirements": [],
+        "steps": [
+          "Votre spécialiste pose l'implant",
+          "Le remboursement est réglé automatiquement quand le spécialiste facture les soins ; vous n'avez rien à demander"
+        ]
+      },
+      "de": {
+        "title": "Erstattung von Mittelohrimplantaten",
+        "desc": "Ein Mittelohrimplantat ist ein aktives elektronisches Hilfsmittel, das Schall verstärkt, teilimplantierbar (mit externem Audioprozessor) oder vollimplantierbar. Es ist für sensorineurale, Schallleitungs- oder kombinierte Schwerhörigkeit gedacht, wenn ein Eingriff am Mittelohr, ein klassisches Hörgerät oder eine knochenverankerte Hörprothese gescheitert oder nicht möglich ist. Die Krankenversicherung erstattet ein teilimplantierbares Implantat bei der Erstimplantation und den Ersatz eines Implantats vollständig, den Audioprozessor teilweise. Die Erstattung wird automatisch verrechnet.",
+        "deadline": "Keine Frist und kein Antrag: Die Erstattung wird automatisch verrechnet.",
+        "amount": "Implantat und Ersatz kostenlos; Audioprozessor teilweise erstattet; Sie zahlen die Abgabemarge des Krankenhausapothekers",
+        "requirements": [],
+        "steps": [
+          "Ihr Facharzt setzt das Implantat ein",
+          "Die Erstattung wird automatisch verrechnet, wenn der Facharzt die Leistungen abrechnet; Sie müssen nichts beantragen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-middenoorimplantaten",
+      "conditions": {
+        "en": [
+          "You have sensorineural, conductive or mixed deafness, and middle-ear surgery, a conventional hearing aid or a bone-anchored hearing prosthesis failed or is not possible.",
+          "You meet RIZIV's reimbursement criteria for middle-ear implants (conditions C-09 in RIZIV's sIMPL application).",
+          "The device is on RIZIV's list of reimbursable implants."
+        ],
+        "nl": [
+          "Je hebt neurosensoriële, conductieve of gemengde doofheid, en een ingreep op het middenoor, een klassiek hoorapparaat of een gehoorprothese met botverankering mislukte of is niet mogelijk.",
+          "Je voldoet aan de vergoedingsvoorwaarden van het RIZIV voor middenoorimplantaten (voorwaarden C-09 in de toepassing sIMPL).",
+          "Het hulpmiddel staat op de nominatieve lijst van terugbetaalbare implantaten van het RIZIV."
+        ],
+        "fr": [
+          "Vous avez une surdité neurosensorielle, de transmission ou mixte, et une intervention sur l'oreille moyenne, une aide auditive classique ou une prothèse à ancrage osseux a échoué ou n'est pas possible.",
+          "Vous remplissez les conditions de remboursement de l'INAMI pour les implants d'oreille moyenne (conditions C-09 dans l'application sIMPL).",
+          "Le dispositif figure sur la liste nominative des implants remboursables de l'INAMI."
+        ],
+        "de": [
+          "Sie haben eine sensorineurale, Schallleitungs- oder kombinierte Schwerhörigkeit, und ein Eingriff am Mittelohr, ein klassisches Hörgerät oder eine knochenverankerte Hörprothese ist gescheitert oder nicht möglich.",
+          "Sie erfüllen die LIKIV-Erstattungsbedingungen für Mittelohrimplantate (Bedingungen C-09 in der Anwendung sIMPL).",
+          "Das Hilfsmittel steht auf der LIKIV-Liste erstattungsfähiger Implantate."
+        ]
+      }
+    }
+  },
+  {
+    "id": 254,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/mucoviscidose-draagbare-diffusors-of-cassettes-voor-antibiotica",
+    "content": {
+      "en": {
+        "title": "Portable Antibiotic Infusers for Cystic Fibrosis at Home",
+        "desc": "People with cystic fibrosis who follow intravenous antibiotic treatment at home, without being admitted to hospital, get the portable infusers or cassettes reimbursed in full. The head doctor of a cystic fibrosis reference centre prescribes them and the hospital pharmacist supplies them. You and your family are first trained by the centre's team to give the treatment at home under your GP's supervision.",
+        "deadline": "The prescription must be filled by the end of the week after the prescription date.",
+        "amount": "100% reimbursed",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription on the B51 model from the cystic fibrosis centre"
+          }
+        ],
+        "steps": [
+          "The cystic fibrosis reference centre prescribes the infusers or cassettes on the B51 model",
+          "Collect them from the hospital pharmacist before the end of the following week",
+          "Follow the treatment at home as you were taught, under your GP's supervision"
+        ]
+      },
+      "nl": {
+        "title": "Draagbare diffusors of cassettes voor antibiotica bij mucoviscidose",
+        "desc": "Mensen met mucoviscidose die thuis een intraveneuze antibioticabehandeling volgen, zonder in het ziekenhuis opgenomen te zijn, krijgen de draagbare diffusors of cassettes volledig terugbetaald. De leidinggevende arts van een mucoviscidose-referentiecentrum schrijft ze voor en de ziekenhuisapotheker levert ze af. Jij en je familie krijgen eerst vorming van het team van het centrum om de behandeling thuis te volgen onder toezicht van je huisarts.",
+        "deadline": "Het voorschrift moet uitgevoerd worden voor het einde van de week na de voorschriftdatum.",
+        "amount": "100% terugbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift op het model B51 van het mucoviscidosecentrum"
+          }
+        ],
+        "steps": [
+          "Het mucoviscidose-referentiecentrum schrijft de diffusors of cassettes voor op het model B51",
+          "Haal ze op bij de ziekenhuisapotheker voor het einde van de week erna",
+          "Volg de behandeling thuis zoals je geleerd hebt, onder toezicht van je huisarts"
+        ]
+      },
+      "fr": {
+        "title": "Diffuseurs portables ou cassettes d'antibiotiques en cas de mucoviscidose",
+        "desc": "Les personnes atteintes de mucoviscidose qui suivent un traitement antibiotique intraveineux à domicile, sans être hospitalisées, sont intégralement remboursées pour les diffuseurs portables ou cassettes. Le médecin responsable d'un centre de référence mucoviscidose les prescrit et le pharmacien hospitalier les délivre. Vous et votre famille êtes d'abord formés par l'équipe du centre pour suivre le traitement à domicile sous la surveillance de votre généraliste.",
+        "deadline": "La prescription doit être exécutée avant la fin de la semaine qui suit sa date.",
+        "amount": "Remboursé à 100 %",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription sur le modèle B51 du centre de mucoviscidose"
+          }
+        ],
+        "steps": [
+          "Le centre de référence mucoviscidose prescrit les diffuseurs ou cassettes sur le modèle B51",
+          "Retirez-les chez le pharmacien hospitalier avant la fin de la semaine suivante",
+          "Suivez le traitement à domicile comme on vous l'a appris, sous la surveillance de votre généraliste"
+        ]
+      },
+      "de": {
+        "title": "Tragbare Infusoren oder Kassetten für Antibiotika bei Mukoviszidose",
+        "desc": "Menschen mit Mukoviszidose, die zu Hause eine intravenöse Antibiotikabehandlung erhalten, ohne im Krankenhaus aufgenommen zu sein, bekommen die tragbaren Infusoren oder Kassetten voll erstattet. Der leitende Arzt eines Mukoviszidose-Referenzzentrums verschreibt sie, und der Krankenhausapotheker gibt sie ab. Sie und Ihre Familie werden vorher vom Team des Zentrums geschult, um die Behandlung zu Hause unter Aufsicht Ihres Hausarztes durchzuführen.",
+        "deadline": "Die Verschreibung muss bis zum Ende der Woche nach dem Verschreibungsdatum eingelöst werden.",
+        "amount": "Zu 100 % erstattet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Verschreibung auf dem Muster B51 vom Mukoviszidosezentrum"
+          }
+        ],
+        "steps": [
+          "Das Mukoviszidose-Referenzzentrum verschreibt die Infusoren oder Kassetten auf dem Muster B51",
+          "Holen Sie sie vor Ende der folgenden Woche beim Krankenhausapotheker ab",
+          "Führen Sie die Behandlung zu Hause wie gelernt unter Aufsicht Ihres Hausarztes durch"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/mucoviscidose-draagbare-diffusors-of-cassettes-voor-antibiotica",
+      "conditions": {
+        "en": [
+          "You have cystic fibrosis and follow intravenous antibiotic treatment as an outpatient; you are not admitted to hospital.",
+          "The prescriber is the head doctor (or a designated colleague) of a cystic fibrosis reference centre with a RIZIV agreement, and the hospital pharmacist supplies the device.",
+          "You and your family received training and written instructions from the rehabilitation team, and your GP, the hospital pharmacist and the centre agreed on the treatment.",
+          "The device is on RIZIV's list of reimbursable portable infusers or cassettes."
+        ],
+        "nl": [
+          "Je hebt mucoviscidose en volgt ambulant een intraveneuze antibioticabehandeling; je bent niet opgenomen in het ziekenhuis.",
+          "De voorschrijver is de leidinggevende arts (of een gemandateerde medewerker) van een mucoviscidose-referentiecentrum met een RIZIV-overeenkomst, en de ziekenhuisapotheker levert het hulpmiddel af.",
+          "Jij en je familie kregen vorming en schriftelijke instructies van het revalidatieteam, en je huisarts, de ziekenhuisapotheker en het centrum overlegden over de behandeling.",
+          "Het hulpmiddel staat op de lijst van vergoedbare draagbare diffusors of cassettes."
+        ],
+        "fr": [
+          "Vous avez la mucoviscidose et suivez un traitement antibiotique intraveineux en ambulatoire ; vous n'êtes pas hospitalisé(e).",
+          "Le prescripteur est le médecin responsable (ou un collaborateur mandaté) d'un centre de référence mucoviscidose ayant une convention INAMI, et le pharmacien hospitalier délivre le dispositif.",
+          "Vous et votre famille avez reçu une formation et des instructions écrites de l'équipe de rééducation, et votre généraliste, le pharmacien hospitalier et le centre se sont concertés sur le traitement.",
+          "Le dispositif figure sur la liste des diffuseurs portables ou cassettes remboursables."
+        ],
+        "de": [
+          "Sie haben Mukoviszidose und erhalten ambulant eine intravenöse Antibiotikabehandlung; Sie sind nicht im Krankenhaus aufgenommen.",
+          "Der Verschreibende ist der leitende Arzt (oder ein beauftragter Mitarbeiter) eines Mukoviszidose-Referenzzentrums mit LIKIV-Vereinbarung, und der Krankenhausapotheker gibt das Hilfsmittel ab.",
+          "Sie und Ihre Familie wurden vom Rehabilitationsteam geschult und erhielten schriftliche Anweisungen, und Ihr Hausarzt, der Krankenhausapotheker und das Zentrum haben die Behandlung abgestimmt.",
+          "Das Hilfsmittel steht auf der Liste erstattungsfähiger tragbarer Infusoren oder Kassetten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 255,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/magistrale-bereidingen",
+    "content": {
+      "en": {
+        "title": "Reimbursement of Pharmacy-Made Medicines",
+        "desc": "A magistral preparation is a medicine your pharmacist makes for you on a doctor's prescription, when you are not in hospital. Health insurance reimburses it fully or partly when the products used are on RIZIV's list. For some products (chapter IV) you first need an authorisation from your health fund's medical adviser, valid for up to 12 months and renewable.",
+        "deadline": "No deadline. A chapter IV authorisation is valid for up to 12 months and can be renewed.",
+        "amount": "Full or partial reimbursement; with partial reimbursement you pay a personal share",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doctor's prescription; for chapter IV products also the medical adviser's authorisation"
+          }
+        ],
+        "steps": [
+          "Get a prescription from your doctor",
+          "For chapter IV products, your doctor sends a reasoned report to your health fund's medical adviser, who issues the authorisation",
+          "Give the prescription (and authorisation) to your pharmacist, who makes the preparation"
+        ]
+      },
+      "nl": {
+        "title": "Terugbetaling van magistrale bereidingen",
+        "desc": "Een magistrale bereiding is een geneesmiddel dat je apotheker voor jou maakt op voorschrift van een arts, als je niet in het ziekenhuis bent opgenomen. De ziekteverzekering betaalt ze volledig of gedeeltelijk terug als de gebruikte producten op de lijst van het RIZIV staan. Voor sommige producten (hoofdstuk IV) heb je eerst een machtiging nodig van de adviserend arts van je ziekenfonds, maximaal 12 maanden geldig en verlengbaar.",
+        "deadline": "Geen deadline. Een machtiging voor hoofdstuk IV is maximaal 12 maanden geldig en kan verlengd worden.",
+        "amount": "Volledige of gedeeltelijke terugbetaling; bij gedeeltelijke terugbetaling betaal je remgeld",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift van een arts; voor producten van hoofdstuk IV ook de machtiging van de adviserend arts"
+          }
+        ],
+        "steps": [
+          "Vraag een voorschrift aan je arts",
+          "Voor producten van hoofdstuk IV stuurt je arts een gemotiveerd verslag naar de adviserend arts van je ziekenfonds, die de machtiging aflevert",
+          "Geef het voorschrift (en de machtiging) aan je apotheker, die de bereiding maakt"
+        ]
+      },
+      "fr": {
+        "title": "Remboursement des préparations magistrales",
+        "desc": "Une préparation magistrale est un médicament que votre pharmacien prépare pour vous sur prescription d'un médecin, lorsque vous n'êtes pas hospitalisé(e). L'assurance la rembourse entièrement ou partiellement lorsque les produits utilisés figurent sur la liste de l'INAMI. Pour certains produits (chapitre IV), il faut d'abord une autorisation du médecin-conseil de votre mutualité, valable 12 mois maximum et renouvelable.",
+        "deadline": "Pas de délai. Une autorisation chapitre IV est valable 12 mois maximum et peut être renouvelée.",
+        "amount": "Remboursement total ou partiel ; en cas de remboursement partiel, vous payez un ticket modérateur",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription médicale ; pour les produits du chapitre IV, aussi l'autorisation du médecin-conseil"
+          }
+        ],
+        "steps": [
+          "Obtenez une prescription de votre médecin",
+          "Pour les produits du chapitre IV, votre médecin envoie un rapport motivé au médecin-conseil de votre mutualité, qui délivre l'autorisation",
+          "Remettez la prescription (et l'autorisation) à votre pharmacien, qui réalise la préparation"
+        ]
+      },
+      "de": {
+        "title": "Erstattung von Rezepturarzneimitteln",
+        "desc": "Ein Rezepturarzneimittel ist ein Medikament, das Ihr Apotheker auf ärztliche Verschreibung für Sie herstellt, wenn Sie nicht im Krankenhaus sind. Die Krankenversicherung erstattet es ganz oder teilweise, wenn die verwendeten Stoffe auf der LIKIV-Liste stehen. Für einige Stoffe (Kapitel IV) brauchen Sie zuerst eine Genehmigung des Vertrauensarztes Ihrer Krankenkasse, höchstens 12 Monate gültig und verlängerbar.",
+        "deadline": "Keine Frist. Eine Kapitel-IV-Genehmigung gilt höchstens 12 Monate und kann verlängert werden.",
+        "amount": "Volle oder teilweise Erstattung; bei teilweiser Erstattung zahlen Sie einen Eigenanteil",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Verschreibung; für Stoffe aus Kapitel IV auch die Genehmigung des Vertrauensarztes"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von Ihrem Arzt ein Rezept ausstellen",
+          "Für Stoffe aus Kapitel IV schickt Ihr Arzt einen begründeten Bericht an den Vertrauensarzt Ihrer Krankenkasse, der die Genehmigung erteilt",
+          "Geben Sie das Rezept (und die Genehmigung) Ihrem Apotheker, der das Arzneimittel herstellt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/magistrale-bereidingen",
+      "conditions": {
+        "en": [
+          "A doctor prescribed the preparation, and the pharmacist makes and supplies it (or it is made under their responsibility).",
+          "You are not admitted to hospital.",
+          "The products are on RIZIV's list of reimbursable products for magistral preparations and the reimbursement conditions are met.",
+          "For chapter IV products you have your medical adviser's authorisation (except for some preparations listed directly)."
+        ],
+        "nl": [
+          "Een arts schreef de bereiding voor, en de apotheker maakt en levert ze af (of ze wordt onder zijn verantwoordelijkheid gemaakt).",
+          "Je bent niet opgenomen in het ziekenhuis.",
+          "De producten staan op de lijst van vergoedbare producten voor magistrale bereidingen en de terugbetalingsvoorwaarden zijn vervuld.",
+          "Voor producten van hoofdstuk IV heb je een machtiging van de adviserend arts (behalve voor enkele bereidingen die rechtstreeks in de lijst staan)."
+        ],
+        "fr": [
+          "Un médecin a prescrit la préparation, et le pharmacien la réalise et la délivre (ou elle est faite sous sa responsabilité).",
+          "Vous n'êtes pas hospitalisé(e).",
+          "Les produits figurent sur la liste des produits remboursables pour préparations magistrales et les conditions de remboursement sont remplies.",
+          "Pour les produits du chapitre IV, vous avez l'autorisation du médecin-conseil (sauf pour quelques préparations reprises directement dans la liste)."
+        ],
+        "de": [
+          "Ein Arzt hat das Arzneimittel verschrieben, und der Apotheker stellt es her und gibt es ab (oder es wird unter seiner Verantwortung hergestellt).",
+          "Sie sind nicht im Krankenhaus aufgenommen.",
+          "Die Stoffe stehen auf der LIKIV-Liste erstattungsfähiger Stoffe für Rezepturarzneimittel, und die Erstattungsbedingungen sind erfüllt.",
+          "Für Stoffe aus Kapitel IV haben Sie die Genehmigung des Vertrauensarztes (außer für einige direkt gelistete Zubereitungen)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 256,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-menselijk-bloed-en-labiele-bloedproducten",
+    "content": {
+      "en": {
+        "title": "Full Reimbursement of Blood and Blood Products",
+        "desc": "Health insurance reimburses human blood and labile blood products in full. You pay nothing and do not need to do anything: the hospital bills the blood products in your name directly to your health fund.",
+        "deadline": "No deadline and no application: the reimbursement is settled automatically.",
+        "amount": "Free: 100% reimbursed",
+        "requirements": [],
+        "steps": [
+          "The hospital bills the blood or blood products in your name and sends the invoice to your health fund",
+          "Your health fund settles it; you pay nothing"
+        ]
+      },
+      "nl": {
+        "title": "Volledige terugbetaling van bloed en bloedproducten",
+        "desc": "De ziekteverzekering betaalt menselijk bloed en labiele bloedproducten volledig terug. Je betaalt niets en hoeft zelf niets te doen: het ziekenhuis factureert de bloedproducten op jouw naam rechtstreeks aan je ziekenfonds.",
+        "deadline": "Geen deadline en geen aanvraag: de terugbetaling wordt automatisch verrekend.",
+        "amount": "Gratis: 100% terugbetaald",
+        "requirements": [],
+        "steps": [
+          "Het ziekenhuis factureert het bloed of de bloedproducten op jouw naam en stuurt de factuur naar je ziekenfonds",
+          "Je ziekenfonds regelt de betaling; jij betaalt niets"
+        ]
+      },
+      "fr": {
+        "title": "Remboursement intégral du sang et des produits sanguins",
+        "desc": "L'assurance rembourse intégralement le sang humain et les produits sanguins labiles. Vous ne payez rien et n'avez rien à faire : l'hôpital facture les produits sanguins à votre nom directement à votre mutualité.",
+        "deadline": "Pas de délai ni de demande : le remboursement est réglé automatiquement.",
+        "amount": "Gratuit : remboursé à 100 %",
+        "requirements": [],
+        "steps": [
+          "L'hôpital facture le sang ou les produits sanguins à votre nom et envoie la facture à votre mutualité",
+          "Votre mutualité règle le paiement ; vous ne payez rien"
+        ]
+      },
+      "de": {
+        "title": "Volle Erstattung von Blut und Blutprodukten",
+        "desc": "Die Krankenversicherung erstattet menschliches Blut und labile Blutprodukte vollständig. Sie zahlen nichts und müssen nichts tun: Das Krankenhaus rechnet die Blutprodukte auf Ihren Namen direkt mit Ihrer Krankenkasse ab.",
+        "deadline": "Keine Frist und kein Antrag: Die Erstattung wird automatisch verrechnet.",
+        "amount": "Kostenlos: zu 100 % erstattet",
+        "requirements": [],
+        "steps": [
+          "Das Krankenhaus stellt Blut oder Blutprodukte auf Ihren Namen in Rechnung und schickt die Rechnung an Ihre Krankenkasse",
+          "Ihre Krankenkasse übernimmt die Zahlung; Sie zahlen nichts"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-menselijk-bloed-en-labiele-bloedproducten",
+      "conditions": {
+        "en": [
+          "You receive human blood or labile blood products supplied by a hospital or a recognised blood transfusion establishment, under the conditions of the Royal Decree of 20 April 2010."
+        ],
+        "nl": [
+          "Je krijgt menselijk bloed of labiele bloedproducten afgeleverd door een ziekenhuis of een erkende inrichting voor bloedtransfusie, onder de voorwaarden van het KB van 20 april 2010."
+        ],
+        "fr": [
+          "Vous recevez du sang humain ou des produits sanguins labiles délivrés par un hôpital ou un établissement de transfusion sanguine agréé, aux conditions de l'AR du 20 avril 2010."
+        ],
+        "de": [
+          "Sie erhalten menschliches Blut oder labile Blutprodukte, die ein Krankenhaus oder eine anerkannte Bluttransfusionseinrichtung abgibt, unter den Bedingungen des Königlichen Erlasses vom 20. April 2010."
+        ]
+      }
+    }
   }
 ]

@@ -73,6 +73,7 @@
     "2957": 163,
     "2958": 164,
     "2960": 183,
+    "2961": 256,
     "2962": 162,
     "2963": 188,
     "2964": 192,
@@ -86,12 +87,14 @@
     "2976": 222,
     "2977": 180,
     "2978": 195,
+    "2979": 249,
     "2980": 178,
     "2984": 174,
     "2985": 176,
     "2987": 175,
     "2988": 169,
     "2989": 231,
+    "2990": 250,
     "2992": 225,
     "2993": 226,
     "2995": 141,
@@ -105,11 +108,14 @@
     "3006": 224,
     "3007": 230,
     "3008": 168,
+    "3010": 240,
     "3011": 213,
     "3013": 181,
     "3015": 228,
     "3016": 89,
+    "3017": 248,
     "3018": 227,
+    "3020": 246,
     "3021": 220,
     "3027": 201,
     "3028": 201,
@@ -125,14 +131,19 @@
     "3046": 167,
     "3049": 187,
     "3050": 117,
+    "3051": 255,
     "3052": 191,
     "3056": 123,
     "3057": 186,
+    "3058": 254,
     "3059": 202,
+    "3060": 253,
     "3061": 157,
     "3062": 161,
     "3063": 203,
+    "3064": 252,
     "3068": 25,
+    "3069": 251,
     "3071": 89,
     "3072": 94,
     "3073": 89,
@@ -143,6 +154,7 @@
     "3080": 177,
     "3082": 200,
     "3087": 159,
+    "3088": 245,
     "3099": 115,
     "3100": 155,
     "3101": 116,
@@ -160,11 +172,15 @@
     "51544": 193,
     "75001": 130,
     "75018": 93,
+    "75019": 243,
     "75020": 197,
     "75066": 207,
     "75067": 136,
     "75762": 172,
+    "75764": 242,
+    "75765": 244,
     "75766": 190,
+    "75767": 247,
     "77094": 27
   },
   "queue": [
@@ -312,30 +328,12 @@
       ]
     },
     {
-      "nr": "3088",
-      "name": "Tegemoetkoming bij revalidatiezorg",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/persoonlijk-aandeel-te-betalen-voor-de-zorg-verstrekt-door-een-centrum-dat-een-revalidatieovereenkomst-sloot"
-      ]
-    },
-    {
       "nr": "3000",
       "name": "Tegemoetkoming in cognitieve gedragstherapie bij het chronisch vermoeidheidssyndroom (CVS )en Myalgische encephalomyelitis (ME)",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/myalgische-encephalomyelitis-chronisch-vermoeidheidssyndroom/cognitief-gedragstherapeut-de-behandeling-van-me-cvs"
-      ]
-    },
-    {
-      "nr": "3020",
-      "name": "Tegemoetkoming in de prijs van de behandeling door gespecialiseerde centra voor kinderen en adolescenten die een neurologische stoornis gekoppeld aan een psychiatrische stoornis hebben",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/kinderen-en-adolescenten-neurologische-stoornissen-gekoppeld-aan-psychiatrische-stoornissen"
       ]
     },
     {
@@ -363,24 +361,6 @@
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/professionals/individuele-zorgverleners/tandartsen/verstrekkingen-kostprijs-en-terugbetaling/orthodontie-terugbetaalde-verstrekkingen-en-toepassingsregels-voor-tandartsen"
-      ]
-    },
-    {
-      "nr": "2990",
-      "name": "Tegemoetkoming voor begeleidingsgesprekken voor astmapatiënten in de apotheek",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/ademhalingsziekten/gepersonaliseerde-begeleiding"
-      ]
-    },
-    {
-      "nr": "75019",
-      "name": "Tegemoetkoming voor het zorgtraject 'Obesitas bij kinderen'",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/gespecialiseerde-centra/zorgtraject-obesitas-bij-kinderen-multidisciplinaire-zorg-voor-een-betere-behandeling-van-uw-jonge-patienten"
       ]
     },
     {
@@ -420,51 +400,6 @@
       ]
     },
     {
-      "nr": "75767",
-      "name": "Terugbetaling van begeleiding in een gespecialiseerd centrum bij lymfoedeem",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/aandoeningen-van-het-vaatstelsel/lymfoedeem"
-      ]
-    },
-    {
-      "nr": "75764",
-      "name": "Terugbetaling van een zorgtraject chronische nierinsufficiëntie",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/nierziekten/chronische-nierinsufficientie-terugbetaling-in-het-kader-van-een-zorgtraject"
-      ]
-    },
-    {
-      "nr": "3051",
-      "name": "Terugbetaling van magistrale bereidingen bij de apotheker",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/geneesmiddelen/geneesmiddel-terugbetalen/magistrale-bereidingen"
-      ]
-    },
-    {
-      "nr": "2961",
-      "name": "Terugbetaling van menselijk bloed en labiele bloedproducten",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-menselijk-bloed-en-labiele-bloedproducten"
-      ]
-    },
-    {
-      "nr": "3069",
-      "name": "Terugbetaling van moeilijke tandherstellingen bij patiënten met kanker, anodontie en/of oligodontie",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/professionals/individuele-zorgverleners/tandartsen/verstrekkingen-kostprijs-en-terugbetaling/terugbetaling-van-moeilijke-tandherstellingen-bij-patienten-met-kanker-anodontie-en-of-oligodontie"
-      ]
-    },
-    {
       "nr": "3048",
       "name": "Terugbetaling van radiofarmaceutische producten",
       "level": "Federaal",
@@ -483,39 +418,12 @@
       ]
     },
     {
-      "nr": "3010",
-      "name": "Terugbetaling van verschillende begeleidingen voor personen met diabetes type 2",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/diabetes-terugbetaling-van-verschillende-begeleidingen"
-      ]
-    },
-    {
       "nr": "3047",
       "name": "Terugbetaling voor kortdurende zuurstoftherapie",
       "level": "Federaal",
       "financial": true,
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/palliatieve-zorg/kortdurende-zuurstoftherapie"
-      ]
-    },
-    {
-      "nr": "75765",
-      "name": "Terugbetaling zorgpad voor en na abdominale transplantatie",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/ziekenhuizen/verzorging-in-ziekenhuizen/abdominale-transplantatie-vergoedingen-voor-multidisciplinaire-pre-en-rehabilitatiezorgpaden-voor-en-na-een-abdominale-transplantatie"
-      ]
-    },
-    {
-      "nr": "3017",
-      "name": "Tussenkomst in het programma van globale tenlasteneming voor patiënten met een ernstige neurologische ziekte in een gevorderd stadium",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/ziekten/mentale-en-neurologische-stoornissen/neurologische-ziekte-in-een-gevorderd-stadium-globale-tenlasteneming"
       ]
     },
     {
@@ -528,38 +436,11 @@
       ]
     },
     {
-      "nr": "3064",
-      "name": "Vergoeding van de implantaten voor de reconstructie van de gehoorbeentjes",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-de-implantaten-voor-de-reconstructie-van-de-gehoorbeentjes"
-      ]
-    },
-    {
-      "nr": "3058",
-      "name": "Vergoeding van draagbare diffusors of cassettes voor antibiotica voor personen met mucoviscidose",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/niet-implanteerbare-medische-hulpmiddelen/mucoviscidose-draagbare-diffusors-of-cassettes-voor-antibiotica"
-      ]
-    },
-    {
       "nr": "61308",
       "name": "Vergoeding van medische voeding bij koemelkallergie voor zuigelingen",
       "level": "Federaal",
       "financial": true,
       "official": []
-    },
-    {
-      "nr": "3060",
-      "name": "Vergoeding van middenoorimplantaten",
-      "level": "Federaal",
-      "financial": true,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/medische-hulpmiddelen-medisch-materiaal/implantaten-en-medische-hulpmiddelen/vergoeding-van-middenoorimplantaten"
-      ]
     },
     {
       "nr": "3026",
@@ -1112,15 +993,6 @@
       "official": [
         "http://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-3",
         "https://www.vdab.be/orienteren/ontslagen/stappenplan/sollicitatieverlof"
-      ]
-    },
-    {
-      "nr": "2979",
-      "name": "Ter beschikking stellen van een cardiorespiratoire thuismonitor bij pasgeborenen en zuigelingen",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/verzorging-in-gespecialiseerde-centra/cardiorespiratoire-thuismonitoring-bij-pasgeborenen-en-zuigelingen"
       ]
     },
     {
