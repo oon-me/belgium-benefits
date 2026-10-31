@@ -5,6 +5,9 @@
     "136": 103,
     "160": 275,
     "185": 5,
+    "189": 324,
+    "197": 323,
+    "199": 322,
     "201": 206,
     "212": 293,
     "222": 294,
@@ -17,10 +20,13 @@
     "331": 126,
     "365": 15,
     "496": 313,
+    "505": 318,
     "630": 114,
     "631": 134,
     "662": 135,
     "676": 99,
+    "678": 316,
+    "681": 320,
     "682": 129,
     "685": 11,
     "688": 114,
@@ -60,6 +66,7 @@
     "1225": 257,
     "1246": 301,
     "1247": 205,
+    "1327": 314,
     "1337": 303,
     "1371": 127,
     "1387": 101,
@@ -69,6 +76,8 @@
     "1434": 290,
     "1446": 133,
     "1447": 305,
+    "1456": 321,
+    "1465": 319,
     "1466": 208,
     "1478": 295,
     "1505": 269,
@@ -79,6 +88,7 @@
     "1531": 1,
     "1532": 21,
     "1533": 111,
+    "1548": 325,
     "1549": 113,
     "1551": 128,
     "1559": 302,
@@ -227,7 +237,11 @@
     "48571": 298,
     "49892": 107,
     "51544": 193,
+    "54449": 317,
     "55547": 280,
+    "59227": 315,
+    "59255": 315,
+    "59256": 315,
     "75001": 130,
     "75018": 93,
     "75019": 243,
@@ -560,13 +574,6 @@
       ]
     },
     {
-      "nr": "199",
-      "name": "Opleidingscheques voor werknemers",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
       "nr": "49105",
       "name": "Partnerabattement voor de roerende goederen in de erfbelasting",
       "level": "Vlaams",
@@ -576,13 +583,6 @@
       ]
     },
     {
-      "nr": "1548",
-      "name": "Pleegzorgtoeslag (Vlaams Groeipakket)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
       "nr": "2344",
       "name": "Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek",
       "level": "Vlaams",
@@ -590,13 +590,6 @@
       "official": [
         "https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten"
       ]
-    },
-    {
-      "nr": "197",
-      "name": "Premie voor het behalen van een diploma secundair onderwijs via het volwassenenonderwijs",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
     },
     {
       "nr": "241",
@@ -650,13 +643,6 @@
       "official": []
     },
     {
-      "nr": "189",
-      "name": "Vermindering van inschrijvingsgeld in het volwassenenonderwijs",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
       "nr": "705",
       "name": "Vlaamse woonlening",
       "level": "Vlaams",
@@ -664,13 +650,6 @@
       "official": [
         "https://vlaamswoningfonds.be/vlaamse-woonlening"
       ]
-    },
-    {
-      "nr": "1327",
-      "name": "Vrijstelling van de belasting op inverkeerstelling (BIV) en de verkeersbelasting (VKB) voor personen met een handicap en oorlogsinvaliden",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
     },
     {
       "nr": "1906",
@@ -864,20 +843,6 @@
       ]
     },
     {
-      "nr": "681",
-      "name": "Leerlingenvervoer in het buitengewoon onderwijs",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
-      "nr": "1456",
-      "name": "Leersteun voor leerlingen met specifieke onderwijsbehoeften",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
       "nr": "76325",
       "name": "Loopbaankrediet",
       "level": "Vlaams",
@@ -908,52 +873,8 @@
       ]
     },
     {
-      "nr": "505",
-      "name": "Speciale onderwijsleermiddelen voor leerlingen, cursisten en studenten met een beperking",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
-      "nr": "54449",
-      "name": "Synchroon internetonderwijs (SIO)",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://www.bednet.be/over-bednet"
-      ]
-    },
-    {
       "nr": "54680",
       "name": "Teletolk voor doven of slechthorenden",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
-      "nr": "678",
-      "name": "Tijdelijk onderwijs aan huis (TOAH)",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
-      "nr": "59256",
-      "name": "Verhoogde aankooplimiet dienstencheques voor begunstigden van een zorgbudget voor ouderen",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
-      "nr": "59255",
-      "name": "Verhoogde aankooplimiet dienstencheques voor eenoudergezinnen",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
-      "nr": "59227",
-      "name": "Verhoogde aankooplimiet dienstencheques voor personen met een handicap",
       "level": "Vlaams",
       "financial": false,
       "official": []
@@ -965,15 +886,6 @@
       "financial": false,
       "official": [
         "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vermindering-van-de-onroerende-voorheffing-voor-energiezuinige-gebouwen"
-      ]
-    },
-    {
-      "nr": "1465",
-      "name": "Voorleessoftware voor leerlingen met leesbeperkingen",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://www.adibib.be"
       ]
     },
     {

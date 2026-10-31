@@ -36822,5 +36822,1386 @@
         ]
       }
     }
+  },
+  {
+    "id": 314,
+    "category": "other",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/verkeersbelastingen/jaarlijkse-verkeersbelasting/vrijstellingen-van-de-jaarlijkse-verkeersbelasting/vrijstelling-voor-personen-met-een-handicap-en-oorlogsinvaliden",
+    "request_url": "https://assets.vlaanderen.be/image/upload/v1785316624/Form_Aanvraag_vrijstelling_verkeersbelasting_VFP9918_evq0rg.pdf",
+    "content": {
+      "en": {
+        "title": "Road Tax and Registration Tax Exemption for People with a Disability and War Invalids",
+        "desc": "A car used as personal transport by or for a person with a severe disability is exempt from the annual road tax and from the registration tax (BIV). The exemption covers one vehicle per person. It also applies when a partner, family member or, for a necessary trip, someone else drives the car without the person in it.",
+        "deadline": "Apply right after registering the vehicle, or within 3 months of receiving the tax bill. Apply again if you change car, number plate or region.",
+        "amount": "No annual road tax and no registration tax (BIV) for one vehicle",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Recent disability certificate from the FPS Social Security (or, for war invalids, a certificate of an invalidity pension of at least 60%)"
+          },
+          {
+            "type": "doc",
+            "label": "Signed exemption application form"
+          }
+        ],
+        "steps": [
+          "Ask the FPS Social Security for a recent disability certificate (war invalids: a certificate from the Federal Pension Service or the authority paying the pension)",
+          "Fill in and sign the application form (PDF or DOCX on the Vlaanderen.be page)",
+          "Send it with the certificate to the Flemish Tax Administration via its contact form or by post; you get an acknowledgement within 2 weeks",
+          "Already received a tax bill? Pay it: if the exemption is approved, you are refunded within 2 months"
+        ]
+      },
+      "nl": {
+        "title": "Vrijstelling van verkeersbelasting en BIV voor personen met een handicap en oorlogsinvaliden",
+        "desc": "Een wagen die gebruikt wordt als persoonlijk vervoermiddel door of voor een persoon met een zware handicap, is vrijgesteld van de jaarlijkse verkeersbelasting en van de belasting op inverkeerstelling (BIV). De vrijstelling geldt voor 1 voertuig per persoon. Ze geldt ook als de partner, een gezinslid of, voor een noodzakelijke rit, iemand anders met de wagen rijdt zonder dat de persoon met een handicap meerijdt.",
+        "deadline": "Vraag aan meteen na de inschrijving van het voertuig, of binnen 3 maanden na ontvangst van het aanslagbiljet. Vraag opnieuw aan als je van wagen, nummerplaat of gewest verandert.",
+        "amount": "Geen jaarlijkse verkeersbelasting en geen BIV voor 1 voertuig",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Recent invaliditeitsattest van de FOD Sociale Zekerheid (of, voor oorlogsinvaliden, een attest van een invaliditeitspensioen van minstens 60%)"
+          },
+          {
+            "type": "doc",
+            "label": "Ondertekend aanvraagformulier voor de vrijstelling"
+          }
+        ],
+        "steps": [
+          "Vraag een recent invaliditeitsattest aan bij de FOD Sociale Zekerheid (oorlogsinvaliden: een attest van de Federale Pensioendienst of de overheid die het pensioen betaalt)",
+          "Vul het aanvraagformulier in en onderteken het (PDF of DOCX op de pagina van Vlaanderen.be)",
+          "Bezorg het met het attest aan de Vlaamse Belastingdienst via het contactformulier of per post; je krijgt binnen 2 weken een ontvangstmelding",
+          "Al een aanslagbiljet ontvangen? Betaal het: wordt de vrijstelling goedgekeurd, dan krijg je binnen 2 maanden een terugbetaling"
+        ]
+      },
+      "fr": {
+        "title": "Exonération de la taxe de circulation et de la TMC pour personnes handicapées et invalides de guerre",
+        "desc": "Une voiture utilisée comme moyen de transport personnel par ou pour une personne lourdement handicapée est exonérée de la taxe de circulation annuelle et de la taxe de mise en circulation (TMC/BIV). L'exonération vaut pour un seul véhicule par personne. Elle s'applique aussi lorsque le partenaire, un membre de la famille ou, pour un trajet nécessaire, une autre personne conduit sans que la personne handicapée soit à bord.",
+        "deadline": "Demandez-la juste après l'immatriculation du véhicule, ou dans les 3 mois après réception de l'avertissement-extrait de rôle. Redemandez-la si vous changez de voiture, de plaque ou de région.",
+        "amount": "Pas de taxe de circulation annuelle ni de TMC pour un véhicule",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation d'invalidité récente du SPF Sécurité sociale (ou, pour les invalides de guerre, une attestation d'une pension d'invalidité d'au moins 60 %)"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande d'exonération signé"
+          }
+        ],
+        "steps": [
+          "Demandez une attestation d'invalidité récente au SPF Sécurité sociale (invalides de guerre : une attestation du Service fédéral des Pensions ou de l'autorité qui paie la pension)",
+          "Complétez et signez le formulaire de demande (PDF ou DOCX sur la page de Vlaanderen.be)",
+          "Envoyez-le avec l'attestation à la Vlaamse Belastingdienst via son formulaire de contact ou par la poste ; vous recevez un accusé de réception dans les 2 semaines",
+          "Vous avez déjà reçu un avertissement-extrait de rôle ? Payez-le : si l'exonération est accordée, vous êtes remboursé(e) dans les 2 mois"
+        ]
+      },
+      "de": {
+        "title": "Befreiung von Verkehrssteuer und Zulassungssteuer für Menschen mit Behinderung und Kriegsinvaliden",
+        "desc": "Ein Auto, das als persönliches Verkehrsmittel von oder für eine Person mit schwerer Behinderung genutzt wird, ist von der jährlichen Verkehrssteuer und der Zulassungssteuer (BIV) befreit. Die Befreiung gilt für ein Fahrzeug pro Person. Sie gilt auch, wenn der Partner, ein Familienmitglied oder bei einer notwendigen Fahrt eine andere Person das Auto ohne die Person mit Behinderung fährt.",
+        "deadline": "Beantragen Sie sie direkt nach der Zulassung des Fahrzeugs oder innerhalb von 3 Monaten nach Erhalt des Steuerbescheids. Bei Wechsel von Auto, Kennzeichen oder Region erneut beantragen.",
+        "amount": "Keine jährliche Verkehrssteuer und keine Zulassungssteuer für ein Fahrzeug",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aktuelle Invaliditätsbescheinigung des FÖD Soziale Sicherheit (oder für Kriegsinvaliden eine Bescheinigung über eine Invaliditätsrente von mindestens 60 %)"
+          },
+          {
+            "type": "doc",
+            "label": "Unterschriebenes Antragsformular für die Befreiung"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie eine aktuelle Invaliditätsbescheinigung beim FÖD Soziale Sicherheit (Kriegsinvaliden: eine Bescheinigung des Föderalen Pensionsdienstes oder der Behörde, die die Rente zahlt)",
+          "Füllen Sie das Antragsformular aus und unterschreiben Sie es (PDF oder DOCX auf der Seite von Vlaanderen.be)",
+          "Senden Sie es mit der Bescheinigung über das Kontaktformular oder per Post an die Flämische Steuerverwaltung; Sie erhalten innerhalb von 2 Wochen eine Eingangsbestätigung",
+          "Schon einen Steuerbescheid erhalten? Bezahlen Sie ihn: Wird die Befreiung bewilligt, erhalten Sie innerhalb von 2 Monaten eine Erstattung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/verkeersbelastingen/jaarlijkse-verkeersbelasting/vrijstellingen-van-de-jaarlijkse-verkeersbelasting/vrijstelling-voor-personen-met-een-handicap-en-oorlogsinvaliden",
+      "conditions": {
+        "en": [
+          "The person transported is fully blind, has fully paralysed upper limbs, or has a permanent invalidity of at least 50% directly due to the lower limbs; or is a war invalid with an invalidity pension of at least 60%",
+          "The vehicle is a passenger car, dual-use car, minibus or light lorry used as personal transport by or for that person",
+          "The vehicle is registered in the name of the person with a disability, the legal representative of a minor, or the court-appointed administrator",
+          "Only one vehicle per person, and not a vehicle of a care institution used only for that institution"
+        ],
+        "nl": [
+          "De vervoerde persoon is volledig blind, volledig verlamd aan de bovenste ledematen of heeft een blijvende invaliditeit van minstens 50% die rechtstreeks toe te schrijven is aan de onderste ledematen; of is een oorlogsinvalide met een invaliditeitspensioen van minstens 60%",
+          "Het voertuig is een personenauto, auto voor dubbel gebruik, minibus of lichte vrachtwagen die gebruikt wordt als persoonlijk vervoermiddel door of voor die persoon",
+          "Het voertuig is ingeschreven op naam van de persoon met een handicap, de wettelijke vertegenwoordiger van een minderjarige of de bewindvoerder",
+          "Slechts 1 voertuig per persoon, en geen voertuig van een instelling voor gehandicaptenzorg dat alleen voor die instelling gebruikt wordt"
+        ],
+        "fr": [
+          "La personne transportée est totalement aveugle, totalement paralysée des membres supérieurs ou atteinte d'une invalidité permanente d'au moins 50 % directement imputable aux membres inférieurs ; ou est un invalide de guerre avec une pension d'invalidité d'au moins 60 %",
+          "Le véhicule est une voiture, une voiture mixte, un minibus ou une camionnette utilisé comme moyen de transport personnel par ou pour cette personne",
+          "Le véhicule est immatriculé au nom de la personne handicapée, du représentant légal d'un mineur ou de l'administrateur désigné par le juge",
+          "Un seul véhicule par personne, et pas un véhicule d'une institution pour personnes handicapées utilisé uniquement pour celle-ci"
+        ],
+        "de": [
+          "Die beförderte Person ist vollständig blind, an den oberen Gliedmaßen vollständig gelähmt oder hat eine dauerhafte Invalidität von mindestens 50 %, die direkt auf die unteren Gliedmaßen zurückgeht; oder ist Kriegsinvalide mit einer Invaliditätsrente von mindestens 60 %",
+          "Das Fahrzeug ist ein Pkw, ein Fahrzeug mit doppelter Nutzung, ein Kleinbus oder ein leichter Lkw, der als persönliches Verkehrsmittel von oder für diese Person genutzt wird",
+          "Das Fahrzeug ist auf die Person mit Behinderung, den gesetzlichen Vertreter eines Minderjährigen oder den gerichtlich bestellten Betreuer zugelassen",
+          "Nur ein Fahrzeug pro Person und kein Fahrzeug einer Behinderteneinrichtung, das nur für diese genutzt wird"
+        ]
+      }
+    }
+  },
+  {
+    "id": 315,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/uw-overheid/mijn-burgerprofiel/dienstencheques-in-mijn-burgerprofiel/verhoogde-aankooplimiet-voor-dienstencheques-aanvragen",
+    "content": {
+      "en": {
+        "title": "Higher Service-Voucher Purchase Limit (Disability, Single Parents, Care Budget)",
+        "desc": "In Flanders you can normally buy at most 500 service vouchers a year for household help. People with a disability, parents of a child with a disability, single parents and people with a care budget can ask to raise that limit to 2,000 vouchers a year. You request it in Mijn Burgerprofiel.",
+        "deadline": "Single parents must apply again every calendar year; for a disability it is renewed automatically; with a care budget, check at the start of each year.",
+        "amount": "Up to 2,000 service vouchers a year instead of 500",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Registration as a service-voucher user in Flanders (Mijn Burgerprofiel)"
+          }
+        ],
+        "steps": [
+          "Make sure you are registered as a service-voucher user in Flanders",
+          "Disability (yourself or your child): fill in the online form in Mijn Burgerprofiel (web or app); you hear within a few days whether it is approved",
+          "Single parent or care budget: download the form via Mijn Burgerprofiel, fill it in and send it by e-mail or post; you get a confirmation e-mail",
+          "Once approved, order up to 2,000 vouchers a year in Mijn Burgerprofiel"
+        ]
+      },
+      "nl": {
+        "title": "Verhoogde aankooplimiet dienstencheques (handicap, eenoudergezin, zorgbudget)",
+        "desc": "In Vlaanderen kan je normaal maximaal 500 dienstencheques per jaar kopen voor huishoudhulp. Personen met een handicap, ouders van een kind met een handicap, eenoudergezinnen en personen met een zorgbudget kunnen die limiet laten verhogen tot 2.000 dienstencheques per jaar. Je vraagt dat aan via Mijn Burgerprofiel.",
+        "deadline": "Eenoudergezinnen vragen het elk kalenderjaar opnieuw aan; bij een handicap gebeurt de verlenging automatisch; met een zorgbudget controleer je best begin elk jaar.",
+        "amount": "Tot 2.000 dienstencheques per jaar in plaats van 500",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Inschrijving als dienstenchequegebruiker in Vlaanderen (Mijn Burgerprofiel)"
+          }
+        ],
+        "steps": [
+          "Zorg dat je ingeschreven bent als dienstenchequegebruiker in Vlaanderen",
+          "Handicap (jijzelf of je kind): vul het online formulier in via Mijn Burgerprofiel (web of app); binnen enkele dagen hoor je of het goedgekeurd is",
+          "Eenoudergezin of zorgbudget: download het formulier via Mijn Burgerprofiel, vul het in en verstuur het per e-mail of post; je krijgt een bevestigingsmail",
+          "Na goedkeuring bestel je tot 2.000 dienstencheques per jaar in Mijn Burgerprofiel"
+        ]
+      },
+      "fr": {
+        "title": "Limite d'achat majorée de titres-services (handicap, famille monoparentale, budget de soins)",
+        "desc": "En Flandre, vous pouvez normalement acheter au maximum 500 titres-services par an pour l'aide ménagère. Les personnes handicapées, les parents d'un enfant handicapé, les familles monoparentales et les personnes bénéficiant d'un budget de soins peuvent faire relever cette limite à 2 000 titres par an. La demande se fait via Mijn Burgerprofiel.",
+        "deadline": "Les familles monoparentales doivent redemander chaque année civile ; en cas de handicap, le renouvellement est automatique ; avec un budget de soins, vérifiez au début de chaque année.",
+        "amount": "Jusqu'à 2 000 titres-services par an au lieu de 500",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Inscription comme utilisateur de titres-services en Flandre (Mijn Burgerprofiel)"
+          }
+        ],
+        "steps": [
+          "Assurez-vous d'être inscrit(e) comme utilisateur de titres-services en Flandre",
+          "Handicap (vous ou votre enfant) : remplissez le formulaire en ligne dans Mijn Burgerprofiel (web ou app) ; vous savez en quelques jours s'il est accepté",
+          "Famille monoparentale ou budget de soins : téléchargez le formulaire via Mijn Burgerprofiel, remplissez-le et envoyez-le par e-mail ou par la poste ; vous recevez un e-mail de confirmation",
+          "Une fois la demande acceptée, commandez jusqu'à 2 000 titres par an dans Mijn Burgerprofiel"
+        ]
+      },
+      "de": {
+        "title": "Erhöhtes Kauflimit für Dienstleistungsschecks (Behinderung, Alleinerziehende, Pflegebudget)",
+        "desc": "In Flandern können Sie normalerweise höchstens 500 Dienstleistungsschecks pro Jahr für Haushaltshilfe kaufen. Menschen mit Behinderung, Eltern eines Kindes mit Behinderung, Alleinerziehende und Menschen mit einem Pflegebudget können dieses Limit auf 2.000 Schecks pro Jahr erhöhen lassen. Sie beantragen es über Mijn Burgerprofiel.",
+        "deadline": "Alleinerziehende müssen jedes Kalenderjahr neu beantragen; bei einer Behinderung erfolgt die Verlängerung automatisch; mit Pflegebudget prüfen Sie es am besten zu Jahresbeginn.",
+        "amount": "Bis zu 2.000 Dienstleistungsschecks pro Jahr statt 500",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Registrierung als Nutzer von Dienstleistungsschecks in Flandern (Mijn Burgerprofiel)"
+          }
+        ],
+        "steps": [
+          "Stellen Sie sicher, dass Sie in Flandern als Nutzer von Dienstleistungsschecks registriert sind",
+          "Behinderung (Sie selbst oder Ihr Kind): Füllen Sie das Online-Formular in Mijn Burgerprofiel (Web oder App) aus; innerhalb weniger Tage erfahren Sie, ob es bewilligt ist",
+          "Alleinerziehend oder Pflegebudget: Laden Sie das Formular über Mijn Burgerprofiel herunter, füllen Sie es aus und senden Sie es per E-Mail oder Post; Sie erhalten eine Bestätigungs-E-Mail",
+          "Nach der Bewilligung bestellen Sie bis zu 2.000 Schecks pro Jahr in Mijn Burgerprofiel"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/uw-overheid/mijn-burgerprofiel/dienstencheques-in-mijn-burgerprofiel/verhoogde-aankooplimiet-voor-dienstencheques-aanvragen",
+      "conditions": {
+        "en": [
+          "You are registered in the Flemish service-voucher system",
+          "Disability: you are recognised by the VAPH, receive an income replacement or integration allowance, have a care budget for older people in need of care, or have at least 7 points of reduced self-reliance (FPS Social Security)",
+          "Or you are the parent of a child with a disability younger than 25 (granted to the parent who has the child as a dependant)",
+          "Or you are a single parent with one or more dependent children, or you have a care budget"
+        ],
+        "nl": [
+          "Je bent ingeschreven in het dienstenchequesysteem van het Vlaamse Gewest",
+          "Handicap: je bent erkend door het VAPH, krijgt een inkomensvervangende tegemoetkoming of integratietegemoetkoming, hebt een zorgbudget voor ouderen met een zorgnood, of hebt minstens 7 punten op de zelfredzaamheidsschaal (FOD Sociale Zekerheid)",
+          "Of je bent ouder van een kind met een handicap jonger dan 25 (toegekend aan de ouder die het kind ten laste heeft)",
+          "Of je bent een alleenstaande ouder met één of meer kinderen ten laste, of je hebt een zorgbudget"
+        ],
+        "fr": [
+          "Vous êtes inscrit(e) dans le système flamand des titres-services",
+          "Handicap : vous êtes reconnu(e) par le VAPH, recevez une allocation de remplacement de revenus ou d'intégration, avez un budget de soins pour personnes âgées ou au moins 7 points d'autonomie réduite (SPF Sécurité sociale)",
+          "Ou vous êtes le parent d'un enfant handicapé de moins de 25 ans (accordé au parent qui a l'enfant à charge)",
+          "Ou vous êtes un parent seul avec un ou plusieurs enfants à charge, ou vous avez un budget de soins"
+        ],
+        "de": [
+          "Sie sind im flämischen Dienstleistungsscheck-System registriert",
+          "Behinderung: Sie sind vom VAPH anerkannt, erhalten eine Einkommensersatz- oder Integrationsbeihilfe, haben ein Pflegebudget für pflegebedürftige Ältere oder mindestens 7 Punkte verminderter Selbstständigkeit (FÖD Soziale Sicherheit)",
+          "Oder Sie sind Elternteil eines Kindes mit Behinderung unter 25 Jahren (gewährt dem Elternteil, der das Kind unterhält)",
+          "Oder Sie sind alleinerziehend mit einem oder mehreren unterhaltsberechtigten Kindern oder haben ein Pflegebudget"
+        ]
+      }
+    },
+    "notice": {
+      "date": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/uw-overheid/mijn-burgerprofiel/dienstencheques-in-mijn-burgerprofiel/wijzigingen-aan-de-regeling-voor-dienstencheques-vanaf-1-januari-2027",
+      "text": {
+        "en": "Announced, not yet law: from 1 January 2027 the Flemish Government plans to raise the voucher price (€12 for the first 175, €13 for the next 125) and to change the purchase limit. Details are expected in December 2026; you do not need to do anything now.",
+        "nl": "Aangekondigd, nog geen regelgeving: vanaf 1 januari 2027 wil de Vlaamse Regering de prijs verhogen (12 euro voor de eerste 175, 13 euro voor de volgende 125 dienstencheques) en de aankooplimiet aanpassen. Meer duidelijkheid wordt verwacht in december 2026; je hoeft nu niets te doen.",
+        "fr": "Annoncé, pas encore en vigueur : à partir du 1er janvier 2027, le Gouvernement flamand prévoit d'augmenter le prix (12 € pour les 175 premiers titres, 13 € pour les 125 suivants) et d'adapter la limite d'achat. Des précisions sont attendues en décembre 2026 ; vous ne devez rien faire pour l'instant.",
+        "de": "Angekündigt, noch nicht geregelt: Ab dem 1. Januar 2027 will die Flämische Regierung den Preis erhöhen (12 € für die ersten 175, 13 € für die nächsten 125 Schecks) und das Kauflimit anpassen. Einzelheiten werden im Dezember 2026 erwartet; Sie müssen jetzt nichts tun."
+      }
+    }
+  },
+  {
+    "id": 316,
+    "category": "family",
+    "situations": [
+      "school",
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/ondersteuning-en-begeleiding-voor-leerlingen-cursisten-en-studenten/basis-en-secundair-onderwijs/langdurig-zieke-leerlingen/tijdelijk-onderwijs-aan-huis-toah",
+    "request_url": "https://data-onderwijs.vlaanderen.be/documenten/bestanden/5020.docx",
+    "content": {
+      "en": {
+        "title": "Temporary Home Teaching for Sick Pupils (TOAH)",
+        "desc": "Pupils who are long-term or chronically ill, or on maternity leave, can get 4 lessons a week at home or where they are staying, free of charge. Their own school organises it and chooses the teachers with the parents, taking the doctor's advice into account. It can be combined with online classes via Bednet (SIO).",
+        "deadline": "Long-term illness: until the end date on the doctor's certificate. Chronic illness: 4 hours per 9 half-days of absence. Maternity leave: until 3 weeks after the leave, at most 9 weeks after the birth.",
+        "amount": "Free: 4 lessons of 50 minutes a week",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with the doctor's part filled in (GP or specialist; specialist for chronic illness)"
+          }
+        ],
+        "steps": [
+          "Download the right form (long-term or chronic illness) or ask the school for it",
+          "Fill in the first part; the school can help",
+          "Have the doctor fill in the second part",
+          "Give the completed form to the school's head"
+        ]
+      },
+      "nl": {
+        "title": "Tijdelijk onderwijs aan huis (TOAH)",
+        "desc": "Leerlingen die langdurig of chronisch ziek zijn, of op moederschapsverlof, kunnen thuis of op hun verblijfplaats gratis 4 lesuren per week krijgen. De eigen school organiseert het en kiest de leraren in overleg met de ouders, rekening houdend met het advies van de arts. Het kan gecombineerd worden met online lessen via Bednet (SIO).",
+        "deadline": "Langdurig ziek: tot de einddatum op het ziekteattest. Chronisch ziek: 4 uur per 9 halve dagen afwezigheid. Moederschapsverlof: tot 3 weken na het verlof en maximaal 9 weken na de bevalling.",
+        "amount": "Gratis: 4 lesuren van 50 minuten per week",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier waarvan de arts het 2de deel invult (huisarts of specialist; specialist bij chronische ziekte)"
+          }
+        ],
+        "steps": [
+          "Download het juiste aanvraagformulier (langdurig of chronisch ziek) of vraag het aan de school",
+          "Vul het 1ste deel van het formulier in; de school kan helpen",
+          "Laat het 2de deel invullen door de arts",
+          "Bezorg het ingevulde formulier aan de directie van de school"
+        ]
+      },
+      "fr": {
+        "title": "Enseignement temporaire à domicile pour élèves malades (TOAH)",
+        "desc": "Les élèves malades de longue durée ou chroniques, ou en congé de maternité, peuvent recevoir gratuitement 4 heures de cours par semaine à domicile ou là où ils séjournent. Leur propre école l'organise et choisit les enseignants avec les parents, en tenant compte de l'avis du médecin. Cela peut être combiné avec des cours en ligne via Bednet (SIO).",
+        "deadline": "Maladie de longue durée : jusqu'à la date de fin du certificat médical. Maladie chronique : 4 heures par 9 demi-journées d'absence. Congé de maternité : jusqu'à 3 semaines après le congé, au maximum 9 semaines après l'accouchement.",
+        "amount": "Gratuit : 4 heures de cours de 50 minutes par semaine",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande dont le médecin remplit la 2e partie (généraliste ou spécialiste ; spécialiste en cas de maladie chronique)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le bon formulaire (maladie de longue durée ou chronique) ou demandez-le à l'école",
+          "Remplissez la première partie ; l'école peut vous aider",
+          "Faites remplir la deuxième partie par le médecin",
+          "Remettez le formulaire complété à la direction de l'école"
+        ]
+      },
+      "de": {
+        "title": "Vorübergehender Hausunterricht für kranke Schüler (TOAH)",
+        "desc": "Langzeit- oder chronisch kranke Schüler oder Schülerinnen im Mutterschaftsurlaub können kostenlos 4 Unterrichtsstunden pro Woche zu Hause oder an ihrem Aufenthaltsort erhalten. Die eigene Schule organisiert dies und wählt die Lehrkräfte mit den Eltern unter Berücksichtigung des ärztlichen Rats. Es lässt sich mit Online-Unterricht über Bednet (SIO) kombinieren.",
+        "deadline": "Langzeitkrank: bis zum Enddatum auf dem ärztlichen Attest. Chronisch krank: 4 Stunden pro 9 halbe Fehltage. Mutterschaftsurlaub: bis 3 Wochen nach dem Urlaub, höchstens 9 Wochen nach der Geburt.",
+        "amount": "Kostenlos: 4 Unterrichtsstunden à 50 Minuten pro Woche",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, dessen 2. Teil der Arzt ausfüllt (Hausarzt oder Facharzt; Facharzt bei chronischer Krankheit)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das richtige Formular (Langzeit- oder chronische Krankheit) herunter oder fragen Sie die Schule danach",
+          "Füllen Sie den ersten Teil aus; die Schule kann helfen",
+          "Lassen Sie den zweiten Teil vom Arzt ausfüllen",
+          "Geben Sie das ausgefüllte Formular bei der Schulleitung ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/ondersteuning-en-begeleiding-voor-leerlingen-cursisten-en-studenten/basis-en-secundair-onderwijs/langdurig-zieke-leerlingen/tijdelijk-onderwijs-aan-huis-toah",
+      "conditions": {
+        "en": [
+          "The pupil is long-term or chronically ill, or on maternity leave, and a doctor agrees to home teaching",
+          "The pupil is a regular pupil in mainstream or special primary education (including nursery) or in most secondary courses",
+          "The pupil stays at most 10 km from the school (20 km for special education); further away the school may, but does not have to, organise it",
+          "At least one parent (or foster parent or guardian) applies to the school's head; an adult pupil can apply alone"
+        ],
+        "nl": [
+          "De leerling is langdurig of chronisch ziek, of op moederschapsverlof, en kreeg toestemming van een arts",
+          "De leerling is een regelmatige leerling in het gewoon of buitengewoon basisonderwijs (ook kleuters) of in de meeste richtingen van het secundair onderwijs",
+          "De leerling verblijft op maximaal 10 km van de school (20 km in het buitengewoon onderwijs); verder weg mag de school het organiseren, maar moet ze niet",
+          "Minstens 1 ouder (of pleegouder of voogd) dient de aanvraag in bij de directie; een meerderjarige leerling kan zelf aanvragen"
+        ],
+        "fr": [
+          "L'élève est malade de longue durée ou chronique, ou en congé de maternité, et un médecin a donné son accord",
+          "L'élève est régulièrement inscrit dans l'enseignement fondamental ordinaire ou spécialisé (maternelle comprise) ou dans la plupart des filières du secondaire",
+          "L'élève séjourne à 10 km maximum de l'école (20 km dans l'enseignement spécialisé) ; au-delà, l'école peut l'organiser sans y être obligée",
+          "Au moins un parent (ou parent d'accueil ou tuteur) introduit la demande auprès de la direction ; un élève majeur peut la faire lui-même"
+        ],
+        "de": [
+          "Der Schüler ist langzeit- oder chronisch krank oder im Mutterschaftsurlaub, und ein Arzt hat zugestimmt",
+          "Der Schüler ist regulär in der Regel- oder Förder-Grundschule (einschließlich Kindergarten) oder in den meisten Sekundarschulzweigen eingeschrieben",
+          "Der Schüler hält sich höchstens 10 km von der Schule auf (20 km im Förderunterricht); weiter entfernt darf die Schule es anbieten, muss aber nicht",
+          "Mindestens ein Elternteil (oder Pflegeelternteil oder Vormund) stellt den Antrag bei der Schulleitung; volljährige Schüler können selbst beantragen"
+        ]
+      }
+    }
+  },
+  {
+    "id": 317,
+    "category": "family",
+    "situations": [
+      "school",
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/synchroon-internetonderwijs-sio",
+    "request_url": "https://www.bednet.be/info/bednet-aanvragen",
+    "content": {
+      "en": {
+        "title": "Live Online Classes from Home for Sick Pupils (SIO, Bednet)",
+        "desc": "Pupils who miss school for a long time or often because of illness, an accident or maternity rest can follow their own class live from home over the internet. Bednet, subsidised by the Flemish Ministry of Education, lends all the equipment free of charge and provides technical support. It keeps the link with classmates and teachers and can be combined with home teaching (TOAH).",
+        "deadline": "Can start and end at any time in the school year.",
+        "amount": "Free for the pupil and the school, equipment included",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Valid medical certificate for the school"
+          }
+        ],
+        "steps": [
+          "Talk to the school: it informs you about SIO and refers you to Bednet",
+          "Anyone involved (parents, school, CLB, doctor or the pupil) applies to Bednet",
+          "Bednet assesses the request and contacts you within 5 working days",
+          "Bednet installs the equipment at home and in the classroom"
+        ]
+      },
+      "nl": {
+        "title": "Synchroon internetonderwijs (SIO) via Bednet",
+        "desc": "Leerlingen die door ziekte, ongeval of moederschapsrust lang of vaak niet naar school kunnen, volgen via synchroon internetonderwijs thuis live de lessen van hun eigen klas. Bednet vzw, gesubsidieerd door het Vlaams Ministerie van Onderwijs en Vorming, leent al het materiaal gratis uit en zorgt voor technische ondersteuning. Zo blijft de band met klasgenoten en leraren behouden. Het kan gecombineerd worden met tijdelijk onderwijs aan huis (TOAH).",
+        "deadline": "Kan op elk moment van het schooljaar starten en eindigen.",
+        "amount": "Gratis voor de leerling en de school, materiaal inbegrepen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Geldig medisch attest voor de school"
+          }
+        ],
+        "steps": [
+          "Bespreek het met de school: die informeert je over SIO en verwijst door naar Bednet",
+          "Iedereen die betrokken is (ouders, school, CLB, arts of de leerling) dient de aanvraag in bij Bednet",
+          "Bednet beoordeelt de aanvraag en neemt binnen 5 werkdagen contact op",
+          "Bednet zorgt voor het materiaal thuis en in de klas"
+        ]
+      },
+      "fr": {
+        "title": "Enseignement synchrone par internet pour élèves malades (SIO, Bednet)",
+        "desc": "Les élèves qui manquent l'école longtemps ou souvent à cause d'une maladie, d'un accident ou d'un repos de maternité peuvent suivre en direct, depuis chez eux, les cours de leur propre classe par internet. Bednet, subventionné par le ministère flamand de l'Enseignement, prête gratuitement tout le matériel et assure le support technique. Le lien avec la classe est maintenu, et cela peut être combiné avec l'enseignement temporaire à domicile (TOAH).",
+        "deadline": "Peut commencer et se terminer à tout moment de l'année scolaire.",
+        "amount": "Gratuit pour l'élève et l'école, matériel compris",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical valable pour l'école"
+          }
+        ],
+        "steps": [
+          "Parlez-en à l'école : elle vous informe sur le SIO et vous oriente vers Bednet",
+          "Toute personne concernée (parents, école, CLB, médecin ou l'élève) introduit la demande auprès de Bednet",
+          "Bednet évalue la demande et vous contacte dans les 5 jours ouvrables",
+          "Bednet installe le matériel à domicile et en classe"
+        ]
+      },
+      "de": {
+        "title": "Synchroner Online-Unterricht für kranke Schüler (SIO, Bednet)",
+        "desc": "Schüler, die wegen Krankheit, Unfall oder Mutterschutz lange oder häufig fehlen, können von zu Hause aus live über das Internet am Unterricht ihrer eigenen Klasse teilnehmen. Bednet, vom flämischen Unterrichtsministerium bezuschusst, verleiht die gesamte Ausrüstung kostenlos und leistet technische Unterstützung. So bleibt die Verbindung zur Klasse erhalten; es ist mit vorübergehendem Hausunterricht (TOAH) kombinierbar.",
+        "deadline": "Kann jederzeit im Schuljahr beginnen und enden.",
+        "amount": "Kostenlos für Schüler und Schule, Ausrüstung inbegriffen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Gültiges ärztliches Attest für die Schule"
+          }
+        ],
+        "steps": [
+          "Sprechen Sie mit der Schule: Sie informiert über SIO und verweist an Bednet",
+          "Jede beteiligte Person (Eltern, Schule, CLB, Arzt oder der Schüler) stellt den Antrag bei Bednet",
+          "Bednet prüft den Antrag und meldet sich innerhalb von 5 Werktagen",
+          "Bednet stellt die Ausrüstung zu Hause und im Klassenzimmer bereit"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/synchroon-internetonderwijs-sio",
+      "conditions": {
+        "en": [
+          "The pupil is absent for a long time or often because of illness, an accident or maternity rest and cannot follow lessons at school",
+          "SIO is expected to be needed for at least 4 weeks (long absence) or 36 half school days (frequent absence)",
+          "The pupil is at least 5 and in primary or secondary education",
+          "Not for pupils receiving permanent home education (POAH), in certain secondary courses (most 7th years, graduate nursing, OV3 integration phase), or too ill to follow lessons online"
+        ],
+        "nl": [
+          "De leerling is door ziekte, ongeval of moederschapsrust langdurig of vaak afwezig en kan de lessen op school niet volgen",
+          "Verwacht wordt dat de leerling SIO minstens 4 weken (lange afwezigheid) of 36 halve lesdagen (vaak afwezig) zal gebruiken",
+          "De leerling is minstens 5 jaar en volgt basis- of secundair onderwijs",
+          "Niet voor leerlingen met permanent onderwijs aan huis (POAH), in bepaalde richtingen (de meeste 7de jaren, graduaat verpleegkunde, integratiefase OV3) of die te ziek zijn om online les te volgen"
+        ],
+        "fr": [
+          "L'élève est absent longtemps ou souvent à cause d'une maladie, d'un accident ou d'un repos de maternité et ne peut pas suivre les cours à l'école",
+          "Le SIO devrait être utilisé au moins 4 semaines (absence longue) ou 36 demi-journées de cours (absences fréquentes)",
+          "L'élève a au moins 5 ans et est dans l'enseignement fondamental ou secondaire",
+          "Pas pour les élèves en enseignement permanent à domicile (POAH), dans certaines filières (la plupart des 7e années, graduat en soins infirmiers, phase d'intégration OV3) ou trop malades pour suivre les cours en ligne"
+        ],
+        "de": [
+          "Der Schüler fehlt wegen Krankheit, Unfall oder Mutterschutz lange oder häufig und kann dem Unterricht in der Schule nicht folgen",
+          "SIO wird voraussichtlich mindestens 4 Wochen (lange Abwesenheit) oder 36 halbe Schultage (häufige Abwesenheit) benötigt",
+          "Der Schüler ist mindestens 5 Jahre alt und besucht die Grund- oder Sekundarschule",
+          "Nicht für Schüler mit dauerhaftem Hausunterricht (POAH), in bestimmten Zweigen (die meisten 7. Jahre, Graduat Krankenpflege, Integrationsphase OV3) oder die zu krank für Online-Unterricht sind"
+        ]
+      }
+    }
+  },
+  {
+    "id": 318,
+    "category": "family",
+    "situations": [
+      "school",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/ondersteuning-en-begeleiding-voor-leerlingen-cursisten-en-studenten/hulpmiddelen/speciale-onderwijsleermiddelen",
+    "content": {
+      "en": {
+        "title": "Special Learning Aids for Pupils and Students with a Disability",
+        "desc": "The Flemish government's Special Learning Aids unit finances aids that help pupils and students with a functional impairment follow lessons: technical equipment such as braille displays, magnifiers or FM systems, adapted tables and chairs, braille or large-print versions of course material, sign language or speech-to-text interpreters, and copies of classmates' notes. Parents do not apply themselves: the school or institution does.",
+        "deadline": "The unit must approve the request before the aid is bought; purchases without approval are not financed afterwards.",
+        "amount": "Aid financed by the Flemish government (it stays the unit's property; the school manages it)",
+        "requirements": [],
+        "steps": [
+          "Discuss the need with the school, the pupil, the parents and the CLB (and the learning-support teacher if there is one)",
+          "Primary and secondary: the school's head applies; higher education: the student counselling service; adult education: the centre's head",
+          "After approval the institution buys or arranges the aid and the pupil or student uses it"
+        ]
+      },
+      "nl": {
+        "title": "Speciale onderwijsleermiddelen voor leerlingen, cursisten en studenten met een beperking",
+        "desc": "De cel Speciale Onderwijsleermiddelen van de Vlaamse overheid financiert hulpmiddelen die leerlingen, cursisten en studenten met een functiebeperking helpen om les te volgen: technische apparatuur zoals brailleleesregels, leesloepen of FM-apparatuur, aangepaste tafels en stoelen, omzettingen van leerboeken naar braille of grootletterdruk, tolken Vlaamse Gebarentaal of schrijftolken en kopieën van notities van medeleerlingen. Ouders vragen dit niet zelf aan: de school of onderwijsinstelling doet dat.",
+        "deadline": "De cel moet de aanvraag goedkeuren vóór de aankoop; aankopen zonder goedkeuring worden achteraf niet gefinancierd.",
+        "amount": "Hulpmiddel gefinancierd door de Vlaamse overheid (het blijft eigendom van de cel; de school beheert het)",
+        "requirements": [],
+        "steps": [
+          "Bespreek de nood met de school, de leerling, de ouders en het CLB (en de leerondersteuner als die er is)",
+          "Basis- en secundair onderwijs: de directeur vraagt aan; hoger onderwijs: de studentenbegeleiding; volwassenenonderwijs: de directeur van het centrum",
+          "Na goedkeuring koopt of regelt de instelling het hulpmiddel en kan de leerling of student het gebruiken"
+        ]
+      },
+      "fr": {
+        "title": "Matériel pédagogique spécial pour élèves et étudiants en situation de handicap",
+        "desc": "La cellule Matériel pédagogique spécial de l'autorité flamande finance des aides qui permettent aux élèves et étudiants ayant une limitation fonctionnelle de suivre les cours : équipement technique (plages braille, loupes, systèmes FM), tables et chaises adaptées, conversion des manuels en braille ou en grands caractères, interprètes en langue des signes ou de l'écrit et copies des notes de camarades. Les parents ne font pas la demande : c'est l'école ou l'établissement qui la fait.",
+        "deadline": "La cellule doit approuver la demande avant l'achat ; les achats sans accord ne sont pas financés après coup.",
+        "amount": "Aide financée par l'autorité flamande (elle reste propriété de la cellule ; l'école la gère)",
+        "requirements": [],
+        "steps": [
+          "Discutez du besoin avec l'école, l'élève, les parents et le CLB (et l'enseignant de soutien s'il y en a un)",
+          "Fondamental et secondaire : la direction introduit la demande ; supérieur : le service d'accompagnement des étudiants ; adultes : la direction du centre",
+          "Après accord, l'établissement achète ou organise l'aide et l'élève ou l'étudiant l'utilise"
+        ]
+      },
+      "de": {
+        "title": "Spezielle Lernhilfsmittel für Schüler und Studierende mit Behinderung",
+        "desc": "Die Zelle Spezielle Lernhilfsmittel der flämischen Regierung finanziert Hilfsmittel, mit denen Schüler und Studierende mit einer Funktionseinschränkung dem Unterricht folgen können: technische Geräte wie Braillezeilen, Lupen oder FM-Anlagen, angepasste Tische und Stühle, Umsetzung von Lehrbüchern in Braille oder Großdruck, Gebärdensprach- oder Schriftdolmetscher und Kopien von Mitschriften. Eltern beantragen dies nicht selbst: Das übernimmt die Schule oder Einrichtung.",
+        "deadline": "Die Zelle muss den Antrag vor dem Kauf genehmigen; Käufe ohne Genehmigung werden nachträglich nicht finanziert.",
+        "amount": "Hilfsmittel von der flämischen Regierung finanziert (es bleibt Eigentum der Zelle; die Schule verwaltet es)",
+        "requirements": [],
+        "steps": [
+          "Besprechen Sie den Bedarf mit der Schule, dem Schüler, den Eltern und dem CLB (und ggf. der Lernunterstützungskraft)",
+          "Grund- und Sekundarschule: die Schulleitung beantragt; Hochschule: die Studierendenberatung; Erwachsenenbildung: die Leitung des Zentrums",
+          "Nach der Genehmigung kauft oder organisiert die Einrichtung das Hilfsmittel, und der Schüler oder Studierende nutzt es"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/ondersteuning-en-begeleiding-voor-leerlingen-cursisten-en-studenten/hulpmiddelen/speciale-onderwijsleermiddelen",
+      "conditions": {
+        "en": [
+          "The pupil, adult learner or student has a functional impairment (for example visual, hearing or physical)",
+          "They attend mainstream primary or secondary education, higher education or adult education (adult education: no technical equipment or furniture)",
+          "Not for special education (except some interpreter support), learning disorders such as dyslexia or dyscalculia, or part-time arts education"
+        ],
+        "nl": [
+          "De leerling, cursist of student heeft een functiebeperking (bijvoorbeeld visueel, auditief of fysiek)",
+          "Hij of zij volgt gewoon basis- of secundair onderwijs, hoger onderwijs of volwassenenonderwijs (volwassenenonderwijs: geen technische apparatuur of meubilair)",
+          "Niet voor buitengewoon onderwijs (behalve bepaalde tolkondersteuning), leerstoornissen zoals dyslexie of dyscalculie, of deeltijds kunstonderwijs"
+        ],
+        "fr": [
+          "L'élève, l'apprenant adulte ou l'étudiant a une limitation fonctionnelle (par exemple visuelle, auditive ou physique)",
+          "Il ou elle fréquente l'enseignement fondamental ou secondaire ordinaire, le supérieur ou l'enseignement pour adultes (adultes : pas d'équipement technique ni de mobilier)",
+          "Pas pour l'enseignement spécialisé (sauf certains interprètes), les troubles de l'apprentissage comme la dyslexie ou la dyscalculie, ni l'enseignement artistique à temps partiel"
+        ],
+        "de": [
+          "Der Schüler, Lernende oder Studierende hat eine Funktionseinschränkung (z. B. Seh-, Hör- oder körperliche Einschränkung)",
+          "Er oder sie besucht die Regel-Grund- oder Sekundarschule, eine Hochschule oder die Erwachsenenbildung (Erwachsenenbildung: keine technischen Geräte oder Möbel)",
+          "Nicht für Förderunterricht (außer bestimmte Dolmetscherunterstützung), Lernstörungen wie Legasthenie oder Dyskalkulie oder Teilzeit-Kunstunterricht"
+        ]
+      }
+    }
+  },
+  {
+    "id": 319,
+    "category": "family",
+    "situations": [
+      "school",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/voorleessoftware-voor-leerlingen-met-leesbeperkingen",
+    "request_url": "https://www.adibib.be",
+    "content": {
+      "en": {
+        "title": "Free Text-to-Speech Software for Pupils with Reading Difficulties (ADIBib)",
+        "desc": "Pupils in primary and secondary education with a reading or writing difficulty can use text-to-speech software for free, with a yearly subscription through ADIBib. The group is wider than dyslexia alone. They can also use the digital ADIBooks.",
+        "deadline": "Register any day for the current school year; registration for the next school year opens in August and must be renewed every year.",
+        "amount": "Free yearly software subscription",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate of dyslexia, dyspraxia, dysphasia or dysorthography, a GC, IAC or OV4 report, or an ADIBib certificate from the CLB"
+          }
+        ],
+        "steps": [
+          "An account holder (the pupil from age 13, a parent, someone from the school or a speech therapist) registers the pupil on the ADIBib website",
+          "Choose a software package; the choice applies for the whole school year",
+          "Eureka vzw checks the request and e-mails the information to start the web licence",
+          "Renew the registration every school year (you can switch software then)"
+        ]
+      },
+      "nl": {
+        "title": "Gratis voorleessoftware voor leerlingen met leesbeperkingen (ADIBib)",
+        "desc": "Leerlingen in het lager en secundair onderwijs met een lees- of schrijfprobleem kunnen gratis voorleessoftware gebruiken, met een jaarabonnement via ADIBib. De doelgroep is ruimer dan leerlingen met dyslexie. Ze kunnen ook de digitale ADIBoeken gebruiken.",
+        "deadline": "Registreren kan elke dag voor het lopende schooljaar; voor het volgende schooljaar kan het vanaf augustus, en je vernieuwt het elk schooljaar.",
+        "amount": "Gratis jaarabonnement op voorleessoftware",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest dyslexie, dyspraxie, dysfasie of dysorthografie, een GC-, IAC- of OV4-verslag of een ADIBib-attest van het CLB"
+          }
+        ],
+        "steps": [
+          "Een accounthouder (de leerling vanaf 13 jaar, een ouder, iemand van de school of een logopedist) registreert de leerling op de website van ADIBib",
+          "Kies een softwarepakket; die keuze geldt voor het hele schooljaar",
+          "De vzw Eureka controleert de aanvraag en mailt de info om de weblicentie op te starten",
+          "Vernieuw de registratie elk schooljaar (dan kan je ook van software wisselen)"
+        ]
+      },
+      "fr": {
+        "title": "Logiciel de lecture vocale gratuit pour élèves en difficulté de lecture (ADIBib)",
+        "desc": "Les élèves du primaire et du secondaire ayant des difficultés de lecture ou d'écriture peuvent utiliser gratuitement un logiciel de lecture vocale, avec un abonnement annuel via ADIBib. Le groupe cible est plus large que la seule dyslexie. Ils peuvent aussi utiliser les livres numériques ADIBoeken.",
+        "deadline": "L'inscription est possible tous les jours pour l'année scolaire en cours ; pour l'année suivante, dès août, à renouveler chaque année.",
+        "amount": "Abonnement annuel gratuit au logiciel",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation de dyslexie, dyspraxie, dysphasie ou dysorthographie, un rapport GC, IAC ou OV4, ou une attestation ADIBib du CLB"
+          }
+        ],
+        "steps": [
+          "Un titulaire de compte (l'élève dès 13 ans, un parent, quelqu'un de l'école ou un logopède) inscrit l'élève sur le site d'ADIBib",
+          "Choisissez un logiciel ; ce choix vaut pour toute l'année scolaire",
+          "L'asbl Eureka vérifie la demande et envoie par e-mail les informations pour activer la licence web",
+          "Renouvelez l'inscription chaque année scolaire (vous pouvez alors changer de logiciel)"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Vorlesesoftware für Schüler mit Leseschwierigkeiten (ADIBib)",
+        "desc": "Schüler der Primar- und Sekundarstufe mit Lese- oder Schreibschwierigkeiten können mit einem Jahresabonnement über ADIBib kostenlos Vorlesesoftware nutzen. Die Zielgruppe ist breiter als nur Legasthenie. Sie können auch die digitalen ADIBoeken nutzen.",
+        "deadline": "Registrierung jederzeit für das laufende Schuljahr; für das nächste Schuljahr ab August, jedes Jahr zu erneuern.",
+        "amount": "Kostenloses Jahresabonnement für die Software",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung über Legasthenie, Dyspraxie, Dysphasie oder Dysorthographie, ein GC-, IAC- oder OV4-Bericht oder eine ADIBib-Bescheinigung des CLB"
+          }
+        ],
+        "steps": [
+          "Ein Kontoinhaber (der Schüler ab 13 Jahren, ein Elternteil, jemand von der Schule oder ein Logopäde) registriert den Schüler auf der ADIBib-Website",
+          "Wählen Sie ein Softwarepaket; die Wahl gilt für das ganze Schuljahr",
+          "Der Verein Eureka prüft den Antrag und schickt per E-Mail die Angaben zum Start der Weblizenz",
+          "Erneuern Sie die Registrierung jedes Schuljahr (dabei können Sie die Software wechseln)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/voorleessoftware-voor-leerlingen-met-leesbeperkingen",
+      "conditions": {
+        "en": [
+          "The pupil is in mainstream or special primary or secondary education (also 'secundair na secundair' and HBO5 nursing)",
+          "The pupil has one of these: a certificate of dyslexia, dyspraxia, dysphasia or dysorthography, a GC, IAC or OV4 report, or an ADIBib certificate from the CLB",
+          "Not free for adult education, higher education or home education (they can still use ADIBooks for free)"
+        ],
+        "nl": [
+          "De leerling zit in het gewoon of buitengewoon lager of secundair onderwijs (ook secundair na secundair en hbo5 Verpleegkunde)",
+          "De leerling heeft een van deze: een attest dyslexie, dyspraxie, dysfasie of dysorthografie, een GC-, IAC- of OV4-verslag, of een ADIBib-attest van het CLB",
+          "Niet gratis voor volwassenenonderwijs, hoger onderwijs of huisonderwijs (die kunnen wel gratis ADIBoeken gebruiken)"
+        ],
+        "fr": [
+          "L'élève est dans l'enseignement primaire ou secondaire ordinaire ou spécialisé (aussi 'secundair na secundair' et HBO5 soins infirmiers)",
+          "L'élève a l'un de ces documents : attestation de dyslexie, dyspraxie, dysphasie ou dysorthographie, rapport GC, IAC ou OV4, ou attestation ADIBib du CLB",
+          "Pas gratuit pour l'enseignement pour adultes, le supérieur ou l'enseignement à domicile (ils peuvent utiliser gratuitement les ADIBoeken)"
+        ],
+        "de": [
+          "Der Schüler besucht die Regel- oder Förder-Primar- oder Sekundarschule (auch 'secundair na secundair' und HBO5 Krankenpflege)",
+          "Der Schüler hat eines davon: Bescheinigung über Legasthenie, Dyspraxie, Dysphasie oder Dysorthographie, einen GC-, IAC- oder OV4-Bericht oder eine ADIBib-Bescheinigung des CLB",
+          "Nicht kostenlos für Erwachsenenbildung, Hochschule oder Hausunterricht (ADIBoeken bleiben dort kostenlos)"
+        ]
+      }
+    }
+  },
+  {
+    "id": 320,
+    "category": "family",
+    "situations": [
+      "school",
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/ondersteuning-en-begeleiding-voor-leerlingen-cursisten-en-studenten/basis-en-secundair-onderwijs/buitengewoon-onderwijs/leerlingenvervoer",
+    "content": {
+      "en": {
+        "title": "Free School Transport in Special Education",
+        "desc": "If your child goes to a special-education school (buitengewoon onderwijs), they can get transport between home and school: a place on the free school bus run with De Lijn, a free public transport pass (NMBS, De Lijn or MIVB), or an allowance if you drive them yourself. It only covers the trip between home and school, not to work placements or elsewhere.",
+        "deadline": "The right normally lasts until the end of the school level (primary or secondary) as long as home and school stay the same. The bus seat lapses after 2 consecutive terms without use.",
+        "amount": "Free school bus, free public transport pass, or an allowance for using your own car",
+        "requirements": [],
+        "steps": [
+          "Contact the school: only the school can apply to the Ministry of Education's school transport team",
+          "School bus: after approval the school contacts De Lijn, your child is added to the route and the school tells you the pick-up times",
+          "Public transport or own car: you receive the pass (for NMBS first a certificate to collect it), or the allowance through the school"
+        ]
+      },
+      "nl": {
+        "title": "Leerlingenvervoer in het buitengewoon onderwijs",
+        "desc": "Gaat je kind naar het buitengewoon onderwijs, dan kan het vervoer krijgen van en naar school: een plaats op de gratis schoolbus die met De Lijn wordt georganiseerd, een gratis abonnement op het openbaar vervoer (NMBS, De Lijn of MIVB), of een vergoeding als je je kind zelf met de auto brengt. Het geldt alleen voor de rit tussen huis en school, niet voor stages of andere plaatsen.",
+        "deadline": "Het recht loopt normaal tot het einde van het onderwijsniveau (basis of secundair) zolang woonplaats en school niet veranderen. Het recht op de schoolbus vervalt na 2 opeenvolgende trimesters zonder gebruik.",
+        "amount": "Gratis schoolbus, gratis abonnement openbaar vervoer of een vergoeding voor eigen vervoer",
+        "requirements": [],
+        "steps": [
+          "Neem contact op met de school: alleen de school kan het aanvragen bij het team Leerlingenvervoer van het ministerie van Onderwijs",
+          "Schoolbus: na goedkeuring contacteert de school De Lijn, wordt je kind aan de ritplanning toegevoegd en laat de school je het tijdstip van op- en afstappen weten",
+          "Openbaar vervoer of eigen wagen: je ontvangt het abonnement (voor de NMBS eerst een attest om het op te halen) of de vergoeding via de school"
+        ]
+      },
+      "fr": {
+        "title": "Transport scolaire gratuit dans l'enseignement spécialisé",
+        "desc": "Si votre enfant fréquente l'enseignement spécialisé (buitengewoon onderwijs), il peut bénéficier d'un transport entre la maison et l'école : une place dans le bus scolaire gratuit organisé avec De Lijn, un abonnement gratuit aux transports publics (SNCB, De Lijn ou STIB), ou une indemnité si vous le conduisez vous-même. Cela ne couvre que le trajet domicile-école, pas les stages ou d'autres lieux.",
+        "deadline": "Le droit dure normalement jusqu'à la fin du niveau (fondamental ou secondaire) tant que le domicile et l'école ne changent pas. La place dans le bus est perdue après 2 trimestres consécutifs sans utilisation.",
+        "amount": "Bus scolaire gratuit, abonnement gratuit aux transports publics ou indemnité pour votre propre voiture",
+        "requirements": [],
+        "steps": [
+          "Contactez l'école : seule l'école peut introduire la demande auprès de l'équipe Transport scolaire du ministère de l'Enseignement",
+          "Bus scolaire : après accord, l'école contacte De Lijn, votre enfant est ajouté à l'itinéraire et l'école vous communique les horaires",
+          "Transports publics ou voiture : vous recevez l'abonnement (pour la SNCB, d'abord une attestation pour le retirer) ou l'indemnité via l'école"
+        ]
+      },
+      "de": {
+        "title": "Kostenloser Schülertransport im Förderunterricht",
+        "desc": "Besucht Ihr Kind eine Förderschule (buitengewoon onderwijs), kann es Transport zwischen Zuhause und Schule erhalten: einen Platz im kostenlosen Schulbus, der mit De Lijn organisiert wird, ein kostenloses Abo für öffentliche Verkehrsmittel (SNCB, De Lijn oder STIB) oder eine Vergütung, wenn Sie es selbst fahren. Es gilt nur für die Fahrt zwischen Zuhause und Schule, nicht für Praktika oder andere Orte.",
+        "deadline": "Das Recht gilt normalerweise bis zum Ende der Schulstufe (Grund- oder Sekundarschule), solange Wohnort und Schule gleich bleiben. Der Busplatz verfällt nach 2 aufeinanderfolgenden Trimestern ohne Nutzung.",
+        "amount": "Kostenloser Schulbus, kostenloses Abo für öffentliche Verkehrsmittel oder Vergütung für das eigene Auto",
+        "requirements": [],
+        "steps": [
+          "Wenden Sie sich an die Schule: Nur die Schule kann den Antrag beim Team Schülertransport des Unterrichtsministeriums stellen",
+          "Schulbus: Nach der Bewilligung kontaktiert die Schule De Lijn, Ihr Kind wird in die Route aufgenommen und die Schule nennt Ihnen die Abholzeiten",
+          "Öffentliche Verkehrsmittel oder eigenes Auto: Sie erhalten das Abo (für die SNCB zuerst eine Bescheinigung zur Abholung) oder die Vergütung über die Schule"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/ondersteuning-en-begeleiding-voor-leerlingen-cursisten-en-studenten/basis-en-secundair-onderwijs/buitengewoon-onderwijs/leerlingenvervoer",
+      "conditions": {
+        "en": [
+          "Your child attends special education (buitengewoon onderwijs)",
+          "It is the nearest school of the education network you chose that offers the type (and, in secondary, the training form) in the report giving access to special education; an exception can be requested",
+          "Allowance or pass: you live in Flanders. School bus: you live in Flanders, or the fixed pick-up point is on Flemish territory on an existing bus route",
+          "From the 1st year of the qualification phase of training form 3 or the 4th year of training form 4, pupils are expected to travel alone and have no school bus by default"
+        ],
+        "nl": [
+          "Je kind volgt buitengewoon onderwijs",
+          "Het is de meest nabije school van het gekozen onderwijsnet die het type (en in het secundair de opleidingsvorm) uit het verslag voor toegang tot het buitengewoon onderwijs aanbiedt; een afwijking kan aangevraagd worden",
+          "Vergoeding of abonnement: je woont in Vlaanderen. Schoolbus: je woont in Vlaanderen, of de vaste opstapplaats ligt op Vlaams grondgebied op een bestaand bustraject",
+          "Vanaf het 1ste jaar van de kwalificatiefase van opleidingsvorm 3 of het 4de leerjaar van opleidingsvorm 4 wordt verwacht dat leerlingen zelfstandig naar school gaan; zij hebben standaard geen recht op de schoolbus"
+        ],
+        "fr": [
+          "Votre enfant fréquente l'enseignement spécialisé",
+          "C'est l'école la plus proche du réseau choisi qui propose le type (et, en secondaire, la forme d'enseignement) figurant dans le rapport d'accès à l'enseignement spécialisé ; une dérogation peut être demandée",
+          "Indemnité ou abonnement : vous habitez en Flandre. Bus scolaire : vous habitez en Flandre, ou le point d'embarquement fixe est en territoire flamand sur un trajet existant",
+          "À partir de la 1re année de la phase de qualification de la forme 3 ou de la 4e année de la forme 4, les élèves sont censés se déplacer seuls et n'ont pas droit au bus par défaut"
+        ],
+        "de": [
+          "Ihr Kind besucht den Förderunterricht",
+          "Es ist die nächstgelegene Schule des gewählten Schulnetzes, die den Typ (und in der Sekundarstufe die Ausbildungsform) aus dem Bericht für den Zugang zum Förderunterricht anbietet; eine Ausnahme kann beantragt werden",
+          "Vergütung oder Abo: Sie wohnen in Flandern. Schulbus: Sie wohnen in Flandern oder die feste Haltestelle liegt auf flämischem Gebiet an einer bestehenden Busroute",
+          "Ab dem 1. Jahr der Qualifizierungsphase der Ausbildungsform 3 oder dem 4. Jahr der Ausbildungsform 4 sollen Schüler selbstständig fahren und haben standardmäßig keinen Anspruch auf den Schulbus"
+        ]
+      }
+    }
+  },
+  {
+    "id": 321,
+    "category": "family",
+    "situations": [
+      "school",
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/ondersteuning-en-begeleiding-voor-leerlingen-cursisten-en-studenten/basis-en-secundair-onderwijs/leersteun-voor-leerlingen-met-specifieke-onderwijsbehoeften",
+    "content": {
+      "en": {
+        "title": "Learning Support for Pupils with Specific Educational Needs (Leersteun)",
+        "desc": "Pupils with specific educational needs in a mainstream school can get support from a learning-support centre (leersteuncentrum). The centre supports the pupil, the teachers and the school team, with expertise per type of need (for example intellectual, motor, visual or hearing impairment, or autism). It builds on what the school already does itself.",
+        "deadline": "No deadline: the school requests it when needed.",
+        "amount": "Free support from a learning-support centre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "GC, IAC or OV4 report (verslag)"
+          }
+        ],
+        "steps": [
+          "Talk to the school and the CLB about your child's needs and the report",
+          "The school asks its learning-support centre for support",
+          "For questions, contact the information point of a learning-support centre"
+        ]
+      },
+      "nl": {
+        "title": "Leersteun voor leerlingen met specifieke onderwijsbehoeften",
+        "desc": "Leerlingen met specifieke onderwijsbehoeften in een school voor gewoon onderwijs kunnen ondersteuning krijgen van een leersteuncentrum. Dat ondersteunt de leerling, de leraren en het schoolteam, met expertise per type (bijvoorbeeld verstandelijke, motorische, visuele of auditieve beperking of autisme). Het bouwt verder op wat de school zelf al doet.",
+        "deadline": "Geen termijn: de school vraagt het aan wanneer het nodig is.",
+        "amount": "Gratis ondersteuning door een leersteuncentrum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "GC-, IAC- of OV4-verslag"
+          }
+        ],
+        "steps": [
+          "Bespreek de noden van je kind en het verslag met de school en het CLB",
+          "De school vraagt ondersteuning aan bij het leersteuncentrum waarbij ze aangesloten is",
+          "Met vragen kan je terecht bij het informatiepunt van een leersteuncentrum"
+        ]
+      },
+      "fr": {
+        "title": "Soutien à l'apprentissage pour élèves à besoins éducatifs spécifiques (leersteun)",
+        "desc": "Les élèves à besoins éducatifs spécifiques dans une école ordinaire peuvent être accompagnés par un centre de soutien à l'apprentissage (leersteuncentrum). Le centre soutient l'élève, les enseignants et l'équipe, avec une expertise par type de besoin (par exemple handicap intellectuel, moteur, visuel ou auditif, ou autisme). Il s'appuie sur ce que l'école fait déjà.",
+        "deadline": "Pas de délai : l'école le demande quand c'est nécessaire.",
+        "amount": "Accompagnement gratuit par un centre de soutien",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Rapport GC, IAC ou OV4 (verslag)"
+          }
+        ],
+        "steps": [
+          "Parlez des besoins de votre enfant et du rapport avec l'école et le CLB",
+          "L'école demande un accompagnement au centre de soutien auquel elle est affiliée",
+          "Pour toute question, contactez le point d'information d'un centre de soutien"
+        ]
+      },
+      "de": {
+        "title": "Lernunterstützung für Schüler mit besonderem Förderbedarf (Leersteun)",
+        "desc": "Schüler mit besonderem Förderbedarf an einer Regelschule können Unterstützung von einem Lernunterstützungszentrum (leersteuncentrum) erhalten. Es unterstützt den Schüler, die Lehrkräfte und das Schulteam mit Fachwissen je nach Typ (z. B. geistige, motorische, Seh- oder Hörbeeinträchtigung oder Autismus). Es baut auf dem auf, was die Schule bereits selbst tut.",
+        "deadline": "Keine Frist: Die Schule beantragt es bei Bedarf.",
+        "amount": "Kostenlose Unterstützung durch ein Lernunterstützungszentrum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "GC-, IAC- oder OV4-Bericht (verslag)"
+          }
+        ],
+        "steps": [
+          "Besprechen Sie den Bedarf Ihres Kindes und den Bericht mit der Schule und dem CLB",
+          "Die Schule beantragt Unterstützung bei ihrem Lernunterstützungszentrum",
+          "Bei Fragen wenden Sie sich an die Informationsstelle eines Lernunterstützungszentrums"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/ondersteuning-en-begeleiding-voor-leerlingen-cursisten-en-studenten/basis-en-secundair-onderwijs/leersteun-voor-leerlingen-met-specifieke-onderwijsbehoeften",
+      "conditions": {
+        "en": [
+          "The pupil attends a mainstream primary or secondary school",
+          "The pupil has a GC report (common curriculum), an IAC report (individually adapted curriculum) or an OV4 report",
+          "The school's own basic and extended care are not enough, or the pupil follows an IAC or an OV4 pathway"
+        ],
+        "nl": [
+          "De leerling zit in een school voor gewoon basis- of secundair onderwijs",
+          "De leerling heeft een GC-verslag (gemeenschappelijk curriculum), een IAC-verslag (individueel aangepast curriculum) of een OV4-verslag",
+          "De aanpassingen in brede basiszorg en verhoogde zorg volstaan niet, of de leerling volgt een IAC of een traject met een OV4-verslag"
+        ],
+        "fr": [
+          "L'élève fréquente une école fondamentale ou secondaire ordinaire",
+          "L'élève a un rapport GC (curriculum commun), IAC (curriculum adapté individuellement) ou OV4",
+          "Les adaptations de l'école (soins de base et renforcés) ne suffisent pas, ou l'élève suit un IAC ou un parcours OV4"
+        ],
+        "de": [
+          "Der Schüler besucht eine Regel-Grund- oder Sekundarschule",
+          "Der Schüler hat einen GC-Bericht (gemeinsamer Lehrplan), einen IAC-Bericht (individuell angepasster Lehrplan) oder einen OV4-Bericht",
+          "Die Anpassungen der Schule (Basis- und erweiterte Förderung) reichen nicht aus, oder der Schüler folgt einem IAC- oder OV4-Weg"
+        ]
+      }
+    }
+  },
+  {
+    "id": 322,
+    "category": "employment",
+    "situations": [
+      "employee"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/werken/opleiding-op-de-werkplek/als-werknemer-een-opleiding-volgen/opleidingscheques-voor-werknemers",
+    "request_url": "https://loket.wewis.vlaanderen.be",
+    "content": {
+      "en": {
+        "title": "Training Vouchers for Employees (Opleidingscheques)",
+        "desc": "Employees who live and work in Flanders or Brussels can have part of a career-related training paid by the Flemish government with a training voucher. You apply online and pay the training provider with the digital voucher. Employees with at most a secondary-school diploma can use it for registered courses; graduates only for a course recommended after career guidance.",
+        "deadline": "Apply up to 3 months after the training starts, preferably before paying; use the voucher within 4 months of the start date. The yearly balance renews on 1 September.",
+        "amount": "Half of the invoice, up to €125 per school year (up to €250 without a secondary diploma for literacy, numeracy, ICT, Dutch, diploma or shortage-occupation courses, or without a higher-education diploma for a graduate or bachelor course)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "eID or other digital key for the WSE-loket"
+          },
+          {
+            "type": "doc",
+            "label": "ODB registration number, start date and invoice amount of the training"
+          }
+        ],
+        "steps": [
+          "Check with the simulator whether you qualify and collect the training's ODB number, start date and invoice amount",
+          "Log in to the WSE-loket as a private person and start a new 'Opleidingscheques' application",
+          "Fill in your details and the training details and submit; you usually get the decision by e-mail within minutes",
+          "Give the digital voucher to the training provider to pay (part of) the invoice"
+        ]
+      },
+      "nl": {
+        "title": "Opleidingscheques voor werknemers",
+        "desc": "Werknemers die in Vlaanderen of Brussel wonen en werken, kunnen met een opleidingscheque een deel van een opleiding laten betalen door de Vlaamse overheid. Je vraagt de cheque online aan en betaalt de opleidingsverstrekker met de digitale cheque. Wie hoogstens een diploma secundair onderwijs heeft, kan hem gebruiken voor geregistreerde opleidingen; hooggeschoolden alleen voor een opleiding die na loopbaanbegeleiding is aangeraden.",
+        "deadline": "Vraag aan tot 3 maanden na de startdatum van de opleiding, bij voorkeur vóór je betaalt; gebruik de cheque binnen 4 maanden na de start. Het saldo per schooljaar vernieuwt op 1 september.",
+        "amount": "De helft van de factuur, maximaal 125 euro per schooljaar (tot 250 euro zonder diploma secundair voor opleidingen basisgeletterdheid, rekenen, ICT, NT2, naar een diploma of naar een knelpuntberoep, of zonder diploma hoger onderwijs voor een graduaats- of bacheloropleiding)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "eID of andere digitale sleutel voor het WSE-loket"
+          },
+          {
+            "type": "doc",
+            "label": "ODB-registratienummer, startdatum en factuurbedrag van de opleiding"
+          }
+        ],
+        "steps": [
+          "Kijk met de simulator of je in aanmerking komt en verzamel het ODB-nummer, de startdatum en het factuurbedrag van de opleiding",
+          "Meld je aan in het WSE-loket als natuurlijk persoon en start een nieuwe aanvraag 'Opleidingscheques'",
+          "Vul je gegevens en die van de opleiding in en dien in; meestal krijg je de beslissing binnen enkele minuten per e-mail",
+          "Geef de digitale cheque aan de opleidingsverstrekker om (een deel van) de factuur te betalen"
+        ]
+      },
+      "fr": {
+        "title": "Chèques-formation pour travailleurs salariés (opleidingscheques)",
+        "desc": "Les salariés qui habitent et travaillent en Flandre ou à Bruxelles peuvent faire payer une partie d'une formation par l'autorité flamande grâce à un chèque-formation. La demande se fait en ligne et vous payez l'organisme de formation avec le chèque numérique. Les personnes ayant au plus un diplôme du secondaire peuvent l'utiliser pour les formations enregistrées ; les diplômés du supérieur uniquement pour une formation recommandée après un accompagnement de carrière.",
+        "deadline": "Demandez-le jusqu'à 3 mois après le début de la formation, de préférence avant de payer ; utilisez le chèque dans les 4 mois après le début. Le solde annuel se renouvelle le 1er septembre.",
+        "amount": "La moitié de la facture, jusqu'à 125 € par année scolaire (jusqu'à 250 € sans diplôme du secondaire pour des formations en alphabétisation, calcul, TIC, néerlandais, menant à un diplôme ou à un métier en pénurie, ou sans diplôme du supérieur pour un graduat ou un bachelier)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "eID ou autre clé numérique pour le WSE-loket"
+          },
+          {
+            "type": "doc",
+            "label": "Numéro d'enregistrement ODB, date de début et montant de la facture de la formation"
+          }
+        ],
+        "steps": [
+          "Vérifiez avec le simulateur si vous y avez droit et rassemblez le numéro ODB, la date de début et le montant de la facture",
+          "Connectez-vous au WSE-loket en tant que personne physique et lancez une nouvelle demande 'Opleidingscheques'",
+          "Remplissez vos données et celles de la formation puis envoyez ; la décision arrive généralement par e-mail en quelques minutes",
+          "Remettez le chèque numérique à l'organisme de formation pour payer (une partie de) la facture"
+        ]
+      },
+      "de": {
+        "title": "Bildungsschecks für Arbeitnehmer (Opleidingscheques)",
+        "desc": "Arbeitnehmer, die in Flandern oder Brüssel wohnen und arbeiten, können mit einem Bildungsscheck einen Teil einer Weiterbildung von der flämischen Regierung bezahlen lassen. Sie beantragen ihn online und bezahlen den Bildungsanbieter mit dem digitalen Scheck. Wer höchstens einen Sekundarschulabschluss hat, kann ihn für registrierte Kurse nutzen; Hochschulabsolventen nur für einen nach einer Laufbahnberatung empfohlenen Kurs.",
+        "deadline": "Beantragen Sie ihn bis 3 Monate nach Kursbeginn, am besten vor der Zahlung; lösen Sie den Scheck innerhalb von 4 Monaten nach Beginn ein. Das Jahresguthaben erneuert sich am 1. September.",
+        "amount": "Die Hälfte der Rechnung, bis 125 € pro Schuljahr (bis 250 € ohne Sekundarabschluss für Kurse in Grundbildung, Rechnen, IKT, Niederländisch, zu einem Abschluss oder einem Mangelberuf, oder ohne Hochschulabschluss für einen Graduat- oder Bachelorstudiengang)",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "eID oder anderer digitaler Schlüssel für den WSE-loket"
+          },
+          {
+            "type": "doc",
+            "label": "ODB-Registriernummer, Startdatum und Rechnungsbetrag des Kurses"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie mit dem Simulator, ob Sie berechtigt sind, und sammeln Sie ODB-Nummer, Startdatum und Rechnungsbetrag",
+          "Melden Sie sich als Privatperson im WSE-loket an und starten Sie einen neuen Antrag 'Opleidingscheques'",
+          "Geben Sie Ihre Daten und die des Kurses ein und reichen Sie ein; die Entscheidung kommt meist innerhalb von Minuten per E-Mail",
+          "Geben Sie den digitalen Scheck beim Bildungsanbieter ab, um (einen Teil) der Rechnung zu bezahlen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/werken/opleiding-op-de-werkplek/als-werknemer-een-opleiding-volgen/opleidingscheques-voor-werknemers",
+      "conditions": {
+        "en": [
+          "You are an employee in the private or public sector (also temporary agency work or temporary unemployment); not a self-employed person in main occupation, unemployed, on a student contract, or on a learning contract under 80 hours a month",
+          "You work in Flanders or Brussels and live in Flanders, Brussels or another EU/EEA country (or in Wallonia after moving there from another EU/EEA country)",
+          "You have at most a secondary-school diploma; with a higher-education diploma only for a career-oriented training in your development plan after career guidance in the last 6 years",
+          "The training is registered in the Flemish training incentives database, or is a career-oriented training of at least 32 hours with a POP certificate"
+        ],
+        "nl": [
+          "Je bent werknemer in de privé- of publieke sector (ook uitzendkracht of tijdelijk werkloos); niet zelfstandige in hoofdberoep, werkloos, met een studentenovereenkomst of met een leerovereenkomst van minder dan 80 uur per maand",
+          "Je werkt in Vlaanderen of Brussel en woont in Vlaanderen, Brussel of een ander EU/EER-land (of in Wallonië na een verhuis vanuit een ander EU/EER-land)",
+          "Je hebt hoogstens een diploma secundair onderwijs; met een diploma hoger onderwijs alleen voor een loopbaangerichte opleiding uit je ontwikkelplan na loopbaanbegeleiding in de afgelopen 6 jaar",
+          "De opleiding staat in de opleidingsdatabank Vlaamse opleidingsincentives, of is een loopbaangerichte opleiding van minstens 32 uur met een POP-attest"
+        ],
+        "fr": [
+          "Vous êtes salarié(e) du secteur privé ou public (aussi intérimaire ou en chômage temporaire) ; pas indépendant(e) à titre principal, chômeur/se, sous contrat d'étudiant ou sous contrat d'apprentissage de moins de 80 heures par mois",
+          "Vous travaillez en Flandre ou à Bruxelles et habitez en Flandre, à Bruxelles ou dans un autre pays de l'UE/EEE (ou en Wallonie après y avoir emménagé depuis un autre pays de l'UE/EEE)",
+          "Vous avez au plus un diplôme du secondaire ; avec un diplôme du supérieur, uniquement pour une formation de carrière prévue dans votre plan de développement après un accompagnement de carrière au cours des 6 dernières années",
+          "La formation figure dans la base de données des incitants flamands à la formation, ou est une formation de carrière d'au moins 32 heures avec une attestation POP"
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer im privaten oder öffentlichen Sektor (auch Leiharbeit oder vorübergehende Arbeitslosigkeit); nicht hauptberuflich selbstständig, arbeitslos, mit Studentenvertrag oder Lernvertrag unter 80 Stunden im Monat",
+          "Sie arbeiten in Flandern oder Brüssel und wohnen in Flandern, Brüssel oder einem anderen EU/EWR-Land (oder in der Wallonie nach Umzug aus einem anderen EU/EWR-Land)",
+          "Sie haben höchstens einen Sekundarschulabschluss; mit Hochschulabschluss nur für einen laufbahnorientierten Kurs aus Ihrem Entwicklungsplan nach einer Laufbahnberatung in den letzten 6 Jahren",
+          "Der Kurs ist in der Datenbank der flämischen Bildungsanreize registriert oder ist ein laufbahnorientierter Kurs von mindestens 32 Stunden mit POP-Bescheinigung"
+        ]
+      }
+    }
+  },
+  {
+    "id": 323,
+    "category": "other",
+    "situations": [
+      "school",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/premie-voor-het-behalen-van-een-diploma-secundair-onderwijs-via-het-volwassenenonderwijs",
+    "request_url": "https://dv.formulieren.vlaanderen.be/content/forms/af/vlaamse-overheid/ahovoks/studietoelagen/secured/aanvraag-premie-diploma-so-cvo.html",
+    "content": {
+      "en": {
+        "title": "Bonus for Earning a Secondary-School Diploma in Adult Education",
+        "desc": "If you earn your secondary-school diploma for the first time through adult education, you can get back the enrolment fees you paid for the modules of the course with which you graduated. Course material, fees paid with training vouchers and modules from other courses are not refunded.",
+        "deadline": "Apply only after you have your diploma, and at the latest one year after obtaining it.",
+        "amount": "Refund of the enrolment fees paid for the passed modules of the course",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Digital key to sign in to the online form"
+          }
+        ],
+        "steps": [
+          "After obtaining your diploma, fill in the online application form",
+          "The agency (AHOVOKS) retrieves your enrolment and fee data from its databases and calculates the bonus",
+          "Within at most 45 working days you get an e-mail with the decision, the amount and when it will be paid"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor het behalen van een diploma secundair onderwijs via het volwassenenonderwijs",
+        "desc": "Behaal je via het volwassenenonderwijs voor het eerst je diploma secundair onderwijs, dan kan je het inschrijvingsgeld terugkrijgen dat je betaalde voor de modules van de opleiding waarmee je afstudeert. Cursusmateriaal, wat je met opleidingscheques betaalde en modules uit andere opleidingen worden niet terugbetaald.",
+        "deadline": "Vraag pas aan nadat je je diploma hebt, en ten laatste één jaar na het behalen ervan.",
+        "amount": "Terugbetaling van het inschrijvingsgeld voor de geslaagde modules van de opleiding",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Digitale sleutel om aan te melden op het online formulier"
+          }
+        ],
+        "steps": [
+          "Vul na het behalen van je diploma het online aanvraagformulier in",
+          "Het agentschap (AHOVOKS) haalt je inschrijvingsgegevens en betaalde inschrijvingsgelden op uit databanken en berekent de premie",
+          "Binnen maximaal 45 werkdagen krijg je een e-mail met de beslissing, het bedrag en wanneer je de uitbetaling mag verwachten"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour l'obtention du diplôme du secondaire dans l'enseignement pour adultes",
+        "desc": "Si vous obtenez pour la première fois votre diplôme du secondaire via l'enseignement pour adultes, vous pouvez récupérer les droits d'inscription payés pour les modules de la formation qui vous a diplômé(e). Le matériel de cours, la part payée par chèques-formation et les modules d'autres formations ne sont pas remboursés.",
+        "deadline": "Ne demandez qu'après avoir obtenu votre diplôme, et au plus tard un an après.",
+        "amount": "Remboursement des droits d'inscription des modules réussis de la formation",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Clé numérique pour se connecter au formulaire en ligne"
+          }
+        ],
+        "steps": [
+          "Après l'obtention du diplôme, remplissez le formulaire de demande en ligne",
+          "L'agence (AHOVOKS) récupère vos données d'inscription et de paiement dans ses bases de données et calcule la prime",
+          "Dans les 45 jours ouvrables au maximum, vous recevez un e-mail avec la décision, le montant et la date de paiement prévue"
+        ]
+      },
+      "de": {
+        "title": "Prämie für den Sekundarschulabschluss in der Erwachsenenbildung",
+        "desc": "Wenn Sie über die Erwachsenenbildung zum ersten Mal Ihren Sekundarschulabschluss erwerben, erhalten Sie die Einschreibegebühren für die Module des Kurses zurück, mit dem Sie den Abschluss gemacht haben. Kursmaterial, mit Bildungsschecks bezahlte Beträge und Module anderer Kurse werden nicht erstattet.",
+        "deadline": "Beantragen Sie erst nach Erhalt des Abschlusses und spätestens ein Jahr danach.",
+        "amount": "Erstattung der Einschreibegebühren für die bestandenen Module des Kurses",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Digitaler Schlüssel für die Anmeldung zum Online-Formular"
+          }
+        ],
+        "steps": [
+          "Füllen Sie nach dem Abschluss das Online-Antragsformular aus",
+          "Die Agentur (AHOVOKS) ruft Ihre Einschreibe- und Gebührendaten aus ihren Datenbanken ab und berechnet die Prämie",
+          "Innerhalb von höchstens 45 Werktagen erhalten Sie eine E-Mail mit Entscheidung, Betrag und voraussichtlichem Zahlungstermin"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/premie-voor-het-behalen-van-een-diploma-secundair-onderwijs-via-het-volwassenenonderwijs",
+      "conditions": {
+        "en": [
+          "You obtain a secondary-school diploma for the first time, through adult education; you never had one before",
+          "You graduated through general education at the level of the third stage of general secondary (aso), or through Supplementary General Education (AAV), third stage, combined with a diploma-oriented course"
+        ],
+        "nl": [
+          "Je behaalt via het volwassenenonderwijs voor het eerst een diploma secundair onderwijs; je had er nooit eerder een",
+          "Je studeerde af via een opleiding algemene vorming op het niveau van het aso, derde graad, of via Aanvullende algemene vorming (AAV), derde graad, in combinatie met een diplomagerichte opleiding"
+        ],
+        "fr": [
+          "Vous obtenez pour la première fois un diplôme du secondaire via l'enseignement pour adultes ; vous n'en aviez jamais eu",
+          "Vous avez été diplômé(e) via la formation générale au niveau du 3e degré de l'enseignement général (aso), ou via la formation générale complémentaire (AAV), 3e degré, combinée à une formation menant à un diplôme"
+        ],
+        "de": [
+          "Sie erwerben über die Erwachsenenbildung zum ersten Mal einen Sekundarschulabschluss; Sie hatten nie einen",
+          "Sie haben den Abschluss über allgemeinbildenden Unterricht auf Niveau der dritten Stufe des aso oder über die ergänzende Allgemeinbildung (AAV), dritte Stufe, kombiniert mit einem abschlussorientierten Kurs, erworben"
+        ]
+      }
+    }
+  },
+  {
+    "id": 324,
+    "category": "other",
+    "situations": [
+      "school",
+      "low-income",
+      "job-loss",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Ministerie van Onderwijs en Vorming",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vermindering-van-inschrijvingsgeld-in-het-volwassenenonderwijs/vermindering-of-vrijstelling-inschrijvingsgeld-volwassenenonderwijs",
+    "amount_source_url": "https://www.vlaanderen.be/onderwijs-en-vorming/school-en-studiekosten/kosten-volwassenenonderwijs",
+    "content": {
+      "en": {
+        "title": "Reduced Enrolment Fee in Adult Education",
+        "desc": "In adult education centres (CVO) and adult basic education centres (Ligo-CBE) you pay an enrolment fee per lesson period. With certain statuses (for example a living wage, unemployment benefit, a disability allowance or asylum seeker) you pay less or nothing. Sometimes you bring a certificate; often the centre can check it itself. Dutch as a second language (NT2) has its own rules.",
+        "deadline": "Show the certificate or let the centre check your status when you enrol.",
+        "amount": "CVO: €1 instead of €2.25 per lesson period, or €0 instead of €1 for shortage courses. Ligo-CBE: free, or €0.30 instead of €1.50 per lesson period",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate proving your status (only if the centre cannot check it via the tariff suggestion service)"
+          }
+        ],
+        "steps": [
+          "Check on the Vlaanderen.be page which status applies to you and which certificate you need",
+          "Ask the body that issues it (OCMW, RVA or union, health insurer, FPS Social Security, VAPH...) for the certificate if needed",
+          "Enrol at the centre and show the certificate, or let the centre check your status"
+        ]
+      },
+      "nl": {
+        "title": "Vermindering van inschrijvingsgeld in het volwassenenonderwijs",
+        "desc": "In een centrum voor volwassenenonderwijs (CVO) of een centrum voor basiseducatie (Ligo-CBE) betaal je inschrijvingsgeld per lestijd. Met bepaalde statuten (bijvoorbeeld een leefloon, een werkloosheidsuitkering, een tegemoetkoming voor personen met een handicap of als asielzoeker) betaal je minder of niets. Soms breng je zelf een attest mee; vaak kan het centrum het zelf nakijken. Voor Nederlands als tweede taal (NT2) gelden eigen regels.",
+        "deadline": "Toon het attest of laat het centrum je statuut nakijken bij je inschrijving.",
+        "amount": "CVO: 1 euro in plaats van 2,25 euro per lestijd, of 0 euro in plaats van 1 euro voor knelpuntopleidingen. Ligo-CBE: gratis, of 0,30 euro in plaats van 1,50 euro per lestijd",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest dat je statuut bewijst (alleen als het centrum het niet kan nakijken via de dienst tariefsuggestie)"
+          }
+        ],
+        "steps": [
+          "Bekijk op de pagina van Vlaanderen.be welk statuut op jou van toepassing is en welk attest je nodig hebt",
+          "Vraag indien nodig het attest aan bij de instantie die het aflevert (OCMW, RVA of vakbond, ziekenfonds, FOD Sociale Zekerheid, VAPH...)",
+          "Schrijf je in bij het centrum en toon het attest, of laat het centrum je statuut nakijken"
+        ]
+      },
+      "fr": {
+        "title": "Réduction des droits d'inscription dans l'enseignement pour adultes",
+        "desc": "Dans les centres d'enseignement pour adultes (CVO) et d'éducation de base (Ligo-CBE), vous payez des droits d'inscription par période de cours. Avec certains statuts (par exemple revenu d'intégration, allocations de chômage, allocation pour personnes handicapées ou demandeur d'asile), vous payez moins ou rien. Parfois vous apportez une attestation ; souvent le centre peut vérifier lui-même. Le néerlandais langue seconde (NT2) a ses propres règles.",
+        "deadline": "Présentez l'attestation ou laissez le centre vérifier votre statut lors de l'inscription.",
+        "amount": "CVO : 1 € au lieu de 2,25 € par période de cours, ou 0 € au lieu de 1 € pour les formations en pénurie. Ligo-CBE : gratuit, ou 0,30 € au lieu de 1,50 € par période",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation prouvant votre statut (seulement si le centre ne peut pas le vérifier via le service de suggestion tarifaire)"
+          }
+        ],
+        "steps": [
+          "Vérifiez sur la page de Vlaanderen.be quel statut s'applique à vous et quelle attestation il faut",
+          "Demandez si nécessaire l'attestation à l'organisme qui la délivre (CPAS, ONEM ou syndicat, mutualité, SPF Sécurité sociale, VAPH...)",
+          "Inscrivez-vous au centre et présentez l'attestation, ou laissez le centre vérifier votre statut"
+        ]
+      },
+      "de": {
+        "title": "Ermäßigte Einschreibegebühr in der Erwachsenenbildung",
+        "desc": "In Zentren für Erwachsenenbildung (CVO) und für Grundbildung (Ligo-CBE) zahlen Sie eine Einschreibegebühr pro Unterrichtsstunde. Mit bestimmten Statusarten (z. B. Eingliederungseinkommen, Arbeitslosengeld, Behindertenbeihilfe oder als Asylbewerber) zahlen Sie weniger oder nichts. Manchmal bringen Sie eine Bescheinigung mit; oft kann das Zentrum es selbst prüfen. Für Niederländisch als Zweitsprache (NT2) gelten eigene Regeln.",
+        "deadline": "Legen Sie die Bescheinigung vor oder lassen Sie das Zentrum Ihren Status bei der Einschreibung prüfen.",
+        "amount": "CVO: 1 € statt 2,25 € pro Unterrichtsstunde oder 0 € statt 1 € für Mangelberufskurse. Ligo-CBE: kostenlos oder 0,30 € statt 1,50 € pro Unterrichtsstunde",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung über Ihren Status (nur wenn das Zentrum ihn nicht über den Tarifvorschlagsdienst prüfen kann)"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie auf der Seite von Vlaanderen.be, welcher Status für Sie gilt und welche Bescheinigung Sie brauchen",
+          "Fordern Sie bei Bedarf die Bescheinigung bei der ausstellenden Stelle an (ÖSHZ, LfA oder Gewerkschaft, Krankenkasse, FÖD Soziale Sicherheit, VAPH...)",
+          "Schreiben Sie sich im Zentrum ein und legen Sie die Bescheinigung vor oder lassen Sie Ihren Status prüfen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/vermindering-van-inschrijvingsgeld-in-het-volwassenenonderwijs/vermindering-of-vrijstelling-inschrijvingsgeld-volwassenenonderwijs",
+      "conditions": {
+        "en": [
+          "You (or the person you depend on) receive a living wage or social assistance from the OCMW (over 65: only with the income guarantee for older people), or you are an asylum seeker receiving material aid or a displaced person with temporary protection",
+          "Or you (or the person you depend on) receive an unemployment or job-seeker's allowance, or you are a registered non-working jobseeker not yet entitled to it, or you are in the unemployment scheme with company supplement (SWT)",
+          "Or you (or the person you depend on) are at least 66% unfit for work (not once retired), receive an integration allowance, have earning capacity reduced to a third or less, or at least 7 points of reduced self-reliance; or you are registered with the VAPH (certificate requested before age 65)",
+          "Or another listed status: minor in protected living, staying in a CAW without income, detainee, or civil servant retired early for health reasons and under 65; at a Ligo-CBE also anyone without a secondary diploma (OK4) pays nothing"
+        ],
+        "nl": [
+          "Je (of de persoon ten laste van wie je bent) krijgt een leefloon of maatschappelijke dienstverlening van het OCMW (ouder dan 65: alleen met een inkomensgarantie voor ouderen), of je bent asielzoeker met materiële hulp of ontheemde met tijdelijke bescherming",
+          "Of je (of de persoon ten laste van wie je bent) krijgt een werkloosheids- of inschakelingsuitkering, of je bent een niet-werkende verplicht ingeschreven werkzoekende zonder recht op inschakelingsuitkering, of je zit in het stelsel van werkloosheid met bedrijfstoeslag (SWT)",
+          "Of je (of de persoon ten laste van wie je bent) bent minstens 66% arbeidsongeschikt (niet meer na je pensioen), krijgt een integratietegemoetkoming, hebt een verdienvermogen van 1/3 of minder, of minstens 7 punten verminderde zelfredzaamheid; of je bent ingeschreven bij het VAPH (attest aangevraagd vóór 65 jaar)",
+          "Of een ander vermeld statuut: minderjarige in beschermd wonen, verblijf in een CAW zonder inkomen, gedetineerde, of ambtenaar die om gezondheidsredenen vervroegd op pensioen is gesteld en jonger is dan 65; in een Ligo-CBE betaalt ook wie geen diploma secundair (OK4) heeft niets"
+        ],
+        "fr": [
+          "Vous (ou la personne dont vous êtes à charge) recevez le revenu d'intégration ou une aide sociale du CPAS (plus de 65 ans : seulement avec la GRAPA), ou vous êtes demandeur d'asile avec aide matérielle ou déplacé sous protection temporaire",
+          "Ou vous (ou la personne dont vous êtes à charge) recevez des allocations de chômage ou d'insertion, ou vous êtes demandeur d'emploi inscrit sans encore droit aux allocations d'insertion, ou vous êtes en chômage avec complément d'entreprise (RCC)",
+          "Ou vous (ou la personne dont vous êtes à charge) êtes inapte au travail à 66 % au moins (plus après la pension), recevez une allocation d'intégration, avez une capacité de gain réduite à un tiers ou moins, ou au moins 7 points d'autonomie réduite ; ou vous êtes inscrit(e) au VAPH (attestation demandée avant 65 ans)",
+          "Ou un autre statut prévu : mineur en logement protégé, séjour dans un CAW sans revenu, détenu, ou fonctionnaire pensionné anticipativement pour raisons de santé et âgé de moins de 65 ans ; dans un Ligo-CBE, toute personne sans diplôme du secondaire (OK4) ne paie rien non plus"
+        ],
+        "de": [
+          "Sie (oder die Person, von der Sie abhängig sind) erhalten ein Eingliederungseinkommen oder Sozialhilfe vom ÖSHZ (über 65: nur mit Einkommensgarantie für Betagte), oder Sie sind Asylbewerber mit materieller Hilfe oder Vertriebener mit vorübergehendem Schutz",
+          "Oder Sie (oder die Person, von der Sie abhängig sind) erhalten Arbeitslosen- oder Eingliederungsgeld, oder Sie sind ein eingeschriebener nicht arbeitender Arbeitsuchender ohne Anspruch darauf, oder Sie sind im System der Arbeitslosigkeit mit Betriebszuschlag (SWT)",
+          "Oder Sie (oder die Person, von der Sie abhängig sind) sind zu mindestens 66 % arbeitsunfähig (nicht mehr nach der Pension), erhalten eine Integrationsbeihilfe, haben eine auf ein Drittel oder weniger reduzierte Erwerbsfähigkeit oder mindestens 7 Punkte verminderter Selbstständigkeit; oder Sie sind beim VAPH eingetragen (Bescheinigung vor 65 beantragt)",
+          "Oder ein anderer aufgeführter Status: Minderjähriger in betreutem Wohnen, Aufenthalt in einem CAW ohne Einkommen, Inhaftierter oder aus Gesundheitsgründen vorzeitig pensionierter Beamter unter 65; im Ligo-CBE zahlt auch, wer keinen Sekundarabschluss (OK4) hat, nichts"
+        ]
+      }
+    }
+  },
+  {
+    "id": 325,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Groeipakket",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/pleegzorgtoeslag",
+    "content": {
+      "en": {
+        "title": "Foster Care Supplement (Pleegzorgtoeslag, Groeipakket)",
+        "desc": "A child placed in a foster family gets, on top of the basic amount of the Flemish Groeipakket, a monthly foster care supplement to help cover the extra costs. It is paid automatically. For long-term foster care it goes to the foster parents; for short-term care, where the child is expected to return home, it goes to whoever received it before the placement, usually the birth parents.",
+        "deadline": "Automatic, paid with the basic amount around the 8th of the month.",
+        "amount": "€73.63 per month",
+        "requirements": [],
+        "steps": [
+          "No application needed: the Agency for Growing Up (Opgroeien) informs your payment agency of the placement",
+          "Questions: contact your Groeipakket payment agency, or the Agency for Groeipakket Payment (02 897 10 60) if you have no children yet"
+        ]
+      },
+      "nl": {
+        "title": "Pleegzorgtoeslag (Groeipakket)",
+        "desc": "Een kind dat in een pleeggezin verblijft, krijgt naast het basisbedrag van het Vlaams Groeipakket ook een maandelijkse pleegzorgtoeslag om de bijkomende kosten te helpen dragen. Die wordt automatisch betaald. Bij langdurige (perspectiefbiedende) pleegzorg gaat ze naar de pleegouders; bij pleegzorg van korte duur, waarbij het kind naar huis terugkeert, naar wie ze vóór de plaatsing ontving, meestal de biologische ouders.",
+        "deadline": "Automatisch, samen met het basisbedrag uitbetaald rond de 8ste van de maand.",
+        "amount": "73,63 euro per maand",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: het Agentschap Opgroeien informeert je uitbetaler automatisch over de plaatsing",
+          "Vragen: neem contact op met je uitbetaler van het Groeipakket, of met het Agentschap Uitbetaling Groeipakket (02 897 10 60) als je nog geen kinderen hebt"
+        ]
+      },
+      "fr": {
+        "title": "Supplément accueil familial (Pleegzorgtoeslag, Groeipakket)",
+        "desc": "Un enfant placé en famille d'accueil reçoit, en plus du montant de base du Groeipakket flamand, un supplément mensuel d'accueil familial pour couvrir les frais supplémentaires. Il est versé automatiquement. En accueil de longue durée, il va aux parents d'accueil ; en accueil de courte durée, quand l'enfant doit rentrer chez lui, il va à la personne qui le recevait avant le placement, généralement les parents biologiques.",
+        "deadline": "Automatique, versé avec le montant de base vers le 8 du mois.",
+        "amount": "73,63 € par mois",
+        "requirements": [],
+        "steps": [
+          "Aucune demande n'est nécessaire : l'agence Opgroeien informe automatiquement votre caisse de paiement du placement",
+          "Questions : contactez votre caisse de paiement du Groeipakket, ou l'Agentschap Uitbetaling Groeipakket (02 897 10 60) si vous n'avez pas encore d'enfants"
+        ]
+      },
+      "de": {
+        "title": "Pflegezuschlag (Pleegzorgtoeslag, Groeipakket)",
+        "desc": "Ein Kind in einer Pflegefamilie erhält zusätzlich zum Grundbetrag des flämischen Groeipakket einen monatlichen Pflegezuschlag für die Mehrkosten. Er wird automatisch gezahlt. Bei langfristiger Pflege geht er an die Pflegeeltern; bei kurzfristiger Pflege, wenn das Kind nach Hause zurückkehren soll, an die Person, die ihn vor der Unterbringung erhielt, meist die leiblichen Eltern.",
+        "deadline": "Automatisch, mit dem Grundbetrag um den 8. des Monats gezahlt.",
+        "amount": "73,63 € pro Monat",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: Die Agentur Opgroeien informiert Ihre Auszahlungsstelle automatisch über die Unterbringung",
+          "Fragen: Wenden Sie sich an Ihre Groeipakket-Auszahlungsstelle oder, wenn Sie noch keine Kinder haben, an die Agentschap Uitbetaling Groeipakket (02 897 10 60)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/pleegzorgtoeslag",
+      "conditions": {
+        "en": [
+          "The child is officially placed in a foster family through Pleegzorg Vlaanderen (Agency for Growing Up)",
+          "The placement, or a change to it, dates from 1 January 2019 or later (for earlier placements the previous recipient keeps it while there is regular contact and the placement is unchanged)",
+          "The child is a minor"
+        ],
+        "nl": [
+          "Het kind is officieel geplaatst in het pleeggezin via Pleegzorg Vlaanderen (Agentschap Opgroeien)",
+          "De plaatsing of een wijziging ervan dateert van 1 januari 2019 of later (bij oudere plaatsingen blijft de vorige ontvanger ze krijgen zolang er regelmatig contact is en de plaatsing niet wijzigt)",
+          "Het kind is minderjarig"
+        ],
+        "fr": [
+          "L'enfant est officiellement placé dans la famille d'accueil via Pleegzorg Vlaanderen (agence Opgroeien)",
+          "Le placement, ou une modification de celui-ci, date du 1er janvier 2019 ou plus tard (pour les placements antérieurs, l'ancien bénéficiaire le garde tant qu'il y a des contacts réguliers et que le placement ne change pas)",
+          "L'enfant est mineur"
+        ],
+        "de": [
+          "Das Kind ist offiziell über Pleegzorg Vlaanderen (Agentur Opgroeien) in der Pflegefamilie untergebracht",
+          "Die Unterbringung oder eine Änderung datiert vom 1. Januar 2019 oder später (bei älteren Unterbringungen behält der bisherige Empfänger ihn, solange regelmäßiger Kontakt besteht und sich die Unterbringung nicht ändert)",
+          "Das Kind ist minderjährig"
+        ]
+      }
+    }
   }
 ]
