@@ -34152,5 +34152,1420 @@
         ]
       }
     }
+  },
+  {
+    "id": 286,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "De Lijn",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.delijn.be/nl/content/vervoerbewijzen/kortingen/verhoogde-tegemoetkoming/",
+    "content": {
+      "en": {
+        "title": "De Lijn Annual Pass at Reduced Rate (Increased Reimbursement)",
+        "desc": "If you are entitled to the increased reimbursement (verhoogde tegemoetkoming) of your health fund, you pay only €68 for a one-year De Lijn pass (Buzzy Pazz or Omnipas) for bus and tram. You indicate the discount yourself: for privacy reasons De Lijn staff may not ask about it.",
+        "deadline": "No deadline: you can buy the pass at any time.",
+        "amount": "€68 for a one-year pass, plus €10 administration fee for a MOBIB card if you do not have one yet",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Identity card (front and back)"
+          }
+        ],
+        "steps": [
+          "Check on MyData whether you are entitled to the increased reimbursement",
+          "Buy online: tick that you are entitled to the reduced rate and identify yourself with eID or itsme",
+          "Or go to a Lijnwinkel with your identity card and say that you are entitled to it (or bring a certificate from your health fund)"
+        ]
+      },
+      "nl": {
+        "title": "Jaarabonnement De Lijn aan verminderd tarief (verhoogde tegemoetkoming)",
+        "desc": "Heb je recht op de verhoogde tegemoetkoming van je ziekenfonds, dan betaal je voor een jaarabonnement van De Lijn (Buzzy Pazz of Omnipas) voor bus en tram maar 68 euro. Je geeft de korting zelf aan: de medewerkers van De Lijn mogen er omwille van privacy niet zelf naar vragen.",
+        "deadline": "Geen deadline: je kan het abonnement op elk moment kopen.",
+        "amount": "68 euro voor een jaarabonnement, plus 10 euro administratiekosten voor een MOBIB-kaart als je er nog geen hebt",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Identiteitskaart (voor- en achterkant)"
+          }
+        ],
+        "steps": [
+          "Controleer via MyData of je recht hebt op verhoogde tegemoetkoming",
+          "Koop online: vink aan dat je recht hebt op het verminderd tarief en identificeer je via eID of itsme",
+          "Of ga naar een Lijnwinkel met je identiteitskaart en meld dat je er recht op hebt (of breng een attest van je ziekenfonds mee)"
+        ]
+      },
+      "fr": {
+        "title": "Abonnement annuel De Lijn à tarif réduit (intervention majorée)",
+        "desc": "Si vous avez droit à l'intervention majorée de votre mutualité, vous ne payez que 68 € pour un abonnement annuel De Lijn (Buzzy Pazz ou Omnipas) pour le bus et le tram. Vous signalez vous-même la réduction : pour des raisons de vie privée, le personnel de De Lijn ne peut pas vous le demander.",
+        "deadline": "Pas de délai : vous pouvez acheter l'abonnement à tout moment.",
+        "amount": "68 € pour un abonnement d'un an, plus 10 € de frais administratifs pour une carte MOBIB si vous n'en avez pas encore",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Carte d'identité (recto et verso)"
+          }
+        ],
+        "steps": [
+          "Vérifiez sur MyData si vous avez droit à l'intervention majorée",
+          "Achetez en ligne : cochez que vous avez droit au tarif réduit et identifiez-vous avec l'eID ou itsme",
+          "Ou rendez-vous dans une Lijnwinkel avec votre carte d'identité et signalez que vous y avez droit (ou apportez une attestation de votre mutualité)"
+        ]
+      },
+      "de": {
+        "title": "De-Lijn-Jahresabo zum ermäßigten Tarif (erhöhte Kostenerstattung)",
+        "desc": "Haben Sie Anspruch auf die erhöhte Kostenerstattung Ihrer Krankenkasse, zahlen Sie für ein De-Lijn-Jahresabo (Buzzy Pazz oder Omnipas) für Bus und Straßenbahn nur 68 €. Sie geben die Ermäßigung selbst an: Aus Datenschutzgründen dürfen die Mitarbeiter von De Lijn nicht danach fragen.",
+        "deadline": "Keine Frist: Sie können das Abo jederzeit kaufen.",
+        "amount": "68 € für ein Jahresabo, plus 10 € Verwaltungskosten für eine MOBIB-Karte, falls Sie noch keine haben",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Personalausweis (Vorder- und Rückseite)"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie über MyData, ob Sie Anspruch auf die erhöhte Kostenerstattung haben",
+          "Online kaufen: Kreuzen Sie den ermäßigten Tarif an und melden Sie sich mit eID oder itsme an",
+          "Oder gehen Sie mit Ihrem Personalausweis in einen Lijnwinkel und geben Sie an, dass Sie Anspruch haben (oder bringen Sie eine Bescheinigung Ihrer Krankenkasse mit)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.delijn.be/nl/content/vervoerbewijzen/kortingen/verhoogde-tegemoetkoming/",
+      "conditions": {
+        "en": [
+          "You qualify for the status of increased reimbursement; or you have a recent certificate (at most 3 months old) of increased reimbursement from your health fund; or you hold a valid NMBS card for increased reimbursement."
+        ],
+        "nl": [
+          "Je komt in aanmerking voor het statuut van verhoogde tegemoetkoming; of je hebt een recent attest (maximaal 3 maanden oud) voor verhoogde tegemoetkoming van je ziekenfonds; of je hebt een geldige kaart voor verhoogde tegemoetkoming van de NMBS."
+        ],
+        "fr": [
+          "Vous remplissez les conditions du statut d'intervention majorée ; ou vous avez une attestation récente (3 mois maximum) d'intervention majorée de votre mutualité ; ou vous avez une carte valable d'intervention majorée de la SNCB."
+        ],
+        "de": [
+          "Sie erfüllen die Voraussetzungen für den Status der erhöhten Kostenerstattung; oder Sie haben eine aktuelle Bescheinigung (höchstens 3 Monate alt) Ihrer Krankenkasse; oder Sie besitzen eine gültige SNCB-Karte für erhöhte Kostenerstattung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 287,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "De Lijn",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.delijn.be/nl/content/vervoerbewijzen/kortingen/vg/",
+    "content": {
+      "en": {
+        "title": "De Lijn Annual Pass for €56 (Transport Guarantee)",
+        "desc": "With the transport guarantee (vervoergarantie) you pay €56 for a one-year De Lijn pass if you receive the leefloon (or an equivalent), if you stay in a local reception initiative as an applicant for international protection, or if you receive the income guarantee for older people (IGO). This pass cannot be bought online through the normal shop.",
+        "deadline": "No deadline.",
+        "amount": "€56 for a one-year pass (Buzzy Pazz or Omnipas; Omnipas for IGO), plus €10 administration fee for a MOBIB card if you do not have one yet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "For IGO: the certificate of the Federal Pension Service for the current year"
+          },
+          {
+            "type": "id",
+            "label": "Identity card"
+          }
+        ],
+        "steps": [
+          "Leefloon: your OCMW applies for you to De Lijn; you then receive a transfer form and the pass is sent to you after payment",
+          "Reception: the organisation where you stay (Fedasil, the Red Cross or an Opgroeien service) applies for you",
+          "IGO: fill in De Lijn's online request form with your IGO certificate and a copy of your identity card, or go to a Lijnwinkel with both"
+        ]
+      },
+      "nl": {
+        "title": "Jaarabonnement De Lijn voor 56 euro (vervoergarantie)",
+        "desc": "Met de vervoergarantie betaal je 56 euro voor een jaarabonnement van De Lijn als je een leefloon (of equivalent) krijgt, als je als verzoeker om internationale bescherming in een lokaal opvanginitiatief verblijft, of als je een inkomensgarantie voor ouderen (IGO) krijgt. Dit abonnement kan je niet gewoon online kopen.",
+        "deadline": "Geen deadline.",
+        "amount": "56 euro voor een jaarabonnement (Buzzy Pazz of Omnipas; Omnipas bij IGO), plus 10 euro administratiekosten voor een MOBIB-kaart als je er nog geen hebt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bij IGO: het attest inkomensgarantie van de Federale Pensioendienst van het betreffende jaar"
+          },
+          {
+            "type": "id",
+            "label": "Identiteitskaart"
+          }
+        ],
+        "steps": [
+          "Leefloon: het OCMW doet de aanvraag voor jou bij De Lijn; je krijgt daarna een overschrijvingsformulier en na betaling wordt je abonnement opgestuurd",
+          "Opvang: de instantie waar je verblijft (Fedasil, het Rode Kruis of een dienst van Opgroeien) dient de aanvraag voor jou in",
+          "IGO: vul het digitale aanvraagformulier van De Lijn in met je IGO-attest en een kopie van je identiteitskaart, of ga ermee naar een Lijnwinkel"
+        ]
+      },
+      "fr": {
+        "title": "Abonnement annuel De Lijn à 56 € (garantie de transport)",
+        "desc": "Avec la garantie de transport, vous payez 56 € pour un abonnement annuel De Lijn si vous recevez le revenu d'intégration (ou un équivalent), si vous séjournez dans une initiative locale d'accueil comme demandeur de protection internationale, ou si vous recevez la garantie de revenus aux personnes âgées (GRAPA). Cet abonnement ne s'achète pas simplement en ligne.",
+        "deadline": "Pas de délai.",
+        "amount": "56 € pour un abonnement d'un an (Buzzy Pazz ou Omnipas ; Omnipas pour la GRAPA), plus 10 € de frais administratifs pour une carte MOBIB si vous n'en avez pas encore",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Pour la GRAPA : l'attestation du Service fédéral des Pensions de l'année en cours"
+          },
+          {
+            "type": "id",
+            "label": "Carte d'identité"
+          }
+        ],
+        "steps": [
+          "Revenu d'intégration : le CPAS fait la demande pour vous auprès de De Lijn ; vous recevez ensuite un virement et l'abonnement vous est envoyé après paiement",
+          "Accueil : l'organisme où vous séjournez (Fedasil, la Croix-Rouge ou un service d'Opgroeien) introduit la demande pour vous",
+          "GRAPA : remplissez le formulaire en ligne de De Lijn avec votre attestation GRAPA et une copie de votre carte d'identité, ou rendez-vous avec ces documents dans une Lijnwinkel"
+        ]
+      },
+      "de": {
+        "title": "De-Lijn-Jahresabo für 56 € (Beförderungsgarantie)",
+        "desc": "Mit der Beförderungsgarantie zahlen Sie 56 € für ein De-Lijn-Jahresabo, wenn Sie das Eingliederungseinkommen (oder ein Gleichwertiges) beziehen, als Antragsteller auf internationalen Schutz in einer lokalen Aufnahmeinitiative wohnen oder die Einkommensgarantie für Betagte (EGB) erhalten. Dieses Abo kann nicht einfach online gekauft werden.",
+        "deadline": "Keine Frist.",
+        "amount": "56 € für ein Jahresabo (Buzzy Pazz oder Omnipas; Omnipas bei EGB), plus 10 € Verwaltungskosten für eine MOBIB-Karte, falls Sie noch keine haben",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bei EGB: die Bescheinigung des Föderalen Pensionsdienstes für das laufende Jahr"
+          },
+          {
+            "type": "id",
+            "label": "Personalausweis"
+          }
+        ],
+        "steps": [
+          "Eingliederungseinkommen: Das ÖSHZ stellt den Antrag für Sie bei De Lijn; Sie erhalten dann ein Überweisungsformular und nach Zahlung wird das Abo zugeschickt",
+          "Aufnahme: Die Einrichtung, in der Sie wohnen (Fedasil, das Rote Kreuz oder ein Dienst von Opgroeien), stellt den Antrag für Sie",
+          "EGB: Füllen Sie das Online-Formular von De Lijn mit Ihrer EGB-Bescheinigung und einer Kopie Ihres Ausweises aus oder gehen Sie damit in einen Lijnwinkel"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.delijn.be/nl/content/vervoerbewijzen/kortingen/vg/",
+      "conditions": {
+        "en": [
+          "You are entitled to the leefloon, are treated as equivalent to it, or receive the equivalent leefloon.",
+          "Or you stay in a local reception initiative (application through Fedasil, the Red Cross or Opgroeien).",
+          "Or you receive the income guarantee for older people (IGO) from the Federal Pension Service."
+        ],
+        "nl": [
+          "Je hebt recht op het leefloon, bent ermee gelijkgesteld, of hebt recht op het equivalent leefloon.",
+          "Of je verblijft in een lokaal opvanginitiatief (aanvraag via Fedasil, het Rode Kruis of Opgroeien).",
+          "Of je krijgt een inkomensgarantie voor ouderen (IGO) van de Federale Pensioendienst."
+        ],
+        "fr": [
+          "Vous avez droit au revenu d'intégration, y êtes assimilé(e) ou avez droit à l'équivalent du revenu d'intégration.",
+          "Ou vous séjournez dans une initiative locale d'accueil (demande via Fedasil, la Croix-Rouge ou Opgroeien).",
+          "Ou vous recevez la garantie de revenus aux personnes âgées (GRAPA) du Service fédéral des Pensions."
+        ],
+        "de": [
+          "Sie haben Anspruch auf das Eingliederungseinkommen, sind ihm gleichgestellt oder erhalten das gleichwertige Eingliederungseinkommen.",
+          "Oder Sie wohnen in einer lokalen Aufnahmeinitiative (Antrag über Fedasil, das Rote Kreuz oder Opgroeien).",
+          "Oder Sie erhalten die Einkommensgarantie für Betagte (EGB) vom Föderalen Pensionsdienst."
+        ]
+      }
+    }
+  },
+  {
+    "id": 288,
+    "category": "other",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "De Lijn",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.delijn.be/nl/content/kortingen/persoon-met-beperking/",
+    "content": {
+      "en": {
+        "title": "Free De Lijn Pass for People with a Disability",
+        "desc": "If you live in the Flemish Region and are known to one of four official bodies (VAPH, FOD Sociale Zekerheid, your zorgkas or VDAB), De Lijn sends you a letter for a free Buzzy Pazz or Omnipas. With a visual impairment you travel free on bus and tram with your national reduction card for public transport, and you may take a guide dog for free. A companion can travel free with you if you have the NMBS 'free companion' card.",
+        "deadline": "No deadline.",
+        "amount": "Free pass; the MOBIB card costs €10 (administration fee) and is valid for 5 years",
+        "requirements": [],
+        "steps": [
+          "If you think you qualify, contact the body that knows you: VAPH, FOD Sociale Zekerheid, your zorgkas or VDAB",
+          "Once De Lijn receives your data from that body, it sends you a letter for your free pass",
+          "No letter? Contact De Lijn's subscriptions service"
+        ]
+      },
+      "nl": {
+        "title": "Gratis abonnement van De Lijn voor personen met een handicap",
+        "desc": "Woon je in het Vlaams Gewest en ben je gekend bij een van vier officiële instanties (VAPH, FOD Sociale Zekerheid, je zorgkas of VDAB), dan stuurt De Lijn je een brief voor een gratis Buzzy Pazz of Omnipas. Met een visuele beperking reis je gratis met bus en tram op vertoon van je nationale verminderingskaart op het openbaar vervoer, en mag je gratis een geleidehond meenemen. Een begeleider reist gratis mee als je de NMBS-kaart 'Kosteloze begeleider' hebt.",
+        "deadline": "Geen deadline.",
+        "amount": "Gratis abonnement; de MOBIB-kaart kost 10 euro (administratiekosten) en blijft 5 jaar geldig",
+        "requirements": [],
+        "steps": [
+          "Denk je dat je recht hebt, neem dan contact op met de instantie die je kent: VAPH, FOD Sociale Zekerheid, je zorgkas of VDAB",
+          "Zodra De Lijn je gegevens van die instantie krijgt, stuurt De Lijn je een brief voor je gratis abonnement",
+          "Geen brief gekregen? Neem contact op met de dienst abonnementen van De Lijn"
+        ]
+      },
+      "fr": {
+        "title": "Abonnement De Lijn gratuit pour les personnes handicapées",
+        "desc": "Si vous habitez en Région flamande et êtes connu(e) de l'un des quatre organismes officiels (VAPH, SPF Sécurité sociale, votre zorgkas ou le VDAB), De Lijn vous envoie une lettre pour un Buzzy Pazz ou Omnipas gratuit. Avec une déficience visuelle, vous voyagez gratuitement en bus et en tram sur présentation de votre carte nationale de réduction sur les transports en commun, et vous pouvez emmener gratuitement un chien-guide. Un accompagnateur voyage gratuitement avec vous si vous avez la carte SNCB « Accompagnateur gratuit ».",
+        "deadline": "Pas de délai.",
+        "amount": "Abonnement gratuit ; la carte MOBIB coûte 10 € (frais administratifs) et reste valable 5 ans",
+        "requirements": [],
+        "steps": [
+          "Si vous pensez y avoir droit, contactez l'organisme qui vous connaît : VAPH, SPF Sécurité sociale, votre zorgkas ou le VDAB",
+          "Dès que De Lijn reçoit vos données de cet organisme, elle vous envoie une lettre pour votre abonnement gratuit",
+          "Pas de lettre ? Contactez le service abonnements de De Lijn"
+        ]
+      },
+      "de": {
+        "title": "Kostenloses De-Lijn-Abo für Menschen mit Behinderung",
+        "desc": "Wenn Sie in der Flämischen Region wohnen und bei einer von vier offiziellen Stellen bekannt sind (VAPH, FÖD Soziale Sicherheit, Ihre Zorgkas oder VDAB), schickt Ihnen De Lijn einen Brief für ein kostenloses Buzzy Pazz oder Omnipas. Mit einer Sehbehinderung fahren Sie mit Ihrer nationalen Ermäßigungskarte für öffentliche Verkehrsmittel kostenlos Bus und Straßenbahn und dürfen einen Blindenführhund kostenlos mitnehmen. Eine Begleitperson fährt kostenlos mit, wenn Sie die SNCB-Karte „Kostenlose Begleitperson“ haben.",
+        "deadline": "Keine Frist.",
+        "amount": "Kostenloses Abo; die MOBIB-Karte kostet 10 € (Verwaltungskosten) und gilt 5 Jahre",
+        "requirements": [],
+        "steps": [
+          "Wenn Sie meinen, Anspruch zu haben, wenden Sie sich an die Stelle, die Sie kennt: VAPH, FÖD Soziale Sicherheit, Ihre Zorgkas oder VDAB",
+          "Sobald De Lijn Ihre Daten von dieser Stelle erhält, schickt sie Ihnen einen Brief für Ihr kostenloses Abo",
+          "Kein Brief? Wenden Sie sich an den Abo-Service von De Lijn"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.delijn.be/nl/content/kortingen/persoon-met-beperking/",
+      "conditions": {
+        "en": [
+          "You live in the Flemish Region.",
+          "And you are registered with VAPH; or receive an allowance from FOD Sociale Zekerheid; or receive the care budget for older people with care needs from your zorgkas; or are entitled through VDAB to special employment support measures (BTOM)."
+        ],
+        "nl": [
+          "Je woont in het Vlaams Gewest.",
+          "En je bent ingeschreven bij het VAPH; of krijgt een tegemoetkoming van de FOD Sociale Zekerheid; of krijgt een zorgbudget voor ouderen met een zorgnood van je zorgkas; of bent door de VDAB gerechtigd op bijzondere tewerkstellingsondersteunende maatregelen (BTOM)."
+        ],
+        "fr": [
+          "Vous habitez en Région flamande.",
+          "Et vous êtes inscrit(e) au VAPH ; ou recevez une allocation du SPF Sécurité sociale ; ou recevez de votre zorgkas le budget de soins pour personnes âgées en besoin de soins ; ou avez droit via le VDAB à des mesures spéciales de soutien à l'emploi (BTOM)."
+        ],
+        "de": [
+          "Sie wohnen in der Flämischen Region.",
+          "Und Sie sind beim VAPH eingetragen; oder erhalten eine Beihilfe vom FÖD Soziale Sicherheit; oder erhalten von Ihrer Zorgkas das Pflegebudget für pflegebedürftige Ältere; oder haben über VDAB Anspruch auf besondere Beschäftigungsfördermaßnahmen (BTOM)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 289,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "De Lijn",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.delijn.be/nl/content/omnipas-65plus/",
+    "content": {
+      "en": {
+        "title": "Omnipas 65+: De Lijn Annual Pass for Over-65s",
+        "desc": "From the age of 65 you can buy the Omnipas 65+: one year of unlimited travel on all De Lijn buses and (coast) trams in Flanders for €71. One in three municipalities pays part of the pass, and other discounts may lower the price further. The pass is personal and is loaded on a MOBIB card; it is not valid on the student express lines 178 and 179.",
+        "deadline": "No deadline; you choose the start date yourself, up to 100 days in advance.",
+        "amount": "€71 for 12 months, plus €10 administration fee for a MOBIB card if you do not have one yet",
+        "requirements": [],
+        "steps": [
+          "Check whether your municipality pays part of the pass or whether you are entitled to another discount",
+          "Buy the pass online (discounts are applied automatically and the MOBIB card is posted) or in a Lijnwinkel"
+        ]
+      },
+      "nl": {
+        "title": "Omnipas 65+: jaarabonnement van De Lijn voor 65-plussers",
+        "desc": "Vanaf 65 jaar kan je de Omnipas 65+ kopen: een jaar lang onbeperkt reizen met alle bussen en (Kust)trams van De Lijn in heel Vlaanderen voor 71 euro. Eén op de drie gemeenten betaalt een deel van je abonnement, en andere kortingen kunnen de prijs nog verlagen. Het abonnement is persoonlijk en staat op een MOBIB-kaart; het is niet geldig op de Studentensnellijnen 178 en 179.",
+        "deadline": "Geen deadline; je kiest zelf de startdatum, tot 100 dagen op voorhand.",
+        "amount": "71 euro voor 12 maanden, plus 10 euro administratiekosten voor een MOBIB-kaart als je er nog geen hebt",
+        "requirements": [],
+        "steps": [
+          "Kijk of je gemeente een deel van je abonnement betaalt of of je recht hebt op een andere korting",
+          "Koop het abonnement online (kortingen worden automatisch verrekend en de MOBIB-kaart wordt opgestuurd) of in een Lijnwinkel"
+        ]
+      },
+      "fr": {
+        "title": "Omnipas 65+ : abonnement annuel De Lijn pour les 65 ans et plus",
+        "desc": "Dès 65 ans, vous pouvez acheter l'Omnipas 65+ : un an de trajets illimités sur tous les bus et trams (de la côte) de De Lijn en Flandre pour 71 €. Une commune sur trois paie une partie de l'abonnement, et d'autres réductions peuvent encore baisser le prix. L'abonnement est personnel et chargé sur une carte MOBIB ; il n'est pas valable sur les lignes express étudiantes 178 et 179.",
+        "deadline": "Pas de délai ; vous choisissez vous-même la date de début, jusqu'à 100 jours à l'avance.",
+        "amount": "71 € pour 12 mois, plus 10 € de frais administratifs pour une carte MOBIB si vous n'en avez pas encore",
+        "requirements": [],
+        "steps": [
+          "Vérifiez si votre commune paie une partie de l'abonnement ou si vous avez droit à une autre réduction",
+          "Achetez l'abonnement en ligne (les réductions sont déduites automatiquement et la carte MOBIB est envoyée) ou dans une Lijnwinkel"
+        ]
+      },
+      "de": {
+        "title": "Omnipas 65+: De-Lijn-Jahresabo für Menschen ab 65",
+        "desc": "Ab 65 Jahren können Sie das Omnipas 65+ kaufen: ein Jahr lang unbegrenzt mit allen Bussen und (Küsten-)Straßenbahnen von De Lijn in ganz Flandern fahren, für 71 €. Jede dritte Gemeinde zahlt einen Teil des Abos, und weitere Ermäßigungen können den Preis senken. Das Abo ist persönlich und auf einer MOBIB-Karte gespeichert; es gilt nicht auf den Studenten-Schnelllinien 178 und 179.",
+        "deadline": "Keine Frist; Sie wählen das Startdatum selbst, bis zu 100 Tage im Voraus.",
+        "amount": "71 € für 12 Monate, plus 10 € Verwaltungskosten für eine MOBIB-Karte, falls Sie noch keine haben",
+        "requirements": [],
+        "steps": [
+          "Prüfen Sie, ob Ihre Gemeinde einen Teil des Abos zahlt oder ob Sie Anspruch auf eine andere Ermäßigung haben",
+          "Kaufen Sie das Abo online (Ermäßigungen werden automatisch verrechnet, die MOBIB-Karte wird zugeschickt) oder in einem Lijnwinkel"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.delijn.be/nl/content/omnipas-65plus/",
+      "conditions": {
+        "en": [
+          "You are 65 or older."
+        ],
+        "nl": [
+          "Je bent 65 jaar of ouder."
+        ],
+        "fr": [
+          "Vous avez 65 ans ou plus."
+        ],
+        "de": [
+          "Sie sind 65 Jahre oder älter."
+        ]
+      }
+    }
+  },
+  {
+    "id": 290,
+    "category": "health",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Centrum voor Kankeropsporing (CvKO)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://baarmoederhalskanker.bevolkingsonderzoek.be/nl/bhk/hoe-kan-ik-meedoen",
+    "content": {
+      "en": {
+        "title": "Free Cervical Cancer Screening (Smear Test)",
+        "desc": "The Flemish screening programme lets women aged 25 to 64 have a preventive smear test regularly, so that (a precursor of) cervical cancer is found early. The lab test of the smear is free if you keep to the recommended interval; you only pay the consultation with your GP or gynaecologist, part of which your health fund refunds. You receive the result yourself through My eBox or by post, and can also see it on mijngezondheid.be.",
+        "deadline": "Every 3 years from age 25 to 29, every 5 years from age 30 to 64.",
+        "amount": "Free lab test; you pay only the co-payment (remgeld) on the consultation",
+        "requirements": [],
+        "steps": [
+          "Make an appointment yourself with your GP or gynaecologist, on a day you are not menstruating; no prescription or invitation is needed",
+          "Receive the result through My eBox or by post, or look it up on mijngezondheid.be"
+        ]
+      },
+      "nl": {
+        "title": "Bevolkingsonderzoek Baarmoederhalskanker (gratis uitstrijkje)",
+        "desc": "Het Vlaams Bevolkingsonderzoek Baarmoederhalskanker geeft vrouwen van 25 tot en met 64 jaar de kans om regelmatig een preventief uitstrijkje te laten nemen, zodat (een voorloper van) baarmoederhalskanker vroeg wordt opgespoord. Het onderzoek van het uitstrijkje is gratis als je de aanbevolen frequentie respecteert; je betaalt alleen de consultatie bij je huisarts of gynaecoloog, waarvan je ziekenfonds een deel terugbetaalt. Het resultaat krijg je zelf via My eBox of per post, en je kan het ook op mijngezondheid.be bekijken.",
+        "deadline": "Om de drie jaar tussen 25 en 29 jaar, om de vijf jaar tussen 30 en 64 jaar.",
+        "amount": "Gratis onderzoek van het uitstrijkje; je betaalt alleen het remgeld op de consultatie",
+        "requirements": [],
+        "steps": [
+          "Maak zelf een afspraak bij je huisarts of gynaecoloog, op een dag waarop je niet ongesteld bent; je hebt geen voorschrift of uitnodiging nodig",
+          "Ontvang het resultaat via My eBox of per post, of bekijk het op mijngezondheid.be"
+        ]
+      },
+      "fr": {
+        "title": "Dépistage gratuit du cancer du col de l'utérus (frottis)",
+        "desc": "Le programme flamand de dépistage permet aux femmes de 25 à 64 ans de faire régulièrement un frottis préventif, afin de détecter tôt le cancer du col de l'utérus (ou une lésion précancéreuse). L'analyse du frottis est gratuite si vous respectez la fréquence recommandée ; vous ne payez que la consultation chez votre généraliste ou gynécologue, dont votre mutualité rembourse une partie. Vous recevez vous-même le résultat via My eBox ou par la poste, et pouvez aussi le consulter sur mijngezondheid.be.",
+        "deadline": "Tous les 3 ans de 25 à 29 ans, tous les 5 ans de 30 à 64 ans.",
+        "amount": "Analyse gratuite ; vous ne payez que le ticket modérateur de la consultation",
+        "requirements": [],
+        "steps": [
+          "Prenez vous-même rendez-vous chez votre généraliste ou gynécologue, un jour sans règles ; aucune prescription ni invitation n'est nécessaire",
+          "Recevez le résultat via My eBox ou par la poste, ou consultez-le sur mijngezondheid.be"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Gebärmutterhalskrebs-Früherkennung (Abstrich)",
+        "desc": "Das flämische Früherkennungsprogramm ermöglicht Frauen von 25 bis 64 Jahren regelmäßig einen vorbeugenden Abstrich, damit Gebärmutterhalskrebs (oder eine Vorstufe) früh erkannt wird. Die Laboruntersuchung des Abstrichs ist kostenlos, wenn Sie das empfohlene Intervall einhalten; Sie zahlen nur die Konsultation bei Hausarzt oder Gynäkologe, die Ihre Krankenkasse teilweise erstattet. Das Ergebnis erhalten Sie selbst über My eBox oder per Post und können es auch auf mijngezondheid.be einsehen.",
+        "deadline": "Alle 3 Jahre von 25 bis 29 Jahren, alle 5 Jahre von 30 bis 64 Jahren.",
+        "amount": "Kostenlose Laboruntersuchung; Sie zahlen nur den Eigenanteil der Konsultation",
+        "requirements": [],
+        "steps": [
+          "Vereinbaren Sie selbst einen Termin bei Hausarzt oder Gynäkologe, an einem Tag ohne Menstruation; Sie brauchen weder Rezept noch Einladung",
+          "Erhalten Sie das Ergebnis über My eBox oder per Post oder sehen Sie es auf mijngezondheid.be ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://baarmoederhalskanker.bevolkingsonderzoek.be/nl/bhk/hoe-kan-ik-meedoen",
+      "conditions": {
+        "en": [
+          "You are a woman aged 25 to 64.",
+          "Not if you have or had cervical cancer, or if both your uterus and cervix were removed."
+        ],
+        "nl": [
+          "Je bent een vrouw van 25 tot en met 64 jaar.",
+          "Niet als je baarmoederhalskanker hebt of had, of als je baarmoeder én baarmoederhals zijn verwijderd."
+        ],
+        "fr": [
+          "Vous êtes une femme de 25 à 64 ans.",
+          "Pas si vous avez ou avez eu un cancer du col de l'utérus, ou si l'utérus et le col ont été retirés."
+        ],
+        "de": [
+          "Sie sind eine Frau zwischen 25 und 64 Jahren.",
+          "Nicht, wenn Sie Gebärmutterhalskrebs haben oder hatten oder wenn Gebärmutter und Gebärmutterhals entfernt wurden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 291,
+    "category": "health",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Centrum voor Kankeropsporing (CvKO)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://borstkanker.bevolkingsonderzoek.be/nl/bk/hoe-kan-ik-meedoen",
+    "content": {
+      "en": {
+        "title": "Free Breast Cancer Screening (Mammography)",
+        "desc": "Women aged 50 to 69 receive an invitation from the Centrum voor Kankeropsporing every two years for a screening mammography. The invitation counts as a prescription and proposes an appointment at a mammography unit, which you can change. The examination is completely free if you are a member of a Belgian health fund: you pay no co-payment either.",
+        "deadline": "Every two years from age 50 to 69.",
+        "amount": "Completely free, no co-payment",
+        "requirements": [],
+        "steps": [
+          "Wait for your invitation in My eBox or by post, or ask your doctor for a prescription marked 'screeningsmammografie'",
+          "Go to the proposed appointment, or call the free number 0800 60 160 to change the date or the unit"
+        ]
+      },
+      "nl": {
+        "title": "Bevolkingsonderzoek Borstkanker (gratis screeningsmammografie)",
+        "desc": "Vrouwen van 50 tot en met 69 jaar krijgen elke twee jaar een uitnodiging van het Centrum voor Kankeropsporing voor een screeningsmammografie. De uitnodiging geldt als voorschrift en stelt een afspraak voor in een mammografische eenheid, die je kan wijzigen. Het onderzoek is volledig gratis als je bij een Belgisch ziekenfonds bent aangesloten: je betaalt ook geen remgeld.",
+        "deadline": "Om de twee jaar van 50 tot en met 69 jaar.",
+        "amount": "Volledig gratis, geen remgeld",
+        "requirements": [],
+        "steps": [
+          "Wacht op je uitnodiging in je eBox of via de post, of vraag je arts een voorschrift met de vermelding 'screeningsmammografie'",
+          "Ga naar de voorgestelde afspraak, of bel het gratis nummer 0800 60 160 om de datum of de eenheid te wijzigen"
+        ]
+      },
+      "fr": {
+        "title": "Dépistage gratuit du cancer du sein (mammographie)",
+        "desc": "Les femmes de 50 à 69 ans reçoivent tous les deux ans une invitation du Centrum voor Kankeropsporing pour une mammographie de dépistage. L'invitation vaut prescription et propose un rendez-vous dans une unité de mammographie, que vous pouvez modifier. L'examen est entièrement gratuit si vous êtes affiliée à une mutualité belge : vous ne payez pas non plus de ticket modérateur.",
+        "deadline": "Tous les deux ans de 50 à 69 ans.",
+        "amount": "Entièrement gratuit, sans ticket modérateur",
+        "requirements": [],
+        "steps": [
+          "Attendez votre invitation dans votre eBox ou par la poste, ou demandez à votre médecin une prescription portant la mention « screeningsmammografie »",
+          "Rendez-vous au rendez-vous proposé, ou appelez le numéro gratuit 0800 60 160 pour changer la date ou l'unité"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Brustkrebs-Früherkennung (Mammografie)",
+        "desc": "Frauen von 50 bis 69 Jahren erhalten alle zwei Jahre eine Einladung des Centrum voor Kankeropsporing zu einer Screening-Mammografie. Die Einladung gilt als Rezept und schlägt einen Termin in einer Mammografie-Einheit vor, den Sie ändern können. Die Untersuchung ist völlig kostenlos, wenn Sie Mitglied einer belgischen Krankenkasse sind: Sie zahlen auch keinen Eigenanteil.",
+        "deadline": "Alle zwei Jahre von 50 bis 69 Jahren.",
+        "amount": "Völlig kostenlos, kein Eigenanteil",
+        "requirements": [],
+        "steps": [
+          "Warten Sie auf Ihre Einladung in der eBox oder per Post oder bitten Sie Ihren Arzt um ein Rezept mit dem Vermerk „screeningsmammografie“",
+          "Nehmen Sie den vorgeschlagenen Termin wahr oder rufen Sie die kostenlose Nummer 0800 60 160 an, um Datum oder Einheit zu ändern"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://borstkanker.bevolkingsonderzoek.be/nl/bk/hoe-kan-ik-meedoen",
+      "conditions": {
+        "en": [
+          "You are a woman aged 50 to 69 and a member of a Belgian health fund.",
+          "Not if you are already being treated for breast cancer, were diagnosed with it in the past ten years, or had a mammography in the past two years."
+        ],
+        "nl": [
+          "Je bent een vrouw van 50 tot en met 69 jaar en aangesloten bij een Belgisch ziekenfonds.",
+          "Niet als je al voor borstkanker in behandeling bent, de voorbije tien jaar de diagnose borstkanker kreeg, of de voorbije twee jaar al een mammografie liet nemen."
+        ],
+        "fr": [
+          "Vous êtes une femme de 50 à 69 ans affiliée à une mutualité belge.",
+          "Pas si vous êtes déjà traitée pour un cancer du sein, avez reçu ce diagnostic au cours des dix dernières années, ou avez eu une mammographie au cours des deux dernières années."
+        ],
+        "de": [
+          "Sie sind eine Frau von 50 bis 69 Jahren und Mitglied einer belgischen Krankenkasse.",
+          "Nicht, wenn Sie bereits wegen Brustkrebs behandelt werden, die Diagnose in den letzten zehn Jahren erhielten oder in den letzten zwei Jahren eine Mammografie hatten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 292,
+    "category": "health",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Centrum voor Kankeropsporing (CvKO)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://dikkedarmkanker.bevolkingsonderzoek.be/nl/ddk/hoe-kan-ik-meedoen",
+    "content": {
+      "en": {
+        "title": "Free Bowel Cancer Screening (Home Stool Test)",
+        "desc": "Men and women aged 50 to 74 receive a free stool test at home every two years from the Centrum voor Kankeropsporing. You take a sample yourself and send it with the participation form to the lab; a few weeks later you receive the result at home. Lost your test, or want a new one? Call the free number 0800 60 160 or e-mail info@bevolkingsonderzoek.be.",
+        "deadline": "Every two years, from the year you turn 50 to the year you turn 74; the first invitation comes around your 50th birthday.",
+        "amount": "Free",
+        "requirements": [],
+        "steps": [
+          "Wait for the invitation pack with the stool test, letter and participation form",
+          "Take the sample as explained in the instructions and post it with the completed form to the lab"
+        ]
+      },
+      "nl": {
+        "title": "Bevolkingsonderzoek Dikkedarmkanker (gratis stoelgangtest)",
+        "desc": "Mannen en vrouwen van 50 tot en met 74 jaar krijgen elke twee jaar van het Centrum voor Kankeropsporing een gratis stoelgangtest thuis. Je neemt zelf een staal en stuurt het met het deelnameformulier naar het labo; enkele weken later krijg je het resultaat thuis. Test verloren of wil je een nieuwe? Bel het gratis nummer 0800 60 160 of mail naar info@bevolkingsonderzoek.be.",
+        "deadline": "Om de twee jaar, vanaf het jaar waarin je 50 wordt tot en met het jaar waarin je 74 wordt; de eerste uitnodiging komt rond je 50e verjaardag.",
+        "amount": "Gratis",
+        "requirements": [],
+        "steps": [
+          "Wacht op het uitnodigingspakket met de stoelgangtest, de brief en het deelnameformulier",
+          "Neem het staal zoals in de gebruiksaanwijzing en stuur het met het ingevulde formulier naar het labo"
+        ]
+      },
+      "fr": {
+        "title": "Dépistage gratuit du cancer colorectal (test de selles)",
+        "desc": "Les hommes et les femmes de 50 à 74 ans reçoivent tous les deux ans à domicile un test de selles gratuit du Centrum voor Kankeropsporing. Vous prélevez vous-même un échantillon et l'envoyez au labo avec le formulaire de participation ; quelques semaines plus tard, vous recevez le résultat chez vous. Test perdu ou besoin d'un nouveau ? Appelez le numéro gratuit 0800 60 160 ou écrivez à info@bevolkingsonderzoek.be.",
+        "deadline": "Tous les deux ans, de l'année de vos 50 ans à l'année de vos 74 ans ; la première invitation arrive vers votre 50e anniversaire.",
+        "amount": "Gratuit",
+        "requirements": [],
+        "steps": [
+          "Attendez le kit d'invitation avec le test de selles, la lettre et le formulaire de participation",
+          "Prélevez l'échantillon selon le mode d'emploi et envoyez-le au labo avec le formulaire complété"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Darmkrebs-Früherkennung (Stuhltest)",
+        "desc": "Männer und Frauen von 50 bis 74 Jahren erhalten alle zwei Jahre vom Centrum voor Kankeropsporing einen kostenlosen Stuhltest nach Hause. Sie nehmen selbst eine Probe und schicken sie mit dem Teilnahmeformular ans Labor; einige Wochen später erhalten Sie das Ergebnis zu Hause. Test verloren oder neuen gewünscht? Rufen Sie die kostenlose Nummer 0800 60 160 an oder schreiben Sie an info@bevolkingsonderzoek.be.",
+        "deadline": "Alle zwei Jahre, vom Jahr Ihres 50. bis zum Jahr Ihres 74. Geburtstags; die erste Einladung kommt um Ihren 50. Geburtstag.",
+        "amount": "Kostenlos",
+        "requirements": [],
+        "steps": [
+          "Warten Sie auf das Einladungspaket mit Stuhltest, Brief und Teilnahmeformular",
+          "Nehmen Sie die Probe laut Anleitung und schicken Sie sie mit dem ausgefüllten Formular ans Labor"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://dikkedarmkanker.bevolkingsonderzoek.be/nl/ddk/hoe-kan-ik-meedoen",
+      "conditions": {
+        "en": [
+          "You are aged 50 to 74.",
+          "Not if in the past ten years you had a colonoscopy, in the past four years a virtual colonoscopy, or in the past two years a stool test; or if you have or had bowel cancer or your large intestine was fully removed."
+        ],
+        "nl": [
+          "Je bent tussen 50 en 74 jaar.",
+          "Niet als je de voorbije tien jaar een coloscopie, de voorbije vier jaar een virtuele coloscopie of de voorbije twee jaar een stoelgangtest liet doen; of als je dikkedarmkanker hebt of had of je dikke darm volledig werd weggenomen."
+        ],
+        "fr": [
+          "Vous avez entre 50 et 74 ans.",
+          "Pas si vous avez eu une coloscopie au cours des dix dernières années, une coloscopie virtuelle au cours des quatre dernières années ou un test de selles au cours des deux dernières années ; ni si vous avez ou avez eu un cancer colorectal ou si votre côlon a été entièrement retiré."
+        ],
+        "de": [
+          "Sie sind zwischen 50 und 74 Jahre alt.",
+          "Nicht, wenn Sie in den letzten zehn Jahren eine Darmspiegelung, in den letzten vier Jahren eine virtuelle Darmspiegelung oder in den letzten zwei Jahren einen Stuhltest hatten; oder wenn Sie Darmkrebs haben oder hatten oder Ihr Dickdarm vollständig entfernt wurde."
+        ]
+      }
+    }
+  },
+  {
+    "id": 293,
+    "category": "health",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Departement Zorg · Vlaams Centrum voor Neonatale Screening",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.departementzorg.be/nl/bloedprik-laat-je-baby-gratis-testen-op-19-aangeboren-ziekten",
+    "content": {
+      "en": {
+        "title": "Free Newborn Blood Spot Screening",
+        "desc": "Parents in Flanders can have their newborn tested for free on 19 rare but serious congenital diseases. A midwife or nurse takes a few drops of blood from the baby's hand between 48 and 96 hours after birth, in hospital or at home. The test is not compulsory, but the earlier a disease is found, the better it can be treated. You are only contacted if the result is abnormal, usually within 3 weeks.",
+        "deadline": "Between 48 and 96 hours after birth.",
+        "amount": "Free",
+        "requirements": [],
+        "steps": [
+          "In hospital, the midwife or nurse asks your verbal consent and takes the blood spot",
+          "Home birth or early discharge? Quickly make an appointment with your midwife or GP",
+          "Keep the tear-off slip as proof in the Kind en Gezin booklet"
+        ]
+      },
+      "nl": {
+        "title": "Gratis bloedprik bij pasgeboren baby's",
+        "desc": "Ouders in Vlaanderen laten hun pasgeboren baby gratis onderzoeken op 19 zeldzame maar ernstige aangeboren aandoeningen. Een vroedkundige of verpleegkundige neemt tussen 48 en 96 uur na de geboorte een beetje bloed uit de hand van je baby, in het ziekenhuis of thuis. De bloedprik is niet verplicht, maar hoe vroeger een ziekte wordt gevonden, hoe beter ze te behandelen is. Je krijgt alleen een bericht als het resultaat afwijkt, meestal binnen 3 weken.",
+        "deadline": "Tussen 48 en 96 uur na de geboorte.",
+        "amount": "Gratis",
+        "requirements": [],
+        "steps": [
+          "In het ziekenhuis vraagt de vroedkundige of verpleegkundige je mondelinge toestemming en neemt de bloedprik",
+          "Beval je thuis of ga je vroeger naar huis? Maak dan snel een afspraak bij je vroedkundige of huisarts",
+          "Bewaar het afscheurstrookje als bewijs in het kindboekje van Kind en Gezin"
+        ]
+      },
+      "fr": {
+        "title": "Dépistage néonatal gratuit par prise de sang",
+        "desc": "En Flandre, les parents peuvent faire tester gratuitement leur nouveau-né pour 19 maladies congénitales rares mais graves. Une sage-femme ou une infirmière prélève quelques gouttes de sang à la main du bébé entre 48 et 96 heures après la naissance, à l'hôpital ou à domicile. Le test n'est pas obligatoire, mais plus une maladie est détectée tôt, mieux elle se soigne. Vous n'êtes contacté(e) que si le résultat est anormal, généralement dans les 3 semaines.",
+        "deadline": "Entre 48 et 96 heures après la naissance.",
+        "amount": "Gratuit",
+        "requirements": [],
+        "steps": [
+          "À l'hôpital, la sage-femme ou l'infirmière demande votre accord oral et effectue la prise de sang",
+          "Accouchement à domicile ou sortie anticipée ? Prenez vite rendez-vous chez votre sage-femme ou votre généraliste",
+          "Conservez le talon détachable comme preuve dans le carnet de Kind en Gezin"
+        ]
+      },
+      "de": {
+        "title": "Kostenloses Neugeborenen-Screening per Blutentnahme",
+        "desc": "Eltern in Flandern können ihr Neugeborenes kostenlos auf 19 seltene, aber schwere angeborene Krankheiten testen lassen. Eine Hebamme oder Pflegekraft entnimmt 48 bis 96 Stunden nach der Geburt einige Tropfen Blut aus der Hand des Babys, im Krankenhaus oder zu Hause. Der Test ist nicht verpflichtend, aber je früher eine Krankheit erkannt wird, desto besser lässt sie sich behandeln. Sie werden nur benachrichtigt, wenn das Ergebnis auffällig ist, meist innerhalb von 3 Wochen.",
+        "deadline": "Zwischen 48 und 96 Stunden nach der Geburt.",
+        "amount": "Kostenlos",
+        "requirements": [],
+        "steps": [
+          "Im Krankenhaus bittet die Hebamme oder Pflegekraft um Ihre mündliche Zustimmung und nimmt die Blutprobe",
+          "Hausgeburt oder frühe Entlassung? Vereinbaren Sie schnell einen Termin bei Ihrer Hebamme oder Ihrem Hausarzt",
+          "Bewahren Sie den Abrissstreifen als Nachweis im Kind-en-Gezin-Heft auf"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.departementzorg.be/nl/bloedprik-laat-je-baby-gratis-testen-op-19-aangeboren-ziekten",
+      "conditions": {
+        "en": [
+          "You are the parent of a newborn in Flanders and give verbal consent for the blood spot."
+        ],
+        "nl": [
+          "Je bent ouder van een pasgeboren baby in Vlaanderen en geeft mondelinge toestemming voor de bloedprik."
+        ],
+        "fr": [
+          "Vous êtes parent d'un nouveau-né en Flandre et donnez votre accord oral pour la prise de sang."
+        ],
+        "de": [
+          "Sie sind Elternteil eines Neugeborenen in Flandern und geben Ihre mündliche Zustimmung zur Blutentnahme."
+        ]
+      }
+    }
+  },
+  {
+    "id": 294,
+    "category": "housing",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Milieumaatschappij (VMM) · waterbedrijf",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://vmm.vlaanderen.be/waterloket/gezond-water/putwater-controleren",
+    "content": {
+      "en": {
+        "title": "Free Yearly Check of Your Well Water",
+        "desc": "Well water is groundwater you pump up yourself, and it gets polluted much faster than tap water. If you cannot connect to the public water network, for example because you live very remotely, you are entitled to one free check of your well water per year by your water company. Some water companies also offer a free check to others; otherwise you can pay for an analysis by a recognised laboratory.",
+        "deadline": "Once per year.",
+        "amount": "One free check per year",
+        "requirements": [],
+        "steps": [
+          "Look up your water company with the VMM search tool on the Waterloket",
+          "Ask your water company for the free yearly check of your well water"
+        ]
+      },
+      "nl": {
+        "title": "Gratis controle van putwater",
+        "desc": "Putwater is grondwater dat je zelf oppompt, en het raakt veel sneller vervuild dan kraanwater. Als je niet op het openbare waternet kunt aansluiten, bijvoorbeeld omdat je erg afgelegen woont, heb je recht op één gratis controle van je putwater per jaar door je waterbedrijf. Sommige waterbedrijven bieden ook anderen een gratis controle aan; anders kan je een betaalde analyse laten doen door een erkend laboratorium.",
+        "deadline": "Eén keer per jaar.",
+        "amount": "Eén gratis controle per jaar",
+        "requirements": [],
+        "steps": [
+          "Zoek je waterbedrijf op via de zoekfunctie van het Waterloket van de VMM",
+          "Vraag je waterbedrijf om de jaarlijkse gratis controle van je putwater"
+        ]
+      },
+      "fr": {
+        "title": "Contrôle gratuit annuel de l'eau de puits",
+        "desc": "L'eau de puits est de l'eau souterraine que vous pompez vous-même, et elle se pollue bien plus vite que l'eau du robinet. Si vous ne pouvez pas vous raccorder au réseau public de distribution d'eau, par exemple parce que vous habitez très à l'écart, vous avez droit à un contrôle gratuit de votre eau de puits par an par votre société des eaux. Certaines sociétés offrent aussi un contrôle gratuit à d'autres ; sinon, vous pouvez faire faire une analyse payante par un laboratoire agréé.",
+        "deadline": "Une fois par an.",
+        "amount": "Un contrôle gratuit par an",
+        "requirements": [],
+        "steps": [
+          "Trouvez votre société des eaux via l'outil de recherche du Waterloket de la VMM",
+          "Demandez à votre société des eaux le contrôle gratuit annuel de votre eau de puits"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose jährliche Brunnenwasserkontrolle",
+        "desc": "Brunnenwasser ist selbst hochgepumptes Grundwasser und wird viel schneller verunreinigt als Leitungswasser. Wenn Sie sich nicht an das öffentliche Wassernetz anschließen können, etwa weil Sie sehr abgelegen wohnen, haben Sie Anspruch auf eine kostenlose Kontrolle Ihres Brunnenwassers pro Jahr durch Ihr Wasserunternehmen. Manche Wasserunternehmen bieten auch anderen eine kostenlose Kontrolle an; sonst können Sie eine kostenpflichtige Analyse durch ein anerkanntes Labor machen lassen.",
+        "deadline": "Einmal pro Jahr.",
+        "amount": "Eine kostenlose Kontrolle pro Jahr",
+        "requirements": [],
+        "steps": [
+          "Suchen Sie Ihr Wasserunternehmen über die Suchfunktion des VMM-Waterloket",
+          "Bitten Sie Ihr Wasserunternehmen um die kostenlose jährliche Kontrolle Ihres Brunnenwassers"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://vmm.vlaanderen.be/waterloket/gezond-water/putwater-controleren",
+      "conditions": {
+        "en": [
+          "You use well water from your own well and cannot connect to the public water network."
+        ],
+        "nl": [
+          "Je gebruikt putwater uit je eigen waterput en kunt niet op het openbare waternet aansluiten."
+        ],
+        "fr": [
+          "Vous utilisez l'eau de votre propre puits et ne pouvez pas vous raccorder au réseau public de distribution d'eau."
+        ],
+        "de": [
+          "Sie nutzen Wasser aus Ihrem eigenen Brunnen und können sich nicht an das öffentliche Wassernetz anschließen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 295,
+    "category": "health",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Departement Zorg",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.departementzorg.be/nl/rookstopbegeleiding",
+    "content": {
+      "en": {
+        "title": "Reimbursed Stop-Smoking Support (Tabakoloog)",
+        "desc": "If you live in the Flemish Region, the Flemish government pays most of the cost of stop-smoking support from a tabakoloog. Every participant gets 48 points per calendar year: an individual session uses 3 points per quarter hour, a group session 1 point per quarter hour. You only pay a capped personal contribution; the tabakoloog bills the rest through the health funds. Young people pay the lower rate up to the calendar year in which they turn 21.",
+        "deadline": "48 points per calendar year, renewed every 1 January.",
+        "amount": "Your share per quarter hour: at most €7.50 individual or €1.00 in a group; with increased reimbursement at most €1.00 individual or €0.50 in a group",
+        "requirements": [],
+        "steps": [
+          "Choose a tabakoloog who is listed in the Flemish register of tabakologen and works with the Flemish system",
+          "Explicitly ask for stop-smoking support; you pay only the personal contribution"
+        ]
+      },
+      "nl": {
+        "title": "Rookstopbegeleiding bij een tabakoloog (terugbetaald)",
+        "desc": "Woon je in het Vlaams Gewest, dan betaalt de Vlaamse overheid het grootste deel van rookstopbegeleiding bij een tabakoloog. Elke deelnemer heeft per kalenderjaar recht op 48 punten: een individuele begeleiding kost 3 punten per kwartier, een groepsbegeleiding 1 punt per kwartier. Je betaalt alleen een geplafonneerde persoonlijke bijdrage; de tabakoloog factureert de rest via de ziekenfondsen. Jongeren betalen het lagere tarief tot en met het kalenderjaar waarin ze 21 worden.",
+        "deadline": "48 punten per kalenderjaar, elk jaar opnieuw op 1 januari.",
+        "amount": "Jouw bijdrage per kwartier: maximaal 7,50 euro individueel of 1,00 euro in groep; met verhoogde tegemoetkoming maximaal 1,00 euro individueel of 0,50 euro in groep",
+        "requirements": [],
+        "steps": [
+          "Kies een tabakoloog die in het Vlaams kadaster van tabakologen staat en met de Vlaamse werkwijze werkt",
+          "Vraag uitdrukkelijk om rookstopbegeleiding; je betaalt alleen de persoonlijke bijdrage"
+        ]
+      },
+      "fr": {
+        "title": "Accompagnement au sevrage tabagique remboursé (tabacologue)",
+        "desc": "Si vous habitez en Région flamande, le gouvernement flamand paie l'essentiel de l'accompagnement au sevrage tabagique chez un tabacologue. Chaque participant a droit à 48 points par année civile : une séance individuelle coûte 3 points par quart d'heure, une séance de groupe 1 point par quart d'heure. Vous ne payez qu'une contribution personnelle plafonnée ; le tabacologue facture le reste via les mutualités. Les jeunes paient le tarif réduit jusqu'à l'année civile de leurs 21 ans.",
+        "deadline": "48 points par année civile, renouvelés chaque 1er janvier.",
+        "amount": "Votre part par quart d'heure : au maximum 7,50 € en individuel ou 1,00 € en groupe ; avec l'intervention majorée au maximum 1,00 € en individuel ou 0,50 € en groupe",
+        "requirements": [],
+        "steps": [
+          "Choisissez un tabacologue inscrit au registre flamand des tabacologues et qui applique le système flamand",
+          "Demandez explicitement un accompagnement au sevrage ; vous ne payez que la contribution personnelle"
+        ]
+      },
+      "de": {
+        "title": "Erstattete Rauchstopp-Begleitung (Tabakologe)",
+        "desc": "Wenn Sie in der Flämischen Region wohnen, zahlt die flämische Regierung den größten Teil einer Rauchstopp-Begleitung bei einem Tabakologen. Jeder Teilnehmer hat pro Kalenderjahr Anspruch auf 48 Punkte: Eine Einzelbegleitung kostet 3 Punkte pro Viertelstunde, eine Gruppenbegleitung 1 Punkt pro Viertelstunde. Sie zahlen nur einen gedeckelten Eigenbeitrag; der Tabakologe rechnet den Rest über die Krankenkassen ab. Junge Menschen zahlen den niedrigeren Tarif bis zum Kalenderjahr, in dem sie 21 werden.",
+        "deadline": "48 Punkte pro Kalenderjahr, jedes Jahr am 1. Januar neu.",
+        "amount": "Ihr Anteil pro Viertelstunde: höchstens 7,50 € einzeln oder 1,00 € in der Gruppe; mit erhöhter Kostenerstattung höchstens 1,00 € einzeln oder 0,50 € in der Gruppe",
+        "requirements": [],
+        "steps": [
+          "Wählen Sie einen Tabakologen, der im flämischen Register der Tabakologen steht und nach dem flämischen System arbeitet",
+          "Bitten Sie ausdrücklich um eine Rauchstopp-Begleitung; Sie zahlen nur den Eigenbeitrag"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.departementzorg.be/nl/rookstopbegeleiding",
+      "conditions": {
+        "en": [
+          "You are domiciled in the Flemish Region, or stay in an institution in the Flemish Region.",
+          "The tabakoloog is listed in the Flemish register (also if they work outside Flanders); without that, the Flemish government pays nothing."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in het Vlaams Gewest, of verblijft in een instelling in het Vlaams Gewest.",
+          "De tabakoloog staat in het Vlaams kadaster (ook als die buiten Vlaanderen werkt); anders betaalt de Vlaamse overheid niets."
+        ],
+        "fr": [
+          "Vous êtes domicilié(e) en Région flamande, ou séjournez dans une institution en Région flamande.",
+          "Le tabacologue est inscrit au registre flamand (même s'il exerce hors de Flandre) ; sinon, le gouvernement flamand ne paie rien."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in der Flämischen Region oder wohnen in einer Einrichtung in der Flämischen Region.",
+          "Der Tabakologe steht im flämischen Register (auch wenn er außerhalb Flanderns arbeitet); sonst zahlt die flämische Regierung nichts."
+        ]
+      }
+    }
+  },
+  {
+    "id": 296,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Groeipakket",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/kinderopvangtoeslag",
+    "content": {
+      "en": {
+        "title": "Childcare Supplement (Kinderopvangtoeslag, Groeipakket)",
+        "desc": "The childcare supplement is a fixed amount for every day your child attends licensed childcare whose price does not depend on your income. It is part of the Flemish Groeipakket and is paid monthly and automatically if your child already receives the Groeipakket. It stops as soon as your child goes to nursery school, even for half days.",
+        "deadline": "Paid around the 20th of the month after the month of childcare.",
+        "amount": "€3.78 per full childcare day (at least 5 hours); half for a half day (at least 3 hours)",
+        "requirements": [],
+        "steps": [
+          "If your child already receives the Groeipakket, you need do nothing: the childcare reports attendance and you are paid automatically",
+          "If not, apply to a Groeipakket payment agency (uitbetaler)"
+        ]
+      },
+      "nl": {
+        "title": "Kinderopvangtoeslag (Groeipakket)",
+        "desc": "De kinderopvangtoeslag is een vast bedrag voor elke dag dat je kind naar een erkende kinderopvang gaat waarvan de prijs niet afhangt van je inkomen. Hij maakt deel uit van het Vlaams Groeipakket en wordt maandelijks en automatisch betaald als je kind al een Groeipakket krijgt. Hij stopt zodra je kind naar de kleuterschool gaat, ook als dat enkel halve dagen is.",
+        "deadline": "Betaald rond de 20e van de maand na de maand van de opvang.",
+        "amount": "3,78 euro per volledige opvangdag (minstens 5 uur); de helft voor een halve dag (minstens 3 uur)",
+        "requirements": [],
+        "steps": [
+          "Krijgt je kind al een Groeipakket, dan hoef je niets te doen: de opvang geeft de aanwezigheden door en je krijgt de toeslag automatisch",
+          "Zo niet, doe een aanvraag bij een uitbetaler van het Groeipakket"
+        ]
+      },
+      "fr": {
+        "title": "Supplément accueil d'enfants (Kinderopvangtoeslag, Groeipakket)",
+        "desc": "Le supplément accueil d'enfants est un montant fixe pour chaque jour où votre enfant fréquente un accueil agréé dont le prix ne dépend pas de vos revenus. Il fait partie du Groeipakket flamand et est versé chaque mois, automatiquement, si votre enfant reçoit déjà le Groeipakket. Il s'arrête dès que votre enfant va à l'école maternelle, même pour des demi-journées.",
+        "deadline": "Versé vers le 20 du mois suivant le mois d'accueil.",
+        "amount": "3,78 € par journée complète d'accueil (au moins 5 heures) ; la moitié pour une demi-journée (au moins 3 heures)",
+        "requirements": [],
+        "steps": [
+          "Si votre enfant reçoit déjà le Groeipakket, vous n'avez rien à faire : l'accueil transmet les présences et vous êtes payé(e) automatiquement",
+          "Sinon, introduisez une demande auprès d'une caisse de paiement (uitbetaler) du Groeipakket"
+        ]
+      },
+      "de": {
+        "title": "Kinderbetreuungszuschlag (Kinderopvangtoeslag, Groeipakket)",
+        "desc": "Der Kinderbetreuungszuschlag ist ein fester Betrag für jeden Tag, an dem Ihr Kind eine zugelassene Betreuung besucht, deren Preis nicht von Ihrem Einkommen abhängt. Er gehört zum flämischen Groeipakket und wird monatlich und automatisch gezahlt, wenn Ihr Kind bereits das Groeipakket erhält. Er endet, sobald Ihr Kind in den Kindergarten geht, auch nur halbtags.",
+        "deadline": "Gezahlt um den 20. des Monats nach dem Betreuungsmonat.",
+        "amount": "3,78 € pro vollem Betreuungstag (mindestens 5 Stunden); die Hälfte für einen halben Tag (mindestens 3 Stunden)",
+        "requirements": [],
+        "steps": [
+          "Erhält Ihr Kind bereits das Groeipakket, müssen Sie nichts tun: Die Betreuung meldet die Anwesenheit und Sie werden automatisch bezahlt",
+          "Andernfalls stellen Sie einen Antrag bei einer Auszahlungsstelle (uitbetaler) des Groeipakket"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/vlaams-groeipakket/toeslagen/kinderopvangtoeslag",
+      "conditions": {
+        "en": [
+          "Your child attends childcare with a permit from Opgroeien, in Flanders or Brussels, whose price does not depend on your income.",
+          "Your child does not yet go to nursery school.",
+          "Not for days of free care or days your child was absent, and not if your child stays in Belgium without a residence permit."
+        ],
+        "nl": [
+          "Je kind gaat naar een kinderopvang met een vergunning van Opgroeien, in Vlaanderen of Brussel, waarvan de prijs niet afhangt van je inkomen.",
+          "Je kind gaat nog niet naar de kleuterschool.",
+          "Niet voor dagen van gratis opvang of dagen waarop je kind afwezig was, en niet als je kind zonder verblijfsvergunning in België verblijft."
+        ],
+        "fr": [
+          "Votre enfant fréquente un accueil autorisé par Opgroeien, en Flandre ou à Bruxelles, dont le prix ne dépend pas de vos revenus.",
+          "Votre enfant ne va pas encore à l'école maternelle.",
+          "Pas pour les jours d'accueil gratuit ou d'absence de l'enfant, ni si votre enfant séjourne en Belgique sans titre de séjour."
+        ],
+        "de": [
+          "Ihr Kind besucht eine von Opgroeien genehmigte Betreuung in Flandern oder Brüssel, deren Preis nicht von Ihrem Einkommen abhängt.",
+          "Ihr Kind geht noch nicht in den Kindergarten.",
+          "Nicht für Tage kostenloser Betreuung oder Abwesenheit, und nicht, wenn Ihr Kind ohne Aufenthaltserlaubnis in Belgien lebt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 297,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Energiehuis (Vlaamse overheid)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/lenen-voor-een-woning/mijn-verbouwlening",
+    "amount_source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/lenen-voor-een-woning/mijn-verbouwlening/wat-is-het-bedrag-en-de-rentevoet-van-mijn-verbouwlening",
+    "content": {
+      "en": {
+        "title": "Mijn VerbouwLening (Low-Interest Renovation Loan)",
+        "desc": "With Mijn VerbouwLening you borrow €4,000 to €60,000 at a reduced rate to renovate a home in the Flemish Region: roof, walls, windows, floors, insulation, heat pump, solar panels and more. Owner-occupants in the lower and middle income categories qualify; private landlords, non-profits and co-owner associations can too under extra conditions. Your Energiehuis checks what loan amount and term you can afford and charges no file costs. Any Mijn VerbouwPremie you get for the same works is used to pay off the loan early.",
+        "deadline": "Apply before the works start, with quotes no older than 6 months; applications are possible until 31 July 2032.",
+        "amount": "€4,000 to €60,000 over at most 25 years; interest for applications in 2026: 0% (income category 4), 0.5% (category 3), 1.5% (category 2)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Quotes or bills of quantities for the works"
+          },
+          {
+            "type": "id",
+            "label": "Copy of your identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Recent payslips or other proof of income"
+          }
+        ],
+        "steps": [
+          "Use the simulator to see your interest rate and monthly repayment",
+          "Apply online in Mijn VerbouwLoket; your application goes to the Energiehuis for your municipality (help is available there or at your municipal woonloket)",
+          "After approval (on average about 3 months), sign the loan agreement; the loan is paid out on the basis of invoices"
+        ]
+      },
+      "nl": {
+        "title": "Mijn VerbouwLening",
+        "desc": "Met Mijn VerbouwLening leen je 4.000 tot 60.000 euro aan een voordelige rentevoet om een woning in het Vlaams Gewest te renoveren: dak, muren, ramen, vloer, isolatie, warmtepomp, zonnepanelen en meer. Eigenaar-bewoners uit de lagere en middelste inkomenscategorieën komen in aanmerking; ook particuliere verhuurders, vzw's en verenigingen van mede-eigenaars onder extra voorwaarden. Je Energiehuis bekijkt welk bedrag en welke looptijd haalbaar zijn en rekent geen dossierkosten aan. Mijn VerbouwPremie voor dezelfde werken gaat altijd naar de vervroegde terugbetaling van de lening.",
+        "deadline": "Vraag aan voor de werken starten, met offertes van maximaal 6 maanden oud; aanvragen kan tot en met 31 juli 2032.",
+        "amount": "4.000 tot 60.000 euro over maximaal 25 jaar; rentevoet voor aanvragen in 2026: 0% (inkomenscategorie 4), 0,5% (categorie 3), 1,5% (categorie 2)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Offertes of meetstaten voor de werken"
+          },
+          {
+            "type": "id",
+            "label": "Kopie van je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Recente loonbrieven of ander bewijs van inkomsten"
+          }
+        ],
+        "steps": [
+          "Bekijk via de simulator je rentevoet en je maandelijkse afbetaling",
+          "Vraag online aan in Mijn VerbouwLoket; je aanvraag gaat naar het Energiehuis van je gemeente (hulp krijg je daar of bij het woonloket van je gemeente)",
+          "Na goedkeuring (gemiddeld zo'n 3 maanden) teken je de kredietovereenkomst; de lening wordt uitbetaald op basis van facturen"
+        ]
+      },
+      "fr": {
+        "title": "Mijn VerbouwLening (prêt rénovation à taux réduit)",
+        "desc": "Avec Mijn VerbouwLening, vous empruntez de 4 000 à 60 000 € à taux réduit pour rénover un logement en Région flamande : toit, murs, fenêtres, sol, isolation, pompe à chaleur, panneaux solaires, etc. Les propriétaires occupants des catégories de revenus basses et moyennes y ont droit ; les bailleurs privés, ASBL et associations de copropriétaires aussi, sous conditions supplémentaires. Votre Energiehuis examine le montant et la durée réalistes et ne facture pas de frais de dossier. La Mijn VerbouwPremie pour les mêmes travaux sert toujours à rembourser le prêt anticipativement.",
+        "deadline": "Faites la demande avant le début des travaux, avec des devis de 6 mois maximum ; demandes possibles jusqu'au 31 juillet 2032.",
+        "amount": "De 4 000 à 60 000 € sur 25 ans maximum ; taux pour les demandes en 2026 : 0 % (catégorie de revenus 4), 0,5 % (catégorie 3), 1,5 % (catégorie 2)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Devis ou métrés des travaux"
+          },
+          {
+            "type": "id",
+            "label": "Copie de votre carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Fiches de paie récentes ou autre preuve de revenus"
+          }
+        ],
+        "steps": [
+          "Consultez le simulateur pour voir votre taux et votre mensualité",
+          "Introduisez la demande en ligne dans Mijn VerbouwLoket ; elle est transmise à l'Energiehuis de votre commune (vous pouvez y obtenir de l'aide, ou au woonloket communal)",
+          "Après approbation (environ 3 mois en moyenne), vous signez le contrat de crédit ; le prêt est versé sur la base des factures"
+        ]
+      },
+      "de": {
+        "title": "Mijn VerbouwLening (zinsgünstiges Renovierungsdarlehen)",
+        "desc": "Mit Mijn VerbouwLening leihen Sie 4.000 bis 60.000 € zu einem günstigen Zinssatz, um eine Wohnung in der Flämischen Region zu renovieren: Dach, Wände, Fenster, Böden, Dämmung, Wärmepumpe, Solaranlage und mehr. Selbstnutzende Eigentümer der unteren und mittleren Einkommenskategorien sind berechtigt; private Vermieter, gemeinnützige Organisationen und Eigentümergemeinschaften unter zusätzlichen Bedingungen ebenfalls. Ihr Energiehuis prüft, welcher Betrag und welche Laufzeit tragbar sind, und berechnet keine Bearbeitungskosten. Eine Mijn VerbouwPremie für dieselben Arbeiten dient immer der vorzeitigen Tilgung des Darlehens.",
+        "deadline": "Beantragen Sie vor Beginn der Arbeiten mit Angeboten, die höchstens 6 Monate alt sind; Anträge sind bis 31. Juli 2032 möglich.",
+        "amount": "4.000 bis 60.000 € über höchstens 25 Jahre; Zinssatz für Anträge 2026: 0 % (Einkommenskategorie 4), 0,5 % (Kategorie 3), 1,5 % (Kategorie 2)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Angebote oder Leistungsverzeichnisse für die Arbeiten"
+          },
+          {
+            "type": "id",
+            "label": "Kopie Ihres Personalausweises"
+          },
+          {
+            "type": "doc",
+            "label": "Aktuelle Lohnzettel oder anderer Einkommensnachweis"
+          }
+        ],
+        "steps": [
+          "Prüfen Sie mit dem Simulator Ihren Zinssatz und Ihre Monatsrate",
+          "Beantragen Sie online im Mijn VerbouwLoket; der Antrag geht an das Energiehuis Ihrer Gemeinde (Hilfe gibt es dort oder beim Wohnschalter der Gemeinde)",
+          "Nach der Genehmigung (im Schnitt etwa 3 Monate) unterschreiben Sie den Kreditvertrag; das Darlehen wird gegen Rechnungen ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/lenen-voor-een-woning/mijn-verbouwlening/wie-in-aanmerking-komt-voor-mijn-verbouwlening",
+      "conditions": {
+        "en": [
+          "As owner-occupant: you own the home, live there (or will within 36 months of the loan) and own no other home or building land in full ownership.",
+          "Your income is at most €55,020 (single) or €78,610 (single with one dependant, or couple), plus €4,420 per extra dependant.",
+          "The home is in the Flemish Region; for roof, wall, window and floor works it must have been connected to the electricity grid before 1 January 2006 (before 1 January 2014 for a heat pump or solar panels)."
+        ],
+        "nl": [
+          "Als eigenaar-bewoner: je bent eigenaar van de woning, woont er (of uiterlijk binnen 36 maanden na de lening) en hebt geen andere woning of bouwgrond in volle eigendom.",
+          "Je inkomen is maximaal 55.020 euro (alleenstaande) of 78.610 euro (alleenstaande met 1 persoon ten laste, of koppel), plus 4.420 euro per extra persoon ten laste.",
+          "De woning ligt in het Vlaams Gewest; voor dak, muren, ramen en vloer moet ze voor 1 januari 2006 aangesloten zijn op het elektriciteitsnet (voor 1 januari 2014 bij een warmtepomp of zonnepanelen)."
+        ],
+        "fr": [
+          "En tant que propriétaire occupant : vous êtes propriétaire du logement, y êtes domicilié(e) (ou le serez dans les 36 mois du prêt) et n'avez aucun autre logement ni terrain à bâtir en pleine propriété.",
+          "Vos revenus ne dépassent pas 55 020 € (isolé) ou 78 610 € (isolé avec une personne à charge, ou couple), plus 4 420 € par personne à charge supplémentaire.",
+          "Le logement est situé en Région flamande ; pour toit, murs, fenêtres et sol, il doit être raccordé au réseau électrique avant le 1er janvier 2006 (avant le 1er janvier 2014 pour une pompe à chaleur ou des panneaux solaires)."
+        ],
+        "de": [
+          "Als selbstnutzender Eigentümer: Sie besitzen die Wohnung, wohnen dort (oder spätestens 36 Monate nach dem Darlehen) und haben keine andere Wohnung und kein Baugrundstück in vollem Eigentum.",
+          "Ihr Einkommen beträgt höchstens 55.020 € (alleinstehend) oder 78.610 € (alleinstehend mit einer unterhaltsberechtigten Person oder Paar), plus 4.420 € je weitere unterhaltsberechtigte Person.",
+          "Die Wohnung liegt in der Flämischen Region; für Dach, Wände, Fenster und Böden muss sie vor dem 1. Januar 2006 ans Stromnetz angeschlossen worden sein (vor dem 1. Januar 2014 bei Wärmepumpe oder Solaranlage)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 298,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Energiehuis (Vlaamse overheid)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/een-huis-verbouwen/mijn-verbouwbegeleiding/mijn-verbouwbegeleiding-voor-eigenaars",
+    "content": {
+      "en": {
+        "title": "Mijn VerbouwBegeleiding: Free Renovation Coaching for Owners",
+        "desc": "Everyone can get free advice on making a home energy-efficient at the desk of their Energiehuis. Owners with a lower or middle income can also get a free renovation coach at home: independent advice on the best investments, help finding a contractor and comparing quotes, support with premium and loan applications, and one point of contact during the works. You must plan at least one of: high-efficiency glazing, roof or attic insulation, cavity wall filling, wall insulation, floor insulation, a heat pump or heat pump boiler, or solar panels.",
+        "deadline": "No deadline.",
+        "amount": "Free",
+        "requirements": [],
+        "steps": [
+          "Request an income certificate in the online application desk (mijnverbouwbegeleiding.vlaanderen.be)",
+          "You receive two e-mails: the calculation of your income and the income certificate",
+          "Give the certificate to the Energiehuis for your municipality, which starts the coaching"
+        ]
+      },
+      "nl": {
+        "title": "Mijn VerbouwBegeleiding voor eigenaars",
+        "desc": "Iedereen kan aan het loket van het Energiehuis gratis advies krijgen over hoe je je woning energiezuinig maakt. Eigenaars met een lager of middeninkomen kunnen ook een gratis renovatiebegeleider aan huis krijgen: onafhankelijk advies over de beste investeringen, hulp bij het zoeken van een aannemer en het beoordelen van offertes, ondersteuning bij premie- en leningaanvragen, en één aanspreekpunt tijdens de werken. Je moet minstens een van deze werken plannen: hoogrendementsbeglazing, dak- of zoldervloerisolatie, spouwmuurisolatie, muurisolatie, vloerisolatie, een warmtepomp of warmtepompboiler, of zonnepanelen.",
+        "deadline": "Geen deadline.",
+        "amount": "Gratis",
+        "requirements": [],
+        "steps": [
+          "Vraag een inkomensattest aan via het online aanvraagloket (mijnverbouwbegeleiding.vlaanderen.be)",
+          "Je krijgt twee e-mails: de berekening van je inkomen en het inkomensattest",
+          "Bezorg het attest aan het Energiehuis van je gemeente, dat de begeleiding opstart"
+        ]
+      },
+      "fr": {
+        "title": "Mijn VerbouwBegeleiding : accompagnement gratuit de rénovation pour propriétaires",
+        "desc": "Tout le monde peut obtenir gratuitement des conseils au guichet de l'Energiehuis pour rendre son logement économe en énergie. Les propriétaires aux revenus bas ou moyens peuvent aussi bénéficier d'un accompagnateur de rénovation gratuit à domicile : conseils indépendants sur les meilleurs investissements, aide pour trouver un entrepreneur et évaluer les devis, soutien pour les demandes de primes et de prêts, et un point de contact pendant les travaux. Vous devez prévoir au moins l'un de ces travaux : vitrage à haut rendement, isolation du toit ou du plancher des combles, remplissage de murs creux, isolation de murs, isolation du sol, pompe à chaleur ou chauffe-eau thermodynamique, ou panneaux solaires.",
+        "deadline": "Pas de délai.",
+        "amount": "Gratuit",
+        "requirements": [],
+        "steps": [
+          "Demandez une attestation de revenus via le guichet en ligne (mijnverbouwbegeleiding.vlaanderen.be)",
+          "Vous recevez deux e-mails : le calcul de vos revenus et l'attestation de revenus",
+          "Remettez l'attestation à l'Energiehuis de votre commune, qui lance l'accompagnement"
+        ]
+      },
+      "de": {
+        "title": "Mijn VerbouwBegeleiding: kostenlose Renovierungsbegleitung für Eigentümer",
+        "desc": "Jeder kann am Schalter des Energiehuis kostenlos beraten werden, wie man eine Wohnung energiesparend macht. Eigentümer mit niedrigem oder mittlerem Einkommen können außerdem einen kostenlosen Renovierungsbegleiter zu Hause bekommen: unabhängige Beratung zu den besten Investitionen, Hilfe bei der Suche nach einem Bauunternehmer und beim Vergleich von Angeboten, Unterstützung bei Prämien- und Darlehensanträgen und eine Anlaufstelle während der Arbeiten. Sie müssen mindestens eine dieser Arbeiten planen: Hochleistungsverglasung, Dach- oder Dachbodendämmung, Hohlwanddämmung, Wanddämmung, Bodendämmung, Wärmepumpe oder Wärmepumpenboiler oder Solaranlage.",
+        "deadline": "Keine Frist.",
+        "amount": "Kostenlos",
+        "requirements": [],
+        "steps": [
+          "Beantragen Sie eine Einkommensbescheinigung über den Online-Schalter (mijnverbouwbegeleiding.vlaanderen.be)",
+          "Sie erhalten zwei E-Mails: die Berechnung Ihres Einkommens und die Einkommensbescheinigung",
+          "Geben Sie die Bescheinigung beim Energiehuis Ihrer Gemeinde ab, das die Begleitung startet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/een-huis-verbouwen/mijn-verbouwbegeleiding/mijn-verbouwbegeleiding-voor-eigenaars",
+      "conditions": {
+        "en": [
+          "The home is in the Flemish Region and you own it as a private person (signed deed of sale); you need not live there, but may not rent it out.",
+          "Your joint taxable income is below €55,020 (single) or €78,610 (single with a disability or with one dependant, or couple without dependants), plus €4,420 per extra dependant. For solar panel coaching the limits are €43,240 and €60,520."
+        ],
+        "nl": [
+          "De woning ligt in het Vlaams Gewest en je bent er als particulier eigenaar van (getekende verkoopakte); je hoeft er niet zelf te wonen, maar mag ze niet verhuren.",
+          "Je gezamenlijk belastbaar inkomen is lager dan 55.020 euro (alleenstaande) of 78.610 euro (alleenstaande met handicap of met 1 persoon ten laste, of koppel zonder personen ten laste), plus 4.420 euro per extra persoon ten laste. Voor begeleiding bij zonnepanelen zijn de grenzen 43.240 en 60.520 euro."
+        ],
+        "fr": [
+          "Le logement est situé en Région flamande et vous en êtes propriétaire à titre privé (acte de vente signé) ; vous ne devez pas y habiter, mais ne pouvez pas le louer.",
+          "Vos revenus imposables globalement sont inférieurs à 55 020 € (isolé) ou 78 610 € (isolé handicapé ou avec une personne à charge, ou couple sans personne à charge), plus 4 420 € par personne à charge supplémentaire. Pour l'accompagnement panneaux solaires, les plafonds sont de 43 240 et 60 520 €."
+        ],
+        "de": [
+          "Die Wohnung liegt in der Flämischen Region und Sie sind privat Eigentümer (unterzeichneter Kaufvertrag); Sie müssen nicht dort wohnen, dürfen sie aber nicht vermieten.",
+          "Ihr gemeinsam steuerpflichtiges Einkommen liegt unter 55.020 € (alleinstehend) oder 78.610 € (alleinstehend mit Behinderung oder mit einer unterhaltsberechtigten Person oder Paar ohne Unterhaltsberechtigte), plus 4.420 € je weitere unterhaltsberechtigte Person. Für die Begleitung bei Solaranlagen gelten 43.240 und 60.520 €."
+        ]
+      }
+    },
+    "notice": {
+      "date": "30 Sep 2026",
+      "source_url": "https://www.vlaanderen.be/bouwen-wonen-en-energie/bouwen-en-verbouwen/een-huis-verbouwen/mijn-verbouwbegeleiding/mijn-verbouwbegeleiding-voor-eigenaars",
+      "text": {
+        "en": "Announced, not yet law: in its September declaration of 30 September 2026 the Flemish government announced that guidance for installing solar panels will stop from 1 January 2027.",
+        "nl": "Aangekondigd, nog geen wet: de Vlaamse Regering kondigde in de septemberverklaring van 30 september 2026 aan dat de begeleiding voor het plaatsen van zonnepanelen stopt vanaf 1 januari 2027.",
+        "fr": "Annoncé, pas encore en vigueur : dans sa déclaration de septembre du 30 septembre 2026, le gouvernement flamand a annoncé la fin de l'accompagnement pour l'installation de panneaux solaires à partir du 1er janvier 2027.",
+        "de": "Angekündigt, noch nicht in Kraft: In ihrer Septembererklärung vom 30. September 2026 kündigte die flämische Regierung an, dass die Begleitung beim Einbau von Solaranlagen ab dem 1. Januar 2027 endet."
+      }
+    }
+  },
+  {
+    "id": 299,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie (WEWIS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/werken/verlof-en-tijdelijk-minder-werken/vlaams-zorgkrediet",
+    "amount_source_url": "https://www.vlaanderen.be/werken/verlof-en-tijdelijk-minder-werken/vlaams-zorgkrediet/uitkering-vlaams-zorgkrediet-en-combinatie-met-andere-inkomsten",
+    "content": {
+      "en": {
+        "title": "Flemish Care Credit (Vlaams Zorgkrediet) for the Flemish Public Sector",
+        "desc": "If you work in the Flemish public sector (Flemish government, Flemish education, Flemish municipalities, OCMWs and provinces, and some other bodies such as the VGC and VRT), you can stop or reduce work to care for your child up to 12, a child with a disability, a seriously ill family member, someone in palliative care, or to follow a recognised training, and receive a monthly allowance. Over your whole career you have at most 18 months full-time, 36 months half-time or 90 months at 4/5. It does not matter whether you are contractual or statutory, or how long you have worked there.",
+        "deadline": "Apply at the earliest 6 months before and at the latest 2 months after the start; if you are late, it only runs from the date your complete application is sent.",
+        "amount": "Per month: €637.44 net if you stop working; €306.65 net (living alone) or €259.09 / €240.58 net (cohabiting, under / over 50) at half-time; €146.08 net at 4/5. Single parents: €367.98 net (half-time) or €223.02 net (4/5)",
+        "requirements": [],
+        "steps": [
+          "Tell your employer you want to take care credit; your employer starts the application in the WSE-loket",
+          "You receive an e-mail, log in, add your details, IBAN and the document for your motive, and submit",
+          "Apply in periods of 3 to 12 months (1 to 3 months for palliative care), each with a new application"
+        ]
+      },
+      "nl": {
+        "title": "Vlaams zorgkrediet voor de Vlaamse openbare sector",
+        "desc": "Werk je in de Vlaamse openbare sector (Vlaamse overheid, Vlaams onderwijs, Vlaamse gemeenten, OCMW's en provincies, en enkele andere instellingen zoals de VGC en de VRT), dan kan je stoppen of minder werken om te zorgen voor je kind tot en met 12 jaar, een kind met een handicap, een zwaar ziek familielid, iemand in palliatieve zorg, of om een erkende opleiding te volgen, met een maandelijkse uitkering. Over je hele loopbaan heb je recht op maximaal 18 maanden voltijds, 36 maanden halftijds of 90 maanden 4/5. Of je contractueel of statutair bent of hoelang je al in dienst bent, maakt niet uit.",
+        "deadline": "Vraag aan ten vroegste 6 maanden voor en ten laatste 2 maanden na de start; ben je te laat, dan loopt het pas vanaf de verzenddatum van je volledige aanvraag.",
+        "amount": "Per maand: 637,44 euro netto als je stopt met werken; 306,65 euro netto (alleenwonend) of 259,09 / 240,58 euro netto (samenwonend, jonger / ouder dan 50) bij halftijds; 146,08 euro netto bij 4/5. Alleenstaande ouders: 367,98 euro netto (halftijds) of 223,02 euro netto (4/5)",
+        "requirements": [],
+        "steps": [
+          "Meld je werkgever dat je Vlaams zorgkrediet wil opnemen; je werkgever start de aanvraag in het WSE-loket",
+          "Je krijgt een e-mail, meldt je aan, vult je gegevens, je IBAN en het document voor je motief aan, en dient in",
+          "Vraag aan in periodes van 3 tot 12 maanden (1 tot 3 maanden bij palliatieve zorg), telkens met een nieuwe aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Crédit-soins flamand (Vlaams zorgkrediet) pour le secteur public flamand",
+        "desc": "Si vous travaillez dans le secteur public flamand (administration flamande, enseignement flamand, communes, CPAS et provinces flamands, et quelques autres organismes comme la VGC et la VRT), vous pouvez arrêter ou réduire le travail pour vous occuper de votre enfant jusqu'à 12 ans, d'un enfant handicapé, d'un proche gravement malade, d'une personne en soins palliatifs, ou pour suivre une formation reconnue, avec une allocation mensuelle. Sur toute votre carrière, vous avez droit au maximum à 18 mois à temps plein, 36 mois à mi-temps ou 90 mois à 4/5. Que vous soyez contractuel ou statutaire, ou votre ancienneté, ne compte pas.",
+        "deadline": "Demandez au plus tôt 6 mois avant et au plus tard 2 mois après le début ; en cas de retard, il ne court qu'à partir de la date d'envoi de votre demande complète.",
+        "amount": "Par mois : 637,44 € net si vous arrêtez de travailler ; 306,65 € net (isolé) ou 259,09 / 240,58 € net (cohabitant, moins / plus de 50 ans) à mi-temps ; 146,08 € net à 4/5. Parents isolés : 367,98 € net (mi-temps) ou 223,02 € net (4/5)",
+        "requirements": [],
+        "steps": [
+          "Informez votre employeur que vous souhaitez prendre le crédit-soins ; il lance la demande dans le WSE-loket",
+          "Vous recevez un e-mail, vous vous connectez, complétez vos données, votre IBAN et le document lié à votre motif, puis envoyez",
+          "Demandez par périodes de 3 à 12 mois (1 à 3 mois pour les soins palliatifs), chaque fois avec une nouvelle demande"
+        ]
+      },
+      "de": {
+        "title": "Flämischer Pflegekredit (Vlaams zorgkrediet) für den flämischen öffentlichen Dienst",
+        "desc": "Wenn Sie im flämischen öffentlichen Dienst arbeiten (flämische Verwaltung, flämisches Unterrichtswesen, flämische Gemeinden, ÖSHZ und Provinzen sowie einige andere Einrichtungen wie VGC und VRT), können Sie die Arbeit unterbrechen oder reduzieren, um Ihr Kind bis 12 Jahre, ein Kind mit Behinderung, einen schwer kranken Angehörigen oder jemanden in Palliativpflege zu betreuen oder eine anerkannte Ausbildung zu machen, mit einer monatlichen Zulage. Über die gesamte Laufbahn haben Sie höchstens 18 Monate Vollzeit, 36 Monate Halbzeit oder 90 Monate 4/5. Ob Sie vertraglich oder statutarisch beschäftigt sind und wie lange schon, spielt keine Rolle.",
+        "deadline": "Beantragen Sie frühestens 6 Monate vor und spätestens 2 Monate nach dem Beginn; bei Verspätung gilt er erst ab dem Versanddatum Ihres vollständigen Antrags.",
+        "amount": "Pro Monat: 637,44 € netto bei vollständiger Unterbrechung; 306,65 € netto (alleinlebend) oder 259,09 / 240,58 € netto (zusammenlebend, unter / über 50) bei Halbzeit; 146,08 € netto bei 4/5. Alleinerziehende: 367,98 € netto (Halbzeit) oder 223,02 € netto (4/5)",
+        "requirements": [],
+        "steps": [
+          "Teilen Sie Ihrem Arbeitgeber mit, dass Sie den Pflegekredit nehmen möchten; er startet den Antrag im WSE-loket",
+          "Sie erhalten eine E-Mail, melden sich an, ergänzen Ihre Daten, Ihre IBAN und das Dokument zu Ihrem Motiv und reichen ein",
+          "Beantragen Sie Zeiträume von 3 bis 12 Monaten (1 bis 3 Monate bei Palliativpflege), jeweils mit neuem Antrag"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.vlaanderen.be/werken/verlof-en-tijdelijk-minder-werken/vlaams-zorgkrediet/wie-komt-in-aanmerking-voor-vlaams-zorgkrediet",
+      "conditions": {
+        "en": [
+          "You work in the Flemish public sector (Flemish government services, Flemish education, Flemish local or provincial authorities, or one of the specific bodies listed); De Lijn staff are excluded.",
+          "You use the time for one motive: caring for your child up to 12, for a child with a disability, for a seriously ill household member or relative up to the second degree, palliative care, or a training organised, subsidised or recognised by the Flemish government.",
+          "4/5 is only possible if you normally work full-time."
+        ],
+        "nl": [
+          "Je werkt in de Vlaamse openbare sector (diensten van de Vlaamse overheid, Vlaams onderwijs, Vlaamse lokale of provinciale besturen, of een van de opgesomde specifieke instellingen); personeel van De Lijn valt erbuiten.",
+          "Je gebruikt de tijd voor één motief: zorg voor je kind tot en met 12 jaar, voor een kind met een handicap, voor een zwaar ziek gezinslid of familielid tot de tweede graad, palliatieve zorg, of een opleiding georganiseerd, gesubsidieerd of erkend door de Vlaamse overheid.",
+          "4/5 is alleen mogelijk als je volgens je arbeidsovereenkomst voltijds werkt."
+        ],
+        "fr": [
+          "Vous travaillez dans le secteur public flamand (services de l'administration flamande, enseignement flamand, pouvoirs locaux ou provinciaux flamands, ou l'un des organismes spécifiques énumérés) ; le personnel de De Lijn en est exclu.",
+          "Vous utilisez ce temps pour un motif : soins à votre enfant jusqu'à 12 ans, à un enfant handicapé, à un membre du ménage ou parent jusqu'au deuxième degré gravement malade, soins palliatifs, ou une formation organisée, subventionnée ou reconnue par le gouvernement flamand.",
+          "Le 4/5 n'est possible que si vous travaillez normalement à temps plein."
+        ],
+        "de": [
+          "Sie arbeiten im flämischen öffentlichen Dienst (Dienste der flämischen Verwaltung, flämisches Unterrichtswesen, flämische Lokal- oder Provinzbehörden oder eine der aufgeführten Einrichtungen); Personal von De Lijn ist ausgenommen.",
+          "Sie nutzen die Zeit für ein Motiv: Betreuung Ihres Kindes bis 12 Jahre, eines Kindes mit Behinderung, eines schwer kranken Haushaltsmitglieds oder Verwandten bis zum zweiten Grad, Palliativpflege oder eine von der flämischen Regierung organisierte, bezuschusste oder anerkannte Ausbildung.",
+          "4/5 ist nur möglich, wenn Sie laut Vertrag Vollzeit arbeiten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 300,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Zorgkas (Vlaamse sociale bescherming)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.departementzorg.be/nl/mobiliteitshulpmiddelen",
+    "amount_source_url": "https://www.departementzorg.be/nl/hoeveel-kost-uw-mobiliteitshulpmiddel",
+    "content": {
+      "en": {
+        "title": "Mobility Aids (Wheelchair, Scooter) via Flemish Social Protection",
+        "desc": "If you need an aid to get around for a long time or permanently because of a chronic illness, old age or a disability, the Flemish social protection pays a large part of buying or renting it, such as a wheelchair, scooter or tricycle. It pays a fixed amount for a purchase (for every type there are models fully covered), the full rent if you must rent, and a fixed amount for maintenance and repairs. Age is not a condition. It is not for short-term needs such as crutches after a broken leg: your health fund lends those.",
+        "deadline": "No deadline. Checks usually take 10 to 20 working days.",
+        "amount": "Fixed reimbursement per type of aid (see the official product list); full rent if you must rent; you pay only supplements for more expensive models",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription from your doctor or a wheelchair advice team report"
+          }
+        ],
+        "steps": [
+          "Get a prescription from your GP, or a report from a wheelchair advice team for more advanced aids",
+          "Take it to a recognised supplier of mobility aids, who proposes a suitable aid and fills in the application with you",
+          "The supplier sends the application to your zorgkas; you receive a letter with the decision and the supplier delivers the aid"
+        ]
+      },
+      "nl": {
+        "title": "Mobiliteitshulpmiddelen via de Vlaamse sociale bescherming",
+        "desc": "Heb je door een chronische ziekte, ouderdom of een beperking lange tijd of blijvend een hulpmiddel nodig om je te verplaatsen, dan betaalt de Vlaamse sociale bescherming een groot deel van de aankoop of huur, zoals een rolstoel, scooter of driewielfiets. Ze betaalt een vast bedrag bij aankoop (voor elk type zijn er modellen die volledig gedekt zijn), de volledige huurprijs als je moet huren, en een vast bedrag voor onderhoud en herstellingen. Leeftijd is geen voorwaarde. Het is niet voor tijdelijk gebruik, zoals krukken na een beenbreuk: die leen je via je ziekenfonds.",
+        "deadline": "Geen deadline. De controles duren doorgaans 10 tot 20 werkdagen.",
+        "amount": "Vaste tegemoetkoming per type hulpmiddel (zie de officiële productenlijst); volledige huurprijs als je moet huren; je betaalt alleen supplementen voor duurdere modellen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Voorschrift van je arts of rapport van een rolstoeladviesteam"
+          }
+        ],
+        "steps": [
+          "Haal een voorschrift bij je huisarts, of een rapport van een rolstoeladviesteam voor meer geavanceerde hulpmiddelen",
+          "Ga ermee naar een erkend verstrekker van mobiliteitshulpmiddelen, die een passend hulpmiddel voorstelt en samen met jou de aanvraag invult",
+          "De verstrekker stuurt de aanvraag naar je zorgkas; je krijgt een brief met de beslissing en de verstrekker bezorgt het hulpmiddel"
+        ]
+      },
+      "fr": {
+        "title": "Aides à la mobilité (fauteuil roulant, scooter) via la protection sociale flamande",
+        "desc": "Si, à cause d'une maladie chronique, de l'âge ou d'un handicap, vous avez besoin longtemps ou durablement d'une aide pour vous déplacer, la protection sociale flamande paie une grande partie de l'achat ou de la location, par exemple un fauteuil roulant, un scooter ou un tricycle. Elle paie un montant fixe à l'achat (pour chaque type, des modèles sont entièrement couverts), la totalité du loyer si vous devez louer, et un montant fixe pour l'entretien et les réparations. L'âge n'est pas une condition. Ce n'est pas pour un besoin temporaire, comme des béquilles après une fracture : votre mutualité les prête.",
+        "deadline": "Pas de délai. Les vérifications prennent généralement 10 à 20 jours ouvrables.",
+        "amount": "Intervention fixe par type d'aide (voir la liste officielle des produits) ; loyer complet si vous devez louer ; vous ne payez que les suppléments pour des modèles plus chers",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Prescription de votre médecin ou rapport d'une équipe de conseil en fauteuil roulant"
+          }
+        ],
+        "steps": [
+          "Obtenez une prescription de votre généraliste, ou un rapport d'une équipe de conseil en fauteuil roulant pour des aides plus avancées",
+          "Rendez-vous chez un fournisseur agréé d'aides à la mobilité, qui propose une aide adaptée et remplit la demande avec vous",
+          "Le fournisseur envoie la demande à votre zorgkas ; vous recevez une lettre avec la décision et le fournisseur livre l'aide"
+        ]
+      },
+      "de": {
+        "title": "Mobilitätshilfen (Rollstuhl, Scooter) über den flämischen Sozialschutz",
+        "desc": "Wenn Sie wegen einer chronischen Krankheit, des Alters oder einer Behinderung lange oder dauerhaft ein Hilfsmittel zur Fortbewegung brauchen, zahlt der flämische Sozialschutz einen großen Teil von Kauf oder Miete, etwa für einen Rollstuhl, Scooter oder ein Dreirad. Er zahlt einen festen Betrag beim Kauf (für jeden Typ gibt es vollständig gedeckte Modelle), die volle Miete, wenn Sie mieten müssen, und einen festen Betrag für Wartung und Reparaturen. Das Alter ist keine Bedingung. Nicht für kurzfristigen Bedarf wie Krücken nach einem Beinbruch: Diese verleiht Ihre Krankenkasse.",
+        "deadline": "Keine Frist. Die Prüfung dauert in der Regel 10 bis 20 Werktage.",
+        "amount": "Feste Erstattung je Hilfsmitteltyp (siehe offizielle Produktliste); volle Miete, wenn Sie mieten müssen; Sie zahlen nur Aufpreise für teurere Modelle",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Rezept Ihres Arztes oder Bericht eines Rollstuhl-Beratungsteams"
+          }
+        ],
+        "steps": [
+          "Holen Sie ein Rezept beim Hausarzt oder einen Bericht eines Rollstuhl-Beratungsteams für komplexere Hilfsmittel",
+          "Gehen Sie damit zu einem anerkannten Anbieter von Mobilitätshilfen, der ein passendes Hilfsmittel vorschlägt und den Antrag mit Ihnen ausfüllt",
+          "Der Anbieter schickt den Antrag an Ihre Zorgkas; Sie erhalten einen Brief mit der Entscheidung und der Anbieter liefert das Hilfsmittel"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.departementzorg.be/nl/voorwaarden-om-een-mobiliteitshulpmiddel-te-krijgen",
+      "conditions": {
+        "en": [
+          "A doctor or specialised care provider prescribes the aid because of health problems that limit your mobility for a long time or permanently.",
+          "You are affiliated with the Flemish social protection: you are a member of a zorgkas and have paid the yearly care premium. In the Flemish Region this is compulsory; in Brussels it is optional (otherwise Iriscare may help).",
+          "You cannot apply while staying in a general or rehabilitation hospital; wait until your discharge is arranged."
+        ],
+        "nl": [
+          "Een arts of gespecialiseerde zorgverlener schrijft het hulpmiddel voor omdat gezondheidsproblemen je verplaatsingen lange tijd of blijvend belemmeren.",
+          "Je bent aangesloten bij de Vlaamse sociale bescherming: je bent lid van een zorgkas en betaalde de jaarlijkse zorgpremie. In het Vlaams Gewest is dat verplicht; in Brussel is het vrijwillig (anders kan Iriscare tussenkomen).",
+          "Zolang je in een algemeen of revalidatieziekenhuis verblijft, kan je geen hulpmiddel aanvragen; wacht tot je ontslag geregeld is."
+        ],
+        "fr": [
+          "Un médecin ou un prestataire spécialisé prescrit l'aide parce que des problèmes de santé limitent vos déplacements longtemps ou durablement.",
+          "Vous êtes affilié(e) à la protection sociale flamande : vous êtes membre d'une zorgkas et avez payé la prime de soins annuelle. C'est obligatoire en Région flamande et facultatif à Bruxelles (sinon, Iriscare peut intervenir).",
+          "Vous ne pouvez pas faire de demande pendant un séjour en hôpital général ou de revalidation ; attendez que votre sortie soit organisée."
+        ],
+        "de": [
+          "Ein Arzt oder spezialisierter Leistungserbringer verschreibt das Hilfsmittel, weil gesundheitliche Probleme Ihre Mobilität lange oder dauerhaft einschränken.",
+          "Sie sind dem flämischen Sozialschutz angeschlossen: Sie sind Mitglied einer Zorgkas und haben die jährliche Pflegeprämie gezahlt. In der Flämischen Region ist das Pflicht, in Brüssel freiwillig (sonst kann Iriscare helfen).",
+          "Während eines Aufenthalts in einem allgemeinen oder Reha-Krankenhaus können Sie keinen Antrag stellen; warten Sie, bis Ihre Entlassung geregelt ist."
+        ]
+      }
+    }
   }
 ]
