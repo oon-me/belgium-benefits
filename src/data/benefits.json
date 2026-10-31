@@ -31080,5 +31080,1667 @@
         ]
       }
     }
+  },
+  {
+    "id": 257,
+    "category": "family",
+    "situations": [
+      "children",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/ouderschapsverlof",
+    "amount_source_url": "https://www.rva.be/documentatie/bedragen/loopbaanonderbreking-tijdskrediet/thematische-verloven",
+    "request_url": {
+      "nl": "https://www.socialsecurity.be/citizen/nl/static/applics/breakatwork/index.htm",
+      "fr": "https://www.socialsecurity.be/citizen/fr/static/applics/breakatwork/index.htm"
+    },
+    "content": {
+      "en": {
+        "title": "Parental Leave (Ouderschapsverlof)",
+        "desc": "Each parent can stop or reduce work to care for a child under 12 (under 21 if the child has a disability). Per child you can take 4 months full-time, 8 months half-time, 20 months at 1/5 or, if your employer agrees, 40 months at 1/10, or a mix. The RVA pays a flat-rate monthly allowance. In the private sector your employer cannot refuse it, but can postpone the start.",
+        "deadline": "Tell your employer in writing first. Your application must reach the RVA at the latest 2 months after the leave starts, so the allowance can be paid from the first day.",
+        "amount": "€1,080.08 gross a month full-time, €540.03 half-time, €183.20 for 1/5, €91.60 for 1/10 (private sector, from 1 September 2026); more for single parents",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your employer's part of the application"
+          }
+        ],
+        "steps": [
+          "Tell your employer in writing which form of leave you want and from when",
+          "Apply to the RVA online via Break@Work, or with form C61",
+          "The RVA pays the monthly allowance by bank transfer"
+        ]
+      },
+      "nl": {
+        "title": "Ouderschapsverlof",
+        "desc": "Elke ouder kan het werk onderbreken of verminderen om te zorgen voor een kind jonger dan 12 jaar (jonger dan 21 als het kind een handicap heeft). Per kind kan je 4 maanden voltijds, 8 maanden halftijds, 20 maanden met 1/5 of, als je werkgever akkoord gaat, 40 maanden met 1/10 nemen, of een combinatie. De RVA betaalt een forfaitaire maandelijkse uitkering. In de privésector kan je werkgever het niet weigeren, wel uitstellen.",
+        "deadline": "Laat het eerst schriftelijk weten aan je werkgever. Je aanvraag moet ten laatste 2 maanden na de start van het verlof bij de RVA zijn, zodat de uitkering vanaf de eerste dag betaald kan worden.",
+        "amount": "€1.080,08 bruto per maand voltijds, €540,03 halftijds, €183,20 bij 1/5, €91,60 bij 1/10 (privésector, vanaf 1 september 2026); meer voor alleenstaande ouders",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het deel van de aanvraag dat je werkgever invult"
+          }
+        ],
+        "steps": [
+          "Laat je werkgever schriftelijk weten welke vorm van verlof je wil en vanaf wanneer",
+          "Vraag de uitkering aan bij de RVA, online via Break@Work of met formulier C61",
+          "De RVA stort de maandelijkse uitkering op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Congé parental",
+        "desc": "Chaque parent peut interrompre ou réduire son travail pour s'occuper d'un enfant de moins de 12 ans (moins de 21 ans s'il a un handicap). Par enfant, vous pouvez prendre 4 mois à temps plein, 8 mois à mi-temps, 20 mois à 1/5 ou, avec l'accord de votre employeur, 40 mois à 1/10, ou une combinaison. L'ONEM verse une allocation mensuelle forfaitaire. Dans le secteur privé, votre employeur ne peut pas le refuser, mais peut en reporter le début.",
+        "deadline": "Prévenez d'abord votre employeur par écrit. Votre demande doit parvenir à l'ONEM au plus tard 2 mois après le début du congé, pour que l'allocation soit payée dès le premier jour.",
+        "amount": "1.080,08 € brut par mois à temps plein, 540,03 € à mi-temps, 183,20 € pour 1/5, 91,60 € pour 1/10 (secteur privé, à partir du 1er septembre 2026) ; plus pour les parents isolés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La partie de la demande remplie par votre employeur"
+          }
+        ],
+        "steps": [
+          "Informez votre employeur par écrit de la forme de congé choisie et de la date de début",
+          "Demandez l'allocation à l'ONEM en ligne via Break@Work, ou avec le formulaire C61",
+          "L'ONEM verse l'allocation mensuelle sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Elternurlaub",
+        "desc": "Jeder Elternteil kann die Arbeit unterbrechen oder verringern, um sich um ein Kind unter 12 Jahren zu kümmern (unter 21, wenn das Kind eine Behinderung hat). Pro Kind sind 4 Monate Vollzeit, 8 Monate Halbzeit, 20 Monate mit 1/5 oder, mit Zustimmung des Arbeitgebers, 40 Monate mit 1/10 möglich, auch kombiniert. Das LfA zahlt eine monatliche Pauschalzulage. Im Privatsektor kann der Arbeitgeber ihn nicht verweigern, aber den Beginn verschieben.",
+        "deadline": "Informieren Sie zuerst Ihren Arbeitgeber schriftlich. Ihr Antrag muss spätestens 2 Monate nach Beginn des Urlaubs beim LfA eingehen, damit die Zulage ab dem ersten Tag gezahlt werden kann.",
+        "amount": "1.080,08 € brutto pro Monat Vollzeit, 540,03 € Halbzeit, 183,20 € bei 1/5, 91,60 € bei 1/10 (Privatsektor, ab 1. September 2026); mehr für Alleinerziehende",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Den Teil des Antrags, den Ihr Arbeitgeber ausfüllt"
+          }
+        ],
+        "steps": [
+          "Teilen Sie Ihrem Arbeitgeber schriftlich mit, welche Form des Urlaubs Sie möchten und ab wann",
+          "Beantragen Sie die Zulage beim LfA online über Break@Work oder mit dem Formular C61",
+          "Das LfA überweist die monatliche Zulage auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/ouderschapsverlof",
+      "conditions": {
+        "en": [
+          "You are the child's mother, legal or recognising father, co-mother, adoptive parent, or a foster parent in long-term foster care.",
+          "The child is under 12 when the leave starts, or under 21 with a recognised disability (at least 66%, or enough points on the medical-social scale).",
+          "In the private sector or a local or provincial authority: you worked 12 months for this employer in the 15 months before your request. In the public sector and education, being in active service is enough.",
+          "Half-time and 1/5 leave are only for full-time workers; 1/10 needs your employer's agreement.",
+          "To receive the allowance you live in Belgium, the European Economic Area or Switzerland."
+        ],
+        "nl": [
+          "Je bent de moeder, de wettelijke of erkennende vader, de meemoeder, een adoptieouder of een pleegouder in langdurige pleegzorg van het kind.",
+          "Het kind is jonger dan 12 jaar bij de start van het verlof, of jonger dan 21 met een erkende handicap (minstens 66%, of genoeg punten op de medisch-sociale schaal).",
+          "In de privésector of bij een lokaal of provinciaal bestuur: je was in de 15 maanden voor je aanvraag 12 maanden bij deze werkgever in dienst. In de openbare sector en het onderwijs volstaat het dat je in dienstactiviteit bent.",
+          "Halftijds en 1/5 verlof zijn enkel voor wie voltijds werkt; 1/10 kan alleen met akkoord van je werkgever.",
+          "Om de uitkering te krijgen woon je in België, de Europese Economische Ruimte of Zwitserland."
+        ],
+        "fr": [
+          "Vous êtes la mère, le père légal ou ayant reconnu l'enfant, la coparente, un parent adoptif ou un parent d'accueil en accueil de longue durée.",
+          "L'enfant a moins de 12 ans au début du congé, ou moins de 21 ans avec un handicap reconnu (au moins 66 %, ou assez de points sur l'échelle médico-sociale).",
+          "Dans le secteur privé ou une administration locale ou provinciale : vous avez été 12 mois au service de cet employeur dans les 15 mois précédant la demande. Dans le secteur public et l'enseignement, être en activité de service suffit.",
+          "Le congé à mi-temps et à 1/5 est réservé aux travailleurs à temps plein ; le 1/10 nécessite l'accord de votre employeur.",
+          "Pour recevoir l'allocation, vous habitez en Belgique, dans l'Espace économique européen ou en Suisse."
+        ],
+        "de": [
+          "Sie sind Mutter, gesetzlicher oder anerkennender Vater, Co-Mutter, Adoptivelternteil oder Pflegeelternteil in Langzeitpflege des Kindes.",
+          "Das Kind ist zu Beginn des Urlaubs unter 12 Jahre alt oder unter 21 mit anerkannter Behinderung (mindestens 66 % oder genug Punkte auf der medizinisch-sozialen Skala).",
+          "Im Privatsektor oder bei einer lokalen oder provinzialen Verwaltung: Sie waren in den 15 Monaten vor dem Antrag 12 Monate bei diesem Arbeitgeber beschäftigt. Im öffentlichen Dienst und im Unterrichtswesen genügt es, im aktiven Dienst zu sein.",
+          "Halbzeit- und 1/5-Urlaub gibt es nur für Vollzeitbeschäftigte; 1/10 nur mit Zustimmung des Arbeitgebers.",
+          "Für die Zulage wohnen Sie in Belgien, im Europäischen Wirtschaftsraum oder in der Schweiz."
+        ]
+      }
+    }
+  },
+  {
+    "id": 258,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/palliatief-verlof",
+    "amount_source_url": "https://www.rva.be/documentatie/bedragen/loopbaanonderbreking-tijdskrediet/thematische-verloven",
+    "request_url": {
+      "nl": "https://www.socialsecurity.be/citizen/nl/static/applics/breakatwork/index.htm",
+      "fr": "https://www.socialsecurity.be/citizen/fr/static/applics/breakatwork/index.htm"
+    },
+    "content": {
+      "en": {
+        "title": "Palliative Care Leave (Palliatief verlof)",
+        "desc": "Employees can stop work fully, half-time or by 1/5 to give palliative care to someone with an incurable illness in the terminal phase; the person does not have to be family. Each request covers 1 month and can be extended twice, so up to 3 months per patient. The RVA pays a flat-rate monthly allowance. In the private sector your employer cannot refuse it.",
+        "deadline": "No fixed deadline. Give your employer the doctor's certificate in writing, then apply to the RVA.",
+        "amount": "€1,080.08 gross a month full-time, €540.03 half-time, €183.20 for 1/5 (private sector, from 1 September 2026); more for single parents",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate from the patient's treating doctor"
+          },
+          {
+            "type": "doc",
+            "label": "Your employer's part of the application"
+          }
+        ],
+        "steps": [
+          "Ask the patient's treating doctor for a certificate that you are prepared to give palliative care",
+          "Tell your employer in writing and add the certificate",
+          "Apply to the RVA online via Break@Work, or with form C61",
+          "The RVA pays the monthly allowance by bank transfer"
+        ]
+      },
+      "nl": {
+        "title": "Palliatief verlof",
+        "desc": "Werknemers kunnen het werk volledig, halftijds of met 1/5 onderbreken om palliatieve zorg te geven aan iemand met een ongeneeslijke ziekte in de terminale fase; dat hoeft geen familielid te zijn. Elke aanvraag geldt voor 1 maand en kan twee keer verlengd worden, dus tot 3 maanden per patiënt. De RVA betaalt een forfaitaire maandelijkse uitkering. In de privésector kan je werkgever het niet weigeren.",
+        "deadline": "Geen vaste deadline. Bezorg je werkgever schriftelijk het attest van de arts en vraag daarna de uitkering aan bij de RVA.",
+        "amount": "€1.080,08 bruto per maand voltijds, €540,03 halftijds, €183,20 bij 1/5 (privésector, vanaf 1 september 2026); meer voor alleenstaande ouders",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de behandelend arts van de patiënt"
+          },
+          {
+            "type": "doc",
+            "label": "Het deel van de aanvraag dat je werkgever invult"
+          }
+        ],
+        "steps": [
+          "Vraag de behandelend arts van de patiënt een attest dat je bereid bent palliatieve zorg te geven",
+          "Laat het schriftelijk weten aan je werkgever en voeg het attest toe",
+          "Vraag de uitkering aan bij de RVA, online via Break@Work of met formulier C61",
+          "De RVA stort de maandelijkse uitkering op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Congé pour soins palliatifs",
+        "desc": "Les travailleurs peuvent interrompre leur travail complètement, à mi-temps ou d'1/5 pour donner des soins palliatifs à une personne atteinte d'une maladie incurable en phase terminale ; ce n'est pas forcément un membre de la famille. Chaque demande couvre 1 mois et peut être prolongée deux fois, soit jusqu'à 3 mois par patient. L'ONEM verse une allocation mensuelle forfaitaire. Dans le secteur privé, votre employeur ne peut pas le refuser.",
+        "deadline": "Pas de délai fixe. Remettez par écrit l'attestation du médecin à votre employeur, puis faites la demande à l'ONEM.",
+        "amount": "1.080,08 € brut par mois à temps plein, 540,03 € à mi-temps, 183,20 € pour 1/5 (secteur privé, à partir du 1er septembre 2026) ; plus pour les parents isolés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du médecin traitant du patient"
+          },
+          {
+            "type": "doc",
+            "label": "La partie de la demande remplie par votre employeur"
+          }
+        ],
+        "steps": [
+          "Demandez au médecin traitant du patient une attestation indiquant que vous êtes disposé(e) à donner des soins palliatifs",
+          "Informez votre employeur par écrit en joignant l'attestation",
+          "Demandez l'allocation à l'ONEM en ligne via Break@Work, ou avec le formulaire C61",
+          "L'ONEM verse l'allocation mensuelle sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Urlaub für Palliativpflege",
+        "desc": "Arbeitnehmer können ihre Arbeit ganz, zur Hälfte oder um 1/5 unterbrechen, um einem Menschen mit einer unheilbaren Krankheit im Endstadium Palliativpflege zu geben; das muss kein Familienmitglied sein. Jeder Antrag gilt für 1 Monat und kann zweimal verlängert werden, also bis zu 3 Monate pro Patient. Das LfA zahlt eine monatliche Pauschalzulage. Im Privatsektor kann der Arbeitgeber ihn nicht verweigern.",
+        "deadline": "Keine feste Frist. Geben Sie Ihrem Arbeitgeber schriftlich die ärztliche Bescheinigung und stellen Sie dann den Antrag beim LfA.",
+        "amount": "1.080,08 € brutto pro Monat Vollzeit, 540,03 € Halbzeit, 183,20 € bei 1/5 (Privatsektor, ab 1. September 2026); mehr für Alleinerziehende",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des behandelnden Arztes des Patienten"
+          },
+          {
+            "type": "doc",
+            "label": "Den Teil des Antrags, den Ihr Arbeitgeber ausfüllt"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich vom behandelnden Arzt des Patienten bescheinigen, dass Sie bereit sind, Palliativpflege zu leisten",
+          "Teilen Sie es Ihrem Arbeitgeber schriftlich mit und fügen Sie die Bescheinigung bei",
+          "Beantragen Sie die Zulage beim LfA online über Break@Work oder mit dem Formular C61",
+          "Das LfA überweist die monatliche Zulage auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/palliatief-verlof",
+      "conditions": {
+        "en": [
+          "You are employed by an employer in the private or public sector.",
+          "The patient has an incurable illness and is in the terminal phase; the patient's treating doctor certifies that you are prepared to give palliative care.",
+          "Half-time leave needs at least a 3/4 job; 1/5 leave needs a full-time job.",
+          "At most 3 months per patient (1 month, extended twice by 1 month)."
+        ],
+        "nl": [
+          "Je bent in dienst bij een werkgever uit de privésector of de openbare sector.",
+          "De patiënt heeft een ongeneeslijke ziekte en is terminaal; de behandelend arts van de patiënt attesteert dat je bereid bent palliatieve zorg te geven.",
+          "Halftijds verlof kan vanaf een tewerkstelling van minstens 3/4; verlof met 1/5 enkel als je voltijds werkt.",
+          "Hoogstens 3 maanden per patiënt (1 maand, twee keer verlengd met 1 maand)."
+        ],
+        "fr": [
+          "Vous êtes employé(e) par un employeur du secteur privé ou public.",
+          "Le patient est atteint d'une maladie incurable en phase terminale ; son médecin traitant atteste que vous êtes disposé(e) à donner des soins palliatifs.",
+          "Le congé à mi-temps exige un emploi d'au moins 3/4 ; le congé à 1/5 exige un emploi à temps plein.",
+          "Au maximum 3 mois par patient (1 mois, prolongé deux fois d'1 mois)."
+        ],
+        "de": [
+          "Sie sind bei einem Arbeitgeber des Privatsektors oder des öffentlichen Sektors beschäftigt.",
+          "Der Patient hat eine unheilbare Krankheit im Endstadium; sein behandelnder Arzt bescheinigt, dass Sie bereit sind, Palliativpflege zu leisten.",
+          "Halbzeiturlaub setzt mindestens eine 3/4-Stelle voraus; 1/5-Urlaub eine Vollzeitstelle.",
+          "Höchstens 3 Monate pro Patient (1 Monat, zweimal um 1 Monat verlängert)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 259,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/verlof-voor-medische-bijstand",
+    "amount_source_url": "https://www.rva.be/documentatie/bedragen/loopbaanonderbreking-tijdskrediet/thematische-verloven",
+    "request_url": {
+      "nl": "https://www.socialsecurity.be/citizen/nl/static/applics/breakatwork/index.htm",
+      "fr": "https://www.socialsecurity.be/citizen/fr/static/applics/breakatwork/index.htm"
+    },
+    "content": {
+      "en": {
+        "title": "Leave for Medical Assistance (Verlof voor medische bijstand)",
+        "desc": "Employees can stop work fully, half-time or by 1/5 to assist a seriously ill member of their household or family. Per patient you can take up to 12 months full-time or 24 months part-time, in periods of 1 to 3 months (twice as long for a single parent caring for their own child aged 16 or younger). For a hospitalised child under 18 you can take 1 week, extendable by a second week. The RVA pays a flat-rate monthly allowance.",
+        "deadline": "No fixed deadline. Give your employer the doctor's certificate in writing, then apply to the RVA. Your employer may postpone the start, except for a hospitalised child.",
+        "amount": "€1,080.08 gross a month full-time, €540.03 half-time, €183.20 for 1/5 (private sector, from 1 September 2026); more for single parents",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate from the patient's treating doctor"
+          },
+          {
+            "type": "doc",
+            "label": "Your employer's part of the application"
+          }
+        ],
+        "steps": [
+          "Ask the patient's treating doctor for a certificate that you are prepared to give the assistance the patient needs",
+          "Tell your employer in writing and add the certificate",
+          "Apply to the RVA online via Break@Work, or with form C61",
+          "The RVA pays the monthly allowance by bank transfer"
+        ]
+      },
+      "nl": {
+        "title": "Verlof voor medische bijstand",
+        "desc": "Werknemers kunnen het werk volledig, halftijds of met 1/5 onderbreken om een zwaar ziek gezins- of familielid bij te staan. Per patiënt kan je tot 12 maanden voltijds of 24 maanden deeltijds nemen, in periodes van 1 tot 3 maanden (dubbel zo lang voor een alleenstaande ouder die voor het eigen kind van maximum 16 jaar zorgt). Voor een gehospitaliseerd kind jonger dan 18 kan je 1 week nemen, verlengbaar met een tweede week. De RVA betaalt een forfaitaire maandelijkse uitkering.",
+        "deadline": "Geen vaste deadline. Bezorg je werkgever schriftelijk het attest van de arts en vraag daarna de uitkering aan bij de RVA. Je werkgever mag de start uitstellen, behalve voor een gehospitaliseerd kind.",
+        "amount": "€1.080,08 bruto per maand voltijds, €540,03 halftijds, €183,20 bij 1/5 (privésector, vanaf 1 september 2026); meer voor alleenstaande ouders",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de behandelend arts van de patiënt"
+          },
+          {
+            "type": "doc",
+            "label": "Het deel van de aanvraag dat je werkgever invult"
+          }
+        ],
+        "steps": [
+          "Vraag de behandelend arts van de patiënt een attest dat je bereid bent de nodige bijstand te verlenen",
+          "Laat het schriftelijk weten aan je werkgever en voeg het attest toe",
+          "Vraag de uitkering aan bij de RVA, online via Break@Work of met formulier C61",
+          "De RVA stort de maandelijkse uitkering op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Congé pour assistance médicale",
+        "desc": "Les travailleurs peuvent interrompre leur travail complètement, à mi-temps ou d'1/5 pour assister un membre de leur ménage ou de leur famille gravement malade. Par patient, vous pouvez prendre jusqu'à 12 mois à temps plein ou 24 mois à temps partiel, par périodes de 1 à 3 mois (le double pour un parent isolé qui s'occupe de son enfant de 16 ans maximum). Pour un enfant de moins de 18 ans hospitalisé, vous pouvez prendre 1 semaine, prolongeable d'une seconde. L'ONEM verse une allocation mensuelle forfaitaire.",
+        "deadline": "Pas de délai fixe. Remettez par écrit l'attestation du médecin à votre employeur, puis faites la demande à l'ONEM. L'employeur peut reporter le début, sauf pour un enfant hospitalisé.",
+        "amount": "1.080,08 € brut par mois à temps plein, 540,03 € à mi-temps, 183,20 € pour 1/5 (secteur privé, à partir du 1er septembre 2026) ; plus pour les parents isolés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du médecin traitant du patient"
+          },
+          {
+            "type": "doc",
+            "label": "La partie de la demande remplie par votre employeur"
+          }
+        ],
+        "steps": [
+          "Demandez au médecin traitant du patient une attestation indiquant que vous êtes disposé(e) à apporter l'assistance nécessaire",
+          "Informez votre employeur par écrit en joignant l'attestation",
+          "Demandez l'allocation à l'ONEM en ligne via Break@Work, ou avec le formulaire C61",
+          "L'ONEM verse l'allocation mensuelle sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Urlaub für medizinischen Beistand",
+        "desc": "Arbeitnehmer können ihre Arbeit ganz, zur Hälfte oder um 1/5 unterbrechen, um einem schwer kranken Haushalts- oder Familienmitglied beizustehen. Pro Patient sind bis zu 12 Monate Vollzeit oder 24 Monate Teilzeit möglich, in Abschnitten von 1 bis 3 Monaten (doppelt so lang für Alleinerziehende, die ihr eigenes Kind bis 16 Jahre pflegen). Für ein Kind unter 18 im Krankenhaus ist 1 Woche möglich, um eine zweite Woche verlängerbar. Das LfA zahlt eine monatliche Pauschalzulage.",
+        "deadline": "Keine feste Frist. Geben Sie Ihrem Arbeitgeber schriftlich die ärztliche Bescheinigung und stellen Sie dann den Antrag beim LfA. Der Arbeitgeber kann den Beginn verschieben, außer bei einem Kind im Krankenhaus.",
+        "amount": "1.080,08 € brutto pro Monat Vollzeit, 540,03 € Halbzeit, 183,20 € bei 1/5 (Privatsektor, ab 1. September 2026); mehr für Alleinerziehende",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des behandelnden Arztes des Patienten"
+          },
+          {
+            "type": "doc",
+            "label": "Den Teil des Antrags, den Ihr Arbeitgeber ausfüllt"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich vom behandelnden Arzt des Patienten bescheinigen, dass Sie bereit sind, den nötigen Beistand zu leisten",
+          "Teilen Sie es Ihrem Arbeitgeber schriftlich mit und fügen Sie die Bescheinigung bei",
+          "Beantragen Sie die Zulage beim LfA online über Break@Work oder mit dem Formular C61",
+          "Das LfA überweist die monatliche Zulage auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/verlof-voor-medische-bijstand",
+      "conditions": {
+        "en": [
+          "You are employed by an employer in the private or public sector.",
+          "The patient is seriously ill and lives with you, or is a relative: in the private and local sector, blood relatives up to the 2nd degree and in-laws of the 1st degree (also the parents and children of your legal cohabitant).",
+          "Half-time leave needs at least a 3/4 job; 1/5 leave needs a full-time job. With fewer than 10 employees in the private sector, part-time leave needs your employer's agreement.",
+          "The leave for a hospitalised child under 18 is for a parent who lives with the child, or the person living with and raising the child; it is only possible as a full stop of work."
+        ],
+        "nl": [
+          "Je bent in dienst bij een werkgever uit de privésector of de openbare sector.",
+          "De patiënt is zwaar ziek en woont bij je in, of is familie: in de privésector en lokale besturen bloedverwanten tot de 2de graad en aanverwanten in de 1ste graad (ook de ouders en kinderen van je wettelijk samenwonende partner).",
+          "Halftijds verlof kan vanaf een tewerkstelling van minstens 3/4; 1/5 enkel als je voltijds werkt. Bij een privéwerkgever met minder dan 10 werknemers is deeltijds verlof alleen mogelijk met akkoord van de werkgever.",
+          "Het verlof voor een gehospitaliseerd kind jonger dan 18 is voor een ouder die met het kind samenwoont, of wie met het kind samenwoont en het opvoedt; het kan enkel als volledige onderbreking."
+        ],
+        "fr": [
+          "Vous êtes employé(e) par un employeur du secteur privé ou public.",
+          "Le patient est gravement malade et vit sous votre toit, ou fait partie de votre famille : dans le secteur privé et les pouvoirs locaux, parents par le sang jusqu'au 2e degré et alliés au 1er degré (aussi les parents et enfants de votre cohabitant légal).",
+          "Le congé à mi-temps exige un emploi d'au moins 3/4 ; le 1/5 un emploi à temps plein. Chez un employeur privé de moins de 10 travailleurs, le congé à temps partiel nécessite l'accord de l'employeur.",
+          "Le congé pour un enfant hospitalisé de moins de 18 ans est destiné au parent qui vit avec l'enfant, ou à la personne qui vit avec lui et l'élève ; il n'existe qu'en interruption complète."
+        ],
+        "de": [
+          "Sie sind bei einem Arbeitgeber des Privatsektors oder des öffentlichen Sektors beschäftigt.",
+          "Der Patient ist schwer krank und lebt in Ihrem Haushalt oder ist verwandt: im Privatsektor und bei lokalen Behörden Blutsverwandte bis zum 2. Grad und Verschwägerte 1. Grades (auch Eltern und Kinder Ihres gesetzlich zusammenwohnenden Partners).",
+          "Halbzeiturlaub setzt mindestens eine 3/4-Stelle voraus, 1/5 eine Vollzeitstelle. Bei einem privaten Arbeitgeber mit weniger als 10 Beschäftigten ist Teilzeiturlaub nur mit seiner Zustimmung möglich.",
+          "Der Urlaub für ein Kind unter 18 im Krankenhaus steht einem Elternteil zu, der mit dem Kind zusammenlebt, oder der Person, die mit ihm zusammenlebt und es erzieht; er ist nur als vollständige Unterbrechung möglich."
+        ]
+      }
+    }
+  },
+  {
+    "id": 260,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "children"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/tijdskrediet-privesector/tijdskrediet-met-motief",
+    "amount_source_url": "https://www.rva.be/documentatie/bedragen/loopbaanonderbreking-tijdskrediet/privesector-tijdskrediet",
+    "request_url": {
+      "nl": "https://www.socialsecurity.be/citizen/nl/static/applics/breakatwork/index.htm",
+      "fr": "https://www.socialsecurity.be/citizen/fr/static/applics/breakatwork/index.htm"
+    },
+    "content": {
+      "en": {
+        "title": "Time Credit with a Reason (Tijdskrediet met motief)",
+        "desc": "Private-sector employees can stop work fully, half-time or by 1/5 for a recognised reason: caring for a young child, palliative care, a seriously ill relative or household member, a disabled child under 21, a seriously ill minor child, or a recognised training. Over your career you can take up to 51 months for care reasons and 36 months for training. The RVA pays a flat-rate monthly allowance if you meet its conditions.",
+        "deadline": "Tell your employer in writing every time you ask for time credit or an extension. Each request lasts at least 3 months (6 months for 1/5); for palliative care or a seriously ill relative or child, 1 to 3 months.",
+        "amount": "€660.35 gross a month full-time, €330.16 half-time, €217.42 for 1/5 if you live with other adults (from 1 September 2026); more for 1/5 if you live alone",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of the reason (for example a doctor's certificate or proof of enrolment)"
+          },
+          {
+            "type": "doc",
+            "label": "Your employer's part of the application"
+          }
+        ],
+        "steps": [
+          "Tell your employer in writing which form and reason you choose and from when, with proof of the reason",
+          "Apply to the RVA online via Break@Work",
+          "The RVA pays the monthly allowance by bank transfer"
+        ]
+      },
+      "nl": {
+        "title": "Tijdskrediet met motief",
+        "desc": "Werknemers uit de privésector kunnen het werk volledig, halftijds of met 1/5 onderbreken om een erkende reden: zorgen voor een jong kind, palliatieve zorg, een zwaar ziek familie- of gezinslid, een kind met een handicap jonger dan 21, een zwaar ziek minderjarig kind, of een erkende opleiding. Over je loopbaan kan je tot 51 maanden nemen voor zorg en 36 maanden voor opleiding. De RVA betaalt een forfaitaire maandelijkse uitkering als je aan de voorwaarden voldoet.",
+        "deadline": "Laat het je werkgever schriftelijk weten bij elke aanvraag of verlenging. Elke aanvraag duurt minstens 3 maanden (6 maanden bij 1/5); voor palliatieve zorg of een zwaar ziek familielid of kind 1 tot 3 maanden.",
+        "amount": "€660,35 bruto per maand voltijds, €330,16 halftijds, €217,42 bij 1/5 als je samenwoont (vanaf 1 september 2026); meer bij 1/5 als je alleen woont",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van het motief (bijvoorbeeld een attest van de arts of een inschrijvingsbewijs)"
+          },
+          {
+            "type": "doc",
+            "label": "Het deel van de aanvraag dat je werkgever invult"
+          }
+        ],
+        "steps": [
+          "Laat je werkgever schriftelijk weten welke vorm en welk motief je kiest en vanaf wanneer, met het bewijs van het motief",
+          "Vraag de uitkering aan bij de RVA, online via Break@Work",
+          "De RVA stort de maandelijkse uitkering op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Crédit-temps avec motif",
+        "desc": "Les travailleurs du secteur privé peuvent interrompre leur travail complètement, à mi-temps ou d'1/5 pour un motif reconnu : s'occuper d'un jeune enfant, soins palliatifs, un membre de la famille ou du ménage gravement malade, un enfant handicapé de moins de 21 ans, un enfant mineur gravement malade, ou une formation reconnue. Sur votre carrière, vous pouvez prendre jusqu'à 51 mois pour les motifs de soins et 36 mois pour la formation. L'ONEM verse une allocation mensuelle forfaitaire si vous remplissez ses conditions.",
+        "deadline": "Informez votre employeur par écrit à chaque demande ou prolongation. Chaque demande dure au moins 3 mois (6 mois pour 1/5) ; pour les soins palliatifs ou un proche ou enfant gravement malade, 1 à 3 mois.",
+        "amount": "660,35 € brut par mois à temps plein, 330,16 € à mi-temps, 217,42 € pour 1/5 si vous cohabitez (à partir du 1er septembre 2026) ; plus pour 1/5 si vous vivez seul(e)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve du motif (par exemple une attestation du médecin ou une preuve d'inscription)"
+          },
+          {
+            "type": "doc",
+            "label": "La partie de la demande remplie par votre employeur"
+          }
+        ],
+        "steps": [
+          "Informez votre employeur par écrit de la forme et du motif choisis et de la date de début, avec la preuve du motif",
+          "Demandez l'allocation à l'ONEM en ligne via Break@Work",
+          "L'ONEM verse l'allocation mensuelle sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Zeitkredit mit Motiv",
+        "desc": "Arbeitnehmer im Privatsektor können ihre Arbeit ganz, zur Hälfte oder um 1/5 aus einem anerkannten Grund unterbrechen: Betreuung eines kleinen Kindes, Palliativpflege, ein schwer krankes Familien- oder Haushaltsmitglied, ein Kind mit Behinderung unter 21, ein schwer krankes minderjähriges Kind oder eine anerkannte Ausbildung. Über die Laufbahn sind bis zu 51 Monate für Pflegegründe und 36 Monate für Ausbildung möglich. Das LfA zahlt eine monatliche Pauschalzulage, wenn Sie die Bedingungen erfüllen.",
+        "deadline": "Informieren Sie Ihren Arbeitgeber bei jedem Antrag und jeder Verlängerung schriftlich. Jeder Antrag dauert mindestens 3 Monate (6 Monate bei 1/5); bei Palliativpflege oder einem schwer kranken Angehörigen oder Kind 1 bis 3 Monate.",
+        "amount": "660,35 € brutto pro Monat Vollzeit, 330,16 € Halbzeit, 217,42 € bei 1/5, wenn Sie mit anderen Erwachsenen zusammenwohnen (ab 1. September 2026); mehr bei 1/5 für Alleinwohnende",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis des Motivs (zum Beispiel eine ärztliche Bescheinigung oder ein Einschreibungsnachweis)"
+          },
+          {
+            "type": "doc",
+            "label": "Den Teil des Antrags, den Ihr Arbeitgeber ausfüllt"
+          }
+        ],
+        "steps": [
+          "Teilen Sie Ihrem Arbeitgeber schriftlich Form, Motiv und Beginn mit und legen Sie den Nachweis des Motivs bei",
+          "Beantragen Sie die Zulage beim LfA online über Break@Work",
+          "Das LfA überweist die monatliche Zulage auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/tijdskrediet-privesector/tijdskrediet-met-motief",
+      "conditions": {
+        "en": [
+          "You work for a private-sector employer and have at least 24 months of service with that employer when you notify it in writing (no seniority needed if you continue directly after using up parental leave for all your children).",
+          "For the allowance with the reason 'caring for your child': at least 36 months of service, and the child is under 5 for full-time or under 8 for half-time or 1/5.",
+          "Half-time needs at least a 3/4 job in the previous 12 months; 1/5 needs a full-time job in the previous 12 months, spread over at least 5 days a week unless a collective agreement allows otherwise.",
+          "Full-time or half-time time credit for a young child, palliative care, a seriously ill relative or training is only possible if a sector or company collective agreement provides for it.",
+          "With 10 or fewer employees, time credit needs your employer's agreement; above that it is a right within a quota of simultaneous absences."
+        ],
+        "nl": [
+          "Je werkt bij een werkgever uit de privésector en hebt minstens 24 maanden anciënniteit bij die werkgever op het moment van je schriftelijke kennisgeving (geen anciënniteit nodig als je meteen aansluit op uitgeput ouderschapsverlof voor al je kinderen).",
+          "Voor de uitkering met het motief 'zorgen voor je kind': minstens 36 maanden anciënniteit, en het kind is jonger dan 5 jaar bij voltijds of jonger dan 8 jaar bij halftijds of 1/5.",
+          "Halftijds vraagt minstens een 3/4 tewerkstelling in de 12 voorgaande maanden; 1/5 een voltijdse tewerkstelling in de 12 voorgaande maanden, gespreid over minstens 5 dagen per week tenzij een cao iets anders toelaat.",
+          "Voltijds of halftijds tijdskrediet voor een jong kind, palliatieve zorg, een zwaar ziek familielid of opleiding kan alleen als een sector- of ondernemings-cao het voorziet.",
+          "Bij hoogstens 10 werknemers kan tijdskrediet alleen met akkoord van je werkgever; daarboven is het een recht binnen een quotum van gelijktijdige afwezigheden."
+        ],
+        "fr": [
+          "Vous travaillez pour un employeur du secteur privé et avez au moins 24 mois d'ancienneté chez lui au moment de votre notification écrite (pas d'ancienneté requise si vous enchaînez directement après avoir épuisé le congé parental pour tous vos enfants).",
+          "Pour l'allocation avec le motif « s'occuper de son enfant » : au moins 36 mois d'ancienneté, et l'enfant a moins de 5 ans à temps plein ou moins de 8 ans à mi-temps ou à 1/5.",
+          "Le mi-temps exige un emploi d'au moins 3/4 durant les 12 mois précédents ; le 1/5 un temps plein durant les 12 mois précédents, réparti sur au moins 5 jours par semaine sauf si une CCT permet autre chose.",
+          "Le crédit-temps à temps plein ou à mi-temps pour un jeune enfant, des soins palliatifs, un proche gravement malade ou une formation n'est possible que si une CCT sectorielle ou d'entreprise le prévoit.",
+          "Avec 10 travailleurs au plus, le crédit-temps nécessite l'accord de l'employeur ; au-delà, c'est un droit dans la limite d'un quota d'absences simultanées."
+        ],
+        "de": [
+          "Sie arbeiten bei einem Arbeitgeber des Privatsektors und haben bei der schriftlichen Mitteilung mindestens 24 Monate Dienstzeit bei ihm (keine Dienstzeit nötig, wenn Sie direkt an den ausgeschöpften Elternurlaub für alle Ihre Kinder anschließen).",
+          "Für die Zulage mit dem Motiv „Betreuung Ihres Kindes“: mindestens 36 Monate Dienstzeit, und das Kind ist bei Vollzeit unter 5 oder bei Halbzeit oder 1/5 unter 8 Jahre alt.",
+          "Halbzeit setzt in den 12 Monaten davor mindestens eine 3/4-Stelle voraus; 1/5 eine Vollzeitstelle in den 12 Monaten davor, verteilt auf mindestens 5 Tage pro Woche, sofern kein KAA etwas anderes erlaubt.",
+          "Vollzeit- oder Halbzeit-Zeitkredit für ein kleines Kind, Palliativpflege, einen schwer kranken Angehörigen oder Ausbildung ist nur möglich, wenn ein Sektor- oder Unternehmens-KAA ihn vorsieht.",
+          "Bei höchstens 10 Beschäftigten ist Zeitkredit nur mit Zustimmung des Arbeitgebers möglich; darüber ist er ein Recht innerhalb einer Quote gleichzeitiger Abwesenheiten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 261,
+    "category": "employment",
+    "situations": [
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Werkgelegenheid / SPF Emploi (WASO-ETCS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-12",
+    "content": {
+      "en": {
+        "title": "Paid Leave for Family Events and Civic Duties (Klein verlet)",
+        "desc": "Employees may stay away from work with their normal wage for certain events: 2 days for their own wedding, the day of the wedding of a child, sibling, parent, in-law or grandchild, the day of a child's solemn communion or secular youth celebration, up to 5 days for jury duty or as a witness in court, and the time needed as an assessor in a polling station. Leave when someone close dies is listed separately.",
+        "deadline": "Tell your employer before you are absent; if that is impossible, as soon as you can. For your own wedding, take the 2 days in the week of the wedding or the week after.",
+        "amount": "Your normal wage, paid by your employer",
+        "requirements": [],
+        "steps": [
+          "Tell your employer in advance about the absence and the event",
+          "Use the days only for the event they are granted for"
+        ]
+      },
+      "nl": {
+        "title": "Klein verlet voor familiegebeurtenissen en burgerplichten",
+        "desc": "Werknemers mogen met behoud van hun normale loon afwezig zijn voor bepaalde gebeurtenissen: 2 dagen voor hun eigen huwelijk, de dag van het huwelijk van een kind, broer, zus, ouder, schoonouder of kleinkind, de dag van de plechtige communie of het feest van de vrijzinnige jeugd van een kind, tot 5 dagen als jurylid of getuige voor de rechtbank, en de nodige tijd als bijzitter in een stembureau. Verlof bij een overlijden staat apart vermeld.",
+        "deadline": "Verwittig je werkgever vooraf; als dat niet kan, zo snel mogelijk. Neem de 2 dagen voor je eigen huwelijk in de week van het huwelijk of de week erna.",
+        "amount": "Je normale loon, betaald door je werkgever",
+        "requirements": [],
+        "steps": [
+          "Laat je werkgever vooraf weten dat je afwezig bent en waarom",
+          "Gebruik de dagen alleen voor de gebeurtenis waarvoor ze bedoeld zijn"
+        ]
+      },
+      "fr": {
+        "title": "Petit chômage pour événements familiaux et obligations civiques",
+        "desc": "Les travailleurs peuvent s'absenter en conservant leur rémunération normale pour certains événements : 2 jours pour leur propre mariage, le jour du mariage d'un enfant, d'un frère ou d'une sœur, d'un parent, d'un beau-parent ou d'un petit-enfant, le jour de la communion solennelle ou de la fête de la jeunesse laïque d'un enfant, jusqu'à 5 jours comme juré ou témoin en justice, et le temps nécessaire comme assesseur d'un bureau de vote. Le congé en cas de décès figure séparément.",
+        "deadline": "Prévenez votre employeur à l'avance ; si ce n'est pas possible, dès que possible. Prenez les 2 jours pour votre mariage la semaine du mariage ou la semaine suivante.",
+        "amount": "Votre rémunération normale, payée par votre employeur",
+        "requirements": [],
+        "steps": [
+          "Informez votre employeur à l'avance de l'absence et de l'événement",
+          "Utilisez les jours uniquement pour l'événement prévu"
+        ]
+      },
+      "de": {
+        "title": "Kleiner Urlaub für Familienereignisse und Bürgerpflichten",
+        "desc": "Arbeitnehmer dürfen bei bestimmten Ereignissen mit ihrem normalen Lohn fernbleiben: 2 Tage für die eigene Hochzeit, der Tag der Hochzeit eines Kindes, Geschwisters, Elternteils, Schwiegerelternteils oder Enkelkindes, der Tag der feierlichen Kommunion oder des laizistischen Jugendfestes eines Kindes, bis zu 5 Tage als Geschworener oder Zeuge vor Gericht und die nötige Zeit als Beisitzer in einem Wahlbüro. Urlaub bei einem Todesfall ist getrennt aufgeführt.",
+        "deadline": "Informieren Sie Ihren Arbeitgeber vorher; ist das nicht möglich, so bald wie möglich. Nehmen Sie die 2 Tage für Ihre Hochzeit in der Woche der Hochzeit oder der Woche danach.",
+        "amount": "Ihr normaler Lohn, gezahlt von Ihrem Arbeitgeber",
+        "requirements": [],
+        "steps": [
+          "Teilen Sie Ihrem Arbeitgeber die Abwesenheit und das Ereignis vorher mit",
+          "Nutzen Sie die Tage nur für das vorgesehene Ereignis"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-12",
+      "conditions": {
+        "en": [
+          "You work under an employment contract, in the private or public sector; contract staff of the federal administration have their own rules.",
+          "The event is on the legal list (Royal Decree of 28 August 1963); a legal cohabitant counts as a spouse and a child in long-term foster care as your own child."
+        ],
+        "nl": [
+          "Je werkt met een arbeidsovereenkomst, in de privé- of openbare sector; contractuelen van het federaal administratief openbaar ambt hebben eigen regels.",
+          "De gebeurtenis staat op de wettelijke lijst (KB van 28 augustus 1963); een wettelijk samenwonende partner telt als echtgeno(o)t(e) en een kind in langdurige pleegzorg als je eigen kind."
+        ],
+        "fr": [
+          "Vous travaillez sous contrat de travail, dans le secteur privé ou public ; les contractuels de la fonction publique administrative fédérale ont leurs propres règles.",
+          "L'événement figure sur la liste légale (AR du 28 août 1963) ; le cohabitant légal est assimilé au conjoint et l'enfant en accueil de longue durée à votre propre enfant."
+        ],
+        "de": [
+          "Sie arbeiten mit einem Arbeitsvertrag im Privat- oder öffentlichen Sektor; Vertragsbedienstete der föderalen Verwaltung haben eigene Regeln.",
+          "Das Ereignis steht auf der gesetzlichen Liste (Königlicher Erlass vom 28. August 1963); ein gesetzlich zusammenwohnender Partner gilt als Ehepartner und ein Kind in Langzeitpflege als eigenes Kind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 262,
+    "category": "employment",
+    "situations": [
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Werkgelegenheid / SPF Emploi (WASO-ETCS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-12",
+    "content": {
+      "en": {
+        "title": "Bereavement Leave for Employees (Rouwverlof)",
+        "desc": "When someone close dies, employees may stay away from work with their normal wage: 10 days for a spouse or partner or a child (yours or your partner's), 3 days for a parent, step-parent or parent-in-law, 2 days for a sibling, grandparent, grandchild, great-grandparent, great-grandchild or son- or daughter-in-law who lived with you, and 1 day if they did not live with you.",
+        "deadline": "For a partner or child: 3 days between the death and the funeral, and 7 days to choose within a year of the death. For a parent: 3 days between the death and the funeral. Other relatives: the days around the funeral.",
+        "amount": "Your normal wage, paid by your employer",
+        "requirements": [],
+        "steps": [
+          "Tell your employer about the death and your absence as soon as you can",
+          "Choose your days within the periods allowed; you can move them with your employer's agreement"
+        ]
+      },
+      "nl": {
+        "title": "Rouwverlof voor werknemers",
+        "desc": "Bij het overlijden van een naaste mogen werknemers met behoud van hun normale loon afwezig zijn: 10 dagen voor een echtgeno(o)t(e) of partner of een kind (van jou of je partner), 3 dagen voor een ouder, stiefouder of schoonouder, 2 dagen voor een broer, zus, grootouder, kleinkind, overgrootouder, achterkleinkind, schoonzoon of schoondochter die bij je inwoonde, en 1 dag als die niet bij je inwoonde.",
+        "deadline": "Voor een partner of kind: 3 dagen tussen het overlijden en de begrafenis, en 7 dagen naar keuze binnen het jaar na het overlijden. Voor een ouder: 3 dagen tussen het overlijden en de begrafenis. Andere familieleden: de dagen rond de begrafenis.",
+        "amount": "Je normale loon, betaald door je werkgever",
+        "requirements": [],
+        "steps": [
+          "Laat je werkgever zo snel mogelijk weten dat er een overlijden is en dat je afwezig bent",
+          "Kies je dagen binnen de toegelaten periodes; met akkoord van je werkgever kan je ervan afwijken"
+        ]
+      },
+      "fr": {
+        "title": "Congé de deuil pour les travailleurs",
+        "desc": "En cas de décès d'un proche, les travailleurs peuvent s'absenter en conservant leur rémunération normale : 10 jours pour un conjoint ou partenaire ou un enfant (le vôtre ou celui de votre partenaire), 3 jours pour un parent, beau-parent ou parent de votre partenaire, 2 jours pour un frère, une sœur, un grand-parent, un petit-enfant, un arrière-grand-parent, un arrière-petit-enfant, un gendre ou une belle-fille qui habitait chez vous, et 1 jour s'il n'habitait pas chez vous.",
+        "deadline": "Pour un partenaire ou un enfant : 3 jours entre le décès et les funérailles, et 7 jours au choix dans l'année du décès. Pour un parent : 3 jours entre le décès et les funérailles. Autres proches : les jours autour des funérailles.",
+        "amount": "Votre rémunération normale, payée par votre employeur",
+        "requirements": [],
+        "steps": [
+          "Informez votre employeur du décès et de votre absence dès que possible",
+          "Choisissez vos jours dans les périodes prévues ; avec l'accord de votre employeur, vous pouvez y déroger"
+        ]
+      },
+      "de": {
+        "title": "Trauerurlaub für Arbeitnehmer",
+        "desc": "Beim Tod eines nahestehenden Menschen dürfen Arbeitnehmer mit ihrem normalen Lohn fernbleiben: 10 Tage für Ehe- oder Lebenspartner oder ein Kind (Ihres oder das Ihres Partners), 3 Tage für einen Elternteil, Stief- oder Schwiegerelternteil, 2 Tage für Geschwister, Großeltern, Enkel, Urgroßeltern, Urenkel, Schwiegersohn oder -tochter, die bei Ihnen wohnten, und 1 Tag, wenn sie nicht bei Ihnen wohnten.",
+        "deadline": "Für Partner oder Kind: 3 Tage zwischen Tod und Beerdigung und 7 Tage nach Wahl innerhalb eines Jahres nach dem Tod. Für einen Elternteil: 3 Tage zwischen Tod und Beerdigung. Andere Angehörige: die Tage rund um die Beerdigung.",
+        "amount": "Ihr normaler Lohn, gezahlt von Ihrem Arbeitgeber",
+        "requirements": [],
+        "steps": [
+          "Teilen Sie Ihrem Arbeitgeber den Todesfall und Ihre Abwesenheit so bald wie möglich mit",
+          "Wählen Sie Ihre Tage innerhalb der erlaubten Zeiträume; mit Zustimmung des Arbeitgebers sind Abweichungen möglich"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-12",
+      "conditions": {
+        "en": [
+          "You work under an employment contract, in the private or public sector; contract staff of the federal administration have their own rules.",
+          "For a death, both a legal and a de facto cohabiting partner count as a spouse; a child in long-term foster care counts as your own child."
+        ],
+        "nl": [
+          "Je werkt met een arbeidsovereenkomst, in de privé- of openbare sector; contractuelen van het federaal administratief openbaar ambt hebben eigen regels.",
+          "Bij een overlijden tellen zowel een wettelijk als een feitelijk samenwonende partner als echtgeno(o)t(e); een kind in langdurige pleegzorg telt als je eigen kind."
+        ],
+        "fr": [
+          "Vous travaillez sous contrat de travail, dans le secteur privé ou public ; les contractuels de la fonction publique administrative fédérale ont leurs propres règles.",
+          "En cas de décès, le cohabitant légal comme le cohabitant de fait sont assimilés au conjoint ; un enfant en accueil de longue durée est assimilé à votre enfant."
+        ],
+        "de": [
+          "Sie arbeiten mit einem Arbeitsvertrag im Privat- oder öffentlichen Sektor; Vertragsbedienstete der föderalen Verwaltung haben eigene Regeln.",
+          "Bei einem Todesfall gelten gesetzlich und faktisch zusammenwohnende Partner als Ehepartner; ein Kind in Langzeitpflege gilt als eigenes Kind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 263,
+    "category": "employment",
+    "situations": [
+      "employee",
+      "job-loss"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Werkgelegenheid / SPF Emploi (WASO-ETCS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-3",
+    "content": {
+      "en": {
+        "title": "Paid Time Off to Look for a Job During Notice (Sollicitatieverlof)",
+        "desc": "While you work out a notice period, you may take time off with your normal wage to look for a new job, whether you were dismissed or resigned. In the last 26 weeks of the notice you may be absent 1 day or 2 half-days a week, before that half a day a week. If you follow outplacement, it is 1 day a week for the whole notice. Part-time workers get it in proportion.",
+        "deadline": "Only during the notice period you actually work.",
+        "amount": "Your normal wage, paid by your employer",
+        "requirements": [],
+        "steps": [
+          "Agree with your employer when you will be absent",
+          "Use the time only to look for a new job"
+        ]
+      },
+      "nl": {
+        "title": "Sollicitatieverlof tijdens de opzeggingstermijn",
+        "desc": "Terwijl je een opzeggingstermijn presteert, mag je met behoud van loon afwezig zijn om een nieuwe job te zoeken, zowel bij ontslag als wanneer je zelf opzegt. In de laatste 26 weken van de opzegging mag je 1 dag of 2 halve dagen per week afwezig zijn, daarvoor een halve dag per week. Volg je outplacement, dan is het 1 dag per week tijdens de hele opzegging. Deeltijdse werknemers krijgen het in verhouding.",
+        "deadline": "Enkel tijdens de opzeggingstermijn die je presteert.",
+        "amount": "Je normale loon, betaald door je werkgever",
+        "requirements": [],
+        "steps": [
+          "Spreek met je werkgever af wanneer je afwezig bent",
+          "Gebruik de tijd alleen om een nieuwe job te zoeken"
+        ]
+      },
+      "fr": {
+        "title": "Congé de sollicitation pendant le préavis",
+        "desc": "Pendant que vous prestez un préavis, vous pouvez vous absenter en conservant votre rémunération pour chercher un nouvel emploi, que vous ayez été licencié(e) ou que vous ayez démissionné. Durant les 26 dernières semaines du préavis, vous pouvez vous absenter 1 jour ou 2 demi-jours par semaine, avant cela un demi-jour par semaine. Si vous suivez un outplacement, c'est 1 jour par semaine pendant tout le préavis. Les travailleurs à temps partiel y ont droit au prorata.",
+        "deadline": "Uniquement pendant le préavis presté.",
+        "amount": "Votre rémunération normale, payée par votre employeur",
+        "requirements": [],
+        "steps": [
+          "Convenez avec votre employeur des moments d'absence",
+          "Utilisez ce temps uniquement pour chercher un nouvel emploi"
+        ]
+      },
+      "de": {
+        "title": "Bewerbungsurlaub während der Kündigungsfrist",
+        "desc": "Während Sie eine Kündigungsfrist arbeiten, dürfen Sie mit Lohnfortzahlung fernbleiben, um eine neue Stelle zu suchen, ob Ihnen gekündigt wurde oder Sie selbst gekündigt haben. In den letzten 26 Wochen der Frist dürfen Sie 1 Tag oder 2 halbe Tage pro Woche fehlen, davor einen halben Tag pro Woche. Mit Outplacement ist es während der gesamten Frist 1 Tag pro Woche. Teilzeitbeschäftigte haben anteilig Anspruch.",
+        "deadline": "Nur während der Kündigungsfrist, die Sie arbeiten.",
+        "amount": "Ihr normaler Lohn, gezahlt von Ihrem Arbeitgeber",
+        "requirements": [],
+        "steps": [
+          "Vereinbaren Sie mit Ihrem Arbeitgeber, wann Sie fehlen",
+          "Nutzen Sie die Zeit nur für die Stellensuche"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-3",
+      "conditions": {
+        "en": [
+          "You have an employment contract and work out a notice period, after dismissal by your employer or your own resignation."
+        ],
+        "nl": [
+          "Je hebt een arbeidsovereenkomst en presteert een opzeggingstermijn, na ontslag door je werkgever of na je eigen opzegging."
+        ],
+        "fr": [
+          "Vous avez un contrat de travail et prestez un préavis, après un licenciement ou votre propre démission."
+        ],
+        "de": [
+          "Sie haben einen Arbeitsvertrag und arbeiten eine Kündigungsfrist, nach Kündigung durch den Arbeitgeber oder nach eigener Kündigung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 264,
+    "category": "family",
+    "situations": [
+      "children",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/pleegouderverlof-voor-werknemers",
+    "content": {
+      "en": {
+        "title": "Foster Parent Leave for Employees (Pleegouderverlof)",
+        "desc": "Employees who take in a minor child in long-term foster care (planned for at least 6 months) can take up to 6 weeks of leave, plus 4 weeks if you foster alone or 4 weeks to share between two foster parents. The leave doubles for a child with a disability and adds 2 weeks if you take in several children at once. Your employer pays the first 3 days; then your health fund pays 82% of your capped gross wage.",
+        "deadline": "Start at the earliest the day after the child is registered at your address and at the latest 12 months later. Take whole weeks in one continuous block.",
+        "amount": "Your employer pays the first 3 days; then 82% of your gross daily wage (capped) from your health fund",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Document showing the child's placement with you"
+          }
+        ],
+        "steps": [
+          "Ask your health fund for the foster parent leave form and add the placement document (and a disability certificate if relevant)",
+          "Fill in the 'beneficiary' part of the information sheet your health fund sends you",
+          "Your health fund starts paying within 30 days of receiving your application"
+        ]
+      },
+      "nl": {
+        "title": "Pleegouderverlof voor werknemers",
+        "desc": "Werknemers die een minderjarig kind opvangen in langdurige pleegzorg (voorzien voor minstens 6 maanden) kunnen tot 6 weken verlof nemen, plus 4 weken als je alleen pleegouder bent of 4 weken te verdelen tussen twee pleegouders. Het verlof verdubbelt voor een kind met een handicap en er komen 2 weken bij als je meerdere kinderen tegelijk opvangt. Je werkgever betaalt de eerste 3 dagen; daarna betaalt je ziekenfonds 82% van je begrensde brutoloon.",
+        "deadline": "Ten vroegste de dag na de inschrijving van het kind op je adres en ten laatste 12 maanden later. Neem volledige weken in één aaneengesloten periode.",
+        "amount": "Je werkgever betaalt de eerste 3 dagen; daarna 82% van je brutodagloon (begrensd) via je ziekenfonds",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Document waaruit de plaatsing van het pleegkind bij jou blijkt"
+          }
+        ],
+        "steps": [
+          "Vraag de vergoeding aan bij je ziekenfonds met het formulier en voeg het plaatsingsdocument toe (en een attest van de handicap, indien van toepassing)",
+          "Vul het luik 'gerechtigde' in van het inlichtingenblad dat je ziekenfonds je stuurt",
+          "Je ziekenfonds begint te betalen binnen 30 dagen na ontvangst van je aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Congé parental d'accueil pour les travailleurs",
+        "desc": "Les travailleurs qui accueillent un enfant mineur en accueil familial de longue durée (prévu pour au moins 6 mois) peuvent prendre jusqu'à 6 semaines de congé, plus 4 semaines si vous êtes seul(e) parent d'accueil ou 4 semaines à partager entre deux parents d'accueil. Le congé est doublé pour un enfant handicapé et augmente de 2 semaines si vous accueillez plusieurs enfants en même temps. Votre employeur paie les 3 premiers jours ; ensuite votre mutualité verse 82 % de votre salaire brut plafonné.",
+        "deadline": "Au plus tôt le lendemain de l'inscription de l'enfant à votre adresse et au plus tard 12 mois après. Prenez des semaines complètes en une seule période continue.",
+        "amount": "Votre employeur paie les 3 premiers jours ; ensuite 82 % de votre salaire journalier brut (plafonné) via votre mutualité",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Document attestant le placement de l'enfant chez vous"
+          }
+        ],
+        "steps": [
+          "Demandez l'indemnité à votre mutualité avec le formulaire et joignez le document de placement (et une attestation de handicap le cas échéant)",
+          "Complétez le volet « titulaire » de la feuille de renseignements envoyée par votre mutualité",
+          "Votre mutualité commence à payer dans les 30 jours suivant la réception de votre demande"
+        ]
+      },
+      "de": {
+        "title": "Pflegeelternurlaub für Arbeitnehmer",
+        "desc": "Arbeitnehmer, die ein minderjähriges Kind in Langzeitpflege (für mindestens 6 Monate vorgesehen) aufnehmen, können bis zu 6 Wochen Urlaub nehmen, plus 4 Wochen als alleinige Pflegeperson oder 4 Wochen, die zwei Pflegeeltern aufteilen. Bei einem Kind mit Behinderung verdoppelt sich der Urlaub, bei mehreren gleichzeitig aufgenommenen Kindern kommen 2 Wochen hinzu. Der Arbeitgeber zahlt die ersten 3 Tage; danach zahlt die Krankenkasse 82 % Ihres begrenzten Bruttolohns.",
+        "deadline": "Frühestens am Tag nach der Eintragung des Kindes an Ihrer Adresse und spätestens 12 Monate danach. Nehmen Sie ganze Wochen am Stück.",
+        "amount": "Der Arbeitgeber zahlt die ersten 3 Tage; danach 82 % Ihres Bruttotageslohns (begrenzt) über Ihre Krankenkasse",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Dokument, aus dem die Unterbringung des Kindes bei Ihnen hervorgeht"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Entschädigung bei Ihrer Krankenkasse mit dem Formular und fügen Sie das Unterbringungsdokument bei (gegebenenfalls eine Bescheinigung der Behinderung)",
+          "Füllen Sie den Teil „Berechtigter“ des Auskunftsblatts aus, das Ihnen die Krankenkasse schickt",
+          "Ihre Krankenkasse beginnt innerhalb von 30 Tagen nach Eingang Ihres Antrags zu zahlen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/pleegouderverlof-voor-werknemers",
+      "conditions": {
+        "en": [
+          "You have a full-time or part-time employment contract (not if you are fully unemployed or receive a notice indemnity).",
+          "You take in a minor child in long-term foster care: a placement decision says the child will stay with you for at least 6 months.",
+          "For the allowance you meet the same waiting-period and insurance conditions as for maternity benefit."
+        ],
+        "nl": [
+          "Je hebt een voltijdse of deeltijdse arbeidsovereenkomst (niet als je volledig werkloos bent of een opzeggingsvergoeding krijgt).",
+          "Je vangt een minderjarig kind op in langdurige pleegzorg: een plaatsingsbeslissing bepaalt dat het kind minstens 6 maanden bij je zal verblijven.",
+          "Voor de uitkering voldoe je aan dezelfde voorwaarden voor wachttijd en behoud van recht als voor de moederschapsuitkering."
+        ],
+        "fr": [
+          "Vous avez un contrat de travail à temps plein ou partiel (pas si vous êtes chômeur complet ou percevez une indemnité de préavis).",
+          "Vous accueillez un enfant mineur en accueil de longue durée : une décision de placement prévoit que l'enfant restera au moins 6 mois chez vous.",
+          "Pour l'indemnité, vous remplissez les mêmes conditions de stage et de maintien des droits que pour l'indemnité de maternité."
+        ],
+        "de": [
+          "Sie haben einen Vollzeit- oder Teilzeitarbeitsvertrag (nicht bei Vollarbeitslosigkeit oder Bezug einer Kündigungsentschädigung).",
+          "Sie nehmen ein minderjähriges Kind in Langzeitpflege auf: Eine Unterbringungsentscheidung sieht vor, dass es mindestens 6 Monate bei Ihnen bleibt.",
+          "Für die Entschädigung erfüllen Sie dieselben Wartezeit- und Versicherungsbedingungen wie für die Mutterschaftsentschädigung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 265,
+    "category": "family",
+    "situations": [
+      "children",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/verlof/het-verlof-voor-pleegzorgen",
+    "content": {
+      "en": {
+        "title": "Leave for Foster Care Duties (Verlof voor pleegzorgen)",
+        "desc": "Employees appointed as foster parents may be absent up to 6 days a year for duties linked to the placement: hearings before the courts or authorities, contacts with the child's parents or other important people, and contacts with the foster care service. Other situations count only with a certificate from the placement service. The RVA pays €154.71 for each day of absence. The 6 days are per foster family.",
+        "deadline": "Tell your employer at least 2 weeks in advance (or as soon as possible). Your C61 form must reach the RVA within 2 months after the day of leave.",
+        "amount": "€154.71 per day of absence from the RVA (from 1 September 2026), up to 6 days a year per foster family",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Official decision appointing you as foster parent"
+          },
+          {
+            "type": "doc",
+            "label": "Your employer's part of the application"
+          }
+        ],
+        "steps": [
+          "Tell your employer at least 2 weeks ahead and give the decision appointing you as foster parent",
+          "Fill in part I of form C61 Pleegzorgen; your employer fills in part II",
+          "Send the form, preferably by registered post, to the RVA office for where you live"
+        ]
+      },
+      "nl": {
+        "title": "Verlof voor pleegzorgen",
+        "desc": "Werknemers die aangesteld zijn als pleegouder mogen tot 6 dagen per jaar afwezig zijn voor taken die met de plaatsing te maken hebben: zittingen bij de rechtbank of overheden, contacten met de ouders of andere belangrijke personen voor het kind, en contacten met de dienst voor pleegzorg. Andere situaties tellen alleen met een attest van de plaatsingsdienst. De RVA betaalt €154,71 per dag afwezigheid. De 6 dagen gelden per pleeggezin.",
+        "deadline": "Verwittig je werkgever minstens 2 weken vooraf (of zo snel mogelijk). Je formulier C61 moet binnen 2 maanden na de verlofdag bij de RVA zijn.",
+        "amount": "€154,71 per afwezigheidsdag van de RVA (vanaf 1 september 2026), tot 6 dagen per jaar per pleeggezin",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Officiële beslissing waarin je als pleegouder aangesteld bent"
+          },
+          {
+            "type": "doc",
+            "label": "Het deel van de aanvraag dat je werkgever invult"
+          }
+        ],
+        "steps": [
+          "Verwittig je werkgever minstens 2 weken vooraf en geef de beslissing waarin je als pleegouder aangesteld bent",
+          "Vul deel I van formulier C61 Pleegzorgen in; je werkgever vult deel II in",
+          "Stuur het formulier, liefst aangetekend, naar het RVA-kantoor van je woonplaats"
+        ]
+      },
+      "fr": {
+        "title": "Congé pour soins d'accueil",
+        "desc": "Les travailleurs désignés comme parents d'accueil peuvent s'absenter jusqu'à 6 jours par an pour des tâches liées au placement : audiences devant les tribunaux ou autorités, contacts avec les parents de l'enfant ou d'autres personnes importantes pour lui, et contacts avec le service d'accueil familial. D'autres situations ne comptent qu'avec une attestation du service de placement. L'ONEM verse 154,71 € par jour d'absence. Les 6 jours valent par famille d'accueil.",
+        "deadline": "Prévenez votre employeur au moins 2 semaines à l'avance (ou dès que possible). Votre formulaire C61 doit parvenir à l'ONEM dans les 2 mois suivant le jour de congé.",
+        "amount": "154,71 € par jour d'absence de l'ONEM (à partir du 1er septembre 2026), jusqu'à 6 jours par an par famille d'accueil",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Décision officielle vous désignant comme parent d'accueil"
+          },
+          {
+            "type": "doc",
+            "label": "La partie de la demande remplie par votre employeur"
+          }
+        ],
+        "steps": [
+          "Prévenez votre employeur au moins 2 semaines à l'avance et remettez la décision vous désignant comme parent d'accueil",
+          "Remplissez la partie I du formulaire C61 Soins d'accueil ; votre employeur remplit la partie II",
+          "Envoyez le formulaire, de préférence par recommandé, au bureau de l'ONEM de votre domicile"
+        ]
+      },
+      "de": {
+        "title": "Urlaub für Pflegschaftsaufgaben",
+        "desc": "Arbeitnehmer, die als Pflegeeltern bestellt sind, dürfen bis zu 6 Tage pro Jahr für Aufgaben im Zusammenhang mit der Unterbringung fehlen: Sitzungen bei Gerichten oder Behörden, Kontakte mit den Eltern oder anderen wichtigen Personen des Kindes und Kontakte mit dem Pflegedienst. Andere Situationen zählen nur mit einer Bescheinigung des Unterbringungsdienstes. Das LfA zahlt 154,71 € pro Abwesenheitstag. Die 6 Tage gelten pro Pflegefamilie.",
+        "deadline": "Informieren Sie Ihren Arbeitgeber mindestens 2 Wochen vorher (oder so bald wie möglich). Ihr Formular C61 muss innerhalb von 2 Monaten nach dem Urlaubstag beim LfA eingehen.",
+        "amount": "154,71 € pro Abwesenheitstag vom LfA (ab 1. September 2026), bis zu 6 Tage pro Jahr pro Pflegefamilie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Amtliche Entscheidung über Ihre Bestellung als Pflegeelternteil"
+          },
+          {
+            "type": "doc",
+            "label": "Den Teil des Antrags, den Ihr Arbeitgeber ausfüllt"
+          }
+        ],
+        "steps": [
+          "Informieren Sie Ihren Arbeitgeber mindestens 2 Wochen vorher und legen Sie die Bestellungsentscheidung vor",
+          "Füllen Sie Teil I des Formulars C61 aus; Ihr Arbeitgeber füllt Teil II aus",
+          "Senden Sie das Formular, am besten per Einschreiben, an das LfA-Büro Ihres Wohnorts"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/verlof/het-verlof-voor-pleegzorgen",
+      "conditions": {
+        "en": [
+          "You work under an employment contract (private sector, or contractual staff in the public sector).",
+          "You are officially appointed as foster parent by a court, a recognised foster care service, l'Aide à la Jeunesse or the Comité Bijzondere Jeugdbijstand; the placement can be of a minor or of a person with a disability."
+        ],
+        "nl": [
+          "Je werkt met een arbeidsovereenkomst (privésector, of contractueel personeelslid bij de overheid).",
+          "Je bent officieel aangesteld als pleegouder door een rechtbank, een erkende dienst voor pleegzorg, l'Aide à la Jeunesse of het Comité Bijzondere Jeugdbijstand; het kan gaan om de plaatsing van een minderjarige of van een persoon met een handicap."
+        ],
+        "fr": [
+          "Vous travaillez sous contrat de travail (secteur privé, ou personnel contractuel du secteur public).",
+          "Vous êtes officiellement désigné(e) comme parent d'accueil par un tribunal, un service d'accueil familial agréé, l'Aide à la Jeunesse ou le Comité Bijzondere Jeugdbijstand ; le placement peut concerner un mineur ou une personne handicapée."
+        ],
+        "de": [
+          "Sie arbeiten mit einem Arbeitsvertrag (Privatsektor oder Vertragspersonal im öffentlichen Dienst).",
+          "Sie sind amtlich als Pflegeelternteil bestellt durch ein Gericht, einen anerkannten Pflegedienst, l'Aide à la Jeunesse oder das Comité Bijzondere Jeugdbijstand; untergebracht werden kann ein Minderjähriger oder ein Mensch mit Behinderung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 266,
+    "category": "employment",
+    "situations": [
+      "pregnancy",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Werkgelegenheid / SPF Emploi (WASO-ETCS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof",
+    "content": {
+      "en": {
+        "title": "Paid Time Off for Prenatal Check-ups",
+        "desc": "Once your employer knows you are pregnant, you may be absent from work with your normal wage for the time needed for prenatal medical examinations, including travel time, when they cannot take place outside working hours. It is not a day off: only the time the check-up takes. Postnatal check-ups do not count.",
+        "deadline": "Tell your employer before each absence, or as soon as possible in case of force majeure.",
+        "amount": "Your normal wage, paid by your employer",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate, if your employer or the work rules ask for one"
+          }
+        ],
+        "steps": [
+          "Tell your employer you are pregnant, preferably with a medical certificate sent by registered post or handed over against a receipt",
+          "Tell your employer in advance about each check-up during working hours"
+        ]
+      },
+      "nl": {
+        "title": "Betaalde afwezigheid voor zwangerschapsonderzoeken",
+        "desc": "Zodra je werkgever weet dat je zwanger bent, mag je met behoud van je normale loon afwezig zijn voor de tijd die nodig is voor prenatale medische onderzoeken, inclusief verplaatsing, als ze niet buiten de werkuren kunnen plaatsvinden. Het is geen verlofdag: alleen de tijd die het onderzoek vraagt. Postnatale onderzoeken tellen niet.",
+        "deadline": "Verwittig je werkgever vóór elke afwezigheid, of zo snel mogelijk bij overmacht.",
+        "amount": "Je normale loon, betaald door je werkgever",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Geneeskundig attest, als je werkgever of het arbeidsreglement erom vraagt"
+          }
+        ],
+        "steps": [
+          "Breng je werkgever op de hoogte van je zwangerschap, liefst met een geneeskundig getuigschrift dat je aangetekend stuurt of tegen ontvangstbewijs afgeeft",
+          "Laat je werkgever vooraf weten wanneer je een onderzoek hebt tijdens de werkuren"
+        ]
+      },
+      "fr": {
+        "title": "Absence rémunérée pour examens prénataux",
+        "desc": "Dès que votre employeur sait que vous êtes enceinte, vous pouvez vous absenter en conservant votre rémunération normale pendant le temps nécessaire aux examens médicaux prénataux, déplacement compris, lorsqu'ils ne peuvent pas avoir lieu en dehors des heures de travail. Ce n'est pas un jour de congé : seulement le temps de l'examen. Les examens postnataux ne comptent pas.",
+        "deadline": "Prévenez votre employeur avant chaque absence, ou dès que possible en cas de force majeure.",
+        "amount": "Votre rémunération normale, payée par votre employeur",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical, si votre employeur ou le règlement de travail le demande"
+          }
+        ],
+        "steps": [
+          "Informez votre employeur de votre grossesse, de préférence par un certificat médical envoyé par recommandé ou remis contre accusé de réception",
+          "Prévenez votre employeur à l'avance de chaque examen pendant les heures de travail"
+        ]
+      },
+      "de": {
+        "title": "Bezahlte Abwesenheit für Schwangerschaftsuntersuchungen",
+        "desc": "Sobald Ihr Arbeitgeber von der Schwangerschaft weiß, dürfen Sie mit Ihrem normalen Lohn für die Zeit fehlen, die vorgeburtliche ärztliche Untersuchungen einschließlich Fahrtzeit erfordern, wenn sie nicht außerhalb der Arbeitszeit stattfinden können. Es ist kein Urlaubstag, nur die Zeit der Untersuchung. Nachgeburtliche Untersuchungen zählen nicht.",
+        "deadline": "Informieren Sie Ihren Arbeitgeber vor jeder Abwesenheit oder bei höherer Gewalt so bald wie möglich.",
+        "amount": "Ihr normaler Lohn, gezahlt von Ihrem Arbeitgeber",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung, wenn Ihr Arbeitgeber oder die Arbeitsordnung sie verlangt"
+          }
+        ],
+        "steps": [
+          "Teilen Sie Ihrem Arbeitgeber die Schwangerschaft mit, am besten mit einer ärztlichen Bescheinigung per Einschreiben oder gegen Empfangsbestätigung",
+          "Teilen Sie Ihrem Arbeitgeber jede Untersuchung während der Arbeitszeit vorher mit"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof",
+      "conditions": {
+        "en": [
+          "You are a pregnant employee (private sector, or contractual or statutory public staff; specific rules can apply in the public sector and education) and your employer knows about the pregnancy.",
+          "The examination is prenatal and cannot take place outside working hours."
+        ],
+        "nl": [
+          "Je bent een zwangere werkneemster (privésector, of contractueel of statutair bij de overheid; in de openbare sector en het onderwijs kunnen specifieke regels gelden) en je werkgever weet van de zwangerschap.",
+          "Het onderzoek is prenataal en kan niet buiten de werkuren plaatsvinden."
+        ],
+        "fr": [
+          "Vous êtes une travailleuse enceinte (secteur privé, ou personnel contractuel ou statutaire du secteur public ; des règles spécifiques peuvent s'appliquer dans le public et l'enseignement) et votre employeur est informé de la grossesse.",
+          "L'examen est prénatal et ne peut pas avoir lieu en dehors des heures de travail."
+        ],
+        "de": [
+          "Sie sind eine schwangere Arbeitnehmerin (Privatsektor oder Vertrags- oder statutarisches Personal im öffentlichen Dienst; im öffentlichen Dienst und Unterrichtswesen können besondere Regeln gelten), und Ihr Arbeitgeber weiß von der Schwangerschaft.",
+          "Die Untersuchung ist vorgeburtlich und kann nicht außerhalb der Arbeitszeit stattfinden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 267,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Werkgelegenheid / SPF Emploi (WASO-ETCS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof",
+    "content": {
+      "en": {
+        "title": "Maternity Leave Transferred to the Father or Co-mother",
+        "desc": "If the mother is hospitalised for more than 7 days or dies, the employee entitled to birth leave (the father or co-mother) can take the part of the maternity leave she has not used, to care for the baby. During this leave you receive an allowance through your health fund, and you are protected against dismissal until one month after the leave.",
+        "deadline": "If the mother dies: tell your employer in writing within 7 days of the death. If she is hospitalised: tell your employer in writing before the leave starts; it can start at the earliest on the 7th day after the birth, once the baby has left hospital.",
+        "amount": "Allowance from your health fund for the days of leave",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate that the mother's hospital stay will last at least 7 days (hospitalisation only)"
+          }
+        ],
+        "steps": [
+          "Tell your employer in writing, with the start date and expected length of the leave",
+          "If the mother is hospitalised, give your employer the medical certificate as soon as possible",
+          "Contact your health fund for the allowance"
+        ]
+      },
+      "nl": {
+        "title": "Omgezet moederschapsverlof voor de vader of meemoeder",
+        "desc": "Als de moeder langer dan 7 dagen in het ziekenhuis ligt of overlijdt, kan de werknemer die recht heeft op geboorteverlof (de vader of meemoeder) het deel van het moederschapsverlof opnemen dat zij niet heeft gebruikt, om voor de baby te zorgen. Tijdens dit verlof krijg je een uitkering via je ziekenfonds en ben je beschermd tegen ontslag tot een maand na het verlof.",
+        "deadline": "Bij overlijden van de moeder: verwittig je werkgever schriftelijk binnen 7 dagen na het overlijden. Bij hospitalisatie: verwittig je werkgever schriftelijk vóór het verlof start; het kan ten vroegste ingaan op de 7de dag na de geboorte, als de baby het ziekenhuis verlaten heeft.",
+        "amount": "Uitkering van je ziekenfonds voor de verlofdagen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Geneeskundig getuigschrift dat de hospitalisatie van de moeder minstens 7 dagen duurt (enkel bij hospitalisatie)"
+          }
+        ],
+        "steps": [
+          "Laat het je werkgever schriftelijk weten, met de begindatum en de vermoedelijke duur van het verlof",
+          "Ligt de moeder in het ziekenhuis, bezorg je werkgever dan zo snel mogelijk het geneeskundig getuigschrift",
+          "Neem contact op met je ziekenfonds voor de uitkering"
+        ]
+      },
+      "fr": {
+        "title": "Congé de maternité converti pour le père ou la coparente",
+        "desc": "Si la mère est hospitalisée plus de 7 jours ou décède, le travailleur qui a droit au congé de naissance (le père ou la coparente) peut prendre la partie du congé de maternité qu'elle n'a pas utilisée, pour s'occuper du bébé. Pendant ce congé, vous recevez une indemnité via votre mutualité et êtes protégé(e) contre le licenciement jusqu'à un mois après le congé.",
+        "deadline": "En cas de décès de la mère : prévenez votre employeur par écrit dans les 7 jours suivant le décès. En cas d'hospitalisation : prévenez-le par écrit avant le début du congé ; celui-ci peut commencer au plus tôt le 7e jour après la naissance, une fois le bébé sorti de l'hôpital.",
+        "amount": "Indemnité de votre mutualité pour les jours de congé",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical attestant que l'hospitalisation de la mère durera au moins 7 jours (hospitalisation uniquement)"
+          }
+        ],
+        "steps": [
+          "Informez votre employeur par écrit, avec la date de début et la durée probable du congé",
+          "Si la mère est hospitalisée, remettez le certificat médical à votre employeur dès que possible",
+          "Contactez votre mutualité pour l'indemnité"
+        ]
+      },
+      "de": {
+        "title": "Umgewandelter Mutterschaftsurlaub für Vater oder Co-Mutter",
+        "desc": "Wird die Mutter länger als 7 Tage im Krankenhaus behandelt oder stirbt sie, kann der Arbeitnehmer mit Anspruch auf Geburtsurlaub (Vater oder Co-Mutter) den nicht genutzten Teil des Mutterschaftsurlaubs nehmen, um das Baby zu versorgen. Während dieses Urlaubs erhalten Sie eine Entschädigung über Ihre Krankenkasse und sind bis einen Monat nach dem Urlaub vor Kündigung geschützt.",
+        "deadline": "Beim Tod der Mutter: Informieren Sie Ihren Arbeitgeber innerhalb von 7 Tagen nach dem Tod schriftlich. Bei Krankenhausaufenthalt: schriftlich vor Beginn des Urlaubs; er kann frühestens am 7. Tag nach der Geburt beginnen, wenn das Baby das Krankenhaus verlassen hat.",
+        "amount": "Entschädigung Ihrer Krankenkasse für die Urlaubstage",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung, dass der Krankenhausaufenthalt der Mutter mindestens 7 Tage dauert (nur bei Krankenhausaufenthalt)"
+          }
+        ],
+        "steps": [
+          "Teilen Sie es Ihrem Arbeitgeber schriftlich mit, mit Beginn und voraussichtlicher Dauer des Urlaubs",
+          "Ist die Mutter im Krankenhaus, geben Sie Ihrem Arbeitgeber so bald wie möglich die ärztliche Bescheinigung",
+          "Wenden Sie sich für die Entschädigung an Ihre Krankenkasse"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof",
+      "conditions": {
+        "en": [
+          "You are an employee entitled to birth leave for the child (the father or co-mother).",
+          "The mother has died, or is hospitalised for more than 7 days and the baby has left hospital; in that case the leave ends when the mother leaves hospital.",
+          "You can take at most the part of the maternity leave the mother has not used."
+        ],
+        "nl": [
+          "Je bent werknemer met recht op geboorteverlof voor het kind (de vader of meemoeder).",
+          "De moeder is overleden, of ligt langer dan 7 dagen in het ziekenhuis terwijl de baby het ziekenhuis al verlaten heeft; in dat geval eindigt het verlof wanneer de moeder het ziekenhuis verlaat.",
+          "Je kan hoogstens het deel van het moederschapsverlof opnemen dat de moeder niet gebruikt heeft."
+        ],
+        "fr": [
+          "Vous êtes travailleur ayant droit au congé de naissance pour l'enfant (le père ou la coparente).",
+          "La mère est décédée, ou est hospitalisée plus de 7 jours alors que le bébé a quitté l'hôpital ; dans ce cas, le congé prend fin à la sortie de la mère.",
+          "Vous pouvez prendre au maximum la partie du congé de maternité que la mère n'a pas utilisée."
+        ],
+        "de": [
+          "Sie sind Arbeitnehmer mit Anspruch auf Geburtsurlaub für das Kind (Vater oder Co-Mutter).",
+          "Die Mutter ist gestorben oder länger als 7 Tage im Krankenhaus, während das Baby es bereits verlassen hat; dann endet der Urlaub, wenn die Mutter entlassen wird.",
+          "Sie können höchstens den Teil des Mutterschaftsurlaubs nehmen, den die Mutter nicht genutzt hat."
+        ]
+      }
+    }
+  },
+  {
+    "id": 268,
+    "category": "employment",
+    "situations": [
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM · uitbetalingsinstelling / organisme de paiement",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/verlof/hebt-u-recht-op-de-jeugdvakantie",
+    "content": {
+      "en": {
+        "title": "Youth Holidays After Your Studies (Jeugdvakantie)",
+        "desc": "Young people who start working after their studies have built up little or no paid holiday for the next year. With youth holidays they can top up their holiday to 4 weeks in the following year. For each youth holiday day the RVA pays an allowance of 65% of the gross wage, capped.",
+        "deadline": "Apply after your first month with youth holidays. Your payment institution sends it to the RVA, where it must arrive by February of the year after the holiday year.",
+        "amount": "65% of your gross wage, capped at €3,071.92 a month: at most €76.80 a day (6-day week), with 10.09% tax withheld",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Form C103 Jeugdvakantie - Werknemer"
+          }
+        ],
+        "steps": [
+          "First use up your normal paid holiday, then agree youth holiday days with your employer like normal holidays",
+          "After your first month with youth holidays, hand form C103 to the payment institution of your choice (union or HVW-CAPAC)",
+          "Your employer declares your youth holiday hours electronically each month; your payment institution pays the allowance"
+        ]
+      },
+      "nl": {
+        "title": "Jeugdvakantie na je studies",
+        "desc": "Jongeren die na hun studies beginnen te werken, hebben voor het volgende jaar weinig of geen betaalde vakantie opgebouwd. Met jeugdvakantie kunnen ze hun vakantie het jaar erna aanvullen tot 4 weken. Voor elke dag jeugdvakantie betaalt de RVA een uitkering van 65% van het begrensde brutoloon.",
+        "deadline": "Vraag het aan na je eerste maand met jeugdvakantie. Je uitbetalingsinstelling stuurt het door naar de RVA, waar het ten laatste in februari van het jaar na het vakantiejaar moet zijn.",
+        "amount": "65% van je brutoloon, begrensd op €3.071,92 per maand: hoogstens €76,80 per dag (zesdagenweek), met 10,09% voorheffing",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier C103 Jeugdvakantie - Werknemer"
+          }
+        ],
+        "steps": [
+          "Gebruik eerst je gewone betaalde vakantie op en spreek dan dagen jeugdvakantie af met je werkgever, zoals gewone vakantie",
+          "Dien na je eerste maand met jeugdvakantie formulier C103 in bij de uitbetalingsinstelling van je keuze (vakbond of Hulpkas voor Werkloosheidsuitkeringen)",
+          "Je werkgever geeft je uren jeugdvakantie elke maand elektronisch aan; je uitbetalingsinstelling betaalt de uitkering"
+        ]
+      },
+      "fr": {
+        "title": "Vacances jeunes après vos études",
+        "desc": "Les jeunes qui commencent à travailler après leurs études n'ont constitué que peu ou pas de vacances payées pour l'année suivante. Grâce aux vacances jeunes, ils peuvent compléter leurs vacances jusqu'à 4 semaines l'année suivante. Pour chaque jour de vacances jeunes, l'ONEM verse une allocation de 65 % du salaire brut plafonné.",
+        "deadline": "Faites la demande après votre premier mois de vacances jeunes. Votre organisme de paiement la transmet à l'ONEM, où elle doit arriver au plus tard en février de l'année suivant l'année de vacances.",
+        "amount": "65 % de votre salaire brut, plafonné à 3.071,92 € par mois : au maximum 76,80 € par jour (semaine de 6 jours), avec 10,09 % de précompte",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire C103 Vacances jeunes - Travailleur"
+          }
+        ],
+        "steps": [
+          "Épuisez d'abord vos vacances payées ordinaires, puis convenez des jours de vacances jeunes avec votre employeur comme des vacances ordinaires",
+          "Après votre premier mois de vacances jeunes, remettez le formulaire C103 à l'organisme de paiement de votre choix (syndicat ou CAPAC)",
+          "Votre employeur déclare chaque mois vos heures de vacances jeunes par voie électronique ; votre organisme de paiement verse l'allocation"
+        ]
+      },
+      "de": {
+        "title": "Jugendurlaub nach dem Studium",
+        "desc": "Junge Menschen, die nach dem Studium zu arbeiten beginnen, haben für das Folgejahr wenig oder keinen bezahlten Urlaub angespart. Mit dem Jugendurlaub können sie ihren Urlaub im Folgejahr auf 4 Wochen aufstocken. Für jeden Jugendurlaubstag zahlt das LfA eine Zulage von 65 % des begrenzten Bruttolohns.",
+        "deadline": "Stellen Sie den Antrag nach Ihrem ersten Monat mit Jugendurlaub. Ihre Zahlstelle leitet ihn an das LfA weiter, wo er spätestens im Februar des Jahres nach dem Urlaubsjahr eingehen muss.",
+        "amount": "65 % Ihres Bruttolohns, begrenzt auf 3.071,92 € pro Monat: höchstens 76,80 € pro Tag (6-Tage-Woche), mit 10,09 % Steuervorabzug",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular C103 Jugendurlaub - Arbeitnehmer"
+          }
+        ],
+        "steps": [
+          "Nehmen Sie zuerst Ihren normalen bezahlten Urlaub und vereinbaren Sie dann Jugendurlaubstage wie normalen Urlaub mit Ihrem Arbeitgeber",
+          "Reichen Sie nach Ihrem ersten Monat mit Jugendurlaub das Formular C103 bei der Zahlstelle Ihrer Wahl ein (Gewerkschaft oder HVW-CAPAC)",
+          "Ihr Arbeitgeber meldet Ihre Jugendurlaubsstunden monatlich elektronisch; Ihre Zahlstelle zahlt die Zulage"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/verlof/hebt-u-recht-op-de-jeugdvakantie",
+      "conditions": {
+        "en": [
+          "You were under 25 on 31 December of the year you finished your studies or training.",
+          "After your studies you worked as an employee that same year for at least one month, with at least 13 working days.",
+          "You take the days while employed, after your normal holiday; you receive no other income for those days and did not already get youth holiday allowances in an earlier year."
+        ],
+        "nl": [
+          "Je was jonger dan 25 jaar op 31 december van het jaar waarin je je studies of opleiding beëindigde.",
+          "Na je studies werkte je datzelfde jaar minstens een maand als werknemer, met minstens 13 arbeidsdagen.",
+          "Je neemt de dagen terwijl je werkt, na je gewone vakantie; je krijgt voor die dagen geen ander inkomen en kreeg nog geen jeugdvakantie-uitkeringen in een vorig jaar."
+        ],
+        "fr": [
+          "Vous aviez moins de 25 ans au 31 décembre de l'année où vous avez terminé vos études ou votre formation.",
+          "Après vos études, vous avez travaillé comme salarié(e) la même année pendant au moins un mois, avec au moins 13 jours de travail.",
+          "Vous prenez les jours pendant une occupation, après vos vacances ordinaires ; vous ne percevez pas d'autre revenu pour ces jours et n'avez pas déjà obtenu d'allocations de vacances jeunes une année précédente."
+        ],
+        "de": [
+          "Sie waren am 31. Dezember des Jahres, in dem Sie Studium oder Ausbildung beendet haben, unter 25 Jahre alt.",
+          "Nach dem Studium haben Sie im selben Jahr mindestens einen Monat als Arbeitnehmer gearbeitet, mit mindestens 13 Arbeitstagen.",
+          "Sie nehmen die Tage während einer Beschäftigung nach Ihrem normalen Urlaub; Sie erhalten für diese Tage kein anderes Einkommen und haben in einem früheren Jahr noch keine Jugendurlaubszulage erhalten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 269,
+    "category": "employment",
+    "situations": [
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "RVA-ONEM · uitbetalingsinstelling / organisme de paiement",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://www.rva.be/burgers/verlof/hebt-u-recht-op-seniorvakantie",
+    "content": {
+      "en": {
+        "title": "Senior Holidays When You Return to Work (Seniorvakantie)",
+        "desc": "Employees aged 50 or over who return to work in the private sector after full unemployment or invalidity have built up less than 4 weeks of paid holiday. With senior holidays they can top up their holiday to 4 weeks. For each senior holiday day the RVA pays an allowance of 65% of the gross wage, capped.",
+        "deadline": "Apply each year after your first month with senior holidays. Your payment institution sends it to the RVA, where it must arrive by February of the year after the holiday year.",
+        "amount": "65% of your gross wage, capped at €3,071.92 a month: at most €76.80 a day (6-day week), with 10.09% tax withheld",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Form C103 Seniorvakantie - Werknemer"
+          }
+        ],
+        "steps": [
+          "First use up your normal paid holiday, then agree senior holiday days with your employer like normal holidays",
+          "After your first month with senior holidays, hand form C103 to the payment institution of your choice (union or HVW-CAPAC)",
+          "Your employer declares your senior holiday hours electronically each month; your payment institution pays the allowance"
+        ]
+      },
+      "nl": {
+        "title": "Seniorvakantie bij werkhervatting",
+        "desc": "Werknemers van 50 jaar of ouder die in de privésector het werk hervatten na volledige werkloosheid of invaliditeit, hebben minder dan 4 weken betaalde vakantie opgebouwd. Met seniorvakantie kunnen ze hun vakantie aanvullen tot 4 weken. Voor elke dag seniorvakantie betaalt de RVA een uitkering van 65% van het begrensde brutoloon.",
+        "deadline": "Vraag het elk jaar aan na je eerste maand met seniorvakantie. Je uitbetalingsinstelling stuurt het door naar de RVA, waar het ten laatste in februari van het jaar na het vakantiejaar moet zijn.",
+        "amount": "65% van je brutoloon, begrensd op €3.071,92 per maand: hoogstens €76,80 per dag (zesdagenweek), met 10,09% voorheffing",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier C103 Seniorvakantie - Werknemer"
+          }
+        ],
+        "steps": [
+          "Gebruik eerst je gewone betaalde vakantie op en spreek dan dagen seniorvakantie af met je werkgever, zoals gewone vakantie",
+          "Dien na je eerste maand met seniorvakantie formulier C103 in bij de uitbetalingsinstelling van je keuze (vakbond of Hulpkas voor Werkloosheidsuitkeringen)",
+          "Je werkgever geeft je uren seniorvakantie elke maand elektronisch aan; je uitbetalingsinstelling betaalt de uitkering"
+        ]
+      },
+      "fr": {
+        "title": "Vacances seniors à la reprise du travail",
+        "desc": "Les travailleurs de 50 ans ou plus qui reprennent le travail dans le secteur privé après un chômage complet ou une invalidité ont constitué moins de 4 semaines de vacances payées. Grâce aux vacances seniors, ils peuvent compléter leurs vacances jusqu'à 4 semaines. Pour chaque jour de vacances seniors, l'ONEM verse une allocation de 65 % du salaire brut plafonné.",
+        "deadline": "Faites la demande chaque année après votre premier mois de vacances seniors. Votre organisme de paiement la transmet à l'ONEM, où elle doit arriver au plus tard en février de l'année suivant l'année de vacances.",
+        "amount": "65 % de votre salaire brut, plafonné à 3.071,92 € par mois : au maximum 76,80 € par jour (semaine de 6 jours), avec 10,09 % de précompte",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire C103 Vacances seniors - Travailleur"
+          }
+        ],
+        "steps": [
+          "Épuisez d'abord vos vacances payées ordinaires, puis convenez des jours de vacances seniors avec votre employeur comme des vacances ordinaires",
+          "Après votre premier mois de vacances seniors, remettez le formulaire C103 à l'organisme de paiement de votre choix (syndicat ou CAPAC)",
+          "Votre employeur déclare chaque mois vos heures de vacances seniors par voie électronique ; votre organisme de paiement verse l'allocation"
+        ]
+      },
+      "de": {
+        "title": "Seniorenurlaub bei Wiederaufnahme der Arbeit",
+        "desc": "Arbeitnehmer ab 50 Jahren, die im Privatsektor nach Vollarbeitslosigkeit oder Invalidität wieder arbeiten, haben weniger als 4 Wochen bezahlten Urlaub angespart. Mit dem Seniorenurlaub können sie ihren Urlaub auf 4 Wochen aufstocken. Für jeden Seniorenurlaubstag zahlt das LfA eine Zulage von 65 % des begrenzten Bruttolohns.",
+        "deadline": "Stellen Sie den Antrag jedes Jahr nach Ihrem ersten Monat mit Seniorenurlaub. Ihre Zahlstelle leitet ihn an das LfA weiter, wo er spätestens im Februar des Jahres nach dem Urlaubsjahr eingehen muss.",
+        "amount": "65 % Ihres Bruttolohns, begrenzt auf 3.071,92 € pro Monat: höchstens 76,80 € pro Tag (6-Tage-Woche), mit 10,09 % Steuervorabzug",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular C103 Seniorenurlaub - Arbeitnehmer"
+          }
+        ],
+        "steps": [
+          "Nehmen Sie zuerst Ihren normalen bezahlten Urlaub und vereinbaren Sie dann Seniorenurlaubstage wie normalen Urlaub mit Ihrem Arbeitgeber",
+          "Reichen Sie nach Ihrem ersten Monat mit Seniorenurlaub das Formular C103 bei der Zahlstelle Ihrer Wahl ein (Gewerkschaft oder HVW-CAPAC)",
+          "Ihr Arbeitgeber meldet Ihre Seniorenurlaubsstunden monatlich elektronisch; Ihre Zahlstelle zahlt die Zulage"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://www.rva.be/burgers/verlof/hebt-u-recht-op-seniorvakantie",
+      "conditions": {
+        "en": [
+          "You were at least 50 on 31 December of the year before the holiday year.",
+          "You have fewer than 4 weeks of paid holiday because of full unemployment or invalidity (after a year of illness) in that previous year; other interruptions such as temporary unemployment or unpaid leave do not count.",
+          "You work as an employee under the private-sector holiday scheme and receive no other income for the senior holiday days."
+        ],
+        "nl": [
+          "Je was minstens 50 jaar op 31 december van het jaar voor het vakantiejaar.",
+          "Je hebt minder dan 4 weken betaalde vakantie door volledige werkloosheid of invaliditeit (na een jaar ziekte) in dat vorige jaar; andere onderbrekingen zoals tijdelijke werkloosheid of onbetaald verlof tellen niet.",
+          "Je werkt als werknemer onder de vakantieregeling van de privésector en krijgt voor de dagen seniorvakantie geen ander inkomen."
+        ],
+        "fr": [
+          "Vous aviez au moins 50 ans au 31 décembre de l'année précédant l'année de vacances.",
+          "Vous avez moins de 4 semaines de vacances payées en raison d'un chômage complet ou d'une invalidité (après un an de maladie) durant cette année précédente ; d'autres interruptions comme le chômage temporaire ou le congé sans solde ne comptent pas.",
+          "Vous travaillez comme salarié(e) sous le régime de vacances du secteur privé et ne percevez pas d'autre revenu pour les jours de vacances seniors."
+        ],
+        "de": [
+          "Sie waren am 31. Dezember des Jahres vor dem Urlaubsjahr mindestens 50 Jahre alt.",
+          "Sie haben weniger als 4 Wochen bezahlten Urlaub wegen Vollarbeitslosigkeit oder Invalidität (nach einem Jahr Krankheit) im Vorjahr; andere Unterbrechungen wie zeitweilige Arbeitslosigkeit oder unbezahlter Urlaub zählen nicht.",
+          "Sie arbeiten als Arbeitnehmer in der Urlaubsregelung des Privatsektors und erhalten für die Seniorenurlaubstage kein anderes Einkommen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 270,
+    "category": "employment",
+    "situations": [
+      "pregnancy",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Werkgelegenheid / SPF Emploi (WASO-ETCS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://werk.belgie.be/nl/themas/welzijn-op-het-werk/werkorganisatie-en-bijzondere-werknemerscategorieen-0",
+    "content": {
+      "en": {
+        "title": "No Overtime or Forced Night Work During Pregnancy",
+        "desc": "Pregnant and breastfeeding employees may not work overtime, except in some positions of trust or management named in the law. Your employer cannot make you work at night in the 8 weeks before the expected birth. With a medical certificate you can also refuse night work at other times during pregnancy and for up to 4 weeks after your postnatal leave; your employer must then give you day work or, if that is impossible, suspend your contract.",
+        "deadline": "The protection starts once your employer knows you are pregnant.",
+        "amount": "No money; a protection at work",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate (to refuse night work outside the 8 weeks before the birth)"
+          }
+        ],
+        "steps": [
+          "Tell your employer you are pregnant, preferably with a medical certificate sent by registered post or handed over against a receipt",
+          "To refuse night work at other times, give your employer a medical certificate"
+        ]
+      },
+      "nl": {
+        "title": "Geen overwerk of verplichte nachtarbeid tijdens de zwangerschap",
+        "desc": "Zwangere werkneemsters en werkneemsters die borstvoeding geven, mogen geen overwerk doen, behalve in sommige vertrouwens- of leidinggevende functies die de wet noemt. Je werkgever kan je niet verplichten 's nachts te werken in de 8 weken voor de vermoedelijke bevallingsdatum. Met een geneeskundig getuigschrift mag je nachtarbeid ook op andere momenten tijdens de zwangerschap en tot 4 weken na je bevallingsrust weigeren; je werkgever moet je dan dagwerk geven of, als dat niet kan, je arbeidsovereenkomst schorsen.",
+        "deadline": "De bescherming loopt zodra je werkgever weet dat je zwanger bent.",
+        "amount": "Geen geldbedrag; een bescherming op het werk",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Geneeskundig getuigschrift (om nachtarbeid te weigeren buiten de 8 weken voor de bevalling)"
+          }
+        ],
+        "steps": [
+          "Breng je werkgever op de hoogte van je zwangerschap, liefst met een geneeskundig getuigschrift dat je aangetekend stuurt of tegen ontvangstbewijs afgeeft",
+          "Wil je op andere momenten nachtarbeid weigeren, bezorg je werkgever dan een geneeskundig getuigschrift"
+        ]
+      },
+      "fr": {
+        "title": "Pas d'heures supplémentaires ni de travail de nuit imposé pendant la grossesse",
+        "desc": "Les travailleuses enceintes ou allaitantes ne peuvent pas faire d'heures supplémentaires, sauf dans certaines fonctions de confiance ou de direction prévues par la loi. Votre employeur ne peut pas vous imposer de travailler la nuit durant les 8 semaines précédant la date présumée de l'accouchement. Avec un certificat médical, vous pouvez aussi refuser le travail de nuit à d'autres moments de la grossesse et jusqu'à 4 semaines après votre repos postnatal ; votre employeur doit alors vous donner un travail de jour ou, si c'est impossible, suspendre votre contrat.",
+        "deadline": "La protection commence dès que votre employeur sait que vous êtes enceinte.",
+        "amount": "Pas de montant ; une protection au travail",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical (pour refuser le travail de nuit en dehors des 8 semaines avant l'accouchement)"
+          }
+        ],
+        "steps": [
+          "Informez votre employeur de votre grossesse, de préférence par un certificat médical envoyé par recommandé ou remis contre accusé de réception",
+          "Pour refuser le travail de nuit à d'autres moments, remettez un certificat médical à votre employeur"
+        ]
+      },
+      "de": {
+        "title": "Keine Überstunden und keine erzwungene Nachtarbeit während der Schwangerschaft",
+        "desc": "Schwangere und stillende Arbeitnehmerinnen dürfen keine Überstunden leisten, außer in bestimmten gesetzlich genannten Vertrauens- oder Leitungsfunktionen. Ihr Arbeitgeber kann Sie in den 8 Wochen vor dem voraussichtlichen Geburtstermin nicht zur Nachtarbeit verpflichten. Mit einer ärztlichen Bescheinigung können Sie Nachtarbeit auch zu anderen Zeiten der Schwangerschaft und bis 4 Wochen nach der Mutterschaftsruhe ablehnen; Ihr Arbeitgeber muss Ihnen dann Tagarbeit geben oder, wenn das nicht möglich ist, den Vertrag aussetzen.",
+        "deadline": "Der Schutz beginnt, sobald Ihr Arbeitgeber von der Schwangerschaft weiß.",
+        "amount": "Kein Geldbetrag; ein Schutz am Arbeitsplatz",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung (um Nachtarbeit außerhalb der 8 Wochen vor der Geburt abzulehnen)"
+          }
+        ],
+        "steps": [
+          "Teilen Sie Ihrem Arbeitgeber die Schwangerschaft mit, am besten mit einer ärztlichen Bescheinigung per Einschreiben oder gegen Empfangsbestätigung",
+          "Um Nachtarbeit zu anderen Zeiten abzulehnen, geben Sie Ihrem Arbeitgeber eine ärztliche Bescheinigung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://werk.belgie.be/nl/themas/welzijn-op-het-werk/werkorganisatie-en-bijzondere-werknemerscategorieen-0",
+      "conditions": {
+        "en": [
+          "You are a pregnant or breastfeeding employee.",
+          "The ban on overtime does not apply to some positions of trust or management named in the law."
+        ],
+        "nl": [
+          "Je bent een zwangere werkneemster of geeft borstvoeding.",
+          "Het verbod op overwerk geldt niet voor sommige vertrouwens- of leidinggevende functies die de wet noemt."
+        ],
+        "fr": [
+          "Vous êtes une travailleuse enceinte ou allaitante.",
+          "L'interdiction des heures supplémentaires ne vaut pas pour certaines fonctions de confiance ou de direction prévues par la loi."
+        ],
+        "de": [
+          "Sie sind eine schwangere oder stillende Arbeitnehmerin.",
+          "Das Überstundenverbot gilt nicht für bestimmte gesetzlich genannte Vertrauens- oder Leitungsfunktionen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 271,
+    "category": "employment",
+    "situations": [
+      "job-loss",
+      "employee"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "FOD Werkgelegenheid / SPF Emploi (WASO-ETCS)",
+    "verified": "31 Oct 2026",
+    "status": "verified",
+    "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/outplacement",
+    "amount_source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/outplacement/outplacement-algemene-regeling",
+    "content": {
+      "en": {
+        "title": "Outplacement Support After Dismissal",
+        "desc": "If you are dismissed (not for serious misconduct) with a notice period or notice pay of at least 30 weeks, your employer must offer you 60 hours of outplacement: guidance by a specialised provider to help you find a new job or start as self-employed, spread over up to 12 months. Private-sector employees aged 45 or over with at least one year of service also get outplacement when their notice is shorter than 30 weeks.",
+        "deadline": "With notice pay, your employer must make the offer by registered letter within 15 days after the contract ends; with a notice period you work, within 4 weeks after it starts (general scheme). If no offer comes, put your employer on notice in writing. Reply to an offer within 4 weeks.",
+        "amount": "60 hours of guidance, paid by your employer; with notice pay worth 1/12 of your gross annual salary (at least €1,800, at most €5,500, excl. VAT)",
+        "requirements": [],
+        "steps": [
+          "Wait for your employer's outplacement offer by registered letter",
+          "Accept or refuse it in writing; if you do not answer in time, you are deemed to accept",
+          "Follow the guidance with the provider: at least 20 hours in the first 2 months"
+        ]
+      },
+      "nl": {
+        "title": "Outplacementbegeleiding na ontslag",
+        "desc": "Word je ontslagen (niet om een dringende reden) met een opzeggingstermijn of opzeggingsvergoeding van minstens 30 weken, dan moet je werkgever je 60 uur outplacement aanbieden: begeleiding door een gespecialiseerde dienstverlener om een nieuwe job te vinden of als zelfstandige te starten, gespreid over hoogstens 12 maanden. Werknemers uit de privésector van 45 jaar of ouder met minstens een jaar dienst krijgen ook outplacement als hun opzegging korter is dan 30 weken.",
+        "deadline": "Bij een opzeggingsvergoeding moet je werkgever het aanbod aangetekend doen binnen 15 dagen na het einde van de overeenkomst; bij een opzeggingstermijn binnen 4 weken na de start ervan (algemene regeling). Komt er geen aanbod, stel je werkgever dan schriftelijk in gebreke. Antwoord op een aanbod binnen 4 weken.",
+        "amount": "60 uur begeleiding, betaald door je werkgever; bij een opzeggingsvergoeding ter waarde van 1/12 van je bruto jaarloon (minstens €1.800, hoogstens €5.500, excl. btw)",
+        "requirements": [],
+        "steps": [
+          "Wacht op het outplacementaanbod van je werkgever per aangetekende brief",
+          "Aanvaard of weiger het schriftelijk; antwoord je niet op tijd, dan aanvaard je het",
+          "Volg de begeleiding bij de dienstverlener: minstens 20 uur in de eerste 2 maanden"
+        ]
+      },
+      "fr": {
+        "title": "Reclassement professionnel (outplacement) après un licenciement",
+        "desc": "Si vous êtes licencié(e) (pas pour motif grave) avec un préavis ou une indemnité de préavis d'au moins 30 semaines, votre employeur doit vous proposer 60 heures d'outplacement : un accompagnement par un prestataire spécialisé pour trouver un nouvel emploi ou démarrer comme indépendant(e), réparti sur 12 mois au maximum. Les travailleurs du secteur privé de 45 ans ou plus avec au moins un an d'ancienneté y ont aussi droit quand leur préavis est inférieur à 30 semaines.",
+        "deadline": "Avec une indemnité de préavis, votre employeur doit faire l'offre par recommandé dans les 15 jours suivant la fin du contrat ; avec un préavis presté, dans les 4 semaines suivant son début (régime général). Sans offre, mettez votre employeur en demeure par écrit. Répondez à une offre dans les 4 semaines.",
+        "amount": "60 heures d'accompagnement payées par votre employeur ; avec une indemnité de préavis, d'une valeur de 1/12 de votre salaire annuel brut (au moins 1.800 €, au plus 5.500 €, hors TVA)",
+        "requirements": [],
+        "steps": [
+          "Attendez l'offre d'outplacement de votre employeur par lettre recommandée",
+          "Acceptez-la ou refusez-la par écrit ; sans réponse dans le délai, vous êtes censé(e) l'accepter",
+          "Suivez l'accompagnement auprès du prestataire : au moins 20 heures durant les 2 premiers mois"
+        ]
+      },
+      "de": {
+        "title": "Outplacement-Begleitung nach einer Kündigung",
+        "desc": "Wenn Ihnen (nicht aus schwerwiegendem Grund) mit einer Kündigungsfrist oder Kündigungsentschädigung von mindestens 30 Wochen gekündigt wird, muss Ihr Arbeitgeber Ihnen 60 Stunden Outplacement anbieten: Begleitung durch einen spezialisierten Dienstleister bei der Suche nach einer neuen Stelle oder beim Start als Selbständiger, verteilt auf höchstens 12 Monate. Arbeitnehmer im Privatsektor ab 45 Jahren mit mindestens einem Jahr Dienstzeit erhalten Outplacement auch bei einer Kündigungsfrist unter 30 Wochen.",
+        "deadline": "Bei einer Kündigungsentschädigung muss der Arbeitgeber das Angebot innerhalb von 15 Tagen nach Vertragsende per Einschreiben machen; bei einer gearbeiteten Kündigungsfrist innerhalb von 4 Wochen nach deren Beginn (allgemeine Regelung). Kommt kein Angebot, mahnen Sie den Arbeitgeber schriftlich ab. Antworten Sie innerhalb von 4 Wochen auf ein Angebot.",
+        "amount": "60 Stunden Begleitung, bezahlt vom Arbeitgeber; bei einer Kündigungsentschädigung im Wert von 1/12 Ihres Bruttojahreslohns (mindestens 1.800 €, höchstens 5.500 €, ohne MwSt.)",
+        "requirements": [],
+        "steps": [
+          "Warten Sie auf das Outplacement-Angebot Ihres Arbeitgebers per Einschreiben",
+          "Nehmen Sie es schriftlich an oder lehnen Sie es ab; antworten Sie nicht rechtzeitig, gilt es als angenommen",
+          "Nehmen Sie die Begleitung beim Dienstleister wahr: mindestens 20 Stunden in den ersten 2 Monaten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "31 Oct 2026",
+      "source_url": "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/outplacement",
+      "conditions": {
+        "en": [
+          "General scheme: you were dismissed, not for serious misconduct, with a right to at least 30 weeks of notice or notice pay; age and sector do not matter.",
+          "Scheme for 45+: private-sector employer, not dismissed for serious misconduct, less than 30 weeks of notice, at least 45 years old and at least one year of uninterrupted service; some groups are excluded, such as dismissal with a view to unemployment with company supplement."
+        ],
+        "nl": [
+          "Algemene regeling: je bent ontslagen, niet om een dringende reden, met recht op minstens 30 weken opzegging of opzeggingsvergoeding; leeftijd en sector spelen geen rol.",
+          "Regeling voor 45-plussers: werkgever uit de privésector, niet ontslagen om een dringende reden, minder dan 30 weken opzegging, minstens 45 jaar en minstens een jaar ononderbroken in dienst; sommige groepen zijn uitgesloten, zoals ontslag met het oog op werkloosheid met bedrijfstoeslag."
+        ],
+        "fr": [
+          "Régime général : vous avez été licencié(e), pas pour motif grave, avec droit à au moins 30 semaines de préavis ou d'indemnité ; l'âge et le secteur n'importent pas.",
+          "Régime 45+ : employeur du secteur privé, pas licencié(e) pour motif grave, moins de 30 semaines de préavis, au moins 45 ans et au moins un an de service ininterrompu ; certains groupes sont exclus, comme le licenciement en vue du chômage avec complément d'entreprise."
+        ],
+        "de": [
+          "Allgemeine Regelung: Ihnen wurde nicht aus schwerwiegendem Grund gekündigt, mit Anspruch auf mindestens 30 Wochen Kündigungsfrist oder -entschädigung; Alter und Sektor spielen keine Rolle.",
+          "Regelung für Ab-45-Jährige: Arbeitgeber im Privatsektor, keine Kündigung aus schwerwiegendem Grund, weniger als 30 Wochen Kündigungsfrist, mindestens 45 Jahre alt und mindestens ein Jahr ununterbrochen beschäftigt; einige Gruppen sind ausgeschlossen, etwa bei Kündigung im Hinblick auf Arbeitslosigkeit mit Betriebszuschlag."
+        ]
+      }
+    }
   }
 ]

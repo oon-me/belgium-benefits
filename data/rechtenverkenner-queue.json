@@ -30,22 +30,27 @@
     "833": 91,
     "835": 20,
     "838": 122,
+    "853": 259,
     "854": 89,
     "862": 44,
+    "863": 258,
     "868": 137,
     "879": 92,
     "881": 212,
     "883": 108,
     "885": 88,
     "894": 120,
+    "960": 271,
     "1130": 109,
     "1213": 16,
+    "1225": 257,
     "1247": 205,
     "1371": 127,
     "1387": 101,
     "1424": 126,
     "1446": 133,
     "1466": 208,
+    "1505": 269,
     "1526": 97,
     "1527": 112,
     "1530": 98,
@@ -55,9 +60,14 @@
     "1549": 113,
     "1551": 128,
     "1564": 47,
+    "1649": 265,
+    "1655": 264,
     "1656": 105,
+    "1657": 268,
     "1667": 199,
     "1672": 209,
+    "1674": 263,
+    "1691": 260,
     "1764": 132,
     "1810": 45,
     "1939": 131,
@@ -83,6 +93,7 @@
     "2969": 185,
     "2971": 124,
     "2972": 125,
+    "2973": 270,
     "2974": 173,
     "2976": 222,
     "2977": 180,
@@ -98,6 +109,7 @@
     "2992": 225,
     "2993": 226,
     "2995": 141,
+    "2996": 266,
     "2997": 121,
     "2998": 198,
     "2999": 229,
@@ -110,6 +122,7 @@
     "3008": 168,
     "3010": 240,
     "3011": 213,
+    "3012": 262,
     "3013": 181,
     "3015": 228,
     "3016": 89,
@@ -142,6 +155,8 @@
     "3062": 161,
     "3063": 203,
     "3064": 252,
+    "3065": 261,
+    "3067": 267,
     "3068": 25,
     "3069": 251,
     "3071": 89,
@@ -842,86 +857,12 @@
       "official": []
     },
     {
-      "nr": "3067",
-      "name": "Omgezet moederschapsverlof (bij overlijden moeder)",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof#toc_heading_4",
-        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/moederschap/moederschapsrust-voor-werknemers-en-werklozen"
-      ]
-    },
-    {
-      "nr": "3065",
-      "name": "Omstandigheidsverlof voor werknemers",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/schorsingen-van-de"
-      ]
-    },
-    {
-      "nr": "1225",
-      "name": "Ouderschapsverlof",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/ouderschapsverlof"
-      ]
-    },
-    {
-      "nr": "960",
-      "name": "Outplacement voor werknemers",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/outplacement"
-      ]
-    },
-    {
-      "nr": "863",
-      "name": "Palliatief verlof",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/palliatief-verlof"
-      ]
-    },
-    {
       "nr": "160",
       "name": "Parkeerkaart voor personen met een handicap",
       "level": "Federaal",
       "financial": false,
       "official": [
         "https://handicap.belgium.be/nl/andere-hulp/parkeerkaart"
-      ]
-    },
-    {
-      "nr": "1655",
-      "name": "Pleegouderverlof",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.riziv.fgov.be/nl/thema-s/zwangerschap-en-geboorte/pleegouderverlof-voor-werknemers"
-      ]
-    },
-    {
-      "nr": "1649",
-      "name": "Pleegzorgverlof",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.rva.be/burgers/verlof/het-verlof-voor-pleegzorgen",
-        "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/pleegzorgverlof"
-      ]
-    },
-    {
-      "nr": "2996",
-      "name": "Recht op afwezigheid voor zwangerschapsonderzoeken (werk)",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/moederschapsverlof#toc_heading_3"
       ]
     },
     {
@@ -977,25 +918,6 @@
       ]
     },
     {
-      "nr": "3012",
-      "name": "Rouwverlof",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-12"
-      ]
-    },
-    {
-      "nr": "1674",
-      "name": "Sollicitatieverlof",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "http://werk.belgie.be/nl/themas/arbeidsovereenkomsten/einde-van-de-arbeidsovereenkomst/einde-van-de-arbeidsovereenkomst-3",
-        "https://www.vdab.be/orienteren/ontslagen/stappenplan/sollicitatieverlof"
-      ]
-    },
-    {
       "nr": "3094",
       "name": "Terug Naar Werk-traject bij arbeidsongeschiktheid",
       "level": "Federaal",
@@ -1014,16 +936,6 @@
       ]
     },
     {
-      "nr": "1691",
-      "name": "Tijdskrediet",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/tijdskrediet-privesector",
-        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/tijdskrediet-privesector/het-tijdskrediet-landingsbaan-recht-op-onderbrekingsuitkeringen"
-      ]
-    },
-    {
       "nr": "1654",
       "name": "Toelating om zich als werkzoekende voor te bereiden op zelfstandige activiteit",
       "level": "Federaal",
@@ -1031,42 +943,6 @@
       "official": [
         "https://www.vdab.be/jobs/ondernemer-worden/uitkering-voorbereiden",
         "https://www.rva.be/burgers/volledige-werkloosheid/mag-u-werken-tijdens-uw-werkloosheid/mag-u-een-activiteit-uitoefenen-tijdens-uw-volledige-werkloosheid"
-      ]
-    },
-    {
-      "nr": "1657",
-      "name": "Vakantie voor beginnende werknemers die nog geen vakantierechten hebben opgebouwd",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.rva.be/burgers/verlof/hebt-u-recht-op-de-jeugdvakantie"
-      ]
-    },
-    {
-      "nr": "1505",
-      "name": "Vakantie voor oudere werknemers die het werk hervatten - seniorvakantie",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.rva.be/burgers/verlof/hebt-u-recht-op-seniorvakantie"
-      ]
-    },
-    {
-      "nr": "2973",
-      "name": "Verbod op nachtwerk en overwerk voor zwangere vrouwen",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://werk.belgie.be/nl/themas/welzijn-op-het-werk/werkorganisatie-en-bijzondere-werknemerscategorieen-0#toc_heading_4"
-      ]
-    },
-    {
-      "nr": "853",
-      "name": "Verlof voor medische bijstand",
-      "level": "Federaal",
-      "financial": false,
-      "official": [
-        "https://www.rva.be/burgers/loopbaanonderbreking-tijdskrediet-en-thematische-verloven/thematische-verloven-alle-sectoren/verlof-voor-medische-bijstand"
       ]
     },
     {
