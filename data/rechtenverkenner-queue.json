@@ -10,6 +10,8 @@
     "199": 322,
     "201": 206,
     "212": 293,
+    "214": 357,
+    "215": 348,
     "222": 294,
     "241": 334,
     "245": 289,
@@ -23,6 +25,7 @@
     "432": 333,
     "496": 313,
     "505": 318,
+    "601": 346,
     "630": 114,
     "631": 134,
     "662": 135,
@@ -110,10 +113,12 @@
     "1764": 132,
     "1810": 45,
     "1821": 300,
+    "1823": 353,
     "1939": 131,
     "1954": 335,
     "1975": 100,
     "2026": 9,
+    "2344": 351,
     "2410": 297,
     "2784": 204,
     "2847": 110,
@@ -220,6 +225,7 @@
     "3080": 177,
     "3081": 308,
     "3082": 200,
+    "3086": 354,
     "3087": 159,
     "3088": 245,
     "3094": 284,
@@ -244,16 +250,24 @@
     "49105": 327,
     "49892": 107,
     "51544": 193,
+    "51959": 356,
     "54449": 317,
     "54680": 336,
     "55547": 280,
+    "58249": 350,
+    "58250": 350,
+    "58251": 350,
+    "58252": 350,
+    "58253": 350,
     "58255": 332,
+    "58277": 349,
     "58341": 329,
     "58345": 328,
     "58390": 330,
     "59227": 315,
     "59255": 315,
     "59256": 315,
+    "61308": 355,
     "75001": 130,
     "75018": 93,
     "75019": 243,
@@ -266,7 +280,9 @@
     "75766": 190,
     "75767": 247,
     "76117": 281,
-    "77094": 27
+    "77094": 27,
+    "77126": 347,
+    "77395": 352
   },
   "queue": [
     {
@@ -322,13 +338,6 @@
       "official": [
         "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt"
       ]
-    },
-    {
-      "nr": "3086",
-      "name": "Gewaarborgd minimumpensioen",
-      "level": "Federaal",
-      "financial": true,
-      "official": []
     },
     {
       "nr": "2959",
@@ -467,13 +476,6 @@
       ]
     },
     {
-      "nr": "61308",
-      "name": "Vergoeding van medische voeding bij koemelkallergie voor zuigelingen",
-      "level": "Federaal",
-      "financial": true,
-      "official": []
-    },
-    {
       "nr": "3026",
       "name": "Vergoeding voor asbestziektes door het werk",
       "level": "Federaal",
@@ -554,13 +556,6 @@
       ]
     },
     {
-      "nr": "1823",
-      "name": "Leefvergoeding voor personen onder elektronisch toezicht",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
       "nr": "77950",
       "name": "Meerjarenpremieovereenkomst via oproep voor grote of langdurige werkzaamheden aan of in beschermde goederen of erfgoedlandschappen",
       "level": "Vlaams",
@@ -570,22 +565,6 @@
       ]
     },
     {
-      "nr": "2344",
-      "name": "Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek",
-      "level": "Vlaams",
-      "financial": true,
-      "official": [
-        "https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten"
-      ]
-    },
-    {
-      "nr": "51959",
-      "name": "Subsidie kadervorming jeugdwerkbegeleiders (VGC)",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
       "nr": "1423",
       "name": "Tegemoetkoming in de kosten woon-werkverkeer voor personen met een beperking",
       "level": "Vlaams",
@@ -593,13 +572,6 @@
       "official": [
         "https://www.vdab.be/orienteren/werken-beperking-gezondheidsprobleem/tegemoetkomingen/terugbetaling-verplaatsingskosten"
       ]
-    },
-    {
-      "nr": "77395",
-      "name": "Vergoeding voor schade door slechte staat van een gewestweg of door wegenwerken op een gewestweg",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
     },
     {
       "nr": "705",
@@ -618,48 +590,6 @@
       "official": [
         "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/onroerende-voorheffing/vrijstelling-van-de-onroerende-voorheffing-na-renovatie-of-vervangbouw-van-verwaarloosde-ongeschikte-of-onbewoonbare-onroerende-goederen"
       ]
-    },
-    {
-      "nr": "58251",
-      "name": "Vrijstelling van de planbatenheffing als compensatie bij planschade",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
-      "nr": "58250",
-      "name": "Vrijstelling van de planbatenheffing als er geen bijkomende vergunningsmogelijkheden zijn",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
-      "nr": "58253",
-      "name": "Vrijstelling van de planbatenheffing bij herbestemming van een zonevreemde woning, bedrijf of gebouw",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
-      "nr": "58249",
-      "name": "Vrijstelling van de planbatenheffing bij kleine bestemmingswijzigingen",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
-      "nr": "58252",
-      "name": "Vrijstelling van de planbatenheffing bij onteigening of overdracht in der minne ten algemene nutte",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
-    },
-    {
-      "nr": "58277",
-      "name": "Vrijstelling van het verkooprecht voor natuurgoederen",
-      "level": "Vlaams",
-      "financial": true,
-      "official": []
     },
     {
       "nr": "2949",
@@ -719,16 +649,6 @@
       "official": []
     },
     {
-      "nr": "214",
-      "name": "Aanvraag tot onderzoek van het binnenmilieu in een woning of openbaar gebouw",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://res.cloudinary.com/deueykgii/raw/upload/fl_attachment/Gemotiveerde_aanvraag_van_een_onderzoek_van_het_binnenmilieu_z19hsg.docx?_a=DATAg1AAZAA0",
-        "https://www.gezondleven.be/themas/gezondheid-en-milieu/gezond-binnen/woningonderzoeken"
-      ]
-    },
-    {
       "nr": "1677",
       "name": "Begeleiding bij het zoeken van de juiste baan",
       "level": "Vlaams",
@@ -743,15 +663,6 @@
       "level": "Vlaams",
       "financial": false,
       "official": []
-    },
-    {
-      "nr": "601",
-      "name": "Digitale meter met Prepaid functie",
-      "level": "Vlaams",
-      "financial": false,
-      "official": [
-        "https://prepaid.fluvius.be"
-      ]
     },
     {
       "nr": "2464",
@@ -781,20 +692,6 @@
     {
       "nr": "76325",
       "name": "Loopbaankrediet",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
-      "nr": "77126",
-      "name": "Mijn VerbouwBegeleiding voor onderhoud van verwarmingsketel",
-      "level": "Vlaams",
-      "financial": false,
-      "official": []
-    },
-    {
-      "nr": "215",
-      "name": "Ondersteuning via opvoedingswinkels",
       "level": "Vlaams",
       "financial": false,
       "official": []

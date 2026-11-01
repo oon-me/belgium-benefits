@@ -40633,5 +40633,1289 @@
         ]
       }
     }
+  },
+  {
+    "id": 346,
+    "category": "housing",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Fluvius",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/digitale-meter-met-prepaid-functie",
+    "content": {
+      "en": {
+        "title": "Prepaid Electricity and Gas via Your Digital Meter (Fluvius)",
+        "desc": "With Prepaid you pay in advance for the electricity or gas that the network operator Fluvius supplies to you, by topping up online or at a top-up point. It used to be called the budget meter. Fluvius switches it on when you are its customer and fall behind on payments, but you can also ask for it without having debts. Installation is free.",
+        "deadline": "Any time: contact Fluvius.",
+        "amount": "Free installation. You pay the social energy tariff if you are entitled to it, otherwise Fluvius's tariff. A debt to Fluvius is repaid at €5 a week.",
+        "requirements": [],
+        "steps": [
+          "Contact Fluvius to ask for Prepaid (also possible without debts)",
+          "Fluvius switches on Prepaid remotely on a digital meter, or first replaces your analogue meter with a digital one for free",
+          "Top up online or at a top-up point: a Fluvius customer office, the OCMW, or a public place such as the library or town hall"
+        ]
+      },
+      "nl": {
+        "title": "Digitale meter met Prepaid functie",
+        "desc": "Met Prepaid betaal je op voorhand voor de elektriciteit of het aardgas dat de netbeheerder Fluvius je levert, door op te laden via een webportaal of aan een oplaadpunt. Vroeger heette dat de budgetmeter. Fluvius schakelt Prepaid in als je klant bent bij Fluvius en niet op tijd betaalt, maar je kunt het ook vragen zonder schulden. De plaatsing is gratis.",
+        "deadline": "Op elk moment: neem contact op met Fluvius.",
+        "amount": "Gratis plaatsing. Je betaalt het sociaal tarief voor energie als je daar recht op hebt, anders het tarief van Fluvius. Een schuld bij Fluvius betaal je af met 5 euro per week.",
+        "requirements": [],
+        "steps": [
+          "Neem contact op met Fluvius om Prepaid te vragen (kan ook zonder schulden)",
+          "Fluvius activeert Prepaid van op afstand in je digitale meter, of vervangt eerst gratis je analoge meter door een digitale meter",
+          "Laad op via het webportaal of aan een oplaadpunt: een klantenkantoor van Fluvius, het OCMW of een publieke plaats zoals de bibliotheek of het gemeentehuis"
+        ]
+      },
+      "fr": {
+        "title": "Électricité et gaz prépayés via votre compteur numérique (Fluvius)",
+        "desc": "Avec Prepaid, vous payez à l'avance l'électricité ou le gaz que le gestionnaire de réseau Fluvius vous fournit, en rechargeant en ligne ou à un point de recharge. On l'appelait autrefois le compteur à budget. Fluvius l'active lorsque vous êtes son client et que vous ne payez pas à temps, mais vous pouvez aussi le demander sans avoir de dettes. L'installation est gratuite.",
+        "deadline": "À tout moment : contactez Fluvius.",
+        "amount": "Installation gratuite. Vous payez le tarif social de l'énergie si vous y avez droit, sinon le tarif de Fluvius. Une dette envers Fluvius est remboursée à raison de 5 € par semaine.",
+        "requirements": [],
+        "steps": [
+          "Contactez Fluvius pour demander Prepaid (possible aussi sans dettes)",
+          "Fluvius active Prepaid à distance sur un compteur numérique, ou remplace d'abord gratuitement votre compteur analogique par un compteur numérique",
+          "Rechargez en ligne ou à un point de recharge : un bureau clientèle de Fluvius, le CPAS (OCMW) ou un lieu public comme la bibliothèque ou la maison communale"
+        ]
+      },
+      "de": {
+        "title": "Prepaid-Strom und -Gas über Ihren digitalen Zähler (Fluvius)",
+        "desc": "Mit Prepaid zahlen Sie den Strom oder das Gas, das Ihnen der Netzbetreiber Fluvius liefert, im Voraus, indem Sie online oder an einer Ladestelle aufladen. Früher hieß das Budgetzähler. Fluvius schaltet es ein, wenn Sie Kunde bei Fluvius sind und nicht rechtzeitig zahlen, Sie können es aber auch ohne Schulden beantragen. Die Installation ist kostenlos.",
+        "deadline": "Jederzeit: Wenden Sie sich an Fluvius.",
+        "amount": "Kostenlose Installation. Sie zahlen den Sozialtarif für Energie, wenn Sie Anspruch darauf haben, sonst den Tarif von Fluvius. Schulden bei Fluvius werden mit 5 € pro Woche abbezahlt.",
+        "requirements": [],
+        "steps": [
+          "Wenden Sie sich an Fluvius, um Prepaid zu beantragen (auch ohne Schulden möglich)",
+          "Fluvius aktiviert Prepaid aus der Ferne im digitalen Zähler oder ersetzt zuerst kostenlos Ihren analogen Zähler durch einen digitalen",
+          "Laden Sie online oder an einer Ladestelle auf: einem Kundenbüro von Fluvius, dem ÖSHZ (OCMW) oder einem öffentlichen Ort wie Bibliothek oder Gemeindehaus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.vlaanderen.be/digitale-meter-met-prepaid-functie",
+      "conditions": {
+        "en": [
+          "You are a customer of the network operator Fluvius (not of a commercial energy supplier)",
+          "For electricity you pay through Prepaid straight away; for gas Fluvius switches it on if you do not pay on time or do not keep to a payment plan"
+        ],
+        "nl": [
+          "Je bent klant bij de netbeheerder Fluvius (niet bij een commerciële energieleverancier)",
+          "Voor elektriciteit betaal je meteen via Prepaid; voor aardgas schakelt Fluvius het in als je niet op tijd betaalt of een afbetaalplan niet naleeft"
+        ],
+        "fr": [
+          "Vous êtes client du gestionnaire de réseau Fluvius (et non d'un fournisseur commercial)",
+          "Pour l'électricité, vous payez directement via Prepaid ; pour le gaz, Fluvius l'active si vous ne payez pas à temps ou ne respectez pas un plan de paiement"
+        ],
+        "de": [
+          "Sie sind Kunde beim Netzbetreiber Fluvius (nicht bei einem kommerziellen Energieversorger)",
+          "Für Strom zahlen Sie sofort über Prepaid; für Gas schaltet Fluvius es ein, wenn Sie nicht rechtzeitig zahlen oder einen Abzahlungsplan nicht einhalten"
+        ]
+      }
+    }
+  },
+  {
+    "id": 347,
+    "category": "housing",
+    "situations": [
+      "low-income",
+      "renting"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Energiehuis",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/mijn-verbouwbegeleiding-voor-onderhoud-van-verwarmingsketel",
+    "content": {
+      "en": {
+        "title": "Free Help and a Premium for Maintaining Your Central Heating Boiler",
+        "desc": "Do you heat your home with gas or heating oil? Maintenance of a central heating boiler is compulsory. Owners and tenants on a lower income can get free advice from their Energiehuis (for example finding a qualified technician) and a premium for that maintenance.",
+        "deadline": "Once a year for heating oil, every 2 years for gas.",
+        "amount": "Free guidance plus a budget of up to €192 (incl. VAT) for the maintenance. How it is paid differs per Energiehuis.",
+        "requirements": [],
+        "steps": [
+          "Contact the Energiehuis for your municipality (find it with the postcode search on vlaanderen.be)",
+          "The Energiehuis checks whether you meet the conditions. Income too high? Make an appointment with the OCMW, which can give permission",
+          "Have the maintenance done. Some Energiehuizen pay the technician directly, others pay a premium based on your invoice"
+        ]
+      },
+      "nl": {
+        "title": "Mijn VerbouwBegeleiding voor onderhoud van verwarmingsketel",
+        "desc": "Verwarm je je woning met gas of stookolie? Het onderhoud van een centrale verwarmingsketel is wettelijk verplicht. Eigenaars en huurders met een lager inkomen krijgen via het Energiehuis gratis advies en begeleiding (bijvoorbeeld bij het zoeken naar een bekwame technicus) en een premie voor dat onderhoud.",
+        "deadline": "1 keer per jaar voor stookolie, om de 2 jaar voor gas.",
+        "amount": "Gratis begeleiding plus een budget tot maximaal 192 euro (inclusief btw) voor het onderhoud. De uitbetaling verschilt per Energiehuis.",
+        "requirements": [],
+        "steps": [
+          "Neem contact op met het Energiehuis voor je gemeente (zoek het op via de postcodezoeker op vlaanderen.be)",
+          "Het Energiehuis gaat na of je aan de voorwaarden voldoet. Inkomen te hoog? Maak een afspraak bij het OCMW, dat toestemming kan geven",
+          "Laat het onderhoud uitvoeren. Sommige Energiehuizen betalen de technicus rechtstreeks, andere betalen een premie op basis van je factuur"
+        ]
+      },
+      "fr": {
+        "title": "Accompagnement gratuit et prime pour l'entretien de votre chaudière",
+        "desc": "Vous chauffez votre logement au gaz ou au mazout ? L'entretien d'une chaudière de chauffage central est obligatoire. Les propriétaires et locataires à revenus modestes reçoivent via l'Energiehuis des conseils gratuits (par exemple pour trouver un technicien qualifié) et une prime pour cet entretien.",
+        "deadline": "Une fois par an pour le mazout, tous les 2 ans pour le gaz.",
+        "amount": "Accompagnement gratuit et budget jusqu'à 192 € (TVA comprise) pour l'entretien. Le mode de paiement diffère selon l'Energiehuis.",
+        "requirements": [],
+        "steps": [
+          "Contactez l'Energiehuis de votre commune (trouvez-le via la recherche par code postal sur vlaanderen.be)",
+          "L'Energiehuis vérifie si vous remplissez les conditions. Revenus trop élevés ? Prenez rendez-vous au CPAS (OCMW), qui peut donner son accord",
+          "Faites effectuer l'entretien. Certains Energiehuizen paient directement le technicien, d'autres versent une prime sur la base de votre facture"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Begleitung und Prämie für die Wartung Ihres Heizkessels",
+        "desc": "Heizen Sie mit Gas oder Heizöl? Die Wartung eines Zentralheizungskessels ist Pflicht. Eigentümer und Mieter mit geringerem Einkommen erhalten über das Energiehuis kostenlose Beratung (zum Beispiel bei der Suche nach einem qualifizierten Techniker) und eine Prämie für diese Wartung.",
+        "deadline": "Einmal pro Jahr für Heizöl, alle 2 Jahre für Gas.",
+        "amount": "Kostenlose Begleitung und ein Budget bis 192 € (inkl. MwSt.) für die Wartung. Die Auszahlung unterscheidet sich je nach Energiehuis.",
+        "requirements": [],
+        "steps": [
+          "Wenden Sie sich an das Energiehuis Ihrer Gemeinde (Suche nach Postleitzahl auf vlaanderen.be)",
+          "Das Energiehuis prüft die Bedingungen. Einkommen zu hoch? Vereinbaren Sie einen Termin beim ÖSHZ (OCMW), das zustimmen kann",
+          "Lassen Sie die Wartung durchführen. Manche Energiehuizen bezahlen den Techniker direkt, andere zahlen eine Prämie auf Grundlage Ihrer Rechnung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.vlaanderen.be/mijn-verbouwbegeleiding-voor-onderhoud-van-verwarmingsketel",
+      "conditions": {
+        "en": [
+          "You are the owner or tenant and want help with maintaining your central heating boiler (not a stove)",
+          "Joint taxable income below €29,830 (single), or €44,740 (single with a disability, single with 1 dependant, or couple without dependants), plus €4,420 per extra dependant",
+          "With OCMW permission the limits are €43,240 and €60,520, plus €4,420 per extra dependant"
+        ],
+        "nl": [
+          "Je bent eigenaar of huurder en wilt begeleiding voor het onderhoud van je verwarmingsketel (niet de kachel)",
+          "Gezamenlijk belastbaar inkomen lager dan 29.830 euro (alleenstaande), of 44.740 euro (alleenstaande met handicap, alleenstaande met 1 persoon ten laste of koppel zonder personen ten laste), plus 4.420 euro per extra persoon ten laste",
+          "Met toestemming van het OCMW zijn de grenzen 43.240 euro en 60.520 euro, plus 4.420 euro per extra persoon ten laste"
+        ],
+        "fr": [
+          "Vous êtes propriétaire ou locataire et souhaitez un accompagnement pour l'entretien de votre chaudière (pas d'un poêle)",
+          "Revenu imposable commun inférieur à 29 830 € (isolé), ou 44 740 € (isolé handicapé, isolé avec 1 personne à charge ou couple sans personne à charge), plus 4 420 € par personne à charge supplémentaire",
+          "Avec l'accord du CPAS, les plafonds sont de 43 240 € et 60 520 €, plus 4 420 € par personne à charge supplémentaire"
+        ],
+        "de": [
+          "Sie sind Eigentümer oder Mieter und möchten Begleitung bei der Wartung Ihres Heizkessels (nicht eines Ofens)",
+          "Gemeinsames steuerpflichtiges Einkommen unter 29.830 € (Alleinstehende), oder 44.740 € (Alleinstehende mit Behinderung, Alleinstehende mit 1 Unterhaltsberechtigten oder Paar ohne Unterhaltsberechtigte), plus 4.420 € je weitere unterhaltsberechtigte Person",
+          "Mit Zustimmung des ÖSHZ liegen die Grenzen bei 43.240 € und 60.520 €, plus 4.420 € je weitere unterhaltsberechtigte Person"
+        ]
+      }
+    },
+    "notice": {
+      "date": "30 Sep 2026",
+      "source_url": "https://www.vlaanderen.be/mijn-verbouwbegeleiding-voor-onderhoud-van-verwarmingsketel",
+      "text": {
+        "en": "Announced, not yet law: in its September declaration of 30 September 2026 the Flemish Government announced that this support for boiler maintenance stops from 1 January 2027.",
+        "nl": "Aangekondigd, nog geen wet: de Vlaamse Regering kondigde in de septemberverklaring van 30 september 2026 aan dat deze begeleiding voor het onderhoud van een verwarmingsketel vanaf 1 januari 2027 stopt.",
+        "fr": "Annoncé, pas encore en vigueur : dans sa déclaration de septembre du 30 septembre 2026, le Gouvernement flamand a annoncé l'arrêt de cet accompagnement pour l'entretien de la chaudière à partir du 1er janvier 2027.",
+        "de": "Angekündigt, noch kein Gesetz: Die Flämische Regierung hat in ihrer Septembererklärung vom 30. September 2026 angekündigt, dass diese Begleitung für die Kesselwartung ab dem 1. Januar 2027 endet."
+      }
+    }
+  },
+  {
+    "id": 348,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders",
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Opvoedingswinkel / Huis van het Kind",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/ondersteuning-via-opvoedingswinkels",
+    "content": {
+      "en": {
+        "title": "Free Parenting Advice at a Parenting Shop (Opvoedingswinkel)",
+        "desc": "At a parenting shop (opvoedingswinkel) you can get parenting information and advice free of charge and anonymously. Staff listen, inform and advise you on questions about raising children. Many shops also organise information evenings, parent groups and practice sessions.",
+        "deadline": "No deadline.",
+        "amount": "Free and anonymous",
+        "requirements": [],
+        "steps": [
+          "Find the opvoedingswinkel or Huis van het Kind near you in the list on vlaanderen.be",
+          "Call, e-mail or drop in during opening hours with your question"
+        ]
+      },
+      "nl": {
+        "title": "Ondersteuning via opvoedingswinkels",
+        "desc": "Bij de opvoedingswinkels kun je gratis en anoniem terecht voor opvoedingsinformatie en raad. Ze informeren, bieden een luisterend oor en adviseren bij vragen rond opvoeden. Ze organiseren ook regelmatig informatie- en vormingsavonden, oudergroepen en oefenscholen.",
+        "deadline": "Geen termijn.",
+        "amount": "Gratis en anoniem",
+        "requirements": [],
+        "steps": [
+          "Zoek de opvoedingswinkel of het Huis van het Kind in je buurt in de lijst op vlaanderen.be",
+          "Bel, mail of loop binnen tijdens de openingsuren met je vraag"
+        ]
+      },
+      "fr": {
+        "title": "Conseils gratuits en éducation dans une Opvoedingswinkel",
+        "desc": "Dans une Opvoedingswinkel (boutique de l'éducation), vous obtenez gratuitement et anonymement des informations et des conseils sur l'éducation de vos enfants. On vous écoute, vous informe et vous conseille. Elles organisent aussi des soirées d'information, des groupes de parents et des ateliers.",
+        "deadline": "Pas de délai.",
+        "amount": "Gratuit et anonyme",
+        "requirements": [],
+        "steps": [
+          "Trouvez l'Opvoedingswinkel ou le Huis van het Kind près de chez vous dans la liste sur vlaanderen.be",
+          "Appelez, envoyez un e-mail ou passez pendant les heures d'ouverture avec votre question"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Erziehungsberatung in einem Opvoedingswinkel",
+        "desc": "In einem Opvoedingswinkel (Erziehungsladen) erhalten Sie kostenlos und anonym Informationen und Rat zur Kindererziehung. Man hört Ihnen zu, informiert und berät Sie. Die Läden organisieren auch Informationsabende, Elterngruppen und Übungskurse.",
+        "deadline": "Keine Frist.",
+        "amount": "Kostenlos und anonym",
+        "requirements": [],
+        "steps": [
+          "Suchen Sie den Opvoedingswinkel oder das Huis van het Kind in Ihrer Nähe in der Liste auf vlaanderen.be",
+          "Rufen Sie an, schreiben Sie eine E-Mail oder kommen Sie während der Öffnungszeiten vorbei"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.vlaanderen.be/ondersteuning-via-opvoedingswinkels",
+      "conditions": {
+        "en": [
+          "You are a parent or carer with a question about raising a child; no other conditions are listed"
+        ],
+        "nl": [
+          "Je bent ouder of opvoeder met een vraag over opvoeden; er worden geen andere voorwaarden vermeld"
+        ],
+        "fr": [
+          "Vous êtes parent ou éducateur et avez une question sur l'éducation ; aucune autre condition n'est mentionnée"
+        ],
+        "de": [
+          "Sie sind Elternteil oder Erziehende(r) mit einer Erziehungsfrage; weitere Bedingungen werden nicht genannt"
+        ]
+      }
+    }
+  },
+  {
+    "id": 349,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/verkooprecht/vrijstellingen-in-het-verkooprecht/vrijstelling-van-het-verkooprecht-voor-natuurgoederen",
+    "content": {
+      "en": {
+        "title": "Registration Duty Exemption When Buying Nature Land (Natuurgoederen)",
+        "desc": "When you buy unbuilt land (nature land) covered by an approved nature management plan (natuurbeheerplan), its value is fully exempt from Flemish registration duty (verkooprecht), both the land and the timber on it. The exemption is granted as a subsidy spread over 24 years, and you must keep managing the land according to the plan.",
+        "deadline": "Request it in the deed of sale.",
+        "amount": "Full exemption of registration duty on the land and timber value, paid as a subsidy of 1/24 per year over 24 years",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of the approval of the nature management plan, or of the declaration of intent with the Agency for Nature and Forests"
+          }
+        ],
+        "steps": [
+          "Ask the notary to request the exemption in the deed and attach the plan approval or the declaration of intent",
+          "Questions about the plan: Agentschap voor Natuur en Bos; about the tax: Vlaamse Belastingdienst (1700)"
+        ]
+      },
+      "nl": {
+        "title": "Vrijstelling van het verkooprecht voor natuurgoederen",
+        "desc": "Koop je onbebouwde onroerende goederen (natuurgoederen) waarvoor een natuurbeheerplan is goedgekeurd, dan is hun waarde volledig vrijgesteld van het Vlaamse verkooprecht, zowel de grond- als de opstandswaarde (het hout). De vrijstelling wordt verleend als een subsidie gespreid over 24 jaar, en je moet het goed al die tijd beheren volgens het plan.",
+        "deadline": "Vraag de vrijstelling aan in de akte.",
+        "amount": "Volledige vrijstelling van verkooprecht op de grond- en opstandswaarde, verleend als subsidie a rato van 1/24 per jaar gedurende 24 jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Afschrift van de goedkeuring van het natuurbeheerplan, of van de intentieverklaring met het Agentschap voor Natuur en Bos"
+          }
+        ],
+        "steps": [
+          "Vraag de notaris de vrijstelling in de akte aan te vragen en voeg de goedkeuring van het natuurbeheerplan of de intentieverklaring toe",
+          "Vragen over het plan: Agentschap voor Natuur en Bos; over de belasting: Vlaamse Belastingdienst (1700)"
+        ]
+      },
+      "fr": {
+        "title": "Exonération des droits d'enregistrement pour l'achat de biens naturels",
+        "desc": "Si vous achetez des biens immeubles non bâtis (biens naturels) couverts par un plan de gestion de la nature (natuurbeheerplan) approuvé, leur valeur est entièrement exonérée du droit de vente flamand, tant le sol que le bois sur pied. L'exonération est accordée sous forme de subside réparti sur 24 ans, et vous devez gérer le bien selon le plan.",
+        "deadline": "Demandez-la dans l'acte.",
+        "amount": "Exonération totale du droit de vente sur la valeur du sol et du bois, versée comme subside à raison de 1/24 par an pendant 24 ans",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie de l'approbation du plan de gestion de la nature, ou de la déclaration d'intention avec l'Agentschap voor Natuur en Bos"
+          }
+        ],
+        "steps": [
+          "Demandez au notaire de solliciter l'exonération dans l'acte et joignez l'approbation du plan ou la déclaration d'intention",
+          "Questions sur le plan : Agentschap voor Natuur en Bos ; sur l'impôt : Vlaamse Belastingdienst (1700)"
+        ]
+      },
+      "de": {
+        "title": "Befreiung von der Registrierungsgebühr beim Kauf von Naturgrundstücken",
+        "desc": "Kaufen Sie unbebaute Grundstücke (Naturgüter) mit genehmigtem Naturbewirtschaftungsplan (natuurbeheerplan), ist ihr Wert vollständig von der flämischen Verkaufsgebühr befreit, Boden und Holzbestand. Die Befreiung wird als über 24 Jahre verteilter Zuschuss gewährt, und Sie müssen das Grundstück gemäß dem Plan bewirtschaften.",
+        "deadline": "Beantragen Sie sie in der Urkunde.",
+        "amount": "Vollständige Befreiung der Verkaufsgebühr auf Boden- und Holzwert, gewährt als Zuschuss von 1/24 pro Jahr über 24 Jahre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Abschrift der Genehmigung des Naturbewirtschaftungsplans oder der Absichtserklärung mit der Agentur für Natur und Wald"
+          }
+        ],
+        "steps": [
+          "Bitten Sie den Notar, die Befreiung in der Urkunde zu beantragen, und fügen Sie die Plangenehmigung oder die Absichtserklärung bei",
+          "Fragen zum Plan: Agentur für Natur und Wald; zur Steuer: Flämische Steuerverwaltung (1700)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/verkooprecht/vrijstellingen-in-het-verkooprecht/vrijstelling-van-het-verkooprecht-voor-natuurgoederen",
+      "conditions": {
+        "en": [
+          "The land is unbuilt and has an approved nature management plan, or you signed a declaration of intent with the Agency for Nature and Forests at the latest when the deed is registered",
+          "With a declaration of intent, the first exploratory part of the plan is approved within 2 years and the plan within 4 years",
+          "An approved plan exists for 24 years and the actual management follows it; otherwise the subsidy is reclaimed"
+        ],
+        "nl": [
+          "Het gaat om onbebouwde goederen met een goedgekeurd natuurbeheerplan, of je sloot uiterlijk bij de registratie van de akte een intentieverklaring met het Agentschap voor Natuur en Bos",
+          "Bij een intentieverklaring wordt het eerste verkennende deel van het plan binnen 2 jaar goedgekeurd en het plan binnen 4 jaar",
+          "Gedurende 24 jaar bestaat er een goedgekeurd plan en het gevoerde beheer stemt ermee overeen; anders wordt de subsidie teruggevorderd"
+        ],
+        "fr": [
+          "Il s'agit de biens non bâtis avec un plan de gestion approuvé, ou vous avez signé une déclaration d'intention avec l'Agentschap voor Natuur en Bos au plus tard lors de l'enregistrement de l'acte",
+          "Avec une déclaration d'intention, la première partie exploratoire du plan est approuvée dans les 2 ans et le plan dans les 4 ans",
+          "Un plan approuvé existe pendant 24 ans et la gestion effective y correspond ; sinon le subside est récupéré"
+        ],
+        "de": [
+          "Es handelt sich um unbebaute Güter mit genehmigtem Plan, oder Sie haben spätestens bei der Registrierung der Urkunde eine Absichtserklärung mit der Agentur für Natur und Wald unterzeichnet",
+          "Bei einer Absichtserklärung wird der erste Erkundungsteil innerhalb von 2 Jahren und der Plan innerhalb von 4 Jahren genehmigt",
+          "24 Jahre lang besteht ein genehmigter Plan und die tatsächliche Bewirtschaftung entspricht ihm; sonst wird der Zuschuss zurückgefordert"
+        ]
+      }
+    }
+  },
+  {
+    "id": 350,
+    "category": "housing",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Belastingdienst",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/planbatenheffing/vrijstellingen-planbatenheffing",
+    "content": {
+      "en": {
+        "title": "Exemptions from the Flemish Land Value Tax (Planbatenheffing)",
+        "desc": "The planbatenheffing is a Flemish tax on the value a plot gains when a spatial implementation plan (RUP) changes its zoning. In five situations you do not owe it: a small zoning change, no extra permit possibilities, a change made to compensate planning damage, expropriation or transfer for public use, and rezoning of an existing building that was zoned for something else. Rules differ for RUPs provisionally adopted before or after 15 April 2024.",
+        "deadline": "Small changes: automatic. Other cases: written reasoned objection within 3 months of receiving the tax bill (for expropriation also later, as soon as possible after it is registered).",
+        "amount": "No planbatenheffing (for expropriation: on the expropriated part; amounts already paid are refunded)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Evidence for your case, e.g. old and new zoning plans, the planning-damage judgment, the expropriation record or deed, or proof that the building is permitted"
+          }
+        ],
+        "steps": [
+          "Small zoning change: nothing to do; normally you receive no tax bill",
+          "Not sure whether your case qualifies? Ask the spatial planning department (Ruimtelijke Ordening) of your municipality",
+          "Other cases: file a written reasoned objection (bezwaar) with the Vlaamse Belastingdienst and attach the evidence"
+        ]
+      },
+      "nl": {
+        "title": "Vrijstellingen van de planbatenheffing",
+        "desc": "De planbatenheffing is een Vlaamse belasting op de meerwaarde die een perceel krijgt door een bestemmingswijziging in een ruimtelijk uitvoeringsplan (RUP). In vijf situaties ben je ze niet verschuldigd: bij een kleine bestemmingswijziging, als er geen bijkomende vergunningsmogelijkheden zijn, als compensatie bij planschade, bij onteigening of overdracht in der minne ten algemenen nutte, en bij herbestemming van een zonevreemde woning, bedrijf of gebouw. De regels verschillen voor RUP's die voorlopig vastgesteld zijn vóór of ná 15 april 2024.",
+        "deadline": "Kleine wijzigingen: automatisch. Andere gevallen: schriftelijk gemotiveerd bezwaar binnen 3 maanden na ontvangst van het aanslagbiljet (bij onteigening ook later, zo snel mogelijk na de registratie).",
+        "amount": "Geen planbatenheffing (bij onteigening: voor het onteigende deel; al betaalde bedragen worden terugbetaald)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijsstukken voor jouw situatie, bv. oude en nieuwe bestemmingsplannen, het vonnis over planschade, het proces-verbaal of de akte van onteigening, of bewijs dat het gebouw vergund is"
+          }
+        ],
+        "steps": [
+          "Kleine bestemmingswijziging: je hoeft niets te doen; normaal krijg je geen aanslagbiljet",
+          "Twijfel je of je situatie in aanmerking komt? Vraag het aan de dienst Ruimtelijke Ordening van je gemeente",
+          "Andere gevallen: dien een schriftelijk gemotiveerd bezwaar in bij de Vlaamse Belastingdienst en voeg de bewijsstukken toe"
+        ]
+      },
+      "fr": {
+        "title": "Exonérations de la taxe flamande sur les bénéfices de planification (planbatenheffing)",
+        "desc": "La planbatenheffing est une taxe flamande sur la plus-value qu'une parcelle obtient lorsqu'un plan d'exécution spatial (RUP) modifie son affectation. Vous n'en êtes pas redevable dans cinq situations : petite modification d'affectation, aucune nouvelle possibilité de permis, compensation d'un dommage de planification, expropriation ou cession amiable d'utilité publique, et réaffectation d'un bâtiment existant non conforme à la zone. Les règles diffèrent selon que le RUP a été provisoirement adopté avant ou après le 15 avril 2024.",
+        "deadline": "Petites modifications : automatique. Autres cas : réclamation écrite motivée dans les 3 mois suivant la réception de l'avertissement-extrait de rôle (en cas d'expropriation, aussi plus tard, dès que possible après l'enregistrement).",
+        "amount": "Pas de planbatenheffing (en cas d'expropriation : pour la partie expropriée ; les montants déjà payés sont remboursés)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Pièces justificatives, p. ex. anciens et nouveaux plans d'affectation, jugement sur le dommage de planification, procès-verbal ou acte d'expropriation, ou preuve que le bâtiment est autorisé"
+          }
+        ],
+        "steps": [
+          "Petite modification d'affectation : rien à faire ; normalement, vous ne recevez pas d'avertissement-extrait de rôle",
+          "Vous hésitez ? Renseignez-vous auprès du service d'aménagement du territoire (Ruimtelijke Ordening) de votre commune",
+          "Autres cas : introduisez une réclamation écrite motivée auprès de la Vlaamse Belastingdienst avec les pièces justificatives"
+        ]
+      },
+      "de": {
+        "title": "Befreiungen von der flämischen Planungswertabgabe (Planbatenheffing)",
+        "desc": "Die Planbatenheffing ist eine flämische Abgabe auf den Mehrwert, den ein Grundstück durch eine Umwidmung in einem räumlichen Ausführungsplan (RUP) erhält. In fünf Fällen schulden Sie sie nicht: kleine Umwidmung, keine zusätzlichen Genehmigungsmöglichkeiten, Ausgleich eines Planungsschadens, Enteignung oder gütliche Übertragung zum Gemeinwohl und Umwidmung eines bestehenden zonenfremden Gebäudes. Die Regeln unterscheiden sich für RUP, die vor oder nach dem 15. April 2024 vorläufig festgelegt wurden.",
+        "deadline": "Kleine Änderungen: automatisch. Andere Fälle: schriftlich begründeter Einspruch innerhalb von 3 Monaten nach Erhalt des Steuerbescheids (bei Enteignung auch später, möglichst bald nach der Registrierung).",
+        "amount": "Keine Planbatenheffing (bei Enteignung: für den enteigneten Teil; bereits gezahlte Beträge werden erstattet)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweise für Ihren Fall, z. B. alte und neue Zonenpläne, das Urteil zum Planungsschaden, Protokoll oder Urkunde der Enteignung oder Nachweis der Genehmigung des Gebäudes"
+          }
+        ],
+        "steps": [
+          "Kleine Umwidmung: nichts zu tun; normalerweise erhalten Sie keinen Steuerbescheid",
+          "Unsicher? Fragen Sie beim Raumordnungsdienst (Ruimtelijke Ordening) Ihrer Gemeinde nach",
+          "Andere Fälle: Reichen Sie bei der Flämischen Steuerverwaltung einen schriftlich begründeten Einspruch mit den Nachweisen ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/planbatenheffing/vrijstellingen-planbatenheffing",
+      "conditions": {
+        "en": [
+          "Small change: all zoning changes on the plot together cover less than 200 m² (for RUPs before 15 April 2024 also: less than 25% of the plot), based on the cadastral area",
+          "Or: after the change you cannot get any building or subdivision permit you could not already get before",
+          "Or: the zoning was changed back to allow building, instead of paying planning damages a court ordered",
+          "Or: the plot is expropriated or transferred for public use from you, and the compensation did not include the value gained from the plan",
+          "Or: a zone-foreign building that is mainly permitted and not derelict (or, for newer RUPs, a plot in a valid housing subdivision) gets a matching zoning"
+        ],
+        "nl": [
+          "Kleine wijziging: alle bestemmingswijzigingen op het perceel samen beslaan minder dan 200 m² (bij RUP's vóór 15 april 2024 ook: minder dan 25% van het perceel), op basis van de kadastrale oppervlakte",
+          "Of: na de wijziging kun je geen verkavelings- of stedenbouwkundige vergunning krijgen die je vroeger ook al niet kon krijgen",
+          "Of: de bestemming werd teruggezet naar bouwgrond in plaats van een door de rechter opgelegde planschadevergoeding te betalen",
+          "Of: het perceel wordt bij jou onteigend of in der minne overgedragen ten algemenen nutte, en de vergoeding hield geen rekening met de meerwaarde uit het plan",
+          "Of: een zonevreemd gebouw dat hoofdzakelijk vergund en niet verkrot is (of, bij nieuwere RUP's, een perceel in een niet-vervallen verkaveling voor woningbouw) krijgt een passende bestemming"
+        ],
+        "fr": [
+          "Petite modification : toutes les modifications sur la parcelle couvrent ensemble moins de 200 m² (pour les RUP avant le 15 avril 2024 aussi : moins de 25 % de la parcelle), sur la base de la superficie cadastrale",
+          "Ou : après la modification, vous ne pouvez obtenir aucun permis d'urbanisme ou de lotir que vous ne pouviez déjà obtenir avant",
+          "Ou : l'affectation a été rétablie pour permettre de bâtir, au lieu de payer une indemnité pour dommage de planification ordonnée par le juge",
+          "Ou : la parcelle vous est expropriée ou cédée à l'amiable pour cause d'utilité publique, et l'indemnité n'a pas tenu compte de la plus-value du plan",
+          "Ou : un bâtiment non conforme à la zone, principalement autorisé et non délabré (ou, pour les RUP récents, une parcelle dans un lotissement résidentiel non périmé), reçoit une affectation adaptée"
+        ],
+        "de": [
+          "Kleine Änderung: alle Umwidmungen auf dem Grundstück zusammen betreffen weniger als 200 m² (bei RUP vor dem 15. April 2024 auch: weniger als 25 % des Grundstücks), nach Katasterfläche",
+          "Oder: nach der Änderung können Sie keine Bau- oder Parzellierungsgenehmigung erhalten, die Sie nicht schon vorher erhalten konnten",
+          "Oder: die Zone wurde wieder bebaubar gemacht, statt einen gerichtlich angeordneten Planungsschaden zu zahlen",
+          "Oder: das Grundstück wird bei Ihnen enteignet oder gütlich zum Gemeinwohl übertragen, und die Entschädigung berücksichtigte den Mehrwert aus dem Plan nicht",
+          "Oder: ein zonenfremdes, überwiegend genehmigtes und nicht verfallenes Gebäude (oder bei neueren RUP ein Grundstück in einer gültigen Wohnparzellierung) erhält eine passende Zonierung"
+        ]
+      }
+    }
+  },
+  {
+    "id": 351,
+    "category": "housing",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Agentschap Onroerend Erfgoed",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten",
+    "content": {
+      "en": {
+        "title": "Premium for Excessive Costs of a Compulsory Archaeological Excavation",
+        "desc": "If your building project needs an environmental permit with an archaeology note and a compulsory excavation follows, you can get a premium towards those costs. It is meant for occasional builders, such as private individuals, who cannot spread the cost over several projects. Professional property developers, governments, utilities, projects built to sell and subdivisions do not qualify.",
+        "deadline": "From the submission of the archaeology report until 120 days after it.",
+        "amount": "Fixed amount from a formula: a base of €12,123, adjusted for the duration, method and traces found, minus a €1,500 deductible",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "'Gegevens onderzoek' form and annexes from your recognised archaeologist"
+          },
+          {
+            "type": "id",
+            "label": "eID or itsme to apply online"
+          }
+        ],
+        "steps": [
+          "After the fieldwork, your recognised archaeologist submits the archaeology report and gives you the 'Gegevens onderzoek' form",
+          "Apply via the e-loket of Onroerend Erfgoed with eID or itsme (on paper by post only if you have no digital key)",
+          "The agency decides within 90 days"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor buitensporige opgravingskosten bij verplicht archeologisch onderzoek",
+        "desc": "Moet er voor je bouwproject na een archeologienota bij de omgevingsvergunning een verplichte opgraving gebeuren, dan kun je een premie krijgen voor die kosten. Ze is bedoeld voor occasionele bouwheren, zoals particulieren, die de kosten niet kunnen spreiden over verschillende bouwprojecten. Beroepsmatige vastgoedontwikkelaars, overheden, nutsbedrijven, vastgoed om te verkopen en verkavelingen komen niet in aanmerking.",
+        "deadline": "Vanaf de indiening van het archeologierapport tot 120 dagen daarna.",
+        "amount": "Forfaitair bedrag volgens een formule: een basiskost van 12.123 euro, verhoogd of verlaagd volgens duur, werkwijze en aangetroffen sporen, min een franchise van 1.500 euro",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier 'Gegevens onderzoek' en bijlagen van je erkend archeoloog"
+          },
+          {
+            "type": "id",
+            "label": "eID of itsme om online aan te vragen"
+          }
+        ],
+        "steps": [
+          "Na het veldwerk dient je erkend archeoloog het archeologierapport in en bezorgt je het formulier 'Gegevens onderzoek'",
+          "Vraag de premie aan via het e-loket van Onroerend Erfgoed met eID of itsme (op papier per post alleen als je geen digitale sleutel hebt)",
+          "Het agentschap beslist binnen 90 dagen"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour frais de fouilles excessifs lors d'une fouille archéologique obligatoire",
+        "desc": "Si votre projet de construction nécessite, après une note archéologique jointe au permis d'environnement, une fouille obligatoire, vous pouvez obtenir une prime pour ces frais. Elle s'adresse aux maîtres d'ouvrage occasionnels, comme les particuliers, qui ne peuvent pas répartir le coût sur plusieurs projets. Les promoteurs immobiliers professionnels, pouvoirs publics, entreprises d'utilité publique, biens développés pour la vente et lotissements sont exclus.",
+        "deadline": "À partir du dépôt du rapport archéologique et jusqu'à 120 jours après.",
+        "amount": "Montant forfaitaire selon une formule : coût de base de 12 123 €, ajusté selon la durée, la méthode et les traces trouvées, moins une franchise de 1 500 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire 'Gegevens onderzoek' et annexes de votre archéologue agréé"
+          },
+          {
+            "type": "id",
+            "label": "eID ou itsme pour la demande en ligne"
+          }
+        ],
+        "steps": [
+          "Après le travail de terrain, votre archéologue agréé dépose le rapport et vous remet le formulaire 'Gegevens onderzoek'",
+          "Demandez la prime via l'e-loket d'Onroerend Erfgoed avec eID ou itsme (sur papier par la poste uniquement sans clé numérique)",
+          "L'agence décide dans les 90 jours"
+        ]
+      },
+      "de": {
+        "title": "Prämie für übermäßige Kosten einer verpflichtenden archäologischen Ausgrabung",
+        "desc": "Muss für Ihr Bauprojekt nach einer Archäologienotiz zur Umgebungsgenehmigung eine Pflichtausgrabung erfolgen, können Sie eine Prämie für diese Kosten erhalten. Sie ist für gelegentliche Bauherren wie Privatpersonen gedacht, die die Kosten nicht auf mehrere Projekte verteilen können. Gewerbliche Immobilienentwickler, Behörden, Versorgungsunternehmen, zum Verkauf entwickelte Immobilien und Parzellierungen sind ausgeschlossen.",
+        "deadline": "Ab Einreichung des Archäologieberichts bis 120 Tage danach.",
+        "amount": "Pauschalbetrag nach Formel: Grundkosten von 12.123 €, angepasst nach Dauer, Methode und gefundenen Spuren, abzüglich eines Selbstbehalts von 1.500 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular 'Gegevens onderzoek' und Anlagen Ihres anerkannten Archäologen"
+          },
+          {
+            "type": "id",
+            "label": "eID oder itsme für den Online-Antrag"
+          }
+        ],
+        "steps": [
+          "Nach der Feldarbeit reicht Ihr anerkannter Archäologe den Bericht ein und gibt Ihnen das Formular 'Gegevens onderzoek'",
+          "Beantragen Sie die Prämie über den E-Schalter von Onroerend Erfgoed mit eID oder itsme (per Post nur ohne digitalen Schlüssel)",
+          "Die Agentur entscheidet innerhalb von 90 Tagen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.onroerenderfgoed.be/premie-voor-buitensporige-opgravingskosten",
+      "conditions": {
+        "en": [
+          "You are a private individual, association or company commissioning the project, not a professional property developer, government body or utility",
+          "The excavation is compulsory under the Onroerenderfgoeddecreet and the project is not property developed to sell or a subdivision",
+          "One premium per compulsory excavation, after the last phase; it cannot be combined with the premium for human burial remains"
+        ],
+        "nl": [
+          "Je bent een natuurlijk persoon, vereniging of onderneming die opdrachtgever is, geen beroepsmatige vastgoedontwikkelaar, overheid of nutsbedrijf",
+          "De opgraving is verplicht volgens het Onroerenderfgoeddecreet en het project is geen vastgoed dat ontwikkeld wordt om te verkopen of een verkaveling",
+          "Eén premie per verplichte opgraving, na de laatste fase; niet combineerbaar met de premie voor menselijke inhumatieresten"
+        ],
+        "fr": [
+          "Vous êtes un particulier, une association ou une entreprise maître d'ouvrage, et non un promoteur immobilier professionnel, un pouvoir public ou une entreprise d'utilité publique",
+          "La fouille est obligatoire en vertu de l'Onroerenderfgoeddecreet et le projet n'est ni un bien développé pour la vente ni un lotissement",
+          "Une prime par fouille obligatoire, après la dernière phase ; non cumulable avec la prime pour restes humains inhumés"
+        ],
+        "de": [
+          "Sie sind Privatperson, Verein oder Unternehmen als Auftraggeber, kein gewerblicher Immobilienentwickler, keine Behörde und kein Versorgungsunternehmen",
+          "Die Ausgrabung ist nach dem Onroerenderfgoeddecreet verpflichtend und das Projekt ist weder zum Verkauf entwickelt noch eine Parzellierung",
+          "Eine Prämie pro Pflichtausgrabung, nach der letzten Phase; nicht kombinierbar mit der Prämie für menschliche Bestattungsreste"
+        ]
+      }
+    }
+  },
+  {
+    "id": 352,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Agentschap Wegen en Verkeer",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/vergoeding-voor-schade-door-slechte-staat-van-een-gewestweg-of-door-wegenwerken-op-een-gewestweg",
+    "content": {
+      "en": {
+        "title": "Compensation for Damage Caused by a Regional Road or Roadworks",
+        "desc": "Were you injured, or was your car, bike or home damaged, because of the poor state of a Flemish regional road or motorway (numbered, such as N2, R6 or E40) or roadworks on it? If you think the road manager (Agentschap Wegen en Verkeer) is liable, you can claim compensation. You must prove the circumstances and the damage. For municipal roads, claim from the municipality.",
+        "deadline": "Call the police as soon as possible after the incident.",
+        "amount": "Compensation for the proven damage if the road manager is found liable",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Police report (PV), photos, witness statements and proof of the damage (medical certificates, repair quote or invoice...)"
+          }
+        ],
+        "steps": [
+          "Call the police so they can make a report on site; if they cannot come, collect as much evidence as you can",
+          "Put together a file: your name and address, date, exact location, likely cause, description of the damage, evidence and the amount you claim",
+          "Send it via your insurer, or directly to the provincial Afdeling Wegen en Verkeer where the damage happened (for roadworks also to the contractor)",
+          "For vehicle damage an expert assesses the damage; the agency's legal service then gives its position"
+        ]
+      },
+      "nl": {
+        "title": "Vergoeding voor schade door slechte staat van een gewestweg of door wegenwerken op een gewestweg",
+        "desc": "Heb je lichamelijke schade, of schade aan je voertuig, fiets of woning, door de slechte staat van een gewestweg of autosnelweg (met een nummer zoals N2, R6 of E40) of door wegenwerken erop? En vind je dat de wegbeheerder (Agentschap Wegen en Verkeer) aansprakelijk is? Dan kun je een schadevergoeding aanvragen. Je moet de omstandigheden en de schade zelf bewijzen. Voor gemeentewegen vraag je de vergoeding aan bij de gemeente.",
+        "deadline": "Neem zo snel mogelijk contact op met de politie.",
+        "amount": "Vergoeding van de bewezen schade als de wegbeheerder aansprakelijk is",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proces-verbaal van de politie, foto's, getuigenverklaringen en bewijs van de schade (doktersattesten, bestek of factuur van herstelling...)"
+          }
+        ],
+        "steps": [
+          "Bel de politie zodat ze ter plaatse een proces-verbaal opmaakt; kan ze niet komen, verzamel dan zelf zoveel mogelijk bewijs",
+          "Stel een dossier samen: naam en adres, datum, zo exact mogelijke plaats, vermoedelijke oorzaak, omschrijving van de schade, bewijsstukken en het gevraagde bedrag",
+          "Dien het in via je verzekeraar, of rechtstreeks bij de provinciale Afdeling Wegen en Verkeer waar de schade gebeurde (bij wegenwerken ook bij de aannemer)",
+          "Bij voertuigschade begroot een expert de schade; daarna neemt de juridische dienst van het agentschap een standpunt in"
+        ]
+      },
+      "fr": {
+        "title": "Indemnisation des dommages causés par une route régionale ou des travaux routiers",
+        "desc": "Avez-vous subi un dommage corporel, ou un dommage à votre véhicule, vélo ou logement, à cause du mauvais état d'une route régionale ou autoroute flamande (numérotée, comme N2, R6 ou E40) ou de travaux routiers ? Si vous estimez que le gestionnaire (Agentschap Wegen en Verkeer) est responsable, vous pouvez demander une indemnisation. Vous devez prouver les circonstances et le dommage. Pour les routes communales, adressez-vous à la commune.",
+        "deadline": "Contactez la police le plus rapidement possible.",
+        "amount": "Indemnisation du dommage prouvé si le gestionnaire est jugé responsable",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Procès-verbal de police, photos, témoignages et preuves du dommage (certificats médicaux, devis ou facture de réparation...)"
+          }
+        ],
+        "steps": [
+          "Appelez la police pour qu'elle dresse un procès-verbal sur place ; si elle ne peut pas venir, rassemblez vous-même un maximum de preuves",
+          "Constituez un dossier : nom et adresse, date, lieu exact, cause probable, description du dommage, preuves et montant demandé",
+          "Envoyez-le via votre assureur, ou directement à l'Afdeling Wegen en Verkeer de la province où le dommage s'est produit (pour des travaux, aussi à l'entrepreneur)",
+          "Pour un véhicule, un expert évalue le dommage ; le service juridique de l'agence prend ensuite position"
+        ]
+      },
+      "de": {
+        "title": "Entschädigung für Schäden durch eine Regionalstraße oder Straßenarbeiten",
+        "desc": "Haben Sie Personenschaden oder Schaden an Fahrzeug, Fahrrad oder Wohnung erlitten durch den schlechten Zustand einer flämischen Regionalstraße oder Autobahn (nummeriert, wie N2, R6 oder E40) oder durch Straßenarbeiten? Halten Sie den Straßenverwalter (Agentschap Wegen en Verkeer) für haftbar, können Sie Schadenersatz beantragen. Sie müssen Umstände und Schaden selbst beweisen. Bei Gemeindestraßen wenden Sie sich an die Gemeinde.",
+        "deadline": "Wenden Sie sich so schnell wie möglich an die Polizei.",
+        "amount": "Ersatz des nachgewiesenen Schadens, wenn der Straßenverwalter haftet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Polizeiprotokoll, Fotos, Zeugenaussagen und Schadensnachweise (ärztliche Atteste, Kostenvoranschlag oder Reparaturrechnung...)"
+          }
+        ],
+        "steps": [
+          "Rufen Sie die Polizei, damit sie vor Ort ein Protokoll erstellt; kann sie nicht kommen, sammeln Sie selbst möglichst viele Beweise",
+          "Stellen Sie eine Akte zusammen: Name und Adresse, Datum, genauer Ort, vermutliche Ursache, Schadensbeschreibung, Beweise und geforderter Betrag",
+          "Reichen Sie sie über Ihren Versicherer oder direkt bei der Provinzabteilung Wegen en Verkeer ein, in der der Schaden entstand (bei Straßenarbeiten auch beim Bauunternehmer)",
+          "Bei Fahrzeugschäden bewertet ein Sachverständiger den Schaden; danach nimmt der Rechtsdienst der Agentur Stellung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.vlaanderen.be/vergoeding-voor-schade-door-slechte-staat-van-een-gewestweg-of-door-wegenwerken-op-een-gewestweg",
+      "conditions": {
+        "en": [
+          "The damage was caused by the poor state of a Flemish regional road or motorway, or by roadworks on or along it",
+          "You can prove the circumstances and the damage, and the road manager is liable"
+        ],
+        "nl": [
+          "De schade werd veroorzaakt door de slechte staat van een Vlaamse gewestweg of autosnelweg, of door wegenwerken erop of erlangs",
+          "Je kunt de omstandigheden en de schade bewijzen, en de wegbeheerder is aansprakelijk"
+        ],
+        "fr": [
+          "Le dommage a été causé par le mauvais état d'une route régionale ou autoroute flamande, ou par des travaux sur ou le long de celle-ci",
+          "Vous pouvez prouver les circonstances et le dommage, et le gestionnaire est responsable"
+        ],
+        "de": [
+          "Der Schaden wurde durch den schlechten Zustand einer flämischen Regionalstraße oder Autobahn oder durch Arbeiten daran verursacht",
+          "Sie können Umstände und Schaden beweisen, und der Straßenverwalter haftet"
+        ]
+      }
+    }
+  },
+  {
+    "id": 353,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Vlaams Centrum Elektronisch Toezicht",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/gezondheid-en-welzijn/conflicten-en-misdrijven/na-een-veroordeling/leefvergoeding-bij-elektronisch-toezicht",
+    "content": {
+      "en": {
+        "title": "Living Allowance During Electronic Monitoring",
+        "desc": "If you are under electronic monitoring (ankle tag) instead of a prison sentence or pre-trial detention, and you have no or too little personal income, you can get a weekly living allowance from the Flemish Centre for Electronic Monitoring for as long as the monitoring lasts.",
+        "deadline": "Apply within one month of the start of monitoring to be paid from that start; later applications are paid from the date the complete file is received. Past periods are not paid.",
+        "amount": "Weekly allowance; the amount depends on whether you live alone or with others and on your own income",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form 'Aanvraag leefvergoeding elektronisch toezicht'"
+          },
+          {
+            "type": "id",
+            "label": "Copy of your identity document"
+          },
+          {
+            "type": "card",
+            "label": "Copy of your bank card"
+          }
+        ],
+        "steps": [
+          "Fill in the application form and add copies of your bank card and identity document (and the 'Derde rekening' form if the account is not yours)",
+          "Add a certificate from your health fund on incapacity benefits and, if you work, last month's payslips",
+          "E-mail the signed form and documents to vcet.leefvergoedingen@vlaanderen.be; you get a written decision within 5 working days"
+        ]
+      },
+      "nl": {
+        "title": "Leefvergoeding bij elektronisch toezicht",
+        "desc": "Sta je onder elektronisch toezicht (enkelband) als alternatief voor een gevangenisstraf of voorlopige hechtenis, en heb je geen of onvoldoende persoonlijke inkomsten? Dan kun je bij het Vlaams Centrum Elektronisch Toezicht een wekelijkse leefvergoeding krijgen zolang het toezicht loopt.",
+        "deadline": "Vraag aan binnen een maand na de start van het toezicht om vanaf die start betaald te worden; bij een latere aanvraag start de betaling op de datum van het volledige dossier. Voor een periode uit het verleden kun je niets aanvragen.",
+        "amount": "Wekelijkse leefvergoeding; het bedrag hangt af van je leefsituatie (alleenstaand of samenwonend) en je persoonlijke inkomsten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier 'Aanvraag leefvergoeding elektronisch toezicht'"
+          },
+          {
+            "type": "id",
+            "label": "Kopie van je identiteitsbewijs"
+          },
+          {
+            "type": "card",
+            "label": "Kopie van je bankkaart"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in en voeg een kopie van je bankkaart en identiteitsbewijs toe (en het attest 'Derde rekening' als de rekening niet van jou is)",
+          "Voeg een attest van je ziekenfonds over arbeidsongeschiktheidsuitkeringen toe en, als je werkt, de loonfiches van de vorige maand",
+          "Mail het ondertekende formulier en de documenten naar vcet.leefvergoedingen@vlaanderen.be; je krijgt binnen 5 werkdagen een schriftelijke beslissing"
+        ]
+      },
+      "fr": {
+        "title": "Indemnité de subsistance pendant la surveillance électronique",
+        "desc": "Si vous êtes sous surveillance électronique (bracelet) en alternative à une peine de prison ou à la détention préventive, et que vous n'avez pas ou trop peu de revenus personnels, vous pouvez recevoir du Vlaams Centrum Elektronisch Toezicht une indemnité de subsistance hebdomadaire pendant toute la durée de la surveillance.",
+        "deadline": "Demandez dans le mois suivant le début de la surveillance pour être payé dès ce début ; sinon, le paiement commence à la date du dossier complet. Les périodes passées ne sont pas payées.",
+        "amount": "Indemnité hebdomadaire ; le montant dépend de votre situation (isolé ou cohabitant) et de vos revenus personnels",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire 'Aanvraag leefvergoeding elektronisch toezicht'"
+          },
+          {
+            "type": "id",
+            "label": "Copie de votre pièce d'identité"
+          },
+          {
+            "type": "card",
+            "label": "Copie de votre carte bancaire"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire et joignez une copie de votre carte bancaire et de votre pièce d'identité (et l'attestation 'Derde rekening' si le compte n'est pas le vôtre)",
+          "Joignez une attestation de votre mutualité sur les indemnités d'incapacité et, si vous travaillez, les fiches de paie du mois précédent",
+          "Envoyez le formulaire signé et les documents à vcet.leefvergoedingen@vlaanderen.be ; vous recevez une décision écrite dans les 5 jours ouvrables"
+        ]
+      },
+      "de": {
+        "title": "Lebensunterhaltsbeihilfe während der elektronischen Überwachung",
+        "desc": "Stehen Sie unter elektronischer Überwachung (Fußfessel) als Alternative zu einer Haftstrafe oder Untersuchungshaft und haben Sie kein oder zu wenig eigenes Einkommen, können Sie vom Flämischen Zentrum für elektronische Überwachung für die Dauer der Überwachung eine wöchentliche Beihilfe erhalten.",
+        "deadline": "Beantragen Sie innerhalb eines Monats nach Beginn der Überwachung, um ab Beginn bezahlt zu werden; sonst ab dem Datum der vollständigen Akte. Vergangene Zeiträume werden nicht bezahlt.",
+        "amount": "Wöchentliche Beihilfe; der Betrag hängt von Ihrer Wohnsituation (alleinstehend oder zusammenwohnend) und Ihrem eigenen Einkommen ab",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular 'Aanvraag leefvergoeding elektronisch toezicht'"
+          },
+          {
+            "type": "id",
+            "label": "Kopie Ihres Ausweises"
+          },
+          {
+            "type": "card",
+            "label": "Kopie Ihrer Bankkarte"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular aus und fügen Sie Kopien von Bankkarte und Ausweis bei (und die Bescheinigung 'Derde rekening', wenn das Konto nicht Ihres ist)",
+          "Fügen Sie eine Bescheinigung Ihrer Krankenkasse über Arbeitsunfähigkeitsleistungen und, wenn Sie arbeiten, die Lohnzettel des Vormonats bei",
+          "Senden Sie das unterschriebene Formular mit den Unterlagen an vcet.leefvergoedingen@vlaanderen.be; Sie erhalten innerhalb von 5 Werktagen eine schriftliche Entscheidung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.vlaanderen.be/gezondheid-en-welzijn/conflicten-en-misdrijven/na-een-veroordeling/leefvergoeding-bij-elektronisch-toezicht",
+      "conditions": {
+        "en": [
+          "You are currently under electronic monitoring as an alternative to a prison sentence you were given or to pre-trial detention",
+          "Your personal income (wages, pension, unemployment, sickness or invalidity benefit...) is nil or below €417.07 if you live with others, or €625.50 if you live alone",
+          "You report any change in your situation or income; payment stops when the monitoring stops"
+        ],
+        "nl": [
+          "Je staat momenteel onder elektronisch toezicht als alternatief voor een gevangenisstraf waartoe je veroordeeld werd of voor voorlopige hechtenis",
+          "Je persoonlijke inkomsten (loon, pensioen, werkloosheids-, ziekte- of invaliditeitsuitkering...) zijn nul of lager dan 417,07 euro als je samenwoont, of 625,50 euro als je alleenstaand bent",
+          "Je meldt elke wijziging in je situatie of inkomsten; de betaling stopt wanneer het toezicht stopt"
+        ],
+        "fr": [
+          "Vous êtes actuellement sous surveillance électronique en alternative à une peine de prison prononcée ou à la détention préventive",
+          "Vos revenus personnels (salaire, pension, allocations de chômage, de maladie ou d'invalidité...) sont nuls ou inférieurs à 417,07 € si vous cohabitez, ou 625,50 € si vous êtes isolé",
+          "Vous signalez tout changement de situation ou de revenus ; le paiement s'arrête avec la surveillance"
+        ],
+        "de": [
+          "Sie stehen derzeit unter elektronischer Überwachung als Alternative zu einer verhängten Haftstrafe oder zur Untersuchungshaft",
+          "Ihr eigenes Einkommen (Lohn, Rente, Arbeitslosen-, Kranken- oder Invaliditätsleistung...) ist null oder liegt unter 417,07 € bei Zusammenwohnenden bzw. 625,50 € bei Alleinstehenden",
+          "Sie melden jede Änderung Ihrer Lage oder Ihres Einkommens; die Zahlung endet mit der Überwachung"
+        ]
+      }
+    }
+  },
+  {
+    "id": 354,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Federale Pensioendienst / Service fédéral des Pensions",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.sfpd.fgov.be/nl/pensioenbedrag/berekening/gewaarborgd-minimum-pensioen",
+    "content": {
+      "en": {
+        "title": "Guaranteed Minimum Pension",
+        "desc": "When the Federal Pension Service calculates your retirement or survivor's pension, it raises it to a guaranteed minimum if you meet the career conditions: in short, at least 30 years of work (two thirds of a full career) and enough days actually worked. For employees and mixed careers the minimum is set for a full 45-year career and reduced in proportion to your career. You do not need to apply.",
+        "deadline": "Automatic when your pension is calculated.",
+        "amount": "Employees and mixed careers, full 45-year career, from 1 September 2026: €2,351.65 gross/month at the household rate, €1,881.92 single, €1,856.77 survivor's pension; reduced in proportion to a shorter career. Civil servants: €2,351.89 married, €1,881.58 single",
+        "requirements": [],
+        "steps": [
+          "Nothing to request: the Federal Pension Service checks your right when it calculates your pension",
+          "Check your career and estimated pension on mypension.be; self-employed rules are on the RSVZ website"
+        ]
+      },
+      "nl": {
+        "title": "Gewaarborgd minimumpensioen",
+        "desc": "Wanneer de Federale Pensioendienst je rust- of overlevingspensioen berekent, verhoogt hij het tot een gewaarborgd minimumbedrag als je aan de loopbaanvoorwaarden voldoet: kort gezegd minstens 30 jaar loopbaan (2/3 van een volledige loopbaan) en genoeg effectief gewerkte dagen. Voor werknemers en gemengde loopbanen geldt het bedrag voor een volledige loopbaan van 45 jaar, verminderd in verhouding tot je loopbaan. Je hoeft niets aan te vragen.",
+        "deadline": "Automatisch bij de berekening van je pensioen.",
+        "amount": "Werknemers en gemengde loopbaan, volledige loopbaan van 45 jaar, vanaf 1 september 2026: 2.351,65 euro bruto per maand aan gezinsbedrag, 1.881,92 euro als alleenstaande, 1.856,77 euro overlevingspensioen; verminderd in verhouding tot een kortere loopbaan. Ambtenaren: 2.351,89 euro gehuwd, 1.881,58 euro alleenstaand",
+        "requirements": [],
+        "steps": [
+          "Je hoeft niets aan te vragen: de Federale Pensioendienst gaat je recht na bij de berekening van je pensioen",
+          "Bekijk je loopbaan en geschat pensioen op mypension.be; de regels voor zelfstandigen staan op de website van het RSVZ"
+        ]
+      },
+      "fr": {
+        "title": "Pension minimum garantie",
+        "desc": "Lorsque le Service fédéral des Pensions calcule votre pension de retraite ou de survie, il la porte à un montant minimum garanti si vous remplissez les conditions de carrière : en bref, au moins 30 ans de carrière (2/3 d'une carrière complète) et assez de jours effectivement prestés. Pour les salariés et carrières mixtes, le montant vaut pour une carrière complète de 45 ans et est réduit en proportion de votre carrière. Aucune demande n'est nécessaire.",
+        "deadline": "Automatique lors du calcul de votre pension.",
+        "amount": "Salariés et carrières mixtes, carrière complète de 45 ans, à partir du 1er septembre 2026 : 2 351,65 € bruts par mois au taux ménage, 1 881,92 € isolé, 1 856,77 € pension de survie ; réduit en proportion d'une carrière plus courte. Fonctionnaires : 2 351,89 € marié, 1 881,58 € isolé",
+        "requirements": [],
+        "steps": [
+          "Rien à demander : le Service fédéral des Pensions vérifie votre droit lors du calcul de votre pension",
+          "Consultez votre carrière et votre pension estimée sur mypension.be ; les règles pour indépendants sont sur le site de l'INASTI"
+        ]
+      },
+      "de": {
+        "title": "Garantierte Mindestpension",
+        "desc": "Wenn der Föderale Pensionsdienst Ihre Ruhestands- oder Hinterbliebenenpension berechnet, erhöht er sie auf einen garantierten Mindestbetrag, wenn Sie die Laufbahnbedingungen erfüllen: kurz gesagt mindestens 30 Jahre Laufbahn (2/3 einer vollen Laufbahn) und genügend tatsächlich gearbeitete Tage. Für Arbeitnehmer und gemischte Laufbahnen gilt der Betrag für eine volle Laufbahn von 45 Jahren und wird anteilig gekürzt. Sie müssen nichts beantragen.",
+        "deadline": "Automatisch bei der Berechnung Ihrer Pension.",
+        "amount": "Arbeitnehmer und gemischte Laufbahn, volle Laufbahn von 45 Jahren, ab 1. September 2026: 2.351,65 € brutto im Monat zum Haushaltssatz, 1.881,92 € Alleinstehende, 1.856,77 € Hinterbliebenenpension; anteilig gekürzt bei kürzerer Laufbahn. Beamte: 2.351,89 € verheiratet, 1.881,58 € alleinstehend",
+        "requirements": [],
+        "steps": [
+          "Kein Antrag nötig: Der Föderale Pensionsdienst prüft Ihren Anspruch bei der Berechnung Ihrer Pension",
+          "Prüfen Sie Ihre Laufbahn und geschätzte Pension auf mypension.be; Regeln für Selbstständige stehen auf der Website des LISVS"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.sfpd.fgov.be/nl/pensioenbedrag/berekening/gewaarborgd-minimum-pensioen",
+      "conditions": {
+        "en": [
+          "Full-time minimum: a career of at least 2/3 of a full career (30 years for almost all employees) of years with at least 208 days, and at least 5,000 days actually worked",
+          "Part-time minimum: 30 career years of at least 156 days and at least 3,120 days actually worked",
+          "People born between 1963 and 1969 need fewer worked days under transitional rules; childminders, seafarers, aircrew, miners and people retired for physical unfitness have adapted rules"
+        ],
+        "nl": [
+          "Voltijds minimum: een loopbaan van minstens 2/3 van een volledige loopbaan (voor bijna alle werknemers 30 jaar) met jaren van minstens 208 dagen, en minstens 5.000 effectief gewerkte dagen",
+          "Deeltijds minimum: 30 loopbaanjaren van minstens 156 dagen en minstens 3.120 effectief gewerkte dagen",
+          "Wie geboren is tussen 1963 en 1969 moet minder gewerkte dagen bewijzen (overgangsmaatregelen); voor onthaalouders, zeevarenden, vliegend personeel, mijnwerkers en wie met pensioen is wegens lichamelijke ongeschiktheid gelden aangepaste regels"
+        ],
+        "fr": [
+          "Minimum temps plein : une carrière d'au moins 2/3 d'une carrière complète (30 ans pour presque tous les salariés) d'années d'au moins 208 jours, et au moins 5 000 jours effectivement prestés",
+          "Minimum temps partiel : 30 années de carrière d'au moins 156 jours et au moins 3 120 jours effectivement prestés",
+          "Les personnes nées entre 1963 et 1969 doivent prouver moins de jours (mesures transitoires) ; des règles adaptées valent pour les accueillants d'enfants, marins, personnel navigant, mineurs et pensionnés pour inaptitude physique"
+        ],
+        "de": [
+          "Vollzeit-Minimum: eine Laufbahn von mindestens 2/3 einer vollen Laufbahn (für fast alle Arbeitnehmer 30 Jahre) mit Jahren von mindestens 208 Tagen und mindestens 5.000 tatsächlich gearbeitete Tage",
+          "Teilzeit-Minimum: 30 Laufbahnjahre mit mindestens 156 Tagen und mindestens 3.120 tatsächlich gearbeitete Tage",
+          "Personen der Jahrgänge 1963 bis 1969 müssen weniger Tage nachweisen (Übergangsregeln); für Tageseltern, Seeleute, fliegendes Personal, Bergleute und wegen körperlicher Untauglichkeit Pensionierte gelten angepasste Regeln"
+        ]
+      }
+    }
+  },
+  {
+    "id": 355,
+    "category": "health",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Federal"
+    ],
+    "communes": [],
+    "institution": "Ziekenfonds / Mutualité (RIZIV-INAMI)",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/vergoeding-van-medische-voeding-bij-koemelkallergie-voor-zuigelingen",
+    "content": {
+      "en": {
+        "title": "Reimbursed Special Formula for Babies with Cow's Milk Allergy",
+        "desc": "If your baby has a confirmed cow's milk protein allergy (or a related condition such as galactosaemia), the health insurance reimburses extensively hydrolysed formula and, since 1 September 2026, rice hydrolysate formula. If that does not work, amino acid formula is reimbursed. Breastfeeding remains the first choice but is not a condition. Goat's milk and soy drinks are not reimbursed.",
+        "deadline": "Authorisation for 3 to 12 months depending on the diagnosis (amino acid formula 4 to 12 months; galactosaemia up to the 2nd birthday); extension after a food challenge test.",
+        "amount": "Hydrolysate formulas: reimbursed up to €24 per 400 g pack, you pay at most €12 per pack. Amino acid formula: you pay 15% (max €8.50) with increased reimbursement, otherwise 25% (max €12.80) (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Form C12 (hydrolysates) or detailed report (amino acid formula) from the specialist, plus a prescription"
+          }
+        ],
+        "steps": [
+          "Ask the treating paediatric specialist to fill in form C12 (hydrolysates) or write a detailed report (amino acid formula)",
+          "Hand the documents to your health fund; its advising doctor decides and sends you an authorisation",
+          "Show the authorisation and the prescription at the pharmacy when you collect the formula"
+        ]
+      },
+      "nl": {
+        "title": "Vergoeding van medische voeding bij koemelkallergie voor zuigelingen",
+        "desc": "Heeft je baby een bevestigde koemelkeiwitallergie (of een aanverwante aandoening zoals galactosemie), dan vergoedt de ziekteverzekering extensieve koemelkeiwithydrolysaten en sinds 1 september 2026 ook rijsthydrolysaten. Werkt dat niet, dan wordt aminozuurvoeding vergoed. Borstvoeding blijft de eerste keuze, maar is geen voorwaarde. Dranken op basis van geitenmelk of soja worden niet vergoed.",
+        "deadline": "Machtiging voor 3 tot 12 maanden afhankelijk van de diagnose (aminozuurvoeding 4 tot 12 maanden; galactosemie tot de 2e verjaardag); verlenging na een food challenge-test.",
+        "amount": "Hydrolysaten: vergoed tot 24 euro per verpakking van 400 gram, je betaalt maximaal 12 euro per verpakking. Aminozuurvoeding: je betaalt 15% (max. 8,50 euro) met verhoogde tegemoetkoming, anders 25% (max. 12,80 euro) (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulier C12 (hydrolysaten) of omstandig verslag (aminozuurvoeding) van de arts-specialist, plus een voorschrift"
+          }
+        ],
+        "steps": [
+          "Vraag de behandelende arts-specialist het formulier C12 in te vullen (hydrolysaten) of een omstandig verslag op te stellen (aminozuurvoeding)",
+          "Bezorg de documenten aan je ziekenfonds; de adviserend arts beslist en geeft je een machtiging",
+          "Toon de machtiging en het voorschrift aan de apotheker wanneer je de voeding afhaalt"
+        ]
+      },
+      "fr": {
+        "title": "Remboursement de l'alimentation médicale pour nourrissons allergiques au lait de vache",
+        "desc": "Si votre bébé a une allergie confirmée aux protéines de lait de vache (ou une affection apparentée comme la galactosémie), l'assurance soins de santé rembourse les hydrolysats poussés de protéines de lait de vache et, depuis le 1er septembre 2026, les hydrolysats de riz. En cas d'échec, l'alimentation à base d'acides aminés est remboursée. L'allaitement reste le premier choix mais n'est pas une condition. Les boissons à base de lait de chèvre ou de soja ne sont pas remboursées.",
+        "deadline": "Autorisation de 3 à 12 mois selon le diagnostic (acides aminés 4 à 12 mois ; galactosémie jusqu'au 2e anniversaire) ; prolongation après un test de provocation alimentaire.",
+        "amount": "Hydrolysats : remboursés jusqu'à 24 € par boîte de 400 g, vous payez au maximum 12 € par boîte. Acides aminés : vous payez 15 % (max. 8,50 €) avec intervention majorée, sinon 25 % (max. 12,80 €) (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire C12 (hydrolysats) ou rapport circonstancié (acides aminés) du médecin spécialiste, plus une prescription"
+          }
+        ],
+        "steps": [
+          "Demandez au médecin spécialiste traitant de remplir le formulaire C12 (hydrolysats) ou de rédiger un rapport circonstancié (acides aminés)",
+          "Remettez les documents à votre mutualité ; le médecin-conseil décide et vous délivre une autorisation",
+          "Présentez l'autorisation et la prescription au pharmacien lors du retrait"
+        ]
+      },
+      "de": {
+        "title": "Erstattung von Spezialnahrung für Säuglinge mit Kuhmilchallergie",
+        "desc": "Hat Ihr Baby eine bestätigte Kuhmilcheiweißallergie (oder eine verwandte Erkrankung wie Galaktosämie), erstattet die Krankenversicherung extensiv hydrolysierte Nahrung und seit 1. September 2026 auch Reishydrolysate. Wirkt das nicht, wird Aminosäurenahrung erstattet. Stillen bleibt die erste Wahl, ist aber keine Bedingung. Getränke auf Ziegenmilch- oder Sojabasis werden nicht erstattet.",
+        "deadline": "Genehmigung für 3 bis 12 Monate je nach Diagnose (Aminosäurenahrung 4 bis 12 Monate; Galaktosämie bis zum 2. Geburtstag); Verlängerung nach einem Provokationstest.",
+        "amount": "Hydrolysate: erstattet bis 24 € pro 400-g-Packung, Sie zahlen höchstens 12 € pro Packung. Aminosäurenahrung: Sie zahlen 15 % (max. 8,50 €) mit erhöhter Kostenbeteiligung, sonst 25 % (max. 12,80 €) (2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formular C12 (Hydrolysate) oder ausführlicher Bericht (Aminosäurenahrung) des Facharztes sowie ein Rezept"
+          }
+        ],
+        "steps": [
+          "Bitten Sie den behandelnden Facharzt, das Formular C12 auszufüllen (Hydrolysate) oder einen ausführlichen Bericht zu schreiben (Aminosäurenahrung)",
+          "Geben Sie die Unterlagen Ihrer Krankenkasse; der Vertrauensarzt entscheidet und stellt eine Genehmigung aus",
+          "Zeigen Sie Genehmigung und Rezept in der Apotheke beim Abholen der Nahrung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.riziv.fgov.be/nl/thema-s/verzorging-kosten-en-terugbetaling/wat-het-ziekenfonds-terugbetaalt/gezondheidsproducten/terugbetaling-van-medische-voeding/vergoeding-van-medische-voeding-bij-koemelkallergie-voor-zuigelingen",
+      "conditions": {
+        "en": [
+          "Your infant's diagnosis is confirmed by a paediatrician based on tests, or by a gastroenterologist through surgery",
+          "Indication: IgE or non-IgE cow's milk protein allergy, weaning off intravenous feeding in short bowel syndrome or enteropathy, or galactosaemia",
+          "Amino acid formula only if extensively hydrolysed formula did not work well enough",
+          "The product is on the list of foods for special medical purposes and is dispensed by a pharmacist with a prescription and authorisation"
+        ],
+        "nl": [
+          "De diagnose bij je zuigeling is bevestigd door de pediater op basis van testen, of door de gastro-enteroloog door chirurgie",
+          "Indicatie: IgE- of niet-IgE-gemedieerde koemelkeiwitallergie, afbouw van parenterale voeding bij short bowel syndrome of enteropathie, of galactosemie",
+          "Aminozuurvoeding alleen als extensieve hydrolysaten onvoldoende werkzaam bleken",
+          "Het product staat op de lijst van voeding voor medisch gebruik en wordt afgeleverd door een apotheker op voorschrift en met machtiging"
+        ],
+        "fr": [
+          "Le diagnostic de votre nourrisson est confirmé par le pédiatre sur la base de tests, ou par le gastro-entérologue par chirurgie",
+          "Indication : allergie IgE ou non IgE aux protéines de lait de vache, sevrage de l'alimentation parentérale en cas de syndrome de l'intestin court ou d'entéropathie, ou galactosémie",
+          "Acides aminés uniquement si les hydrolysats poussés n'ont pas été suffisamment efficaces",
+          "Le produit figure sur la liste des aliments à des fins médicales et est délivré par un pharmacien sur prescription et avec autorisation"
+        ],
+        "de": [
+          "Die Diagnose Ihres Säuglings ist vom Kinderarzt durch Tests oder vom Gastroenterologen durch einen Eingriff bestätigt",
+          "Indikation: IgE- oder nicht-IgE-vermittelte Kuhmilcheiweißallergie, Abbau parenteraler Ernährung bei Kurzdarmsyndrom oder Enteropathie, oder Galaktosämie",
+          "Aminosäurenahrung nur, wenn extensiv hydrolysierte Nahrung nicht ausreichend wirkte",
+          "Das Produkt steht auf der Liste der Lebensmittel für besondere medizinische Zwecke und wird von einer Apotheke auf Rezept und mit Genehmigung abgegeben"
+        ]
+      }
+    }
+  },
+  {
+    "id": 356,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [],
+    "institution": "Vlaamse Gemeenschapscommissie (VGC)",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.vgc.be/subsidies-en-dienstverlening/jeugd/subsidie-kadervorming-jeugdwerkbegeleiders-individuen",
+    "content": {
+      "en": {
+        "title": "Refund of Training Fees for Youth Work Leaders in Brussels (VGC)",
+        "desc": "Leaders, or future leaders, of Brussels youth work initiatives (youth movements, youth clubs, playgrounds...) who follow a recognised training course (kadervorming), such as one leading to a youth work certificate, can get two thirds of the registration fee back from the youth service of the Flemish Community Commission (VGC).",
+        "deadline": "Apply after the training; the application period runs until 31 December 2027.",
+        "amount": "2/3 of the participation fee refunded",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of participation in the training"
+          }
+        ],
+        "steps": [
+          "Find a course on mijnkadervorming.be and complete it",
+          "Register or log in at the VGC subsidy portal (subsidieloket), fill in the application form and add proof of participation"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie kadervorming jeugdwerkbegeleiders (VGC)",
+        "desc": "Begeleiders of toekomstige begeleiders van Brusselse jeugdwerkinitiatieven (jeugdbewegingen, jeugdclubs, speelpleinen...) die een erkende kadervorming volgen, bijvoorbeeld een cursus die leidt tot een attest in het jeugdwerk, krijgen 2/3 van het inschrijvingsgeld terug van de jeugddienst van de Vlaamse Gemeenschapscommissie (VGC).",
+        "deadline": "Vraag aan na de vorming; de indienperiode loopt tot 31 december 2027.",
+        "amount": "2/3 van het deelnamegeld terugbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van deelname aan de vorming"
+          }
+        ],
+        "steps": [
+          "Zoek een cursus op mijnkadervorming.be en volg hem",
+          "Registreer je of log in op het subsidieloket van de VGC, vul het aanvraagformulier in en voeg een bewijs van deelname toe"
+        ]
+      },
+      "fr": {
+        "title": "Remboursement des frais de formation des animateurs de jeunesse à Bruxelles (VGC)",
+        "desc": "Les animateurs, actuels ou futurs, d'initiatives de jeunesse bruxelloises (mouvements de jeunesse, clubs, plaines de jeux...) qui suivent une formation reconnue (kadervorming), par exemple menant à une attestation dans le travail de jeunesse, récupèrent deux tiers des frais d'inscription auprès du service jeunesse de la Commission communautaire flamande (VGC).",
+        "deadline": "Demandez après la formation ; la période d'introduction court jusqu'au 31 décembre 2027.",
+        "amount": "2/3 des frais de participation remboursés",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve de participation à la formation"
+          }
+        ],
+        "steps": [
+          "Trouvez une formation sur mijnkadervorming.be et suivez-la",
+          "Inscrivez-vous ou connectez-vous au guichet des subsides de la VGC, remplissez le formulaire et joignez la preuve de participation"
+        ]
+      },
+      "de": {
+        "title": "Erstattung von Ausbildungsgebühren für Jugendbetreuer in Brüssel (VGC)",
+        "desc": "(Künftige) Betreuer von Brüsseler Jugendarbeitsinitiativen (Jugendbewegungen, Jugendclubs, Spielplätze...), die eine anerkannte Ausbildung (kadervorming) absolvieren, etwa einen Kurs mit Bescheinigung in der Jugendarbeit, erhalten zwei Drittel der Teilnahmegebühr vom Jugenddienst der Flämischen Gemeinschaftskommission (VGC) zurück.",
+        "deadline": "Beantragen Sie nach der Ausbildung; die Antragsfrist läuft bis zum 31. Dezember 2027.",
+        "amount": "2/3 der Teilnahmegebühr erstattet",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Teilnahmenachweis"
+          }
+        ],
+        "steps": [
+          "Suchen Sie einen Kurs auf mijnkadervorming.be und absolvieren Sie ihn",
+          "Registrieren Sie sich im Subsidienschalter der VGC oder melden Sie sich an, füllen Sie das Formular aus und fügen Sie den Teilnahmenachweis bei"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.vgc.be/subsidies-en-dienstverlening/jeugd/subsidie-kadervorming-jeugdwerkbegeleiders-individuen",
+      "conditions": {
+        "en": [
+          "You are a (future) leader in a Brussels youth work initiative recognised or organised by the VGC",
+          "You live in the Brussels-Capital Region or have a demonstrable link with a Brussels organisation that falls under the VGC",
+          "The training is recognised by the Flemish Community (leading to a youth work certificate or given by a recognised training body) or by the VGC"
+        ],
+        "nl": [
+          "Je bent (toekomstig) begeleider in een Brussels jeugdwerkinitiatief dat door de VGC erkend of georganiseerd wordt",
+          "Je woont in het Brussels Hoofdstedelijk Gewest of hebt een aantoonbare band met een Brusselse organisatie waarvoor de VGC bevoegd is",
+          "De vorming is erkend door de Vlaamse Gemeenschap (leidt tot een attest in het jeugdwerk of door een erkende vormingsinstelling) of door de VGC"
+        ],
+        "fr": [
+          "Vous êtes animateur (futur) d'une initiative de jeunesse bruxelloise reconnue ou organisée par la VGC",
+          "Vous habitez en Région de Bruxelles-Capitale ou avez un lien démontrable avec une organisation bruxelloise relevant de la VGC",
+          "La formation est reconnue par la Communauté flamande (attestation dans le travail de jeunesse ou organisme de formation reconnu) ou par la VGC"
+        ],
+        "de": [
+          "Sie sind (künftiger) Betreuer einer von der VGC anerkannten oder organisierten Brüsseler Jugendarbeitsinitiative",
+          "Sie wohnen in der Region Brüssel-Hauptstadt oder haben eine nachweisbare Verbindung zu einer Brüsseler Organisation im Zuständigkeitsbereich der VGC",
+          "Die Ausbildung ist von der Flämischen Gemeinschaft (Bescheinigung in der Jugendarbeit oder anerkannte Bildungseinrichtung) oder von der VGC anerkannt"
+        ]
+      }
+    }
+  },
+  {
+    "id": 357,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "renting"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [],
+    "institution": "Departement Zorg",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.vlaanderen.be/aanvraag-tot-onderzoek-van-het-binnenmilieu-in-een-woning-of-openbaar-gebouw",
+    "content": {
+      "en": {
+        "title": "Free Indoor Air Investigation in Your Home",
+        "desc": "If you have health complaints that may come from the air quality in your home (or in a public building such as a school), a care professional can request a free investigation of the indoor environment. The environmental health expert (Medisch Milieukundige) of your region decides whether a home visit and measurements are useful.",
+        "deadline": "No deadline.",
+        "amount": "Free",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Standard request form, filled in by the intermediary"
+          }
+        ],
+        "steps": [
+          "Contact an intermediary: your GP, the municipal (housing) officer, an OCMW nurse or social worker, or a health worker",
+          "They send a reasoned request with the standard form to the Medisch Milieukundige of your region (doctors can also send it directly to the Departement Zorg)",
+          "After a preliminary check, the expert decides on a home visit and measurements"
+        ]
+      },
+      "nl": {
+        "title": "Aanvraag tot onderzoek van het binnenmilieu in een woning of openbaar gebouw",
+        "desc": "Heb je gezondheidsklachten die te maken kunnen hebben met de luchtkwaliteit in je woning (of in een openbaar gebouw zoals een school), dan kan een hulpverlener een gratis onderzoek van het binnenmilieu aanvragen. De Medisch Milieukundige van je regio beslist of een plaatsbezoek en metingen zinvol zijn.",
+        "deadline": "Geen termijn.",
+        "amount": "Gratis",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Standaardformulier, ingevuld door de tussenpersoon"
+          }
+        ],
+        "steps": [
+          "Neem contact op met een tussenpersoon: je huisarts, de gemeentelijke (huisvestings)ambtenaar, een OCMW-verpleegkundige of maatschappelijk werker, of een gezondheidswerker",
+          "Die dient met het standaardformulier een gemotiveerde aanvraag in bij de Medisch Milieukundige van de regio (artsen kunnen ook rechtstreeks naar het Departement Zorg sturen)",
+          "Na een vooronderzoek beslist de Medisch Milieukundige over een plaatsbezoek en metingen"
+        ]
+      },
+      "fr": {
+        "title": "Examen gratuit de la qualité de l'air intérieur de votre logement",
+        "desc": "Si vous avez des problèmes de santé qui pourraient venir de la qualité de l'air de votre logement (ou d'un bâtiment public comme une école), un professionnel peut demander un examen gratuit de l'environnement intérieur. Le spécialiste en santé environnementale (Medisch Milieukundige) de votre région décide si une visite et des mesures sont utiles.",
+        "deadline": "Pas de délai.",
+        "amount": "Gratuit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire standard rempli par l'intermédiaire"
+          }
+        ],
+        "steps": [
+          "Contactez un intermédiaire : votre médecin généraliste, le fonctionnaire communal (du logement), une infirmière ou un assistant social du CPAS, ou un professionnel de santé",
+          "Il envoie une demande motivée avec le formulaire au Medisch Milieukundige de votre région (les médecins peuvent aussi l'envoyer directement au Departement Zorg)",
+          "Après un examen préalable, l'expert décide d'une visite et de mesures"
+        ]
+      },
+      "de": {
+        "title": "Kostenlose Untersuchung der Raumluft in Ihrer Wohnung",
+        "desc": "Haben Sie Beschwerden, die mit der Luftqualität in Ihrer Wohnung (oder einem öffentlichen Gebäude wie einer Schule) zusammenhängen könnten, kann eine Fachkraft eine kostenlose Raumluftuntersuchung beantragen. Der Umweltmediziner (Medisch Milieukundige) Ihrer Region entscheidet, ob ein Besuch und Messungen sinnvoll sind.",
+        "deadline": "Keine Frist.",
+        "amount": "Kostenlos",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Standardformular, ausgefüllt von der vermittelnden Person"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an eine Vermittlungsperson: Hausarzt, kommunaler (Wohnungs-)Beamter, Pflegekraft oder Sozialarbeiter des ÖSHZ oder Gesundheitsfachkraft",
+          "Diese reicht mit dem Formular einen begründeten Antrag beim Medisch Milieukundige Ihrer Region ein (Ärzte können ihn auch direkt an das Departement Zorg senden)",
+          "Nach einer Vorprüfung entscheidet der Experte über Besuch und Messungen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": "https://www.vlaanderen.be/aanvraag-tot-onderzoek-van-het-binnenmilieu-in-een-woning-of-openbaar-gebouw",
+      "conditions": {
+        "en": [
+          "You have health complaints, or run a potential health risk, because of pollution of the indoor environment",
+          "The request is made by a service or intermediary using the standard form"
+        ],
+        "nl": [
+          "Je hebt gezondheidsklachten of loopt een potentieel gezondheidsrisico door verontreiniging van het binnenmilieu",
+          "De aanvraag gebeurt door een dienst of tussenpersoon met het standaardformulier"
+        ],
+        "fr": [
+          "Vous avez des problèmes de santé ou courez un risque potentiel à cause de la pollution de l'environnement intérieur",
+          "La demande est introduite par un service ou un intermédiaire au moyen du formulaire standard"
+        ],
+        "de": [
+          "Sie haben gesundheitliche Beschwerden oder ein mögliches Gesundheitsrisiko durch Verschmutzung der Raumluft",
+          "Der Antrag wird von einem Dienst oder einer Vermittlungsperson mit dem Standardformular gestellt"
+        ]
+      }
+    }
   }
 ]
