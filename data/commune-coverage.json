@@ -431,49 +431,84 @@
       "ids": [
         239
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "25014",
-      "name": "Eigenbrakel / Braine-lAlleud"
+      "name": "Eigenbrakel / Braine-lAlleud",
+      "checked": "1 Nov 2026",
+      "ids": [
+        338
+      ]
     },
     {
       "nis": "13025",
-      "name": "Mol"
+      "name": "Mol",
+      "checked": "1 Nov 2026",
+      "ids": [
+        339,
+        340
+      ]
     },
     {
       "nis": "12021",
-      "name": "Lier / Lierre"
+      "name": "Lier / Lierre",
+      "checked": "1 Nov 2026",
+      "ids": [
+        341
+      ]
     },
     {
       "nis": "21019",
-      "name": "Sint-Pieters-Woluwe / Woluwe-Saint-Pierre"
+      "name": "Sint-Pieters-Woluwe / Woluwe-Saint-Pierre",
+      "checked": "1 Nov 2026",
+      "ids": [
+        342
+      ]
     },
     {
       "nis": "21002",
-      "name": "Oudergem / Auderghem"
+      "name": "Oudergem / Auderghem",
+      "checked": "1 Nov 2026",
+      "ids": []
     },
     {
       "nis": "21017",
-      "name": "Watermaal-Bosvoorde / Watermael-Boitsfort"
+      "name": "Watermaal-Bosvoorde / Watermael-Boitsfort",
+      "checked": "1 Nov 2026",
+      "ids": [
+        343
+      ]
     },
     {
       "nis": "21011",
-      "name": "Koekelberg"
+      "name": "Koekelberg",
+      "checked": "1 Nov 2026",
+      "ids": []
     },
     {
       "nis": "21008",
-      "name": "Ganshoren"
+      "name": "Ganshoren",
+      "checked": "1 Nov 2026",
+      "ids": [
+        344
+      ]
     },
     {
       "nis": "21003",
-      "name": "Sint-Agatha-Berchem / Berchem-Sainte-Agathe"
+      "name": "Sint-Agatha-Berchem / Berchem-Sainte-Agathe",
+      "checked": "1 Nov 2026",
+      "ids": [
+        345
+      ]
     },
     {
       "nis": "21014",
-      "name": "Sint-Joost-ten-Node / Saint-Josse-ten-Noode"
-    },
+      "name": "Sint-Joost-ten-Node / Saint-Josse-ten-Noode",
+      "checked": "1 Nov 2026",
+      "ids": []
+    }
+  ],
+  "queue": [
     {
       "nis": "71053",
       "name": "Sint-Truiden / Saint-Trond"

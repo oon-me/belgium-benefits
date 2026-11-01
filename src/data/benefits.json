@@ -39493,5 +39493,1145 @@
         ]
       }
     }
+  },
+  {
+    "id": 338,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25014"
+    ],
+    "institution": "Commune de Braine-l'Alleud",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.braine-lalleud.be/ma-commune/services-communaux/environnement/primes/demande-de-prime-a-lacquisition-dun-velo-classique-dun-velo-a-assistance-electrique-dun-kit-adaptable-dune-trottinette-electrique-dune-gyroroue-dun-speed-pedelec-ou-dun-velo-cargo",
+    "content": {
+      "en": {
+        "title": "Prime à l'achat d'un vélo (Bike Purchase Premium, Braine-l'Alleud)",
+        "desc": "Braine-l'Alleud refunds 10% of the price of a new bike, e-bike, cargo bike, speed pedelec, conversion kit, e-scooter or electric unicycle, once per household per calendar year.",
+        "deadline": "Apply in the same calendar year as the invoice (for 2026: invoices dated 1 January to 31 December 2026).",
+        "amount": "10% of the price, up to €100 (bike, kit, e-scooter, unicycle), €200 (e-bike) or €300 (speed pedelec, cargo bike)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A recent household composition certificate"
+          },
+          {
+            "type": "doc",
+            "label": "The shop's invoice and proof of payment"
+          }
+        ],
+        "steps": [
+          "Buy the new bike or device from a professional seller",
+          "Send the form and documents to the Environment department, by post, e-mail or the e-guichet",
+          "The municipal college approves the premium and pays it into your account"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'achat d'un vélo (fietspremie, Eigenbrakel)",
+        "desc": "Eigenbrakel betaalt 10% terug van de prijs van een nieuwe fiets, elektrische fiets, bakfiets, speed pedelec, ombouwkit, elektrische step of elektrische monowiel, één keer per gezin per kalenderjaar.",
+        "deadline": "Vraag aan in hetzelfde kalenderjaar als de factuur (voor 2026: facturen van 1 januari tot 31 december 2026).",
+        "amount": "10% van de prijs, maximaal €100 (fiets, kit, step, monowiel), €200 (elektrische fiets) of €300 (speed pedelec, bakfiets)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een recente gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "De factuur van de winkel en het betaalbewijs"
+          }
+        ],
+        "steps": [
+          "Koop de nieuwe fiets of het toestel bij een professionele verkoper",
+          "Stuur het formulier en de documenten naar de milieudienst, per post, e-mail of via het e-loket",
+          "Het college keurt de premie goed en stort ze op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'achat d'un vélo (Braine-l'Alleud)",
+        "desc": "Braine-l'Alleud rembourse 10 % du prix d'un vélo neuf, vélo à assistance électrique, vélo cargo, speed pedelec, kit adaptable, trottinette électrique ou gyroroue, une fois par ménage et par année civile.",
+        "deadline": "Introduisez la demande dans l'année civile de la facture (pour 2026 : factures datées du 1er janvier au 31 décembre 2026).",
+        "amount": "10 % du prix, maximum 100 € (vélo, kit, trottinette, gyroroue), 200 € (vélo électrique) ou 300 € (speed pedelec, vélo cargo)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage récente"
+          },
+          {
+            "type": "doc",
+            "label": "La facture du professionnel et la preuve de paiement"
+          }
+        ],
+        "steps": [
+          "Achetez le vélo ou l'engin neuf chez un professionnel",
+          "Envoyez le formulaire et les pièces au service Environnement, par courrier, courriel ou via l'e-guichet",
+          "Le Collège approuve la prime et la verse sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'achat d'un vélo (Fahrradprämie, Braine-l'Alleud)",
+        "desc": "Braine-l'Alleud erstattet 10 % des Preises eines neuen Fahrrads, E-Bikes, Lastenrads, Speed-Pedelecs, Umrüstsatzes, E-Scooters oder elektrischen Einrads, einmal pro Haushalt und Kalenderjahr.",
+        "deadline": "Beantragen Sie im selben Kalenderjahr wie die Rechnung (für 2026: Rechnungen vom 1. Januar bis 31. Dezember 2026).",
+        "amount": "10 % des Preises, höchstens 100 € (Fahrrad, Umrüstsatz, E-Scooter, Einrad), 200 € (E-Bike) oder 300 € (Speed-Pedelec, Lastenrad)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine aktuelle Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Die Rechnung des Händlers und der Zahlungsnachweis"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie das neue Fahrrad oder Gerät bei einem Fachhändler",
+          "Senden Sie Formular und Unterlagen per Post, E-Mail oder über den E-Schalter an den Umweltdienst",
+          "Das Gemeindekollegium genehmigt die Prämie und überweist sie auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": [
+        "https://www.braine-lalleud.be/ma-commune/services-communaux/environnement/primes/demande-de-prime-a-lacquisition-dun-velo-classique-dun-velo-a-assistance-electrique-dun-kit-adaptable-dune-trottinette-electrique-dune-gyroroue-dun-speed-pedelec-ou-dun-velo-cargo",
+        "https://www.braine-lalleud.be/ma-commune/services-communaux/environnement/primes/demande-de-prime-a-lacquisition-dun-velo-classique-dun-velo-a-assistance-electrique-dun-kit-adaptable-dune-trottinette-electrique-dune-gyroroue-dun-speed-pedelec-ou-dun-velo-cargo/demande-de-prime-a-lacquisition-dun-velo-classique-dun-velo-a-assistance-electrique-dun-kit-adaptable-dune-trottinette-electrique-dune-gyroroue-dun-speed-pedelec-ou-dun-velo-cargo/reglement-prime-communale-pour-lacquisition-dun-velo-classique-dun-velo-a-assistance-electrique-dun-kit-adaptable-dune-trottinette-electrique-ou-dune-gyroroue.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You live (are domiciled) in Braine-l'Alleud.",
+          "One premium per household per calendar year, based on a recent household composition certificate.",
+          "The bike or device is new, bought from a professional; a speed pedelec must be registered with the DIV, and a children's bike needs wheels of at least 24 inches.",
+          "You may not resell it within three years, or you must pay the premium back."
+        ],
+        "nl": [
+          "Je woont (bent gedomicilieerd) in Eigenbrakel.",
+          "Eén premie per gezin per kalenderjaar, op basis van een recente gezinssamenstelling.",
+          "De fiets of het toestel is nieuw en gekocht bij een professionele verkoper; een speed pedelec moet ingeschreven zijn bij de DIV, en een kinderfiets heeft wielen van minstens 24 duim.",
+          "Je mag hem niet binnen drie jaar doorverkopen, anders betaal je de premie terug."
+        ],
+        "fr": [
+          "Vous êtes domicilié à Braine-l'Alleud.",
+          "Une seule prime par ménage et par année civile, sur base d'une composition de ménage récente.",
+          "Le vélo ou l'engin est neuf et acheté chez un professionnel ; un speed pedelec doit être immatriculé à la DIV, et un vélo enfant doit avoir des roues d'au moins 24 pouces.",
+          "Vous ne pouvez pas le revendre dans les trois ans, sinon la prime doit être remboursée."
+        ],
+        "de": [
+          "Sie wohnen (sind gemeldet) in Braine-l'Alleud.",
+          "Eine Prämie pro Haushalt und Kalenderjahr, auf Grundlage einer aktuellen Haushaltszusammensetzung.",
+          "Das Fahrrad oder Gerät ist neu und bei einem Fachhändler gekauft; ein Speed-Pedelec muss bei der DIV zugelassen sein, ein Kinderrad braucht Räder von mindestens 24 Zoll.",
+          "Sie dürfen es nicht innerhalb von drei Jahren weiterverkaufen, sonst ist die Prämie zurückzuzahlen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 339,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13025"
+    ],
+    "institution": "Gemeente Mol",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gemeentemol.be/premie-chronische-incontinentie-dialyse-stoma-sondevoeding",
+    "content": {
+      "en": {
+        "title": "Premie incontinentie, dialyse, stoma, sondevoeding (Medical Waste Premium, Mol)",
+        "desc": "A €75 premium from Mol to make up for the higher waste bill of people with chronic incontinence, home dialysis, a stoma or tube feeding.",
+        "deadline": "No deadline on the page.",
+        "amount": "€75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The signed application form"
+          },
+          {
+            "type": "doc",
+            "label": "A decision letter, proof of payment or doctor's certificate proving your condition"
+          }
+        ],
+        "steps": [
+          "Download the application form on gemeentemol.be",
+          "Hand it in with the proof by e-mail, in the white letterbox at the Sociaal Huis (Jakob Smitslaan 24) or at the Welzijnsonthaal"
+        ]
+      },
+      "nl": {
+        "title": "Premie incontinentie, dialyse, stoma, sondevoeding (Mol)",
+        "desc": "Een premie van €75 van Mol ter compensatie van de hogere afvalfactuur voor mensen met chronische incontinentie, thuisdialyse, een stoma of sondevoeding.",
+        "deadline": "Geen deadline op de pagina.",
+        "amount": "€75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ondertekende aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een beslissingsbrief, betaalbewijs of doktersattest dat je aandoening bewijst"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op gemeentemol.be",
+          "Bezorg het met het bewijs per mail, in de witte brievenbus aan het Sociaal Huis (Jakob Smitslaan 24) of aan het Welzijnsonthaal"
+        ]
+      },
+      "fr": {
+        "title": "Premie incontinentie, dialyse, stoma, sondevoeding (prime incontinence, Mol)",
+        "desc": "Une prime de 75 € de Mol pour compenser la facture de déchets plus élevée des personnes souffrant d'incontinence chronique, sous dialyse à domicile, stomisées ou nourries par sonde.",
+        "deadline": "Pas de délai indiqué sur la page.",
+        "amount": "75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une lettre de décision, une preuve de paiement ou un certificat médical prouvant votre situation"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur gemeentemol.be",
+          "Remettez-le avec la preuve par e-mail, dans la boîte aux lettres blanche du Sociaal Huis (Jakob Smitslaan 24) ou au Welzijnsonthaal"
+        ]
+      },
+      "de": {
+        "title": "Premie incontinentie, dialyse, stoma, sondevoeding (Inkontinenzprämie, Mol)",
+        "desc": "Eine Prämie von 75 € der Gemeinde Mol als Ausgleich für die höhere Abfallrechnung von Menschen mit chronischer Inkontinenz, Heimdialyse, Stoma oder Sondenernährung.",
+        "deadline": "Keine Frist auf der Seite.",
+        "amount": "75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das unterschriebene Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Entscheidungsschreiben, Zahlungsnachweis oder ärztliches Attest, das Ihre Situation belegt"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf gemeentemol.be herunter",
+          "Reichen Sie es mit dem Nachweis per E-Mail, im weißen Briefkasten am Sociaal Huis (Jakob Smitslaan 24) oder am Welzijnsonthaal ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": [
+        "https://www.gemeentemol.be/premie-chronische-incontinentie-dialyse-stoma-sondevoeding"
+      ],
+      "conditions": {
+        "en": [
+          "You live at home in Mol.",
+          "Chronic incontinence: you are entitled to the incontinence lump sum from your health fund.",
+          "Home dialysis, a stoma or tube feeding: you have a doctor's certificate."
+        ],
+        "nl": [
+          "Je woont thuis in Mol.",
+          "Chronische incontinentie: je hebt recht op een incontinentieforfait van je ziekenfonds.",
+          "Thuisdialyse, stoma of sondevoeding: je hebt een doktersattest."
+        ],
+        "fr": [
+          "Vous vivez à domicile à Mol.",
+          "Incontinence chronique : vous avez droit au forfait incontinence de votre mutualité.",
+          "Dialyse à domicile, stomie ou alimentation par sonde : vous avez un certificat médical."
+        ],
+        "de": [
+          "Sie wohnen zu Hause in Mol.",
+          "Chronische Inkontinenz: Sie haben Anspruch auf die Inkontinenzpauschale Ihrer Krankenkasse.",
+          "Heimdialyse, Stoma oder Sondenernährung: Sie haben ein ärztliches Attest."
+        ]
+      }
+    }
+  },
+  {
+    "id": 340,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13025"
+    ],
+    "institution": "Gemeente Mol",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gemeentemol.be/thuiszorgpremie-voor-zwaar-zorgbehoevenden",
+    "content": {
+      "en": {
+        "title": "Thuiszorgpremie zwaar zorgbehoevenden (Home Care Premium, Mol)",
+        "desc": "Mol pays €60 a month, for up to 7 months a year, to support home care for an adult with a severe care need who lives at home.",
+        "deadline": "The commune prefers applications from August onwards.",
+        "amount": "€60 a month, up to 7 months a year (max. €420)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The signed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Medical certificate of at least 12 points from FPS Social Security or the family-benefits fund"
+          },
+          {
+            "type": "doc",
+            "label": "A health-fund sticker"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment or decision on the care budget for people with a severe care need"
+          }
+        ],
+        "steps": [
+          "Download the application form on gemeentemol.be",
+          "Hand it in with the documents by e-mail, in the white letterbox at the Sociaal Huis or at the Welzijnsonthaal by appointment",
+          "A consultant checks the application; if you are entitled, the premium is paid"
+        ]
+      },
+      "nl": {
+        "title": "Thuiszorgpremie zwaar zorgbehoevenden (Mol)",
+        "desc": "Mol betaalt €60 per maand, maximaal 7 maanden per jaar, ter ondersteuning van de thuiszorg van een zwaar zorgbehoevende volwassene die thuis woont.",
+        "deadline": "De gemeente vraagt om bij voorkeur vanaf augustus aan te vragen.",
+        "amount": "€60 per maand, maximaal 7 maanden per jaar (max. €420)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ondertekende aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Medisch attest van minstens 12 punten van de FOD Sociale Zekerheid of het kinderbijslagfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Een klever van je ziekenfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Betaalbewijs of beslissingsbrief van het zorgbudget voor zwaar zorgbehoevenden"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op gemeentemol.be",
+          "Bezorg het met de documenten per mail, in de witte brievenbus aan het Sociaal Huis of op afspraak aan het Welzijnsonthaal",
+          "Een consulent onderzoekt de aanvraag; heb je recht, dan wordt de premie uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Thuiszorgpremie zwaar zorgbehoevenden (prime soins à domicile, Mol)",
+        "desc": "Mol verse 60 € par mois, jusqu'à 7 mois par an, pour soutenir les soins à domicile d'un adulte lourdement dépendant qui vit chez lui.",
+        "deadline": "La commune demande de préférence d'introduire la demande à partir d'août.",
+        "amount": "60 € par mois, jusqu'à 7 mois par an (max. 420 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation médicale d'au moins 12 points du SPF Sécurité sociale ou de la caisse d'allocations familiales"
+          },
+          {
+            "type": "doc",
+            "label": "Une vignette de la mutualité"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement ou décision du budget de soins pour personnes lourdement dépendantes"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur gemeentemol.be",
+          "Remettez-le avec les documents par e-mail, dans la boîte aux lettres blanche du Sociaal Huis ou au Welzijnsonthaal sur rendez-vous",
+          "Un consultant examine la demande ; si vous y avez droit, la prime est versée"
+        ]
+      },
+      "de": {
+        "title": "Thuiszorgpremie zwaar zorgbehoevenden (Prämie für häusliche Pflege, Mol)",
+        "desc": "Mol zahlt 60 € pro Monat, höchstens 7 Monate im Jahr, zur Unterstützung der häuslichen Pflege eines schwer pflegebedürftigen Erwachsenen, der zu Hause wohnt.",
+        "deadline": "Die Gemeinde bittet, den Antrag vorzugsweise ab August zu stellen.",
+        "amount": "60 € pro Monat, höchstens 7 Monate im Jahr (max. 420 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das unterschriebene Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung über mindestens 12 Punkte vom FÖD Soziale Sicherheit oder der Familienleistungskasse"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Vignette der Krankenkasse"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis oder Entscheidung über das Pflegebudget für schwer Pflegebedürftige"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf gemeentemol.be herunter",
+          "Reichen Sie es mit den Unterlagen per E-Mail, im weißen Briefkasten am Sociaal Huis oder nach Termin am Welzijnsonthaal ein",
+          "Ein Berater prüft den Antrag; bei Anspruch wird die Prämie ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": [
+        "https://www.gemeentemol.be/thuiszorgpremie-voor-zwaar-zorgbehoevenden"
+      ],
+      "conditions": {
+        "en": [
+          "A person aged 22 or over with a severe care need who lives at home in Mol.",
+          "A medical certificate of at least 12 points for reduced self-reliance from FPS Social Security or the family-benefits fund.",
+          "Increased reimbursement (verhoogde tegemoetkoming) from the health fund.",
+          "The care budget for people with a severe care need from the health fund's care fund.",
+          "At most 2 people with a care need per address."
+        ],
+        "nl": [
+          "Een zwaar zorgbehoevende vanaf 22 jaar die thuis woont in Mol.",
+          "Een medisch attest van minstens 12 punten verminderde zelfredzaamheid van de FOD Sociale Zekerheid of het kinderbijslagfonds.",
+          "Verhoogde tegemoetkoming via het ziekenfonds.",
+          "Zorgbudget voor zwaar zorgbehoevenden via de zorgkas van het ziekenfonds.",
+          "Maximaal 2 zorgbehoevenden per adres."
+        ],
+        "fr": [
+          "Une personne lourdement dépendante de 22 ans ou plus qui vit à domicile à Mol.",
+          "Une attestation médicale d'au moins 12 points de perte d'autonomie du SPF Sécurité sociale ou de la caisse d'allocations familiales.",
+          "L'intervention majorée de la mutualité.",
+          "Le budget de soins pour personnes lourdement dépendantes de la caisse de soins de la mutualité.",
+          "Au maximum 2 personnes dépendantes par adresse."
+        ],
+        "de": [
+          "Eine schwer pflegebedürftige Person ab 22 Jahren, die zu Hause in Mol wohnt.",
+          "Eine ärztliche Bescheinigung über mindestens 12 Punkte verminderter Selbständigkeit vom FÖD Soziale Sicherheit oder der Familienleistungskasse.",
+          "Erhöhte Kostenerstattung über die Krankenkasse.",
+          "Das Pflegebudget für schwer Pflegebedürftige über die Pflegekasse der Krankenkasse.",
+          "Höchstens 2 pflegebedürftige Personen pro Adresse."
+        ]
+      }
+    }
+  },
+  {
+    "id": 341,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12021"
+    ],
+    "institution": "Stad Lier",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.lier.be/zorg-en-welzijn/financiele-problemen-en-tegemoetkomingen/sociale-toelage-diftar-wegens-gebruik-incontinentiemateriaal-of-andere-medische-reden",
+    "content": {
+      "en": {
+        "title": "Sociale toelage Diftar (Waste-Cost Allowance, Lier)",
+        "desc": "Lier puts €24 a year on the Diftar waste account of residents with incontinence, a medical reason that causes extra waste (such as home dialysis or a stoma), or increased reimbursement.",
+        "deadline": "Before 30 September of the year you apply for.",
+        "amount": "€24 a year, paid into your Diftar account",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, filled in by a recognised home-care service or doctor"
+          },
+          {
+            "type": "doc",
+            "label": "A health-fund certificate, a VAPH decision or a doctor's certificate, depending on your situation"
+          }
+        ],
+        "steps": [
+          "Have the form filled in by a recognised home-care service or doctor",
+          "Send it to proper@lier.be or hand it in at the city office or the town hall in Koningshooikt",
+          "If you qualify, the allowance goes to your Diftar account"
+        ]
+      },
+      "nl": {
+        "title": "Sociale toelage Diftar wegens incontinentie of medische reden (Lier)",
+        "desc": "Lier stort jaarlijks €24 op de Diftar-rekening van inwoners met incontinentie, een medische reden die extra afval veroorzaakt (zoals thuisdialyse of een stoma) of verhoogde tegemoetkoming.",
+        "deadline": "Vóór 30 september van het jaar waarvoor je aanvraagt.",
+        "amount": "€24 per jaar, gestort op je Diftar-provisierekening",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ingevuld door een erkende thuiszorgdienst of arts"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van het ziekenfonds, een beslissing van het VAPH of een doktersattest, naargelang je situatie"
+          }
+        ],
+        "steps": [
+          "Laat het formulier invullen door een erkende thuiszorgdienst of arts",
+          "Mail het naar proper@lier.be of geef het af in het stadskantoor of het gemeentehuis in Koningshooikt",
+          "Kom je in aanmerking, dan wordt de toelage op je Diftar-rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Sociale toelage Diftar (allocation déchets, Lierre)",
+        "desc": "Lierre verse chaque année 24 € sur le compte Diftar des habitants souffrant d'incontinence, ayant une raison médicale qui produit plus de déchets (dialyse à domicile, stomie…) ou bénéficiant de l'intervention majorée.",
+        "deadline": "Avant le 30 septembre de l'année pour laquelle vous demandez.",
+        "amount": "24 € par an, versés sur votre compte Diftar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, rempli par un service de soins à domicile agréé ou un médecin"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de la mutualité, une décision du VAPH ou un certificat médical, selon votre situation"
+          }
+        ],
+        "steps": [
+          "Faites remplir le formulaire par un service de soins à domicile agréé ou un médecin",
+          "Envoyez-le à proper@lier.be ou déposez-le au bureau de la ville ou à la maison communale de Koningshooikt",
+          "Si vous y avez droit, l'allocation est versée sur votre compte Diftar"
+        ]
+      },
+      "de": {
+        "title": "Sociale toelage Diftar (Abfallzulage, Lier)",
+        "desc": "Lier zahlt jährlich 24 € auf das Diftar-Abfallkonto von Einwohnern mit Inkontinenz, einem medizinischen Grund, der zusätzlichen Abfall verursacht (etwa Heimdialyse oder Stoma), oder mit erhöhter Kostenerstattung.",
+        "deadline": "Vor dem 30. September des Jahres, für das Sie beantragen.",
+        "amount": "24 € pro Jahr, auf Ihr Diftar-Konto gezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, ausgefüllt von einem anerkannten häuslichen Pflegedienst oder Arzt"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Krankenkasse, eine VAPH-Entscheidung oder ein ärztliches Attest, je nach Situation"
+          }
+        ],
+        "steps": [
+          "Lassen Sie das Formular von einem anerkannten häuslichen Pflegedienst oder Arzt ausfüllen",
+          "Senden Sie es an proper@lier.be oder geben Sie es im Stadtbüro oder im Gemeindehaus Koningshooikt ab",
+          "Wenn Sie Anspruch haben, wird die Zulage auf Ihr Diftar-Konto gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": [
+        "https://www.lier.be/zorg-en-welzijn/financiele-problemen-en-tegemoetkomingen/sociale-toelage-diftar-wegens-gebruik-incontinentiemateriaal-of-andere-medische-reden"
+      ],
+      "conditions": {
+        "en": [
+          "You are a resident of Lier and one of the following applies:",
+          "Incontinence with a score of 3 or 4 on the RIZIV/INAMI dependency scale (health-fund certificate), or a VAPH grant for incontinence material.",
+          "A medical reason that causes extra waste, such as home kidney dialysis, a stoma or a blistering skin disease (doctor's certificate).",
+          "You receive increased reimbursement (verhoogde tegemoetkoming) from your health fund.",
+          "Apply before 30 September of the year concerned."
+        ],
+        "nl": [
+          "Je bent inwoner van Lier en een van de volgende situaties geldt:",
+          "Incontinentie met score 3 of 4 op het afhankelijkheidsrooster van het RIZIV (attest van het ziekenfonds), of een tegemoetkoming van het VAPH voor incontinentiemateriaal.",
+          "Een medische reden die extra afval veroorzaakt, zoals nierdialyse thuis, een stoma of een huidziekte met blaarvorming (doktersattest).",
+          "Je geniet van de verhoogde tegemoetkoming van het ziekenfonds.",
+          "Aanvragen vóór 30 september van het betrokken jaar."
+        ],
+        "fr": [
+          "Vous habitez Lierre et l'une des situations suivantes s'applique :",
+          "Incontinence avec un score de 3 ou 4 sur l'échelle de dépendance de l'INAMI (attestation de la mutualité), ou une intervention du VAPH pour le matériel d'incontinence.",
+          "Une raison médicale qui produit plus de déchets, comme une dialyse rénale à domicile, une stomie ou une maladie de peau bulleuse (certificat médical).",
+          "Vous bénéficiez de l'intervention majorée de votre mutualité.",
+          "Demande avant le 30 septembre de l'année concernée."
+        ],
+        "de": [
+          "Sie wohnen in Lier und eine der folgenden Situationen trifft zu:",
+          "Inkontinenz mit Punktzahl 3 oder 4 auf der Abhängigkeitsskala des LIKIV (Bescheinigung der Krankenkasse) oder eine VAPH-Beihilfe für Inkontinenzmaterial.",
+          "Ein medizinischer Grund, der zusätzlichen Abfall verursacht, etwa Heimdialyse, ein Stoma oder eine blasenbildende Hautkrankheit (ärztliches Attest).",
+          "Sie erhalten die erhöhte Kostenerstattung Ihrer Krankenkasse.",
+          "Antrag vor dem 30. September des betreffenden Jahres."
+        ]
+      }
+    }
+  },
+  {
+    "id": 342,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21019"
+    ],
+    "institution": "Commune de Woluwe-Saint-Pierre",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.woluwe1150.be/services-communaux/affaires-sociales/prime-pour-les-aidants-proches/",
+    "content": {
+      "en": {
+        "title": "Prime pour les aidants proches (Carer Premium, Woluwe-Saint-Pierre)",
+        "desc": "Woluwe-Saint-Pierre pays a renewable €100 a year to adult residents who are officially recognised as a family carer (aidant proche).",
+        "deadline": "Before 30 November of the current year.",
+        "amount": "€100 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your health fund's certificate recognising you as a family carer, dated this year"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of your bank card or bank details"
+          }
+        ],
+        "steps": [
+          "Get the carer recognition from your health fund",
+          "Fill in the online form on woluwe1150.be before 30 November",
+          "The social affairs department pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour les aidants proches (mantelzorgpremie, Sint-Pieters-Woluwe)",
+        "desc": "Sint-Pieters-Woluwe betaalt jaarlijks hernieuwbaar €100 aan volwassen inwoners die officieel erkend zijn als mantelzorger.",
+        "deadline": "Vóór 30 november van het lopende jaar.",
+        "amount": "€100 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het attest van je ziekenfonds dat je erkent als mantelzorger, van dit jaar"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van je bankkaart of bankgegevens"
+          }
+        ],
+        "steps": [
+          "Vraag de erkenning als mantelzorger aan bij je ziekenfonds",
+          "Vul vóór 30 november het onlineformulier in op woluwe1150.be",
+          "De dienst sociale zaken betaalt de premie uit"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour les aidants proches (Woluwe-Saint-Pierre)",
+        "desc": "Woluwe-Saint-Pierre verse une prime annuelle renouvelable de 100 € aux habitants majeurs reconnus officiellement comme aidants proches.",
+        "deadline": "Avant le 30 novembre de l'année en cours.",
+        "amount": "100 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "L'attestation de votre mutualité reconnaissant votre statut d'aidant proche, datée de l'année en cours"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de votre carte bancaire ou un RIB"
+          }
+        ],
+        "steps": [
+          "Obtenez la reconnaissance d'aidant proche auprès de votre mutualité",
+          "Remplissez le formulaire en ligne sur woluwe1150.be avant le 30 novembre",
+          "Le service des affaires sociales verse la prime"
+        ]
+      },
+      "de": {
+        "title": "Prime pour les aidants proches (Prämie für pflegende Angehörige, Woluwe-Saint-Pierre)",
+        "desc": "Woluwe-Saint-Pierre zahlt volljährigen Einwohnern, die offiziell als pflegende Angehörige anerkannt sind, jährlich erneuerbar 100 €.",
+        "deadline": "Vor dem 30. November des laufenden Jahres.",
+        "amount": "100 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die Bescheinigung Ihrer Krankenkasse über die Anerkennung als pflegender Angehöriger, aus diesem Jahr"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie Ihrer Bankkarte oder Ihre Bankverbindung"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich bei Ihrer Krankenkasse als pflegender Angehöriger anerkennen",
+          "Füllen Sie vor dem 30. November das Online-Formular auf woluwe1150.be aus",
+          "Der Sozialdienst zahlt die Prämie aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": [
+        "https://www.woluwe1150.be/services-communaux/affaires-sociales/prime-pour-les-aidants-proches/",
+        "https://www.woluwe1150.be/app/uploads/2021/04/prime_aidants_proches_reglement_fr.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are an adult domiciled in Woluwe-Saint-Pierre.",
+          "You have the federal recognition as a family carer (aidant proche), with a certificate dated this year.",
+          "Apply before 30 November of the current year."
+        ],
+        "nl": [
+          "Je bent meerderjarig en gedomicilieerd in Sint-Pieters-Woluwe.",
+          "Je hebt de federale erkenning als mantelzorger, met een attest van dit jaar.",
+          "Aanvragen vóór 30 november van het lopende jaar."
+        ],
+        "fr": [
+          "Vous êtes majeur et domicilié à Woluwe-Saint-Pierre.",
+          "Vous avez la reconnaissance fédérale du statut d'aidant proche, avec une attestation datée de l'année en cours.",
+          "Demande avant le 30 novembre de l'année en cours."
+        ],
+        "de": [
+          "Sie sind volljährig und in Woluwe-Saint-Pierre gemeldet.",
+          "Sie haben die föderale Anerkennung als pflegender Angehöriger, mit einer Bescheinigung aus diesem Jahr.",
+          "Antrag vor dem 30. November des laufenden Jahres."
+        ]
+      }
+    }
+  },
+  {
+    "id": 343,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21017"
+    ],
+    "institution": "Commune de Watermael-Boitsfort",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://watermael-boitsfort.be/fr/vivre-a-watermael-boitsfort/finances/prime-precompte-immobilier",
+    "content": {
+      "en": {
+        "title": "Prime sur le précompte immobilier (Property Tax Bonus, Watermael-Boitsfort)",
+        "desc": "Owners on a low or middle income who live in their only home in Watermael-Boitsfort can get €80 a year back on their property tax.",
+        "deadline": "First application before 30 June of the year after the property-tax bill's reference year; later years within 6 months of each new bill.",
+        "amount": "€80 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The property-tax bill (avertissement-extrait de rôle) and proof of payment"
+          },
+          {
+            "type": "doc",
+            "label": "Your income-tax assessment for the reference year"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition less than 3 months old"
+          }
+        ],
+        "steps": [
+          "Download the form on watermael-boitsfort.be",
+          "Send it by post to the College of Mayor and Aldermen with all documents",
+          "Each following year, send the new property-tax bill and proof of payment within 6 months"
+        ]
+      },
+      "nl": {
+        "title": "Prime sur le précompte immobilier (premie onroerende voorheffing, Watermaal-Bosvoorde)",
+        "desc": "Eigenaars met een laag of middeninkomen die in hun enige woning in Watermaal-Bosvoorde wonen, krijgen €80 per jaar terug op hun onroerende voorheffing.",
+        "deadline": "Eerste aanvraag vóór 30 juni van het jaar na het referentiejaar van het aanslagbiljet; de volgende jaren binnen 6 maanden na elk nieuw aanslagbiljet.",
+        "amount": "€80 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Het aanslagbiljet onroerende voorheffing en het betaalbewijs"
+          },
+          {
+            "type": "doc",
+            "label": "Je aanslagbiljet personenbelasting van het referentiejaar"
+          },
+          {
+            "type": "doc",
+            "label": "Een gezinssamenstelling van minder dan 3 maanden oud"
+          }
+        ],
+        "steps": [
+          "Download het formulier op watermael-boitsfort.be",
+          "Stuur het per post met alle documenten naar het College van Burgemeester en Schepenen",
+          "Stuur elk volgend jaar binnen 6 maanden het nieuwe aanslagbiljet en het betaalbewijs"
+        ]
+      },
+      "fr": {
+        "title": "Prime sur le précompte immobilier (Watermael-Boitsfort)",
+        "desc": "Les propriétaires à revenus modestes ou moyens qui habitent leur unique logement à Watermael-Boitsfort reçoivent 80 € par an sur leur précompte immobilier.",
+        "deadline": "Première demande avant le 30 juin de l'année qui suit l'année de référence de l'avertissement-extrait de rôle ; les années suivantes, dans les 6 mois de chaque nouvel avertissement.",
+        "amount": "80 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "L'avertissement-extrait de rôle du précompte immobilier et la preuve de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "L'avertissement-extrait de rôle à l'impôt des personnes physiques de l'année de référence"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage de moins de 3 mois"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur watermael-boitsfort.be",
+          "Envoyez-le par courrier au Collège des Bourgmestre et Échevins avec tous les documents",
+          "Chaque année suivante, envoyez le nouvel avertissement et la preuve de paiement dans les 6 mois"
+        ]
+      },
+      "de": {
+        "title": "Prime sur le précompte immobilier (Grundsteuerprämie, Watermael-Boitsfort)",
+        "desc": "Eigentümer mit niedrigem oder mittlerem Einkommen, die ihre einzige Wohnung in Watermael-Boitsfort bewohnen, erhalten jährlich 80 € auf ihren Immobilienvorabzug zurück.",
+        "deadline": "Erstantrag vor dem 30. Juni des Jahres nach dem Bezugsjahr des Steuerbescheids; in den Folgejahren binnen 6 Monaten nach jedem neuen Bescheid.",
+        "amount": "80 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Der Steuerbescheid zum Immobilienvorabzug und der Zahlungsnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Ihr Einkommensteuerbescheid für das Bezugsjahr"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung, nicht älter als 3 Monate"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf watermael-boitsfort.be herunter",
+          "Senden Sie es mit allen Unterlagen per Post an das Bürgermeister- und Schöffenkollegium",
+          "Senden Sie in jedem Folgejahr binnen 6 Monaten den neuen Bescheid und den Zahlungsnachweis"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": [
+        "https://watermael-boitsfort.be/fr/vivre-a-watermael-boitsfort/finances/prime-precompte-immobilier",
+        "https://watermael-boitsfort.be/fr/fichiers/taxes-reglements/reglements/fiscalite/cc-2024-12-16-reglement-relatif-a-loctroi-dune-prime-bonus-au-precompte-immobilier-2025-2030.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are 18 or over, pay Belgian personal income tax and the property tax is in your name.",
+          "You are registered in the population register at this home in Watermael-Boitsfort and live there.",
+          "You do not fully own any other property.",
+          "Net taxable income no higher than €57,000 (single) or €85,000 (couple or all adult co-owners), plus €7,000 per dependent child, indexed yearly.",
+          "First application before 30 June of the year after the bill's reference year."
+        ],
+        "nl": [
+          "Je bent minstens 18, betaalt Belgische personenbelasting en de onroerende voorheffing staat op jouw naam.",
+          "Je bent op dit adres in Watermaal-Bosvoorde ingeschreven in het bevolkingsregister en woont er.",
+          "Je bent niet volle eigenaar van een andere woning of ander onroerend goed.",
+          "Netto belastbaar inkomen niet hoger dan €57.000 (alleenstaande) of €85.000 (koppel of alle meerderjarige mede-eigenaars), plus €7.000 per kind ten laste, jaarlijks geïndexeerd.",
+          "Eerste aanvraag vóór 30 juni van het jaar na het referentiejaar van het aanslagbiljet."
+        ],
+        "fr": [
+          "Vous avez au moins 18 ans, êtes assujetti à l'impôt des personnes physiques et le précompte immobilier est à votre nom.",
+          "Vous êtes inscrit aux registres de la population à ce logement de Watermael-Boitsfort et y résidez.",
+          "Vous n'êtes pas plein propriétaire d'un autre bien immobilier.",
+          "Revenus nets imposables de maximum 57.000 € (isolé) ou 85.000 € (couple ou ensemble des copropriétaires majeurs), plus 7.000 € par enfant à charge, indexés chaque année.",
+          "Première demande avant le 30 juin de l'année qui suit l'année de référence de l'avertissement."
+        ],
+        "de": [
+          "Sie sind mindestens 18, unterliegen der belgischen Einkommensteuer und der Immobilienvorabzug läuft auf Ihren Namen.",
+          "Sie sind unter dieser Adresse in Watermael-Boitsfort im Bevölkerungsregister eingetragen und wohnen dort.",
+          "Sie sind nicht Volleigentümer einer anderen Immobilie.",
+          "Nettosteuerpflichtiges Einkommen höchstens 57.000 € (Alleinstehende) oder 85.000 € (Paar oder alle volljährigen Miteigentümer), plus 7.000 € je unterhaltsberechtigtes Kind, jährlich indexiert.",
+          "Erstantrag vor dem 30. Juni des Jahres nach dem Bezugsjahr des Bescheids."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in the population register (registres de la population) at the home.",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister op het adres van de woning.",
+            "fr": "Pas pour vous : le règlement exige une inscription aux registres de la population à l'adresse du logement.",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister (registres de la population) unter der Adresse der Wohnung."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 344,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21008"
+    ],
+    "institution": "Commune de Ganshoren",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ganshoren.be/content/uploads/2021/06/reglement-prime-naissance-2021-fr.pdf",
+    "content": {
+      "en": {
+        "title": "Prime communale de naissance et d'adoption (Birth and Adoption Premium, Ganshoren)",
+        "desc": "Ganshoren gives €60 in local shop vouchers for each child born or adopted while the parent is registered in the commune, within the yearly budget.",
+        "deadline": "Within 6 months of the birth or of the registration of the adoption deed.",
+        "amount": "€60 per child, in local shop vouchers of €10",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed and signed application form"
+          }
+        ],
+        "steps": [
+          "Download the form on ganshoren.be or ask the Families department for it",
+          "Send it to the Families department (avenue Charles-Quint 140) or by e-mail to primenaissance@ganshoren.brussels",
+          "The College of Mayor and Aldermen decides; requests are handled in order of arrival until the budget runs out"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale de naissance et d'adoption (geboorte- en adoptiepremie, Ganshoren)",
+        "desc": "Ganshoren geeft €60 in lokale handelscheques voor elk kind dat geboren of geadopteerd wordt terwijl de ouder in de gemeente ingeschreven is, binnen het jaarlijkse budget.",
+        "deadline": "Binnen 6 maanden na de geboorte of na de overschrijving van de adoptieakte.",
+        "amount": "€60 per kind, in lokale handelscheques van €10",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde en ondertekende aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Download het formulier op ganshoren.be of vraag het aan bij de dienst Gezinnen",
+          "Bezorg het aan de dienst Gezinnen (Keizer Karellaan 140) of mail het naar primenaissance@ganshoren.brussels",
+          "Het College van Burgemeester en Schepenen beslist; aanvragen worden behandeld in volgorde van ontvangst tot het budget op is"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale de naissance et d'adoption (Ganshoren)",
+        "desc": "Ganshoren octroie 60 € en chèques-commerces locaux pour chaque enfant né ou adopté alors que le parent est inscrit dans la commune, dans les limites du budget annuel.",
+        "deadline": "Dans les six mois de la naissance ou de la transcription de l'acte d'adoption.",
+        "amount": "60 € par enfant, en chèques-commerces locaux de 10 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété et signé"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur ganshoren.be ou demandez-le au service Familles",
+          "Envoyez-le au service Familles (avenue Charles Quint 140) ou par e-mail à primenaissance@ganshoren.brussels",
+          "Le Collège des Bourgmestre et Échevins décide ; les demandes sont traitées par ordre d'arrivée jusqu'à épuisement du budget"
+        ]
+      },
+      "de": {
+        "title": "Prime communale de naissance et d'adoption (Geburts- und Adoptionsprämie, Ganshoren)",
+        "desc": "Ganshoren gibt 60 € in lokalen Geschäftsgutscheinen für jedes Kind, das geboren oder adoptiert wird, während der Elternteil in der Gemeinde eingetragen ist, im Rahmen des Jahresbudgets.",
+        "deadline": "Binnen 6 Monaten nach der Geburt oder der Umschreibung der Adoptionsurkunde.",
+        "amount": "60 € pro Kind, in lokalen Geschäftsgutscheinen zu 10 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte und unterschriebene Antragsformular"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf ganshoren.be herunter oder fordern Sie es beim Familiendienst an",
+          "Senden Sie es an den Familiendienst (avenue Charles Quint 140) oder per E-Mail an primenaissance@ganshoren.brussels",
+          "Das Bürgermeister- und Schöffenkollegium entscheidet; Anträge werden in Eingangsreihenfolge bearbeitet, bis das Budget erschöpft ist"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": [
+        "https://www.ganshoren.be/content/uploads/2021/06/reglement-prime-naissance-2021-fr.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Birth: the mother or the person who looks after the child, registered in the population or foreigners' register of Ganshoren when the child is born alive.",
+          "Adoption: the adoptive parent, registered in the population or foreigners' register of Ganshoren when the adoption deed is registered; the child was under 6 on joining the household and no birth premium was paid for it.",
+          "Apply within 6 months; paid within the yearly budget, in order of arrival."
+        ],
+        "nl": [
+          "Geboorte: de moeder of de persoon die het kind ten laste heeft, ingeschreven in het bevolkings- of vreemdelingenregister van Ganshoren bij de geboorte van het levend geboren kind.",
+          "Adoptie: de adoptant, ingeschreven in het bevolkings- of vreemdelingenregister van Ganshoren bij de overschrijving van de adoptieakte; het kind was jonger dan 6 toen het in het gezin kwam en er werd geen geboortepremie voor betaald.",
+          "Aanvragen binnen 6 maanden; uitbetaald binnen het jaarlijkse budget, in volgorde van ontvangst."
+        ],
+        "fr": [
+          "Naissance : la maman ou la personne qui a l'enfant en charge, inscrite aux registres de la population ou des étrangers de Ganshoren à la naissance de l'enfant né vivant.",
+          "Adoption : l'adoptant, inscrit aux registres de la population ou des étrangers de Ganshoren à la transcription de l'acte d'adoption ; l'enfant avait moins de 6 ans à son entrée dans le ménage et la prime de naissance n'a pas été perçue pour lui.",
+          "Demande dans les 6 mois ; octroi dans les limites du budget annuel, par ordre d'arrivée."
+        ],
+        "de": [
+          "Geburt: die Mutter oder die Person, die das Kind versorgt, eingetragen im Bevölkerungs- oder Fremdenregister von Ganshoren bei der Geburt des lebend geborenen Kindes.",
+          "Adoption: der Adoptierende, eingetragen im Bevölkerungs- oder Fremdenregister von Ganshoren bei der Umschreibung der Adoptionsurkunde; das Kind war bei der Aufnahme in den Haushalt unter 6 Jahre alt und für es wurde keine Geburtsprämie gezahlt.",
+          "Antrag binnen 6 Monaten; Zahlung im Rahmen des Jahresbudgets, in Eingangsreihenfolge."
+        ]
+      }
+    }
+  },
+  {
+    "id": 345,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Brussels"
+    ],
+    "communes": [
+      "21003"
+    ],
+    "institution": "Commune de Berchem-Sainte-Agathe",
+    "verified": "1 Nov 2026",
+    "status": "verified",
+    "source_url": "https://berchem.brussels/wp-content/uploads/2026/06/Demande-prime-de-naissance-2026.pdf",
+    "content": {
+      "en": {
+        "title": "Prime de naissance ou d'adoption (Birth or Adoption Premium, Berchem-Sainte-Agathe)",
+        "desc": "Berchem-Sainte-Agathe gives €60 in local shop vouchers for a first child born or adopted while the parent is registered in the commune; €120 if the child has a disability of at least 66%.",
+        "deadline": "Within 3 months of the birth or adoption.",
+        "amount": "€60 in local shop vouchers (€120 for a child with a disability of at least 66%), first child only",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed, dated and signed application form"
+          }
+        ],
+        "steps": [
+          "Register on the local shop-voucher platform chequescommerces1082.be",
+          "Send the form to the College of Mayor and Aldermen, avenue du Roi Albert 33, within 3 months of the birth",
+          "The population department checks your registration and the vouchers are issued"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance ou d'adoption (geboorte- of adoptiepremie, Sint-Agatha-Berchem)",
+        "desc": "Sint-Agatha-Berchem geeft €60 in lokale handelscheques voor een eerste kind dat geboren of geadopteerd wordt terwijl de ouder in de gemeente ingeschreven is; €120 als het kind een handicap van minstens 66% heeft.",
+        "deadline": "Binnen 3 maanden na de geboorte of adoptie.",
+        "amount": "€60 in lokale handelscheques (€120 voor een kind met een handicap van minstens 66%), enkel voor het eerste kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde, gedateerde en ondertekende aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Schrijf je in op het platform voor handelscheques chequescommerces1082.be",
+          "Stuur het formulier binnen 3 maanden na de geboorte naar het College van Burgemeester en Schepenen, Koning Albertlaan 33",
+          "De bevolkingsdienst controleert je inschrijving en de cheques worden toegekend"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance ou d'adoption (Berchem-Sainte-Agathe)",
+        "desc": "Berchem-Sainte-Agathe octroie 60 € en chèques-commerces locaux pour un premier enfant né ou adopté alors que le parent est inscrit dans la commune ; 120 € si l'enfant est atteint d'un handicap d'au moins 66 %.",
+        "deadline": "Dans les trois mois de la naissance ou de l'adoption.",
+        "amount": "60 € en chèques-commerces locaux (120 € pour un enfant handicapé à 66 % au moins), premier enfant uniquement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété, daté et signé"
+          }
+        ],
+        "steps": [
+          "Inscrivez-vous sur la plateforme des chèques-commerces chequescommerces1082.be",
+          "Envoyez le formulaire au Collège des Bourgmestre et Échevins, avenue du Roi Albert 33, dans les trois mois de la naissance",
+          "Le service population vérifie votre inscription et les chèques sont octroyés"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance ou d'adoption (Geburts- oder Adoptionsprämie, Berchem-Sainte-Agathe)",
+        "desc": "Berchem-Sainte-Agathe gibt 60 € in lokalen Geschäftsgutscheinen für ein erstes Kind, das geboren oder adoptiert wird, während der Elternteil in der Gemeinde eingetragen ist; 120 €, wenn das Kind eine Behinderung von mindestens 66 % hat.",
+        "deadline": "Binnen 3 Monaten nach der Geburt oder Adoption.",
+        "amount": "60 € in lokalen Geschäftsgutscheinen (120 € für ein Kind mit einer Behinderung von mindestens 66 %), nur für das erste Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte, datierte und unterschriebene Antragsformular"
+          }
+        ],
+        "steps": [
+          "Registrieren Sie sich auf der Gutscheinplattform chequescommerces1082.be",
+          "Senden Sie das Formular binnen 3 Monaten nach der Geburt an das Bürgermeister- und Schöffenkollegium, avenue du Roi Albert 33",
+          "Der Bevölkerungsdienst prüft Ihre Eintragung und die Gutscheine werden gewährt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "1 Nov 2026",
+      "source_url": [
+        "https://berchem.brussels/wp-content/uploads/2026/06/Demande-prime-de-naissance-2026.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Birth: the mother (or, if she has died, the person who looks after the child), registered in the population or foreigners' register of Berchem-Sainte-Agathe at the birth.",
+          "Adoption: the head of household, registered in Berchem-Sainte-Agathe; the child is under 12 at adoption.",
+          "The 2026 form grants the premium for the first child only; also for a stillbirth or miscarriage after at least 180 days of pregnancy.",
+          "Apply within 3 months of the birth or adoption."
+        ],
+        "nl": [
+          "Geboorte: de moeder (of, als zij overleden is, de persoon die het kind feitelijk opvoedt), ingeschreven in het bevolkings- of vreemdelingenregister van Sint-Agatha-Berchem bij de geboorte.",
+          "Adoptie: het gezinshoofd, ingeschreven in Sint-Agatha-Berchem; het kind is jonger dan 12 bij de adoptie.",
+          "Het formulier van 2026 kent de premie enkel toe voor het eerste kind; ook bij een doodgeboren kind of miskraam na minstens 180 dagen zwangerschap.",
+          "Aanvragen binnen 3 maanden na de geboorte of adoptie."
+        ],
+        "fr": [
+          "Naissance : la mère (ou, si elle est décédée, la personne qui a la garde effective de l'enfant), inscrite aux registres de la population ou des étrangers de Berchem-Sainte-Agathe à la naissance.",
+          "Adoption : le chef de ménage, inscrit à Berchem-Sainte-Agathe ; l'enfant a moins de 12 ans à l'adoption.",
+          "Le formulaire 2026 n'accorde la prime qu'au premier enfant ; aussi en cas d'enfant mort-né ou de fausse couche après au moins 180 jours de grossesse.",
+          "Demande dans les trois mois de la naissance ou de l'adoption."
+        ],
+        "de": [
+          "Geburt: die Mutter (oder, wenn sie verstorben ist, die Person, die das Kind tatsächlich betreut), eingetragen im Bevölkerungs- oder Fremdenregister von Berchem-Sainte-Agathe bei der Geburt.",
+          "Adoption: der Haushaltsvorstand, eingetragen in Berchem-Sainte-Agathe; das Kind ist bei der Adoption unter 12 Jahre alt.",
+          "Das Formular 2026 gewährt die Prämie nur für das erste Kind; auch bei Totgeburt oder Fehlgeburt nach mindestens 180 Schwangerschaftstagen.",
+          "Antrag binnen 3 Monaten nach der Geburt oder Adoption."
+        ]
+      }
+    }
   }
 ]
