@@ -41917,5 +41917,1707 @@
         ]
       }
     }
+  },
+  {
+    "id": 358,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "46030"
+    ],
+    "institution": "Gemeente Beveren-Kruibeke-Zwijndrecht",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gemeentebkz.be/geboortepremie",
+    "content": {
+      "en": {
+        "title": "Geboorte- en adoptiepremie (Birth and Adoption Premium, Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Since 1 January 2026, families living in Beveren-Kruibeke-Zwijndrecht get €30 for each child born or adopted, on top of the Flemish start amount.",
+        "deadline": "Within 1 year of the birth or adoption.",
+        "amount": "€30 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The online application form"
+          }
+        ],
+        "steps": [
+          "After registering the birth or adoption you receive a congratulations card with the link to the form",
+          "Fill in the form on gemeentebkz.be within 1 year",
+          "The premium is paid into the parents' bank account"
+        ]
+      },
+      "nl": {
+        "title": "Geboorte- en adoptiepremie (Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Sinds 1 januari 2026 krijgen gezinnen die in Beveren-Kruibeke-Zwijndrecht wonen €30 voor elk kind dat geboren of geadopteerd wordt, naast het Vlaamse startbedrag.",
+        "deadline": "Binnen 1 jaar na de geboorte of adoptie.",
+        "amount": "€30 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het online aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Na de aangifte van de geboorte of adoptie krijg je een felicitatiekaart met de link naar het formulier",
+          "Vul binnen 1 jaar het formulier in op gemeentebkz.be",
+          "De premie wordt op de rekening van de ouder(s) gestort"
+        ]
+      },
+      "fr": {
+        "title": "Geboorte- en adoptiepremie (prime de naissance et d'adoption, Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Depuis le 1er janvier 2026, les familles qui habitent Beveren-Kruibeke-Zwijndrecht reçoivent 30 € pour chaque enfant né ou adopté, en plus du montant de départ flamand.",
+        "deadline": "Dans l'année qui suit la naissance ou l'adoption.",
+        "amount": "30 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande en ligne"
+          }
+        ],
+        "steps": [
+          "Après la déclaration de la naissance ou de l'adoption, vous recevez une carte de félicitations avec le lien vers le formulaire",
+          "Remplissez le formulaire sur gemeentebkz.be dans l'année",
+          "La prime est versée sur le compte des parents"
+        ]
+      },
+      "de": {
+        "title": "Geboorte- en adoptiepremie (Geburts- und Adoptionsprämie, Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Seit dem 1. Januar 2026 erhalten Familien, die in Beveren-Kruibeke-Zwijndrecht wohnen, 30 € für jedes geborene oder adoptierte Kind, zusätzlich zum flämischen Startbetrag.",
+        "deadline": "Binnen 1 Jahr nach der Geburt oder Adoption.",
+        "amount": "30 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Online-Antragsformular"
+          }
+        ],
+        "steps": [
+          "Nach der Anmeldung der Geburt oder Adoption erhalten Sie eine Glückwunschkarte mit dem Link zum Formular",
+          "Füllen Sie binnen 1 Jahr das Formular auf gemeentebkz.be aus",
+          "Die Prämie wird auf das Konto der Eltern überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.gemeentebkz.be/geboortepremie",
+        "https://raadpleeg-beveren.onlinesmartcities.be/zittingen/25.0611.2672.8767/agendapunten/25.1106.7520.4255"
+      ],
+      "conditions": {
+        "en": [
+          "Families who live in Beveren-Kruibeke-Zwijndrecht and in which a child is born or adopted (on or after 1 January 2026).",
+          "Apply online within 1 year of the birth or adoption; paid within the yearly budget."
+        ],
+        "nl": [
+          "Gezinnen die in Beveren-Kruibeke-Zwijndrecht wonen en waar een kind geboren of geadopteerd wordt (vanaf 1 januari 2026).",
+          "Online aanvragen binnen 1 jaar na de geboorte of adoptie; uitbetaald binnen het jaarlijkse budget."
+        ],
+        "fr": [
+          "Les familles qui habitent Beveren-Kruibeke-Zwijndrecht et dans lesquelles un enfant naît ou est adopté (à partir du 1er janvier 2026).",
+          "Demande en ligne dans l'année qui suit la naissance ou l'adoption ; versée dans les limites du budget annuel."
+        ],
+        "de": [
+          "Familien, die in Beveren-Kruibeke-Zwijndrecht wohnen und in denen ein Kind geboren oder adoptiert wird (ab dem 1. Januar 2026).",
+          "Online-Antrag binnen 1 Jahr nach der Geburt oder Adoption; Zahlung im Rahmen des Jahresbudgets."
+        ]
+      }
+    }
+  },
+  {
+    "id": 359,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "46030"
+    ],
+    "institution": "Gemeente Beveren-Kruibeke-Zwijndrecht",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gemeentebkz.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage (Carer Allowance, Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "An unpaid carer of a resident of Beveren-Kruibeke-Zwijndrecht who gets the Flemish care budget for people with high care needs receives €50 to €150 a month. The carer does not have to live in the commune.",
+        "deadline": "Apply again every year; paid from the month after the application.",
+        "amount": "€50/month (one person cared for), €75/month (two or more); €100 or €150/month if you live with the (grand)parent(s), brother or sister you care for",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of the care budget for people with high care needs (zorgkas decision or a recent bank statement showing the payment)"
+          },
+          {
+            "type": "doc",
+            "label": "A carer recognition certificate from the health fund, or the sworn statement in the form"
+          }
+        ],
+        "steps": [
+          "Apply online or download the form on gemeentebkz.be",
+          "Send it with the proofs to the welfare department (dienst welzijn)",
+          "January–June is paid in July, July–December in January; report changes within one month"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage (Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Een onbetaalde mantelzorger van een inwoner van Beveren-Kruibeke-Zwijndrecht die het Zorgbudget voor zwaar zorgbehoevenden krijgt, ontvangt €50 tot €150 per maand. De mantelzorger hoeft geen inwoner te zijn.",
+        "deadline": "Elk jaar opnieuw aanvragen; toegekend vanaf de maand na de aanvraag.",
+        "amount": "€50/maand (één zorgbehoevende), €75/maand (twee of meer); €100 of €150/maand als je inwoont bij de zorgbehoevende (groot)ouder(s), broer of zus",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van het Zorgbudget voor zwaar zorgbehoevenden (beslissing van de zorgkas of een recent rekeninguittreksel met de uitbetaling)"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest erkenning mantelzorger van de mutualiteit, of de verklaring op eer in het formulier"
+          }
+        ],
+        "steps": [
+          "Vraag online aan of download het formulier op gemeentebkz.be",
+          "Bezorg het met de bewijzen aan de dienst welzijn",
+          "Januari–juni wordt uitbetaald in juli, juli–december in januari; meld wijzigingen binnen één maand"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage (allocation d'aidant proche, Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "L'aidant proche non rémunéré d'un habitant de Beveren-Kruibeke-Zwijndrecht qui reçoit le budget flamand de soins pour personnes fortement dépendantes reçoit de 50 à 150 € par mois. L'aidant ne doit pas habiter la commune.",
+        "deadline": "À redemander chaque année ; octroyée à partir du mois qui suit la demande.",
+        "amount": "50 €/mois (une personne aidée), 75 €/mois (deux ou plus) ; 100 € ou 150 €/mois si vous habitez chez le(s) (grand-)parent(s), frère ou sœur aidé(s)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve du budget de soins pour personnes fortement dépendantes (décision de la caisse d'assurance soins ou extrait de compte récent montrant le paiement)"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de reconnaissance d'aidant proche de la mutualité, ou la déclaration sur l'honneur du formulaire"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne ou téléchargez le formulaire sur gemeentebkz.be",
+          "Envoyez-le avec les preuves au service bien-être (dienst welzijn)",
+          "Janvier à juin est payé en juillet, juillet à décembre en janvier ; signalez tout changement dans le mois"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage (Zulage für pflegende Angehörige, Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Ein unbezahlter pflegender Angehöriger eines Einwohners von Beveren-Kruibeke-Zwijndrecht, der das flämische Pflegebudget für schwer Pflegebedürftige erhält, bekommt 50 bis 150 € pro Monat. Der Pflegende muss nicht in der Gemeinde wohnen.",
+        "deadline": "Jedes Jahr neu beantragen; gewährt ab dem Monat nach dem Antrag.",
+        "amount": "50 €/Monat (eine gepflegte Person), 75 €/Monat (zwei oder mehr); 100 € oder 150 €/Monat, wenn Sie bei den gepflegten (Groß-)Eltern, dem Bruder oder der Schwester wohnen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis des Pflegebudgets für schwer Pflegebedürftige (Entscheidung der Pflegekasse oder ein aktueller Kontoauszug mit der Zahlung)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Anerkennungsbescheinigung als pflegender Angehöriger der Krankenkasse oder die eidesstattliche Erklärung im Formular"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online oder laden Sie das Formular auf gemeentebkz.be herunter",
+          "Senden Sie es mit den Nachweisen an den Sozialdienst (dienst welzijn)",
+          "Januar–Juni wird im Juli gezahlt, Juli–Dezember im Januar; melden Sie Änderungen binnen eines Monats"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.gemeentebkz.be/mantelzorgpremie",
+        "https://raadpleeg-beveren.onlinesmartcities.be/zittingen/25.1106.3191.1577/agendapunten/25.1202.8122.1934"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for is a resident (domiciled) of Beveren-Kruibeke-Zwijndrecht, lives at home (not permanently in a care home or institution) and receives the monthly care budget for people with high care needs.",
+          "The carer is an adult, not in need of care, helps voluntarily without any other payment, and does not need to live in the commune.",
+          "Each person cared for can name only one carer; apply again every year."
+        ],
+        "nl": [
+          "De zorgbehoevende is inwoner van (gedomicilieerd in) Beveren-Kruibeke-Zwijndrecht, woont thuis (niet permanent in een woonzorgcentrum of voorziening) en heeft recht op de maandelijkse uitbetaling van het Zorgbudget voor zwaar zorgbehoevenden.",
+          "De mantelzorger is meerderjarig, zelf niet zorgbehoevend, helpt vrijwillig zonder andere vergoeding en hoeft geen inwoner te zijn.",
+          "De zorgbehoevende kan maximum één mantelzorger aanduiden; jaarlijks opnieuw aanvragen."
+        ],
+        "fr": [
+          "La personne aidée est domiciliée à Beveren-Kruibeke-Zwijndrecht, vit à domicile (pas en permanence en maison de repos ou en institution) et reçoit chaque mois le budget de soins pour personnes fortement dépendantes.",
+          "L'aidant est majeur, n'est pas lui-même dépendant, aide bénévolement sans autre rémunération et ne doit pas habiter la commune.",
+          "Chaque personne aidée ne peut désigner qu'un seul aidant ; demande à renouveler chaque année."
+        ],
+        "de": [
+          "Die gepflegte Person hat ihren Wohnsitz in Beveren-Kruibeke-Zwijndrecht, lebt zu Hause (nicht dauerhaft in einem Pflegeheim oder einer Einrichtung) und erhält monatlich das Pflegebudget für schwer Pflegebedürftige.",
+          "Der Pflegende ist volljährig, selbst nicht pflegebedürftig, hilft freiwillig ohne andere Vergütung und muss nicht in der Gemeinde wohnen.",
+          "Jede gepflegte Person kann nur einen Pflegenden benennen; jährlich neu beantragen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 360,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "46030"
+    ],
+    "institution": "Gemeente Beveren-Kruibeke-Zwijndrecht",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gemeentebkz.be/zorgpremie-volwassenen",
+    "content": {
+      "en": {
+        "title": "Zorgpremie volwassenen (Adult Care Premium, Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Residents aged 21 or over with a recognised care need who do not (yet) get the Flemish care budget for people with high care needs receive €816 a year from the commune.",
+        "deadline": "No fixed deadline; the right starts the month after the application and lasts as long as the certificate (BelRAI score: up to 3 years).",
+        "amount": "€816 a year, paid as €204 per quarter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "A FPS Social Security certificate (integration allowance scale) or a BelRAI screener result"
+          }
+        ],
+        "steps": [
+          "Apply online on gemeentebkz.be or download the form",
+          "Send the form with the certificate to the welfare department, Gravenplein 8, 9120 Beveren, or welzijn@gemeentebkz.be",
+          "Report any change within one month"
+        ]
+      },
+      "nl": {
+        "title": "Zorgpremie volwassenen (Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Inwoners vanaf 21 jaar met een erkende zorgnood die (nog) geen Zorgbudget voor zwaar zorgbehoevenden krijgen, ontvangen €816 per jaar van de gemeente.",
+        "deadline": "Geen vaste termijn; het recht begint de maand na de aanvraag en loopt zolang het attest geldig is (BelRAI-score: maximaal 3 jaar).",
+        "amount": "€816 per jaar, uitbetaald als €204 per kwartaal",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van de FOD Sociale Zekerheid (medische schaal integratietegemoetkoming) of een BelRAI-screenerresultaat"
+          }
+        ],
+        "steps": [
+          "Vraag online aan op gemeentebkz.be of download het formulier",
+          "Bezorg het formulier met het attest aan de dienst welzijn, Gravenplein 8, 9120 Beveren, of welzijn@gemeentebkz.be",
+          "Meld elke wijziging binnen één maand"
+        ]
+      },
+      "fr": {
+        "title": "Zorgpremie volwassenen (prime de soins pour adultes, Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Les habitants de 21 ans et plus ayant un besoin de soins reconnu qui ne reçoivent pas (encore) le budget flamand de soins pour personnes fortement dépendantes reçoivent 816 € par an de la commune.",
+        "deadline": "Pas de délai fixe ; le droit commence le mois qui suit la demande et dure tant que l'attestation est valable (score BelRAI : 3 ans maximum).",
+        "amount": "816 € par an, versés par trimestre (204 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du SPF Sécurité sociale (échelle de l'allocation d'intégration) ou un résultat BelRAI Screener"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne sur gemeentebkz.be ou téléchargez le formulaire",
+          "Envoyez le formulaire avec l'attestation au service bien-être, Gravenplein 8, 9120 Beveren, ou à welzijn@gemeentebkz.be",
+          "Signalez tout changement dans le mois"
+        ]
+      },
+      "de": {
+        "title": "Zorgpremie volwassenen (Pflegeprämie für Erwachsene, Beveren-Kruibeke-Zwijndrecht)",
+        "desc": "Einwohner ab 21 Jahren mit anerkanntem Pflegebedarf, die (noch) kein flämisches Pflegebudget für schwer Pflegebedürftige erhalten, bekommen 816 € pro Jahr von der Gemeinde.",
+        "deadline": "Keine feste Frist; der Anspruch beginnt im Monat nach dem Antrag und gilt so lange wie die Bescheinigung (BelRAI-Score: höchstens 3 Jahre).",
+        "amount": "816 € pro Jahr, gezahlt als 204 € pro Quartal",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des FÖD Soziale Sicherheit (Skala der Integrationsbeihilfe) oder ein BelRAI-Screener-Ergebnis"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online auf gemeentebkz.be oder laden Sie das Formular herunter",
+          "Senden Sie das Formular mit der Bescheinigung an den Sozialdienst, Gravenplein 8, 9120 Beveren, oder an welzijn@gemeentebkz.be",
+          "Melden Sie jede Änderung binnen eines Monats"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.gemeentebkz.be/zorgpremie-volwassenen",
+        "https://raadpleeg-beveren.onlinesmartcities.be/zittingen/25.1106.3191.1577/agendapunten/25.1126.0624.2984"
+      ],
+      "conditions": {
+        "en": [
+          "Aged 21 or over and registered on 1 January of the year in the population or foreigners' register of Beveren-Kruibeke-Zwijndrecht, or in the waiting register.",
+          "Proof of care need: 12 to 14 points on the integration allowance medical scale; or 15 points or more while excluded from the care budget (e.g. living in a facility); or a qualifying BelRAI screener score.",
+          "Not for people who already receive the care budget for people with high care needs."
+        ],
+        "nl": [
+          "Minstens 21 jaar en op 1 januari van het jaar ingeschreven in het bevolkings- of vreemdelingenregister van Beveren-Kruibeke-Zwijndrecht, of in het wachtregister.",
+          "Bewijs van zorgnood: 12 tot 14 punten op de medische schaal voor integratietegemoetkoming; of 15 punten of meer maar uitgesloten van het zorgbudget (bv. in een voorziening); of een BelRAI-screenerscore die voldoet.",
+          "Niet voor wie al het Zorgbudget voor zwaar zorgbehoevenden ontvangt."
+        ],
+        "fr": [
+          "Avoir au moins 21 ans et être inscrit au 1er janvier de l'année au registre de la population ou des étrangers de Beveren-Kruibeke-Zwijndrecht, ou au registre d'attente.",
+          "Preuve du besoin de soins : 12 à 14 points sur l'échelle médicale de l'allocation d'intégration ; ou 15 points ou plus en étant exclu du budget de soins (p. ex. en institution) ; ou un score BelRAI Screener suffisant.",
+          "Pas pour les personnes qui reçoivent déjà le budget de soins pour personnes fortement dépendantes."
+        ],
+        "de": [
+          "Mindestens 21 Jahre alt und am 1. Januar des Jahres im Bevölkerungs- oder Fremdenregister von Beveren-Kruibeke-Zwijndrecht oder im Warteregister eingetragen.",
+          "Nachweis des Pflegebedarfs: 12 bis 14 Punkte auf der medizinischen Skala der Integrationsbeihilfe; oder 15 Punkte oder mehr bei Ausschluss vom Pflegebudget (z. B. in einer Einrichtung); oder ein ausreichender BelRAI-Screener-Score.",
+          "Nicht für Personen, die bereits das Pflegebudget für schwer Pflegebedürftige erhalten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 361,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63023"
+    ],
+    "institution": "Stadt Eupen",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.eupen.be/leben-in-eupen/abfall-recycling/abfallvermeidung/waschbare-windeln/",
+    "content": {
+      "en": {
+        "title": "Prämie für waschbare Windeln (Washable Nappies Premium, Eupen)",
+        "desc": "Eupen refunds the full price of a washable cloth-nappy kit (new or second-hand), up to €100 per child.",
+        "deadline": "Between the child's birth and the age of 18 months.",
+        "amount": "100% of the purchase price, up to €100 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "The original invoice listing the items, with proof of payment (for second-hand: the seller's confirmation and a bank transfer receipt)"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the child's birth certificate"
+          }
+        ],
+        "steps": [
+          "Download the form on eupen.be",
+          "Send it with the documents to Stadt Eupen, Finanzdienst, Am Stadthaus 1, 4700 Eupen, or by e-mail to finanzdienst@eupen.be",
+          "After checking, the premium is transferred to your account"
+        ]
+      },
+      "nl": {
+        "title": "Prämie für waschbare Windeln (premie wasbare luiers, Eupen)",
+        "desc": "Eupen betaalt de volledige prijs van een set wasbare stoffen luiers (nieuw of tweedehands) terug, tot €100 per kind.",
+        "deadline": "Tussen de geboorte van het kind en de leeftijd van 18 maanden.",
+        "amount": "100% van de aankoopprijs, tot €100 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De originele factuur met de lijst van de artikelen en een betaalbewijs (tweedehands: bevestiging van de verkoper en een overschrijvingsbewijs)"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte van het kind"
+          }
+        ],
+        "steps": [
+          "Download het formulier op eupen.be",
+          "Stuur het met de documenten naar Stadt Eupen, Finanzdienst, Am Stadthaus 1, 4700 Eupen, of mail het naar finanzdienst@eupen.be",
+          "Na controle wordt de premie op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Prämie für waschbare Windeln (prime langes lavables, Eupen)",
+        "desc": "Eupen rembourse le prix total d'un kit de langes lavables en tissu (neuf ou de seconde main), jusqu'à 100 € par enfant.",
+        "deadline": "Entre la naissance de l'enfant et ses 18 mois.",
+        "amount": "100 % du prix d'achat, jusqu'à 100 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "La facture originale détaillant les articles, avec la preuve de paiement (seconde main : confirmation du vendeur et preuve de virement)"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance de l'enfant"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur eupen.be",
+          "Envoyez-le avec les documents à Stadt Eupen, Finanzdienst, Am Stadthaus 1, 4700 Eupen, ou par e-mail à finanzdienst@eupen.be",
+          "Après vérification, la prime est virée sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Prämie für waschbare Windeln (Eupen)",
+        "desc": "Eupen erstattet den vollen Preis einer Stoffwindelausstattung (neu oder gebraucht), bis zu 100 € pro Kind.",
+        "deadline": "Zwischen der Geburt des Kindes und dem vollendeten 18. Lebensmonat.",
+        "amount": "100 % des Kaufpreises, bis zu 100 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die Originalrechnung mit Auflistung der Artikel und Zahlungsnachweis (gebraucht: Bestätigung des Verkäufers und Überweisungsbeleg)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde des Kindes"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf eupen.be herunter",
+          "Senden Sie es mit den Unterlagen an die Stadt Eupen, Finanzdienst, Am Stadthaus 1, 4700 Eupen, oder per E-Mail an finanzdienst@eupen.be",
+          "Nach Prüfung wird die Prämie auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.eupen.be/wp-content/uploads/antragsform-praemie-waschb-stoffwin-ab-juni-2023-mit-regelung.docx"
+      ],
+      "conditions": {
+        "en": [
+          "The applicant is the child's parent or legal guardian, registered as such in the population register (Bevölkerungsregister) of Eupen.",
+          "Once per child, for children born since 1 January 2021; apply between the birth and the age of 18 months.",
+          "The purchase must include a basic kit (nappies, covers, inserts or liners); paid within the city budget."
+        ],
+        "nl": [
+          "De aanvrager is de ouder of voogd van het kind en staat als zodanig ingeschreven in het bevolkingsregister van Eupen.",
+          "Eén keer per kind, voor kinderen geboren sinds 1 januari 2021; aanvragen tussen de geboorte en 18 maanden.",
+          "De aankoop moet een basisuitrusting bevatten (luiers, overbroekjes, inlegkruisjes of inlegvellen); uitbetaald binnen het stadsbudget."
+        ],
+        "fr": [
+          "Le demandeur est le parent ou le tuteur de l'enfant, inscrit comme tel au registre de la population d'Eupen.",
+          "Une fois par enfant, pour les enfants nés depuis le 1er janvier 2021 ; demande entre la naissance et 18 mois.",
+          "L'achat doit comprendre un équipement de base (langes, culottes de protection, inserts ou voiles) ; versée dans les limites du budget communal."
+        ],
+        "de": [
+          "Der Antragsteller ist der oder die Erziehungsberechtigte des Kindes und als solche(r) im Bevölkerungsregister der Stadt Eupen eingetragen.",
+          "Einmal pro Kind, für Kinder, die seit dem 1. Januar 2021 geboren sind; Antrag zwischen Geburt und 18. Lebensmonat.",
+          "Der Kauf muss eine Grundausstattung umfassen (Windeln, Überhosen, Einlagen oder Windelvlies); Zahlung im Rahmen des städtischen Haushalts."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in the population register (Bevölkerungsregister).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister (Bevölkerungsregister).",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population (Bevölkerungsregister).",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister (Bevölkerungsregister)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 362,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "81001"
+    ],
+    "institution": "Ville d'Arlon",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.arlon.be/loisirs/sports/operation-cheque-sport/operation-cheque-sport",
+    "content": {
+      "en": {
+        "title": "Chèque sport (Sports Voucher, Arlon)",
+        "desc": "Arlon pays half of a sports-club membership, up to €50 a season: for households on a modest income or people with a recognised disability, or for anyone joining a club in a sport they have never practised.",
+        "deadline": "One voucher per sports season (1 September to 31 August), within the yearly budget.",
+        "amount": "50% of the membership or course fee, up to €50 per season",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form (the 'personnes fragilisées' or the 'première affiliation' version)"
+          },
+          {
+            "type": "doc",
+            "label": "The club's membership certificate, or the registration certificate for the activity or course"
+          },
+          {
+            "type": "doc",
+            "label": "Low-income route: your latest income-tax assessment, or proof of recognised disability"
+          }
+        ],
+        "steps": [
+          "Download the form on arlon.be or ask the Conseil des Sports secretariat",
+          "Join a club of the Conseil des Sports (or based in Arlon), or sign up for an activity of the municipal sports authority",
+          "Hand in the form with the documents at the Conseil des Sports secretariat, Hôtel de Ville, rue Paul Reuter 8, 6700 Arlon; the money is paid into your account"
+        ]
+      },
+      "nl": {
+        "title": "Chèque sport (sportcheque, Aarlen)",
+        "desc": "Aarlen betaalt de helft van het lidgeld van een sportclub terug, tot €50 per seizoen: voor gezinnen met een bescheiden inkomen of personen met een erkende handicap, of voor wie zich aansluit bij een club in een sport die hij nooit beoefende.",
+        "deadline": "Eén cheque per sportseizoen (1 september tot 31 augustus), binnen het jaarlijkse budget.",
+        "amount": "50% van het lidgeld of inschrijvingsgeld, tot €50 per seizoen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier (versie 'personnes fragilisées' of 'première affiliation')"
+          },
+          {
+            "type": "doc",
+            "label": "Het attest van aansluiting bij de club, of het inschrijvingsattest voor de activiteit of stage"
+          },
+          {
+            "type": "doc",
+            "label": "Bij laag inkomen: je laatste aanslagbiljet personenbelasting, of het bewijs van erkende handicap"
+          }
+        ],
+        "steps": [
+          "Download het formulier op arlon.be of vraag het aan het secretariaat van de Conseil des Sports",
+          "Sluit je aan bij een club van de Conseil des Sports (of met zetel in Aarlen), of schrijf je in voor een activiteit van het gemeentelijk sportbedrijf",
+          "Geef het formulier met de documenten af bij het secretariaat van de Conseil des Sports, Hôtel de Ville, rue Paul Reuter 8, 6700 Aarlen; het bedrag wordt op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Chèque sport (Arlon)",
+        "desc": "Arlon rembourse la moitié de l'affiliation à un club sportif, jusqu'à 50 € par saison : pour les ménages à revenus modestes ou les personnes reconnues en situation de handicap, ou pour toute première affiliation dans une discipline jamais pratiquée.",
+        "deadline": "Un chèque par saison sportive (du 1er septembre au 31 août), dans les limites du budget annuel.",
+        "amount": "50 % de la cotisation ou de l'inscription, jusqu'à 50 € par saison",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande (version « personnes fragilisées » ou « première affiliation »)"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation d'affiliation du club, ou l'attestation d'inscription à l'activité ou au stage"
+          },
+          {
+            "type": "doc",
+            "label": "Voie revenus modestes : votre dernier avertissement-extrait de rôle, ou l'attestation de reconnaissance de handicap"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur arlon.be ou demandez-le au secrétariat du Conseil des Sports",
+          "Affiliez-vous à un club du Conseil des Sports (ou dont le siège est à Arlon), ou inscrivez-vous à une activité de la Régie communale autonome des Sports",
+          "Déposez le formulaire avec les documents au secrétariat du Conseil des Sports, Hôtel de Ville, rue Paul Reuter 8, 6700 Arlon ; le montant est versé sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Chèque sport (Sportscheck, Arlon)",
+        "desc": "Arlon erstattet die Hälfte des Mitgliedsbeitrags eines Sportvereins, bis zu 50 € pro Saison: für Haushalte mit bescheidenem Einkommen oder Personen mit anerkannter Behinderung, oder für jeden, der in einer nie ausgeübten Sportart einem Verein beitritt.",
+        "deadline": "Ein Scheck pro Sportsaison (1. September bis 31. August), im Rahmen des Jahresbudgets.",
+        "amount": "50 % des Mitglieds- oder Teilnahmebeitrags, bis zu 50 € pro Saison",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular (Fassung „personnes fragilisées“ oder „première affiliation“)"
+          },
+          {
+            "type": "doc",
+            "label": "Die Mitgliedsbescheinigung des Vereins oder die Anmeldebescheinigung für die Aktivität oder das Kursangebot"
+          },
+          {
+            "type": "doc",
+            "label": "Bei niedrigem Einkommen: Ihr letzter Einkommensteuerbescheid oder der Nachweis der anerkannten Behinderung"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf arlon.be herunter oder fordern Sie es beim Sekretariat des Conseil des Sports an",
+          "Treten Sie einem Verein des Conseil des Sports (oder mit Sitz in Arlon) bei oder melden Sie sich für eine Aktivität der kommunalen Sportregie an",
+          "Reichen Sie das Formular mit den Unterlagen beim Sekretariat des Conseil des Sports ein, Hôtel de Ville, rue Paul Reuter 8, 6700 Arlon; der Betrag wird auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.arlon.be/loisirs/sports/operation-cheque-sport/operation-cheque-sport",
+        "https://www.arlon.be/loisirs/sports/operation-cheque-sport/operation-cheque-sport/reglements-et-formulaires/reglement_cheque_sport_personne_fragilisee_2026-2030.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Domiciled only in Arlon when you apply.",
+          "Low-income voucher: net yearly household income under €31,540.80 for a single person plus €5,500 per dependant (indexed every 1 September), or a recognised disability.",
+          "First-membership voucher: no age or income limit, for a discipline you have never practised; the two vouchers cannot be combined."
+        ],
+        "nl": [
+          "Enkel in Aarlen gedomicilieerd op het moment van de aanvraag.",
+          "Cheque bij laag inkomen: netto jaarinkomen van het gezin onder €31.540,80 voor een alleenstaande plus €5.500 per persoon ten laste (geïndexeerd op 1 september), of een erkende handicap.",
+          "Cheque eerste aansluiting: geen leeftijds- of inkomensgrens, voor een sport die je nooit beoefende; beide cheques zijn niet cumuleerbaar."
+        ],
+        "fr": [
+          "Être domicilié exclusivement à Arlon au moment de la demande.",
+          "Chèque « personnes fragilisées » : revenus annuels nets du ménage inférieurs à 31.540,80 € pour une personne isolée, plus 5.500 € par personne à charge (indexés chaque 1er septembre), ou reconnaissance de handicap.",
+          "Chèque « 1ère affiliation » : sans limite d'âge ni de revenus, pour une discipline jamais pratiquée ; les deux chèques ne sont pas cumulables."
+        ],
+        "de": [
+          "Zum Zeitpunkt des Antrags ausschließlich in Arlon wohnhaft.",
+          "Scheck für Bedürftige: jährliches Nettoeinkommen des Haushalts unter 31.540,80 € für Alleinstehende plus 5.500 € je unterhaltsberechtigte Person (indexiert jeden 1. September), oder anerkannte Behinderung.",
+          "Scheck „Erstmitgliedschaft“: ohne Alters- oder Einkommensgrenze, für eine nie ausgeübte Sportart; beide Schecks sind nicht kumulierbar."
+        ]
+      }
+    }
+  },
+  {
+    "id": 363,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25121"
+    ],
+    "institution": "Ville d'Ottignies-Louvain-la-Neuve",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.olln.be/fr/vivre-a-olln/cohesion-sociale/cheques-taxi",
+    "content": {
+      "en": {
+        "title": "Chèques taxi (Taxi Vouchers, Ottignies-Louvain-la-Neuve)",
+        "desc": "People aged 60 or over, or with a recognised disability, on a low income can buy €5 taxi vouchers for €2 each, for any trip with a partner taxi company.",
+        "deadline": "No deadline; up to 75 vouchers per household per 12 months from the first purchase.",
+        "amount": "Each €5 voucher costs you €2 (the city pays €3), up to 75 vouchers per 12 months",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of age 60+ or of recognised disability, and of household income"
+          }
+        ],
+        "steps": [
+          "Apply to the city's social affairs department (Affaires sociales), Espace du Cœur de Ville 2, 010 43 61 70 or affairessociales@olln.be, or online",
+          "Buy the vouchers at €2 each",
+          "Book directly with a taxi company from the list you receive and pay with the vouchers"
+        ]
+      },
+      "nl": {
+        "title": "Chèques taxi (taxicheques, Ottignies-Louvain-la-Neuve)",
+        "desc": "Personen vanaf 60 jaar of met een erkende handicap en een laag inkomen kunnen taxicheques van €5 kopen voor €2 per stuk, voor elke rit met een partnertaxibedrijf.",
+        "deadline": "Geen termijn; maximaal 75 cheques per gezin per 12 maanden vanaf de eerste aankoop.",
+        "amount": "Elke cheque van €5 kost je €2 (de stad betaalt €3), maximaal 75 cheques per 12 maanden",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van leeftijd (60+) of erkende handicap, en van het gezinsinkomen"
+          }
+        ],
+        "steps": [
+          "Vraag aan bij de dienst sociale zaken (Affaires sociales), Espace du Cœur de Ville 2, 010 43 61 70 of affairessociales@olln.be, of online",
+          "Koop de cheques aan €2 per stuk",
+          "Bel rechtstreeks een taxibedrijf uit de lijst die je krijgt en betaal met de cheques"
+        ]
+      },
+      "fr": {
+        "title": "Chèques taxi (Ottignies-Louvain-la-Neuve)",
+        "desc": "Les personnes de 60 ans et plus, ou reconnues en situation de handicap, à revenus modestes peuvent acheter des chèques taxi de 5 € pour 2 € pièce, valables pour tout déplacement avec une société de taxis partenaire.",
+        "deadline": "Pas de délai ; 75 chèques maximum par ménage par période de 12 mois à partir du premier achat.",
+        "amount": "Chaque chèque de 5 € vous coûte 2 € (la Ville paie 3 €), 75 chèques maximum par 12 mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La preuve de l'âge (60 ans et plus) ou du handicap reconnu, et des revenus du ménage"
+          }
+        ],
+        "steps": [
+          "Introduisez votre demande au service Affaires sociales, Espace du Cœur de Ville 2, 010 43 61 70 ou affairessociales@olln.be, ou en ligne",
+          "Achetez les chèques à 2 € pièce",
+          "Contactez directement une société de taxis de la liste remise et payez avec les chèques"
+        ]
+      },
+      "de": {
+        "title": "Chèques taxi (Taxischecks, Ottignies-Louvain-la-Neuve)",
+        "desc": "Personen ab 60 Jahren oder mit anerkannter Behinderung und geringem Einkommen können Taxischecks im Wert von 5 € für je 2 € kaufen, gültig für jede Fahrt mit einem Partnertaxiunternehmen.",
+        "deadline": "Keine Frist; höchstens 75 Schecks pro Haushalt je 12 Monate ab dem ersten Kauf.",
+        "amount": "Jeder 5-€-Scheck kostet Sie 2 € (die Stadt zahlt 3 €), höchstens 75 Schecks je 12 Monate",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis des Alters (60+) oder der anerkannten Behinderung sowie des Haushaltseinkommens"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie beim Sozialdienst (Affaires sociales), Espace du Cœur de Ville 2, 010 43 61 70 oder affairessociales@olln.be, oder online",
+          "Kaufen Sie die Schecks zu je 2 €",
+          "Bestellen Sie direkt bei einem Taxiunternehmen aus der erhaltenen Liste und zahlen Sie mit den Schecks"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.olln.be/fr/vivre-a-olln/cohesion-sociale/cheques-taxi"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Ottignies-Louvain-la-Neuve and are 60 or over, or have a recognised disability (any age).",
+          "Household taxable income no higher than €29,236.66 plus €5,412.51 per dependant (the increased-reimbursement ceiling on 1 September 2026).",
+          "Up to 75 vouchers per household per 12 months."
+        ],
+        "nl": [
+          "Je woont in Ottignies-Louvain-la-Neuve en bent minstens 60 jaar, of hebt een erkende handicap (zonder leeftijdsgrens).",
+          "Belastbaar gezinsinkomen niet hoger dan €29.236,66 plus €5.412,51 per persoon ten laste (grens van de verhoogde tegemoetkoming op 1 september 2026).",
+          "Maximaal 75 cheques per gezin per 12 maanden."
+        ],
+        "fr": [
+          "Vous habitez Ottignies-Louvain-la-Neuve et avez 60 ans ou plus, ou êtes reconnu en situation de handicap (sans limite d'âge).",
+          "Revenu annuel globalement imposable du ménage de maximum 29.236,66 €, plus 5.412,51 € par personne à charge (plafond BIM au 1er septembre 2026).",
+          "75 chèques maximum par ménage par 12 mois."
+        ],
+        "de": [
+          "Sie wohnen in Ottignies-Louvain-la-Neuve und sind mindestens 60 Jahre alt oder haben eine anerkannte Behinderung (ohne Altersgrenze).",
+          "Steuerpflichtiges Haushaltseinkommen höchstens 29.236,66 € plus 5.412,51 € je unterhaltsberechtigte Person (Grenze der erhöhten Kostenerstattung am 1. September 2026).",
+          "Höchstens 75 Schecks pro Haushalt je 12 Monate."
+        ]
+      }
+    }
+  },
+  {
+    "id": 364,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25121"
+    ],
+    "institution": "Ville d'Ottignies-Louvain-la-Neuve",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.olln.be/fr/vie-communale/administration-communale/tous-les-services-communaux/service-transition-environnementale/demarches/prime-pour-lachat-dune-compostiere",
+    "content": {
+      "en": {
+        "title": "Prime pour l'achat d'une compostière (Compost Bin Premium, Ottignies-Louvain-la-Neuve)",
+        "desc": "Households in Ottignies-Louvain-la-Neuve get €25 when they buy a compost bin for home composting, once every 8 years.",
+        "deadline": "Within 3 months of the purchase (purchases from 1 January 2026).",
+        "amount": "€25",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of purchase of the compost bin"
+          }
+        ],
+        "steps": [
+          "Apply online on olln.be (Prime pour l'achat d'une compostière)",
+          "Attach the proof of purchase"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour l'achat d'une compostière (compostbakpremie, Ottignies-Louvain-la-Neuve)",
+        "desc": "Gezinnen in Ottignies-Louvain-la-Neuve krijgen €25 bij de aankoop van een compostbak voor thuiscompostering, één keer per 8 jaar.",
+        "deadline": "Binnen 3 maanden na de aankoop (aankopen vanaf 1 januari 2026).",
+        "amount": "€25",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aankoopbewijs van de compostbak"
+          }
+        ],
+        "steps": [
+          "Vraag online aan op olln.be (Prime pour l'achat d'une compostière)",
+          "Voeg het aankoopbewijs toe"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour l'achat d'une compostière (Ottignies-Louvain-la-Neuve)",
+        "desc": "Les ménages d'Ottignies-Louvain-la-Neuve reçoivent 25 € à l'achat d'une compostière pour composter à domicile, une fois tous les 8 ans.",
+        "deadline": "Au plus tard dans les trois mois de l'achat (achats à partir du 1er janvier 2026).",
+        "amount": "25 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La preuve d'achat de la compostière"
+          }
+        ],
+        "steps": [
+          "Introduisez la demande en ligne sur olln.be (Prime pour l'achat d'une compostière)",
+          "Joignez la preuve d'achat"
+        ]
+      },
+      "de": {
+        "title": "Prime pour l'achat d'une compostière (Komposterprämie, Ottignies-Louvain-la-Neuve)",
+        "desc": "Haushalte in Ottignies-Louvain-la-Neuve erhalten 25 € beim Kauf eines Komposters für die Heimkompostierung, einmal alle 8 Jahre.",
+        "deadline": "Binnen 3 Monaten nach dem Kauf (Käufe ab dem 1. Januar 2026).",
+        "amount": "25 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der Kaufbeleg des Komposters"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online auf olln.be (Prime pour l'achat d'une compostière)",
+          "Fügen Sie den Kaufbeleg bei"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.olln.be/fr/vie-communale/administration-communale/tous-les-services-communaux/service-transition-environnementale/demarches/prime-pour-lachat-dune-compostiere"
+      ],
+      "conditions": {
+        "en": [
+          "Domiciled in Ottignies-Louvain-la-Neuve when you apply, and the bin is installed on the plot of your household's address in the city.",
+          "Your household has not had this premium in the last 8 years; one premium per home.",
+          "You commit to use the bin without causing nuisance to neighbours; apply within 3 months of the purchase."
+        ],
+        "nl": [
+          "Gedomicilieerd in Ottignies-Louvain-la-Neuve bij de aanvraag, en de compostbak staat op het perceel van het adres van je gezin in de stad.",
+          "Je gezin kreeg deze premie niet in de voorbije 8 jaar; één premie per woning.",
+          "Je engageert je om de compostbak te gebruiken zonder hinder voor de buren; aanvragen binnen 3 maanden na de aankoop."
+        ],
+        "fr": [
+          "Être domicilié sur le territoire de la Ville au moment de la demande et installer la compostière sur la parcelle correspondant à l'adresse du ménage.",
+          "Le ménage n'a pas bénéficié de cette prime dans les 8 dernières années ; une seule prime par logement.",
+          "S'engager à utiliser le dispositif sans créer de nuisance pour le voisinage ; demande dans les trois mois de l'achat."
+        ],
+        "de": [
+          "Zum Zeitpunkt des Antrags in Ottignies-Louvain-la-Neuve wohnhaft, und der Komposter steht auf dem Grundstück Ihrer Haushaltsadresse in der Stadt.",
+          "Ihr Haushalt hat diese Prämie in den letzten 8 Jahren nicht erhalten; eine Prämie pro Wohnung.",
+          "Sie verpflichten sich, den Komposter ohne Belästigung der Nachbarn zu nutzen; Antrag binnen 3 Monaten nach dem Kauf."
+        ]
+      }
+    }
+  },
+  {
+    "id": 365,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25072"
+    ],
+    "institution": "Ville de Nivelles",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.nivelles.be/mes-demarches/attendre-une-naissance/primes-couches-lavables-langes-jetables-dits-ecologiques",
+    "content": {
+      "en": {
+        "title": "Prime couches lavables ou langes écologiques (Washable or Eco Nappies Premium, Nivelles)",
+        "desc": "Nivelles pays part of the cost of washable nappies (bought or rented) or of highly biodegradable disposable nappies for a baby under one year old.",
+        "deadline": "Within 150 days (5 months) of the purchase; the child must be under one year old at the purchase.",
+        "amount": "Buying washable nappies: 50%, up to €125; renting a kit: 50%, up to €100; biodegradable disposables: 25%, up to €75 (one premium per child)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Invoices in your name, or receipts with proof of payment from your bank account"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of the products' labels (e.g. GOTS, Oeko-Tex; at least two labels for disposables)"
+          }
+        ],
+        "steps": [
+          "Buy or rent at least 7 washable nappies, or buy at least 5 packs of 25 labelled biodegradable nappies",
+          "Download the form on nivelles.be",
+          "Hand it in with the documents at the Administration communale, Place Albert Ier 2, 1400 Nivelles"
+        ]
+      },
+      "nl": {
+        "title": "Prime couches lavables ou langes écologiques (premie wasbare of ecologische luiers, Nijvel)",
+        "desc": "Nijvel betaalt een deel van de kosten van wasbare luiers (gekocht of gehuurd) of van sterk biologisch afbreekbare wegwerpluiers voor een baby jonger dan één jaar.",
+        "deadline": "Binnen 150 dagen (5 maanden) na de aankoop; het kind moet bij de aankoop jonger zijn dan één jaar.",
+        "amount": "Aankoop wasbare luiers: 50%, tot €125; huur van een set: 50%, tot €100; biologisch afbreekbare wegwerpluiers: 25%, tot €75 (één premie per kind)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Facturen op jouw naam, of kasbonnen met betaalbewijs van je rekening"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van de labels van de producten (bv. GOTS, Oeko-Tex; minstens twee labels voor wegwerpluiers)"
+          }
+        ],
+        "steps": [
+          "Koop of huur minstens 7 wasbare luiers, of koop minstens 5 pakken van 25 gelabelde biologisch afbreekbare luiers",
+          "Download het formulier op nivelles.be",
+          "Geef het met de documenten af bij het gemeentebestuur, Place Albert Ier 2, 1400 Nijvel"
+        ]
+      },
+      "fr": {
+        "title": "Prime couches lavables ou langes écologiques (Nivelles)",
+        "desc": "Nivelles rembourse une partie du coût de couches lavables (achetées ou louées) ou de langes jetables hautement biodégradables pour un bébé de moins d'un an.",
+        "deadline": "Dans les 150 jours (5 mois) de l'achat ; l'enfant doit avoir moins d'un an au moment de l'achat.",
+        "amount": "Achat de couches lavables : 50 %, jusqu'à 125 € ; location d'un kit : 50 %, jusqu'à 100 € ; langes jetables biodégradables : 25 %, jusqu'à 75 € (une prime par enfant)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Les factures à votre nom, ou les tickets de caisse avec la preuve de paiement (extrait de compte)"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve des labels des produits (p. ex. GOTS, Oeko-Tex ; au moins deux labels pour les langes jetables)"
+          }
+        ],
+        "steps": [
+          "Achetez ou louez au moins 7 couches lavables, ou achetez au moins 5 paquets de 25 langes biodégradables labellisés",
+          "Téléchargez le formulaire sur nivelles.be",
+          "Remettez-le avec les annexes à l'Administration communale, Place Albert Ier 2, 1400 Nivelles"
+        ]
+      },
+      "de": {
+        "title": "Prime couches lavables ou langes écologiques (Prämie für waschbare oder ökologische Windeln, Nivelles)",
+        "desc": "Nivelles erstattet einen Teil der Kosten für waschbare Windeln (gekauft oder gemietet) oder für hochgradig biologisch abbaubare Wegwerfwindeln für ein Baby unter einem Jahr.",
+        "deadline": "Binnen 150 Tagen (5 Monaten) nach dem Kauf; das Kind muss beim Kauf jünger als ein Jahr sein.",
+        "amount": "Kauf waschbarer Windeln: 50 %, bis zu 125 €; Miete eines Sets: 50 %, bis zu 100 €; biologisch abbaubare Wegwerfwindeln: 25 %, bis zu 75 € (eine Prämie pro Kind)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Rechnungen auf Ihren Namen oder Kassenbons mit Zahlungsnachweis von Ihrem Konto"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis der Produktlabels (z. B. GOTS, Oeko-Tex; mindestens zwei Labels bei Wegwerfwindeln)"
+          }
+        ],
+        "steps": [
+          "Kaufen oder mieten Sie mindestens 7 waschbare Windeln oder kaufen Sie mindestens 5 Packungen à 25 zertifizierte abbaubare Windeln",
+          "Laden Sie das Formular auf nivelles.be herunter",
+          "Reichen Sie es mit den Unterlagen bei der Gemeindeverwaltung ein, Place Albert Ier 2, 1400 Nivelles"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.nivelles.be/mes-demarches/attendre-une-naissance/couches-lavables-ou-lnages-hautement-biodegradables-reglement-prime"
+      ],
+      "conditions": {
+        "en": [
+          "The child and the parent or legal guardian are registered in the population register (Registre de la population) of Nivelles when you apply.",
+          "The child is under one year old at the purchase; one premium per child, and washable and disposable premiums cannot be combined.",
+          "Apply within 150 days of the purchase; paid within the city budget."
+        ],
+        "nl": [
+          "Het kind en de ouder of voogd zijn bij de aanvraag ingeschreven in het bevolkingsregister van Nijvel.",
+          "Het kind is jonger dan één jaar bij de aankoop; één premie per kind, en de premies voor wasbare en wegwerpluiers zijn niet cumuleerbaar.",
+          "Aanvragen binnen 150 dagen na de aankoop; uitbetaald binnen het stadsbudget."
+        ],
+        "fr": [
+          "L'enfant et le parent ou tuteur légal sont inscrits au Registre de la population de Nivelles au moment de la demande.",
+          "L'enfant a moins d'un an au moment de l'achat ; une seule prime par enfant, et les primes couches lavables et langes jetables ne sont pas cumulables.",
+          "Demande dans les 150 jours de l'achat ; dans les limites des crédits budgétaires."
+        ],
+        "de": [
+          "Das Kind und der Elternteil oder Vormund sind zum Zeitpunkt des Antrags im Bevölkerungsregister von Nivelles eingetragen.",
+          "Das Kind ist beim Kauf jünger als ein Jahr; eine Prämie pro Kind, und die Prämien für waschbare und Wegwerfwindeln sind nicht kumulierbar.",
+          "Antrag binnen 150 Tagen nach dem Kauf; Zahlung im Rahmen des städtischen Haushalts."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in the population register (Registre de la population).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister (Registre de la population).",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population (Registre de la population).",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister (Registre de la population)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 366,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "52015"
+    ],
+    "institution": "Commune de Courcelles",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.courcelles.eu/courcelles-eu/contenu/ma-commune/mes-documents/primes-communales",
+    "content": {
+      "en": {
+        "title": "Prime de naissance ou d'adoption (Birth or Adoption Premium, Courcelles)",
+        "desc": "Courcelles refunds €50 to parents living in the commune who spend at least €50 on items for their newborn or adopted child in shops in Courcelles.",
+        "deadline": "Within 6 months of the birth or adoption.",
+        "amount": "€50 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed and signed form (sent to you automatically after the birth or adoption)"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition (free from the population service)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of purchase of at least €50 of items for the child, from shops in Courcelles only"
+          }
+        ],
+        "steps": [
+          "You receive the form automatically after the birth or adoption",
+          "Buy at least €50 of items for the child in shops in Courcelles",
+          "Send or bring the form with the documents within 6 months to the Administration communale, Service financier, rue Jean Jaurès 2, 6180 Courcelles"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance ou d'adoption (geboorte- of adoptiepremie, Courcelles)",
+        "desc": "Courcelles betaalt €50 terug aan ouders die in de gemeente wonen en minstens €50 uitgeven aan artikelen voor hun pasgeboren of geadopteerde kind in winkels in Courcelles.",
+        "deadline": "Binnen 6 maanden na de geboorte of adoptie.",
+        "amount": "€50 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde en ondertekende formulier (automatisch toegestuurd na de geboorte of adoptie)"
+          },
+          {
+            "type": "doc",
+            "label": "Een gezinssamenstelling (gratis bij de dienst bevolking)"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoopbewijs van minstens €50 aan artikelen voor het kind, enkel bij handelaars in Courcelles"
+          }
+        ],
+        "steps": [
+          "Je krijgt het formulier automatisch na de geboorte of adoptie",
+          "Koop voor minstens €50 artikelen voor het kind in winkels in Courcelles",
+          "Stuur of breng het formulier met de documenten binnen 6 maanden naar het gemeentebestuur, Service financier, rue Jean Jaurès 2, 6180 Courcelles"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance ou d'adoption d'un enfant (Courcelles)",
+        "desc": "Courcelles verse 50 € aux parents domiciliés dans la commune qui achètent pour au moins 50 € d'articles destinés à l'enfant né ou adopté chez des commerçants de l'entité.",
+        "deadline": "Dans les six mois qui suivent la naissance ou l'adoption.",
+        "amount": "50 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire complété et signé (transmis automatiquement après la naissance ou l'adoption)"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage (délivrée gratuitement par le service population)"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve d'achat d'au moins 50 € d'articles destinés à l'enfant, auprès de commerçants de l'entité de Courcelles uniquement"
+          }
+        ],
+        "steps": [
+          "Vous recevez le formulaire automatiquement après la naissance ou l'adoption",
+          "Achetez pour au moins 50 € d'articles pour l'enfant chez des commerçants de Courcelles",
+          "Renvoyez ou déposez le formulaire avec les documents dans les six mois à l'Administration communale, Service financier, rue Jean Jaurès 2, 6180 Courcelles"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance ou d'adoption (Geburts- oder Adoptionsprämie, Courcelles)",
+        "desc": "Courcelles zahlt 50 € an Eltern mit Wohnsitz in der Gemeinde, die in Geschäften in Courcelles mindestens 50 € für Artikel für ihr neugeborenes oder adoptiertes Kind ausgeben.",
+        "deadline": "Binnen 6 Monaten nach der Geburt oder Adoption.",
+        "amount": "50 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte und unterschriebene Formular (nach der Geburt oder Adoption automatisch zugesandt)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung (kostenlos beim Bevölkerungsdienst)"
+          },
+          {
+            "type": "doc",
+            "label": "Kaufbeleg über mindestens 50 € für Artikel für das Kind, nur aus Geschäften in Courcelles"
+          }
+        ],
+        "steps": [
+          "Sie erhalten das Formular automatisch nach der Geburt oder Adoption",
+          "Kaufen Sie in Geschäften in Courcelles für mindestens 50 € Artikel für das Kind",
+          "Senden oder bringen Sie das Formular mit den Unterlagen binnen 6 Monaten zur Gemeindeverwaltung, Service financier, rue Jean Jaurès 2, 6180 Courcelles"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.courcelles.eu/courcelles-eu/contenu/ma-commune/mes-documents/primes-communales"
+      ],
+      "conditions": {
+        "en": [
+          "Parent(s) domiciled in Courcelles at the birth or adoption.",
+          "Proof of at least €50 spent on items for the child in shops in Courcelles; apply within 6 months."
+        ],
+        "nl": [
+          "Ouder(s) gedomicilieerd in Courcelles bij de geboorte of adoptie.",
+          "Bewijs van minstens €50 uitgegeven aan artikelen voor het kind in winkels in Courcelles; aanvragen binnen 6 maanden."
+        ],
+        "fr": [
+          "Le ou les parents domiciliés dans la Commune de Courcelles lors de la naissance ou de l'adoption.",
+          "Preuve d'achat d'au moins 50 € d'articles pour l'enfant chez des commerçants de Courcelles ; demande dans les six mois."
+        ],
+        "de": [
+          "Elternteil(e) mit Wohnsitz in Courcelles bei der Geburt oder Adoption.",
+          "Nachweis von mindestens 50 € Ausgaben für Artikel für das Kind in Geschäften in Courcelles; Antrag binnen 6 Monaten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 367,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "52015"
+    ],
+    "institution": "Commune de Courcelles",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.courcelles.eu/courcelles-eu/contenu/ma-commune/mes-documents/primes-communales",
+    "content": {
+      "en": {
+        "title": "Prime à l'achat de langes lavables (Washable Nappies Premium, Courcelles)",
+        "desc": "Courcelles refunds half of what you pay for washable nappies, up to €75, once per child under 2.5 years.",
+        "deadline": "Once per child, between birth and the age of 2.5 years.",
+        "amount": "50% of the invoice, up to €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed, dated and signed form 'Demande de prime à l'achat de langes lavables'"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the invoice(s) detailing the nappy set"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the household composition"
+          }
+        ],
+        "steps": [
+          "Download the form on courcelles.eu or ask the early-childhood service, rue de Brouckère 20A, 6182 Souvret",
+          "Send one application with all invoices (several can be combined up to €75)",
+          "The commune's treasury pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'achat de langes lavables (premie wasbare luiers, Courcelles)",
+        "desc": "Courcelles betaalt de helft terug van wat je uitgeeft aan wasbare luiers, tot €75, één keer per kind jonger dan 2,5 jaar.",
+        "deadline": "Eén keer per kind, tussen de geboorte en 2,5 jaar.",
+        "amount": "50% van de factuur, tot €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde, gedateerde en ondertekende formulier 'Demande de prime à l'achat de langes lavables'"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de factuur of facturen met de samenstelling van de luierset"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de gezinssamenstelling"
+          }
+        ],
+        "steps": [
+          "Download het formulier op courcelles.eu of vraag het aan bij de dienst kinderopvang, rue de Brouckère 20A, 6182 Souvret",
+          "Dien één aanvraag in met alle facturen (meerdere facturen mogen samen tot €75)",
+          "De gemeentelijke ontvangerij betaalt de premie uit"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'achat de langes lavables (Courcelles)",
+        "desc": "Courcelles rembourse la moitié de la facture d'achat de langes lavables, jusqu'à 75 €, une fois par enfant de moins de 2 ans et demi.",
+        "deadline": "Une seule fois par enfant, entre sa naissance et l'âge de 2 ans et demi.",
+        "amount": "50 % de la facture, jusqu'à 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le document « Demande de prime à l'achat de langes lavables » complété, daté et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la ou des factures détaillant la composition du lot de langes"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la composition de ménage"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur courcelles.eu ou demandez-le au service petite enfance, rue de Brouckère 20A, 6182 Souvret",
+          "Introduisez une seule demande avec toutes les factures (plusieurs factures peuvent être cumulées jusqu'à 75 €)",
+          "La Recette communale verse la prime"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'achat de langes lavables (Prämie für waschbare Windeln, Courcelles)",
+        "desc": "Courcelles erstattet die Hälfte des Kaufpreises waschbarer Windeln, bis zu 75 €, einmal pro Kind unter 2,5 Jahren.",
+        "deadline": "Einmal pro Kind, zwischen der Geburt und dem Alter von 2,5 Jahren.",
+        "amount": "50 % der Rechnung, bis zu 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte, datierte und unterschriebene Formular „Demande de prime à l'achat de langes lavables“"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Rechnung(en) mit der Zusammensetzung des Windelsets"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Haushaltszusammensetzung"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf courcelles.eu herunter oder fordern Sie es beim Kleinkinderdienst an, rue de Brouckère 20A, 6182 Souvret",
+          "Reichen Sie einen einzigen Antrag mit allen Rechnungen ein (mehrere Rechnungen können bis 75 € kombiniert werden)",
+          "Die Gemeindekasse zahlt die Prämie aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.courcelles.eu/courcelles-eu/contenu/ma-commune/mes-documents/primes-communales"
+      ],
+      "conditions": {
+        "en": [
+          "The father, mother or legal guardian of a child under 2.5 years, domiciled in Courcelles.",
+          "Once per child, between birth and 2.5 years; the nappies must meet the commune's regulation."
+        ],
+        "nl": [
+          "De vader, moeder of voogd van een kind jonger dan 2,5 jaar, gedomicilieerd in Courcelles.",
+          "Eén keer per kind, tussen de geboorte en 2,5 jaar; de luiers moeten voldoen aan het gemeentelijk reglement."
+        ],
+        "fr": [
+          "Le père, la mère ou le tuteur légal d'un enfant de moins de 2 ans et demi, domicilié sur le territoire de la commune de Courcelles.",
+          "Une seule fois par enfant, entre la naissance et 2 ans et demi ; les langes doivent répondre aux prescriptions du règlement."
+        ],
+        "de": [
+          "Vater, Mutter oder Vormund eines Kindes unter 2,5 Jahren mit Wohnsitz in Courcelles.",
+          "Einmal pro Kind, zwischen Geburt und 2,5 Jahren; die Windeln müssen der Gemeinderegelung entsprechen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 368,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "renting"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "58002"
+    ],
+    "institution": "Ville de Binche",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.binche.be/fr/ma-ville/administration/services-communaux/primes-communales/prime-de-securisation",
+    "content": {
+      "en": {
+        "title": "Prime de sécurisation (Home Security Premium, Binche)",
+        "desc": "Binche refunds half of what you spend on mechanical protection against burglary (security locks, reinforced doors, motion-sensor lighting...), up to €250 per home. Alarms and cameras are not covered.",
+        "deadline": "Within 2 months of the final invoice, and no later than 1 November of the year of the work.",
+        "amount": "50% of purchase and installation costs, up to €250 per home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The invoice (with date, address of the work and your name)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment from your bank"
+          }
+        ],
+        "steps": [
+          "Optionally ask the police's burglary-prevention adviser for free advice before the work",
+          "Send the form, invoice and proof of payment by post to Ville de Binche – Service de Prévention, rue Saint-Paul 14, 7130 Binche, within 2 months",
+          "A prevention adviser visits to check the work; the College decides"
+        ]
+      },
+      "nl": {
+        "title": "Prime de sécurisation (premie inbraakbeveiliging, Binche)",
+        "desc": "Binche betaalt de helft terug van wat je uitgeeft aan mechanische inbraakbeveiliging (veiligheidssloten, versterkte deuren, verlichting met bewegingsmelder...), tot €250 per woning. Alarmen en camera's tellen niet mee.",
+        "deadline": "Binnen 2 maanden na de eindfactuur, en uiterlijk op 1 november van het jaar van de werken.",
+        "amount": "50% van de aankoop- en plaatsingskosten, tot €250 per woning",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De factuur (met datum, adres van de werken en je naam)"
+          },
+          {
+            "type": "doc",
+            "label": "Een betaalbewijs van je bank"
+          }
+        ],
+        "steps": [
+          "Vraag eventueel vóór de werken gratis advies aan de diefstalpreventieadviseur van de politie",
+          "Stuur het formulier, de factuur en het betaalbewijs binnen 2 maanden per post naar Ville de Binche – Service de Prévention, rue Saint-Paul 14, 7130 Binche",
+          "Een preventieadviseur komt de werken controleren; het college beslist"
+        ]
+      },
+      "fr": {
+        "title": "Prime de sécurisation de l'habitation (Binche)",
+        "desc": "Binche rembourse la moitié des frais d'achat et de pose de moyens mécaniques de sécurisation (verrous, portes blindées, éclairage à détecteur de mouvement…), jusqu'à 250 € par habitation. Alarmes et caméras exclues.",
+        "deadline": "Dans les 2 mois qui suivent la facture finale, et au plus tard le 1er novembre de l'année des travaux.",
+        "amount": "50 % des frais d'achat et d'installation, jusqu'à 250 € par habitation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La facture (avec la date, le lieu des travaux et votre nom)"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve de paiement de votre banque"
+          }
+        ],
+        "steps": [
+          "Demandez éventuellement l'avis gratuit du conseiller en prévention vol avant les travaux",
+          "Envoyez le formulaire, la facture et la preuve de paiement par courrier à la Ville de Binche – Service de Prévention, rue Saint-Paul 14, 7130 Binche, dans les 2 mois",
+          "Un conseiller en prévention vient contrôler les travaux ; le Collège décide"
+        ]
+      },
+      "de": {
+        "title": "Prime de sécurisation (Prämie für Einbruchschutz, Binche)",
+        "desc": "Binche erstattet die Hälfte der Kosten für mechanischen Einbruchschutz (Sicherheitsschlösser, verstärkte Türen, Beleuchtung mit Bewegungsmelder...), bis zu 250 € pro Wohnung. Alarmanlagen und Kameras sind ausgeschlossen.",
+        "deadline": "Binnen 2 Monaten nach der Schlussrechnung und spätestens am 1. November des Jahres der Arbeiten.",
+        "amount": "50 % der Anschaffungs- und Einbaukosten, bis zu 250 € pro Wohnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die Rechnung (mit Datum, Ort der Arbeiten und Ihrem Namen)"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Zahlungsnachweis Ihrer Bank"
+          }
+        ],
+        "steps": [
+          "Fragen Sie vor den Arbeiten bei Bedarf den Einbruchschutzberater der Polizei um kostenlosen Rat",
+          "Senden Sie Formular, Rechnung und Zahlungsnachweis binnen 2 Monaten per Post an Ville de Binche – Service de Prévention, rue Saint-Paul 14, 7130 Binche",
+          "Ein Präventionsberater prüft die Arbeiten vor Ort; das Kollegium entscheidet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.binche.be/fr/ma-ville/administration/services-communaux/primes-communales/prime-de-securisation",
+        "https://www.binche.be/fr/ma-ville/reglements/primes-de-cambriolage-2015.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "A private person (occupant, tenant or owner) who paid for the work, for a home located in Binche; no income condition.",
+          "Once per home; homes used only for business are excluded; alarms and cameras are not covered.",
+          "Apply within 2 months of the final invoice; a prevention adviser's check visit is required; paid in order of arrival within the budget."
+        ],
+        "nl": [
+          "Een particulier (bewoner, huurder of eigenaar) die de werken betaalde, voor een woning in Binche; geen inkomensvoorwaarde.",
+          "Eén keer per woning; woningen die enkel beroepsmatig gebruikt worden zijn uitgesloten; alarmen en camera's tellen niet mee.",
+          "Aanvragen binnen 2 maanden na de eindfactuur; een controlebezoek van een preventieadviseur is verplicht; uitbetaald in volgorde van aanvraag binnen het budget."
+        ],
+        "fr": [
+          "Un particulier (occupant, locataire, propriétaire) ayant réalisé l'investissement, pour un bien situé sur le territoire de Binche ; aucune condition de revenus.",
+          "Une seule fois pour la même habitation ; les biens à usage uniquement professionnel sont exclus ; alarmes et vidéosurveillance non couvertes.",
+          "Demande dans les 2 mois de la facture finale ; visite de contrôle obligatoire d'un conseiller en prévention ; octroi par ordre chronologique dans les limites du budget."
+        ],
+        "de": [
+          "Eine Privatperson (Bewohner, Mieter oder Eigentümer), die die Arbeiten bezahlt hat, für eine Wohnung in Binche; keine Einkommensbedingung.",
+          "Einmal pro Wohnung; ausschließlich beruflich genutzte Gebäude sind ausgeschlossen; Alarmanlagen und Kameras sind nicht abgedeckt.",
+          "Antrag binnen 2 Monaten nach der Schlussrechnung; ein Kontrollbesuch eines Präventionsberaters ist Pflicht; Zahlung in Eingangsreihenfolge im Rahmen des Budgets."
+        ]
+      }
+    }
+  },
+  {
+    "id": 369,
+    "category": "other",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "62003"
+    ],
+    "institution": "Ville d'Ans",
+    "verified": "2 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ans-ville.be/ma-ville/services-communaux/sports/sports",
+    "content": {
+      "en": {
+        "title": "Chèque Sports / Chèque Culture (Sports and Culture Voucher, Ans)",
+        "desc": "Ans gives young people aged 4 to 18 and pensioners on a modest income €60 towards a sports-club or cultural membership, or €30 towards a course, once a year.",
+        "deadline": "Once a year per person; while the yearly budget lasts (complete applications first).",
+        "amount": "€60 for a membership, €30 for a course (never more than the yearly fee)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form (child or senior version)"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition certificate"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the income-tax assessment for the previous year"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment of the membership"
+          },
+          {
+            "type": "card",
+            "label": "A copy of the bank card for the payment"
+          }
+        ],
+        "steps": [
+          "Download the form on ans-ville.be or ask at the town hall reception",
+          "Send it with the documents by post (Esplanade de l'Hôtel Communal, 4430 Ans), by e-mail to caroline.loudeche@ans-ville.be, or hand it in at the reception",
+          "The College approves the list of beneficiaries; the amount is paid into your account"
+        ]
+      },
+      "nl": {
+        "title": "Chèque Sports / Chèque Culture (sport- en cultuurcheque, Ans)",
+        "desc": "Ans geeft jongeren van 4 tot 18 jaar en gepensioneerden met een bescheiden inkomen €60 voor het lidgeld van een sportclub of culturele instelling, of €30 voor een stage, één keer per jaar.",
+        "deadline": "Eén keer per jaar per persoon; zolang het jaarlijkse budget strekt (volledige dossiers eerst).",
+        "amount": "€60 voor een lidmaatschap, €30 voor een stage (nooit meer dan het jaarlijkse lidgeld)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier (versie kind of senior)"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het aanslagbiljet over het vorige jaar"
+          },
+          {
+            "type": "doc",
+            "label": "Het betaalbewijs van het lidgeld"
+          },
+          {
+            "type": "card",
+            "label": "Een kopie van de bankkaart voor de betaling"
+          }
+        ],
+        "steps": [
+          "Download het formulier op ans-ville.be of vraag het aan het onthaal van het gemeentehuis",
+          "Stuur het met de documenten per post (Esplanade de l'Hôtel Communal, 4430 Ans), mail het naar caroline.loudeche@ans-ville.be of geef het af aan het onthaal",
+          "Het college keurt de lijst van begunstigden goed; het bedrag wordt op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Chèque Sports / Chèque Culture (Ans)",
+        "desc": "Ans octroie aux jeunes de 4 à 18 ans et aux pensionnés à revenus modestes 60 € pour une affiliation à un cercle sportif ou une institution culturelle, ou 30 € pour un stage, une fois par an.",
+        "deadline": "Une fois par an par bénéficiaire ; dans la limite du budget annuel (par ordre d'introduction du dossier complet).",
+        "amount": "60 € pour une affiliation, 30 € pour un stage (jamais plus que la cotisation annuelle)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande (version enfant ou senior)"
+          },
+          {
+            "type": "doc",
+            "label": "Un certificat de composition de ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de l'avertissement-extrait de rôle de l'année précédente"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de paiement de l'affiliation"
+          },
+          {
+            "type": "card",
+            "label": "Une photocopie de la carte bancaire du compte de paiement"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur ans-ville.be ou demandez-le à l'accueil de l'administration communale",
+          "Envoyez-le avec les documents par courrier (Esplanade de l'Hôtel Communal, 4430 Ans), par e-mail à caroline.loudeche@ans-ville.be ou déposez-le à l'accueil",
+          "Le Collège approuve la liste des bénéficiaires ; le montant est versé sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Chèque Sports / Chèque Culture (Sport- und Kulturscheck, Ans)",
+        "desc": "Ans gibt Jugendlichen von 4 bis 18 Jahren und Rentnern mit bescheidenem Einkommen 60 € für eine Mitgliedschaft in einem Sportverein oder einer Kultureinrichtung oder 30 € für einen Kurs, einmal pro Jahr.",
+        "deadline": "Einmal pro Jahr und Person; solange das Jahresbudget reicht (vollständige Anträge zuerst).",
+        "amount": "60 € für eine Mitgliedschaft, 30 € für einen Kurs (nie mehr als der Jahresbeitrag)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular (Fassung Kind oder Senior)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung über die Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des Steuerbescheids des Vorjahres"
+          },
+          {
+            "type": "doc",
+            "label": "Der Zahlungsnachweis für die Mitgliedschaft"
+          },
+          {
+            "type": "card",
+            "label": "Eine Kopie der Bankkarte für die Zahlung"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf ans-ville.be herunter oder fragen Sie am Empfang des Rathauses",
+          "Senden Sie es mit den Unterlagen per Post (Esplanade de l'Hôtel Communal, 4430 Ans), per E-Mail an caroline.loudeche@ans-ville.be oder geben Sie es am Empfang ab",
+          "Das Kollegium genehmigt die Liste der Begünstigten; der Betrag wird auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "2 Nov 2026",
+      "source_url": [
+        "https://www.ans-ville.be/ma-ville/services-communaux/sports/sports",
+        "https://www.ans-ville.be/ma-ville/services-communaux/culture-tourisme/culture/documents-a-telecharger/2025_cheque_culture_sport_nouveau_reglement.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Domiciled in Ans; the household receives no help from the CPAS.",
+          "Young people: aged 4 to 18, household taxable income of the previous year below €33,600 (one dependant), €39,200 (two), €44,800 (three), €50,400 (four), €56,000 (five), plus €5,600 per extra dependant.",
+          "Seniors: pensioners (with an official document from the pension body), taxable income of the previous year below €24,700 (single pension) or €30,300 (household pension)."
+        ],
+        "nl": [
+          "Gedomicilieerd in Ans; het gezin krijgt geen hulp van het OCMW.",
+          "Jongeren: 4 tot 18 jaar, belastbaar gezinsinkomen van het vorige jaar onder €33.600 (één persoon ten laste), €39.200 (twee), €44.800 (drie), €50.400 (vier), €56.000 (vijf), plus €5.600 per extra persoon ten laste.",
+          "Senioren: gepensioneerden (met een officieel document van de pensioeninstelling), belastbaar inkomen van het vorige jaar onder €24.700 (pensioen alleenstaande) of €30.300 (gezinspensioen)."
+        ],
+        "fr": [
+          "Être domicilié sur le territoire de la Ville d'Ans ; le ménage ne bénéficie d'aucune aide du CPAS.",
+          "Jeunes : de 4 à 18 ans inclus, revenus imposables du ménage de l'année précédente inférieurs à 33.600 € (une personne à charge), 39.200 € (deux), 44.800 € (trois), 50.400 € (quatre), 56.000 € (cinq), plus 5.600 € par personne supplémentaire.",
+          "Aînés : avoir le statut de pensionné (document officiel de l'organisme de pension), revenus imposables de l'année précédente inférieurs à 24.700 € (pension d'isolé) ou 30.300 € (pension de ménage)."
+        ],
+        "de": [
+          "Wohnsitz in Ans; der Haushalt erhält keine Hilfe vom ÖSHZ.",
+          "Jugendliche: 4 bis 18 Jahre, steuerpflichtiges Haushaltseinkommen des Vorjahres unter 33.600 € (eine unterhaltsberechtigte Person), 39.200 € (zwei), 44.800 € (drei), 50.400 € (vier), 56.000 € (fünf), plus 5.600 € je weitere Person.",
+          "Senioren: Rentner (mit amtlichem Nachweis der Rentenkasse), steuerpflichtiges Einkommen des Vorjahres unter 24.700 € (Rente Alleinstehender) oder 30.300 € (Haushaltsrente)."
+        ]
+      }
+    }
   }
 ]

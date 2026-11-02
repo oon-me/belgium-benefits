@@ -506,49 +506,89 @@
       "name": "Sint-Joost-ten-Node / Saint-Josse-ten-Noode",
       "checked": "1 Nov 2026",
       "ids": []
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "71053",
-      "name": "Sint-Truiden / Saint-Trond"
+      "name": "Sint-Truiden / Saint-Trond",
+      "checked": "2 Nov 2026",
+      "ids": []
     },
     {
       "nis": "73111",
-      "name": "Tongeren-Borgloon / Tongres-Looz"
+      "name": "Tongeren-Borgloon / Tongres-Looz",
+      "checked": "2 Nov 2026",
+      "ids": []
     },
     {
       "nis": "46030",
-      "name": "Beveren-Kruibeke-Zwijndrecht"
+      "name": "Beveren-Kruibeke-Zwijndrecht",
+      "checked": "2 Nov 2026",
+      "ids": [
+        358,
+        359,
+        360
+      ]
     },
     {
       "nis": "63023",
-      "name": "Eupen"
+      "name": "Eupen",
+      "checked": "2 Nov 2026",
+      "ids": [
+        361
+      ]
     },
     {
       "nis": "81001",
-      "name": "Aarlen / Arlon"
+      "name": "Aarlen / Arlon",
+      "checked": "2 Nov 2026",
+      "ids": [
+        362
+      ]
     },
     {
       "nis": "25121",
-      "name": "Ottignies-Louvain-la-Neuve"
+      "name": "Ottignies-Louvain-la-Neuve",
+      "checked": "2 Nov 2026",
+      "ids": [
+        363,
+        364
+      ]
     },
     {
       "nis": "25072",
-      "name": "Nijvel / Nivelles"
+      "name": "Nijvel / Nivelles",
+      "checked": "2 Nov 2026",
+      "ids": [
+        365
+      ]
     },
     {
       "nis": "52015",
-      "name": "Courcelles"
+      "name": "Courcelles",
+      "checked": "2 Nov 2026",
+      "ids": [
+        366,
+        367
+      ]
     },
     {
       "nis": "58002",
-      "name": "Binche"
+      "name": "Binche",
+      "checked": "2 Nov 2026",
+      "ids": [
+        368
+      ]
     },
     {
       "nis": "62003",
-      "name": "Ans"
-    },
+      "name": "Ans",
+      "checked": "2 Nov 2026",
+      "ids": [
+        369
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "44084",
       "name": "Aalter"
