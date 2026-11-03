@@ -586,49 +586,87 @@
       "ids": [
         369
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "44084",
-      "name": "Aalter"
+      "name": "Aalter",
+      "checked": "3 Nov 2026",
+      "ids": [
+        370,
+        371
+      ]
     },
     {
       "nis": "51004",
-      "name": "Aat / Ath"
+      "name": "Aat / Ath",
+      "checked": "3 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24001",
-      "name": "Aarschot"
+      "name": "Aarschot",
+      "checked": "3 Nov 2026",
+      "ids": [
+        372
+      ]
     },
     {
       "nis": "52074",
-      "name": "Aiseau-Presles"
+      "name": "Aiseau-Presles",
+      "checked": "3 Nov 2026",
+      "ids": [
+        375
+      ]
     },
     {
       "nis": "11001",
-      "name": "Aartselaar"
+      "name": "Aartselaar",
+      "checked": "3 Nov 2026",
+      "ids": []
     },
     {
       "nis": "61003",
-      "name": "Amay"
+      "name": "Amay",
+      "checked": "3 Nov 2026",
+      "ids": [
+        377
+      ]
     },
     {
       "nis": "23105",
-      "name": "Affligem"
+      "name": "Affligem",
+      "checked": "3 Nov 2026",
+      "ids": [
+        373,
+        374
+      ]
     },
     {
       "nis": "63001",
-      "name": "Amel / Amblève"
+      "name": "Amel / Amblève",
+      "checked": "3 Nov 2026",
+      "ids": [
+        378
+      ]
     },
     {
       "nis": "73001",
-      "name": "Alken"
+      "name": "Alken",
+      "checked": "3 Nov 2026",
+      "ids": [
+        376
+      ]
     },
     {
       "nis": "92003",
-      "name": "Andenne"
-    },
+      "name": "Andenne",
+      "checked": "3 Nov 2026",
+      "ids": [
+        379
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "38002",
       "name": "Alveringem"

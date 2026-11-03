@@ -43619,5 +43619,1390 @@
         ]
       }
     }
+  },
+  {
+    "id": 370,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "44084"
+    ],
+    "institution": "Gemeente Aalter",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aalter.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Aalter)",
+        "desc": "Aalter pays €25 a month, up to €300 a care year, to residents who give long-term unpaid care at home to a person with a heavy care need.",
+        "deadline": "Granted for the year before the application.",
+        "amount": "€25 a month, up to €300 a care year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The care-need certificate (80% disability / at least 12 points, or a zorgbudget voor zwaar zorgbehoevenden certificate)"
+          }
+        ],
+        "steps": [
+          "Download the form on aalter.be",
+          "Send it with the certificate by post (Europalaan 22, 9880 Aalter, attn. Jeugdwerk en welzijn) or by e-mail to welzijn@aalter.be"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Aalter)",
+        "desc": "Aalter betaalt €25 per maand, tot €300 per zorgjaar, aan inwoners die langdurig en onbetaald thuis zorgen voor een zwaar zorgbehoevende persoon.",
+        "deadline": "De toelage wordt toegekend voor het jaar vóór de aanvraag.",
+        "amount": "€25 per maand, maximaal €300 per zorgjaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Het attest van zorgbehoevendheid (80% invaliditeit / minstens 12 punten, of attest zorgbudget voor zwaar zorgbehoevenden)"
+          }
+        ],
+        "steps": [
+          "Download het formulier op aalter.be",
+          "Bezorg het met het attest per post (Europalaan 22, 9880 Aalter, t.a.v. Jeugdwerk en welzijn) of per mail aan welzijn@aalter.be"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Aalter)",
+        "desc": "Aalter verse 25 € par mois, jusqu'à 300 € par année de soins, aux habitants qui apportent à domicile une aide durable et non rémunérée à une personne fortement dépendante.",
+        "deadline": "Accordée pour l'année précédant la demande.",
+        "amount": "25 € par mois, maximum 300 € par année de soins",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation de dépendance (invalidité de 80 % / au moins 12 points, ou attestation zorgbudget voor zwaar zorgbehoevenden)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur aalter.be",
+          "Envoyez-le avec l'attestation par courrier (Europalaan 22, 9880 Aalter, à l'attention de Jeugdwerk en welzijn) ou par e-mail à welzijn@aalter.be"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Aalter)",
+        "desc": "Aalter zahlt 25 € pro Monat, bis zu 300 € pro Pflegejahr, an Einwohner, die zu Hause langfristig und unbezahlt eine stark pflegebedürftige Person pflegen.",
+        "deadline": "Gewährt für das Jahr vor dem Antrag.",
+        "amount": "25 € pro Monat, höchstens 300 € pro Pflegejahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die Bescheinigung der Pflegebedürftigkeit (80 % Invalidität / mindestens 12 Punkte oder Bescheinigung zorgbudget voor zwaar zorgbehoevenden)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf aalter.be herunter",
+          "Senden Sie es mit der Bescheinigung per Post (Europalaan 22, 9880 Aalter, z. Hd. Jeugdwerk en welzijn) oder per E-Mail an welzijn@aalter.be"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.aalter.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "Carer: a relative, friend, acquaintance or neighbour, at least 16, domiciled in Aalter, giving long-term unpaid extra care at home, and not in need of care themselves.",
+          "Person cared for: at least 21, domiciled in Aalter, living at home (not in an institution), needing help with washing, dressing, eating and similar; with a certificate of 80% disability (at least 12 points on the FPS Social Security medical-social scale) or a zorgbudget voor zwaar zorgbehoevenden certificate.",
+          "If the person cared for lives alone, the OCMW social service draws up a social report."
+        ],
+        "nl": [
+          "Mantelzorger: familielid, vriend, kennis of buur, minstens 16 jaar, gedomicilieerd in Aalter, biedt langdurig en onbezoldigd extra thuiszorg en is zelf niet zorgbehoevend.",
+          "Zorgbehoevende: minstens 21 jaar, gedomicilieerd in Aalter, woont thuis (niet in een instelling), heeft hulp nodig bij wassen, aankleden, eten en dergelijke; met een attest van 80% invaliditeit (minstens 12 punten op de medisch-sociale schaal van de FOD Sociale Zekerheid) of een attest zorgbudget voor zwaar zorgbehoevenden.",
+          "Woont de zorgbehoevende zelfstandig, dan maakt de sociale dienst van het OCMW een sociaal verslag op."
+        ],
+        "fr": [
+          "Aidant : membre de la famille, ami, connaissance ou voisin, au moins 16 ans, domicilié à Aalter, qui apporte une aide durable et non rémunérée à domicile et n'est pas lui-même dépendant.",
+          "Personne aidée : au moins 21 ans, domiciliée à Aalter, vit à domicile (pas en institution), a besoin d'aide pour se laver, s'habiller, manger, etc. ; avec une attestation d'invalidité de 80 % (au moins 12 points sur l'échelle médico-sociale du SPF Sécurité sociale) ou une attestation zorgbudget voor zwaar zorgbehoevenden.",
+          "Si la personne aidée vit seule, le service social du CPAS (OCMW) établit un rapport social."
+        ],
+        "de": [
+          "Pflegende Person: Familienmitglied, Freund, Bekannter oder Nachbar, mindestens 16 Jahre, Wohnsitz in Aalter, leistet langfristig und unbezahlt zusätzliche Pflege zu Hause und ist selbst nicht pflegebedürftig.",
+          "Gepflegte Person: mindestens 21 Jahre, Wohnsitz in Aalter, lebt zu Hause (nicht in einer Einrichtung), braucht Hilfe beim Waschen, Anziehen, Essen usw.; mit einer Bescheinigung über 80 % Invalidität (mindestens 12 Punkte auf der medizinisch-sozialen Skala des FÖD Soziale Sicherheit) oder einer Bescheinigung zorgbudget voor zwaar zorgbehoevenden.",
+          "Lebt die gepflegte Person allein, erstellt der Sozialdienst des ÖSHZ (OCMW) einen Sozialbericht."
+        ]
+      }
+    }
+  },
+  {
+    "id": 371,
+    "category": "health",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "44084"
+    ],
+    "institution": "Gemeente Aalter",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aalter.be/sociaal-pedagogische-premie",
+    "content": {
+      "en": {
+        "title": "Sociaal-pedagogische premie (Premium for Raising a Child with a Disability, Aalter)",
+        "desc": "Aalter gives €100 a year to the parent (or whoever acts as parent) who raises and cares for a child or young person with a disability, up to age 25, at home.",
+        "deadline": "Apply before 31 December of the year concerned; one premium a year per child.",
+        "amount": "€100 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The decision on the disability percentage or points, or a certificate of increased Groeipakket"
+          }
+        ],
+        "steps": [
+          "Download the form on aalter.be",
+          "Hand it in with the documents at Jeugdwerk en welzijn (Europalaan 22, 9880 Aalter) or e-mail welzijn@aalter.be",
+          "Applications from January to June are paid around July/August; July to December around January/February"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-pedagogische premie (Aalter)",
+        "desc": "Aalter geeft €100 per jaar aan de ouder (of wie die rol opneemt) die thuis een kind of jongere met een beperking tot 25 jaar opvoedt en verzorgt.",
+        "deadline": "Aanvragen vóór 31 december van het jaar zelf; één premie per jaar per kind.",
+        "amount": "€100 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De beslissing over het invaliditeitspercentage of de punten, of een attest van verhoogd groeipakket"
+          }
+        ],
+        "steps": [
+          "Download het formulier op aalter.be",
+          "Bezorg het met de documenten aan Jeugdwerk en welzijn (Europalaan 22, 9880 Aalter) of mail naar welzijn@aalter.be",
+          "Aanvragen van januari tot juni worden rond juli/augustus betaald; van juli tot december rond januari/februari"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-pedagogische premie (prime pour l'éducation d'un enfant handicapé, Aalter)",
+        "desc": "Aalter donne 100 € par an au parent (ou à la personne qui en tient le rôle) qui élève et soigne à domicile un enfant ou un jeune handicapé jusqu'à 25 ans.",
+        "deadline": "À demander avant le 31 décembre de l'année concernée ; une prime par an et par enfant.",
+        "amount": "100 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La décision sur le pourcentage d'invalidité ou les points, ou une attestation de Groeipakket majoré"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur aalter.be",
+          "Remettez-le avec les documents à Jeugdwerk en welzijn (Europalaan 22, 9880 Aalter) ou par e-mail à welzijn@aalter.be",
+          "Les demandes de janvier à juin sont payées vers juillet/août ; de juillet à décembre vers janvier/février"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-pedagogische premie (Prämie für die Erziehung eines Kindes mit Behinderung, Aalter)",
+        "desc": "Aalter gibt 100 € pro Jahr dem Elternteil (oder der Person in dieser Rolle), der zu Hause ein Kind oder einen jungen Menschen mit Behinderung bis 25 Jahre erzieht und pflegt.",
+        "deadline": "Antrag vor dem 31. Dezember des betreffenden Jahres; eine Prämie pro Jahr und Kind.",
+        "amount": "100 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Der Bescheid über den Invaliditätsgrad oder die Punkte oder eine Bescheinigung über das erhöhte Groeipakket"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf aalter.be herunter",
+          "Reichen Sie es mit den Unterlagen bei Jeugdwerk en welzijn (Europalaan 22, 9880 Aalter) ein oder per E-Mail an welzijn@aalter.be",
+          "Anträge von Januar bis Juni werden um Juli/August gezahlt, von Juli bis Dezember um Januar/Februar"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.aalter.be/sociaal-pedagogische-premie",
+        "https://www.aalter.be/file/download/5dfe556e-67f1-44ff-a573-cc967be20f28/AAU7ghXY4m9K3wOyTPjkdorJvcQgnxjqtRBegr0QiA3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You receive the Groeipakket for the child and raise and care for the child at home; professional carers, spouses/partners and descendants of the person with a disability are excluded.",
+          "The child has at least 60% disability, or at least 6 points over the three pillars or 4 points on the first pillar, and is at most 25 on 31 December of the year applied for.",
+          "The child is domiciled in Aalter at your address on 1 January of the year applied for."
+        ],
+        "nl": [
+          "Je ontvangt het groeipakket voor het kind en neemt thuis de opvoeding en verzorging op je; professionele opvoeders, echtgeno(o)t(e)/partner en nakomelingen van de persoon met een beperking zijn uitgesloten.",
+          "Het kind heeft minstens 60% invaliditeit, of minstens 6 punten voor de drie pijlers of 4 punten voor de eerste pijler, en is maximaal 25 jaar op 31 december van het jaar van de aanvraag.",
+          "Het kind is op 1 januari van het jaar van de aanvraag gedomicilieerd in Aalter op jouw adres."
+        ],
+        "fr": [
+          "Vous recevez le Groeipakket pour l'enfant et assurez à domicile son éducation et ses soins ; les éducateurs professionnels, conjoints/partenaires et descendants de la personne handicapée sont exclus.",
+          "L'enfant a une invalidité d'au moins 60 %, ou au moins 6 points sur les trois piliers ou 4 points sur le premier pilier, et a au plus 25 ans le 31 décembre de l'année de la demande.",
+          "L'enfant est domicilié à Aalter à votre adresse au 1er janvier de l'année de la demande."
+        ],
+        "de": [
+          "Sie erhalten das Groeipakket für das Kind und übernehmen zu Hause Erziehung und Pflege; professionelle Erzieher, Ehe-/Lebenspartner und Nachkommen der Person mit Behinderung sind ausgeschlossen.",
+          "Das Kind hat mindestens 60 % Invalidität oder mindestens 6 Punkte für die drei Säulen oder 4 Punkte für die erste Säule und ist am 31. Dezember des Antragsjahres höchstens 25 Jahre alt.",
+          "Das Kind ist am 1. Januar des Antragsjahres in Aalter an Ihrer Adresse gemeldet."
+        ]
+      }
+    }
+  },
+  {
+    "id": 372,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24001"
+    ],
+    "institution": "Stad Aarschot",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aarschot.be/premie-tussenkomst-onkosten-huisvuilophaling",
+    "content": {
+      "en": {
+        "title": "Premie tussenkomst onkosten huisvuilophaling (Waste-Cost Premium for Incontinence, Stoma or Dialysis, Aarschot)",
+        "desc": "Aarschot credits a yearly amount to the waste account of residents who produce extra household waste because of incontinence (€80), a stoma (€35) or peritoneal dialysis (€35); the amounts add up.",
+        "deadline": "Once a year (regulation for 2026); within the yearly budget.",
+        "amount": "€80 for incontinence, €35 for a stoma, €35 for peritoneal dialysis (cumulative)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition certificate (proof the patient lives or is cared for at home)"
+          },
+          {
+            "type": "doc",
+            "label": "A statement from the GP confirming incontinence, a stoma or peritoneal dialysis"
+          }
+        ],
+        "steps": [
+          "Apply through the digital counter on aarschot.be or at the Dienst Leefmilieu (Ten Drossaarde 1, 3200 Aarschot)",
+          "Add the GP statement and household composition",
+          "The amount is credited to the waste account (provisierekening)"
+        ]
+      },
+      "nl": {
+        "title": "Premie tussenkomst onkosten huisvuilophaling (Aarschot)",
+        "desc": "Aarschot schrijft jaarlijks een bedrag op de afvalrekening van inwoners met extra huisvuil door incontinentie (€80), een stoma (€35) of peritoneale dialyse (€35); de bedragen zijn cumuleerbaar.",
+        "deadline": "Eén keer per jaar (reglement voor 2026); binnen het jaarlijkse krediet.",
+        "amount": "€80 bij incontinentie, €35 bij stoma, €35 bij peritoneale dialyse (cumuleerbaar)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een bewijs van gezinssamenstelling (bewijs dat de patiënt thuis verblijft of verzorgd wordt)"
+          },
+          {
+            "type": "doc",
+            "label": "Een bewijs van de huisarts over incontinentie, stoma of peritoneale dialyse"
+          }
+        ],
+        "steps": [
+          "Vraag aan via het digitaal loket op aarschot.be of bij de Dienst Leefmilieu (Ten Drossaarde 1, 3200 Aarschot)",
+          "Voeg het bewijs van de huisarts en de gezinssamenstelling toe",
+          "Het bedrag wordt op de afvalrekening (provisierekening) gezet"
+        ]
+      },
+      "fr": {
+        "title": "Premie tussenkomst onkosten huisvuilophaling (prime pour frais de déchets : incontinence, stomie, dialyse, Aarschot)",
+        "desc": "Aarschot crédite chaque année le compte déchets des habitants qui produisent plus de déchets en raison d'une incontinence (80 €), d'une stomie (35 €) ou d'une dialyse péritonéale (35 €) ; les montants se cumulent.",
+        "deadline": "Une fois par an (règlement pour 2026) ; dans la limite du crédit annuel.",
+        "amount": "80 € pour l'incontinence, 35 € pour une stomie, 35 € pour une dialyse péritonéale (cumulables)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage (preuve que le patient vit ou est soigné à domicile)"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du médecin traitant (incontinence, stomie ou dialyse péritonéale)"
+          }
+        ],
+        "steps": [
+          "Faites la demande via le guichet en ligne sur aarschot.be ou au Dienst Leefmilieu (Ten Drossaarde 1, 3200 Aarschot)",
+          "Joignez l'attestation du médecin et la composition de ménage",
+          "Le montant est crédité sur le compte déchets (provisierekening)"
+        ]
+      },
+      "de": {
+        "title": "Premie tussenkomst onkosten huisvuilophaling (Müllkostenprämie bei Inkontinenz, Stoma oder Dialyse, Aarschot)",
+        "desc": "Aarschot schreibt Einwohnern mit zusätzlichem Hausmüll wegen Inkontinenz (80 €), Stoma (35 €) oder Peritonealdialyse (35 €) jährlich einen Betrag auf ihrem Müllkonto gut; die Beträge sind kumulierbar.",
+        "deadline": "Einmal pro Jahr (Regelung für 2026); im Rahmen der jährlichen Mittel.",
+        "amount": "80 € bei Inkontinenz, 35 € bei Stoma, 35 € bei Peritonealdialyse (kumulierbar)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung über die Haushaltszusammensetzung (Nachweis, dass der Patient zu Hause lebt oder gepflegt wird)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des Hausarztes über Inkontinenz, Stoma oder Peritonealdialyse"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie über den digitalen Schalter auf aarschot.be oder beim Dienst Leefmilieu (Ten Drossaarde 1, 3200 Aarschot)",
+          "Fügen Sie die Bescheinigung des Hausarztes und die Haushaltszusammensetzung bei",
+          "Der Betrag wird dem Müllkonto (provisierekening) gutgeschrieben"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.aarschot.be/premie-tussenkomst-onkosten-huisvuilophaling",
+        "https://www.aarschot.be/file/download/7452c74f-c650-4db3-8b17-192da545f981/UAkC3SN326i15QAguDhCaBxSLCDtKYsyKpI0kWFEqWA3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Resident of Aarschot who is a peritoneal dialysis patient, a stoma patient or a patient with incontinence, living or cared for at home.",
+          "Paid to the patient if registered as reference person in the waste payment system, otherwise to the person living with the patient at the same address who is."
+        ],
+        "nl": [
+          "Inwoner van Aarschot die peritoneaal dialysepatiënt, stomapatiënt of incontinentiepatiënt is en thuis verblijft of thuis verzorgd wordt.",
+          "Uitbetaald aan de patiënt als die referentiepersoon is in het afvalbetaalsysteem, anders aan de samenwonende persoon op hetzelfde adres die dat is."
+        ],
+        "fr": [
+          "Habitant d'Aarschot patient en dialyse péritonéale, stomisé ou incontinent, qui vit ou est soigné à domicile.",
+          "Versée au patient s'il est personne de référence dans le système de paiement des déchets, sinon à la personne cohabitant à la même adresse qui l'est."
+        ],
+        "de": [
+          "Einwohner von Aarschot, der Peritonealdialyse-, Stoma- oder Inkontinenzpatient ist und zu Hause lebt oder gepflegt wird.",
+          "Gezahlt an den Patienten, wenn er Referenzperson im Müllzahlungssystem ist, sonst an die mit ihm an derselben Adresse wohnende Person, die es ist."
+        ]
+      }
+    }
+  },
+  {
+    "id": 373,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23105"
+    ],
+    "institution": "OCMW Affligem",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://affligem.be/form/aanvraag-mantelzorgpremie-met-ni",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Affligem)",
+        "desc": "The OCMW of Affligem pays €15 a month to a carer who looks after a resident of Affligem with a recognised care need at home; paid every three months.",
+        "deadline": "Starts the month after the application; renew every year before 1 January.",
+        "amount": "€15 a month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form and sworn statement (at least 6 care tasks a week), signed by carer and person cared for"
+          },
+          {
+            "type": "doc",
+            "label": "A care-need certificate valid for more than 6 months (see conditions)"
+          },
+          {
+            "type": "doc",
+            "label": "If you do not live in Affligem: a certificate that your own commune pays no carer premium"
+          }
+        ],
+        "steps": [
+          "Fill in the online form on affligem.be or ask the OCMW social service (above the library)",
+          "A social worker may visit; the special social committee decides within two months",
+          "The premium is paid quarterly into the carer's account"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Affligem)",
+        "desc": "Het OCMW Affligem betaalt €15 per maand aan een mantelzorger die thuis zorgt voor een zorgbehoevende inwoner van Affligem; driemaandelijks uitbetaald.",
+        "deadline": "Gaat in vanaf de maand na de aanvraag; jaarlijks vernieuwen vóór 1 januari.",
+        "amount": "€15 per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier en de verklaring op eer (minstens 6 zorgtaken per week), ondertekend door mantelzorger en zorgbehoevende"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van zorgbehoevendheid geldig voor meer dan 6 maanden (zie voorwaarden)"
+          },
+          {
+            "type": "doc",
+            "label": "Woon je niet in Affligem: een attest dat je eigen gemeente geen mantelzorgpremie geeft"
+          }
+        ],
+        "steps": [
+          "Vul het online formulier in op affligem.be of vraag het aan bij de sociale dienst van het OCMW (boven de bib)",
+          "Een maatschappelijk werker kan op huisbezoek komen; het bijzonder comité beslist binnen twee maanden",
+          "De premie wordt driemaandelijks op de rekening van de mantelzorger gestort"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Affligem)",
+        "desc": "Le CPAS (OCMW) d'Affligem verse 15 € par mois à l'aidant qui s'occupe à domicile d'un habitant d'Affligem reconnu dépendant ; payé tous les trois mois.",
+        "deadline": "Commence le mois suivant la demande ; à renouveler chaque année avant le 1er janvier.",
+        "amount": "15 € par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire et la déclaration sur l'honneur (au moins 6 tâches de soins par semaine), signés par l'aidant et la personne aidée"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de dépendance valable plus de 6 mois (voir conditions)"
+          },
+          {
+            "type": "doc",
+            "label": "Si vous n'habitez pas Affligem : une attestation que votre commune ne verse pas de prime aux aidants"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en ligne sur affligem.be ou adressez-vous au service social du CPAS (au-dessus de la bibliothèque)",
+          "Un travailleur social peut passer à domicile ; le comité spécial décide dans les deux mois",
+          "La prime est versée tous les trois mois sur le compte de l'aidant"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Affligem)",
+        "desc": "Das ÖSHZ (OCMW) Affligem zahlt 15 € pro Monat an eine Person, die zu Hause einen pflegebedürftigen Einwohner von Affligem pflegt; vierteljährlich ausgezahlt.",
+        "deadline": "Beginnt im Monat nach dem Antrag; jedes Jahr vor dem 1. Januar erneuern.",
+        "amount": "15 € pro Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular und die eidesstattliche Erklärung (mindestens 6 Pflegeaufgaben pro Woche), unterschrieben von Pflegeperson und gepflegter Person"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Pflegebedürftigkeit, die länger als 6 Monate gültig ist (siehe Bedingungen)"
+          },
+          {
+            "type": "doc",
+            "label": "Wenn Sie nicht in Affligem wohnen: eine Bescheinigung, dass Ihre Gemeinde keine Pflegeprämie zahlt"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Online-Formular auf affligem.be aus oder wenden Sie sich an den Sozialdienst des ÖSHZ (über der Bibliothek)",
+          "Ein Sozialarbeiter kann einen Hausbesuch machen; das Sonderkomitee entscheidet innerhalb von zwei Monaten",
+          "Die Prämie wird vierteljährlich auf das Konto der Pflegeperson überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.affligem.be/sites/default/files/2022-05/mantelzorgpremie%20reglement.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for lives in Affligem, at home, and has a care-need certificate valid for more than 6 months: FPS Social Security at least 12 points loss of self-reliance, health-fund forfait B on the Katz scale, a zorgbudget voor zwaar zorgbehoevenden, or 66% disability with 7 points (or 18 points on the medical-social scale).",
+          "The carer is at least 18 and actually does at least 6 different care tasks a week; a carer living outside Affligem needs a certificate that their own commune pays no carer premium.",
+          "One premium per person cared for and per carer."
+        ],
+        "nl": [
+          "De zorgbehoevende woont in Affligem, thuis, en heeft een attest geldig voor meer dan 6 maanden: FOD Sociale Zekerheid minstens 12 punten verlies aan zelfredzaamheid, forfait B op de KATZ-schaal van het ziekenfonds, een zorgbudget voor zwaar zorgbehoevenden, of 66% handicap met 7 punten (of 18 punten op de medisch-sociale schaal).",
+          "De mantelzorger is minstens 18 jaar en voert wekelijks minstens 6 verschillende zorgtaken uit; een mantelzorger buiten Affligem bezorgt een attest dat de eigen gemeente geen mantelzorgpremie geeft.",
+          "Eén premie per zorgbehoevende en per mantelzorger."
+        ],
+        "fr": [
+          "La personne aidée habite Affligem, à domicile, et a une attestation valable plus de 6 mois : SPF Sécurité sociale au moins 12 points de perte d'autonomie, forfait B sur l'échelle de Katz de la mutualité, un zorgbudget voor zwaar zorgbehoevenden, ou 66 % de handicap avec 7 points (ou 18 points sur l'échelle médico-sociale).",
+          "L'aidant a au moins 18 ans et effectue au moins 6 tâches de soins différentes par semaine ; un aidant domicilié hors d'Affligem fournit une attestation que sa commune ne verse pas de prime aux aidants.",
+          "Une seule prime par personne aidée et par aidant."
+        ],
+        "de": [
+          "Die gepflegte Person wohnt in Affligem, zu Hause, und hat eine länger als 6 Monate gültige Bescheinigung: FÖD Soziale Sicherheit mindestens 12 Punkte Verlust an Selbständigkeit, Pauschale B auf der Katz-Skala der Krankenkasse, ein zorgbudget voor zwaar zorgbehoevenden oder 66 % Behinderung mit 7 Punkten (oder 18 Punkte auf der medizinisch-sozialen Skala).",
+          "Die Pflegeperson ist mindestens 18 Jahre alt und erledigt wöchentlich mindestens 6 verschiedene Pflegeaufgaben; wer außerhalb von Affligem wohnt, legt eine Bescheinigung vor, dass die eigene Gemeinde keine Pflegeprämie zahlt.",
+          "Eine Prämie pro gepflegter Person und pro Pflegeperson."
+        ]
+      }
+    }
+  },
+  {
+    "id": 374,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23105"
+    ],
+    "institution": "Gemeente Affligem",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.affligem.be/form/aanvraag-vakantietoelage-zieken",
+    "content": {
+      "en": {
+        "title": "Vakantietoelage (Holiday Allowance for People with a Disability or Long-Term Illness, Affligem)",
+        "desc": "Affligem pays €12.50 a night, for up to 4 nights, towards an adapted holiday organised by a disability association or a health fund.",
+        "deadline": "Within 3 months after the holiday and by 31 December of that year; once a year.",
+        "amount": "€12.50 a night, up to 4 nights (max. €50 a year)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of the disability (66%, or 9 points) or of at least one year of illness"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of the stay and your own contribution from the organiser"
+          }
+        ],
+        "steps": [
+          "Fill in the online form on affligem.be and upload the two documents",
+          "The allowance is paid within 3 months of approval"
+        ]
+      },
+      "nl": {
+        "title": "Vakantietoelage voor personen met een beperking of langdurig zieke personen (Affligem)",
+        "desc": "Affligem betaalt €12,50 per nacht, voor maximaal 4 nachten, voor een aangepaste vakantie georganiseerd door een vereniging voor personen met een beperking of een ziekenfonds.",
+        "deadline": "Ten laatste 3 maanden na de vakantie en uiterlijk 31 december van dat jaar; één keer per jaar.",
+        "amount": "€12,50 per nacht, maximaal 4 nachten (max. €50 per jaar)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van de beperking (66% of 9 punten) of van minstens 1 jaar ziekte"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van het verblijf en je persoonlijke bijdrage van de organisator"
+          }
+        ],
+        "steps": [
+          "Vul het online formulier in op affligem.be en laad de twee documenten op",
+          "De toelage wordt ten laatste 3 maanden na goedkeuring uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Vakantietoelage (allocation vacances pour personnes handicapées ou malades de longue durée, Affligem)",
+        "desc": "Affligem verse 12,50 € par nuit, pour 4 nuits au maximum, pour un séjour adapté organisé par une association pour personnes handicapées ou une mutualité.",
+        "deadline": "Au plus tard 3 mois après le séjour et avant le 31 décembre de l'année ; une fois par an.",
+        "amount": "12,50 € par nuit, maximum 4 nuits (max. 50 € par an)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve du handicap (66 % ou 9 points) ou d'au moins un an de maladie"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve du séjour et de votre contribution personnelle, délivrée par l'organisateur"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en ligne sur affligem.be et joignez les deux documents",
+          "L'allocation est payée au plus tard 3 mois après l'approbation"
+        ]
+      },
+      "de": {
+        "title": "Vakantietoelage (Urlaubszuschuss für Menschen mit Behinderung oder Langzeitkranke, Affligem)",
+        "desc": "Affligem zahlt 12,50 € pro Nacht, für höchstens 4 Nächte, für einen angepassten Urlaub, den ein Verein für Menschen mit Behinderung oder eine Krankenkasse organisiert.",
+        "deadline": "Spätestens 3 Monate nach dem Urlaub und bis zum 31. Dezember des Jahres; einmal pro Jahr.",
+        "amount": "12,50 € pro Nacht, höchstens 4 Nächte (max. 50 € pro Jahr)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis der Behinderung (66 % oder 9 Punkte) oder einer Krankheit von mindestens einem Jahr"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis des Aufenthalts und Ihres Eigenanteils vom Veranstalter"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Online-Formular auf affligem.be aus und laden Sie die zwei Unterlagen hoch",
+          "Der Zuschuss wird spätestens 3 Monate nach der Genehmigung gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.affligem.be/form/aanvraag-vakantietoelage-zieken"
+      ],
+      "conditions": {
+        "en": [
+          "Domiciled in Affligem on 1 January of the current year.",
+          "On the date of the holiday: recognised as at least 66% disabled, or at least 9 points reduced self-reliance, or ill for at least 1 year.",
+          "The stay has at least one night and is organised by an association that runs trips for people with a disability and the long-term ill, or by a recognised health fund."
+        ],
+        "nl": [
+          "Op 1 januari van het huidige jaar gedomicilieerd in Affligem.",
+          "Op de datum van de vakantie: minstens 66% erkend als invalide, of minstens 9 punten vermindering van zelfredzaamheid, of minstens 1 jaar ziek.",
+          "Het verblijf telt minstens één overnachting en wordt ingericht door een vereniging die reizen organiseert voor personen met een beperking en langdurig zieken, of door een erkend ziekenfonds."
+        ],
+        "fr": [
+          "Domicilié à Affligem au 1er janvier de l'année en cours.",
+          "À la date du séjour : invalidité reconnue d'au moins 66 %, ou au moins 9 points de perte d'autonomie, ou malade depuis au moins 1 an.",
+          "Le séjour compte au moins une nuit et est organisé par une association qui organise des voyages pour personnes handicapées et malades de longue durée, ou par une mutualité reconnue."
+        ],
+        "de": [
+          "Am 1. Januar des laufenden Jahres in Affligem gemeldet.",
+          "Am Tag des Urlaubs: als mindestens 66 % invalide anerkannt oder mindestens 9 Punkte verminderte Selbständigkeit oder seit mindestens 1 Jahr krank.",
+          "Der Aufenthalt umfasst mindestens eine Übernachtung und wird von einem Verein, der Reisen für Menschen mit Behinderung und Langzeitkranke organisiert, oder von einer anerkannten Krankenkasse veranstaltet."
+        ]
+      }
+    }
+  },
+  {
+    "id": 375,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "52074"
+    ],
+    "institution": "Commune d'Aiseau-Presles",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aiseau-presles.be/ma-commune/services-communaux/energie/aides-et-primes/primes-communales/nouvelles-primes-communales-a-l2019isolation-des-logements",
+    "content": {
+      "en": {
+        "title": "Prime communale à l'isolation des logements (Insulation Top-Up, Aiseau-Presles)",
+        "desc": "Aiseau-Presles adds 10% to the Walloon premiums you received for wall or roof insulation or new exterior joinery, up to €500 a year per home.",
+        "deadline": "Within six months of receiving the SPW notification of your Walloon premium.",
+        "amount": "10% of the Walloon premium, max. €500 a year per home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's application form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the SPW notification showing the premium amounts and income category"
+          },
+          {
+            "type": "doc",
+            "label": "Copies of the invoices from a registered contractor"
+          }
+        ],
+        "steps": [
+          "Get your Walloon renovation premium first",
+          "Hand the form and documents to the energy service (rue John Kennedy 150, 6250 Aiseau-Presles, 071/260.670)",
+          "The College decides after an administrative check"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale à l'isolation des logements (gemeentelijke isolatiepremie, Aiseau-Presles)",
+        "desc": "Aiseau-Presles legt 10% bovenop de Waalse premies die je kreeg voor muur- of dakisolatie of nieuw buitenschrijnwerk, tot €500 per jaar per woning.",
+        "deadline": "Binnen zes maanden na ontvangst van de kennisgeving van de Waalse premie door de SPW.",
+        "amount": "10% van de Waalse premie, max. €500 per jaar per woning",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de kennisgeving van de SPW met de premiebedragen en inkomenscategorie"
+          },
+          {
+            "type": "doc",
+            "label": "Kopieën van de facturen van een geregistreerde aannemer"
+          }
+        ],
+        "steps": [
+          "Krijg eerst je Waalse renovatiepremie",
+          "Bezorg het formulier en de documenten aan de energiedienst (rue John Kennedy 150, 6250 Aiseau-Presles, 071/260.670)",
+          "Het college beslist na een administratieve controle"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale à l'isolation des logements (Aiseau-Presles)",
+        "desc": "Aiseau-Presles ajoute 10 % aux primes wallonnes obtenues pour l'isolation des murs ou de la toiture ou la rénovation des menuiseries extérieures, jusqu'à 500 € par an et par logement.",
+        "deadline": "Dans les six mois de la réception de la notification du subside du SPW.",
+        "amount": "10 % de la prime wallonne, max. 500 € par an et par logement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire communal"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la notification du SPW détaillant le calcul des primes et la catégorie de revenus"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie des factures d'une entreprise enregistrée"
+          }
+        ],
+        "steps": [
+          "Obtenez d'abord votre prime wallonne à la rénovation",
+          "Déposez le formulaire et les documents au service énergie (rue John Kennedy 150, 6250 Aiseau-Presles, 071/260.670)",
+          "Le Collège décide après un contrôle administratif"
+        ]
+      },
+      "de": {
+        "title": "Prime communale à l'isolation des logements (Gemeindeprämie für Dämmung, Aiseau-Presles)",
+        "desc": "Aiseau-Presles legt 10 % auf die wallonischen Prämien für Wand- oder Dachdämmung oder neue Außenschreinerei drauf, bis zu 500 € pro Jahr und Wohnung.",
+        "deadline": "Innerhalb von sechs Monaten nach Erhalt der Mitteilung des SPW über die wallonische Prämie.",
+        "amount": "10 % der wallonischen Prämie, max. 500 € pro Jahr und Wohnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Mitteilung des SPW mit den Prämienbeträgen und der Einkommenskategorie"
+          },
+          {
+            "type": "doc",
+            "label": "Kopien der Rechnungen eines registrierten Unternehmens"
+          }
+        ],
+        "steps": [
+          "Erhalten Sie zuerst Ihre wallonische Renovierungsprämie",
+          "Reichen Sie Formular und Unterlagen beim Energiedienst ein (rue John Kennedy 150, 6250 Aiseau-Presles, 071/260.670)",
+          "Das Kollegium entscheidet nach einer Verwaltungsprüfung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.aiseau-presles.be/ma-commune/services-communaux/energie/aides-et-primes/primes-communales/nouvelles-primes-communales-a-l2019isolation-des-logements/reglement-prime-communale-a-lisolation-des.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Owner-occupier (or holder of real rights) of a home in Aiseau-Presles.",
+          "You received a Walloon premium for wall or roof insulation or exterior joinery and meet the Walloon conditions (Walloon Government Decree of 4 April 2019).",
+          "Not combinable with other municipal energy-saving aid."
+        ],
+        "nl": [
+          "Eigenaar-bewoner (of houder van zakelijke rechten) van een woning in Aiseau-Presles.",
+          "Je kreeg een Waalse premie voor muur- of dakisolatie of buitenschrijnwerk en voldoet aan de Waalse voorwaarden (besluit van de Waalse Regering van 4 april 2019).",
+          "Niet cumuleerbaar met andere gemeentelijke steun voor energiebesparing."
+        ],
+        "fr": [
+          "Propriétaire occupant (ou titulaire de droits réels) d'un logement à Aiseau-Presles.",
+          "Avoir obtenu une prime wallonne pour l'isolation des murs ou de la toiture ou les menuiseries extérieures et remplir les conditions de l'Arrêté du Gouvernement wallon du 4 avril 2019.",
+          "Non cumulable avec d'autres aides communales visant les économies d'énergie."
+        ],
+        "de": [
+          "Selbstnutzender Eigentümer (oder Inhaber dinglicher Rechte) einer Wohnung in Aiseau-Presles.",
+          "Sie haben eine wallonische Prämie für Wand- oder Dachdämmung oder Außenschreinerei erhalten und erfüllen die wallonischen Bedingungen (Erlass der Wallonischen Regierung vom 4. April 2019).",
+          "Nicht kumulierbar mit anderen Gemeindehilfen zur Energieeinsparung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 376,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "73001"
+    ],
+    "institution": "Gemeente Alken",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.alken.be/producten/detail/290/herbruikbare-luiers-en-incontinentiemateriaal-subsidie",
+    "content": {
+      "en": {
+        "title": "Premie herbruikbare luiers en incontinentiemateriaal (Reusable Nappies and Incontinence Premium, Alken)",
+        "desc": "Alken refunds half the price of reusable nappies (once per child aged 0-3) or reusable incontinence material (every two years), up to €75.",
+        "deadline": "Within 90 days of the purchase; within the yearly budget, in order of application.",
+        "amount": "Half the invoice, up to €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of purchase and payment"
+          },
+          {
+            "type": "doc",
+            "label": "For incontinence material: a medical certificate"
+          }
+        ],
+        "steps": [
+          "Download the form on alken.be or ask the environment service (milieudienst)",
+          "Hand it in with the documents at the milieudienst within 90 days of purchase"
+        ]
+      },
+      "nl": {
+        "title": "Premie herbruikbare luiers en incontinentiemateriaal (Alken)",
+        "desc": "Alken betaalt de helft van de prijs van herbruikbare luiers (één keer per kind van 0 tot 3 jaar) of herbruikbaar incontinentiemateriaal (om de twee jaar) terug, tot €75.",
+        "deadline": "Binnen 90 dagen na aankoop; binnen het jaarlijkse budget, in volgorde van aanvraag.",
+        "amount": "De helft van de factuur, tot €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Het aankoop- en betalingsbewijs"
+          },
+          {
+            "type": "doc",
+            "label": "Voor incontinentiemateriaal: een medisch attest"
+          }
+        ],
+        "steps": [
+          "Download het formulier op alken.be of vraag het bij de milieudienst",
+          "Dien het met de documenten binnen 90 dagen na aankoop in bij de milieudienst"
+        ]
+      },
+      "fr": {
+        "title": "Premie herbruikbare luiers en incontinentiemateriaal (prime couches lavables et matériel d'incontinence, Alken)",
+        "desc": "Alken rembourse la moitié du prix de couches lavables (une fois par enfant de 0 à 3 ans) ou de matériel d'incontinence réutilisable (tous les deux ans), jusqu'à 75 €.",
+        "deadline": "Dans les 90 jours de l'achat ; dans la limite du budget annuel, par ordre d'introduction.",
+        "amount": "La moitié de la facture, jusqu'à 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve d'achat et de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "Pour le matériel d'incontinence : un certificat médical"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur alken.be ou demandez-le au service environnement (milieudienst)",
+          "Remettez-le avec les documents au milieudienst dans les 90 jours de l'achat"
+        ]
+      },
+      "de": {
+        "title": "Premie herbruikbare luiers en incontinentiemateriaal (Prämie für Stoffwindeln und Inkontinenzmaterial, Alken)",
+        "desc": "Alken erstattet die Hälfte des Preises von Stoffwindeln (einmal pro Kind von 0 bis 3 Jahren) oder wiederverwendbarem Inkontinenzmaterial (alle zwei Jahre), bis zu 75 €.",
+        "deadline": "Innerhalb von 90 Tagen nach dem Kauf; im Rahmen des Jahresbudgets, in Reihenfolge der Anträge.",
+        "amount": "Die Hälfte der Rechnung, bis zu 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kauf- und Zahlungsnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Für Inkontinenzmaterial: ein ärztliches Attest"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf alken.be herunter oder fragen Sie beim Umweltdienst (milieudienst)",
+          "Reichen Sie es mit den Unterlagen innerhalb von 90 Tagen nach dem Kauf beim milieudienst ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.alken.be/file/download/8fbf3ef9-76d4-45cf-afbc-305bec8583bb/CE50339FD6A862062BC06E68EBF0803E.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Nappies: parent of a child aged 0 to 3 registered in Alken's population register (bevolkingsregister); once per child.",
+          "Incontinence material: an incontinent resident, or a first-degree relative (partner, parent, parent-in-law, child, son- or daughter-in-law), registered in Alken's population register; once every two years per incontinent resident."
+        ],
+        "nl": [
+          "Luiers: ouder van een kind van 0 tot 3 jaar ingeschreven in het bevolkingsregister van Alken; één keer per kind.",
+          "Incontinentiemateriaal: een incontinente inwoner of een eerstegraads familielid (partner, ouder, schoonouder, kind, schoonzoon of schoondochter), ingeschreven in het bevolkingsregister van Alken; om de twee jaar per incontinente inwoner."
+        ],
+        "fr": [
+          "Couches : parent d'un enfant de 0 à 3 ans inscrit au registre de la population d'Alken (bevolkingsregister) ; une fois par enfant.",
+          "Matériel d'incontinence : un habitant incontinent ou un parent au premier degré (partenaire, parent, beau-parent, enfant, gendre ou belle-fille), inscrit au registre de la population d'Alken ; tous les deux ans par habitant incontinent."
+        ],
+        "de": [
+          "Windeln: Elternteil eines Kindes von 0 bis 3 Jahren, das im Bevölkerungsregister von Alken (bevolkingsregister) eingetragen ist; einmal pro Kind.",
+          "Inkontinenzmaterial: ein inkontinenter Einwohner oder ein Verwandter ersten Grades (Partner, Elternteil, Schwiegerelternteil, Kind, Schwiegersohn oder -tochter), eingetragen im Bevölkerungsregister von Alken; alle zwei Jahre pro inkontinentem Einwohner."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Alken's population register (bevolkingsregister).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Alken.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population d'Alken (bevolkingsregister).",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Alken (bevolkingsregister)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 377,
+    "category": "other",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "61003"
+    ],
+    "institution": "Centre Sportif Local Intégré d'Amay (AMASPORTS)",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.amay.be/que-faire/service-des-sports-1/prime-action-sport",
+    "content": {
+      "en": {
+        "title": "Prime Action Sport (Sports Premium, Amay)",
+        "desc": "Amay's local sports centre refunds €30 a year per child (1 to 18) towards membership of an Amay sports club or an AMASPORTS activity, for large, single-parent and other families in a listed situation.",
+        "deadline": "Once per calendar year per child; closed yearly budget of €1,500.",
+        "amount": "€30 per child a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The AMASPORTS application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of your situation (household composition, CPAS certificate, disability or benefit-body certificate)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment of the club membership"
+          }
+        ],
+        "steps": [
+          "Download the form via amay.be",
+          "Send it with the documents to ACTIONS SPORT – CSLI d'Amay, chaussée de Tongres 235, 4540 Amay (085/31.46.64, halldessports@amay.be)",
+          "A committee decides; the €30 is refunded on proof of payment"
+        ]
+      },
+      "nl": {
+        "title": "Prime Action Sport (sportpremie, Amay)",
+        "desc": "Het lokale sportcentrum van Amay betaalt €30 per jaar per kind (1 tot 18 jaar) terug voor het lidgeld van een sportclub in Amay of een activiteit van AMASPORTS, voor grote gezinnen, eenoudergezinnen en andere gezinnen in een vermelde situatie.",
+        "deadline": "Eén keer per kalenderjaar per kind; gesloten jaarbudget van €1.500.",
+        "amount": "€30 per kind per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van AMASPORTS"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van je situatie (gezinssamenstelling, attest OCMW, attest handicap of uitkeringsinstelling)"
+          },
+          {
+            "type": "doc",
+            "label": "Betaalbewijs van het lidgeld"
+          }
+        ],
+        "steps": [
+          "Download het formulier via amay.be",
+          "Stuur het met de documenten naar ACTIONS SPORT – CSLI d'Amay, chaussée de Tongres 235, 4540 Amay (085/31.46.64, halldessports@amay.be)",
+          "Een comité beslist; de €30 wordt terugbetaald op vertoon van het betaalbewijs"
+        ]
+      },
+      "fr": {
+        "title": "Prime Action Sport (Amay)",
+        "desc": "Le centre sportif local d'Amay rembourse 30 € par an et par enfant (1 à 18 ans) sur la cotisation à un club sportif amaytois ou à une activité d'AMASPORTS, pour les familles nombreuses, monoparentales et d'autres situations listées.",
+        "deadline": "Une fois par année civile et par enfant ; enveloppe fermée de 1.500 € par an.",
+        "amount": "30 € par enfant et par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire d'AMASPORTS"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de votre situation (composition de ménage, attestation du CPAS, du handicap ou de l'organisme)"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de paiement de la cotisation"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire via amay.be",
+          "Envoyez-le avec les pièces à ACTIONS SPORT – CSLI d'Amay, chaussée de Tongres 235, 4540 Amay (085/31.46.64, halldessports@amay.be)",
+          "Un comité d'attribution décide ; les 30 € sont remboursés sur preuve de paiement"
+        ]
+      },
+      "de": {
+        "title": "Prime Action Sport (Sportprämie, Amay)",
+        "desc": "Das lokale Sportzentrum von Amay erstattet 30 € pro Jahr und Kind (1 bis 18 Jahre) für den Beitrag zu einem Sportverein in Amay oder einer AMASPORTS-Aktivität, für kinderreiche Familien, Alleinerziehende und andere genannte Situationen.",
+        "deadline": "Einmal pro Kalenderjahr und Kind; festes Jahresbudget von 1.500 €.",
+        "amount": "30 € pro Kind und Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular von AMASPORTS"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis Ihrer Situation (Haushaltszusammensetzung, Bescheinigung des ÖSHZ, der Behinderung oder der Leistungsstelle)"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis des Mitgliedsbeitrags"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular über amay.be herunter",
+          "Senden Sie es mit den Unterlagen an ACTIONS SPORT – CSLI d'Amay, chaussée de Tongres 235, 4540 Amay (085/31.46.64, halldessports@amay.be)",
+          "Ein Ausschuss entscheidet; die 30 € werden gegen Zahlungsnachweis erstattet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.amay.be/que-faire/service-des-sports-1/prime-action-sport"
+      ],
+      "conditions": {
+        "en": [
+          "The child is 1 to 18 and at least one parent is domiciled in Amay.",
+          "The family is in one of these situations: large family, single-parent family, receives the social integration income (RIS) from the CPAS, a member is at least 80% disabled, or the head of the family is fully unemployed, early-retired or retired.",
+          "The money goes towards the yearly fee of an Amay sports club or an AMASPORTS activity."
+        ],
+        "nl": [
+          "Het kind is 1 tot 18 jaar en minstens één ouder is gedomicilieerd in Amay.",
+          "Het gezin is in een van deze situaties: groot gezin, eenoudergezin, krijgt het leefloon (RIS) van het OCMW, een gezinslid is minstens 80% gehandicapt, of het gezinshoofd is volledig werkloos, bruggepensioneerd of gepensioneerd.",
+          "Het geld dient voor het jaarlijkse lidgeld van een sportclub in Amay of een activiteit van AMASPORTS."
+        ],
+        "fr": [
+          "L'enfant a de 1 à 18 ans et au moins un parent est domicilié à Amay.",
+          "La famille est dans une de ces situations : famille nombreuse, famille monoparentale, bénéficiaire du R.I.S. (CPAS), une personne handicapée à au moins 80 %, ou chef de famille chômeur complet, prépensionné ou pensionné.",
+          "La contribution couvre une partie de la cotisation annuelle à un club sportif amaytois ou à une activité d'AMASPORTS."
+        ],
+        "de": [
+          "Das Kind ist 1 bis 18 Jahre alt und mindestens ein Elternteil ist in Amay gemeldet.",
+          "Die Familie ist in einer dieser Situationen: kinderreiche Familie, Alleinerziehende, Bezug des Eingliederungseinkommens (RIS) vom ÖSHZ, ein Mitglied mindestens 80 % behindert oder das Familienoberhaupt vollarbeitslos, im Vorruhestand oder in Rente.",
+          "Der Betrag gilt für den Jahresbeitrag eines Sportvereins in Amay oder einer AMASPORTS-Aktivität."
+        ]
+      }
+    }
+  },
+  {
+    "id": 378,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63001"
+    ],
+    "institution": "Gemeinde Amel",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.amel.be/online-schalter/formulare",
+    "content": {
+      "en": {
+        "title": "Prämie für waschbare Stoffwindeln (Washable Nappies Premium, Amel)",
+        "desc": "Amel refunds 100% of the price of washable nappies and accessories, up to €200 per child; €40 is deducted if you already took the free bin-bag rolls given at birth.",
+        "deadline": "Between the birth and the child's second birthday; once per child, all invoices together.",
+        "amount": "Up to €200 per child (€160 if you received the free bin bags)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Original invoice and proof of payment"
+          }
+        ],
+        "steps": [
+          "Download the form on amel.be (Online-Schalter > Formulare)",
+          "E-mail it with the invoices to stephanie.schmitz@amel.be or post it to Gemeindeverwaltung Amel, Wittenhof 9, 4770 Amel",
+          "The commune checks the application and pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Prämie für waschbare Stoffwindeln (premie wasbare luiers, Amel)",
+        "desc": "Amel betaalt 100% van de prijs van wasbare luiers en toebehoren terug, tot €200 per kind; €40 gaat eraf als je de gratis vuilniszakken bij de geboorte al kreeg.",
+        "deadline": "Tussen de geboorte en de tweede verjaardag van het kind; één keer per kind, alle facturen samen.",
+        "amount": "Tot €200 per kind (€160 als je de gratis vuilniszakken kreeg)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Originele factuur en betalingsbewijs"
+          }
+        ],
+        "steps": [
+          "Download het formulier op amel.be (Online-Schalter > Formulare)",
+          "Mail het met de facturen naar stephanie.schmitz@amel.be of stuur het naar Gemeindeverwaltung Amel, Wittenhof 9, 4770 Amel",
+          "De gemeente controleert de aanvraag en betaalt de premie"
+        ]
+      },
+      "fr": {
+        "title": "Prämie für waschbare Stoffwindeln (prime couches lavables, Amel)",
+        "desc": "Amel rembourse 100 % du prix des couches lavables et accessoires, jusqu'à 200 € par enfant ; 40 € sont déduits si vous avez déjà reçu les rouleaux de sacs-poubelle gratuits à la naissance.",
+        "deadline": "Entre la naissance et les 2 ans de l'enfant ; une fois par enfant, toutes les factures ensemble.",
+        "amount": "Jusqu'à 200 € par enfant (160 € si vous avez reçu les sacs gratuits)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La facture originale et la preuve de paiement"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur amel.be (Online-Schalter > Formulare)",
+          "Envoyez-le avec les factures à stephanie.schmitz@amel.be ou par courrier à Gemeindeverwaltung Amel, Wittenhof 9, 4770 Amel",
+          "La commune vérifie la demande et verse la prime"
+        ]
+      },
+      "de": {
+        "title": "Prämie für waschbare Stoffwindeln (Amel)",
+        "desc": "Amel erstattet 100 % des Preises waschbarer Windeln und Zubehör, bis zu 200 € pro Kind; 40 € werden abgezogen, wenn Sie die Gratis-Mülltüten zur Geburt bereits erhalten haben.",
+        "deadline": "Zwischen der Geburt und dem vollendeten 24. Monat; einmal pro Kind, alle Belege zusammen.",
+        "amount": "Bis zu 200 € pro Kind (160 €, wenn Sie die Gratis-Mülltüten erhalten haben)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Originalrechnung und Zahlungsbeleg"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf amel.be herunter (Online-Schalter > Formulare)",
+          "Senden Sie es mit den Rechnungen an stephanie.schmitz@amel.be oder per Post an Gemeindeverwaltung Amel, Wittenhof 9, 4770 Amel",
+          "Die Gemeinde prüft den Antrag und zahlt die Prämie"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.amel.be/fileadmin/gemeinde_amel_uploads/Dienste/Formulare/Pr%C3%A4mie_Stoffwindeln_Antragsformular_Version_25.11.2025.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are the child's legal guardian (parent) and live in the commune of Amel; the child lives in Amel.",
+          "Washable nappies, liners, covers, inserts, washable wipes and their storage box count; bought after the birth or no more than 6 months before it.",
+          "Apply between the birth and the child's second birthday."
+        ],
+        "nl": [
+          "Je bent de opvoedingsgerechtigde (ouder) van het kind en woont in de gemeente Amel; het kind woont in Amel.",
+          "Wasbare luiers, luierdoekjes, overbroekjes, inlegkruisjes, wasbare doekjes en hun opbergdoos tellen mee; gekocht na de geboorte of hoogstens 6 maanden ervoor.",
+          "Aanvragen tussen de geboorte en de tweede verjaardag van het kind."
+        ],
+        "fr": [
+          "Vous êtes le représentant légal (parent) de l'enfant et habitez la commune d'Amel ; l'enfant habite Amel.",
+          "Sont pris en compte les couches lavables, voiles, culottes, inserts, lingettes lavables et leur boîte de rangement ; achetés après la naissance ou au plus 6 mois avant.",
+          "Demande entre la naissance et les 2 ans de l'enfant."
+        ],
+        "de": [
+          "Sie sind der Erziehungsberechtigte des Kindes und in der Gemeinde Amel wohnhaft; das Kind ist in Amel wohnhaft.",
+          "Berücksichtigt werden waschbare Windeln, Windeltücher, Überhosen, Saugeinlagen, waschbare Feuchttücher und deren Aufbewahrungsbox; gekauft nach der Geburt oder höchstens 6 Monate davor.",
+          "Antrag zwischen der Geburt und dem vollendeten 24. Monat des Kindes."
+        ]
+      }
+    }
+  },
+  {
+    "id": 379,
+    "category": "other",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "92003"
+    ],
+    "institution": "Ville d'Andenne",
+    "verified": "3 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.andenne.be/que-faire/sport/",
+    "content": {
+      "en": {
+        "title": "Chèque-sport (Sports Voucher, Andenne)",
+        "desc": "Andenne gives children under 18 who play sport in an approved club a €5 or €10 voucher; parents on a low income can instead get 60% of the club fee back.",
+        "deadline": "Per sports season; no help for sports camps.",
+        "amount": "€5 or €10 voucher, or 60% of the club fee for low-income families",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of the club fee paid"
+          },
+          {
+            "type": "doc",
+            "label": "For the 60% refund: proof of household income"
+          }
+        ],
+        "steps": [
+          "Contact Sandrine Ricaille at the Ville d'Andenne (085/84.95.36, sandrine.ricaille@ac.andenne.be)",
+          "The city checks with the club and issues the voucher or the 60% refund"
+        ]
+      },
+      "nl": {
+        "title": "Chèque-sport (sportcheque, Andenne)",
+        "desc": "Andenne geeft kinderen onder 18 die sporten bij een erkende club een bon van €5 of €10; ouders met een laag inkomen kunnen in plaats daarvan 60% van het lidgeld terugkrijgen.",
+        "deadline": "Per sportseizoen; geen tussenkomst voor sportstages.",
+        "amount": "Bon van €5 of €10, of 60% van het lidgeld voor gezinnen met een laag inkomen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van het betaalde lidgeld"
+          },
+          {
+            "type": "doc",
+            "label": "Voor de terugbetaling van 60%: bewijs van het gezinsinkomen"
+          }
+        ],
+        "steps": [
+          "Neem contact op met Sandrine Ricaille van de Ville d'Andenne (085/84.95.36, sandrine.ricaille@ac.andenne.be)",
+          "De stad controleert bij de club en geeft de bon of de terugbetaling van 60%"
+        ]
+      },
+      "fr": {
+        "title": "Chèque-sport (Andenne)",
+        "desc": "Andenne accorde aux jeunes de moins de 18 ans inscrits dans un club conventionné un bon de 5 ou 10 € ; les parents à revenus modestes peuvent obtenir à la place 60 % de la cotisation.",
+        "deadline": "Par saison sportive ; pas d'intervention pour les stages sportifs.",
+        "amount": "Bon de 5 ou 10 €, ou 60 % de la cotisation pour les ménages à revenus modestes",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La preuve de la cotisation payée"
+          },
+          {
+            "type": "doc",
+            "label": "Pour l'intervention de 60 % : la preuve des revenus du ménage"
+          }
+        ],
+        "steps": [
+          "Contactez Sandrine Ricaille à la Ville d'Andenne (085/84.95.36, sandrine.ricaille@ac.andenne.be)",
+          "La Ville vérifie auprès du club et délivre le bon ou l'intervention de 60 %"
+        ]
+      },
+      "de": {
+        "title": "Chèque-sport (Sportscheck, Andenne)",
+        "desc": "Andenne gibt Kindern unter 18 Jahren, die in einem anerkannten Verein Sport treiben, einen Gutschein von 5 oder 10 €; Eltern mit geringem Einkommen können stattdessen 60 % des Vereinsbeitrags erhalten.",
+        "deadline": "Pro Sportsaison; kein Zuschuss für Sportlager.",
+        "amount": "Gutschein von 5 oder 10 €, oder 60 % des Beitrags für Familien mit geringem Einkommen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis des gezahlten Vereinsbeitrags"
+          },
+          {
+            "type": "doc",
+            "label": "Für die 60-%-Erstattung: Nachweis des Haushaltseinkommens"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an Sandrine Ricaille bei der Ville d'Andenne (085/84.95.36, sandrine.ricaille@ac.andenne.be)",
+          "Die Stadt prüft beim Verein und stellt den Gutschein oder die 60-%-Erstattung aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "3 Nov 2026",
+      "source_url": [
+        "https://www.andenne.be/que-faire/sport/"
+      ],
+      "conditions": {
+        "en": [
+          "The child is under 18, domiciled in Andenne, and plays sport in a club that has an agreement with the city.",
+          "Voucher of €5 or €10 depending on the fee paid the previous season.",
+          "60% refund: the parents' income is within the limits for a study grant of the Fédération Wallonie-Bruxelles (amounts revised every year)."
+        ],
+        "nl": [
+          "Het kind is jonger dan 18, gedomicilieerd in Andenne en sport bij een club met een overeenkomst met de stad.",
+          "Bon van €5 of €10 naargelang het lidgeld van het vorige seizoen.",
+          "Terugbetaling van 60%: het inkomen van de ouders valt binnen de grenzen voor een studiebeurs van de Fédération Wallonie-Bruxelles (bedragen jaarlijks herzien)."
+        ],
+        "fr": [
+          "L'enfant a moins de 18 ans, est domicilié à Andenne et pratique un sport dans un club conventionné.",
+          "Bon de 5 ou 10 € selon le montant de la cotisation payée la saison précédente.",
+          "Intervention de 60 % : les revenus des parents sont dans les conditions d'une bourse d'études de la Fédération Wallonie-Bruxelles (montants revus chaque année)."
+        ],
+        "de": [
+          "Das Kind ist unter 18, in Andenne gemeldet und treibt Sport in einem Verein mit Vereinbarung mit der Stadt.",
+          "Gutschein von 5 oder 10 € je nach dem in der Vorsaison gezahlten Beitrag.",
+          "60-%-Erstattung: das Einkommen der Eltern liegt in den Grenzen für ein Studienstipendium der Fédération Wallonie-Bruxelles (jährlich angepasst)."
+        ]
+      }
+    }
   }
 ]
