@@ -45004,5 +45004,2493 @@
         ]
       }
     }
+  },
+  {
+    "id": 380,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "38002"
+    ],
+    "institution": "Gemeente Alveringem",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.alveringem.be/bestuur/reglementen/subsidies/mens/subsidie-voor-het-gebruik-van-ecoluiers",
+    "content": {
+      "en": {
+        "title": "Subsidie voor het gebruik van ecoluiers (Washable Nappies Subsidy, Alveringem)",
+        "desc": "Alveringem refunds half the cost of shaped cotton nappies and what goes with them, up to €75; once per child born.",
+        "deadline": "No deadline on the page; one subsidy per child born.",
+        "amount": "50% of the cost, up to €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the purchase invoice for the nappies and accessories"
+          }
+        ],
+        "steps": [
+          "Fill in the form online on alveringem.be, download it, or pick it up at the town hall reception",
+          "Add a copy of the invoice",
+          "Send it to the commune"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie voor het gebruik van ecoluiers (Alveringem)",
+        "desc": "Alveringem betaalt de helft van de kostprijs van voorgevormde katoenen luiers en benodigdheden terug, tot €75; één keer per geboren kind.",
+        "deadline": "Geen termijn op de pagina; één subsidie per geboren kind.",
+        "amount": "50% van de kostprijs, tot €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de aankoopfactuur van de ecoluiers en benodigdheden"
+          }
+        ],
+        "steps": [
+          "Vul het formulier online in op alveringem.be, download het of haal het op aan het onthaal van het gemeentehuis",
+          "Voeg een kopie van de factuur toe",
+          "Bezorg het aan de gemeente"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie voor het gebruik van ecoluiers (subside couches lavables, Alveringem)",
+        "desc": "Alveringem rembourse la moitié du coût des couches en coton préformées et de leurs accessoires, jusqu'à 75 € ; une fois par enfant né.",
+        "deadline": "Pas de délai sur la page ; un subside par enfant né.",
+        "amount": "50 % du coût, jusqu'à 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la facture d'achat des couches et accessoires"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en ligne sur alveringem.be, téléchargez-le ou retirez-le à l'accueil de la maison communale",
+          "Joignez une copie de la facture",
+          "Remettez-le à la commune"
+        ]
+      },
+      "de": {
+        "title": "Subsidie voor het gebruik van ecoluiers (Zuschuss für Stoffwindeln, Alveringem)",
+        "desc": "Alveringem erstattet die Hälfte der Kosten für vorgeformte Baumwollwindeln und Zubehör, bis zu 75 €; einmal pro geborenem Kind.",
+        "deadline": "Keine Frist auf der Seite; ein Zuschuss pro geborenem Kind.",
+        "amount": "50 % der Kosten, bis zu 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Kaufrechnung für die Windeln und das Zubehör"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular online auf alveringem.be aus, laden Sie es herunter oder holen Sie es am Empfang des Gemeindehauses ab",
+          "Fügen Sie eine Kopie der Rechnung bei",
+          "Reichen Sie es bei der Gemeinde ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.alveringem.be/bestuur/reglementen/subsidies/mens/subsidie-voor-het-gebruik-van-ecoluiers"
+      ],
+      "conditions": {
+        "en": [
+          "Your child is domiciled in Alveringem or registered there in shared residence.",
+          "For shaped cotton nappies (ecoluiers)."
+        ],
+        "nl": [
+          "Je kind is in Alveringem gedomicilieerd of in gedeeld verblijf geregistreerd.",
+          "Voor voorgevormde katoenen luiers (ecoluiers)."
+        ],
+        "fr": [
+          "Votre enfant est domicilié à Alveringem ou y est enregistré en résidence partagée.",
+          "Pour des couches en coton préformées (ecoluiers)."
+        ],
+        "de": [
+          "Ihr Kind hat seinen Wohnsitz in Alveringem oder ist dort im geteilten Aufenthalt registriert.",
+          "Für vorgeformte Baumwollwindeln (ecoluiers)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 381,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "38002"
+    ],
+    "institution": "Gemeente Alveringem",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.alveringem.be/bestuur/reglementen/subsidies/mens/subsidie-voor-personen-met-incontinentieproblemen-en-voor-stoma-en-nierdialysepatienten",
+    "content": {
+      "en": {
+        "title": "Subsidie incontinentie-, stoma- en nierdialysepatiënten (Incontinence, Stoma and Dialysis Subsidy, Alveringem)",
+        "desc": "Alveringem pays €30 a year towards the cost of disposing of the waste material of incontinence, stoma and kidney dialysis patients.",
+        "deadline": "Between 1 January and 31 December of the year you apply for.",
+        "amount": "€30 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate from the treating doctor"
+          }
+        ],
+        "steps": [
+          "Download the form on alveringem.be or pick it up at the town hall reception",
+          "Have your doctor complete the certificate on the form",
+          "Hand it in at the commune within the calendar year"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie incontinentie-, stoma- en nierdialysepatiënten (Alveringem)",
+        "desc": "Alveringem geeft €30 per jaar als compensatie voor de kost van het verwijderen van afvalmateriaal van incontinentie-, stoma- en nierdialysepatiënten.",
+        "deadline": "Tussen 1 januari en 31 december van het jaar waarvoor je aanvraagt.",
+        "amount": "€30 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van de behandelende arts"
+          }
+        ],
+        "steps": [
+          "Download het formulier op alveringem.be of haal het op aan het onthaal van het gemeentehuis",
+          "Laat je arts het attest op het formulier invullen",
+          "Dien het in het kalenderjaar in bij de gemeente"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie incontinentie-, stoma- en nierdialysepatiënten (subside incontinence, stomie et dialyse, Alveringem)",
+        "desc": "Alveringem verse 30 € par an pour compenser le coût d'élimination des déchets des patients incontinents, stomisés ou dialysés.",
+        "deadline": "Entre le 1er janvier et le 31 décembre de l'année concernée.",
+        "amount": "30 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du médecin traitant"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur alveringem.be ou retirez-le à l'accueil de la maison communale",
+          "Faites remplir l'attestation du formulaire par votre médecin",
+          "Remettez-le à la commune dans l'année civile"
+        ]
+      },
+      "de": {
+        "title": "Subsidie incontinentie-, stoma- en nierdialysepatiënten (Zuschuss bei Inkontinenz, Stoma und Dialyse, Alveringem)",
+        "desc": "Alveringem zahlt 30 € pro Jahr als Ausgleich für die Entsorgungskosten des Abfalls von Inkontinenz-, Stoma- und Nierendialysepatienten.",
+        "deadline": "Zwischen dem 1. Januar und dem 31. Dezember des betreffenden Jahres.",
+        "amount": "30 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des behandelnden Arztes"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf alveringem.be herunter oder holen Sie es am Empfang des Gemeindehauses ab",
+          "Lassen Sie die Bescheinigung auf dem Formular von Ihrem Arzt ausfüllen",
+          "Reichen Sie es innerhalb des Kalenderjahres bei der Gemeinde ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.alveringem.be/bestuur/reglementen/subsidies/mens/subsidie-voor-personen-met-incontinentieproblemen-en-voor-stoma-en-nierdialysepatienten",
+        "https://alveringem.be/sites/default/files/2021-03/210310TVAanvraagformulierIncontinentiepremie.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The patient is domiciled in Alveringem.",
+          "A doctor certifies use of incontinence material, a stoma or kidney dialysis.",
+          "One subsidy per applicant per year, for one of these conditions only."
+        ],
+        "nl": [
+          "De patiënt is gedomicilieerd in Alveringem.",
+          "Een arts bevestigt het gebruik van incontinentiemateriaal, een stoma of nierdialyse.",
+          "Eén subsidie per aanvrager per jaar, voor maar één van deze aandoeningen."
+        ],
+        "fr": [
+          "Le patient est domicilié à Alveringem.",
+          "Un médecin atteste l'usage de matériel d'incontinence, une stomie ou une dialyse rénale.",
+          "Un subside par demandeur par an, pour une seule de ces affections."
+        ],
+        "de": [
+          "Der Patient hat seinen Wohnsitz in Alveringem.",
+          "Ein Arzt bescheinigt die Verwendung von Inkontinenzmaterial, ein Stoma oder Nierendialyse.",
+          "Ein Zuschuss pro Antragsteller und Jahr, nur für eine dieser Erkrankungen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 382,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "38002"
+    ],
+    "institution": "Gemeente Alveringem",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.alveringem.be/bestuur/reglementen/subsidies/vakantietoelage-voor-langdurig-zieken-en-minder-validen",
+    "content": {
+      "en": {
+        "title": "Vakantietoelage voor langdurig zieken en minder-validen (Holiday Allowance for Long-Term Ill and Disabled People, Alveringem)",
+        "desc": "Alveringem pays up to €75 a year towards an adapted holiday of at least five days organised by a social association or recognised health fund.",
+        "deadline": "By 1 October of the calendar year.",
+        "amount": "€75 a year, limited to what you paid the organiser",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Disability certificate from the FPS Social Security, or a certificate of the length of illness from a recognised health fund"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate that the organiser is authorised to run such holidays"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment of the stay"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the latest tax assessment on household income"
+          }
+        ],
+        "steps": [
+          "Fill in the form online on alveringem.be, download it, or pick it up at the town hall reception",
+          "Add the certificates, proof of payment and tax assessment",
+          "Send it to the commune by 1 October"
+        ]
+      },
+      "nl": {
+        "title": "Vakantietoelage voor langdurig zieken en minder-validen (Alveringem)",
+        "desc": "Alveringem betaalt tot €75 per jaar voor een aangepast vakantieverblijf van minstens vijf dagen, georganiseerd door een sociale vereniging of erkend ziekenfonds.",
+        "deadline": "Uiterlijk op 1 oktober van het kalenderjaar.",
+        "amount": "€75 per jaar, beperkt tot wat je aan de organisator betaalde",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Getuigschrift van invaliditeit van de FOD Sociale Zekerheid, of een attest over de duur van de ziekte van een erkend ziekenfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Attest dat de organisator gemachtigd is om zulke vakantieverblijven te organiseren"
+          },
+          {
+            "type": "doc",
+            "label": "Betalingsbewijs van het verblijf"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het laatste aanslagbiljet over het gezinsinkomen"
+          }
+        ],
+        "steps": [
+          "Vul het formulier online in op alveringem.be, download het of haal het op aan het onthaal van het gemeentehuis",
+          "Voeg de attesten, het betalingsbewijs en het aanslagbiljet toe",
+          "Bezorg het uiterlijk op 1 oktober aan de gemeente"
+        ]
+      },
+      "fr": {
+        "title": "Vakantietoelage voor langdurig zieken en minder-validen (allocation de vacances pour malades de longue durée et personnes handicapées, Alveringem)",
+        "desc": "Alveringem verse jusqu'à 75 € par an pour un séjour de vacances adapté d'au moins cinq jours, organisé par une association sociale ou une mutualité reconnue.",
+        "deadline": "Au plus tard le 1er octobre de l'année civile.",
+        "amount": "75 € par an, limité à ce que vous avez payé à l'organisateur",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat d'invalidité du SPF Sécurité sociale, ou attestation de la durée de la maladie d'une mutualité reconnue"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation que l'organisateur est habilité à organiser de tels séjours"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement du séjour"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie du dernier avertissement-extrait de rôle sur les revenus du ménage"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en ligne sur alveringem.be, téléchargez-le ou retirez-le à l'accueil de la maison communale",
+          "Joignez les attestations, la preuve de paiement et l'avertissement-extrait de rôle",
+          "Remettez-le à la commune au plus tard le 1er octobre"
+        ]
+      },
+      "de": {
+        "title": "Vakantietoelage voor langdurig zieken en minder-validen (Urlaubszuschuss für Langzeitkranke und Menschen mit Behinderung, Alveringem)",
+        "desc": "Alveringem zahlt bis zu 75 € pro Jahr für einen angepassten Urlaub von mindestens fünf Tagen, organisiert von einem Sozialverein oder einer anerkannten Krankenkasse.",
+        "deadline": "Spätestens am 1. Oktober des Kalenderjahres.",
+        "amount": "75 € pro Jahr, begrenzt auf den an den Veranstalter gezahlten Betrag",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Invaliditätsbescheinigung des FÖD Soziale Sicherheit oder eine Bescheinigung einer anerkannten Krankenkasse über die Krankheitsdauer"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung, dass der Veranstalter zu solchen Aufenthalten berechtigt ist"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis für den Aufenthalt"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des letzten Steuerbescheids über das Haushaltseinkommen"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular online auf alveringem.be aus, laden Sie es herunter oder holen Sie es am Empfang des Gemeindehauses ab",
+          "Fügen Sie die Bescheinigungen, den Zahlungsnachweis und den Steuerbescheid bei",
+          "Reichen Sie es bis zum 1. Oktober bei der Gemeinde ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.alveringem.be/bestuur/reglementen/subsidies/vakantietoelage-voor-langdurig-zieken-en-minder-validen"
+      ],
+      "conditions": {
+        "en": [
+          "The long-term ill or disabled person is domiciled in Alveringem.",
+          "On the first day of the stay: ill for at least one year, or a reduced physical or mental capacity of more than 66%.",
+          "The stay lasts at least five days, travel days included, and is organised by a social association or recognised health fund.",
+          "Annual taxable household income of at most €28,000, plus €1,600 per dependant."
+        ],
+        "nl": [
+          "De langdurig zieke of minder-valide is in Alveringem gedomicilieerd.",
+          "Op de eerste dag van het verblijf: minstens één jaar ziek, of een verminderde lichamelijke of geestelijke geschiktheid van meer dan 66%.",
+          "Het verblijf duurt minstens vijf dagen, reisdagen inbegrepen, en wordt georganiseerd door een sociale vereniging of erkend ziekenfonds.",
+          "Jaarlijks belastbaar gezinsinkomen van maximaal €28.000, plus €1.600 per persoon ten laste."
+        ],
+        "fr": [
+          "Le malade de longue durée ou la personne handicapée est domicilié(e) à Alveringem.",
+          "Au premier jour du séjour : malade depuis au moins un an, ou capacité physique ou mentale réduite de plus de 66 %.",
+          "Le séjour dure au moins cinq jours, jours de voyage compris, et est organisé par une association sociale ou une mutualité reconnue.",
+          "Revenu annuel imposable du ménage de 28.000 € maximum, plus 1.600 € par personne à charge."
+        ],
+        "de": [
+          "Die langzeitkranke Person oder die Person mit Behinderung hat ihren Wohnsitz in Alveringem.",
+          "Am ersten Tag des Aufenthalts: seit mindestens einem Jahr krank oder eine um mehr als 66 % verminderte körperliche oder geistige Fähigkeit.",
+          "Der Aufenthalt dauert mindestens fünf Tage einschließlich Reisetage und wird von einem Sozialverein oder einer anerkannten Krankenkasse organisiert.",
+          "Jährliches steuerpflichtiges Haushaltseinkommen von höchstens 28.000 €, zuzüglich 1.600 € pro unterhaltsberechtigte Person."
+        ]
+      }
+    }
+  },
+  {
+    "id": 383,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "56001"
+    ],
+    "institution": "Commune d'Anderlues",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.anderlues.be/ma-commune/bien-etre-animal/primes-communales/prime-a-ladoption",
+    "content": {
+      "en": {
+        "title": "Prime à l'adoption d'un chat ou d'un chien (Cat or Dog Adoption Premium, Anderlues)",
+        "desc": "Anderlues gives a one-off €25 per household when you adopt a cat or dog from a licensed shelter.",
+        "deadline": "Within 6 months of the date on the adoption contract.",
+        "amount": "€25 per household, once",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's application form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the signed adoption contract (with proof of payment if it does not state the cost)"
+          }
+        ],
+        "steps": [
+          "Get the form from the commune of Anderlues",
+          "Add the adoption contract",
+          "Send it by registered post or e-mail (as a PDF), or hand it in against a receipt",
+          "The college decides; requests are handled in order until the year's budget runs out"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'adoption d'un chat ou d'un chien (adoptiepremie kat of hond, Anderlues)",
+        "desc": "Anderlues geeft eenmalig €25 per gezin wanneer je een kat of hond uit een erkend asiel adopteert.",
+        "deadline": "Binnen 6 maanden na de datum op het adoptiecontract.",
+        "amount": "Eenmalig €25 per gezin",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het ondertekende adoptiecontract (met betalingsbewijs als de kostprijs er niet op staat)"
+          }
+        ],
+        "steps": [
+          "Vraag het formulier aan bij de gemeente Anderlues",
+          "Voeg het adoptiecontract toe",
+          "Stuur het aangetekend of per e-mail (als pdf), of geef het af tegen ontvangstbewijs",
+          "Het college beslist; aanvragen worden op volgorde behandeld tot het jaarbudget op is"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'adoption d'un chat ou d'un chien (Anderlues)",
+        "desc": "Anderlues accorde une prime unique de 25 € par ménage pour l'adoption d'un chat ou d'un chien dans un refuge agréé.",
+        "deadline": "Dans les 6 mois à partir de la date du contrat d'adoption.",
+        "amount": "25 € par ménage, une seule fois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie du contrat d'adoption signé (avec preuve de paiement si le coût n'y figure pas)"
+          }
+        ],
+        "steps": [
+          "Procurez-vous le formulaire auprès de la commune d'Anderlues",
+          "Joignez le contrat d'adoption",
+          "Envoyez-le par recommandé ou par courriel (en PDF), ou déposez-le contre accusé de réception",
+          "Le Collège décide ; les demandes sont traitées dans l'ordre jusqu'à épuisement du budget annuel"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'adoption d'un chat ou d'un chien (Adoptionsprämie für Katze oder Hund, Anderlues)",
+        "desc": "Anderlues gewährt einmalig 25 € pro Haushalt, wenn Sie eine Katze oder einen Hund aus einem zugelassenen Tierheim adoptieren.",
+        "deadline": "Innerhalb von 6 Monaten ab dem Datum des Adoptionsvertrags.",
+        "amount": "Einmalig 25 € pro Haushalt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des unterzeichneten Adoptionsvertrags (mit Zahlungsnachweis, falls die Kosten nicht darauf stehen)"
+          }
+        ],
+        "steps": [
+          "Holen Sie das Formular bei der Gemeinde Anderlues",
+          "Fügen Sie den Adoptionsvertrag bei",
+          "Senden Sie es per Einschreiben oder E-Mail (als PDF) oder geben Sie es gegen Empfangsbestätigung ab",
+          "Das Kollegium entscheidet; Anträge werden der Reihe nach bearbeitet, bis das Jahresbudget aufgebraucht ist"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.anderlues.be/ma-commune/bien-etre-animal/primes-communales/prime-a-ladoption"
+      ],
+      "conditions": {
+        "en": [
+          "You are an adult domiciled in Anderlues and you made the adoption yourself.",
+          "The cat or dog comes from a shelter licensed under the royal decree of 27 April 2007.",
+          "One premium per household (all adults at the same address), within the yearly budget."
+        ],
+        "nl": [
+          "Je bent meerderjarig, gedomicilieerd in Anderlues en hebt zelf geadopteerd.",
+          "De kat of hond komt uit een asiel dat erkend is volgens het koninklijk besluit van 27 april 2007.",
+          "Eén premie per gezin (alle meerderjarigen op hetzelfde adres), binnen het jaarbudget."
+        ],
+        "fr": [
+          "Vous êtes majeur, domicilié à Anderlues et avez vous-même réalisé l'adoption.",
+          "Le chat ou le chien provient d'un refuge agréé selon l'arrêté royal du 27 avril 2007.",
+          "Une prime par ménage (tous les majeurs à la même adresse), dans les limites du budget annuel."
+        ],
+        "de": [
+          "Sie sind volljährig, haben Ihren Wohnsitz in Anderlues und haben selbst adoptiert.",
+          "Die Katze oder der Hund stammt aus einem Tierheim, das gemäß dem Königlichen Erlass vom 27. April 2007 zugelassen ist.",
+          "Eine Prämie pro Haushalt (alle Volljährigen unter derselben Adresse), im Rahmen des Jahresbudgets."
+        ]
+      }
+    }
+  },
+  {
+    "id": 384,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "56001"
+    ],
+    "institution": "Commune d'Anderlues",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.anderlues.be/ma-commune/bien-etre-animal/primes-communales/prime-pour-la-sterilisation-des-chats-domestiques",
+    "content": {
+      "en": {
+        "title": "Prime pour la stérilisation des chats domestiques (Cat Sterilisation Premium, Anderlues)",
+        "desc": "Anderlues pays €20 for a male cat and €30 for a female cat that a vet has sterilised; one premium a year per household.",
+        "deadline": "Within two months of the operation.",
+        "amount": "€20 (male cat) or €30 (female cat)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The care certificate signed by the vet and the vet's original invoice"
+          },
+          {
+            "type": "id",
+            "label": "A copy of your identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Proof you own the cat (the cat's chip identification)"
+          }
+        ],
+        "steps": [
+          "Download the rules and form on anderlues.be or ask at the commune's Service Financier",
+          "Add the vet's certificate and invoice, your ID copy and the chip proof",
+          "Send it to the Administration communale, Place Albert 1er 21, 6150 Anderlues"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour la stérilisation des chats domestiques (sterilisatiepremie katten, Anderlues)",
+        "desc": "Anderlues betaalt €20 voor een kater en €30 voor een poes die een dierenarts heeft gesteriliseerd; één premie per jaar per gezin.",
+        "deadline": "Binnen twee maanden na de operatie.",
+        "amount": "€20 (kater) of €30 (poes)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Het zorgattest ondertekend door de dierenarts en diens originele factuur"
+          },
+          {
+            "type": "id",
+            "label": "Een kopie van je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs dat de kat van jou is (identificatie van de chip)"
+          }
+        ],
+        "steps": [
+          "Download het reglement en formulier op anderlues.be of vraag ze bij de Service Financier van de gemeente",
+          "Voeg het attest en de factuur van de dierenarts, de kopie van je identiteitskaart en het chipbewijs toe",
+          "Stuur het naar de Administration communale, Place Albert 1er 21, 6150 Anderlues"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour la stérilisation des chats domestiques (Anderlues)",
+        "desc": "Anderlues verse 20 € pour un chat mâle et 30 € pour un chat femelle stérilisé par un vétérinaire ; une prime par an par ménage.",
+        "deadline": "Dans les deux mois à compter de l'opération.",
+        "amount": "20 € (mâle) ou 30 € (femelle)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation de soins signée par le vétérinaire et sa facture originale"
+          },
+          {
+            "type": "id",
+            "label": "Une copie de votre carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve que le chat vous appartient (identification de la puce)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le règlement et le formulaire sur anderlues.be ou demandez-les au Service Financier de la commune",
+          "Joignez l'attestation et la facture du vétérinaire, la copie de votre carte d'identité et la preuve de la puce",
+          "Envoyez le tout à l'Administration communale, Place Albert 1er 21, 6150 Anderlues"
+        ]
+      },
+      "de": {
+        "title": "Prime pour la stérilisation des chats domestiques (Prämie für die Sterilisation von Hauskatzen, Anderlues)",
+        "desc": "Anderlues zahlt 20 € für einen Kater und 30 € für eine Katze, die ein Tierarzt sterilisiert hat; eine Prämie pro Jahr und Haushalt.",
+        "deadline": "Innerhalb von zwei Monaten nach der Operation.",
+        "amount": "20 € (Kater) oder 30 € (Katze)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die vom Tierarzt unterzeichnete Behandlungsbescheinigung und seine Originalrechnung"
+          },
+          {
+            "type": "id",
+            "label": "Eine Kopie Ihres Personalausweises"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis, dass die Katze Ihnen gehört (Chip-Identifikation)"
+          }
+        ],
+        "steps": [
+          "Laden Sie Regelung und Formular auf anderlues.be herunter oder fragen Sie beim Service Financier der Gemeinde",
+          "Fügen Sie Bescheinigung und Rechnung des Tierarztes, die Ausweiskopie und den Chip-Nachweis bei",
+          "Senden Sie alles an die Administration communale, Place Albert 1er 21, 6150 Anderlues"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.anderlues.be/ma-commune/bien-etre-animal/primes-communales/prime-pour-la-sterilisation-des-chats-domestiques/reglement-et-formulaire-prime-adoption.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Your household is domiciled in Anderlues; at most one premium per year and per household.",
+          "The cat belongs to you, and the vet is a member of the Belgian Order of Veterinarians.",
+          "Within the available budget: first come, first served."
+        ],
+        "nl": [
+          "Je gezin is gedomicilieerd in Anderlues; maximaal één premie per jaar en per gezin.",
+          "De kat is van jou en de dierenarts is lid van de Belgische Orde der Dierenartsen.",
+          "Binnen het beschikbare budget: wie eerst komt, eerst maalt."
+        ],
+        "fr": [
+          "Votre ménage est domicilié à Anderlues ; une prime au maximum par année et par ménage.",
+          "Le chat vous appartient et le vétérinaire est membre de l'Ordre des médecins vétérinaires de Belgique.",
+          "Dans la limite du budget disponible : premier demandeur, premier servi."
+        ],
+        "de": [
+          "Ihr Haushalt hat seinen Wohnsitz in Anderlues; höchstens eine Prämie pro Jahr und Haushalt.",
+          "Die Katze gehört Ihnen, und der Tierarzt ist Mitglied der belgischen Tierärztekammer.",
+          "Im Rahmen des verfügbaren Budgets: Wer zuerst kommt, wird zuerst bedient."
+        ]
+      }
+    }
+  },
+  {
+    "id": 385,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "34002"
+    ],
+    "institution": "Gemeente Anzegem",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.anzegem.be/zorgtoelage",
+    "content": {
+      "en": {
+        "title": "Zorgtoelage en Zorgtoelage+ (Care Allowance, Anzegem)",
+        "desc": "Anzegem pays residents with a valid care or disability certificate €70, €140 or €250 a year, or €300 if they live at home with at least 12 points and increased reimbursement. The 2026 allowance covers your 2025 situation.",
+        "deadline": "The commune's page gives 1 December 2026 as the last date; its 2026 folder says before 1 October 2026, so check with the Sociaal Huis.",
+        "amount": "€70, €140 or €250 a year by certificate; €300 with Zorgtoelage+",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The signed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Your certificate (RIZIV, FPS Social Security or care supplement for children)"
+          },
+          {
+            "type": "doc",
+            "label": "For Zorgtoelage+: proof from your health fund of increased reimbursement on 1 January 2026"
+          }
+        ],
+        "steps": [
+          "If the commune knows you, you receive a form in June: complete, sign and return it",
+          "Otherwise make an appointment on 056 78 26 23 or anzegem.be/afspraak and bring the form and your certificate to the Sociaal Huis",
+          "Payment follows in December 2026; a certificate that started during 2025 gives a proportional part"
+        ]
+      },
+      "nl": {
+        "title": "Zorgtoelage en Zorgtoelage+ (Anzegem)",
+        "desc": "Anzegem betaalt inwoners met een geldig zorg- of handicapattest €70, €140 of €250 per jaar, of €300 wie thuis woont met minstens 12 punten en verhoogde tegemoetkoming. De toelage 2026 slaat op de situatie van 2025.",
+        "deadline": "De pagina van de gemeente vermeldt 1 december 2026 als uiterste datum; de folder 2026 zegt vóór 1 oktober 2026, dus vraag het na bij het Sociaal Huis.",
+        "amount": "€70, €140 of €250 per jaar volgens attest; €300 met zorgtoelage+",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ondertekende aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Je attest (RIZIV, FOD Sociale Zekerheid of zorgtoeslag voor kinderen)"
+          },
+          {
+            "type": "doc",
+            "label": "Voor zorgtoelage+: bewijs van je ziekenfonds van verhoogde tegemoetkoming op 1 januari 2026"
+          }
+        ],
+        "steps": [
+          "Ben je gekend, dan krijg je in juni een formulier: vul het in, onderteken het en bezorg het terug",
+          "Anders maak je een afspraak op 056 78 26 23 of anzegem.be/afspraak en breng je formulier en attest mee naar het Sociaal Huis",
+          "De uitbetaling volgt in december 2026; een attest dat in de loop van 2025 startte geeft recht op een evenredig deel"
+        ]
+      },
+      "fr": {
+        "title": "Zorgtoelage en Zorgtoelage+ (allocation de soins, Anzegem)",
+        "desc": "Anzegem verse aux habitants ayant une attestation valable de soins ou de handicap 70 €, 140 € ou 250 € par an, ou 300 € s'ils vivent à domicile avec au moins 12 points et l'intervention majorée. L'allocation 2026 porte sur la situation de 2025.",
+        "deadline": "La page de la commune indique le 1er décembre 2026 comme date limite ; son dépliant 2026 dit avant le 1er octobre 2026 : renseignez-vous auprès du Sociaal Huis.",
+        "amount": "70 €, 140 € ou 250 € par an selon l'attestation ; 300 € avec la zorgtoelage+",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande signé"
+          },
+          {
+            "type": "doc",
+            "label": "Votre attestation (INAMI, SPF Sécurité sociale ou supplément de soins pour enfants)"
+          },
+          {
+            "type": "doc",
+            "label": "Pour la zorgtoelage+ : preuve de votre mutualité de l'intervention majorée au 1er janvier 2026"
+          }
+        ],
+        "steps": [
+          "Si la commune vous connaît, vous recevez un formulaire en juin : complétez-le, signez-le et renvoyez-le",
+          "Sinon, prenez rendez-vous au 056 78 26 23 ou sur anzegem.be/afspraak et apportez le formulaire et l'attestation au Sociaal Huis",
+          "Le paiement suit en décembre 2026 ; une attestation débutant en cours de 2025 donne droit à une part proportionnelle"
+        ]
+      },
+      "de": {
+        "title": "Zorgtoelage en Zorgtoelage+ (Pflegezulage, Anzegem)",
+        "desc": "Anzegem zahlt Einwohnern mit gültiger Pflege- oder Behinderungsbescheinigung 70 €, 140 € oder 250 € pro Jahr, oder 300 €, wenn sie zu Hause wohnen und mindestens 12 Punkte sowie die erhöhte Kostenerstattung haben. Die Zulage 2026 betrifft die Situation von 2025.",
+        "deadline": "Die Seite der Gemeinde nennt den 1. Dezember 2026 als letzten Termin; das Faltblatt 2026 sagt vor dem 1. Oktober 2026, fragen Sie daher beim Sociaal Huis nach.",
+        "amount": "70 €, 140 € oder 250 € pro Jahr je nach Bescheinigung; 300 € mit der Zorgtoelage+",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das unterschriebene Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ihre Bescheinigung (LIKIV, FÖD Soziale Sicherheit oder Pflegezuschlag für Kinder)"
+          },
+          {
+            "type": "doc",
+            "label": "Für die Zorgtoelage+: Nachweis Ihrer Krankenkasse über die erhöhte Kostenerstattung am 1. Januar 2026"
+          }
+        ],
+        "steps": [
+          "Wenn die Gemeinde Sie kennt, erhalten Sie im Juni ein Formular: ausfüllen, unterschreiben und zurücksenden",
+          "Sonst vereinbaren Sie einen Termin unter 056 78 26 23 oder auf anzegem.be/afspraak und bringen Formular und Bescheinigung zum Sociaal Huis",
+          "Die Zahlung folgt im Dezember 2026; eine im Laufe von 2025 beginnende Bescheinigung gibt Anspruch auf einen anteiligen Betrag"
+        ]
+      }
+    },
+    "amount_source_url": "https://www.anzegem.be/media/32664/download?inline",
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.anzegem.be/zorgtoelage",
+        "https://www.anzegem.be/zorgtoelageplus",
+        "https://www.anzegem.be/media/32664/download?inline"
+      ],
+      "conditions": {
+        "en": [
+          "Domiciled in Anzegem on 1 January 2026, with a certificate that started before 1 January 2026.",
+          "Living permanently at home; anyone staying permanently in a residential institution can only get category 1 (€70).",
+          "Zorgtoelage+ (€300): at home, increased reimbursement on 1 January 2026, and a certificate of at least 12 points (FPS Social Security self-reliance, or care supplement for children across the 3 pillars).",
+          "Only one allowance per person; the two cannot be combined for the same period."
+        ],
+        "nl": [
+          "Gedomicilieerd in Anzegem op 1 januari 2026, met een attest dat startte vóór 1 januari 2026.",
+          "Permanent thuis verblijven; wie vast in een residentiële instelling verblijft, kan enkel categorie 1 (€70) krijgen.",
+          "Zorgtoelage+ (€300): thuis wonen, verhoogde tegemoetkoming op 1 januari 2026 en een attest van minstens 12 punten (zelfredzaamheid FOD Sociale Zekerheid, of zorgtoeslag voor kinderen in de 3 pijlers samen).",
+          "Maar één toelage per persoon; beide zijn niet cumuleerbaar voor dezelfde periode."
+        ],
+        "fr": [
+          "Domicilié à Anzegem au 1er janvier 2026, avec une attestation ayant débuté avant le 1er janvier 2026.",
+          "Vivre en permanence à domicile ; une personne résidant de façon permanente en institution ne peut obtenir que la catégorie 1 (70 €).",
+          "Zorgtoelage+ (300 €) : à domicile, intervention majorée au 1er janvier 2026 et attestation d'au moins 12 points (autonomie SPF Sécurité sociale, ou supplément de soins pour enfants sur les 3 piliers).",
+          "Une seule allocation par personne ; les deux ne sont pas cumulables pour la même période."
+        ],
+        "de": [
+          "Wohnsitz in Anzegem am 1. Januar 2026, mit einer Bescheinigung, die vor dem 1. Januar 2026 begann.",
+          "Dauerhaft zu Hause wohnen; wer dauerhaft in einer Einrichtung lebt, kann nur Kategorie 1 (70 €) erhalten.",
+          "Zorgtoelage+ (300 €): zu Hause wohnen, erhöhte Kostenerstattung am 1. Januar 2026 und eine Bescheinigung von mindestens 12 Punkten (Selbstständigkeit FÖD Soziale Sicherheit oder Pflegezuschlag für Kinder in den 3 Säulen).",
+          "Nur eine Zulage pro Person; beide sind für denselben Zeitraum nicht kumulierbar."
+        ]
+      }
+    }
+  },
+  {
+    "id": 386,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "34002"
+    ],
+    "institution": "Gemeente Anzegem",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.anzegem.be/tegemoetkomingafvalmedischereden",
+    "content": {
+      "en": {
+        "title": "Tegemoetkoming in de afvalkosten om medische redenen (Medical Waste-Cost Allowance, Anzegem)",
+        "desc": "Anzegem credits €50 a year to the IMOG waste account of financially vulnerable residents whose medical condition produces more waste than average.",
+        "deadline": "Apply every year; the page gives no closing date.",
+        "amount": "€50 a year, credited to your IMOG account",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate of increased reimbursement from your health fund, no older than 3 months"
+          },
+          {
+            "type": "doc",
+            "label": "Chronic incontinence: the health fund's incontinence lump-sum certificate; other conditions: a doctor's statement on the form"
+          }
+        ],
+        "steps": [
+          "Apply online on anzegem.be or with the paper form",
+          "Add your certificates",
+          "Or call the Sociaal Huis on 056 78 26 23 for an appointment"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming in de afvalkosten om medische redenen (Anzegem)",
+        "desc": "Anzegem stort jaarlijks €50 op de IMOG-provisierekening van financieel kwetsbare inwoners met een medische situatie die meer afval geeft dan gemiddeld.",
+        "deadline": "Elk jaar aanvragen; de pagina geeft geen einddatum.",
+        "amount": "€50 per jaar, gestort op je IMOG-rekening",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest verhoogde tegemoetkoming van je ziekenfonds, niet ouder dan 3 maanden"
+          },
+          {
+            "type": "doc",
+            "label": "Chronische incontinentie: attest chronisch incontinentieforfait van het ziekenfonds; andere situaties: verklaring van de arts op het formulier"
+          }
+        ],
+        "steps": [
+          "Vraag online aan op anzegem.be of met het papieren formulier",
+          "Voeg je attesten toe",
+          "Of bel het Sociaal Huis op 056 78 26 23 voor een afspraak"
+        ]
+      },
+      "fr": {
+        "title": "Tegemoetkoming in de afvalkosten om medische redenen (intervention dans les frais de déchets pour raisons médicales, Anzegem)",
+        "desc": "Anzegem verse chaque année 50 € sur le compte IMOG des habitants financièrement vulnérables dont l'état médical produit plus de déchets que la moyenne.",
+        "deadline": "À demander chaque année ; la page n'indique pas de date limite.",
+        "amount": "50 € par an, versés sur votre compte IMOG",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation d'intervention majorée de votre mutualité, datant de moins de 3 mois"
+          },
+          {
+            "type": "doc",
+            "label": "Incontinence chronique : attestation du forfait incontinence de la mutualité ; autres situations : déclaration du médecin sur le formulaire"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne sur anzegem.be ou avec le formulaire papier",
+          "Joignez vos attestations",
+          "Ou appelez le Sociaal Huis au 056 78 26 23 pour un rendez-vous"
+        ]
+      },
+      "de": {
+        "title": "Tegemoetkoming in de afvalkosten om medische redenen (Abfallkostenzuschuss aus medizinischen Gründen, Anzegem)",
+        "desc": "Anzegem überweist jährlich 50 € auf das IMOG-Abfallkonto finanziell schwacher Einwohner, deren medizinische Situation mehr Abfall als üblich verursacht.",
+        "deadline": "Jedes Jahr zu beantragen; die Seite nennt keinen Schlusstermin.",
+        "amount": "50 € pro Jahr, auf Ihr IMOG-Konto überwiesen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung der erhöhten Kostenerstattung Ihrer Krankenkasse, nicht älter als 3 Monate"
+          },
+          {
+            "type": "doc",
+            "label": "Chronische Inkontinenz: Bescheinigung der Inkontinenzpauschale der Krankenkasse; andere Fälle: ärztliche Erklärung auf dem Formular"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online auf anzegem.be oder mit dem Papierformular",
+          "Fügen Sie Ihre Bescheinigungen bei",
+          "Oder rufen Sie das Sociaal Huis unter 056 78 26 23 für einen Termin an"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.anzegem.be/tegemoetkomingafvalmedischereden"
+      ],
+      "conditions": {
+        "en": [
+          "Domiciled in Anzegem on 1 January of the application year and living at home, not in a residential facility.",
+          "You have the right to increased reimbursement.",
+          "Chronic incontinence, a stoma, or home treatment with kidney dialysis, tube feeding, peritoneal dialysis or chemotherapy; to be proven every year."
+        ],
+        "nl": [
+          "Gedomicilieerd in Anzegem op 1 januari van het aanvraagjaar en thuis verblijven, niet in een residentiële voorziening.",
+          "Je hebt recht op verhoogde tegemoetkoming.",
+          "Chronische incontinentie, stoma, of thuisbehandeling met nierdialyse, sondevoeding, buikvliesspoeling of chemotherapie; jaarlijks aan te tonen."
+        ],
+        "fr": [
+          "Domicilié à Anzegem au 1er janvier de l'année de la demande et vivant à domicile, pas en établissement résidentiel.",
+          "Vous avez droit à l'intervention majorée.",
+          "Incontinence chronique, stomie, ou traitement à domicile par dialyse rénale, sonde alimentaire, dialyse péritonéale ou chimiothérapie ; à prouver chaque année."
+        ],
+        "de": [
+          "Wohnsitz in Anzegem am 1. Januar des Antragsjahres und zu Hause wohnen, nicht in einer Einrichtung.",
+          "Sie haben Anspruch auf die erhöhte Kostenerstattung.",
+          "Chronische Inkontinenz, Stoma oder häusliche Behandlung mit Nierendialyse, Sondenernährung, Bauchfelldialyse oder Chemotherapie; jährlich nachzuweisen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 387,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "37020"
+    ],
+    "institution": "OCMW Ardooie",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://ardooie.be/leven/sociaalhuis-ocmw/premies/mantelzorgtoelage-2",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage (Carer Allowance, Ardooie)",
+        "desc": "OCMW Ardooie pays €60 a month to the carer of a resident aged 21 or over who needs lasting help at home.",
+        "deadline": "No deadline; paid from the month after the application.",
+        "amount": "€60 a month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, signed by the person cared for and the carer"
+          },
+          {
+            "type": "doc",
+            "label": "A BelRAI screener result in care category 4 or 5 (for running files, the FPS Social Security general certificate also counts)"
+          }
+        ],
+        "steps": [
+          "Download the form on ardooie.be (Sociaal Huis > Aanvraagformulieren)",
+          "The person cared for applies at OCMW Ardooie, with the carer co-signing",
+          "A social inquiry follows, with a decision within a month; payment comes each quarter to the carer"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage (Ardooie)",
+        "desc": "OCMW Ardooie betaalt €60 per maand aan de mantelzorger van een inwoner van 21 jaar of ouder die thuis blijvende hulp nodig heeft.",
+        "deadline": "Geen termijn; uitbetaald vanaf de maand na de aanvraag.",
+        "amount": "€60 per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ondertekend door de zorgbehoevende en de mantelzorger"
+          },
+          {
+            "type": "doc",
+            "label": "Een BelRAI-screener in zorgcategorie 4 of 5 (voor lopende dossiers geldt ook het algemeen attest van de FOD Sociale Zekerheid)"
+          }
+        ],
+        "steps": [
+          "Download het formulier op ardooie.be (Sociaal Huis > Aanvraagformulieren)",
+          "De zorgbehoevende vraagt aan bij het OCMW Ardooie, met medeondertekening van de mantelzorger",
+          "Er volgt een sociaal onderzoek, met een beslissing binnen de maand; de uitbetaling gebeurt per kwartaal aan de mantelzorger"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage (allocation aidant proche, Ardooie)",
+        "desc": "L'OCMW d'Ardooie verse 60 € par mois à l'aidant d'un habitant de 21 ans ou plus qui a besoin d'une aide durable à domicile.",
+        "deadline": "Pas de délai ; versée à partir du mois suivant la demande.",
+        "amount": "60 € par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, signé par la personne aidée et l'aidant"
+          },
+          {
+            "type": "doc",
+            "label": "Un screener BelRAI en catégorie de soins 4 ou 5 (pour les dossiers en cours, l'attestation générale du SPF Sécurité sociale vaut aussi)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur ardooie.be (Sociaal Huis > Aanvraagformulieren)",
+          "La personne aidée introduit la demande à l'OCMW d'Ardooie, cosignée par l'aidant",
+          "Une enquête sociale suit, avec une décision dans le mois ; le paiement se fait chaque trimestre à l'aidant"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage (Zulage für pflegende Angehörige, Ardooie)",
+        "desc": "Das OCMW Ardooie zahlt 60 € pro Monat an die Pflegeperson eines Einwohners ab 21 Jahren, der zu Hause dauerhaft Hilfe braucht.",
+        "deadline": "Keine Frist; Zahlung ab dem Monat nach dem Antrag.",
+        "amount": "60 € pro Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, unterschrieben von der gepflegten Person und der Pflegeperson"
+          },
+          {
+            "type": "doc",
+            "label": "Ein BelRAI-Screener in Pflegekategorie 4 oder 5 (für laufende Dossiers gilt auch die allgemeine Bescheinigung des FÖD Soziale Sicherheit)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf ardooie.be herunter (Sociaal Huis > Aanvraagformulieren)",
+          "Die gepflegte Person stellt den Antrag beim OCMW Ardooie, von der Pflegeperson mitunterzeichnet",
+          "Es folgt eine Sozialuntersuchung mit Entscheidung innerhalb eines Monats; die Zahlung erfolgt vierteljährlich an die Pflegeperson"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://ardooie.be/systems/file_download.ashx?pg=6549&ver=1"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for is at least 21, lives in Ardooie-Koolskamp at home (not permanently in an institution) and scores at least 13 points on the BelRAI screener (care category 4 or 5); new applicants under 65 need at least 14 FPS points.",
+          "The carer is at least 18, lives in Ardooie-Koolskamp (OCMW may allow an exception), really and regularly gives the care, and does not need care themselves.",
+          "One carer per person cared for; a carer can receive it for at most two people; not combined with the day-centre subsidy of the local service centre."
+        ],
+        "nl": [
+          "De zorgbehoevende is minstens 21, woont thuis in Ardooie-Koolskamp (niet definitief in een instelling) en heeft minstens 13 punten op de BelRAI-screener (zorgcategorie 4 of 5); nieuwe aanvragers jonger dan 65 moeten minstens 14 punten FOD scoren.",
+          "De mantelzorger is minstens 18, woont in Ardooie-Koolskamp (uitzondering mogelijk door het BCSD), zorgt daadwerkelijk en regelmatig en is zelf niet zorgbehoevend.",
+          "Eén mantelzorger per zorgbehoevende; een mantelzorger kan ze voor maximaal twee personen krijgen; niet cumuleerbaar met de subsidie dagcentrum in het lokaal dienstencentrum."
+        ],
+        "fr": [
+          "La personne aidée a au moins 21 ans, vit à domicile à Ardooie-Koolskamp (pas définitivement en institution) et a au moins 13 points au screener BelRAI (catégorie 4 ou 5) ; les nouveaux demandeurs de moins de 65 ans doivent obtenir au moins 14 points SPF.",
+          "L'aidant a au moins 18 ans, habite Ardooie-Koolskamp (exception possible par le BCSD), aide réellement et régulièrement et n'a pas lui-même besoin de soins.",
+          "Un aidant par personne aidée ; un aidant peut la recevoir pour deux personnes au maximum ; non cumulable avec le subside du centre de jour du centre de services local."
+        ],
+        "de": [
+          "Die gepflegte Person ist mindestens 21, wohnt zu Hause in Ardooie-Koolskamp (nicht dauerhaft in einer Einrichtung) und hat mindestens 13 Punkte im BelRAI-Screener (Pflegekategorie 4 oder 5); neue Antragsteller unter 65 brauchen mindestens 14 FÖD-Punkte.",
+          "Die Pflegeperson ist mindestens 18, wohnt in Ardooie-Koolskamp (Ausnahme durch das BCSD möglich), pflegt tatsächlich und regelmäßig und ist selbst nicht pflegebedürftig.",
+          "Eine Pflegeperson pro gepflegter Person; eine Pflegeperson kann die Zulage für höchstens zwei Personen erhalten; nicht kumulierbar mit dem Tageszentrum-Zuschuss des lokalen Dienstleistungszentrums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 388,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "37020"
+    ],
+    "institution": "OCMW Ardooie",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://ardooie.be/leven/sociaalhuis-ocmw/premies/mantelzorgtoelage",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage voor kinderen met een beperking (Carer Allowance for Children with a Disability, Ardooie)",
+        "desc": "OCMW Ardooie pays €250 a year to the carer of a child under 21 with a disability who lives at home.",
+        "deadline": "Every year, by 31 December of the year you apply for; paid the following January.",
+        "amount": "€250 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate of at least 66% disability, or of increased child benefit with at least 6 points over the 3 pillars or 4 in the first pillar"
+          }
+        ],
+        "steps": [
+          "Download the form on ardooie.be (Sociaal Huis > Aanvraagformulieren)",
+          "Hand it in at the Sociaal Huis in Ardooie by 31 December",
+          "A social inquiry follows; if conditions are not met you are told in writing"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage voor kinderen met een beperking (Ardooie)",
+        "desc": "OCMW Ardooie betaalt €250 per jaar aan de mantelzorger van een kind jonger dan 21 met een beperking dat thuis woont.",
+        "deadline": "Elk jaar, uiterlijk op 31 december van het jaar waarvoor je aanvraagt; uitbetaald in januari erna.",
+        "amount": "€250 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van minstens 66% mindervaliditeit, of van verhoogde kinderbijslag met minstens 6 punten over de 3 pijlers of 4 in de eerste pijler"
+          }
+        ],
+        "steps": [
+          "Download het formulier op ardooie.be (Sociaal Huis > Aanvraagformulieren)",
+          "Dien het uiterlijk op 31 december in bij het Sociaal Huis in Ardooie",
+          "Er volgt een sociaal onderzoek; voldoe je niet, dan krijg je dat schriftelijk te horen"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage voor kinderen met een beperking (allocation aidant pour enfant handicapé, Ardooie)",
+        "desc": "L'OCMW d'Ardooie verse 250 € par an à l'aidant d'un enfant de moins de 21 ans en situation de handicap vivant à domicile.",
+        "deadline": "Chaque année, au plus tard le 31 décembre de l'année concernée ; versée en janvier suivant.",
+        "amount": "250 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation d'au moins 66 % d'invalidité, ou d'allocations familiales majorées avec au moins 6 points sur les 3 piliers ou 4 dans le premier pilier"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur ardooie.be (Sociaal Huis > Aanvraagformulieren)",
+          "Remettez-le au Sociaal Huis d'Ardooie au plus tard le 31 décembre",
+          "Une enquête sociale suit ; si les conditions ne sont pas remplies, vous en êtes informé par écrit"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage voor kinderen met een beperking (Pflegezulage für Kinder mit Behinderung, Ardooie)",
+        "desc": "Das OCMW Ardooie zahlt 250 € pro Jahr an die Pflegeperson eines zu Hause lebenden Kindes unter 21 Jahren mit Behinderung.",
+        "deadline": "Jedes Jahr, spätestens am 31. Dezember des betreffenden Jahres; Zahlung im folgenden Januar.",
+        "amount": "250 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung über mindestens 66 % Behinderung oder über erhöhtes Kindergeld mit mindestens 6 Punkten über die 3 Säulen oder 4 in der ersten Säule"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf ardooie.be herunter (Sociaal Huis > Aanvraagformulieren)",
+          "Reichen Sie es bis zum 31. Dezember beim Sociaal Huis in Ardooie ein",
+          "Es folgt eine Sozialuntersuchung; sind die Bedingungen nicht erfüllt, werden Sie schriftlich informiert"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://ardooie.be/systems/file_download.ashx?pg=5578&ver=1"
+      ],
+      "conditions": {
+        "en": [
+          "The child is under 21 on the application date and registered in the population register (bevolkingsregister) of the commune on 1 January and throughout the year.",
+          "The child lives at home, not permanently in an institution (OCMW can make an exception).",
+          "The carer is at least 18, really and regularly cares for the child, and does not need care themselves.",
+          "Not combined with the ordinary carer allowance."
+        ],
+        "nl": [
+          "Het kind is jonger dan 21 op de datum van aanvraag en ingeschreven in het bevolkingsregister van de gemeente op 1 januari en het hele jaar.",
+          "Het kind woont thuis, niet definitief in een instelling (het OCMW kan een afwijking toestaan).",
+          "De mantelzorger is minstens 18, zorgt daadwerkelijk en regelmatig voor het kind en is zelf niet zorgbehoevend.",
+          "Niet cumuleerbaar met de gewone mantelzorgtoelage."
+        ],
+        "fr": [
+          "L'enfant a moins de 21 ans à la date de la demande et est inscrit au registre de la population (bevolkingsregister) de la commune au 1er janvier et toute l'année.",
+          "L'enfant vit à domicile, pas définitivement en institution (l'OCMW peut accorder une dérogation).",
+          "L'aidant a au moins 18 ans, s'occupe réellement et régulièrement de l'enfant et n'a pas lui-même besoin de soins.",
+          "Non cumulable avec l'allocation aidant ordinaire."
+        ],
+        "de": [
+          "Das Kind ist am Antragsdatum unter 21 und am 1. Januar sowie das ganze Jahr im Bevölkerungsregister (bevolkingsregister) der Gemeinde eingetragen.",
+          "Das Kind wohnt zu Hause, nicht dauerhaft in einer Einrichtung (das OCMW kann eine Ausnahme gewähren).",
+          "Die Pflegeperson ist mindestens 18, pflegt das Kind tatsächlich und regelmäßig und ist selbst nicht pflegebedürftig.",
+          "Nicht kumulierbar mit der gewöhnlichen Pflegezulage."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Ardooie's population register (bevolkingsregister).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Ardooie.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population d'Ardooie (bevolkingsregister).",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Ardooie (bevolkingsregister)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 389,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "37020"
+    ],
+    "institution": "OCMW Ardooie",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://ardooie.be/systems/file_download.ashx?pg=5579&ver=1",
+    "content": {
+      "en": {
+        "title": "Vakantietoelage voor zieken en personen met een beperking (Holiday Allowance, Ardooie)",
+        "desc": "OCMW Ardooie pays up to €50 a year towards an adapted holiday of at least 5 days organised by an association for sick people, people with a disability or seniors.",
+        "deadline": "By 31 December of the year you apply for; paid the following January.",
+        "amount": "Up to €50 a year, never more than the real cost",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate: increased child benefit (at least 6 points over the 3 pillars or 4 in the first) or FPS Social Security general certificate (at least 12 points or 80%)"
+          },
+          {
+            "type": "doc",
+            "label": "An invoice or certificate of the stay in your name"
+          }
+        ],
+        "steps": [
+          "Get the form from the Sociaal Huis in Ardooie",
+          "Hand it in with your certificate and invoice by 31 December",
+          "A social inquiry follows; if conditions are not met you are told in writing"
+        ]
+      },
+      "nl": {
+        "title": "Vakantietoelage voor zieken en personen met een beperking (Ardooie)",
+        "desc": "OCMW Ardooie betaalt tot €50 per jaar voor een aangepast vakantieverblijf van minstens 5 dagen, georganiseerd door een vereniging voor zieken, personen met een beperking of senioren.",
+        "deadline": "Uiterlijk op 31 december van het jaar waarvoor je aanvraagt; uitbetaald in januari erna.",
+        "amount": "Tot €50 per jaar, nooit meer dan de werkelijke kostprijs",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest: verhoogde kinderbijslag (minstens 6 punten over de 3 pijlers of 4 in de eerste) of algemeen attest FOD Sociale Zekerheid (minstens 12 punten of 80%)"
+          },
+          {
+            "type": "doc",
+            "label": "Een factuur of attest van het verblijf op jouw naam"
+          }
+        ],
+        "steps": [
+          "Vraag het formulier bij het Sociaal Huis in Ardooie",
+          "Dien het uiterlijk op 31 december in met je attest en factuur",
+          "Er volgt een sociaal onderzoek; voldoe je niet, dan krijg je dat schriftelijk te horen"
+        ]
+      },
+      "fr": {
+        "title": "Vakantietoelage voor zieken en personen met een beperking (allocation de vacances, Ardooie)",
+        "desc": "L'OCMW d'Ardooie verse jusqu'à 50 € par an pour un séjour de vacances adapté d'au moins 5 jours, organisé par une association de malades, de personnes handicapées ou de seniors.",
+        "deadline": "Au plus tard le 31 décembre de l'année concernée ; versée en janvier suivant.",
+        "amount": "Jusqu'à 50 € par an, jamais plus que le coût réel",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation : allocations familiales majorées (au moins 6 points sur les 3 piliers ou 4 dans le premier) ou attestation générale du SPF Sécurité sociale (au moins 12 points ou 80 %)"
+          },
+          {
+            "type": "doc",
+            "label": "Une facture ou attestation du séjour à votre nom"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire au Sociaal Huis d'Ardooie",
+          "Remettez-le avec votre attestation et votre facture au plus tard le 31 décembre",
+          "Une enquête sociale suit ; si les conditions ne sont pas remplies, vous en êtes informé par écrit"
+        ]
+      },
+      "de": {
+        "title": "Vakantietoelage voor zieken en personen met een beperking (Urlaubszulage, Ardooie)",
+        "desc": "Das OCMW Ardooie zahlt bis zu 50 € pro Jahr für einen angepassten Urlaub von mindestens 5 Tagen, organisiert von einem Verein für Kranke, Menschen mit Behinderung oder Senioren.",
+        "deadline": "Spätestens am 31. Dezember des betreffenden Jahres; Zahlung im folgenden Januar.",
+        "amount": "Bis zu 50 € pro Jahr, nie mehr als die tatsächlichen Kosten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung: erhöhtes Kindergeld (mindestens 6 Punkte über die 3 Säulen oder 4 in der ersten) oder allgemeine Bescheinigung des FÖD Soziale Sicherheit (mindestens 12 Punkte oder 80 %)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Rechnung oder Bescheinigung des Aufenthalts auf Ihren Namen"
+          }
+        ],
+        "steps": [
+          "Holen Sie das Formular beim Sociaal Huis in Ardooie",
+          "Reichen Sie es mit Bescheinigung und Rechnung bis zum 31. Dezember ein",
+          "Es folgt eine Sozialuntersuchung; sind die Bedingungen nicht erfüllt, werden Sie schriftlich informiert"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://ardooie.be/systems/file_download.ashx?pg=5579&ver=1"
+      ],
+      "conditions": {
+        "en": [
+          "You are registered in the population register (bevolkingsregister) of the commune on 1 January and throughout the year.",
+          "You live at home, not permanently in an institution or shared living arrangement.",
+          "The stay is at least 5 uninterrupted days, in Belgium or abroad, organised by an association for sick people, people with a disability or seniors."
+        ],
+        "nl": [
+          "Je bent ingeschreven in het bevolkingsregister van de gemeente op 1 januari en het hele jaar.",
+          "Je woont thuis, niet definitief in een instelling of gemeenschappelijke woonvorm.",
+          "Het verblijf duurt minstens 5 ononderbroken dagen, in binnen- of buitenland, georganiseerd door een vereniging voor zieken, personen met een beperking of senioren."
+        ],
+        "fr": [
+          "Vous êtes inscrit au registre de la population (bevolkingsregister) de la commune au 1er janvier et toute l'année.",
+          "Vous vivez à domicile, pas définitivement en institution ou en habitat collectif.",
+          "Le séjour dure au moins 5 jours ininterrompus, en Belgique ou à l'étranger, organisé par une association de malades, de personnes handicapées ou de seniors."
+        ],
+        "de": [
+          "Sie sind am 1. Januar und das ganze Jahr im Bevölkerungsregister (bevolkingsregister) der Gemeinde eingetragen.",
+          "Sie wohnen zu Hause, nicht dauerhaft in einer Einrichtung oder Wohngemeinschaft.",
+          "Der Aufenthalt dauert mindestens 5 ununterbrochene Tage, im In- oder Ausland, organisiert von einem Verein für Kranke, Menschen mit Behinderung oder Senioren."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Ardooie's population register (bevolkingsregister).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Ardooie.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population d'Ardooie (bevolkingsregister).",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Ardooie (bevolkingsregister)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 390,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "61079"
+    ],
+    "institution": "Commune d'Anthisnes",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://anthisnes.be/wp-content/uploads/2025/06/Reglement-primes-communales-Habitation-1-07-25.pdf",
+    "content": {
+      "en": {
+        "title": "Prime à l'amélioration de l'isolation thermique (Home Insulation Top-Up, Anthisnes)",
+        "desc": "Anthisnes adds 10% to the Walloon premium for insulating roof, walls or floors or replacing windows, up to €1,000 per home per year, and pays €200 for an energy audit.",
+        "deadline": "Within four months of the notification that the Walloon premium was granted.",
+        "amount": "10% of the Walloon premium, up to €1,000 per home per year; €200 for an audit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's application form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the acknowledgement that the Walloon Region received the works follow-up report"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the Walloon premium decision showing its purpose and amount"
+          }
+        ],
+        "steps": [
+          "Get the Walloon premium first",
+          "Download the form on anthisnes.be or ask the Primes communales service (04 383 60 75)",
+          "Hand it in against a receipt, or send it to Commune d'Anthisnes, Cour d'Omalius 1, 4160 Anthisnes, or info@anthisnes.be"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'amélioration de l'isolation thermique (isolatiepremie, Anthisnes)",
+        "desc": "Anthisnes legt 10% bovenop de Waalse premie voor isolatie van dak, muren of vloeren of vervanging van ramen, tot €1.000 per woning per jaar, en betaalt €200 voor een energieaudit.",
+        "deadline": "Binnen vier maanden na de kennisgeving dat de Waalse premie is toegekend.",
+        "amount": "10% van de Waalse premie, tot €1.000 per woning per jaar; €200 voor een audit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het ontvangstbewijs van het opvolgingsrapport door het Waals Gewest"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de Waalse toekenning met het doel en bedrag van de premie"
+          }
+        ],
+        "steps": [
+          "Krijg eerst de Waalse premie",
+          "Download het formulier op anthisnes.be of vraag het bij de dienst Primes communales (04 383 60 75)",
+          "Geef het af tegen ontvangstbewijs of stuur het naar Commune d'Anthisnes, Cour d'Omalius 1, 4160 Anthisnes, of info@anthisnes.be"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'amélioration de l'isolation thermique (Anthisnes)",
+        "desc": "Anthisnes ajoute 10 % à la prime wallonne pour isoler toit, murs ou sols ou remplacer les châssis, jusqu'à 1.000 € par habitation et par an, et verse 200 € pour un audit énergétique.",
+        "deadline": "Au plus tard dans les quatre mois suivant la notification d'octroi de la prime wallonne.",
+        "amount": "10 % de la prime wallonne, jusqu'à 1.000 € par habitation et par an ; 200 € pour un audit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de l'accusé de réception du rapport de suivi des travaux par la Région wallonne"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la notification d'octroi de la prime wallonne avec son objet et son montant"
+          }
+        ],
+        "steps": [
+          "Obtenez d'abord la prime wallonne",
+          "Téléchargez le formulaire sur anthisnes.be ou demandez-le au service Primes communales (04 383 60 75)",
+          "Déposez-le contre récépissé ou envoyez-le à la Commune d'Anthisnes, Cour d'Omalius 1, 4160 Anthisnes, ou à info@anthisnes.be"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'amélioration de l'isolation thermique (Dämmprämie, Anthisnes)",
+        "desc": "Anthisnes legt 10 % auf die wallonische Prämie für die Dämmung von Dach, Wänden oder Böden oder den Fensteraustausch drauf, bis zu 1.000 € pro Wohnung und Jahr, und zahlt 200 € für ein Energieaudit.",
+        "deadline": "Innerhalb von vier Monaten nach der Mitteilung über die Gewährung der wallonischen Prämie.",
+        "amount": "10 % der wallonischen Prämie, bis zu 1.000 € pro Wohnung und Jahr; 200 € für ein Audit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Empfangsbestätigung des Arbeitsberichts durch die Wallonische Region"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des wallonischen Bescheids mit Zweck und Betrag der Prämie"
+          }
+        ],
+        "steps": [
+          "Holen Sie sich zuerst die wallonische Prämie",
+          "Laden Sie das Formular auf anthisnes.be herunter oder fragen Sie beim Dienst Primes communales (04 383 60 75)",
+          "Geben Sie es gegen Empfangsbestätigung ab oder senden Sie es an Commune d'Anthisnes, Cour d'Omalius 1, 4160 Anthisnes, oder info@anthisnes.be"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://anthisnes.be/wp-content/uploads/2025/06/Reglement-primes-communales-Habitation-1-07-25.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The home is in Anthisnes, at least 15 years old on the application date and at least 50% legally used as housing; new builds are excluded.",
+          "It received the equivalent Walloon premium for the same work.",
+          "You are at least 18 (or an emancipated minor), hold a real right on the home (owner, co-owner, usufructuary, bare owner) and keep to the Walloon occupancy conditions.",
+          "One application per home per calendar year, and for one property only; within the commune budget, and the premiums together cannot exceed the invoice."
+        ],
+        "nl": [
+          "De woning ligt in Anthisnes, is minstens 15 jaar oud op de datum van de aanvraag en voor minstens 50% wettelijk als woning bestemd; nieuwbouw is uitgesloten.",
+          "Ze kreeg de gelijkwaardige Waalse premie voor hetzelfde werk.",
+          "Je bent minstens 18 (of ontvoogd minderjarig), hebt een zakelijk recht op de woning (eigenaar, mede-eigenaar, vruchtgebruiker, blote eigenaar) en houdt je aan de Waalse bewoningsvoorwaarden.",
+          "Eén aanvraag per woning per kalenderjaar en voor maar één eigendom; binnen het gemeentelijk budget, en de premies samen mogen de factuur niet overschrijden."
+        ],
+        "fr": [
+          "Le logement est situé à Anthisnes, a au moins 15 ans à la date de la demande et est affecté légalement au logement à au moins 50 % ; les constructions neuves sont exclues.",
+          "Il a bénéficié de la prime wallonne équivalente pour le même objet.",
+          "Vous avez au moins 18 ans (ou êtes mineur émancipé), avez un droit réel sur le logement (propriétaire, copropriétaire, usufruitier, nu-propriétaire) et respectez les conditions d'occupation wallonnes.",
+          "Une demande par logement et par année civile, et pour un seul bien ; dans la limite du budget communal, et le cumul des primes ne peut dépasser la facture."
+        ],
+        "de": [
+          "Die Wohnung liegt in Anthisnes, ist am Antragsdatum mindestens 15 Jahre alt und zu mindestens 50 % rechtlich als Wohnung genutzt; Neubauten sind ausgeschlossen.",
+          "Sie hat für dieselbe Arbeit die entsprechende wallonische Prämie erhalten.",
+          "Sie sind mindestens 18 (oder emanzipierter Minderjähriger), haben ein dingliches Recht an der Wohnung (Eigentümer, Miteigentümer, Nießbraucher, bloßer Eigentümer) und halten die wallonischen Wohnbedingungen ein.",
+          "Ein Antrag pro Wohnung und Kalenderjahr und nur für eine Immobilie; im Rahmen des Gemeindebudgets, und die Prämien zusammen dürfen die Rechnung nicht übersteigen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 391,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13001"
+    ],
+    "institution": "Gemeente Arendonk",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://arendonk.be/leven-welzijn/welzijn-gezondheid/welzijn-en-ondersteuning/sociale-uitkeringen-voordelen/mantelzorgpremie-voor-ouderen-en-personen-met-een-handicap",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie voor ouderen en personen met een handicap (Carer Premium for Older and Disabled People, Arendonk)",
+        "desc": "Arendonk pays €40 a month to an older or disabled person who is cared for at home by a carer.",
+        "deadline": "No deadline on the page; paid every month.",
+        "amount": "€40 a month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "An FPS Social Security certificate with at least 12 points on the self-reliance scale"
+          }
+        ],
+        "steps": [
+          "Make an appointment at local service centre Durgebont, Vrijheid 100, 2370 Arendonk (014 40 10 20)",
+          "Together you check whether you qualify and apply",
+          "The premium is paid monthly to the person cared for"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie voor ouderen en personen met een handicap (Arendonk)",
+        "desc": "Arendonk betaalt €40 per maand aan een oudere of persoon met een handicap die thuis verzorgd wordt door een mantelzorger.",
+        "deadline": "Geen termijn op de pagina; maandelijks uitbetaald.",
+        "amount": "€40 per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een attest van de FOD Sociale Zekerheid met minstens 12 punten op de schaal van de zelfredzaamheid"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak bij lokaal dienstencentrum Durgebont, Vrijheid 100, 2370 Arendonk (014 40 10 20)",
+          "Samen bekijk je of je in aanmerking komt en vraag je aan",
+          "De premie wordt maandelijks uitbetaald aan de verzorgde persoon"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie voor ouderen en personen met een handicap (prime aidant pour aînés et personnes handicapées, Arendonk)",
+        "desc": "Arendonk verse 40 € par mois à une personne âgée ou handicapée soignée à domicile par un aidant.",
+        "deadline": "Pas de délai sur la page ; versée chaque mois.",
+        "amount": "40 € par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une attestation du SPF Sécurité sociale avec au moins 12 points sur l'échelle d'autonomie"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous au centre de services local Durgebont, Vrijheid 100, 2370 Arendonk (014 40 10 20)",
+          "Ensemble, vous vérifiez si vous entrez en ligne de compte et faites la demande",
+          "La prime est versée chaque mois à la personne soignée"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie voor ouderen en personen met een handicap (Pflegeprämie für Ältere und Menschen mit Behinderung, Arendonk)",
+        "desc": "Arendonk zahlt 40 € pro Monat an ältere Menschen oder Menschen mit Behinderung, die zu Hause von einer Pflegeperson versorgt werden.",
+        "deadline": "Keine Frist auf der Seite; monatliche Zahlung.",
+        "amount": "40 € pro Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des FÖD Soziale Sicherheit mit mindestens 12 Punkten auf der Selbstständigkeitsskala"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin beim lokalen Dienstleistungszentrum Durgebont, Vrijheid 100, 2370 Arendonk (014 40 10 20)",
+          "Gemeinsam prüfen Sie den Anspruch und stellen den Antrag",
+          "Die Prämie wird monatlich an die gepflegte Person gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://arendonk.be/leven-welzijn/welzijn-gezondheid/welzijn-en-ondersteuning/sociale-uitkeringen-voordelen/mantelzorgpremie-voor-ouderen-en-personen-met-een-handicap"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for is 65 or older, or 18 or older with a disability.",
+          "They have lived in Arendonk for at least 1 year and are cared for at home, not admitted to a hospital, care home or care institution.",
+          "They hold an FPS Social Security certificate with at least 12 points on the self-reliance scale."
+        ],
+        "nl": [
+          "De verzorgde persoon is 65 of ouder, of 18 of ouder met een handicap.",
+          "Hij of zij woont minstens 1 jaar in Arendonk en wordt thuis verzorgd, niet opgenomen in een ziekenhuis, woonzorgcentrum of verzorgingsinstelling.",
+          "Hij of zij heeft een attest van de FOD Sociale Zekerheid met minstens 12 punten op de schaal van de zelfredzaamheid."
+        ],
+        "fr": [
+          "La personne soignée a 65 ans ou plus, ou 18 ans ou plus avec un handicap.",
+          "Elle habite Arendonk depuis au moins 1 an et est soignée à domicile, sans être admise à l'hôpital, en maison de repos ou en institution de soins.",
+          "Elle dispose d'une attestation du SPF Sécurité sociale avec au moins 12 points sur l'échelle d'autonomie."
+        ],
+        "de": [
+          "Die gepflegte Person ist 65 oder älter, oder 18 oder älter mit Behinderung.",
+          "Sie wohnt seit mindestens 1 Jahr in Arendonk und wird zu Hause gepflegt, nicht in einem Krankenhaus, Pflegeheim oder einer Pflegeeinrichtung.",
+          "Sie hat eine Bescheinigung des FÖD Soziale Sicherheit mit mindestens 12 Punkten auf der Selbstständigkeitsskala."
+        ]
+      }
+    }
+  },
+  {
+    "id": 392,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13001"
+    ],
+    "institution": "Gemeente Arendonk",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://arendonk.be/leven-welzijn/welzijn-gezondheid/welzijn-en-ondersteuning/sociale-uitkeringen-voordelen/mantelzorgpremie-voor-kinderen-met-een-handicap",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie voor kinderen met een handicap (Carer Premium for Children with a Disability, Arendonk)",
+        "desc": "Arendonk pays parents €40 a month when they care for and raise a child with a disability at home.",
+        "deadline": "No deadline on the page; paid every month.",
+        "amount": "€40 a month per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A certificate from the FPS Social Security or Opgroeien showing the disability or points"
+          }
+        ],
+        "steps": [
+          "Make an appointment at local service centre Durgebont, Vrijheid 100, 2370 Arendonk (014 40 10 20)",
+          "Together you check whether you qualify and apply",
+          "The premium is paid monthly to the child's parents"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie voor kinderen met een handicap (Arendonk)",
+        "desc": "Arendonk betaalt ouders €40 per maand wanneer ze thuis zorgen voor de verzorging en opvoeding van een kind met een handicap.",
+        "deadline": "Geen termijn op de pagina; maandelijks uitbetaald.",
+        "amount": "€40 per maand per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een attest van de FOD Sociale Zekerheid of Opgroeien met de beperking of punten"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak bij lokaal dienstencentrum Durgebont, Vrijheid 100, 2370 Arendonk (014 40 10 20)",
+          "Samen bekijk je of je in aanmerking komt en vraag je aan",
+          "De premie wordt maandelijks uitbetaald aan de ouders van het kind"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie voor kinderen met een handicap (prime aidant pour enfant handicapé, Arendonk)",
+        "desc": "Arendonk verse aux parents 40 € par mois lorsqu'ils soignent et élèvent à domicile un enfant handicapé.",
+        "deadline": "Pas de délai sur la page ; versée chaque mois.",
+        "amount": "40 € par mois par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une attestation du SPF Sécurité sociale ou d'Opgroeien indiquant le handicap ou les points"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous au centre de services local Durgebont, Vrijheid 100, 2370 Arendonk (014 40 10 20)",
+          "Ensemble, vous vérifiez si vous entrez en ligne de compte et faites la demande",
+          "La prime est versée chaque mois aux parents de l'enfant"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie voor kinderen met een handicap (Pflegeprämie für Kinder mit Behinderung, Arendonk)",
+        "desc": "Arendonk zahlt Eltern 40 € pro Monat, wenn sie ein Kind mit Behinderung zu Hause pflegen und erziehen.",
+        "deadline": "Keine Frist auf der Seite; monatliche Zahlung.",
+        "amount": "40 € pro Monat je Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des FÖD Soziale Sicherheit oder von Opgroeien über die Behinderung oder Punkte"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin beim lokalen Dienstleistungszentrum Durgebont, Vrijheid 100, 2370 Arendonk (014 40 10 20)",
+          "Gemeinsam prüfen Sie den Anspruch und stellen den Antrag",
+          "Die Prämie wird monatlich an die Eltern des Kindes gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://arendonk.be/leven-welzijn/welzijn-gezondheid/welzijn-en-ondersteuning/sociale-uitkeringen-voordelen/mantelzorgpremie-voor-kinderen-met-een-handicap"
+      ],
+      "conditions": {
+        "en": [
+          "The child is under 21 and has lived in Arendonk for at least 1 year.",
+          "The child is cared for at home, not admitted to a hospital or care institution.",
+          "A certificate from the FPS Social Security or Opgroeien shows a disability of at least 66%, or at least 4 points in pillar 1, or a total of at least 6 points (pillar 3 counts double)."
+        ],
+        "nl": [
+          "Het kind is jonger dan 21 en woont minstens 1 jaar in Arendonk.",
+          "Het kind wordt thuis verzorgd, niet opgenomen in een ziekenhuis of verzorgingsinstelling.",
+          "Een attest van de FOD Sociale Zekerheid of Opgroeien toont een beperking van minstens 66%, of minstens 4 punten in pijler 1, of een totaal van minstens 6 punten (pijler 3 telt dubbel)."
+        ],
+        "fr": [
+          "L'enfant a moins de 21 ans et habite Arendonk depuis au moins 1 an.",
+          "L'enfant est soigné à domicile, sans être admis à l'hôpital ou en institution de soins.",
+          "Une attestation du SPF Sécurité sociale ou d'Opgroeien indique un handicap d'au moins 66 %, ou au moins 4 points dans le pilier 1, ou un total d'au moins 6 points (le pilier 3 compte double)."
+        ],
+        "de": [
+          "Das Kind ist unter 21 und wohnt seit mindestens 1 Jahr in Arendonk.",
+          "Das Kind wird zu Hause gepflegt, nicht in einem Krankenhaus oder einer Pflegeeinrichtung.",
+          "Eine Bescheinigung des FÖD Soziale Sicherheit oder von Opgroeien zeigt eine Behinderung von mindestens 66 %, oder mindestens 4 Punkte in Säule 1, oder insgesamt mindestens 6 Punkte (Säule 3 zählt doppelt)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 393,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13001"
+    ],
+    "institution": "Gemeente Arendonk",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://arendonk.be/wonen-omgeving/milieu-klimaat-en-duurzaamheid/afval/diftar",
+    "content": {
+      "en": {
+        "title": "Toelage Diftar omwille van medische redenen (Medical Waste Allowance, Arendonk)",
+        "desc": "Arendonk gives €45 a year to people who produce more waste for medical reasons; once granted it is renewed automatically while you live in Arendonk.",
+        "deadline": "No deadline on the page; apply once.",
+        "amount": "€45 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form with the medical certificate completed by a doctor"
+          }
+        ],
+        "steps": [
+          "Download the form on arendonk.be (e-loket)",
+          "Have a doctor complete the medical certificate on it",
+          "Hand it in at the town hall reception or e-mail it to info@arendonk.be"
+        ]
+      },
+      "nl": {
+        "title": "Toelage Diftar omwille van medische redenen (Arendonk)",
+        "desc": "Arendonk geeft €45 per jaar aan wie om medische redenen meer afval produceert; eens toegekend wordt ze automatisch verlengd zolang je in Arendonk woont.",
+        "deadline": "Geen termijn op de pagina; één keer aanvragen.",
+        "amount": "€45 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier met het medisch attest ingevuld door een arts"
+          }
+        ],
+        "steps": [
+          "Download het formulier op arendonk.be (e-loket)",
+          "Laat een arts het medisch attest erop invullen",
+          "Bezorg het aan het onthaal van het gemeentehuis of mail het naar info@arendonk.be"
+        ]
+      },
+      "fr": {
+        "title": "Toelage Diftar omwille van medische redenen (allocation déchets pour raisons médicales, Arendonk)",
+        "desc": "Arendonk accorde 45 € par an aux personnes produisant plus de déchets pour raisons médicales ; une fois accordée, l'allocation est renouvelée automatiquement tant que vous habitez Arendonk.",
+        "deadline": "Pas de délai sur la page ; à demander une fois.",
+        "amount": "45 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande avec le certificat médical rempli par un médecin"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur arendonk.be (e-loket)",
+          "Faites remplir le certificat médical par un médecin",
+          "Remettez-le à l'accueil de la maison communale ou envoyez-le à info@arendonk.be"
+        ]
+      },
+      "de": {
+        "title": "Toelage Diftar omwille van medische redenen (Abfallzulage aus medizinischen Gründen, Arendonk)",
+        "desc": "Arendonk gewährt 45 € pro Jahr an Personen, die aus medizinischen Gründen mehr Abfall erzeugen; einmal gewährt, wird die Zulage automatisch verlängert, solange Sie in Arendonk wohnen.",
+        "deadline": "Keine Frist auf der Seite; einmal zu beantragen.",
+        "amount": "45 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular mit dem von einem Arzt ausgefüllten ärztlichen Attest"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf arendonk.be herunter (e-loket)",
+          "Lassen Sie das ärztliche Attest von einem Arzt ausfüllen",
+          "Geben Sie es am Empfang des Gemeindehauses ab oder senden Sie es an info@arendonk.be"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://arendonk.be/wonen-omgeving/milieu-klimaat-en-duurzaamheid/afval/diftar",
+        "https://arendonk.be/e-loket/toelage-diftar-omwille-van-medische-redenen"
+      ],
+      "conditions": {
+        "en": [
+          "A doctor certifies that you produce more waste for medical reasons.",
+          "You live in Arendonk; the yearly renewal checks that you still do."
+        ],
+        "nl": [
+          "Een arts bevestigt dat je om medische redenen meer afval produceert.",
+          "Je woont in Arendonk; bij de jaarlijkse verlenging wordt nagegaan of dat nog zo is."
+        ],
+        "fr": [
+          "Un médecin atteste que vous produisez plus de déchets pour raisons médicales.",
+          "Vous habitez Arendonk ; le renouvellement annuel vérifie que c'est toujours le cas."
+        ],
+        "de": [
+          "Ein Arzt bescheinigt, dass Sie aus medizinischen Gründen mehr Abfall erzeugen.",
+          "Sie wohnen in Arendonk; bei der jährlichen Verlängerung wird dies geprüft."
+        ]
+      }
+    }
+  },
+  {
+    "id": 394,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "57003"
+    ],
+    "institution": "Ville d'Antoing",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.antoing.net/ma-commune/services-communaux/environnement/primes/documents/reglement-communal-prime.pdf",
+    "content": {
+      "en": {
+        "title": "Prime à la réduction de CO2 (CO2 Reduction Premium, Antoing)",
+        "desc": "Antoing pays 20% of the price of a new electric bike, up to €400, or 10% of the price of solar panels or listed energy works, up to €400, for households under €55,000 taxable income.",
+        "deadline": "Within 4 months of buying the bike or of the final invoice for the works.",
+        "amount": "Electric bike: 20%, up to €400; panels or works: 10%, up to €400",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The original signed form for the bike or for the works"
+          },
+          {
+            "type": "doc",
+            "label": "Copies of the invoices"
+          },
+          {
+            "type": "doc",
+            "label": "The tax assessment of the household on the income of the year before last"
+          },
+          {
+            "type": "doc",
+            "label": "For a bike: a photo of the bike and of the police engraving"
+          }
+        ],
+        "steps": [
+          "Download the form on antoing.net (Environnement > Primes)",
+          "For a bike, have it engraved by the police first",
+          "Send the original form and annexes to Centre administratif d'Antoing, Chemin de Saint-Druon 1, 7640 Antoing"
+        ]
+      },
+      "nl": {
+        "title": "Prime à la réduction de CO2 (premie CO2-vermindering, Antoing)",
+        "desc": "Antoing betaalt 20% van de prijs van een nieuwe elektrische fiets, tot €400, of 10% van de prijs van zonnepanelen of energiewerken op de lijst, tot €400, voor gezinnen onder €55.000 belastbaar inkomen.",
+        "deadline": "Binnen 4 maanden na de aankoop van de fiets of de eindfactuur van de werken.",
+        "amount": "Elektrische fiets: 20%, tot €400; panelen of werken: 10%, tot €400",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het originele ondertekende formulier voor de fiets of de werken"
+          },
+          {
+            "type": "doc",
+            "label": "Kopieën van de facturen"
+          },
+          {
+            "type": "doc",
+            "label": "Het aanslagbiljet van het gezin over de inkomsten van het voorlaatste jaar"
+          },
+          {
+            "type": "doc",
+            "label": "Voor een fiets: een foto van de fiets en van de gravure door de politie"
+          }
+        ],
+        "steps": [
+          "Download het formulier op antoing.net (Environnement > Primes)",
+          "Laat een fiets eerst graveren door de politie",
+          "Stuur het originele formulier en de bijlagen naar Centre administratif d'Antoing, Chemin de Saint-Druon 1, 7640 Antoing"
+        ]
+      },
+      "fr": {
+        "title": "Prime à la réduction de CO2 (Antoing)",
+        "desc": "Antoing verse 20 % du prix d'un vélo à assistance électrique neuf, jusqu'à 400 €, ou 10 % du prix de panneaux solaires ou de travaux énergétiques de la liste, jusqu'à 400 €, aux ménages sous 55.000 € de revenus imposables.",
+        "deadline": "Dans les 4 mois suivant l'achat du vélo ou la facture finale des travaux.",
+        "amount": "Vélo électrique : 20 %, jusqu'à 400 € ; panneaux ou travaux : 10 %, jusqu'à 400 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "L'original signé du formulaire pour le vélo ou les travaux"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie des factures"
+          },
+          {
+            "type": "doc",
+            "label": "L'avertissement-extrait de rôle du ménage sur les revenus de l'avant-dernière année"
+          },
+          {
+            "type": "doc",
+            "label": "Pour un vélo : une photo du vélo et de la gravure par la police"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur antoing.net (Environnement > Primes)",
+          "Pour un vélo, faites-le d'abord graver par la police",
+          "Envoyez l'original du formulaire et les annexes au Centre administratif d'Antoing, Chemin de Saint-Druon 1, 7640 Antoing"
+        ]
+      },
+      "de": {
+        "title": "Prime à la réduction de CO2 (Prämie zur CO2-Reduzierung, Antoing)",
+        "desc": "Antoing zahlt 20 % des Preises eines neuen E-Bikes, bis zu 400 €, oder 10 % des Preises von Solarmodulen oder gelisteten Energiearbeiten, bis zu 400 €, für Haushalte unter 55.000 € steuerpflichtigem Einkommen.",
+        "deadline": "Innerhalb von 4 Monaten nach dem Kauf des Fahrrads oder der Schlussrechnung der Arbeiten.",
+        "amount": "E-Bike: 20 %, bis zu 400 €; Module oder Arbeiten: 10 %, bis zu 400 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das unterschriebene Originalformular für das Fahrrad oder die Arbeiten"
+          },
+          {
+            "type": "doc",
+            "label": "Kopien der Rechnungen"
+          },
+          {
+            "type": "doc",
+            "label": "Der Steuerbescheid des Haushalts über die Einkünfte des vorletzten Jahres"
+          },
+          {
+            "type": "doc",
+            "label": "Für ein Fahrrad: ein Foto des Fahrrads und der polizeilichen Gravur"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf antoing.net herunter (Environnement > Primes)",
+          "Lassen Sie ein Fahrrad zuerst von der Polizei gravieren",
+          "Senden Sie das Originalformular und die Anlagen an Centre administratif d'Antoing, Chemin de Saint-Druon 1, 7640 Antoing"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.antoing.net/ma-commune/services-communaux/environnement/primes/documents/reglement-communal-prime.pdf",
+        "https://www.antoing.net/ma-commune/services-communaux/environnement/primes/documents/primes-a-la-reduction-de-co2-panneaux-et-renovation.pdf",
+        "https://www.antoing.net/ma-commune/services-communaux/environnement/primes/documents/primes-a-l2019achat-d2019un-velo-electrique.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Household taxable income below €55,000 overall (income of the year before last).",
+          "You are at least 18 or an emancipated minor; for the bike you are domiciled in Antoing, it is new and engraved by the police, with at most two requests per address in 6 years.",
+          "For panels or works: you hold a real right on the home in Antoing, first occupied over 10 years ago (panels) or over 20 years ago (works); the work is done by a registered contractor and is on the list.",
+          "For panels or works: you live there as main residence for at least 5 years, or let it through a social housing agency for at least 6 years, or lend it free to close family for at least 1 year; 3 years between two requests for one home."
+        ],
+        "nl": [
+          "Belastbaar gezinsinkomen globaal onder €55.000 (inkomsten van het voorlaatste jaar).",
+          "Je bent minstens 18 of ontvoogd minderjarig; voor de fiets ben je gedomicilieerd in Antoing, ze is nieuw en gegraveerd door de politie, met maximaal twee aanvragen per adres in 6 jaar.",
+          "Voor panelen of werken: je hebt een zakelijk recht op de woning in Antoing, voor het eerst bewoond meer dan 10 jaar geleden (panelen) of meer dan 20 jaar geleden (werken); een geregistreerde aannemer voert uit en het werk staat op de lijst.",
+          "Voor panelen of werken: je woont er minstens 5 jaar als hoofdverblijf, of verhuurt via een sociaal verhuurkantoor voor minstens 6 jaar, of leent gratis uit aan naaste familie voor minstens 1 jaar; 3 jaar tussen twee aanvragen voor één woning."
+        ],
+        "fr": [
+          "Revenus imposables du ménage globalement inférieurs à 55.000 € (revenus de l'avant-dernière année).",
+          "Vous avez au moins 18 ans ou êtes mineur émancipé ; pour le vélo, vous êtes domicilié à Antoing, il est neuf et gravé par la police, avec deux demandes maximum par domicile sur 6 ans.",
+          "Pour les panneaux ou travaux : vous avez un droit réel sur le logement à Antoing, occupé pour la première fois il y a plus de 10 ans (panneaux) ou plus de 20 ans (travaux) ; un entrepreneur enregistré réalise des travaux de la liste.",
+          "Pour les panneaux ou travaux : vous y résidez à titre principal au moins 5 ans, ou le confiez à une agence immobilière sociale au moins 6 ans, ou le prêtez gratuitement à un parent proche au moins 1 an ; 3 ans entre deux demandes pour un même logement."
+        ],
+        "de": [
+          "Steuerpflichtiges Haushaltseinkommen insgesamt unter 55.000 € (Einkünfte des vorletzten Jahres).",
+          "Sie sind mindestens 18 oder emanzipierter Minderjähriger; für das Fahrrad haben Sie Ihren Wohnsitz in Antoing, es ist neu und von der Polizei graviert, mit höchstens zwei Anträgen pro Wohnsitz in 6 Jahren.",
+          "Für Module oder Arbeiten: Sie haben ein dingliches Recht an der Wohnung in Antoing, erstmals bezogen vor über 10 Jahren (Module) oder über 20 Jahren (Arbeiten); ein registrierter Unternehmer führt gelistete Arbeiten aus.",
+          "Für Module oder Arbeiten: Sie wohnen dort mindestens 5 Jahre als Hauptwohnsitz, oder vermieten über eine soziale Immobilienagentur mindestens 6 Jahre, oder überlassen sie nahen Verwandten mindestens 1 Jahr kostenlos; 3 Jahre zwischen zwei Anträgen für dieselbe Wohnung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 395,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "57003"
+    ],
+    "institution": "Ville d'Antoing",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.antoing.net/ma-commune/services-communaux/environnement/primes/documents/reglement-communal-prime-composteur.pdf",
+    "content": {
+      "en": {
+        "title": "Prime à l'acquisition d'un système à composter (Compost Bin Premium, Antoing)",
+        "desc": "Antoing pays up to €50, and never more than the price, for a home composting system.",
+        "deadline": "No deadline in the regulation; one premium per household.",
+        "amount": "Up to €50",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A named invoice or receipt, if you did not buy through IPALLE (bin worth at least €40)"
+          }
+        ],
+        "steps": [
+          "Commit to attending an IPALLE information session",
+          "Buy the compost bin and place it within the commune",
+          "Send your request with the invoice to the Ville d'Antoing"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'acquisition d'un système à composter (compostvatpremie, Antoing)",
+        "desc": "Antoing betaalt tot €50, en nooit meer dan de prijs, voor een thuiscompostsysteem.",
+        "deadline": "Geen termijn in het reglement; één premie per gezin.",
+        "amount": "Tot €50",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een factuur op naam of kassaticket, als je niet via IPALLE kocht (compostvat van minstens €40)"
+          }
+        ],
+        "steps": [
+          "Engageer je om een infosessie van IPALLE te volgen",
+          "Koop het compostvat en plaats het op het grondgebied van de gemeente",
+          "Stuur je aanvraag met de factuur naar de Ville d'Antoing"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'acquisition d'un système à composter (Antoing)",
+        "desc": "Antoing verse jusqu'à 50 €, sans dépasser le prix, pour un système de compostage à domicile.",
+        "deadline": "Pas de délai dans le règlement ; une prime par ménage.",
+        "amount": "Jusqu'à 50 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une facture nominative ou un ticket de caisse, en cas d'achat hors IPALLE (compostière d'au moins 40 €)"
+          }
+        ],
+        "steps": [
+          "Engagez-vous à suivre une séance d'information d'IPALLE",
+          "Achetez la compostière et placez-la sur le territoire communal",
+          "Envoyez votre demande avec la facture à la Ville d'Antoing"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'acquisition d'un système à composter (Komposter-Prämie, Antoing)",
+        "desc": "Antoing zahlt bis zu 50 €, nie mehr als den Preis, für ein Heimkompostsystem.",
+        "deadline": "Keine Frist in der Regelung; eine Prämie pro Haushalt.",
+        "amount": "Bis zu 50 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Rechnung auf Ihren Namen oder ein Kassenbon, wenn Sie nicht über IPALLE gekauft haben (Komposter ab 40 €)"
+          }
+        ],
+        "steps": [
+          "Verpflichten Sie sich zur Teilnahme an einer Informationsveranstaltung von IPALLE",
+          "Kaufen Sie den Komposter und stellen Sie ihn auf dem Gemeindegebiet auf",
+          "Senden Sie Ihren Antrag mit der Rechnung an die Ville d'Antoing"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.antoing.net/ma-commune/services-communaux/environnement/primes/documents/reglement-communal-prime-composteur.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in the entity of Antoing.",
+          "You commit to an IPALLE information session, to placing the bin within the commune and to accepting a possible check.",
+          "One premium per household, subject to the yearly budget."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in de entiteit Antoing.",
+          "Je engageert je tot een infosessie van IPALLE, tot plaatsing op het grondgebied van de gemeente en tot een eventuele controle.",
+          "Eén premie per gezin, onder voorbehoud van het jaarbudget."
+        ],
+        "fr": [
+          "Vous êtes domicilié sur l'entité d'Antoing.",
+          "Vous vous engagez à suivre une séance d'information d'IPALLE, à placer la compostière sur le territoire communal et à accepter une éventuelle vérification.",
+          "Une prime par ménage, sous réserve du budget annuel."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in der Gemeinde Antoing.",
+          "Sie verpflichten sich zu einer Informationsveranstaltung von IPALLE, zur Aufstellung auf dem Gemeindegebiet und zu einer möglichen Kontrolle.",
+          "Eine Prämie pro Haushalt, vorbehaltlich des Jahresbudgets."
+        ]
+      }
+    }
+  },
+  {
+    "id": 396,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "71002"
+    ],
+    "institution": "OCMW As",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.as.be/leven-zorgen/welzijn-ocmw/personen-met-een-beperking/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, As)",
+        "desc": "As pays €100 a year to someone who regularly cares, unpaid, for a person in need of care.",
+        "deadline": "Every year before 1 December.",
+        "amount": "€100 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form of the year"
+          },
+          {
+            "type": "doc",
+            "label": "The first time: the FPS Social Security certificate"
+          }
+        ],
+        "steps": [
+          "Download the form on as.be",
+          "Add the FPS Social Security certificate the first time",
+          "Hand it in at the dienst Welzijn, Dorpsstraat 1 bus 1, 3665 As, or welzijn@as.be, before 1 December"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (As)",
+        "desc": "As betaalt €100 per jaar aan wie regelmatig en zonder vergoeding zorgt voor een zorgbehoevende persoon.",
+        "deadline": "Elk jaar vóór 1 december.",
+        "amount": "€100 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van het jaar"
+          },
+          {
+            "type": "doc",
+            "label": "De eerste keer: het attest van de FOD Sociale Zekerheid"
+          }
+        ],
+        "steps": [
+          "Download het formulier op as.be",
+          "Voeg de eerste keer het attest van de FOD Sociale Zekerheid toe",
+          "Dien het vóór 1 december in bij de dienst Welzijn, Dorpsstraat 1 bus 1, 3665 As, of welzijn@as.be"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aidant proche, As)",
+        "desc": "As verse 100 € par an à la personne qui s'occupe régulièrement et sans rémunération d'une personne dépendante.",
+        "deadline": "Chaque année avant le 1er décembre.",
+        "amount": "100 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande de l'année"
+          },
+          {
+            "type": "doc",
+            "label": "La première fois : le certificat du SPF Sécurité sociale"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur as.be",
+          "Joignez la première fois le certificat du SPF Sécurité sociale",
+          "Remettez-le avant le 1er décembre au dienst Welzijn, Dorpsstraat 1 bus 1, 3665 As, ou à welzijn@as.be"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, As)",
+        "desc": "As zahlt 100 € pro Jahr an Personen, die regelmäßig und unentgeltlich für eine pflegebedürftige Person sorgen.",
+        "deadline": "Jedes Jahr vor dem 1. Dezember.",
+        "amount": "100 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular des Jahres"
+          },
+          {
+            "type": "doc",
+            "label": "Beim ersten Mal: die Bescheinigung des FÖD Soziale Sicherheit"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf as.be herunter",
+          "Fügen Sie beim ersten Mal die Bescheinigung des FÖD Soziale Sicherheit bei",
+          "Reichen Sie es vor dem 1. Dezember beim dienst Welzijn, Dorpsstraat 1 bus 1, 3665 As, oder bei welzijn@as.be ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.as.be/leven-zorgen/welzijn-ocmw/personen-met-een-beperking/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The carer is at least 18, and related up to the fourth degree or living at the same address for at least 6 months on the application date; one carer per person cared for.",
+          "The person cared for has lived in As for at least six months on the application date and does not stay in a care home or other institution.",
+          "The person cared for has a recognition of at least 12 points, category 3, from the FPS Social Security."
+        ],
+        "nl": [
+          "De mantelzorger is minstens 18 en verwant tot en met de vierde graad of woont op de datum van de aanvraag minstens 6 maanden op hetzelfde adres; één mantelzorger per zorgbehoevende.",
+          "De zorgbehoevende woont op de datum van de aanvraag minstens zes maanden in As en verblijft niet in een woonzorgcentrum of andere instantie.",
+          "De zorgbehoevende heeft een erkenning van minimaal 12 punten categorie 3 van de FOD Sociale Zekerheid."
+        ],
+        "fr": [
+          "L'aidant a au moins 18 ans et est parent jusqu'au quatrième degré ou habite à la même adresse depuis au moins 6 mois à la date de la demande ; un aidant par personne aidée.",
+          "La personne aidée habite As depuis au moins six mois à la date de la demande et ne séjourne pas en maison de repos ou autre institution.",
+          "La personne aidée a une reconnaissance d'au moins 12 points, catégorie 3, du SPF Sécurité sociale."
+        ],
+        "de": [
+          "Die Pflegeperson ist mindestens 18 und bis zum vierten Grad verwandt oder wohnt am Antragsdatum seit mindestens 6 Monaten unter derselben Adresse; eine Pflegeperson pro gepflegter Person.",
+          "Die gepflegte Person wohnt am Antragsdatum seit mindestens sechs Monaten in As und lebt nicht in einem Pflegeheim oder einer anderen Einrichtung.",
+          "Die gepflegte Person hat eine Anerkennung von mindestens 12 Punkten, Kategorie 3, des FÖD Soziale Sicherheit."
+        ]
+      }
+    }
+  },
+  {
+    "id": 397,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "92006"
+    ],
+    "institution": "Commune d'Assesse",
+    "verified": "4 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.assesse.be/fr/ma-commune/Administration/taxes-et-redevances/telechargements/reglement-relatif-a-loctroi-de-primes-de-naissance.pdf",
+    "content": {
+      "en": {
+        "title": "Prime de naissance et d'adoption (Birth and Adoption Premium, Assesse)",
+        "desc": "Assesse pays €85 for the birth or adoption of a child, and also when a child is stillborn after at least 180 days of pregnancy.",
+        "deadline": "Within 2 months of the birth or adoption.",
+        "amount": "€85",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "For a stillbirth: a medical certificate stating the number of days of pregnancy"
+          }
+        ],
+        "steps": [
+          "Get the form from the commune of Assesse",
+          "Send it by post or e-mail to population.general@assesse.be within 2 months",
+          "The commune checks the conditions and pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance et d'adoption (geboorte- en adoptiepremie, Assesse)",
+        "desc": "Assesse betaalt €85 bij de geboorte of adoptie van een kind, en ook wanneer een kind doodgeboren wordt na minstens 180 dagen zwangerschap.",
+        "deadline": "Binnen 2 maanden na de geboorte of adoptie.",
+        "amount": "€85",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Bij doodgeboorte: een medisch attest met het aantal dagen zwangerschap"
+          }
+        ],
+        "steps": [
+          "Vraag het formulier aan bij de gemeente Assesse",
+          "Stuur het binnen 2 maanden per post of mail naar population.general@assesse.be",
+          "De gemeente controleert de voorwaarden en betaalt de premie"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance et d'adoption (Assesse)",
+        "desc": "Assesse verse 85 € à la naissance ou à l'adoption d'un enfant, ainsi que lorsqu'un enfant est mort-né à partir de 180 jours de grossesse.",
+        "deadline": "Dans les 2 mois après la naissance ou l'adoption.",
+        "amount": "85 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "En cas de mort-né : un certificat médical attestant le nombre de jours de grossesse"
+          }
+        ],
+        "steps": [
+          "Procurez-vous le formulaire auprès de la commune d'Assesse",
+          "Envoyez-le par la poste ou par courriel à population.general@assesse.be dans les 2 mois",
+          "La commune vérifie les conditions et verse la prime"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance et d'adoption (Geburts- und Adoptionsprämie, Assesse)",
+        "desc": "Assesse zahlt 85 € bei der Geburt oder Adoption eines Kindes sowie bei einer Totgeburt ab 180 Tagen Schwangerschaft.",
+        "deadline": "Innerhalb von 2 Monaten nach der Geburt oder Adoption.",
+        "amount": "85 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Bei Totgeburt: ein ärztliches Attest mit der Zahl der Schwangerschaftstage"
+          }
+        ],
+        "steps": [
+          "Holen Sie das Formular bei der Gemeinde Assesse",
+          "Senden Sie es innerhalb von 2 Monaten per Post oder E-Mail an population.general@assesse.be",
+          "Die Gemeinde prüft die Bedingungen und zahlt die Prämie"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "4 Nov 2026",
+      "source_url": [
+        "https://www.assesse.be/fr/ma-commune/Administration/taxes-et-redevances/telechargements/reglement-relatif-a-loctroi-de-primes-de-naissance.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are the mother or the person in charge of the child, or the adopter, and registered in the population, foreigners or waiting register of Assesse at the birth or at the transcription of the adoption.",
+          "You have lived in Assesse for at least 1 year on the day of the birth or adoption.",
+          "You owe nothing to the commune.",
+          "For an adoption: the child was under 12 on entering the household, and you did not already get the birth premium for this child."
+        ],
+        "nl": [
+          "Je bent de moeder of de persoon die voor het kind zorgt, of de adoptant, en ingeschreven in het bevolkings-, vreemdelingen- of wachtregister van Assesse bij de geboorte of de overschrijving van de adoptie.",
+          "Je woont op de dag van de geboorte of adoptie minstens 1 jaar in Assesse.",
+          "Je bent niets verschuldigd aan de gemeente.",
+          "Bij adoptie: het kind was jonger dan 12 toen het in het gezin kwam, en je kreeg voor dit kind nog geen geboortepremie."
+        ],
+        "fr": [
+          "Vous êtes la maman ou la personne en charge de l'enfant, ou l'adoptant, et inscrit aux registres de la population, des étrangers ou d'attente d'Assesse à la naissance ou à la transcription de l'adoption.",
+          "Vous résidez à Assesse depuis au moins 1 an au jour de la naissance ou de l'adoption.",
+          "Vous n'êtes redevable d'aucune somme envers la commune.",
+          "Pour une adoption : l'enfant avait moins de 12 ans à son entrée dans le ménage, et vous n'avez pas déjà touché la prime de naissance pour cet enfant."
+        ],
+        "de": [
+          "Sie sind die Mutter oder die für das Kind verantwortliche Person oder der Adoptierende und bei der Geburt oder der Umschreibung der Adoption im Bevölkerungs-, Fremden- oder Warteregister von Assesse eingetragen.",
+          "Sie wohnen am Tag der Geburt oder Adoption seit mindestens 1 Jahr in Assesse.",
+          "Sie schulden der Gemeinde nichts.",
+          "Bei einer Adoption: Das Kind war bei der Aufnahme in den Haushalt unter 12, und Sie haben für dieses Kind noch keine Geburtsprämie erhalten."
+        ]
+      }
+    }
   }
 ]

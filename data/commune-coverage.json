@@ -664,49 +664,96 @@
       "ids": [
         379
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "38002",
-      "name": "Alveringem"
+      "name": "Alveringem",
+      "checked": "4 Nov 2026",
+      "ids": [
+        380,
+        381,
+        382
+      ]
     },
     {
       "nis": "56001",
-      "name": "Anderlues"
+      "name": "Anderlues",
+      "checked": "4 Nov 2026",
+      "ids": [
+        383,
+        384
+      ]
     },
     {
       "nis": "91005",
-      "name": "Anhée"
+      "name": "Anhée",
+      "checked": "4 Nov 2026",
+      "ids": []
     },
     {
       "nis": "34002",
-      "name": "Anzegem"
+      "name": "Anzegem",
+      "checked": "4 Nov 2026",
+      "ids": [
+        385,
+        386
+      ]
     },
     {
       "nis": "37020",
-      "name": "Ardooie"
+      "name": "Ardooie",
+      "checked": "4 Nov 2026",
+      "ids": [
+        387,
+        388,
+        389
+      ]
     },
     {
       "nis": "61079",
-      "name": "Anthisnes"
+      "name": "Anthisnes",
+      "checked": "4 Nov 2026",
+      "ids": [
+        390
+      ]
     },
     {
       "nis": "13001",
-      "name": "Arendonk"
+      "name": "Arendonk",
+      "checked": "4 Nov 2026",
+      "ids": [
+        391,
+        392,
+        393
+      ]
     },
     {
       "nis": "57003",
-      "name": "Antoing"
+      "name": "Antoing",
+      "checked": "4 Nov 2026",
+      "ids": [
+        394,
+        395
+      ]
     },
     {
       "nis": "71002",
-      "name": "As"
+      "name": "As",
+      "checked": "4 Nov 2026",
+      "ids": [
+        396
+      ]
     },
     {
       "nis": "92006",
-      "name": "Assesse"
-    },
+      "name": "Assesse",
+      "checked": "4 Nov 2026",
+      "ids": [
+        397
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "23002",
       "name": "Asse"
