@@ -751,49 +751,87 @@
       "ids": [
         397
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "23002",
-      "name": "Asse"
+      "name": "Asse",
+      "checked": "5 Nov 2026",
+      "ids": []
     },
     {
       "nis": "81003",
-      "name": "Attert"
+      "name": "Attert",
+      "checked": "5 Nov 2026",
+      "ids": []
     },
     {
       "nis": "43002",
-      "name": "Assenede"
+      "name": "Assenede",
+      "checked": "5 Nov 2026",
+      "ids": []
     },
     {
       "nis": "81004",
-      "name": "Aubange"
+      "name": "Aubange",
+      "checked": "5 Nov 2026",
+      "ids": [
+        401,
+        402,
+        403
+      ]
     },
     {
       "nis": "34003",
-      "name": "Avelgem"
+      "name": "Avelgem",
+      "checked": "5 Nov 2026",
+      "ids": [
+        405,
+        406,
+        407
+      ]
     },
     {
       "nis": "63003",
-      "name": "Aubel"
+      "name": "Aubel",
+      "checked": "5 Nov 2026",
+      "ids": [
+        398,
+        399,
+        400
+      ]
     },
     {
       "nis": "13002",
-      "name": "Baarle-Hertog / Baerle-Duc"
+      "name": "Baarle-Hertog / Baerle-Duc",
+      "checked": "5 Nov 2026",
+      "ids": [
+        409
+      ]
     },
     {
       "nis": "62006",
-      "name": "Awans"
+      "name": "Awans",
+      "checked": "5 Nov 2026",
+      "ids": [
+        404
+      ]
     },
     {
       "nis": "13003",
-      "name": "Balen"
+      "name": "Balen",
+      "checked": "5 Nov 2026",
+      "ids": [
+        408
+      ]
     },
     {
       "nis": "62009",
-      "name": "Aywaille"
-    },
+      "name": "Aywaille",
+      "checked": "5 Nov 2026",
+      "ids": []
+    }
+  ],
+  "queue": [
     {
       "nis": "31003",
       "name": "Beernem"

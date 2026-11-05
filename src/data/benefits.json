@@ -47492,5 +47492,1783 @@
         ]
       }
     }
+  },
+  {
+    "id": 398,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63003"
+    ],
+    "institution": "Commune d'Aubel",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aubel.be/fr/ma-commune/enfance/primes-et-aides/prime-naissance",
+    "content": {
+      "en": {
+        "title": "Prime de naissance (Birth Premium from the Third Child, Aubel)",
+        "desc": "Aubel pays €74.37 for each child from the third child on, to the mother registered in Aubel. Twins give one premium per child.",
+        "deadline": "Within 6 months of the birth.",
+        "amount": "€74.37",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate from ONE or the paediatrician that the child was seen at least twice in its first 6 months"
+          }
+        ],
+        "steps": [
+          "Download the form from the commune of Aubel's page",
+          "Send it in writing to the Collège communal within 6 months of the birth",
+          "Hand in the ONE or paediatrician certificate; the commune then pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance (geboortepremie vanaf het derde kind, Aubel)",
+        "desc": "Aubel betaalt €74,37 per kind vanaf het derde kind aan de moeder die in Aubel is ingeschreven. Een tweeling geeft recht op één premie per kind.",
+        "deadline": "Binnen 6 maanden na de geboorte.",
+        "amount": "€74,37",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van ONE of de kinderarts dat het kind minstens twee keer werd gezien in zijn eerste 6 maanden"
+          }
+        ],
+        "steps": [
+          "Download het formulier via de pagina van de gemeente Aubel",
+          "Stuur het binnen 6 maanden na de geboorte schriftelijk naar het Collège communal",
+          "Bezorg het attest van ONE of de kinderarts; daarna betaalt de gemeente de premie"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance à partir du 3e enfant (Aubel)",
+        "desc": "Aubel verse 74,37 € par enfant à partir du troisième enfant à la mère inscrite à Aubel. Des jumeaux donnent droit à une prime par enfant.",
+        "deadline": "Dans les 6 mois après l'accouchement.",
+        "amount": "74,37 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Un certificat de l'ONE ou du pédiatre attestant que l'enfant a été présenté au moins deux fois au cours de ses 6 premiers mois"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur la page de la commune d'Aubel",
+          "Adressez-le par écrit au Collège communal dans les 6 mois de l'accouchement",
+          "Remettez le certificat de l'ONE ou du pédiatre ; la commune verse ensuite la prime"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance (Geburtsprämie ab dem dritten Kind, Aubel)",
+        "desc": "Aubel zahlt 74,37 € pro Kind ab dem dritten Kind an die in Aubel eingetragene Mutter. Zwillinge geben Anspruch auf eine Prämie pro Kind.",
+        "deadline": "Innerhalb von 6 Monaten nach der Geburt.",
+        "amount": "74,37 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des ONE oder des Kinderarztes, dass das Kind in den ersten 6 Monaten mindestens zweimal vorgestellt wurde"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf der Seite der Gemeinde Aubel herunter",
+          "Senden Sie es innerhalb von 6 Monaten nach der Geburt schriftlich an das Collège communal",
+          "Reichen Sie die Bescheinigung des ONE oder des Kinderarztes ein; danach zahlt die Gemeinde die Prämie"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.aubel.be/fr/ma-commune/enfance/primes-et-aides/prime-naissance"
+      ],
+      "conditions": {
+        "en": [
+          "You are the mother and registered in Aubel's population registers on the day of the birth.",
+          "The child is your third child or later; the children counted must have been born viable.",
+          "The child was seen at least twice at ONE or by the paediatrician in its first 6 months.",
+          "If the mother dies in childbirth, the premium goes to the child, in the hands of the person or institution caring for the child in its first month.",
+          "The premium depends on the yearly approval of the budget."
+        ],
+        "nl": [
+          "Je bent de moeder en ingeschreven in de bevolkingsregisters van Aubel op de dag van de geboorte.",
+          "Het kind is je derde kind of later; de meegetelde kinderen moeten levensvatbaar geboren zijn.",
+          "Het kind werd in zijn eerste 6 maanden minstens twee keer gezien bij ONE of de kinderarts.",
+          "Overlijdt de moeder bij de bevalling, dan gaat de premie naar het kind, via de persoon of instelling die in de eerste maand voor het kind zorgt.",
+          "De premie hangt af van de jaarlijkse goedkeuring van het budget."
+        ],
+        "fr": [
+          "Vous êtes la mère et inscrite aux registres de population d'Aubel au jour de l'accouchement.",
+          "L'enfant est votre troisième enfant ou un suivant ; les enfants pris en compte doivent être nés viables.",
+          "L'enfant a été présenté au moins deux fois à l'ONE ou au pédiatre au cours de ses 6 premiers mois.",
+          "En cas de décès de la mère en couches, la prime revient à l'enfant, en mains de la personne ou de l'institution qui pourvoit à son entretien durant son premier mois.",
+          "La prime dépend de l'approbation annuelle du crédit budgétaire."
+        ],
+        "de": [
+          "Sie sind die Mutter und am Tag der Geburt in den Bevölkerungsregistern von Aubel eingetragen.",
+          "Das Kind ist Ihr drittes oder ein weiteres Kind; die mitgezählten Kinder müssen lebensfähig geboren sein.",
+          "Das Kind wurde in den ersten 6 Monaten mindestens zweimal beim ONE oder beim Kinderarzt vorgestellt.",
+          "Stirbt die Mutter bei der Geburt, geht die Prämie an das Kind, zu Händen der Person oder Einrichtung, die im ersten Monat für das Kind sorgt.",
+          "Die Prämie hängt von der jährlichen Genehmigung des Haushalts ab."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Aubel's population register (registre de la population).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Aubel.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population d'Aubel.",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Aubel (registre de la population)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 399,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63003"
+    ],
+    "institution": "Commune d'Aubel",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aubel.be/fr/ma-commune/services-communaux/finances-taxes/primes/primes-langes-lavables",
+    "content": {
+      "en": {
+        "title": "Prime pour l'achat de langes lavables (Washable Nappies Premium, Aubel)",
+        "desc": "Aubel pays back 50% of what you spend on washable nappies, up to €125, once per child.",
+        "deadline": "Before the child turns 3.",
+        "amount": "50% of the invoices, up to €125",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's request form"
+          },
+          {
+            "type": "doc",
+            "label": "The purchase invoices"
+          }
+        ],
+        "steps": [
+          "Buy washable nappies, protective pants or fabric inserts and keep the invoices",
+          "Fill in the request form on the commune of Aubel's page before the child turns 3",
+          "The commune pays in the order requests arrive, within its budget"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour l'achat de langes lavables (premie voor herbruikbare luiers, Aubel)",
+        "desc": "Aubel betaalt 50% van je uitgaven voor herbruikbare luiers terug, tot €125, één keer per kind.",
+        "deadline": "Voordat het kind 3 wordt.",
+        "amount": "50% van de facturen, tot €125",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "De aankoopfacturen"
+          }
+        ],
+        "steps": [
+          "Koop herbruikbare luiers, overbroekjes of stoffen inlegluiers en bewaar de facturen",
+          "Vul het aanvraagformulier op de pagina van de gemeente Aubel in voordat het kind 3 wordt",
+          "De gemeente betaalt in volgorde van ontvangst, binnen haar budget"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour l'achat de langes lavables (Aubel)",
+        "desc": "Aubel rembourse 50 % de vos achats de langes lavables, jusqu'à 125 €, une seule fois par enfant.",
+        "deadline": "Avant que l'enfant n'atteigne 3 ans.",
+        "amount": "50 % des factures, jusqu'à 125 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Les factures d'achat"
+          }
+        ],
+        "steps": [
+          "Achetez des langes lavables, culottes de protection ou inserts en tissu et gardez les factures",
+          "Remplissez le formulaire de demande sur la page de la commune d'Aubel avant que l'enfant n'ait 3 ans",
+          "La commune paie selon l'ordre de réception, dans les limites de son budget"
+        ]
+      },
+      "de": {
+        "title": "Prime pour l'achat de langes lavables (Prämie für waschbare Windeln, Aubel)",
+        "desc": "Aubel erstattet 50 % Ihrer Ausgaben für waschbare Windeln, bis zu 125 €, einmal pro Kind.",
+        "deadline": "Bevor das Kind 3 Jahre alt wird.",
+        "amount": "50 % der Rechnungen, bis zu 125 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Die Kaufrechnungen"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie waschbare Windeln, Schutzhöschen oder Stoffeinlagen und bewahren Sie die Rechnungen auf",
+          "Füllen Sie das Antragsformular auf der Seite der Gemeinde Aubel aus, bevor das Kind 3 Jahre alt wird",
+          "Die Gemeinde zahlt in der Reihenfolge des Eingangs, im Rahmen ihres Haushalts"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.aubel.be/fr/ma-commune/services-communaux/finances-taxes/primes/primes-langes-lavables"
+      ],
+      "conditions": {
+        "en": [
+          "You are the child's father, mother or legal guardian.",
+          "You and the child are registered in Aubel's population register when you apply.",
+          "You apply before the child turns 3; the premium is given once per child.",
+          "Invoices may be at most 3 months older than the child's registration in Aubel. Only nappies, protective pants and fabric inserts count, not accessories.",
+          "The premium is paid within the budget, in the order requests arrive; if the budget runs out, eligible applicants get priority the next year."
+        ],
+        "nl": [
+          "Je bent de vader, moeder of wettelijke voogd van het kind.",
+          "Jij en het kind zijn bij de aanvraag ingeschreven in het bevolkingsregister van Aubel.",
+          "Je vraagt de premie aan voordat het kind 3 wordt; ze wordt één keer per kind gegeven.",
+          "Facturen mogen maximaal 3 maanden ouder zijn dan de inschrijving van het kind in Aubel. Alleen luiers, overbroekjes en stoffen inlegluiers tellen mee, geen accessoires.",
+          "De premie wordt betaald binnen het budget, in volgorde van ontvangst; is het budget op, dan krijgen rechthebbenden voorrang het jaar erna."
+        ],
+        "fr": [
+          "Vous êtes le père, la mère ou le tuteur légal de l'enfant.",
+          "Vous et votre enfant êtes inscrits au registre de la population d'Aubel au moment de la demande.",
+          "La demande est introduite avant que l'enfant n'ait 3 ans ; la prime est octroyée une seule fois par enfant.",
+          "Les factures ne peuvent être antérieures de plus de 3 mois à l'inscription de l'enfant à Aubel. Seuls les langes lavables, culottes de protection et inserts en tissu comptent, pas les accessoires.",
+          "La prime est octroyée dans les limites du budget, selon l'ordre de réception ; si le budget est épuisé, les demandeurs remplissant les conditions sont prioritaires l'année suivante."
+        ],
+        "de": [
+          "Sie sind Vater, Mutter oder gesetzlicher Vormund des Kindes.",
+          "Sie und das Kind sind bei der Antragstellung im Bevölkerungsregister von Aubel eingetragen.",
+          "Sie stellen den Antrag, bevor das Kind 3 Jahre alt wird; die Prämie wird einmal pro Kind gewährt.",
+          "Rechnungen dürfen höchstens 3 Monate älter sein als die Eintragung des Kindes in Aubel. Es zählen nur Windeln, Schutzhöschen und Stoffeinlagen, kein Zubehör.",
+          "Die Prämie wird im Rahmen des Haushalts in der Reihenfolge des Eingangs gezahlt; ist der Haushalt ausgeschöpft, haben berechtigte Antragsteller im Folgejahr Vorrang."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Aubel's population register (registre de la population).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Aubel.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population d'Aubel.",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Aubel (registre de la population)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 400,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63003"
+    ],
+    "institution": "Commune d'Aubel",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aubel.be/fr/ma-commune/services-communaux/finances-taxes/primes/primes-energie",
+    "content": {
+      "en": {
+        "title": "Prime communale pour un audit énergétique (Energy Audit Premium, Aubel)",
+        "desc": "Aubel adds €200 per property if the Walloon Region granted you its premium for a home energy audit.",
+        "deadline": "Within 6 months of the Walloon Region's letter granting its premium.",
+        "amount": "€200",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "The invoice for the home audit"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the full audit report"
+          },
+          {
+            "type": "doc",
+            "label": "The Walloon Region's letter granting the premium, with the amount"
+          }
+        ],
+        "steps": [
+          "Have the audit done by a home auditor approved by the Walloon Region",
+          "Fill in the form on the commune of Aubel's page",
+          "Send it with the documents to the Collège communal within 6 months (finances@aubel.be, 087/68.01.30)"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale pour un audit énergétique (gemeentepremie voor een energieaudit, Aubel)",
+        "desc": "Aubel geeft €200 extra per woning als het Waals Gewest je zijn premie voor een energieaudit van je woning toekende.",
+        "deadline": "Binnen 6 maanden na de brief van het Waals Gewest die de premie toekent.",
+        "amount": "€200",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "De factuur van de woningaudit"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het volledige auditrapport"
+          },
+          {
+            "type": "doc",
+            "label": "De brief van het Waals Gewest die de premie toekent, met het bedrag"
+          }
+        ],
+        "steps": [
+          "Laat de audit uitvoeren door een woningauditor erkend door het Waals Gewest",
+          "Vul het formulier op de pagina van de gemeente Aubel in",
+          "Stuur het met de documenten binnen 6 maanden naar het Collège communal (finances@aubel.be, 087/68.01.30)"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale pour un audit énergétique (Aubel)",
+        "desc": "Aubel ajoute 200 € par bien si la Région wallonne vous a octroyé sa prime pour un audit logement.",
+        "deadline": "Dans les 6 mois du courrier de la Région wallonne notifiant l'octroi de la prime.",
+        "amount": "200 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "La facture de l'audit logement"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie du rapport complet de l'audit"
+          },
+          {
+            "type": "doc",
+            "label": "Le courrier de la Région wallonne notifiant l'octroi de la prime, avec le montant"
+          }
+        ],
+        "steps": [
+          "Faites réaliser l'audit par un auditeur logement agréé par la Région wallonne",
+          "Remplissez le formulaire sur la page de la commune d'Aubel",
+          "Envoyez-le avec les documents au Collège communal dans les 6 mois (finances@aubel.be, 087/68.01.30)"
+        ]
+      },
+      "de": {
+        "title": "Prime communale pour un audit énergétique (Gemeindeprämie für ein Energieaudit, Aubel)",
+        "desc": "Aubel gibt 200 € pro Immobilie dazu, wenn Ihnen die Wallonische Region ihre Prämie für ein Wohnungsaudit gewährt hat.",
+        "deadline": "Innerhalb von 6 Monaten nach dem Schreiben der Wallonischen Region, das die Prämie gewährt.",
+        "amount": "200 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Die Rechnung für das Wohnungsaudit"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des vollständigen Auditberichts"
+          },
+          {
+            "type": "doc",
+            "label": "Das Schreiben der Wallonischen Region, das die Prämie gewährt, mit dem Betrag"
+          }
+        ],
+        "steps": [
+          "Lassen Sie das Audit von einem von der Wallonischen Region anerkannten Wohnungsauditor durchführen",
+          "Füllen Sie das Formular auf der Seite der Gemeinde Aubel aus",
+          "Senden Sie es mit den Unterlagen innerhalb von 6 Monaten an das Collège communal (finances@aubel.be, 087/68.01.30)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.aubel.be/fr/ma-commune/services-communaux/finances-taxes/primes/primes-energie",
+        "https://www.aubel.be/fr/ma-commune/services-communaux/finances-taxes/primes/delibe-conseil-5-fevrier-audit.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are a private person with a real right on a home in Aubel (full or partial owner, usufructuary, bare owner) or a member of its co-owners' association.",
+          "The Walloon Region granted you its premium for this audit.",
+          "The audit was done after 1 July 2021.",
+          "The €200 does not depend on income, is per property, and cannot exceed the invoice minus the Walloon premium.",
+          "The premium is paid within the available budget."
+        ],
+        "nl": [
+          "Je bent een particulier met een zakelijk recht op een woning in Aubel (volle of gedeeltelijke eigenaar, vruchtgebruiker, blote eigenaar) of lid van de vereniging van mede-eigenaars.",
+          "Het Waals Gewest kende je zijn premie voor deze audit toe.",
+          "De audit werd uitgevoerd na 1 juli 2021.",
+          "De €200 hangt niet af van je inkomen, geldt per woning en mag niet hoger zijn dan de factuur min de Waalse premie.",
+          "De premie wordt betaald binnen het beschikbare budget."
+        ],
+        "fr": [
+          "Vous êtes une personne physique titulaire d'un droit réel sur un logement à Aubel (propriétaire total ou partiel, usufruitier, nu-propriétaire) ou membre de l'association de copropriétaires.",
+          "La Région wallonne vous a octroyé sa prime pour cet audit.",
+          "L'audit a été réalisé après le 1er juillet 2021.",
+          "Les 200 € sont indépendants des revenus, s'entendent par bien et ne peuvent dépasser la facture moins la prime wallonne.",
+          "La prime est octroyée dans la limite des crédits budgétaires disponibles."
+        ],
+        "de": [
+          "Sie sind eine Privatperson mit einem dinglichen Recht an einer Wohnung in Aubel (Voll- oder Teileigentümer, Nießbraucher, bloßer Eigentümer) oder Mitglied der Eigentümergemeinschaft.",
+          "Die Wallonische Region hat Ihnen ihre Prämie für dieses Audit gewährt.",
+          "Das Audit wurde nach dem 1. Juli 2021 durchgeführt.",
+          "Die 200 € hängen nicht vom Einkommen ab, gelten pro Immobilie und dürfen die Rechnung abzüglich der wallonischen Prämie nicht übersteigen.",
+          "Die Prämie wird im Rahmen der verfügbaren Haushaltsmittel gezahlt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 401,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "81004"
+    ],
+    "institution": "Ville d'Aubange",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aubange.be/services-communaux/service-logement-et-patrimoine",
+    "content": {
+      "en": {
+        "title": "Prime communale pour l'embellissement de la façade (Façade Premium, Aubange)",
+        "desc": "Aubange pays €400 for a new render or paint on the main façade of a building from before 1980, or €600 for a home in the Athus urban renewal area.",
+        "deadline": "At least 1 month before the works start.",
+        "amount": "€400, or €600 in the Athus urban renewal area",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "A quote or detailed estimate of the works"
+          },
+          {
+            "type": "doc",
+            "label": "A sample of the colour"
+          },
+          {
+            "type": "doc",
+            "label": "Two colour photos of the façade from different angles"
+          },
+          {
+            "type": "doc",
+            "label": "After the works: the final invoice and two colour photos"
+          }
+        ],
+        "steps": [
+          "Send the form and documents to the housing service (logement@aubange.be) at least 1 month before the works",
+          "Do not start until the request is in and a municipal agent has visited",
+          "After the works, send the final invoice and two photos; the Collège then grants the premium"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale pour l'embellissement de la façade (gevelpremie, Aubange)",
+        "desc": "Aubange betaalt €400 voor een nieuwe bepleistering of verflaag op de hoofdgevel van een gebouw van voor 1980, of €600 voor een woning in de stadsvernieuwingszone van Athus.",
+        "deadline": "Minstens 1 maand voor de start van de werken.",
+        "amount": "€400, of €600 in de stadsvernieuwingszone van Athus",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Een offerte of gedetailleerde raming van de werken"
+          },
+          {
+            "type": "doc",
+            "label": "Een staal van de kleur"
+          },
+          {
+            "type": "doc",
+            "label": "Twee kleurenfoto's van de gevel vanuit verschillende hoeken"
+          },
+          {
+            "type": "doc",
+            "label": "Na de werken: de eindfactuur en twee kleurenfoto's"
+          }
+        ],
+        "steps": [
+          "Stuur het formulier en de documenten minstens 1 maand voor de werken naar de huisvestingsdienst (logement@aubange.be)",
+          "Begin pas als de aanvraag is ingediend en een gemeentelijk medewerker is langsgekomen",
+          "Stuur na de werken de eindfactuur en twee foto's; daarna kent het Collège de premie toe"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale pour l'embellissement de la façade (Aubange)",
+        "desc": "Aubange verse 400 € pour un nouvel enduit ou une mise en peinture de la façade principale d'un bâtiment construit avant 1980, ou 600 € pour une habitation dans le périmètre de rénovation urbaine d'Athus.",
+        "deadline": "Au moins 1 mois avant le début des travaux.",
+        "amount": "400 €, ou 600 € dans le périmètre de rénovation urbaine d'Athus",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Un devis ou une estimation détaillée des travaux"
+          },
+          {
+            "type": "doc",
+            "label": "Un échantillon de la tonalité"
+          },
+          {
+            "type": "doc",
+            "label": "Deux photos couleur de la façade sous des angles différents"
+          },
+          {
+            "type": "doc",
+            "label": "Après les travaux : la facture finale et deux photos couleur"
+          }
+        ],
+        "steps": [
+          "Envoyez le formulaire et les documents au service logement (logement@aubange.be) au moins 1 mois avant les travaux",
+          "Ne commencez pas avant l'introduction de la demande et le passage de l'agent communal",
+          "Après les travaux, envoyez la facture finale et deux photos ; le Collège octroie alors la prime"
+        ]
+      },
+      "de": {
+        "title": "Prime communale pour l'embellissement de la façade (Fassadenprämie, Aubange)",
+        "desc": "Aubange zahlt 400 € für einen neuen Putz oder Anstrich der Hauptfassade eines vor 1980 errichteten Gebäudes oder 600 € für eine Wohnung im Stadterneuerungsgebiet von Athus.",
+        "deadline": "Mindestens 1 Monat vor Beginn der Arbeiten.",
+        "amount": "400 € oder 600 € im Stadterneuerungsgebiet von Athus",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Kostenvoranschlag oder eine detaillierte Schätzung der Arbeiten"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Farbmuster"
+          },
+          {
+            "type": "doc",
+            "label": "Zwei Farbfotos der Fassade aus verschiedenen Blickwinkeln"
+          },
+          {
+            "type": "doc",
+            "label": "Nach den Arbeiten: die Schlussrechnung und zwei Farbfotos"
+          }
+        ],
+        "steps": [
+          "Senden Sie das Formular und die Unterlagen mindestens 1 Monat vor den Arbeiten an den Wohnungsdienst (logement@aubange.be)",
+          "Beginnen Sie erst, wenn der Antrag eingereicht ist und ein Gemeindemitarbeiter vor Ort war",
+          "Senden Sie nach den Arbeiten die Schlussrechnung und zwei Fotos; danach gewährt das Collège die Prämie"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.aubange.be/services-communaux/service-logement-et-patrimoine",
+        "https://www.aubange.be/actualites/prime-communale-pour-lembellissement-de-la-facade",
+        "https://ik.imagekit.io/aubange/wp-content/uploads/2024/07/logement-2016-04-25-reglement-communal-logement-prime-facade.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are the owner of a building in Aubange built before 1980; the works are a new render or paint on the main façade.",
+          "You apply at least 1 month before the works; there is no premium if works began before the request and the agent's visit.",
+          "The Collège approves the colour and can refuse works that are not justified architecturally.",
+          "No premium if you get Walloon premiums for renovating or insulating the façade. No similar premium for the same building within 10 years, and changes to the façade within 10 years must be approved.",
+          "The premium is granted within the budget and never exceeds the cost of the works."
+        ],
+        "nl": [
+          "Je bent eigenaar van een gebouw in Aubange van voor 1980; de werken zijn een nieuwe bepleistering of verflaag op de hoofdgevel.",
+          "Je vraagt de premie minstens 1 maand voor de werken aan; er is geen premie als de werken begonnen voor de aanvraag en het bezoek van de medewerker.",
+          "Het Collège keurt de kleur goed en kan werken weigeren die architecturaal niet verantwoord zijn.",
+          "Geen premie als je Waalse premies krijgt voor het renoveren of isoleren van de gevel. Geen gelijkaardige premie voor hetzelfde gebouw binnen 10 jaar, en wijzigingen aan de gevel binnen 10 jaar moeten worden goedgekeurd.",
+          "De premie wordt toegekend binnen het budget en is nooit hoger dan de kosten van de werken."
+        ],
+        "fr": [
+          "Vous êtes propriétaire d'un bâtiment à Aubange construit avant 1980 ; les travaux sont un nouvel enduit ou une mise en peinture de la façade principale.",
+          "La demande est introduite au moins 1 mois avant les travaux ; pas de prime si les travaux ont débuté avant la demande et le passage de l'agent.",
+          "Le Collège accepte la couleur et peut refuser des travaux qui ne se justifient pas du point de vue architectural.",
+          "Pas de prime si vous percevez les primes régionales pour la rénovation ou l'isolation de la façade. Pas de subvention similaire pour le même immeuble pendant 10 ans, et toute modification de la façade pendant 10 ans doit être acceptée.",
+          "La prime est accordée dans les limites du budget et ne dépasse jamais le montant des investissements."
+        ],
+        "de": [
+          "Sie sind Eigentümer eines vor 1980 errichteten Gebäudes in Aubange; die Arbeiten sind ein neuer Putz oder Anstrich der Hauptfassade.",
+          "Sie stellen den Antrag mindestens 1 Monat vor den Arbeiten; keine Prämie, wenn die Arbeiten vor dem Antrag und dem Besuch des Mitarbeiters begonnen haben.",
+          "Das Collège genehmigt die Farbe und kann Arbeiten ablehnen, die architektonisch nicht gerechtfertigt sind.",
+          "Keine Prämie, wenn Sie wallonische Prämien für die Renovierung oder Dämmung der Fassade erhalten. Keine ähnliche Prämie für dasselbe Gebäude innerhalb von 10 Jahren, und Änderungen an der Fassade innerhalb von 10 Jahren müssen genehmigt werden.",
+          "Die Prämie wird im Rahmen des Haushalts gewährt und übersteigt nie die Kosten der Arbeiten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 402,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "81004"
+    ],
+    "institution": "Ville d'Aubange",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aubange.be/services-communaux/service-logement-et-patrimoine",
+    "content": {
+      "en": {
+        "title": "Prime communale habitation (Home Premium Top-Up, Aubange)",
+        "desc": "If the Walloon Region gives you its home premium (prime habitation) for works on a home in Aubange, the town adds 20% of that premium, up to €500.",
+        "deadline": "Within 3 months of receiving the Walloon Region's notification.",
+        "amount": "20% of the Walloon premium, up to €500",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "The invoices"
+          },
+          {
+            "type": "doc",
+            "label": "The Walloon Region's notification of the final premium amount"
+          }
+        ],
+        "steps": [
+          "Wait for the Walloon Region's notification of the final amount",
+          "Fill in the Prime Habitation form from the town's housing page",
+          "Send it with the invoices and notification to the housing service (logement@aubange.be) within 3 months"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale habitation (aanvulling op de woonpremie, Aubange)",
+        "desc": "Als het Waals Gewest je zijn woonpremie (prime habitation) geeft voor werken aan een woning in Aubange, voegt de stad daar 20% van toe, tot €500.",
+        "deadline": "Binnen 3 maanden na ontvangst van de kennisgeving van het Waals Gewest.",
+        "amount": "20% van de Waalse premie, tot €500",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "De facturen"
+          },
+          {
+            "type": "doc",
+            "label": "De kennisgeving van het Waals Gewest met het definitieve bedrag van de premie"
+          }
+        ],
+        "steps": [
+          "Wacht op de kennisgeving van het Waals Gewest met het definitieve bedrag",
+          "Vul het formulier Prime Habitation in via de huisvestingspagina van de stad",
+          "Stuur het binnen 3 maanden met de facturen en de kennisgeving naar de huisvestingsdienst (logement@aubange.be)"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale habitation (Aubange)",
+        "desc": "Si la Région wallonne vous octroie sa prime habitation pour des travaux dans un logement à Aubange, la Ville ajoute 20 % de cette prime, jusqu'à 500 €.",
+        "deadline": "Dans les 3 mois de la réception de la notification de la Région wallonne.",
+        "amount": "20 % de la prime wallonne, jusqu'à 500 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Les factures"
+          },
+          {
+            "type": "doc",
+            "label": "La notification de la Région wallonne indiquant le montant définitif de la prime"
+          }
+        ],
+        "steps": [
+          "Attendez la notification de la Région wallonne indiquant le montant définitif",
+          "Remplissez le formulaire Prime Habitation sur la page logement de la Ville",
+          "Envoyez-le avec les factures et la notification au service logement (logement@aubange.be) dans les 3 mois"
+        ]
+      },
+      "de": {
+        "title": "Prime communale habitation (Aufstockung der Wohnungsprämie, Aubange)",
+        "desc": "Wenn Ihnen die Wallonische Region ihre Wohnungsprämie (prime habitation) für Arbeiten an einer Wohnung in Aubange gewährt, gibt die Stadt 20 % dieser Prämie dazu, bis zu 500 €.",
+        "deadline": "Innerhalb von 3 Monaten nach Erhalt der Mitteilung der Wallonischen Region.",
+        "amount": "20 % der wallonischen Prämie, bis zu 500 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Die Rechnungen"
+          },
+          {
+            "type": "doc",
+            "label": "Die Mitteilung der Wallonischen Region mit dem endgültigen Betrag der Prämie"
+          }
+        ],
+        "steps": [
+          "Warten Sie auf die Mitteilung der Wallonischen Region mit dem endgültigen Betrag",
+          "Füllen Sie das Formular Prime Habitation auf der Wohnungsseite der Stadt aus",
+          "Senden Sie es innerhalb von 3 Monaten mit den Rechnungen und der Mitteilung an den Wohnungsdienst (logement@aubange.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.aubange.be/services-communaux/service-logement-et-patrimoine",
+        "https://ik.imagekit.io/aubange/wp-content/uploads/2024/07/logement-2020-10-19-extrait-conforme-reglement-prime-habitation.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are the owner of a home in Aubange and received the Walloon Region's premium for the same works.",
+          "You apply within 3 months of receiving the Walloon notification of the final amount.",
+          "The Walloon and town premiums together can never exceed the cost of the works.",
+          "If you must repay the Walloon premium, or gave false information, you must repay the town premium too.",
+          "The premium is granted within the budget."
+        ],
+        "nl": [
+          "Je bent eigenaar van een woning in Aubange en kreeg voor dezelfde werken de premie van het Waals Gewest.",
+          "Je vraagt de premie aan binnen 3 maanden na ontvangst van de Waalse kennisgeving van het definitieve bedrag.",
+          "De Waalse en de stedelijke premie samen mogen nooit hoger zijn dan de kosten van de werken.",
+          "Moet je de Waalse premie terugbetalen, of gaf je valse informatie, dan moet je ook de stedelijke premie terugbetalen.",
+          "De premie wordt toegekend binnen het budget."
+        ],
+        "fr": [
+          "Vous êtes propriétaire d'un logement à Aubange et bénéficiaire de la prime de la Région wallonne pour les mêmes travaux.",
+          "La demande est introduite dans les 3 mois de la réception de la notification wallonne du montant définitif.",
+          "Les primes régionale et communale cumulées ne peuvent jamais dépasser le montant des investissements.",
+          "Si vous devez rembourser la prime wallonne, ou en cas de déclaration fausse ou inexacte, vous devez aussi rembourser la prime communale.",
+          "La prime est accordée dans les limites du budget."
+        ],
+        "de": [
+          "Sie sind Eigentümer einer Wohnung in Aubange und haben für dieselben Arbeiten die Prämie der Wallonischen Region erhalten.",
+          "Sie stellen den Antrag innerhalb von 3 Monaten nach Erhalt der wallonischen Mitteilung des endgültigen Betrags.",
+          "Die wallonische und die städtische Prämie zusammen dürfen die Kosten der Arbeiten nie übersteigen.",
+          "Müssen Sie die wallonische Prämie zurückzahlen oder haben Sie falsche Angaben gemacht, müssen Sie auch die städtische Prämie zurückzahlen.",
+          "Die Prämie wird im Rahmen des Haushalts gewährt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 403,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "renting"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "81004"
+    ],
+    "institution": "Ville d'Aubange",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.aubange.be/services-communaux/service-logement-et-patrimoine",
+    "content": {
+      "en": {
+        "title": "Prime communale pour les audits énergétiques (Energy Audit Premium, Aubange)",
+        "desc": "Aubange pays back 20% of the invoice for a home energy audit, up to €200.",
+        "deadline": "Within 3 months of the audit invoice.",
+        "amount": "20% of the invoice, up to €200",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "The audit invoice"
+          }
+        ],
+        "steps": [
+          "Have the audit done by an auditor approved by the Walloon Region",
+          "Fill in the Prime Audit form from the town's housing page",
+          "Send it with the invoice to the housing service (logement@aubange.be) within 3 months"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale pour les audits énergétiques (premie voor een energieaudit, Aubange)",
+        "desc": "Aubange betaalt 20% van de factuur voor een energieaudit van je woning terug, tot €200.",
+        "deadline": "Binnen 3 maanden na de factuur van de audit.",
+        "amount": "20% van de factuur, tot €200",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "De factuur van de audit"
+          }
+        ],
+        "steps": [
+          "Laat de audit uitvoeren door een auditor erkend door het Waals Gewest",
+          "Vul het formulier Prime Audit in via de huisvestingspagina van de stad",
+          "Stuur het binnen 3 maanden met de factuur naar de huisvestingsdienst (logement@aubange.be)"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale pour les audits énergétiques (Aubange)",
+        "desc": "Aubange rembourse 20 % de la facture d'un audit énergétique de votre logement, jusqu'à 200 €.",
+        "deadline": "Au plus tard 3 mois après la date de la facture de l'audit.",
+        "amount": "20 % de la facture, jusqu'à 200 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "La facture de l'audit"
+          }
+        ],
+        "steps": [
+          "Faites réaliser l'audit par un auditeur agréé par la Région wallonne",
+          "Remplissez le formulaire Prime Audit sur la page logement de la Ville",
+          "Envoyez-le avec la facture au service logement (logement@aubange.be) dans les 3 mois"
+        ]
+      },
+      "de": {
+        "title": "Prime communale pour les audits énergétiques (Prämie für ein Energieaudit, Aubange)",
+        "desc": "Aubange erstattet 20 % der Rechnung für ein Energieaudit Ihrer Wohnung, bis zu 200 €.",
+        "deadline": "Innerhalb von 3 Monaten nach dem Datum der Auditrechnung.",
+        "amount": "20 % der Rechnung, bis zu 200 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Die Auditrechnung"
+          }
+        ],
+        "steps": [
+          "Lassen Sie das Audit von einem von der Wallonischen Region anerkannten Auditor durchführen",
+          "Füllen Sie das Formular Prime Audit auf der Wohnungsseite der Stadt aus",
+          "Senden Sie es innerhalb von 3 Monaten mit der Rechnung an den Wohnungsdienst (logement@aubange.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.aubange.be/services-communaux/service-logement-et-patrimoine",
+        "https://ik.imagekit.io/aubange/wp-content/uploads/2024/07/logement-2020-12-21-ex-conforme-prime-Audit.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You hold a real right on, or rent, the home in Aubange and you requested the audit.",
+          "The auditor is approved by the Walloon Region; the basic module is required.",
+          "You apply within 3 months of the invoice date.",
+          "If you also applied for the Walloon audit premium, the two premiums together cannot exceed the invoice."
+        ],
+        "nl": [
+          "Je hebt een zakelijk recht op de woning in Aubange of huurt ze, en je vroeg de audit aan.",
+          "De auditor is erkend door het Waals Gewest; de basismodule is vereist.",
+          "Je vraagt de premie aan binnen 3 maanden na de factuurdatum.",
+          "Vroeg je ook de Waalse auditpremie aan, dan mogen de twee premies samen niet hoger zijn dan de factuur."
+        ],
+        "fr": [
+          "Vous êtes titulaire d'un droit réel sur le logement à Aubange ou locataire, et vous avez sollicité l'audit.",
+          "L'auditeur est agréé par la Région wallonne ; le module de base est nécessaire.",
+          "La demande est introduite au plus tard 3 mois après la date de la facture.",
+          "Si vous avez aussi demandé la prime audit de la Région wallonne, le total des deux primes ne peut dépasser la facture."
+        ],
+        "de": [
+          "Sie haben ein dingliches Recht an der Wohnung in Aubange oder mieten sie und haben das Audit beantragt.",
+          "Der Auditor ist von der Wallonischen Region anerkannt; das Basismodul ist erforderlich.",
+          "Sie stellen den Antrag innerhalb von 3 Monaten nach dem Rechnungsdatum.",
+          "Haben Sie auch die wallonische Auditprämie beantragt, dürfen beide Prämien zusammen die Rechnung nicht übersteigen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 404,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "62006"
+    ],
+    "institution": "Commune d'Awans",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.awans.be/ma-commune/services-communaux/copy_of_bien-etre-animal",
+    "content": {
+      "en": {
+        "title": "Prime à la sociabilisation d'un chien adopté en refuge (Dog Adoption Premium, Awans)",
+        "desc": "Awans gives €50 to a resident who adopts a dog from an approved shelter and has it socialised at a dog club.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "€50",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "The supporting documents the form asks for"
+          }
+        ],
+        "steps": [
+          "Ask the animal welfare service for the form (04/364.06.33 or env@awans.be)",
+          "Return it with the supporting documents",
+          "The commune assesses the form and decides on the premium"
+        ]
+      },
+      "nl": {
+        "title": "Prime à la sociabilisation d'un chien adopté en refuge (premie voor een geadopteerde asielhond, Awans)",
+        "desc": "Awans geeft €50 aan een inwoner die een hond adopteert uit een erkend asiel en hem laat socialiseren bij een hondenclub.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "€50",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "De bewijsstukken die het formulier vraagt"
+          }
+        ],
+        "steps": [
+          "Vraag het formulier bij de dienst dierenwelzijn (04/364.06.33 of env@awans.be)",
+          "Bezorg het terug met de bewijsstukken",
+          "De gemeente beoordeelt het formulier en beslist over de premie"
+        ]
+      },
+      "fr": {
+        "title": "Prime à la sociabilisation d'un chien adopté en refuge (Awans)",
+        "desc": "Awans octroie 50 € à l'habitant qui adopte un chien dans un refuge agréé et le fait sociabiliser dans un club canin.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "50 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Les documents justificatifs demandés par le formulaire"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire au service du Bien-être animal (04/364.06.33 ou env@awans.be)",
+          "Renvoyez-le avec les documents justificatifs",
+          "La commune analyse le formulaire et décide de la prime"
+        ]
+      },
+      "de": {
+        "title": "Prime à la sociabilisation d'un chien adopté en refuge (Prämie für einen adoptierten Tierheimhund, Awans)",
+        "desc": "Awans gibt 50 € an Einwohner, die einen Hund aus einem anerkannten Tierheim adoptieren und ihn in einem Hundeverein sozialisieren lassen.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "50 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Die Belege, die das Formular verlangt"
+          }
+        ],
+        "steps": [
+          "Fordern Sie das Formular beim Dienst für Tierschutz an (04/364.06.33 oder env@awans.be)",
+          "Senden Sie es mit den Belegen zurück",
+          "Die Gemeinde prüft das Formular und entscheidet über die Prämie"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.awans.be/ma-commune/services-communaux/copy_of_bien-etre-animal"
+      ],
+      "conditions": {
+        "en": [
+          "You are a dog keeper living in Awans.",
+          "The dog was adopted from an approved shelter and socialised at a dog club.",
+          "At most 2 premiums per household, one per animal.",
+          "The commune assesses each form and its supporting documents."
+        ],
+        "nl": [
+          "Je bent houder van een hond en woont in Awans.",
+          "De hond werd geadopteerd uit een erkend asiel en gesocialiseerd bij een hondenclub.",
+          "Maximaal 2 premies per gezin, één per dier.",
+          "De gemeente beoordeelt elk formulier en de bewijsstukken."
+        ],
+        "fr": [
+          "Vous êtes détenteur d'un chien et habitez Awans.",
+          "Le chien a été adopté dans un refuge agréé et sociabilisé dans un club canin.",
+          "Maximum 2 primes par ménage, à raison d'une prime par animal.",
+          "La commune analyse chaque formulaire et ses documents justificatifs."
+        ],
+        "de": [
+          "Sie halten einen Hund und wohnen in Awans.",
+          "Der Hund wurde aus einem anerkannten Tierheim adoptiert und in einem Hundeverein sozialisiert.",
+          "Höchstens 2 Prämien pro Haushalt, eine pro Tier.",
+          "Die Gemeinde prüft jedes Formular und die Belege."
+        ]
+      }
+    }
+  },
+  {
+    "id": 405,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "34003"
+    ],
+    "institution": "Gemeente Avelgem",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.avelgem.be/producten/zorgtoelage",
+    "content": {
+      "en": {
+        "title": "Zorgtoelage (Care Allowance, Avelgem)",
+        "desc": "Avelgem pays €25 a month to people with a care need who do not yet qualify for the Flemish care budget for people with a high care need.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "€25 a month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form (Aanvraag zorgtoelage)"
+          },
+          {
+            "type": "doc",
+            "label": "An attestation from the federal social security service with at least 9 points, or proof of at least care category 2 for the care budget for older people"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of your right to increased reimbursement"
+          }
+        ],
+        "steps": [
+          "Fill in the form on the commune of Avelgem's page",
+          "Add the attestation and the proof",
+          "With questions, make an appointment at Woon-Zorg, Leopoldstraat 66 (056 65 30 30, welzijn@avelgem.be)"
+        ]
+      },
+      "nl": {
+        "title": "Zorgtoelage (Avelgem)",
+        "desc": "Avelgem betaalt €25 per maand aan personen met een zorgnood die nog geen recht hebben op het zorgbudget voor zwaar zorgbehoevenden.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "€25 per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente (Aanvraag zorgtoelage)"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van de FOD Sociale Zekerheid met minstens 9 punten, of een bewijs van minstens zorgcategorie 2 voor het zorgbudget voor ouderen"
+          },
+          {
+            "type": "doc",
+            "label": "Een bewijs van je recht op verhoogde tegemoetkoming"
+          }
+        ],
+        "steps": [
+          "Vul het formulier op de pagina van de gemeente Avelgem in",
+          "Voeg het attest en het bewijs toe",
+          "Heb je vragen, maak dan een afspraak bij Woon-Zorg, Leopoldstraat 66 (056 65 30 30, welzijn@avelgem.be)"
+        ]
+      },
+      "fr": {
+        "title": "Zorgtoelage (allocation de soins, Avelgem)",
+        "desc": "Avelgem verse 25 € par mois aux personnes ayant un besoin de soins qui n'ont pas encore droit au budget de soins flamand pour personnes lourdement dépendantes.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "25 € par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune (Aanvraag zorgtoelage)"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du SPF Sécurité sociale avec au moins 9 points, ou la preuve d'au moins la catégorie de soins 2 pour le budget de soins pour personnes âgées"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de votre droit à l'intervention majorée"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire sur la page de la commune d'Avelgem",
+          "Ajoutez l'attestation et la preuve",
+          "Pour toute question, prenez rendez-vous chez Woon-Zorg, Leopoldstraat 66 (056 65 30 30, welzijn@avelgem.be)"
+        ]
+      },
+      "de": {
+        "title": "Zorgtoelage (Pflegezulage, Avelgem)",
+        "desc": "Avelgem zahlt 25 € pro Monat an Personen mit Pflegebedarf, die noch keinen Anspruch auf das flämische Pflegebudget für schwer Pflegebedürftige haben.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "25 € pro Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde (Aanvraag zorgtoelage)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des FÖD Soziale Sicherheit mit mindestens 9 Punkten oder ein Nachweis mindestens der Pflegekategorie 2 für das Pflegebudget für ältere Menschen"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Nachweis Ihres Anspruchs auf erhöhte Kostenerstattung"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular auf der Seite der Gemeinde Avelgem aus",
+          "Fügen Sie die Bescheinigung und den Nachweis bei",
+          "Bei Fragen vereinbaren Sie einen Termin bei Woon-Zorg, Leopoldstraat 66 (056 65 30 30, welzijn@avelgem.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.avelgem.be/producten/zorgtoelage"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled and live in Avelgem.",
+          "You are at least 18.",
+          "You have an attestation from the federal social security service with at least 9 points on the medical-social scale, or proof of at least care category 2 for the care budget for older people.",
+          "You have the right to increased reimbursement (verhoogde tegemoetkoming).",
+          "You do not yet have the right to the care budget for people with a high care need."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd en woont in Avelgem.",
+          "Je bent minstens 18 jaar.",
+          "Je hebt een attest van de FOD Sociale Zekerheid met minstens 9 punten op de medisch-sociale schaal, of een bewijs van minstens zorgcategorie 2 voor het zorgbudget voor ouderen met een zorgnood.",
+          "Je hebt recht op een verhoogde tegemoetkoming.",
+          "Je hebt nog geen recht op het zorgbudget voor zwaar zorgbehoevenden."
+        ],
+        "fr": [
+          "Vous êtes domicilié et habitez à Avelgem.",
+          "Vous avez au moins 18 ans.",
+          "Vous avez une attestation du SPF Sécurité sociale avec au moins 9 points sur l'échelle médico-sociale, ou la preuve d'au moins la catégorie de soins 2 pour le budget de soins pour personnes âgées.",
+          "Vous avez droit à l'intervention majorée (verhoogde tegemoetkoming).",
+          "Vous n'avez pas encore droit au budget de soins pour personnes lourdement dépendantes."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in Avelgem und wohnen dort.",
+          "Sie sind mindestens 18 Jahre alt.",
+          "Sie haben eine Bescheinigung des FÖD Soziale Sicherheit mit mindestens 9 Punkten auf der medizinisch-sozialen Skala oder einen Nachweis mindestens der Pflegekategorie 2 für das Pflegebudget für ältere Menschen.",
+          "Sie haben Anspruch auf erhöhte Kostenerstattung (verhoogde tegemoetkoming).",
+          "Sie haben noch keinen Anspruch auf das Pflegebudget für schwer Pflegebedürftige."
+        ]
+      }
+    }
+  },
+  {
+    "id": 406,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "34003"
+    ],
+    "institution": "Gemeente Avelgem",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.avelgem.be/producten/financiele-tussenkomst-aan-personen-met-een-bepaald-ziektebeeld",
+    "content": {
+      "en": {
+        "title": "Financiële tussenkomst aan personen met een bepaald ziektebeeld (Allowance for Certain Conditions, Avelgem)",
+        "desc": "Avelgem gives €70 to residents living at home with chronic incontinence, a stoma, or home dialysis, tube feeding, peritoneal dialysis or chemotherapy. It is paid onto the Imog prepaid account of your address.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "€70",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "An attestation of increased reimbursement from your health fund"
+          },
+          {
+            "type": "doc",
+            "label": "For incontinence: the incontinence allowance attestation from your health fund; otherwise an attestation filled in by your GP"
+          }
+        ],
+        "steps": [
+          "Ask your health fund or GP for the attestations",
+          "Fill in the form on the commune of Avelgem's page and add them",
+          "With questions, make an appointment at Woon-Zorg, Leopoldstraat 66 (056 65 30 30, welzijn@avelgem.be)"
+        ]
+      },
+      "nl": {
+        "title": "Financiële tussenkomst aan personen met een bepaald ziektebeeld (Avelgem)",
+        "desc": "Avelgem geeft €70 aan inwoners die thuis wonen met chronische incontinentie, een stoma, of thuisbehandeling met nierdialyse, sondevoeding, buikvliesspoeling of chemo. Het bedrag wordt gestort op de provisierekening van Imog van je adres.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "€70",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van verhoogde tegemoetkoming van je ziekenfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Bij incontinentie: het attest van incontinentieforfait van je ziekenfonds; anders een attest ingevuld door je huisarts"
+          }
+        ],
+        "steps": [
+          "Vraag de attesten aan je ziekenfonds of huisarts",
+          "Vul het formulier op de pagina van de gemeente Avelgem in en voeg ze toe",
+          "Heb je vragen, maak dan een afspraak bij Woon-Zorg, Leopoldstraat 66 (056 65 30 30, welzijn@avelgem.be)"
+        ]
+      },
+      "fr": {
+        "title": "Financiële tussenkomst aan personen met een bepaald ziektebeeld (intervention pour certaines pathologies, Avelgem)",
+        "desc": "Avelgem octroie 70 € aux habitants vivant à domicile avec une incontinence chronique, une stomie, ou un traitement à domicile par dialyse rénale, alimentation par sonde, dialyse péritonéale ou chimiothérapie. Le montant est versé sur le compte de provision Imog de votre adresse.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "70 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation d'intervention majorée de votre mutualité"
+          },
+          {
+            "type": "doc",
+            "label": "Pour l'incontinence : l'attestation de forfait incontinence de votre mutualité ; sinon une attestation remplie par votre médecin généraliste"
+          }
+        ],
+        "steps": [
+          "Demandez les attestations à votre mutualité ou à votre médecin",
+          "Remplissez le formulaire sur la page de la commune d'Avelgem et joignez-les",
+          "Pour toute question, prenez rendez-vous chez Woon-Zorg, Leopoldstraat 66 (056 65 30 30, welzijn@avelgem.be)"
+        ]
+      },
+      "de": {
+        "title": "Financiële tussenkomst aan personen met een bepaald ziektebeeld (Zuschuss bei bestimmten Krankheitsbildern, Avelgem)",
+        "desc": "Avelgem gibt 70 € an Einwohner, die zu Hause wohnen und chronische Inkontinenz, ein Stoma oder eine häusliche Behandlung mit Nierendialyse, Sondenernährung, Bauchfelldialyse oder Chemotherapie haben. Der Betrag wird auf das Imog-Vorauszahlungskonto Ihrer Adresse überwiesen.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "70 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung über die erhöhte Kostenerstattung Ihrer Krankenkasse"
+          },
+          {
+            "type": "doc",
+            "label": "Bei Inkontinenz: die Bescheinigung über die Inkontinenzpauschale Ihrer Krankenkasse; sonst eine von Ihrem Hausarzt ausgefüllte Bescheinigung"
+          }
+        ],
+        "steps": [
+          "Fordern Sie die Bescheinigungen bei Ihrer Krankenkasse oder Ihrem Hausarzt an",
+          "Füllen Sie das Formular auf der Seite der Gemeinde Avelgem aus und fügen Sie sie bei",
+          "Bei Fragen vereinbaren Sie einen Termin bei Woon-Zorg, Leopoldstraat 66 (056 65 30 30, welzijn@avelgem.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.avelgem.be/producten/financiele-tussenkomst-aan-personen-met-een-bepaald-ziektebeeld"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in Avelgem and stay at home, not in a residential facility.",
+          "You have the right to increased reimbursement (verhoogde tegemoetkoming).",
+          "You have chronic incontinence, or you are a stoma patient, or you get home treatment with kidney dialysis, tube feeding, peritoneal dialysis or chemotherapy."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in Avelgem en verblijft thuis, niet in een residentiële voorziening.",
+          "Je hebt recht op een verhoogde tegemoetkoming.",
+          "Je hebt chronische incontinentie, of je bent stomapatiënt, of je krijgt thuisbehandeling met nierdialyse, sondevoeding, buikvliesspoeling of chemo."
+        ],
+        "fr": [
+          "Vous êtes domicilié à Avelgem et résidez chez vous, pas dans une structure résidentielle.",
+          "Vous avez droit à l'intervention majorée (verhoogde tegemoetkoming).",
+          "Vous souffrez d'incontinence chronique, ou vous êtes stomisé, ou vous recevez à domicile une dialyse rénale, une alimentation par sonde, une dialyse péritonéale ou une chimiothérapie."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in Avelgem und leben zu Hause, nicht in einer Wohneinrichtung.",
+          "Sie haben Anspruch auf erhöhte Kostenerstattung (verhoogde tegemoetkoming).",
+          "Sie haben chronische Inkontinenz, sind Stomapatient oder erhalten zu Hause Nierendialyse, Sondenernährung, Bauchfelldialyse oder Chemotherapie."
+        ]
+      }
+    }
+  },
+  {
+    "id": 407,
+    "category": "family",
+    "situations": [
+      "children",
+      "school",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "34003"
+    ],
+    "institution": "Gemeente Avelgem",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.avelgem.be/producten/schooltoelage",
+    "content": {
+      "en": {
+        "title": "Schooltoelage (School Allowance, Avelgem)",
+        "desc": "Avelgem pays a contribution at the start of the school year for children in a vulnerable situation: €40 for a nursery child, €45 for primary school, €85 for secondary school.",
+        "deadline": "Between 15 June and 30 September, every school year.",
+        "amount": "€40 nursery, €45 primary, €85 secondary",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "The supporting proof of your child's category"
+          }
+        ],
+        "steps": [
+          "Fill in the form; for families on a living wage or in budget guidance, your OCMW social worker can apply",
+          "Hand it in with the proof at Huis aan de Schelde, Leopoldstraat 66, between 15 June and 30 September",
+          "Apply again every school year; help is available on 056/65 30 30"
+        ]
+      },
+      "nl": {
+        "title": "Schooltoelage (Avelgem)",
+        "desc": "Avelgem betaalt bij de start van het schooljaar een tegemoetkoming voor kinderen in een kwetsbare situatie: €40 voor een kleuter, €45 voor lager onderwijs, €85 voor secundair onderwijs.",
+        "deadline": "Tussen 15 juni en 30 september, elk schooljaar.",
+        "amount": "€40 kleuter, €45 lager, €85 secundair",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "De bewijsstukken van de categorie van je kind"
+          }
+        ],
+        "steps": [
+          "Vul het formulier in; bij leefloon of budgetbeheer of -begeleiding kan je maatschappelijk werker van het OCMW de aanvraag doen",
+          "Bezorg het met de bewijsstukken aan Huis aan de Schelde, Leopoldstraat 66, tussen 15 juni en 30 september",
+          "Vraag de toelage elk schooljaar opnieuw aan; hulp krijg je via 056/65 30 30"
+        ]
+      },
+      "fr": {
+        "title": "Schooltoelage (allocation scolaire, Avelgem)",
+        "desc": "Avelgem verse une aide à la rentrée pour les enfants en situation vulnérable : 40 € pour un enfant de maternelle, 45 € en primaire, 85 € en secondaire.",
+        "deadline": "Entre le 15 juin et le 30 septembre, chaque année scolaire.",
+        "amount": "40 € maternelle, 45 € primaire, 85 € secondaire",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Les preuves de la catégorie de votre enfant"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire ; en cas de revenu d'intégration ou de gestion ou guidance budgétaire, votre assistant social du CPAS peut faire la demande",
+          "Remettez-le avec les preuves à Huis aan de Schelde, Leopoldstraat 66, entre le 15 juin et le 30 septembre",
+          "Refaites la demande chaque année scolaire ; de l'aide est disponible au 056/65 30 30"
+        ]
+      },
+      "de": {
+        "title": "Schooltoelage (Schulzulage, Avelgem)",
+        "desc": "Avelgem zahlt zum Schuljahresbeginn einen Zuschuss für Kinder in einer schwierigen Lage: 40 € für ein Kindergartenkind, 45 € für die Grundschule, 85 € für die Sekundarschule.",
+        "deadline": "Zwischen dem 15. Juni und dem 30. September, jedes Schuljahr.",
+        "amount": "40 € Kindergarten, 45 € Grundschule, 85 € Sekundarschule",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Die Nachweise für die Kategorie Ihres Kindes"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular aus; bei Eingliederungseinkommen oder Budgetverwaltung oder -begleitung kann Ihr Sozialarbeiter des ÖSHZ den Antrag stellen",
+          "Geben Sie es mit den Nachweisen zwischen dem 15. Juni und dem 30. September bei Huis aan de Schelde, Leopoldstraat 66, ab",
+          "Stellen Sie den Antrag jedes Schuljahr neu; Hilfe erhalten Sie unter 056/65 30 30"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.avelgem.be/producten/schooltoelage"
+      ],
+      "conditions": {
+        "en": [
+          "Your child, or you if you provide more than half of the child's care, is domiciled in Avelgem.",
+          "Your child belongs to one of these groups: parents on a living wage or equivalent; family in budget management or guidance; family in collective debt settlement; child with increased reimbursement in health insurance.",
+          "You apply again every school year; the form is valid for 1 year."
+        ],
+        "nl": [
+          "Je kind, of jij als je instaat voor meer dan de helft van de zorg voor je kind, is gedomicilieerd in Avelgem.",
+          "Je kind behoort tot een van deze categorieën: ouders met leefloon of equivalent leefloon; gezin in budgetbeheer of budgetbegeleiding; gezin in collectieve schuldenregeling; kind met een verhoogde tegemoetkoming van de ziekteverzekering.",
+          "Je vraagt de toelage elk schooljaar opnieuw aan; het formulier is 1 jaar geldig."
+        ],
+        "fr": [
+          "Votre enfant, ou vous si vous assumez plus de la moitié de ses soins, est domicilié à Avelgem.",
+          "Votre enfant appartient à l'une de ces catégories : parents bénéficiant du revenu d'intégration ou équivalent ; famille en gestion ou guidance budgétaire ; famille en règlement collectif de dettes ; enfant bénéficiant de l'intervention majorée de l'assurance maladie.",
+          "La demande est à refaire chaque année scolaire ; le formulaire est valable 1 an."
+        ],
+        "de": [
+          "Ihr Kind oder Sie, wenn Sie mehr als die Hälfte der Betreuung übernehmen, haben den Wohnsitz in Avelgem.",
+          "Ihr Kind gehört zu einer dieser Gruppen: Eltern mit Eingliederungseinkommen oder Gleichwertigem; Familie in Budgetverwaltung oder -begleitung; Familie in kollektiver Schuldenregelung; Kind mit erhöhter Kostenerstattung der Krankenversicherung.",
+          "Sie stellen den Antrag jedes Schuljahr neu; das Formular gilt 1 Jahr."
+        ]
+      }
+    }
+  },
+  {
+    "id": 408,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13003"
+    ],
+    "institution": "OCMW Balen",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.balen.be/gemeentepremie",
+    "content": {
+      "en": {
+        "title": "Gemeentepremie voor personen met een beperking (Premium for People with a Disability, Balen)",
+        "desc": "Balen gives adult residents with a disability €35 a year to help them take part in leisure activities and clubs.",
+        "deadline": "Each year between 1 September and 31 October.",
+        "amount": "€35 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your name, address, national register number, e-mail address and phone number"
+          },
+          {
+            "type": "doc",
+            "label": "Your bank account number"
+          }
+        ],
+        "steps": [
+          "Apply between 1 September and 31 October through the e-counter at www.balen.be/gemeentepremie",
+          "Or hand in your details at the letterbox or info desk of the OCMW-huis, Veststraat 60",
+          "If you got the premium last year, you do not need to apply again; only report a new address or account"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentepremie voor personen met een beperking (Balen)",
+        "desc": "Balen geeft meerderjarige inwoners met een beperking €35 per jaar om deel te nemen aan vrijetijdsactiviteiten en het verenigingsleven.",
+        "deadline": "Elk jaar tussen 1 september en 31 oktober.",
+        "amount": "€35 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Je naam, adres, rijksregisternummer, e-mailadres en telefoonnummer"
+          },
+          {
+            "type": "doc",
+            "label": "Je rekeningnummer"
+          }
+        ],
+        "steps": [
+          "Vraag de premie tussen 1 september en 31 oktober aan via het e-loket op www.balen.be/gemeentepremie",
+          "Of bezorg je gegevens via de brievenbus of de infobalie van het OCMW-huis, Veststraat 60",
+          "Kreeg je de premie vorig jaar, dan hoef je geen nieuwe aanvraag te doen; meld alleen een nieuw adres of rekeningnummer"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentepremie voor personen met een beperking (prime pour personnes handicapées, Balen)",
+        "desc": "Balen octroie aux habitants majeurs en situation de handicap 35 € par an pour participer à des activités de loisirs et à la vie associative.",
+        "deadline": "Chaque année entre le 1er septembre et le 31 octobre.",
+        "amount": "35 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vos nom, adresse, numéro de registre national, adresse e-mail et numéro de téléphone"
+          },
+          {
+            "type": "doc",
+            "label": "Votre numéro de compte"
+          }
+        ],
+        "steps": [
+          "Faites la demande entre le 1er septembre et le 31 octobre via le guichet en ligne sur www.balen.be/gemeentepremie",
+          "Ou déposez vos données dans la boîte aux lettres ou à l'accueil de l'OCMW-huis, Veststraat 60",
+          "Si vous avez reçu la prime l'an dernier, pas de nouvelle demande ; signalez seulement une nouvelle adresse ou un nouveau compte"
+        ]
+      },
+      "de": {
+        "title": "Gemeentepremie voor personen met een beperking (Prämie für Menschen mit Behinderung, Balen)",
+        "desc": "Balen gibt volljährigen Einwohnern mit Behinderung 35 € pro Jahr für die Teilnahme an Freizeitaktivitäten und am Vereinsleben.",
+        "deadline": "Jedes Jahr zwischen dem 1. September und dem 31. Oktober.",
+        "amount": "35 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ihr Name, Ihre Adresse, Nationalregisternummer, E-Mail-Adresse und Telefonnummer"
+          },
+          {
+            "type": "doc",
+            "label": "Ihre Kontonummer"
+          }
+        ],
+        "steps": [
+          "Stellen Sie den Antrag zwischen dem 1. September und dem 31. Oktober über den Online-Schalter auf www.balen.be/gemeentepremie",
+          "Oder geben Sie Ihre Daten im Briefkasten oder am Empfang des OCMW-huis, Veststraat 60, ab",
+          "Haben Sie die Prämie letztes Jahr erhalten, ist kein neuer Antrag nötig; melden Sie nur eine neue Adresse oder Kontonummer"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.balen.be/gemeentepremie"
+      ],
+      "conditions": {
+        "en": [
+          "You are registered in Balen when you apply.",
+          "You are at least 18.",
+          "You do not live in a residential care centre.",
+          "You receive the income replacement allowance or the integration allowance from the federal social security service, or the care budget for older people with a care need from your care fund."
+        ],
+        "nl": [
+          "Je bent ingeschreven in Balen op het moment van de aanvraag.",
+          "Je bent minstens 18 jaar.",
+          "Je verblijft niet in een woonzorgcentrum.",
+          "Je ontvangt de inkomensvervangende tegemoetkoming of de integratietegemoetkoming van de FOD Sociale Zekerheid, of het zorgbudget voor ouderen met een zorgnood van de zorgkas."
+        ],
+        "fr": [
+          "Vous êtes inscrit à Balen au moment de la demande.",
+          "Vous avez au moins 18 ans.",
+          "Vous ne résidez pas dans un centre de soins résidentiels.",
+          "Vous percevez l'allocation de remplacement de revenus ou l'allocation d'intégration du SPF Sécurité sociale, ou le budget de soins pour personnes âgées de votre caisse de soins."
+        ],
+        "de": [
+          "Sie sind bei der Antragstellung in Balen eingetragen.",
+          "Sie sind mindestens 18 Jahre alt.",
+          "Sie wohnen nicht in einem Wohn- und Pflegezentrum.",
+          "Sie erhalten die Einkommensersatzbeihilfe oder die Eingliederungsbeihilfe des FÖD Soziale Sicherheit oder das Pflegebudget für ältere Menschen Ihrer Pflegekasse."
+        ]
+      }
+    }
+  },
+  {
+    "id": 409,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13002"
+    ],
+    "institution": "Gemeente Baarle-Hertog",
+    "verified": "5 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.baarle-hertog.be/sociaal-pedagogische-toelage",
+    "content": {
+      "en": {
+        "title": "Sociaal-pedagogische toelage (Allowance for Parents of a Child with a Disability, Baarle-Hertog)",
+        "desc": "Baarle-Hertog gives €150 a year to parents who care for and raise a child with a disability or serious condition at home.",
+        "deadline": "The commune's page gives no deadline; the child's age is checked on 31 December of the year you apply.",
+        "amount": "€150 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A valid attestation of the child's condition, showing the points on the medical-social scale"
+          }
+        ],
+        "steps": [
+          "Get the attestation from your Groeipakket payer, the federal social security service or Kind en Gezin",
+          "Make an appointment with the social assistant on 014 69 80 70",
+          "Bring the attestation and apply at the appointment"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-pedagogische toelage (Baarle-Hertog)",
+        "desc": "Baarle-Hertog geeft €150 per jaar aan ouders die thuis de verzorging en opvoeding op zich nemen van een kind met een beperking of ernstige aandoening.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn; de leeftijd van het kind telt op 31 december van het jaar van de aanvraag.",
+        "amount": "€150 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een geldig attest van de aandoening van het kind, met de punten op de medisch-sociale schaal"
+          }
+        ],
+        "steps": [
+          "Vraag het attest aan de uitbetaler van je groeipakket, de FOD Sociale Zekerheid of Kind en Gezin",
+          "Maak een afspraak met de maatschappelijk assistent via 014 69 80 70",
+          "Breng het attest mee en doe de aanvraag op de afspraak"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-pedagogische toelage (allocation socio-pédagogique, Baarle-Hertog)",
+        "desc": "Baarle-Hertog octroie 150 € par an aux parents qui assurent à domicile les soins et l'éducation d'un enfant handicapé ou atteint d'une affection grave.",
+        "deadline": "La page de la commune n'indique pas de délai ; l'âge de l'enfant compte au 31 décembre de l'année de la demande.",
+        "amount": "150 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une attestation valable de l'affection de l'enfant, avec les points sur l'échelle médico-sociale"
+          }
+        ],
+        "steps": [
+          "Demandez l'attestation à la caisse de votre Groeipakket, au SPF Sécurité sociale ou à Kind en Gezin",
+          "Prenez rendez-vous avec l'assistant social au 014 69 80 70",
+          "Apportez l'attestation et faites la demande lors du rendez-vous"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-pedagogische toelage (sozialpädagogische Zulage, Baarle-Hertog)",
+        "desc": "Baarle-Hertog gibt 150 € pro Jahr an Eltern, die zu Hause die Pflege und Erziehung eines Kindes mit Behinderung oder schwerer Erkrankung übernehmen.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist; das Alter des Kindes zählt am 31. Dezember des Antragsjahres.",
+        "amount": "150 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine gültige Bescheinigung über die Erkrankung des Kindes mit den Punkten auf der medizinisch-sozialen Skala"
+          }
+        ],
+        "steps": [
+          "Fordern Sie die Bescheinigung bei Ihrer Groeipakket-Kasse, dem FÖD Soziale Sicherheit oder Kind en Gezin an",
+          "Vereinbaren Sie unter 014 69 80 70 einen Termin mit dem Sozialassistenten",
+          "Bringen Sie die Bescheinigung mit und stellen Sie den Antrag beim Termin"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "5 Nov 2026",
+      "source_url": [
+        "https://www.baarle-hertog.be/sociaal-pedagogische-toelage"
+      ],
+      "conditions": {
+        "en": [
+          "You are a parent who cares for and raises the child at home.",
+          "The child already has the right to a care supplement on top of the Groeipakket basic amount.",
+          "The child scores at least 4 points in pillar 1 of the supplement for children with a disability.",
+          "The child is no older than 18 on 31 December of the year you apply."
+        ],
+        "nl": [
+          "Je bent een ouder die thuis de verzorging en opvoeding van het kind op zich neemt.",
+          "Het kind heeft al recht op een zorgtoeslag bovenop het basisbedrag van het groeipakket.",
+          "Het kind haalt minimum 4 punten in pijler 1 van de toeslag voor kinderen met een handicap.",
+          "Het kind is niet ouder dan 18 jaar op 31 december van het jaar van de aanvraag."
+        ],
+        "fr": [
+          "Vous êtes un parent qui assure à domicile les soins et l'éducation de l'enfant.",
+          "L'enfant a déjà droit à un supplément de soins en plus du montant de base du Groeipakket.",
+          "L'enfant obtient au moins 4 points au pilier 1 du supplément pour enfants handicapés.",
+          "L'enfant n'a pas plus de 18 ans au 31 décembre de l'année de la demande."
+        ],
+        "de": [
+          "Sie sind ein Elternteil, der zu Hause die Pflege und Erziehung des Kindes übernimmt.",
+          "Das Kind hat bereits Anspruch auf einen Pflegezuschlag zusätzlich zum Grundbetrag des Groeipakket.",
+          "Das Kind erreicht mindestens 4 Punkte in Säule 1 des Zuschlags für Kinder mit Behinderung.",
+          "Das Kind ist am 31. Dezember des Antragsjahres nicht älter als 18 Jahre."
+        ]
+      }
+    }
   }
 ]
