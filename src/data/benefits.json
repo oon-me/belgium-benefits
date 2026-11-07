@@ -49270,5 +49270,2012 @@
         ]
       }
     }
+  },
+  {
+    "id": 410,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "31003"
+    ],
+    "institution": "Gemeente Beernem",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.beernem.be/product/1034/tegemoetkoming-voor-kinderen-met-een-beperking",
+    "content": {
+      "en": {
+        "title": "Sociaal-pedagogische toelage (Allowance for a Child with a Disability, Beernem)",
+        "desc": "Beernem gives €375 per child per year to families with a child with a disability who lives at home.",
+        "deadline": "Before 10 December each year.",
+        "amount": "€375 per child per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A certificate from your child benefit payer showing the care supplement, or a certificate from the federal social security service showing the disability or condition"
+          }
+        ],
+        "steps": [
+          "Apply online through 'Sociaal-pedagogische toelage: aanvraag' on the commune's page",
+          "Or apply at the sociaal huis, Bloemendalestraat 130 (050 78 82 40)",
+          "On Monday, Thursday and Friday make an appointment first; on Tuesday and Wednesday you can come without one"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-pedagogische toelage (Beernem)",
+        "desc": "Beernem geeft €375 per kind per jaar aan gezinnen met een thuiswonend kind met een beperking.",
+        "deadline": "Vóór 10 december van elk jaar.",
+        "amount": "€375 per kind per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een attest van de uitbetaler van het groeipakket over de zorgtoeslag, of een attest van de FOD Sociale Zekerheid over de beperking of aandoening"
+          }
+        ],
+        "steps": [
+          "Vraag de toelage digitaal aan via 'Sociaal-pedagogische toelage: aanvraag' op de pagina van de gemeente",
+          "Of vraag ze aan in het sociaal huis, Bloemendalestraat 130 (050 78 82 40)",
+          "Op maandag, donderdag en vrijdag maak je eerst een afspraak; op dinsdag en woensdag kan je zonder afspraak langskomen"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-pedagogische toelage (allocation pour un enfant handicapé, Beernem)",
+        "desc": "Beernem octroie 375 € par enfant et par an aux familles dont l'enfant en situation de handicap vit à la maison.",
+        "deadline": "Avant le 10 décembre de chaque année.",
+        "amount": "375 € par enfant et par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une attestation de votre caisse d'allocations familiales sur le supplément de soins, ou une attestation du SPF Sécurité sociale sur le handicap ou l'affection"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne via « Sociaal-pedagogische toelage: aanvraag » sur la page de la commune",
+          "Ou faites la demande au sociaal huis, Bloemendalestraat 130 (050 78 82 40)",
+          "Le lundi, le jeudi et le vendredi, prenez d'abord rendez-vous ; le mardi et le mercredi, vous pouvez venir sans rendez-vous"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-pedagogische toelage (Zulage für ein Kind mit Behinderung, Beernem)",
+        "desc": "Beernem gibt Familien mit einem zu Hause lebenden Kind mit Behinderung 375 € pro Kind und Jahr.",
+        "deadline": "Vor dem 10. Dezember jedes Jahres.",
+        "amount": "375 € pro Kind und Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung Ihrer Kindergeldkasse über den Pflegezuschlag oder eine Bescheinigung des FÖD Soziale Sicherheit über die Behinderung oder Erkrankung"
+          }
+        ],
+        "steps": [
+          "Stellen Sie den Antrag online über „Sociaal-pedagogische toelage: aanvraag“ auf der Seite der Gemeinde",
+          "Oder stellen Sie ihn im sociaal huis, Bloemendalestraat 130 (050 78 82 40)",
+          "Montags, donnerstags und freitags vereinbaren Sie zuerst einen Termin; dienstags und mittwochs können Sie ohne Termin kommen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.beernem.be/product/1034/tegemoetkoming-voor-kinderen-met-een-beperking"
+      ],
+      "conditions": {
+        "en": [
+          "The child has not reached age 21 on 1 January of the year you apply.",
+          "The child lives permanently at home, not in residential care.",
+          "A certificate from the child benefit payer shows a right to the care supplement, or a certificate from the federal social security service shows a disability or condition.",
+          "On 31 December of the year you apply, the parents or carers have lived in Beernem for at least one year."
+        ],
+        "nl": [
+          "Het kind is op 1 januari van het jaar van aanvraag nog geen 21 jaar.",
+          "Het kind verblijft permanent thuis, dus niet residentieel.",
+          "Een attest van de uitbetaler van het groeipakket toont het recht op een zorgtoeslag, of een attest van de FOD Sociale Zekerheid toont een beperking of aandoening.",
+          "De ouders of zorgverstrekkers zijn op 31 december van het jaar van aanvraag minstens één jaar inwoner van Beernem."
+        ],
+        "fr": [
+          "L'enfant n'a pas atteint 21 ans au 1er janvier de l'année de la demande.",
+          "L'enfant vit en permanence à la maison, pas en résidentiel.",
+          "Une attestation de la caisse d'allocations familiales montre le droit à un supplément de soins, ou une attestation du SPF Sécurité sociale montre un handicap ou une affection.",
+          "Au 31 décembre de l'année de la demande, les parents ou aidants habitent Beernem depuis au moins un an."
+        ],
+        "de": [
+          "Das Kind ist am 1. Januar des Antragsjahres noch nicht 21 Jahre alt.",
+          "Das Kind lebt dauerhaft zu Hause, nicht in einer stationären Einrichtung.",
+          "Eine Bescheinigung der Kindergeldkasse belegt den Anspruch auf einen Pflegezuschlag, oder eine Bescheinigung des FÖD Soziale Sicherheit belegt eine Behinderung oder Erkrankung.",
+          "Am 31. Dezember des Antragsjahres wohnen die Eltern oder Betreuer seit mindestens einem Jahr in Beernem."
+        ]
+      }
+    }
+  },
+  {
+    "id": 411,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "31003"
+    ],
+    "institution": "Gemeente Beernem",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.beernem.be/product/1033/thuiszorgpremie",
+    "content": {
+      "en": {
+        "title": "Thuiszorgpremie (Home Care Premium, Beernem)",
+        "desc": "Beernem gives residents who need care and live at home €20 a month, paid every six months.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "€20 a month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of your right to the care premium from the Flemish care insurance"
+          }
+        ],
+        "steps": [
+          "Apply online through 'Thuiszorgpremie: aanvraag' on the commune's page",
+          "Or apply at the sociaal huis, Bloemendalestraat 130 (050 78 82 40)",
+          "The premium is paid every six months"
+        ]
+      },
+      "nl": {
+        "title": "Thuiszorgpremie (Beernem)",
+        "desc": "Beernem geeft zorgbehoevende inwoners die thuis wonen €20 per maand, per half jaar uitbetaald.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "€20 per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van je recht op de mantel- en thuiszorgpremie van de Vlaamse Zorgverzekering"
+          }
+        ],
+        "steps": [
+          "Vraag de premie digitaal aan via 'Thuiszorgpremie: aanvraag' op de pagina van de gemeente",
+          "Of vraag ze aan in het sociaal huis, Bloemendalestraat 130 (050 78 82 40)",
+          "De premie wordt per half jaar uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Thuiszorgpremie (prime de soins à domicile, Beernem)",
+        "desc": "Beernem octroie 20 € par mois aux habitants qui ont besoin de soins et vivent à la maison, versés par semestre.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "20 € par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La preuve de votre droit à la prime de soins de l'assurance soins flamande"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne via « Thuiszorgpremie: aanvraag » sur la page de la commune",
+          "Ou faites la demande au sociaal huis, Bloemendalestraat 130 (050 78 82 40)",
+          "La prime est versée par semestre"
+        ]
+      },
+      "de": {
+        "title": "Thuiszorgpremie (Prämie für häusliche Pflege, Beernem)",
+        "desc": "Beernem gibt pflegebedürftigen Einwohnern, die zu Hause leben, 20 € pro Monat, halbjährlich ausgezahlt.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "20 € pro Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der Nachweis Ihres Anspruchs auf die Pflegeprämie der flämischen Pflegeversicherung"
+          }
+        ],
+        "steps": [
+          "Stellen Sie den Antrag online über „Thuiszorgpremie: aanvraag“ auf der Seite der Gemeinde",
+          "Oder stellen Sie ihn im sociaal huis, Bloemendalestraat 130 (050 78 82 40)",
+          "Die Prämie wird halbjährlich ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.beernem.be/product/1033/thuiszorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "You have a right to the care premium (mantel- en thuiszorgpremie) from the Flemish care insurance.",
+          "You are at least 21.",
+          "You have lived in Beernem for at least 6 months.",
+          "You live at home."
+        ],
+        "nl": [
+          "Je hebt recht op een mantel- en thuiszorgpremie van de Vlaamse Zorgverzekering.",
+          "Je bent minstens 21 jaar.",
+          "Je hebt minstens 6 maanden je woon- en verblijfplaats in Beernem.",
+          "Je woont thuis."
+        ],
+        "fr": [
+          "Vous avez droit à la prime de soins (mantel- en thuiszorgpremie) de l'assurance soins flamande.",
+          "Vous avez au moins 21 ans.",
+          "Vous résidez à Beernem depuis au moins 6 mois.",
+          "Vous vivez à la maison."
+        ],
+        "de": [
+          "Sie haben Anspruch auf die Pflegeprämie (mantel- en thuiszorgpremie) der flämischen Pflegeversicherung.",
+          "Sie sind mindestens 21 Jahre alt.",
+          "Sie wohnen seit mindestens 6 Monaten in Beernem.",
+          "Sie leben zu Hause."
+        ]
+      }
+    }
+  },
+  {
+    "id": 412,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "31003"
+    ],
+    "institution": "Gemeente Beernem",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.beernem.be/product/1022/gemeentelijke-premie-ter-bestrijding-van-optrekkend-vocht",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke premie ter bestrijding van optrekkend vocht (Rising Damp Premium, Beernem)",
+        "desc": "Beernem pays 30% of the cost of treating rising damp, up to €800, to owners who live in the home or rent it out.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "30% of the cost, up to €800",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A contractor's invoice that clearly describes the repair work"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment"
+          },
+          {
+            "type": "doc",
+            "label": "For a rented home: a registered rental contract"
+          }
+        ],
+        "steps": [
+          "Download the form from the commune's page",
+          "Hand it in with the attachments at the Woonwinkel or the housing service, Bloemendalestraat 112 (050 28 91 21, wonen@beernem.be)"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke premie ter bestrijding van optrekkend vocht (Beernem)",
+        "desc": "Beernem betaalt eigenaar-bewoners en eigenaar-verhuurders 30% van de kosten om optrekkend vocht te bestrijden, tot €800.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "30% van de kostprijs, tot €800",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een factuur van een aannemer met een duidelijke vermelding van de herstellingswerken"
+          },
+          {
+            "type": "doc",
+            "label": "Een betalingsbewijs"
+          },
+          {
+            "type": "doc",
+            "label": "Voor een huurwoning: een geregistreerd huurcontract"
+          }
+        ],
+        "steps": [
+          "Download het formulier op de pagina van de gemeente",
+          "Bezorg het met de bijlagen aan de Woonwinkel of de dienst huisvesting, Bloemendalestraat 112 (050 28 91 21, wonen@beernem.be)"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke premie ter bestrijding van optrekkend vocht (prime contre l'humidité ascensionnelle, Beernem)",
+        "desc": "Beernem paie 30 % du coût du traitement de l'humidité ascensionnelle, jusqu'à 800 €, aux propriétaires occupants ou bailleurs.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "30 % du coût, jusqu'à 800 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une facture d'un entrepreneur décrivant clairement les travaux de réparation"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "Pour un logement loué : un bail enregistré"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur la page de la commune",
+          "Remettez-le avec les annexes au Woonwinkel ou au service logement, Bloemendalestraat 112 (050 28 91 21, wonen@beernem.be)"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke premie ter bestrijding van optrekkend vocht (Prämie gegen aufsteigende Feuchtigkeit, Beernem)",
+        "desc": "Beernem zahlt Eigentümern, die in der Wohnung leben oder sie vermieten, 30 % der Kosten für die Behandlung aufsteigender Feuchtigkeit, bis zu 800 €.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "30 % der Kosten, bis zu 800 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Rechnung eines Bauunternehmers mit klarer Angabe der Reparaturarbeiten"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Zahlungsnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Bei einer Mietwohnung: ein registrierter Mietvertrag"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf der Seite der Gemeinde herunter",
+          "Geben Sie es mit den Anlagen beim Woonwinkel oder beim Wohnungsdienst ab, Bloemendalestraat 112 (050 28 91 21, wonen@beernem.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.beernem.be/product/1022/gemeentelijke-premie-ter-bestrijding-van-optrekkend-vocht"
+      ],
+      "conditions": {
+        "en": [
+          "You own the home and live in it or rent it out.",
+          "The work treats rising damp in inner or outer walls: cutting into walls, a waterproof layer or injecting walls, done by a contractor.",
+          "For a rented home at up to €650 a month you get the full calculated premium; from €651 to at most €900 a month you get 50% of it.",
+          "The premium can be given only once per location."
+        ],
+        "nl": [
+          "Je bent eigenaar-bewoner of eigenaar-verhuurder.",
+          "De werken bestrijden optrekkend vocht in binnen- of buitenmuren: onderkappen van muren, een waterkerende laag of injecteren van muren, uitgevoerd door een aannemer.",
+          "Voor een huurwoning tot €650 per maand krijg je de volledige berekende premie; van €651 tot maximaal €900 per maand krijg je 50% ervan.",
+          "Elke premie kan slechts eenmaal per locatie worden toegepast."
+        ],
+        "fr": [
+          "Vous êtes propriétaire occupant ou propriétaire bailleur.",
+          "Les travaux traitent l'humidité ascensionnelle dans des murs intérieurs ou extérieurs : recoupement des murs, couche étanche ou injection, par un entrepreneur.",
+          "Pour un logement loué jusqu'à 650 € par mois, vous recevez toute la prime calculée ; de 651 € à 900 € maximum par mois, vous en recevez 50 %.",
+          "Chaque prime ne peut être appliquée qu'une seule fois par lieu."
+        ],
+        "de": [
+          "Sie sind Eigentümer und bewohnen die Wohnung oder vermieten sie.",
+          "Die Arbeiten behandeln aufsteigende Feuchtigkeit in Innen- oder Außenwänden: Aufstemmen von Wänden, eine wasserdichte Schicht oder Injektion, durch einen Bauunternehmer.",
+          "Bei einer Mietwohnung bis 650 € pro Monat erhalten Sie die volle berechnete Prämie; von 651 € bis höchstens 900 € pro Monat erhalten Sie 50 % davon.",
+          "Jede Prämie kann nur einmal pro Standort gewährt werden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 413,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13004"
+    ],
+    "institution": "Lokaal bestuur Beerse",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.beerse.be/geboortepremie",
+    "content": {
+      "en": {
+        "title": "Geboortepremie (Birth Premium, Beerse)",
+        "desc": "Beerse gives mothers a one-off €20 per child born from 1 January 2026.",
+        "deadline": "Until your child's first birthday.",
+        "amount": "€20 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The online application form on the commune's page"
+          }
+        ],
+        "steps": [
+          "Apply through 'Aanvraag starten' on the commune's page",
+          "For twins or more, fill in a separate application per child",
+          "For help, contact the finance service (014 68 81 00, financien@beerse.be); it works by appointment"
+        ]
+      },
+      "nl": {
+        "title": "Geboortepremie (Beerse)",
+        "desc": "Beerse geeft moeders eenmalig €20 per kindje geboren vanaf 1 januari 2026.",
+        "deadline": "Tot de eerste verjaardag van je kindje.",
+        "amount": "€20 per kindje",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het online aanvraagformulier op de pagina van de gemeente"
+          }
+        ],
+        "steps": [
+          "Vraag de premie aan via 'Aanvraag starten' op de pagina van de gemeente",
+          "Bij een meerling vul je per kind een aparte aanvraag in",
+          "Hulp nodig? Neem contact op met de dienst Financiën (014 68 81 00, financien@beerse.be); die werkt op afspraak"
+        ]
+      },
+      "fr": {
+        "title": "Geboortepremie (prime de naissance, Beerse)",
+        "desc": "Beerse octroie aux mères une prime unique de 20 € par enfant né à partir du 1er janvier 2026.",
+        "deadline": "Jusqu'au premier anniversaire de votre enfant.",
+        "amount": "20 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande en ligne sur la page de la commune"
+          }
+        ],
+        "steps": [
+          "Faites la demande via « Aanvraag starten » sur la page de la commune",
+          "En cas de naissance multiple, remplissez une demande distincte par enfant",
+          "Besoin d'aide ? Contactez le service Financiën (014 68 81 00, financien@beerse.be), qui travaille sur rendez-vous"
+        ]
+      },
+      "de": {
+        "title": "Geboortepremie (Geburtsprämie, Beerse)",
+        "desc": "Beerse gibt Müttern einmalig 20 € pro Kind, das ab dem 1. Januar 2026 geboren wurde.",
+        "deadline": "Bis zum ersten Geburtstag Ihres Kindes.",
+        "amount": "20 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Online-Antragsformular auf der Seite der Gemeinde"
+          }
+        ],
+        "steps": [
+          "Stellen Sie den Antrag über „Aanvraag starten“ auf der Seite der Gemeinde",
+          "Bei Mehrlingen füllen Sie pro Kind einen eigenen Antrag aus",
+          "Brauchen Sie Hilfe? Wenden Sie sich an den Dienst Financiën (014 68 81 00, financien@beerse.be), der nach Terminvereinbarung arbeitet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.beerse.be/geboortepremie"
+      ],
+      "conditions": {
+        "en": [
+          "You are the mother and were registered in Beerse's population, foreigners or waiting register at the time of the birth.",
+          "The child was born on or after 1 January 2026.",
+          "You apply yourself, before the child's first birthday.",
+          "You also have a right to the premium if your child dies shortly after birth."
+        ],
+        "nl": [
+          "Je bent de moeder en was op het moment van de geboorte ingeschreven in het bevolkings-, vreemdelingen- of wachtregister van Beerse.",
+          "Het kindje is geboren vanaf 1 januari 2026.",
+          "Je vraagt de premie zelf aan, vóór de eerste verjaardag van je kindje.",
+          "Ook als je kindje kort na de geboorte overlijdt, heb je recht op de premie."
+        ],
+        "fr": [
+          "Vous êtes la mère et étiez inscrite au registre de la population, des étrangers ou d'attente de Beerse au moment de la naissance.",
+          "L'enfant est né à partir du 1er janvier 2026.",
+          "Vous faites vous-même la demande, avant le premier anniversaire de l'enfant.",
+          "Vous avez aussi droit à la prime si votre enfant décède peu après la naissance."
+        ],
+        "de": [
+          "Sie sind die Mutter und waren zum Zeitpunkt der Geburt im Bevölkerungs-, Fremden- oder Warteregister von Beerse eingetragen.",
+          "Das Kind wurde ab dem 1. Januar 2026 geboren.",
+          "Sie stellen den Antrag selbst, vor dem ersten Geburtstag des Kindes.",
+          "Sie haben auch Anspruch auf die Prämie, wenn Ihr Kind kurz nach der Geburt stirbt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 414,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13004"
+    ],
+    "institution": "Lokaal bestuur Beerse",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.beerse.be/producten/detail/754/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Beerse)",
+        "desc": "Beerse gives €20 a month (€240 a year), paid in July and December, for someone who needs care at home and is looked after by a carer.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "€20 a month (€240 a year)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form from the commune's page"
+          }
+        ],
+        "steps": [
+          "Fill in the form or use 'Aanvraag starten' on the commune's page; the page names both the person needing care and the carer as the applicant, so ask the finance service who signs (014 68 81 00)",
+          "Hand in the form at the finance service, through the town hall or the Sociaal Huis",
+          "The commune pays in July and December"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Beerse)",
+        "desc": "Beerse geeft €20 per maand (€240 per jaar), uitbetaald in juli en december, voor iemand die thuis zorg nodig heeft en een mantelzorger heeft.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "€20 per maand (€240 per jaar)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier van de pagina van de gemeente"
+          }
+        ],
+        "steps": [
+          "Vul het formulier in of gebruik 'Aanvraag starten' op de pagina van de gemeente; de pagina noemt zowel de zorgbehoevende als de mantelzorger als aanvrager, vraag dus aan de dienst Financiën wie tekent (014 68 81 00)",
+          "Bezorg het formulier aan de dienst Financiën, via het gemeentehuis of het Sociaal Huis",
+          "De gemeente betaalt uit in juli en december"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime pour aidants proches, Beerse)",
+        "desc": "Beerse octroie 20 € par mois (240 € par an), versés en juillet et en décembre, pour une personne qui a besoin de soins à domicile et est aidée par un aidant proche.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "20 € par mois (240 € par an)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété, disponible sur la page de la commune"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire ou utilisez « Aanvraag starten » sur la page de la commune ; la page cite comme demandeur à la fois la personne aidée et l'aidant proche, demandez donc au service Financiën qui signe (014 68 81 00)",
+          "Remettez le formulaire au service Financiën, via la maison communale ou le Sociaal Huis",
+          "La commune paie en juillet et en décembre"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Beerse)",
+        "desc": "Beerse gibt 20 € pro Monat (240 € pro Jahr), ausgezahlt im Juli und Dezember, für eine Person, die zu Hause Pflege braucht und von einem pflegenden Angehörigen betreut wird.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "20 € pro Monat (240 € pro Jahr)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular von der Seite der Gemeinde"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular aus oder nutzen Sie „Aanvraag starten“ auf der Seite der Gemeinde; die Seite nennt sowohl die pflegebedürftige Person als auch den pflegenden Angehörigen als Antragsteller, fragen Sie daher beim Dienst Financiën, wer unterschreibt (014 68 81 00)",
+          "Geben Sie das Formular beim Dienst Financiën ab, über das Gemeindehaus oder das Sociaal Huis",
+          "Die Gemeinde zahlt im Juli und Dezember aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.beerse.be/producten/detail/754/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person needing care has their domicile in Beerse.",
+          "The person needing care lives independently or with family.",
+          "The person needing care is not admitted to a hospital, residential care centre or care institution.",
+          "The person needing care receives the carer premium or the care budget for older people from the Flemish care insurance, or the care budget for people with a disability from the federal social security service."
+        ],
+        "nl": [
+          "De zorgbehoevende is gedomicilieerd in Beerse.",
+          "De zorgbehoevende woont zelfstandig of bij familie.",
+          "De zorgbehoevende is niet opgenomen in een ziekenhuis, woonzorgcentrum of verzorgingsinstelling.",
+          "De zorgbehoevende krijgt de mantelzorgpremie of het zorgbudget voor ouderen met een zorgnood van de Vlaamse Zorgverzekering, of het zorgbudget voor mensen met een handicap van de FOD Sociale Zekerheid."
+        ],
+        "fr": [
+          "La personne aidée est domiciliée à Beerse.",
+          "La personne aidée vit de façon autonome ou chez de la famille.",
+          "La personne aidée n'est pas admise dans un hôpital, un centre de soins résidentiels ou une institution de soins.",
+          "La personne aidée reçoit la prime pour aidants proches ou le budget de soins pour personnes âgées de l'assurance soins flamande, ou le budget de soins pour personnes handicapées du SPF Sécurité sociale."
+        ],
+        "de": [
+          "Die pflegebedürftige Person hat ihren Wohnsitz in Beerse.",
+          "Die pflegebedürftige Person wohnt selbstständig oder bei der Familie.",
+          "Die pflegebedürftige Person ist nicht in einem Krankenhaus, Wohn- und Pflegezentrum oder einer Pflegeeinrichtung aufgenommen.",
+          "Die pflegebedürftige Person erhält die Prämie für pflegende Angehörige oder das Pflegebudget für ältere Menschen der flämischen Pflegeversicherung oder das Pflegebudget für Menschen mit Behinderung des FÖD Soziale Sicherheit."
+        ]
+      }
+    }
+  },
+  {
+    "id": 415,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23003"
+    ],
+    "institution": "Lokaal Bestuur Beersel",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.beersel.be/groendaken",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke premie voor groendaken (Green Roof Premium, Beersel)",
+        "desc": "Beersel pays up to €33 per m², at most €660, for an extensive green roof that no rule obliges you to build. Money is limited to the approved budget.",
+        "deadline": "Apply before the work starts; ask for payment within one year after the roof is laid.",
+        "amount": "Up to €33 per m², at most €660",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's application form, with your details, the number of m², a plan and a description of the installation"
+          },
+          {
+            "type": "doc",
+            "label": "For payment: invoices, proof of payment, photos and the payment form"
+          },
+          {
+            "type": "doc",
+            "label": "If you do not own the building: the owner's signature on the application"
+          }
+        ],
+        "steps": [
+          "Send the form before starting to the environment service, Alsembergsteenweg 1046, 1652 Alsemberg, or milieu@beersel.be",
+          "Wait for the college's written decision in principle, then do the work as described",
+          "Send the payment form with your proof within one year after the roof is laid"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke premie voor groendaken (Beersel)",
+        "desc": "Beersel betaalt tot €33 per m², maximaal €660, voor een extensief groendak dat niet wettelijk verplicht is. De subsidie geldt binnen de perken van het budget.",
+        "deadline": "Vraag aan vóór de werken starten; vraag de betaling aan binnen het jaar na de aanleg.",
+        "amount": "Tot €33 per m², maximaal €660",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de gemeente, met je gegevens, het aantal m², een plan en een beschrijving van de installatie"
+          },
+          {
+            "type": "doc",
+            "label": "Voor de betaling: facturen, betalingsbewijzen, foto's en het betalingsaanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Ben je geen eigenaar: de handtekening van de eigenaar op de aanvraag"
+          }
+        ],
+        "steps": [
+          "Stuur het formulier vóór de werken naar de milieudienst, Alsembergsteenweg 1046, 1652 Alsemberg, of milieu@beersel.be",
+          "Wacht op de schriftelijke principiële beslissing van het college en voer de werken uit zoals aangevraagd",
+          "Dien de betalingsaanvraag met bewijsstukken in binnen het jaar na de aanleg"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke premie voor groendaken (prime pour toitures vertes, Beersel)",
+        "desc": "Beersel paie jusqu'à 33 € par m², 660 € au maximum, pour une toiture verte extensive qu'aucune règle n'impose. L'aide est limitée au budget approuvé.",
+        "deadline": "Faites la demande avant le début des travaux ; demandez le paiement dans l'année qui suit la pose.",
+        "amount": "Jusqu'à 33 € par m², 660 € au maximum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande de la commune, avec vos données, le nombre de m², un plan et une description de l'installation"
+          },
+          {
+            "type": "doc",
+            "label": "Pour le paiement : factures, preuves de paiement, photos et formulaire de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "Si vous n'êtes pas propriétaire : la signature du propriétaire sur la demande"
+          }
+        ],
+        "steps": [
+          "Envoyez le formulaire avant les travaux au service environnement, Alsembergsteenweg 1046, 1652 Alsemberg, ou à milieu@beersel.be",
+          "Attendez la décision de principe écrite du collège, puis réalisez les travaux comme décrit",
+          "Envoyez la demande de paiement avec les justificatifs dans l'année qui suit la pose"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke premie voor groendaken (Prämie für Gründächer, Beersel)",
+        "desc": "Beersel zahlt bis zu 33 € pro m², höchstens 660 €, für ein extensives Gründach, das keine Vorschrift verlangt. Die Mittel sind auf das genehmigte Budget begrenzt.",
+        "deadline": "Stellen Sie den Antrag vor Beginn der Arbeiten; beantragen Sie die Zahlung innerhalb eines Jahres nach der Anlage.",
+        "amount": "Bis zu 33 € pro m², höchstens 660 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular der Gemeinde mit Ihren Angaben, der Anzahl m², einem Plan und einer Beschreibung der Anlage"
+          },
+          {
+            "type": "doc",
+            "label": "Für die Zahlung: Rechnungen, Zahlungsnachweise, Fotos und das Zahlungsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Wenn Sie nicht Eigentümer sind: die Unterschrift des Eigentümers auf dem Antrag"
+          }
+        ],
+        "steps": [
+          "Senden Sie das Formular vor den Arbeiten an den Umweltdienst, Alsembergsteenweg 1046, 1652 Alsemberg, oder an milieu@beersel.be",
+          "Warten Sie die schriftliche Grundsatzentscheidung des Kollegiums ab und führen Sie die Arbeiten wie beschrieben aus",
+          "Reichen Sie den Zahlungsantrag mit den Belegen innerhalb eines Jahres nach der Anlage ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.beersel.be/groendaken",
+        "https://www.beersel.be/file/download/bab74475-dbc4-4b50-94a6-79b5fb3742c2/NTC3Ufg3yD0Ub8ThsZa1gORI3l2sZ3YXQ7vgrdJEA3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The green roof is on a building in Beersel whose used area serves mainly for private use.",
+          "It is an extensive green roof of at least 10 m², and no law or regulation obliges you to build it.",
+          "The building is licensed, and each roof can be subsidised only once.",
+          "You keep the roof in good condition for at least 10 years; otherwise the subsidy can be claimed back."
+        ],
+        "nl": [
+          "Het groendak ligt op een gebouw in Beersel waarvan de benutte oppervlakte hoofdzakelijk dient voor privégebruik.",
+          "Het is een extensief groendak van minstens 10 m² en het is niet verplicht door wettelijke of reglementaire bepalingen.",
+          "Het gebouw is vergund en elk dak kan slechts éénmaal betoelaagd worden.",
+          "Je houdt het groendak minstens 10 jaar in goede staat; anders kan de subsidie teruggevorderd worden."
+        ],
+        "fr": [
+          "La toiture verte se trouve sur un bâtiment à Beersel dont la surface utilisée sert principalement à un usage privé.",
+          "C'est une toiture verte extensive d'au moins 10 m², et aucune loi ni aucun règlement ne l'impose.",
+          "Le bâtiment est autorisé et chaque toit ne peut être subventionné qu'une seule fois.",
+          "Vous gardez la toiture en bon état pendant au moins 10 ans ; sinon la subvention peut être réclamée."
+        ],
+        "de": [
+          "Das Gründach liegt auf einem Gebäude in Beersel, dessen genutzte Fläche hauptsächlich privat genutzt wird.",
+          "Es ist ein extensives Gründach von mindestens 10 m², und kein Gesetz und keine Regelung schreibt es vor.",
+          "Das Gebäude ist genehmigt, und jedes Dach kann nur einmal bezuschusst werden.",
+          "Sie halten das Dach mindestens 10 Jahre in gutem Zustand; sonst kann der Zuschuss zurückgefordert werden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 416,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24007"
+    ],
+    "institution": "OCMW Begijnendijk",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.begijnendijk.be/huisvuilzakken-bij-incontinentie",
+    "amount_source_url": "https://www.begijnendijk.be/file/download/7199a587-4c6f-4f15-bdd3-c71ccc71a4e1/JxcigiAc416cVLoRH62VY3rv134ci38nxkMA9ufIc3d",
+    "content": {
+      "en": {
+        "title": "Toelage sociale correcties DifTar, medisch (Waste Bill Allowance for Medical Reasons, Begijnendijk)",
+        "desc": "Begijnendijk takes €60 a year off the waste bill for urinary incontinence and €50 a year for stoma or kidney patients. The commune's web page still names €50 for all; the regulation in force since 1 January 2026 sets these amounts.",
+        "deadline": "Renew every year. The amount goes to your DifTar account in April of the following year.",
+        "amount": "€60 a year (incontinence), €50 a year (stoma or kidney patients)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, filled in by your doctor"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate of household composition"
+          },
+          {
+            "type": "doc",
+            "label": "A recent proof of purchase of incontinence material from the current calendar year (for incontinence)"
+          }
+        ],
+        "steps": [
+          "Make an appointment with the OCMW through the commune's website or on 016 52 55 42",
+          "Hand in the form and documents at the OCMW social service",
+          "Apply again every year"
+        ]
+      },
+      "nl": {
+        "title": "Toelage sociale correcties DifTar, medisch luik (Begijnendijk)",
+        "desc": "Begijnendijk trekt €60 per jaar van de afvalfactuur bij urinaire incontinentie en €50 per jaar voor stoma- of nierpatiënten. De webpagina van de gemeente vermeldt nog €50 voor iedereen; het reglement dat sinds 1 januari 2026 geldt, bepaalt deze bedragen.",
+        "deadline": "Elk jaar hernieuwen. Het bedrag komt in april van het volgende jaar op je DifTar-rekening.",
+        "amount": "€60 per jaar (incontinentie), €50 per jaar (stoma- of nierpatiënten)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ingevuld door je arts"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "Een recent aankoopbewijs van incontinentiemateriaal uit het huidige kalenderjaar (bij incontinentie)"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak bij het OCMW via de website van de gemeente of op 016 52 55 42",
+          "Dien het formulier en de stukken in bij de sociale dienst van het OCMW",
+          "Hernieuw de aanvraag elk jaar"
+        ]
+      },
+      "fr": {
+        "title": "Toelage sociale correcties DifTar, volet médical (allocation sur la facture de déchets, Begijnendijk)",
+        "desc": "Begijnendijk déduit de la facture de déchets 60 € par an en cas d'incontinence urinaire et 50 € par an pour les patients stomisés ou rénaux. La page web de la commune cite encore 50 € pour tous ; le règlement en vigueur depuis le 1er janvier 2026 fixe ces montants.",
+        "deadline": "À renouveler chaque année. Le montant arrive sur votre compte DifTar en avril de l'année suivante.",
+        "amount": "60 € par an (incontinence), 50 € par an (patients stomisés ou rénaux)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, complété par votre médecin"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de composition de ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve d'achat récente de matériel d'incontinence de l'année civile en cours (en cas d'incontinence)"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous à l'OCMW via le site de la commune ou au 016 52 55 42",
+          "Remettez le formulaire et les documents au service social de l'OCMW",
+          "Renouvelez la demande chaque année"
+        ]
+      },
+      "de": {
+        "title": "Toelage sociale correcties DifTar, medizinischer Teil (Zulage auf die Abfallrechnung, Begijnendijk)",
+        "desc": "Begijnendijk zieht bei Harninkontinenz 60 € pro Jahr von der Abfallrechnung ab, bei Stoma- oder Nierenpatienten 50 € pro Jahr. Die Webseite der Gemeinde nennt noch 50 € für alle; die seit dem 1. Januar 2026 geltende Regelung legt diese Beträge fest.",
+        "deadline": "Jedes Jahr erneuern. Der Betrag geht im April des Folgejahres auf Ihr DifTar-Konto.",
+        "amount": "60 € pro Jahr (Inkontinenz), 50 € pro Jahr (Stoma- oder Nierenpatienten)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, ausgefüllt von Ihrem Arzt"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung über die Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Ein aktueller Kaufbeleg für Inkontinenzmaterial aus dem laufenden Kalenderjahr (bei Inkontinenz)"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin beim OCMW über die Website der Gemeinde oder unter 016 52 55 42",
+          "Reichen Sie das Formular und die Unterlagen beim Sozialdienst des OCMW ein",
+          "Erneuern Sie den Antrag jedes Jahr"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.begijnendijk.be/huisvuilzakken-bij-incontinentie",
+        "https://www.begijnendijk.be/file/download/7199a587-4c6f-4f15-bdd3-c71ccc71a4e1/JxcigiAc416cVLoRH62VY3rv134ci38nxkMA9ufIc3d"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Begijnendijk, and still do when the allowance is paid.",
+          "You do not live permanently in a care home.",
+          "A doctor's certificate shows incontinence with daily use of incontinence material (or a health fund certificate shows a right to the incontinence allowance), or home kidney dialysis, peritoneal dialysis or a stoma.",
+          "The allowance cannot be given with retroactive effect."
+        ],
+        "nl": [
+          "Je woont in Begijnendijk, ook nog op het moment van de betaling.",
+          "Je verblijft niet permanent in een rust- of verzorgingstehuis.",
+          "Een doktersattest toont incontinentie met dagelijks gebruik van incontinentiemateriaal (of een attest van de mutualiteit toont het recht op een incontinentieforfait), of thuisbehandeling nierdialyse, peritoneale dialyse of een stoma.",
+          "De toelage kan niet met terugwerkende kracht toegekend worden."
+        ],
+        "fr": [
+          "Vous habitez Begijnendijk, y compris au moment du paiement.",
+          "Vous ne résidez pas en permanence dans une maison de repos ou de soins.",
+          "Une attestation médicale montre une incontinence avec usage quotidien de matériel d'incontinence (ou une attestation de la mutualité montre le droit au forfait incontinence), ou une dialyse rénale à domicile, une dialyse péritonéale ou une stomie.",
+          "L'allocation ne peut pas être accordée avec effet rétroactif."
+        ],
+        "de": [
+          "Sie wohnen in Begijnendijk, auch noch zum Zeitpunkt der Zahlung.",
+          "Sie wohnen nicht dauerhaft in einem Alten- oder Pflegeheim.",
+          "Ein ärztliches Attest belegt Inkontinenz mit täglicher Nutzung von Inkontinenzmaterial (oder eine Bescheinigung der Krankenkasse den Anspruch auf die Inkontinenzpauschale) oder Heimdialyse, Peritonealdialyse oder ein Stoma.",
+          "Die Zulage kann nicht rückwirkend gewährt werden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 417,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24007"
+    ],
+    "institution": "OCMW Begijnendijk",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.begijnendijk.be/mantelzorgpremie",
+    "amount_source_url": "https://www.begijnendijk.be/file/download/ba4f0949-5531-4807-9721-c831726b6738/b1v5gTAEo7ixjtA7Ds1ZWbDBn2GahQjOvpiMEc8o3d",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Begijnendijk)",
+        "desc": "Begijnendijk gives a carer €120 or €180 a year, depending on the care need of the person they look after at home.",
+        "deadline": "The form and certificate must reach the OCMW by 31 December of the current year.",
+        "amount": "€120 or €180 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A care certificate: care budget for people with a high care need, a certificate from Opgroeien, or one from the federal social security service"
+          }
+        ],
+        "steps": [
+          "Make an appointment through the commune's website, or apply through its digital counter",
+          "The carer hands in the form and certificate at the OCMW social service; this is possible in any month",
+          "Report any change in writing to the OCMW within one month"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Begijnendijk)",
+        "desc": "Begijnendijk geeft een mantelzorger €120 of €180 per jaar, afhankelijk van de zorgnood van wie thuis verzorgd wordt.",
+        "deadline": "Het formulier en het attest moeten uiterlijk op 31 december van het lopende jaar bij het OCMW zijn.",
+        "amount": "€120 of €180 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een zorgattest: zorgbudget voor zwaar zorgbehoevenden, een attest van Opgroeien of een attest van de FOD Sociale Zekerheid"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak via de website van de gemeente, of vraag aan via het digitaal loket",
+          "De mantelzorger dient het formulier en het attest in bij de sociale dienst van het OCMW; dat kan elke maand van het jaar",
+          "Meld elke wijziging binnen één maand schriftelijk aan het OCMW"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime pour aidants proches, Begijnendijk)",
+        "desc": "Begijnendijk octroie à un aidant proche 120 € ou 180 € par an, selon le besoin de soins de la personne aidée à domicile.",
+        "deadline": "Le formulaire et l'attestation doivent parvenir à l'OCMW au plus tard le 31 décembre de l'année en cours.",
+        "amount": "120 € ou 180 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de soins : budget de soins pour personnes fortement dépendantes, attestation d'Opgroeien ou attestation du SPF Sécurité sociale"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous via le site de la commune, ou faites la demande au guichet numérique",
+          "L'aidant proche remet le formulaire et l'attestation au service social de l'OCMW ; c'est possible chaque mois de l'année",
+          "Signalez tout changement par écrit à l'OCMW dans un délai d'un mois"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Begijnendijk)",
+        "desc": "Begijnendijk gibt pflegenden Angehörigen 120 € oder 180 € pro Jahr, je nach Pflegebedarf der zu Hause betreuten Person.",
+        "deadline": "Das Formular und die Bescheinigung müssen bis zum 31. Dezember des laufenden Jahres beim OCMW eingehen.",
+        "amount": "120 € oder 180 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Pflegebescheinigung: Pflegebudget für schwer Pflegebedürftige, eine Bescheinigung von Opgroeien oder eine Bescheinigung des FÖD Soziale Sicherheit"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin über die Website der Gemeinde oder stellen Sie den Antrag am digitalen Schalter",
+          "Der pflegende Angehörige reicht das Formular und die Bescheinigung beim Sozialdienst des OCMW ein; das geht in jedem Monat des Jahres",
+          "Melden Sie jede Änderung innerhalb eines Monats schriftlich dem OCMW"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.begijnendijk.be/mantelzorgpremie",
+        "https://www.begijnendijk.be/file/download/ba4f0949-5531-4807-9721-c831726b6738/b1v5gTAEo7ixjtA7Ds1ZWbDBn2GahQjOvpiMEc8o3d"
+      ],
+      "conditions": {
+        "en": [
+          "The person needing care has been in Begijnendijk's population or foreigners register for at least one month, really lives there, and lives at home (independently or with others).",
+          "€120: care budget for people with a high care need, or 12 points (federal social security service), or a child's care supplement based on at least 6 points with fewer than 4 in the first pillar. €180: 13 points or more (federal), or a child's care supplement based on at least 12 points.",
+          "The carer is at least 18, gives regular unpaid extra care and lives in Begijnendijk, Tremelo, Rotselaar, Aarschot, Herselt, Hulshout or Heist-op-den-Berg.",
+          "One premium per person needing care, to one carer, who cannot be someone needing care themselves."
+        ],
+        "nl": [
+          "De zorgbehoevende is minstens één maand ingeschreven in het bevolkings- of vreemdelingenregister van Begijnendijk, woont er effectief en woont thuis (zelfstandig of inwonend).",
+          "€120: zorgbudget voor zwaar zorgbehoevenden, of 12 punten (FOD Sociale Zekerheid), of een zorgtoeslag voor een kind op basis van minstens 6 punten waarvan minder dan 4 op de eerste pijler. €180: 13 punten of meer (FOD), of een zorgtoeslag voor een kind op basis van minstens 12 punten.",
+          "De mantelzorger is minstens 18 jaar, geeft op geregelde basis onbetaald extra zorg en woont in Begijnendijk, Tremelo, Rotselaar, Aarschot, Herselt, Hulshout of Heist-op-den-Berg.",
+          "Eén premie per zorgbehoevende, aan één mantelzorger, die zelf geen zorgbehoevende is."
+        ],
+        "fr": [
+          "La personne aidée est inscrite depuis au moins un mois au registre de la population ou des étrangers de Begijnendijk, y habite effectivement et vit à domicile (seule ou chez d'autres).",
+          "120 € : budget de soins pour personnes fortement dépendantes, ou 12 points (SPF Sécurité sociale), ou supplément de soins pour un enfant sur la base d'au moins 6 points dont moins de 4 au premier pilier. 180 € : 13 points ou plus (SPF), ou supplément de soins pour un enfant sur la base d'au moins 12 points.",
+          "L'aidant proche a au moins 18 ans, donne régulièrement des soins supplémentaires non rémunérés et habite Begijnendijk, Tremelo, Rotselaar, Aarschot, Herselt, Hulshout ou Heist-op-den-Berg.",
+          "Une prime par personne aidée, à un seul aidant proche, qui n'a pas lui-même besoin de soins."
+        ],
+        "de": [
+          "Die pflegebedürftige Person ist seit mindestens einem Monat im Bevölkerungs- oder Fremdenregister von Begijnendijk eingetragen, wohnt tatsächlich dort und lebt zu Hause (selbstständig oder bei anderen).",
+          "120 €: Pflegebudget für schwer Pflegebedürftige oder 12 Punkte (FÖD Soziale Sicherheit) oder ein Pflegezuschlag für ein Kind auf Grundlage von mindestens 6 Punkten, davon weniger als 4 in der ersten Säule. 180 €: 13 Punkte oder mehr (FÖD) oder ein Pflegezuschlag für ein Kind auf Grundlage von mindestens 12 Punkten.",
+          "Der pflegende Angehörige ist mindestens 18 Jahre alt, leistet regelmäßig unbezahlte zusätzliche Pflege und wohnt in Begijnendijk, Tremelo, Rotselaar, Aarschot, Herselt, Hulshout oder Heist-op-den-Berg.",
+          "Eine Prämie pro pflegebedürftiger Person, an einen einzigen pflegenden Angehörigen, der nicht selbst pflegebedürftig ist."
+        ]
+      }
+    }
+  },
+  {
+    "id": 418,
+    "category": "family",
+    "situations": [
+      "children",
+      "low-income",
+      "school"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24008"
+    ],
+    "institution": "Lokaal bestuur Bekkevoort",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bekkevoort.be/toelage-voor-participatie-en-sociale-ondersteuning-recht-op-ondersteuning-voor-elk-kind",
+    "content": {
+      "en": {
+        "title": "Toelage voor participatie en sociale ondersteuning (Support for Every Child, Bekkevoort)",
+        "desc": "Bekkevoort pays 90% of costs such as camps, school costs, paramedical care and psychological support, up to €150 per child, for families with limited means. For care, only the part the health fund does not reimburse counts.",
+        "deadline": "Before 15 January of the year after you paid.",
+        "amount": "90% of the cost, up to €150 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of income for the last 3 months"
+          },
+          {
+            "type": "doc",
+            "label": "If relevant, the maintenance judgment and bank statements for the last 3 months"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment"
+          },
+          {
+            "type": "doc",
+            "label": "An overview of the part your health fund did not reimburse"
+          }
+        ],
+        "steps": [
+          "Contact the social service, E. Coolsstraat 17 (013 46 05 60), or make an appointment online",
+          "Hand in your documents to the social workers before 15 January"
+        ]
+      },
+      "nl": {
+        "title": "Toelage voor participatie en sociale ondersteuning (Recht op ondersteuning voor elk kind, Bekkevoort)",
+        "desc": "Bekkevoort betaalt 90% van kosten zoals kampen, schoolkosten, paramedische zorg en psychologische ondersteuning, tot €150 per kind, voor gezinnen met beperkte middelen. Bij zorg telt alleen het deel dat het ziekenfonds niet terugbetaalt.",
+        "deadline": "Vóór 15 januari van het jaar nadat je betaalde.",
+        "amount": "90% van de kostprijs, tot €150 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De inkomensbewijzen van de laatste 3 maanden"
+          },
+          {
+            "type": "doc",
+            "label": "Eventueel het vonnis over het onderhoudsgeld en de rekeninguittreksels van de laatste 3 maanden"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van betaling"
+          },
+          {
+            "type": "doc",
+            "label": "Overzicht van het niet-terugbetaalde deel van de mutualiteit"
+          }
+        ],
+        "steps": [
+          "Neem contact op met de sociale dienst, E. Coolsstraat 17 (013 46 05 60), of maak online een afspraak",
+          "Bezorg je documenten vóór 15 januari aan de maatschappelijk werkers"
+        ]
+      },
+      "fr": {
+        "title": "Toelage voor participatie en sociale ondersteuning (soutien pour chaque enfant, Bekkevoort)",
+        "desc": "Bekkevoort paie 90 % de frais comme les camps, les frais scolaires, les soins paramédicaux et le soutien psychologique, jusqu'à 150 € par enfant, pour les familles aux moyens limités. Pour les soins, seule la part non remboursée par la mutualité compte.",
+        "deadline": "Avant le 15 janvier de l'année qui suit le paiement.",
+        "amount": "90 % du coût, jusqu'à 150 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Les preuves de revenus des 3 derniers mois"
+          },
+          {
+            "type": "doc",
+            "label": "Le cas échéant, le jugement sur la pension alimentaire et les extraits de compte des 3 derniers mois"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "Un aperçu de la part non remboursée par la mutualité"
+          }
+        ],
+        "steps": [
+          "Contactez le service social, E. Coolsstraat 17 (013 46 05 60), ou prenez rendez-vous en ligne",
+          "Remettez vos documents aux travailleurs sociaux avant le 15 janvier"
+        ]
+      },
+      "de": {
+        "title": "Toelage voor participatie en sociale ondersteuning (Unterstützung für jedes Kind, Bekkevoort)",
+        "desc": "Bekkevoort zahlt 90 % von Kosten wie Ferienlager, Schulkosten, paramedizinische Versorgung und psychologische Unterstützung, bis zu 150 € pro Kind, für Familien mit begrenzten Mitteln. Bei Pflege zählt nur der von der Krankenkasse nicht erstattete Teil.",
+        "deadline": "Vor dem 15. Januar des Jahres nach der Zahlung.",
+        "amount": "90 % der Kosten, bis zu 150 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die Einkommensnachweise der letzten 3 Monate"
+          },
+          {
+            "type": "doc",
+            "label": "Gegebenenfalls das Urteil über den Unterhalt und die Kontoauszüge der letzten 3 Monate"
+          },
+          {
+            "type": "doc",
+            "label": "Der Zahlungsnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Übersicht des von der Krankenkasse nicht erstatteten Teils"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an den Sozialdienst, E. Coolsstraat 17 (013 46 05 60), oder vereinbaren Sie online einen Termin",
+          "Geben Sie Ihre Unterlagen vor dem 15. Januar bei den Sozialarbeitern ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.bekkevoort.be/toelage-voor-participatie-en-sociale-ondersteuning-recht-op-ondersteuning-voor-elk-kind"
+      ],
+      "conditions": {
+        "en": [
+          "The child or young person lives in Bekkevoort and is under 18.",
+          "The net family income is at most 150% of the matching leefloon category.",
+          "The income limit can be waived in collective debt settlement or budget management with a recognised body, if the OCMW finds you cannot pay the invoice.",
+          "You paid between 1 January and 31 December of the current calendar year."
+        ],
+        "nl": [
+          "Het kind of de jongere woont in Bekkevoort en is jonger dan 18 jaar.",
+          "Het netto gezinsinkomen is niet hoger dan 150% van de overeenstemmende categorie van het leefloon.",
+          "Van die inkomensgrens kan afgeweken worden bij collectieve schuldbemiddeling of budgetbeheer bij een erkende instantie, als het OCMW vaststelt dat je de factuur niet kan betalen.",
+          "De betaling is gedaan tussen 1 januari en 31 december van het lopende kalenderjaar."
+        ],
+        "fr": [
+          "L'enfant ou le jeune habite Bekkevoort et a moins de 18 ans.",
+          "Le revenu net du ménage ne dépasse pas 150 % de la catégorie correspondante du revenu d'intégration.",
+          "Il peut être dérogé à cette limite en cas de règlement collectif de dettes ou de gestion budgétaire auprès d'un organisme agréé, si l'OCMW constate que vous ne pouvez pas payer la facture.",
+          "Le paiement a été fait entre le 1er janvier et le 31 décembre de l'année civile en cours."
+        ],
+        "de": [
+          "Das Kind oder der Jugendliche wohnt in Bekkevoort und ist unter 18 Jahre alt.",
+          "Das Netto-Haushaltseinkommen beträgt höchstens 150 % der entsprechenden Kategorie des Eingliederungseinkommens.",
+          "Von dieser Grenze kann bei kollektiver Schuldenregelung oder Budgetverwaltung bei einer anerkannten Stelle abgewichen werden, wenn das OCMW feststellt, dass Sie die Rechnung nicht bezahlen können.",
+          "Die Zahlung erfolgte zwischen dem 1. Januar und dem 31. Dezember des laufenden Kalenderjahres."
+        ]
+      }
+    }
+  },
+  {
+    "id": 419,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24008"
+    ],
+    "institution": "Gemeente Bekkevoort",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bekkevoort.be/herbruikbare-luiers",
+    "amount_source_url": "https://www.bekkevoort.be/file/download/158/0176A4E849D1D11DA9CFA8E475B61CA6",
+    "content": {
+      "en": {
+        "title": "Premie herbruikbare luiers (Reusable Nappies Premium, Bekkevoort)",
+        "desc": "Bekkevoort pays half the invoice for reusable nappies, up to €150 per child.",
+        "deadline": "Before your child turns 3.",
+        "amount": "50% of the invoice, up to €150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of household composition"
+          },
+          {
+            "type": "doc",
+            "label": "Purchase receipts worth at least €200 for reusable nappies and accessories"
+          }
+        ],
+        "steps": [
+          "Apply online through the e-counter or with the PDF form on the commune's page",
+          "Send it with the documents to the environment service, E. Coolsstraat 17B (013 46 05 60, omgeving@bekkevoort.be)",
+          "After the college approves, the premium goes to your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Premie herbruikbare luiers (Bekkevoort)",
+        "desc": "Bekkevoort betaalt de helft van de factuur voor herbruikbare luiers, tot €150 per kind.",
+        "deadline": "Voor je kind 3 jaar wordt.",
+        "amount": "De helft van de factuur, tot €150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een bewijs van samenstelling van het gezin"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoopbewijzen van minimaal €200 voor herbruikbare luiers en toebehoren"
+          }
+        ],
+        "steps": [
+          "Vraag online aan via het e-loket of met het pdf-formulier op de pagina van de gemeente",
+          "Bezorg het met de stukken aan de dienst milieu, E. Coolsstraat 17B (013 46 05 60, omgeving@bekkevoort.be)",
+          "Na goedkeuring door het college wordt de premie op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Premie herbruikbare luiers (prime pour langes réutilisables, Bekkevoort)",
+        "desc": "Bekkevoort paie la moitié de la facture de langes réutilisables, jusqu'à 150 € par enfant.",
+        "deadline": "Avant les 3 ans de votre enfant.",
+        "amount": "La moitié de la facture, jusqu'à 150 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve de composition de ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Des preuves d'achat d'au moins 200 € de langes réutilisables et accessoires"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne au guichet électronique ou avec le formulaire PDF sur la page de la commune",
+          "Envoyez-la avec les documents au service environnement, E. Coolsstraat 17B (013 46 05 60, omgeving@bekkevoort.be)",
+          "Après approbation du collège, la prime est versée sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Premie herbruikbare luiers (Prämie für wiederverwendbare Windeln, Bekkevoort)",
+        "desc": "Bekkevoort zahlt die Hälfte der Rechnung für wiederverwendbare Windeln, bis zu 150 € pro Kind.",
+        "deadline": "Bevor Ihr Kind 3 Jahre alt wird.",
+        "amount": "Die Hälfte der Rechnung, bis zu 150 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Nachweis der Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Kaufbelege über mindestens 200 € für wiederverwendbare Windeln und Zubehör"
+          }
+        ],
+        "steps": [
+          "Stellen Sie den Antrag online am E-Schalter oder mit dem PDF-Formular auf der Seite der Gemeinde",
+          "Senden Sie ihn mit den Unterlagen an den Umweltdienst, E. Coolsstraat 17B (013 46 05 60, omgeving@bekkevoort.be)",
+          "Nach Genehmigung durch das Kollegium wird die Prämie auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.bekkevoort.be/herbruikbare-luiers",
+        "https://www.bekkevoort.be/file/download/158/0176A4E849D1D11DA9CFA8E475B61CA6"
+      ],
+      "conditions": {
+        "en": [
+          "Your family or single-parent household has a child under 3 on the date you apply.",
+          "You are registered in Bekkevoort's population or foreigners register.",
+          "The father, mother or legal guardian applies.",
+          "You spent at least €200, and you can apply once per child."
+        ],
+        "nl": [
+          "Je gezin heeft een kind dat op de datum van de aanvraag nog geen 3 jaar is; dit geldt ook voor alleenstaanden.",
+          "Je bent ingeschreven in het bevolkings- en vreemdelingenregister van Bekkevoort.",
+          "De vader, de moeder of de wettelijke voogd vraagt de premie aan.",
+          "Je kocht voor minimaal €200, en je kan de premie éénmaal per kind aanvragen."
+        ],
+        "fr": [
+          "Votre famille ou vous, parent seul, avez un enfant de moins de 3 ans à la date de la demande.",
+          "Vous êtes inscrit au registre de la population ou des étrangers de Bekkevoort.",
+          "Le père, la mère ou le tuteur légal fait la demande.",
+          "Vous avez dépensé au moins 200 €, et la demande est possible une fois par enfant."
+        ],
+        "de": [
+          "Ihre Familie oder Sie als Alleinerziehende haben am Tag des Antrags ein Kind unter 3 Jahren.",
+          "Sie sind im Bevölkerungs- oder Fremdenregister von Bekkevoort eingetragen.",
+          "Der Vater, die Mutter oder der gesetzliche Vormund stellt den Antrag.",
+          "Sie haben mindestens 200 € ausgegeben, und der Antrag ist einmal pro Kind möglich."
+        ]
+      }
+    }
+  },
+  {
+    "id": 420,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63004"
+    ],
+    "institution": "Commune de Baelen",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.baelen.be/commune/services-communaux/population/procedures/primes",
+    "content": {
+      "en": {
+        "title": "Prime à la naissance ou l'adoption (Birth or Adoption Premium, Baelen)",
+        "desc": "Baelen pays €25 for each birth or adoption.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "€25 per birth or adoption",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The form the Population office gives you"
+          }
+        ],
+        "steps": [
+          "Declare the birth or adoption at the Population office",
+          "Fill in the form the office gives you",
+          "Return it to the office (087/76.01.10)"
+        ]
+      },
+      "nl": {
+        "title": "Prime à la naissance ou l'adoption (geboorte- of adoptiepremie, Baelen)",
+        "desc": "Baelen betaalt €25 bij elke geboorte of adoptie.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "€25 per geboorte of adoptie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier dat je van de bevolkingsdienst krijgt"
+          }
+        ],
+        "steps": [
+          "Geef de geboorte of adoptie aan bij de bevolkingsdienst",
+          "Vul het formulier in dat de dienst je geeft",
+          "Bezorg het terug aan de dienst (087/76.01.10)"
+        ]
+      },
+      "fr": {
+        "title": "Prime à la naissance ou l'adoption (Baelen)",
+        "desc": "Baelen verse 25 € lors de chaque naissance ou adoption.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "25 € par naissance ou adoption",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire remis par le bureau de Population"
+          }
+        ],
+        "steps": [
+          "Déclarez la naissance ou l'adoption au bureau de Population",
+          "Complétez le formulaire que le bureau vous remet",
+          "Rendez-le au bureau (087/76.01.10)"
+        ]
+      },
+      "de": {
+        "title": "Prime à la naissance ou l'adoption (Geburts- oder Adoptionsprämie, Baelen)",
+        "desc": "Baelen zahlt 25 € bei jeder Geburt oder Adoption.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "25 € pro Geburt oder Adoption",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular, das Sie vom Einwohnermeldeamt erhalten"
+          }
+        ],
+        "steps": [
+          "Melden Sie die Geburt oder Adoption beim Einwohnermeldeamt an",
+          "Füllen Sie das Formular aus, das Ihnen das Amt gibt",
+          "Geben Sie es beim Amt ab (087/76.01.10)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.baelen.be/commune/services-communaux/population/procedures/primes"
+      ],
+      "conditions": {
+        "en": [
+          "You are a parent who declared the birth or adoption of a child.",
+          "The commune's page gives no other condition; ask the Population office if you are unsure."
+        ],
+        "nl": [
+          "Je bent een ouder die de geboorte of adoptie van een kind heeft aangegeven.",
+          "De pagina van de gemeente noemt geen andere voorwaarde; vraag het bij twijfel aan de bevolkingsdienst."
+        ],
+        "fr": [
+          "Vous êtes un parent qui a déclaré la naissance ou l'adoption d'un enfant.",
+          "La page de la commune n'indique pas d'autre condition ; en cas de doute, demandez au bureau de Population."
+        ],
+        "de": [
+          "Sie sind ein Elternteil, der die Geburt oder Adoption eines Kindes angemeldet hat.",
+          "Die Seite der Gemeinde nennt keine weitere Bedingung; fragen Sie im Zweifel beim Einwohnermeldeamt nach."
+        ]
+      }
+    }
+  },
+  {
+    "id": 421,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63004"
+    ],
+    "institution": "Commune de Baelen",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.baelen.be/commune/services-communaux/energie/p04-reglement-prime-audit-logement-modifie.pdf",
+    "content": {
+      "en": {
+        "title": "Prime communale à l'audit logement (Home Audit Premium, Baelen)",
+        "desc": "After the Walloon audit premium, Baelen adds up to 30% of the audit invoice (at most €300) and its CPAS up to 15% (at most €150). One form covers both.",
+        "deadline": "Within four months after you receive the Walloon premium approval.",
+        "amount": "Commune: up to 30%, at most €300; CPAS: up to 15%, at most €150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the Walloon 'Audit Logement' premium approval"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the audit invoice"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the proof of payment"
+          }
+        ],
+        "steps": [
+          "Get the Walloon 'Audit Logement' premium first, with an auditor approved by the Walloon administration",
+          "Hand in the form and copies at the commune within four months",
+          "The commune and the CPAS each pay by separate transfer; if the budget runs out, the file moves to the next year"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale à l'audit logement (gemeentepremie woningaudit, Baelen)",
+        "desc": "Na de Waalse auditpremie geeft Baelen tot 30% van de auditfactuur (maximaal €300) en het OCMW tot 15% (maximaal €150). Eén formulier geldt voor beide.",
+        "deadline": "Binnen vier maanden na het akkoord over de Waalse premie.",
+        "amount": "Gemeente: tot 30%, maximaal €300; OCMW: tot 15%, maximaal €150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het akkoord over de Waalse premie 'Audit Logement'"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de auditfactuur"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het betalingsbewijs"
+          }
+        ],
+        "steps": [
+          "Vraag eerst de Waalse premie 'Audit Logement' aan, met een door de Waalse overheid erkende auditor",
+          "Dien het formulier en de kopieën binnen vier maanden in bij de gemeente",
+          "Gemeente en OCMW betalen elk apart; is het budget op, dan schuift het dossier door naar het volgende jaar"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale à l'audit logement (Baelen)",
+        "desc": "Après la prime wallonne à l'audit, Baelen ajoute jusqu'à 30 % de la facture d'audit (300 € maximum) et son CPAS jusqu'à 15 % (150 € maximum). Un seul formulaire pour les deux.",
+        "deadline": "Dans les quatre mois suivant la réception de l'accord de la prime wallonne.",
+        "amount": "Commune : jusqu'à 30 %, 300 € maximum ; CPAS : jusqu'à 15 %, 150 € maximum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de l'accord de la prime wallonne « Audit Logement »"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la facture d'audit"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la preuve de paiement"
+          }
+        ],
+        "steps": [
+          "Obtenez d'abord la prime wallonne « Audit Logement », avec un auditeur agréé par le SPW",
+          "Remettez le formulaire et les copies à la commune dans les quatre mois",
+          "La commune et le CPAS paient chacun par virement distinct ; si le budget est épuisé, le dossier passe à l'année suivante"
+        ]
+      },
+      "de": {
+        "title": "Prime communale à l'audit logement (Gemeindeprämie für das Wohnungsaudit, Baelen)",
+        "desc": "Nach der wallonischen Auditprämie gibt Baelen bis zu 30 % der Auditrechnung (höchstens 300 €) dazu, sein ÖSHZ bis zu 15 % (höchstens 150 €). Ein Formular gilt für beide.",
+        "deadline": "Innerhalb von vier Monaten nach Erhalt der Zusage der wallonischen Prämie.",
+        "amount": "Gemeinde: bis zu 30 %, höchstens 300 €; ÖSHZ: bis zu 15 %, höchstens 150 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Zusage der wallonischen Prämie „Audit Logement“"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Auditrechnung"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des Zahlungsnachweises"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie zuerst die wallonische Prämie „Audit Logement“, mit einem von der Wallonischen Region anerkannten Auditor",
+          "Reichen Sie das Formular und die Kopien innerhalb von vier Monaten bei der Gemeinde ein",
+          "Gemeinde und ÖSHZ zahlen getrennt; ist das Budget erschöpft, wird die Akte auf das nächste Jahr verschoben"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.baelen.be/commune/services-communaux/energie/p04-reglement-prime-audit-logement-modifie.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are a private person aged at least 18 (or an emancipated minor) with a real right on the home, such as owner or usufructuary, and you already received the Walloon 'Audit Logement' premium for it.",
+          "You respect the Walloon premium's occupancy conditions and accept control visits.",
+          "The building is in Baelen, was built at least 15 years before the audit and is at least 50% housing.",
+          "A home that received the premium cannot get it again for 10 years."
+        ],
+        "nl": [
+          "Je bent een particulier van minstens 18 jaar (of ontvoogd minderjarig) met een zakelijk recht op de woning, zoals eigenaar of vruchtgebruiker, en je kreeg al de Waalse premie 'Audit Logement' voor die woning.",
+          "Je respecteert de bewoningsvoorwaarden van de Waalse premie en aanvaardt controlebezoeken.",
+          "Het gebouw staat in Baelen, is minstens 15 jaar vóór de audit gebouwd en is voor minstens 50% woning.",
+          "Een woning die de premie kreeg, kan ze 10 jaar lang niet opnieuw krijgen."
+        ],
+        "fr": [
+          "Vous êtes un particulier d'au moins 18 ans (ou mineur émancipé) avec un droit réel sur le logement, comme propriétaire ou usufruitier, et vous avez déjà reçu la prime wallonne « Audit Logement » pour celui-ci.",
+          "Vous respectez les conditions d'occupation de la prime wallonne et acceptez les visites de contrôle.",
+          "Le bâtiment se trouve à Baelen, a été construit au moins 15 ans avant l'audit et est destiné au moins à 50 % au logement.",
+          "Un logement qui a reçu la prime ne peut plus l'obtenir pendant 10 ans."
+        ],
+        "de": [
+          "Sie sind eine Privatperson ab 18 Jahren (oder ein für mündig erklärter Minderjähriger) mit einem dinglichen Recht an der Wohnung, etwa als Eigentümer oder Nießbraucher, und haben dafür bereits die wallonische Prämie „Audit Logement“ erhalten.",
+          "Sie halten die Wohnbedingungen der wallonischen Prämie ein und akzeptieren Kontrollbesuche.",
+          "Das Gebäude steht in Baelen, wurde mindestens 15 Jahre vor dem Audit gebaut und dient zu mindestens 50 % dem Wohnen.",
+          "Eine Wohnung, die die Prämie erhalten hat, kann sie 10 Jahre lang nicht erneut erhalten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 422,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "51008"
+    ],
+    "institution": "Commune de Beloeil",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.beloeil.be/actualites/1139-une-prime-pour-l-achat-de-langes-lavables-pour-bebes.html",
+    "amount_source_url": "https://www.beloeil.be/images/actualite/Rglement-communal-lange.pdf",
+    "content": {
+      "en": {
+        "title": "Prime à l'utilisation de langes lavables (Washable Nappies Premium, Beloeil)",
+        "desc": "Beloeil pays 50% of the invoice for buying washable nappies or renting a trial kit, up to €100.",
+        "deadline": "Once per child, before the child is 2 years and 6 months old.",
+        "amount": "50% of the invoice, up to €100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form, completed, dated and signed"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the invoice(s)"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the household composition document"
+          }
+        ],
+        "steps": [
+          "Download the form from the commune's page or ask for it",
+          "Post everything to the Centre Administratif, Rue J. Wauters 1, 7972 Quevaucamps",
+          "The college decides; if the budget runs out, your request waits on a list until money is available"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'utilisation de langes lavables (premie voor wasbare luiers, Beloeil)",
+        "desc": "Beloeil betaalt 50% van de factuur voor de aankoop van wasbare luiers of de huur van een testpakket, tot €100.",
+        "deadline": "Eenmaal per kind, voor het kind 2 jaar en 6 maanden is.",
+        "amount": "50% van de factuur, tot €100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente, ingevuld, gedateerd en ondertekend"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de factuur of facturen"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het document 'samenstelling van het gezin'"
+          }
+        ],
+        "steps": [
+          "Download het formulier op de pagina van de gemeente of vraag het op",
+          "Stuur alles per post naar het Centre Administratif, Rue J. Wauters 1, 7972 Quevaucamps",
+          "Het college beslist; is het budget op, dan komt je aanvraag op een wachtlijst tot er weer geld is"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'utilisation de langes lavables (Beloeil)",
+        "desc": "Beloeil paie 50 % de la facture d'achat de langes lavables ou de location d'un kit de test, jusqu'à 100 €.",
+        "deadline": "Une fois par enfant, avant ses 2 ans et 6 mois.",
+        "amount": "50 % de la facture, jusqu'à 100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune, complété, daté et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la ou des factures"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie du document « Composition de ménage »"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur la page de la commune ou demandez-le",
+          "Envoyez le tout par courrier au Centre Administratif, Rue J. Wauters 1, 7972 Quevaucamps",
+          "Le Collège décide ; si le budget est insuffisant, votre demande attend sur une liste jusqu'à ce que du crédit soit disponible"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'utilisation de langes lavables (Prämie für waschbare Windeln, Beloeil)",
+        "desc": "Beloeil zahlt 50 % der Rechnung für den Kauf waschbarer Windeln oder die Miete eines Testsets, bis zu 100 €.",
+        "deadline": "Einmal pro Kind, bevor es 2 Jahre und 6 Monate alt ist.",
+        "amount": "50 % der Rechnung, bis zu 100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde, ausgefüllt, datiert und unterschrieben"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Rechnung(en)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des Dokuments „Haushaltszusammensetzung“"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf der Seite der Gemeinde herunter oder fordern Sie es an",
+          "Senden Sie alles per Post an das Centre Administratif, Rue J. Wauters 1, 7972 Quevaucamps",
+          "Das Kollegium entscheidet; reicht das Budget nicht, wartet Ihr Antrag auf einer Liste, bis wieder Mittel verfügbar sind"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.beloeil.be/actualites/1139-une-prime-pour-l-achat-de-langes-lavables-pour-bebes.html",
+        "https://www.beloeil.be/images/actualite/Rglement-communal-lange.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are responsible for a child under 2 years and 6 months (mother, father, legal guardian or a person authorised by an administrative or court decision).",
+          "You and the child are in Beloeil's population register on the day you apply.",
+          "The invoices are in your name and dated from at most three months before the birth until the day before the child is 2 years and 6 months old.",
+          "You have not received a similar premium elsewhere."
+        ],
+        "nl": [
+          "Je bent verantwoordelijk voor een kind jonger dan 2 jaar en 6 maanden (moeder, vader, wettelijke voogd of iemand die daartoe gemachtigd is door een administratieve of gerechtelijke beslissing).",
+          "Jij en het kind staan op de dag van de aanvraag in het bevolkingsregister van Beloeil.",
+          "De facturen staan op jouw naam en dateren van maximaal drie maanden vóór de geboorte tot de dag voordat het kind 2 jaar en 6 maanden is.",
+          "Je kreeg elders geen gelijkaardige premie."
+        ],
+        "fr": [
+          "Vous êtes responsable d'un enfant de moins de 2 ans et 6 mois (mère, père, tuteur légal ou personne habilitée par une décision administrative ou judiciaire).",
+          "Vous et l'enfant êtes inscrits au registre de la population de Beloeil à la date de la demande.",
+          "Les factures sont à votre nom et datées d'au maximum trois mois avant la naissance jusqu'à la veille des 2 ans et 6 mois de l'enfant.",
+          "Vous n'avez pas déjà reçu ailleurs une prime du même type."
+        ],
+        "de": [
+          "Sie sind für ein Kind unter 2 Jahren und 6 Monaten verantwortlich (Mutter, Vater, gesetzlicher Vormund oder eine durch behördliche oder gerichtliche Entscheidung befugte Person).",
+          "Sie und das Kind sind am Tag des Antrags im Bevölkerungsregister von Beloeil eingetragen.",
+          "Die Rechnungen lauten auf Ihren Namen und sind von höchstens drei Monaten vor der Geburt bis zum Tag vor dem Alter von 2 Jahren und 6 Monaten datiert.",
+          "Sie haben anderswo keine gleichartige Prämie erhalten."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Beloeil's population register (registre de la population).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Beloeil.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population de Beloeil.",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Beloeil (registre de la population)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 423,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "51008"
+    ],
+    "institution": "Commune de Beloeil",
+    "verified": "7 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.beloeil.be/agenda/2-divers/1141-prime-communale-pour-la-sterilisation-et-l-identification-des-chats-domestiques.html",
+    "content": {
+      "en": {
+        "title": "Prime communale pour la stérilisation et l'identification des chats (Cat Sterilisation Premium, Beloeil)",
+        "desc": "Beloeil helps people on a low income with €20 for sterilising a male cat, €30 for a female cat and €10 per cat for identification.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "€20 (male) or €30 (female) for sterilisation; €10 per cat for identification",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form, completed and signed"
+          },
+          {
+            "type": "doc",
+            "label": "The care certificate signed by the vet and the vet's original fee note"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the registration certificate from an official database (IDChips, CatID)"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of both sides of the identity card of the person responsible for the animal"
+          }
+        ],
+        "steps": [
+          "Download the form from the commune's page",
+          "Hand it in with the documents; requests are accepted only on this form",
+          "For more information, contact the animal welfare service (069/55.38.09, adeline.smets@beloeil.be)"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale pour la stérilisation et l'identification des chats (premie voor sterilisatie van katten, Beloeil)",
+        "desc": "Beloeil helpt mensen met een laag inkomen met €20 voor de sterilisatie van een kater, €30 voor een poes en €10 per kat voor de identificatie.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "€20 (kater) of €30 (poes) voor sterilisatie; €10 per kat voor identificatie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente, ingevuld en ondertekend"
+          },
+          {
+            "type": "doc",
+            "label": "Het zorgattest ondertekend door de dierenarts en de originele ereloonnota"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het registratiecertificaat uit een officiële databank (IDChips, CatID)"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van beide zijden van de identiteitskaart van de verantwoordelijke van het dier"
+          }
+        ],
+        "steps": [
+          "Download het formulier op de pagina van de gemeente",
+          "Dien het in met de documenten; aanvragen kunnen alleen met dit formulier",
+          "Meer info bij de dienst dierenwelzijn (069/55.38.09, adeline.smets@beloeil.be)"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale pour la stérilisation et l'identification des chats domestiques (Beloeil)",
+        "desc": "Beloeil aide les personnes à faible revenu avec 20 € pour la stérilisation d'un chat mâle, 30 € pour une femelle et 10 € par chat pour l'identification.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "20 € (mâle) ou 30 € (femelle) pour la stérilisation ; 10 € par chat pour l'identification",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de la commune, complété et signé"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation de soins signée par le vétérinaire et sa note d'honoraires originale"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie du certificat d'enregistrement dans une banque de données officielle (IDChips, CatID)"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie recto-verso de la carte d'identité du responsable de l'animal"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur la page de la commune",
+          "Introduisez-le avec les documents ; les demandes ne sont recevables que via ce formulaire",
+          "Plus d'infos auprès du service Bien-être animal (069/55.38.09, adeline.smets@beloeil.be)"
+        ]
+      },
+      "de": {
+        "title": "Prime communale pour la stérilisation et l'identification des chats (Prämie für die Sterilisation von Katzen, Beloeil)",
+        "desc": "Beloeil hilft Menschen mit geringem Einkommen mit 20 € für die Sterilisation eines Katers, 30 € für eine Katze und 10 € pro Tier für die Identifizierung.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "20 € (Kater) oder 30 € (Katze) für die Sterilisation; 10 € pro Tier für die Identifizierung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular der Gemeinde, ausgefüllt und unterschrieben"
+          },
+          {
+            "type": "doc",
+            "label": "Die vom Tierarzt unterschriebene Behandlungsbescheinigung und seine Originalrechnung"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Registrierungsbescheinigung aus einer offiziellen Datenbank (IDChips, CatID)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine beidseitige Kopie des Personalausweises der für das Tier verantwortlichen Person"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf der Seite der Gemeinde herunter",
+          "Reichen Sie es mit den Unterlagen ein; Anträge sind nur mit diesem Formular zulässig",
+          "Mehr Informationen beim Dienst für Tierschutz (069/55.38.09, adeline.smets@beloeil.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "7 Nov 2026",
+      "source_url": [
+        "https://www.beloeil.be/agenda/2-divers/1141-prime-communale-pour-la-sterilisation-et-l-identification-des-chats-domestiques.html"
+      ],
+      "conditions": {
+        "en": [
+          "You are the person responsible for the cat.",
+          "You have a low income, such as the guaranteed income for older people, a disability allowance or the integration income.",
+          "At most 2 premiums per household."
+        ],
+        "nl": [
+          "Je bent de verantwoordelijke van de kat.",
+          "Je hebt een laag inkomen, zoals de inkomensgarantie voor ouderen, een tegemoetkoming voor personen met een handicap of het leefloon.",
+          "Maximaal 2 premies per gezin."
+        ],
+        "fr": [
+          "Vous êtes le responsable du chat.",
+          "Vous avez un faible revenu, comme le revenu garanti pour personnes âgées, une allocation pour personne handicapée ou le revenu d'intégration sociale.",
+          "Maximum 2 primes par ménage."
+        ],
+        "de": [
+          "Sie sind die für die Katze verantwortliche Person.",
+          "Sie haben ein geringes Einkommen, etwa das garantierte Einkommen für ältere Menschen, eine Beihilfe für Menschen mit Behinderung oder das Eingliederungseinkommen.",
+          "Höchstens 2 Prämien pro Haushalt."
+        ]
+      }
+    }
   }
 ]

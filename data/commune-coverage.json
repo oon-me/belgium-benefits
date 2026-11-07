@@ -829,49 +829,90 @@
       "name": "Aywaille",
       "checked": "5 Nov 2026",
       "ids": []
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "31003",
-      "name": "Beernem"
+      "name": "Beernem",
+      "checked": "7 Nov 2026",
+      "ids": [
+        410,
+        411,
+        412
+      ]
     },
     {
       "nis": "63004",
-      "name": "Baelen"
+      "name": "Baelen",
+      "checked": "7 Nov 2026",
+      "ids": [
+        420,
+        421
+      ]
     },
     {
       "nis": "13004",
-      "name": "Beerse"
+      "name": "Beerse",
+      "checked": "7 Nov 2026",
+      "ids": [
+        413,
+        414
+      ]
     },
     {
       "nis": "82039",
-      "name": "Bastenaken / Bastogne"
+      "name": "Bastenaken / Bastogne",
+      "checked": "7 Nov 2026",
+      "ids": []
     },
     {
       "nis": "23003",
-      "name": "Beersel"
+      "name": "Beersel",
+      "checked": "7 Nov 2026",
+      "ids": [
+        415
+      ]
     },
     {
       "nis": "56005",
-      "name": "Beaumont"
+      "name": "Beaumont",
+      "checked": "7 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24007",
-      "name": "Begijnendijk"
+      "name": "Begijnendijk",
+      "checked": "7 Nov 2026",
+      "ids": [
+        416,
+        417
+      ]
     },
     {
       "nis": "91013",
-      "name": "Beauraing"
+      "name": "Beauraing",
+      "checked": "7 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24008",
-      "name": "Bekkevoort"
+      "name": "Bekkevoort",
+      "checked": "7 Nov 2026",
+      "ids": [
+        418,
+        419
+      ]
     },
     {
       "nis": "51008",
-      "name": "Beloeil"
-    },
+      "name": "Beloeil",
+      "checked": "7 Nov 2026",
+      "ids": [
+        422,
+        423
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "12002",
       "name": "Berlaar"
