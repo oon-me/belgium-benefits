@@ -51277,5 +51277,1253 @@
         ]
       }
     }
+  },
+  {
+    "id": 424,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12002"
+    ],
+    "institution": "Gemeente Berlaar",
+    "verified": "8 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.berlaar.be/producten/diftar-toelage-voor-onthaalouders-erkende-opvanggezinnen-of-personen-met-een-medische",
+    "content": {
+      "en": {
+        "title": "Diftar toelage (Waste Bill Allowance for Medical Reasons, Berlaar)",
+        "desc": "Berlaar pays €24 towards the extra cost of waste for people who use more care material for a medical reason, such as incontinence, a stoma, home kidney dialysis or cystic fibrosis.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "€24",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's application form"
+          },
+          {
+            "type": "doc",
+            "label": "A doctor's certificate, or the VAPH decision or health-fund certificate for incontinence material (handed in once)"
+          }
+        ],
+        "steps": [
+          "Download the application form from the commune's page",
+          "Send it with the certificate to the Finance service (Markt 1, 03 410 19 00, financien@berlaar.be)",
+          "Tell the Finance service as soon as possible if your reason changes or ends"
+        ]
+      },
+      "nl": {
+        "title": "Diftar toelage voor personen met een medische reden (Berlaar)",
+        "desc": "Berlaar geeft €24 als tussenkomst in de extra afvalkosten voor mensen die om een medische reden meer verzorgingsmateriaal gebruiken, zoals bij incontinentie, een stoma, nierdialyse thuis of mucoviscidose.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "€24",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van de arts, of de beslissing van het VAPH of het attest van het ziekenfonds voor incontinentiemateriaal (éénmalig)"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op de pagina van de gemeente",
+          "Bezorg het met het attest aan de dienst Financiën (Markt 1, 03 410 19 00, financien@berlaar.be)",
+          "Meld het zo snel mogelijk aan de dienst Financiën als je reden wijzigt of wegvalt"
+        ]
+      },
+      "fr": {
+        "title": "Diftar toelage (allocation déchets pour raison médicale, Berlaar)",
+        "desc": "Berlaar verse 24 € pour couvrir le coût supplémentaire des déchets des personnes qui utilisent davantage de matériel de soins pour une raison médicale : incontinence, stomie, dialyse rénale à domicile, mucoviscidose, etc.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "24 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du médecin, ou la décision du VAPH ou l'attestation de la mutualité pour le matériel d'incontinence (une seule fois)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande sur la page de la commune",
+          "Envoyez-le avec l'attestation au service Finances (Markt 1, 03 410 19 00, financien@berlaar.be)",
+          "Prévenez le service Finances au plus vite si votre motif change ou disparaît"
+        ]
+      },
+      "de": {
+        "title": "Diftar toelage (Abfallzuschuss aus medizinischen Gründen, Berlaar)",
+        "desc": "Berlaar zahlt 24 € für die zusätzlichen Abfallkosten von Menschen, die aus medizinischen Gründen mehr Pflegematerial verwenden, etwa bei Inkontinenz, einem Stoma, Heimdialyse oder Mukoviszidose.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "24 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Eine ärztliche Bescheinigung oder der VAPH-Beschluss bzw. die Bescheinigung der Krankenkasse für Inkontinenzmaterial (einmalig)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf der Seite der Gemeinde herunter",
+          "Senden Sie es mit der Bescheinigung an den Finanzdienst (Markt 1, 03 410 19 00, financien@berlaar.be)",
+          "Melden Sie dem Finanzdienst so schnell wie möglich, wenn sich Ihr Grund ändert oder entfällt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "8 Nov 2026",
+      "source_url": [
+        "https://www.berlaar.be/producten/diftar-toelage-voor-onthaalouders-erkende-opvanggezinnen-of-personen-met-een-medische"
+      ],
+      "conditions": {
+        "en": [
+          "You use extra care material for a medical reason (incontinence, stoma, home kidney dialysis, cystic fibrosis, a blistering skin disease or similar).",
+          "For incontinence: you receive a VAPH allowance for incontinence material, or score 3 or 4 for incontinence on the dependency scale (Royal Decree of 2 June 1988), proven once by a doctor's or health-fund certificate.",
+          "For another medical reason: a doctor confirms once that you use extra care material."
+        ],
+        "nl": [
+          "Je gebruikt om een medische reden extra verzorgingsmateriaal (incontinentie, stoma, nierdialyse thuis, mucoviscidose, een huidziekte met blaarvorming of iets gelijkaardigs).",
+          "Bij incontinentie: je krijgt een tegemoetkoming van het VAPH voor incontinentiemateriaal, of je hebt een score 3 of 4 voor incontinentie op het afhankelijkheidsrooster (KB 2 juni 1988), éénmalig bewezen met een attest van de arts of het ziekenfonds.",
+          "Bij een andere medische reden: een arts bevestigt éénmalig dat je extra verzorgingsmateriaal gebruikt."
+        ],
+        "fr": [
+          "Vous utilisez du matériel de soins supplémentaire pour une raison médicale (incontinence, stomie, dialyse rénale à domicile, mucoviscidose, maladie de peau bulleuse ou similaire).",
+          "Pour l'incontinence : vous recevez une intervention du VAPH pour le matériel d'incontinence, ou vous avez un score de 3 ou 4 pour l'incontinence sur l'échelle de dépendance (AR du 2 juin 1988), prouvé une fois par une attestation du médecin ou de la mutualité.",
+          "Pour une autre raison médicale : un médecin confirme une fois que vous utilisez du matériel de soins supplémentaire."
+        ],
+        "de": [
+          "Sie verwenden aus medizinischen Gründen zusätzliches Pflegematerial (Inkontinenz, Stoma, Heimdialyse, Mukoviszidose, eine blasenbildende Hautkrankheit oder Ähnliches).",
+          "Bei Inkontinenz: Sie erhalten einen VAPH-Zuschuss für Inkontinenzmaterial oder haben einen Wert von 3 oder 4 für Inkontinenz auf der Abhängigkeitsskala (KE vom 2. Juni 1988), einmalig nachgewiesen durch eine Bescheinigung des Arztes oder der Krankenkasse.",
+          "Bei einem anderen medizinischen Grund: Ein Arzt bestätigt einmalig, dass Sie zusätzliches Pflegematerial verwenden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 425,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12002"
+    ],
+    "institution": "OCMW Berlaar",
+    "verified": "8 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.berlaar.be/sites/berlaar/files/gemeenteraad/5_rmw20221220_reglement_mantelzorgpremie.pdf",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Berlaar)",
+        "desc": "Berlaar's OCMW pays a monthly premium to residents who care, unpaid, for a person aged 65 or over who needs care and lives with them. The regulation of 20 December 2022 sets €35 per person cared for per month and indexes it every 1 January.",
+        "deadline": "No deadline; the premium starts on the first of the month after your application.",
+        "amount": "€35 per person cared for per month (2022 amount, indexed every 1 January)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The OCMW's application form, completed and signed"
+          },
+          {
+            "type": "doc",
+            "label": "A care-need certificate: Flemish care insurance, at least 12 points on the FOD Social Security scale, or a sufficient BEL/BelRAI score"
+          }
+        ],
+        "steps": [
+          "Ask for the application form at the OCMW social service (Sociaal Huis, Markt 1, 03 410 19 00, socialedienst@berlaar.be)",
+          "Hand it in with the care-need certificate; the special committee decides within 30 days and informs you by letter",
+          "Report within one month any change, such as a stay in a care home of more than three months"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Berlaar)",
+        "desc": "Het OCMW van Berlaar geeft een maandelijkse premie aan inwoners die onbezoldigd zorgen voor een inwonende zorgbehoevende van 65 jaar of ouder. Het reglement van 20 december 2022 bepaalt €35 per zorgbehoevende per maand, jaarlijks geïndexeerd op 1 januari.",
+        "deadline": "Geen termijn; de premie gaat in op de eerste van de maand na je aanvraag.",
+        "amount": "€35 per zorgbehoevende per maand (bedrag 2022, jaarlijks geïndexeerd op 1 januari)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van het OCMW, ingevuld en ondertekend"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van zorgbehoevendheid: Vlaamse zorgverzekering, minstens 12 punten op de schaal van de FOD Sociale Zekerheid, of een voldoende BEL-/BelRAI-score"
+          }
+        ],
+        "steps": [
+          "Vraag het aanvraagformulier bij de sociale dienst van het OCMW (Sociaal Huis, Markt 1, 03 410 19 00, socialedienst@berlaar.be)",
+          "Dien het in met het attest; het bijzonder comité beslist binnen 30 dagen en brengt je per brief op de hoogte",
+          "Meld elke wijziging binnen één maand, zoals een opname van meer dan drie maanden"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Berlaar)",
+        "desc": "L'OCMW de Berlaar verse une prime mensuelle aux habitants qui s'occupent bénévolement d'une personne de 65 ans ou plus ayant besoin de soins et vivant avec eux. Le règlement du 20 décembre 2022 fixe 35 € par personne aidée et par mois, indexés chaque 1er janvier.",
+        "deadline": "Pas de délai ; la prime commence le 1er du mois qui suit votre demande.",
+        "amount": "35 € par personne aidée et par mois (montant 2022, indexé chaque 1er janvier)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande de l'OCMW, complété et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du besoin de soins : assurance soins flamande, au moins 12 points sur l'échelle du SPF Sécurité sociale, ou un score BEL/BelRAI suffisant"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire au service social de l'OCMW (Sociaal Huis, Markt 1, 03 410 19 00, socialedienst@berlaar.be)",
+          "Introduisez-le avec l'attestation ; le comité spécial décide dans les 30 jours et vous informe par courrier",
+          "Signalez dans le mois tout changement, comme un séjour de plus de trois mois en institution"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Berlaar)",
+        "desc": "Das ÖSHZ (OCMW) Berlaar zahlt Einwohnern, die unentgeltlich eine mit ihnen zusammenlebende pflegebedürftige Person ab 65 Jahren betreuen, eine monatliche Prämie. Die Regelung vom 20. Dezember 2022 legt 35 € pro betreuter Person und Monat fest, indexiert jeweils am 1. Januar.",
+        "deadline": "Keine Frist; die Prämie beginnt am Ersten des Monats nach Ihrem Antrag.",
+        "amount": "35 € pro betreuter Person und Monat (Betrag 2022, jeweils am 1. Januar indexiert)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular des OCMW, ausgefüllt und unterschrieben"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Nachweis der Pflegebedürftigkeit: flämische Pflegeversicherung, mindestens 12 Punkte auf der Skala des FÖD Soziale Sicherheit oder ein ausreichender BEL-/BelRAI-Wert"
+          }
+        ],
+        "steps": [
+          "Fragen Sie das Antragsformular beim Sozialdienst des OCMW an (Sociaal Huis, Markt 1, 03 410 19 00, socialedienst@berlaar.be)",
+          "Reichen Sie es mit dem Nachweis ein; der Sonderausschuss entscheidet innerhalb von 30 Tagen und informiert Sie per Brief",
+          "Melden Sie jede Änderung innerhalb eines Monats, etwa einen Heimaufenthalt von mehr als drei Monaten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "8 Nov 2026",
+      "source_url": [
+        "https://www.berlaar.be/sites/berlaar/files/gemeenteraad/5_rmw20221220_reglement_mantelzorgpremie.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are registered in Berlaar's population or foreigners' register and care, unpaid, for one or more people who live with you.",
+          "The person you care for is at least 65, lives at home (not in a care home, apart from short stays of up to three months) and has been registered at your address for three months in a row before the application.",
+          "Their care need is proven by Flemish care insurance, at least 12 points on the FOD Social Security scale, a BEL score of 35, or a BelRAI screener score (13 points overall or 6 on ADL/IADL).",
+          "You cannot receive the premium for yourself as the person needing care."
+        ],
+        "nl": [
+          "Je bent ingeschreven in het bevolkings- of vreemdelingenregister van Berlaar en zorgt onbezoldigd voor één of meer inwonende zorgbehoevenden.",
+          "De zorgbehoevende is minstens 65 jaar, verblijft thuis (niet in een instelling of rusthuis, behalve kort verblijf tot drie maanden) en staat al drie maanden onafgebroken op jouw adres ingeschreven vóór de aanvraag.",
+          "De zorgbehoevendheid blijkt uit de Vlaamse zorgverzekering, minstens 12 punten op de schaal van de FOD Sociale Zekerheid, een BEL-score van 35 of een BelRAI-screener (13 punten in totaal of 6 op ADL/IADL).",
+          "Je kan als zorgbehoevende zelf geen recht geven op de premie."
+        ],
+        "fr": [
+          "Vous êtes inscrit au registre de la population ou des étrangers de Berlaar et vous vous occupez bénévolement d'une ou plusieurs personnes qui vivent avec vous.",
+          "La personne aidée a au moins 65 ans, vit à domicile (pas en institution ni en maison de repos, sauf court séjour de trois mois maximum) et est inscrite à votre adresse depuis trois mois sans interruption avant la demande.",
+          "Son besoin de soins est prouvé par l'assurance soins flamande, au moins 12 points sur l'échelle du SPF Sécurité sociale, un score BEL de 35 ou un screener BelRAI (13 points au total ou 6 en ADL/IADL).",
+          "Vous ne pouvez pas ouvrir le droit à la prime pour vous-même en tant que personne aidée."
+        ],
+        "de": [
+          "Sie sind im Bevölkerungs- oder Fremdenregister von Berlaar eingetragen und betreuen unentgeltlich eine oder mehrere mit Ihnen zusammenlebende Personen.",
+          "Die betreute Person ist mindestens 65 Jahre alt, lebt zu Hause (nicht in einer Einrichtung oder einem Altenheim, außer Kurzaufenthalten bis drei Monate) und ist vor dem Antrag seit drei Monaten ununterbrochen an Ihrer Adresse gemeldet.",
+          "Die Pflegebedürftigkeit wird durch die flämische Pflegeversicherung, mindestens 12 Punkte auf der Skala des FÖD Soziale Sicherheit, einen BEL-Wert von 35 oder einen BelRAI-Screener (13 Punkte insgesamt oder 6 bei ADL/IADL) nachgewiesen.",
+          "Als pflegebedürftige Person können Sie die Prämie nicht für sich selbst beantragen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 426,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "64008"
+    ],
+    "institution": "Commune de Berloz",
+    "verified": "8 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.deliberations.be/berloz/decisions/24-juin-2025-19-30/energie-reglement-communal-pour-loctroi-de-primes-energie-isolation-thermique-du-toit-ou-des-combles-decision",
+    "content": {
+      "en": {
+        "title": "Prime communale isolation thermique du toit ou des combles (Roof Insulation Top-Up, Berloz)",
+        "desc": "If the Walloon Region gave you its premium for insulating the roof or attic of a home in Berloz, the commune adds €2 to €6 per m², up to €120 to €360, depending on your income category. With a bio-based insulation material it is €6 to €10 per m², up to €300 to €500.",
+        "deadline": "Within 4 months of the Walloon Region's letter stating the amount of its premium.",
+        "amount": "€2–€6 per m² (max €120–€360); €6–€10 per m² with bio-based insulation (max €300–€500)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's form, completed"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the Walloon Region's notification of the final premium amount"
+          },
+          {
+            "type": "doc",
+            "label": "Copies of all paid invoices for the work"
+          },
+          {
+            "type": "doc",
+            "label": "The latest income-tax assessment notice of your household"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the planning permit, if the work needed one"
+          }
+        ],
+        "steps": [
+          "Get the Walloon roof-insulation premium first",
+          "Download the form from the commune's premium page (berloz.be, Finances)",
+          "Send the full file to the College communal within 4 months; files are handled in date order within the budget"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale isolation thermique du toit ou des combles (gemeentelijke premie dakisolatie, Berloz)",
+        "desc": "Kreeg je van het Waals Gewest de premie voor het isoleren van het dak of de zolder van een woning in Berloz, dan geeft de gemeente €2 tot €6 per m² extra, tot €120 à €360, volgens je inkomenscategorie. Met biogebaseerd isolatiemateriaal is dat €6 tot €10 per m², tot €300 à €500.",
+        "deadline": "Binnen 4 maanden na de brief van het Waals Gewest met het bedrag van zijn premie.",
+        "amount": "€2–€6 per m² (max. €120–€360); €6–€10 per m² met biogebaseerde isolatie (max. €300–€500)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier van de gemeente, ingevuld"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de kennisgeving van het Waals Gewest met het definitieve premiebedrag"
+          },
+          {
+            "type": "doc",
+            "label": "Kopieën van alle betaalde facturen voor de werken"
+          },
+          {
+            "type": "doc",
+            "label": "Het laatste aanslagbiljet personenbelasting van je gezin"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de stedenbouwkundige vergunning, als de werken die nodig hadden"
+          }
+        ],
+        "steps": [
+          "Vraag eerst de Waalse premie voor dakisolatie aan",
+          "Download het formulier op de premiepagina van de gemeente (berloz.be, Finances)",
+          "Bezorg het volledige dossier binnen 4 maanden aan het college; dossiers worden in volgorde van ontvangst behandeld binnen het budget"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale visant le soutien de l'isolation thermique du toit ou des combles (Berloz)",
+        "desc": "Si la Région wallonne vous a accordé sa prime pour l'isolation du toit ou des combles d'un logement à Berloz, la commune ajoute 2 à 6 € par m², jusqu'à 120 à 360 €, selon votre catégorie de revenus. Avec un isolant biosourcé, c'est 6 à 10 € par m², jusqu'à 300 à 500 €.",
+        "deadline": "Dans les 4 mois du courrier du Service public de Wallonie notifiant le montant de la prime régionale.",
+        "amount": "2 à 6 € par m² (max. 120 à 360 €) ; 6 à 10 € par m² avec isolant biosourcé (max. 300 à 500 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire communal dûment complété"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la notification du montant définitif de la prime octroyée par le SPW"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de toutes les factures acquittées relatives aux travaux"
+          },
+          {
+            "type": "doc",
+            "label": "Le dernier avertissement-extrait de rôle à l'impôt des personnes physiques du ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie du permis d'urbanisme éventuel"
+          }
+        ],
+        "steps": [
+          "Obtenez d'abord la prime régionale pour l'isolation du toit",
+          "Téléchargez le formulaire sur la page des primes communales (berloz.be, Finances)",
+          "Envoyez le dossier complet au Collège communal dans les 4 mois ; les demandes sont traitées par ordre chronologique dans la limite du budget"
+        ]
+      },
+      "de": {
+        "title": "Prime communale isolation thermique du toit ou des combles (Gemeindeprämie für Dachisolierung, Berloz)",
+        "desc": "Wenn die Wallonische Region Ihnen ihre Prämie für die Isolierung von Dach oder Dachboden einer Wohnung in Berloz gewährt hat, zahlt die Gemeinde je nach Einkommenskategorie 2 bis 6 € pro m² dazu, bis zu 120 bis 360 €. Mit biobasiertem Dämmstoff sind es 6 bis 10 € pro m², bis zu 300 bis 500 €.",
+        "deadline": "Innerhalb von 4 Monaten nach dem Schreiben der Wallonischen Region mit dem Betrag ihrer Prämie.",
+        "amount": "2–6 € pro m² (max. 120–360 €); 6–10 € pro m² mit biobasiertem Dämmstoff (max. 300–500 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Formular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Mitteilung des endgültigen Prämienbetrags durch den ÖDW (SPW)"
+          },
+          {
+            "type": "doc",
+            "label": "Kopien aller bezahlten Rechnungen für die Arbeiten"
+          },
+          {
+            "type": "doc",
+            "label": "Der letzte Steuerbescheid zur Einkommensteuer Ihres Haushalts"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Baugenehmigung, falls die Arbeiten eine erforderten"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie zuerst die wallonische Prämie für Dachisolierung",
+          "Laden Sie das Formular auf der Prämienseite der Gemeinde herunter (berloz.be, Finances)",
+          "Senden Sie die vollständige Akte innerhalb von 4 Monaten an das Gemeindekollegium; Anträge werden in zeitlicher Reihenfolge im Rahmen des Budgets bearbeitet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "8 Nov 2026",
+      "source_url": [
+        "https://www.deliberations.be/berloz/decisions/24-juin-2025-19-30/energie-reglement-communal-pour-loctroi-de-primes-energie-isolation-thermique-du-toit-ou-des-combles-decision"
+      ],
+      "conditions": {
+        "en": [
+          "The home is in Berloz, was built more than 15 years ago and is mainly (over 50%) used as housing.",
+          "You first received the Walloon Region's premium for insulating the roof or attic.",
+          "You are at least 18 (or an emancipated minor), hold a real right on the building and are registered in the population or foreigners' register; associations of co-owners can also apply.",
+          "The insulation meets the Walloon technical criteria; the commune and Walloon premiums together never exceed the invoices, and the premium is granted within the budget."
+        ],
+        "nl": [
+          "De woning ligt in Berloz, is meer dan 15 jaar geleden gebouwd en dient vooral (meer dan 50%) als woning.",
+          "Je kreeg eerst de premie van het Waals Gewest voor de isolatie van het dak of de zolder.",
+          "Je bent minstens 18 jaar (of ontvoogd minderjarig), hebt een zakelijk recht op het gebouw en bent ingeschreven in het bevolkings- of vreemdelingenregister; verenigingen van mede-eigenaars kunnen ook aanvragen.",
+          "De isolatie voldoet aan de Waalse technische criteria; gemeentelijke en Waalse premie samen zijn nooit hoger dan de facturen, en de premie wordt toegekend binnen het budget."
+        ],
+        "fr": [
+          "Le logement est situé à Berloz, a été construit il y a plus de 15 ans et est principalement (plus de 50 %) destiné au logement.",
+          "Vous avez obtenu au préalable la prime de la Région wallonne pour l'isolation du toit ou des combles.",
+          "Vous avez au moins 18 ans (ou êtes mineur émancipé), avez un droit réel sur le bâtiment et êtes inscrit au registre de la population ou des étrangers ; les associations de copropriétaires peuvent aussi demander la prime.",
+          "L'isolant respecte les critères techniques wallons ; les primes communale et régionale cumulées ne dépassent jamais les factures, et la prime est accordée dans la limite des crédits."
+        ],
+        "de": [
+          "Die Wohnung liegt in Berloz, wurde vor mehr als 15 Jahren gebaut und dient überwiegend (über 50 %) als Wohnraum.",
+          "Sie haben zuvor die Prämie der Wallonischen Region für die Isolierung von Dach oder Dachboden erhalten.",
+          "Sie sind mindestens 18 Jahre alt (oder ein für mündig erklärter Minderjähriger), haben ein dingliches Recht am Gebäude und sind im Bevölkerungs- oder Fremdenregister eingetragen; auch Miteigentümergemeinschaften können beantragen.",
+          "Der Dämmstoff erfüllt die wallonischen technischen Kriterien; Gemeinde- und Regionalprämie zusammen übersteigen nie die Rechnungen, und die Prämie wird im Rahmen des Budgets gewährt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 427,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "42003"
+    ],
+    "institution": "Lokaal bestuur Berlare",
+    "verified": "8 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.berlare.be/sociale-dienst/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Berlare)",
+        "desc": "Berlare pays €400 a year to a family member, friend, acquaintance or neighbour who gives long-term, unpaid extra care at home to a resident aged 65 or over who needs help in daily life.",
+        "deadline": "Apply again every calendar year.",
+        "amount": "€400 per calendar year",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Your identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Your bank account number"
+          },
+          {
+            "type": "doc",
+            "label": "The BelRAI score of the person you care for (the social service can do the assessment)"
+          }
+        ],
+        "steps": [
+          "Apply with the online form at the bottom of the commune's page, or make an appointment with the social service (Sociaal Huis, 052 36 92 60, sociaalhuis@berlare.be)",
+          "A social worker reviews your situation and makes a BelRAI assessment if there is no recent one",
+          "If you qualify, the premium is paid into your account"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Berlare)",
+        "desc": "Berlare geeft €400 per jaar aan een familielid, vriend, kennis of buur die langdurig en onbezoldigd extra thuiszorg biedt aan een inwoner van 65 jaar of ouder die hulp nodig heeft in het dagelijks leven.",
+        "deadline": "Jaarlijks opnieuw aan te vragen.",
+        "amount": "€400 per kalenderjaar",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Je rekeningnummer"
+          },
+          {
+            "type": "doc",
+            "label": "De BelRAI-score van de zorgbehoevende (de sociale dienst kan die opmaken)"
+          }
+        ],
+        "steps": [
+          "Vraag aan met het online formulier onderaan de pagina van de gemeente, of maak een afspraak met de sociale dienst (Sociaal Huis, 052 36 92 60, sociaalhuis@berlare.be)",
+          "Een maatschappelijk werker bekijkt je situatie en maakt een BelRAI-score op als er geen recente is",
+          "Voldoe je aan de voorwaarden, dan wordt de premie op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Berlare)",
+        "desc": "Berlare verse 400 € par an à un membre de la famille, un ami, une connaissance ou un voisin qui apporte durablement et bénévolement des soins supplémentaires à domicile à un habitant de 65 ans ou plus ayant besoin d'aide au quotidien.",
+        "deadline": "À redemander chaque année civile.",
+        "amount": "400 € par année civile",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Votre carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Votre numéro de compte"
+          },
+          {
+            "type": "doc",
+            "label": "Le score BelRAI de la personne aidée (le service social peut l'établir)"
+          }
+        ],
+        "steps": [
+          "Faites la demande via le formulaire en ligne au bas de la page de la commune, ou prenez rendez-vous avec le service social (Sociaal Huis, 052 36 92 60, sociaalhuis@berlare.be)",
+          "Un travailleur social examine votre situation et établit un score BelRAI s'il n'y en a pas de récent",
+          "Si vous remplissez les conditions, la prime est versée sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Berlare)",
+        "desc": "Berlare zahlt 400 € pro Jahr an ein Familienmitglied, einen Freund, Bekannten oder Nachbarn, der einen Einwohner ab 65 Jahren mit Hilfebedarf im Alltag langfristig und unentgeltlich zu Hause zusätzlich pflegt.",
+        "deadline": "Jedes Kalenderjahr neu zu beantragen.",
+        "amount": "400 € pro Kalenderjahr",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Ihr Personalausweis"
+          },
+          {
+            "type": "doc",
+            "label": "Ihre Kontonummer"
+          },
+          {
+            "type": "doc",
+            "label": "Der BelRAI-Wert der betreuten Person (der Sozialdienst kann ihn erstellen)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Prämie über das Online-Formular unten auf der Seite der Gemeinde oder vereinbaren Sie einen Termin beim Sozialdienst (Sociaal Huis, 052 36 92 60, sociaalhuis@berlare.be)",
+          "Ein Sozialarbeiter prüft Ihre Lage und erstellt einen BelRAI-Wert, falls kein aktueller vorliegt",
+          "Wenn Sie die Bedingungen erfüllen, wird die Prämie auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "8 Nov 2026",
+      "source_url": [
+        "https://www.berlare.be/sociale-dienst/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "You are a family member, friend, acquaintance or neighbour, give long-term unpaid extra care at home, and live in Berlare.",
+          "The person you care for lives in Berlare, at home (alone or with others), and is at least 65 on the application date.",
+          "They need help with washing, dressing, eating or drinking, shown by a BelRAI screener score (12/30 overall, 4.5/12 on ADL plus IADL, or 3 or 4/6 on cognition, as set out on the page).",
+          "Not combined with the Flemish care fund's carer premium: if you already receive that, you cannot get this one."
+        ],
+        "nl": [
+          "Je bent een familielid, vriend, kennis of buur, biedt langdurig en onbezoldigd extra thuiszorg en bent inwoner van Berlare.",
+          "De zorgbehoevende woont in Berlare, thuis (zelfstandig of inwonend), en is minstens 65 jaar op het moment van de aanvraag.",
+          "De zorgbehoevende heeft hulp nodig bij wassen, aankleden, eten of drinken, wat blijkt uit een BelRAI-screener (12/30 in totaal, 4,5/12 op ADL en IADL samen, of 3 of 4/6 op cognitie, zoals op de pagina beschreven).",
+          "Niet cumuleerbaar met de premie van de Vlaamse Zorgkas: wie die al ontvangt, heeft geen recht op deze premie."
+        ],
+        "fr": [
+          "Vous êtes un membre de la famille, un ami, une connaissance ou un voisin, apportez durablement et bénévolement des soins supplémentaires à domicile et habitez Berlare.",
+          "La personne aidée habite Berlare, à domicile (seule ou chez quelqu'un), et a au moins 65 ans au moment de la demande.",
+          "Elle a besoin d'aide pour se laver, s'habiller, manger ou boire, ce qui ressort d'un screener BelRAI (12/30 au total, 4,5/12 en ADL et IADL ensemble, ou 3 ou 4/6 en cognition, comme décrit sur la page).",
+          "Non cumulable avec la prime de la caisse de soins flamande : si vous la recevez déjà, vous n'avez pas droit à celle-ci."
+        ],
+        "de": [
+          "Sie sind Familienmitglied, Freund, Bekannter oder Nachbar, leisten langfristig und unentgeltlich zusätzliche häusliche Pflege und wohnen in Berlare.",
+          "Die betreute Person wohnt in Berlare, zu Hause (allein oder bei jemandem), und ist bei Antragstellung mindestens 65 Jahre alt.",
+          "Sie braucht Hilfe beim Waschen, Anziehen, Essen oder Trinken, nachgewiesen durch einen BelRAI-Screener (12/30 insgesamt, 4,5/12 bei ADL und IADL zusammen oder 3 bzw. 4/6 bei Kognition, wie auf der Seite beschrieben).",
+          "Nicht kombinierbar mit der Prämie der flämischen Pflegekasse: Wer diese bereits erhält, hat keinen Anspruch auf diese Prämie."
+        ]
+      }
+    }
+  },
+  {
+    "id": 428,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "42003"
+    ],
+    "institution": "Lokaal bestuur Berlare",
+    "verified": "8 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.berlare.be/vergunningen-enkel-na-afspraak/subsidie-voor-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Subsidie voor herbruikbare luiers (Washable Nappy Subsidy, Berlare)",
+        "desc": "Berlare refunds 50% of what you pay for new washable nappies, up to €135 per child, once.",
+        "deadline": "Before the child's second birthday, for nappies bought at most six months earlier.",
+        "amount": "50% of the purchase price, up to €135 per child",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "A copy of your identity document"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the child's birth certificate"
+          },
+          {
+            "type": "doc",
+            "label": "The purchase invoices showing price and date, or proof of payment"
+          }
+        ],
+        "steps": [
+          "Apply with the online form at the bottom of the commune's page (log in first)",
+          "If that does not work, contact the permits service (052 36 92 80, vergunningen@berlare.be)",
+          "If you qualify, the subsidy is paid into your account"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie voor herbruikbare luiers (Berlare)",
+        "desc": "Berlare betaalt eenmalig 50% van de aankoopsom van nieuwe herbruikbare luiers terug, tot €135 per kind.",
+        "deadline": "Vóór de tweede verjaardag van het kind, voor luiers die maximaal zes maanden geleden zijn gekocht.",
+        "amount": "50% van de aankoopsom, tot €135 per kind",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Een kopie van je identiteitsbewijs"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de geboorteakte van het kind"
+          },
+          {
+            "type": "doc",
+            "label": "De aankoopfacturen met kostprijs en aankoopdatum, of een bewijs van betaling"
+          }
+        ],
+        "steps": [
+          "Vraag aan met het online formulier onderaan de pagina van de gemeente (eerst aanmelden)",
+          "Lukt het niet? Contacteer de dienst vergunningen (052 36 92 80, vergunningen@berlare.be)",
+          "Voldoe je aan de voorwaarden, dan wordt de subsidie op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie voor herbruikbare luiers (subside pour langes lavables, Berlare)",
+        "desc": "Berlare rembourse une fois 50 % du prix d'achat de langes lavables neufs, jusqu'à 135 € par enfant.",
+        "deadline": "Avant le deuxième anniversaire de l'enfant, pour des langes achetés il y a six mois au plus.",
+        "amount": "50 % du prix d'achat, jusqu'à 135 € par enfant",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Une copie de votre pièce d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de l'acte de naissance de l'enfant"
+          },
+          {
+            "type": "doc",
+            "label": "Les factures d'achat avec prix et date, ou une preuve de paiement"
+          }
+        ],
+        "steps": [
+          "Faites la demande via le formulaire en ligne au bas de la page de la commune (connectez-vous d'abord)",
+          "En cas de problème, contactez le service des permis (052 36 92 80, vergunningen@berlare.be)",
+          "Si vous remplissez les conditions, le subside est versé sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Subsidie voor herbruikbare luiers (Zuschuss für Stoffwindeln, Berlare)",
+        "desc": "Berlare erstattet einmalig 50 % des Kaufpreises neuer Stoffwindeln, bis zu 135 € pro Kind.",
+        "deadline": "Vor dem zweiten Geburtstag des Kindes, für Windeln, die höchstens sechs Monate zuvor gekauft wurden.",
+        "amount": "50 % des Kaufpreises, bis zu 135 € pro Kind",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Eine Kopie Ihres Ausweisdokuments"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Geburtsurkunde des Kindes"
+          },
+          {
+            "type": "doc",
+            "label": "Die Kaufrechnungen mit Preis und Datum oder ein Zahlungsnachweis"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie den Zuschuss über das Online-Formular unten auf der Seite der Gemeinde (zuerst anmelden)",
+          "Klappt es nicht, wenden Sie sich an den Genehmigungsdienst (052 36 92 80, vergunningen@berlare.be)",
+          "Wenn Sie die Bedingungen erfüllen, wird der Zuschuss auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "8 Nov 2026",
+      "source_url": [
+        "https://www.berlare.be/vergunningen-enkel-na-afspraak/subsidie-voor-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "The father, mother or legal guardian of the child applies.",
+          "Both you and the child are registered in Berlare's population or foreigners' register.",
+          "You apply before the child's second birthday, for nappies bought at most six months earlier.",
+          "Second-hand nappies do not count, and nappies used for several children in the same family are subsidised only once."
+        ],
+        "nl": [
+          "De aanvraag wordt ingediend door de vader, de moeder of de wettelijke voogd van het kind.",
+          "Zowel de aanvrager als het kind zijn ingeschreven in het bevolkings- of vreemdelingenregister van Berlare.",
+          "De aanvraag gebeurt vóór de tweede verjaardag van het kind, voor luiers die maximaal zes maanden geleden zijn gekocht.",
+          "Tweedehands luiers komen niet in aanmerking, en luiers voor verschillende kinderen in hetzelfde gezin worden maar één keer gesubsidieerd."
+        ],
+        "fr": [
+          "La demande est introduite par le père, la mère ou le tuteur légal de l'enfant.",
+          "Le demandeur et l'enfant sont tous deux inscrits au registre de la population ou des étrangers de Berlare.",
+          "La demande est faite avant le deuxième anniversaire de l'enfant, pour des langes achetés il y a six mois au plus.",
+          "Les langes de seconde main ne sont pas pris en compte, et des langes utilisés pour plusieurs enfants d'une même famille ne sont subsidiés qu'une fois."
+        ],
+        "de": [
+          "Der Vater, die Mutter oder der gesetzliche Vormund des Kindes stellt den Antrag.",
+          "Antragsteller und Kind sind beide im Bevölkerungs- oder Fremdenregister von Berlare eingetragen.",
+          "Der Antrag erfolgt vor dem zweiten Geburtstag des Kindes, für Windeln, die höchstens sechs Monate zuvor gekauft wurden.",
+          "Gebrauchte Windeln zählen nicht, und Windeln für mehrere Kinder derselben Familie werden nur einmal bezuschusst."
+        ]
+      }
+    }
+  },
+  {
+    "id": 429,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "42003"
+    ],
+    "institution": "Lokaal bestuur Berlare",
+    "verified": "8 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.berlare.be/sociale-dienst/premie-voor-ouders-opvoeders-van-een-kind-met-een-handicap",
+    "content": {
+      "en": {
+        "title": "Premie voor ouders of opvoeders van een kind met een handicap (Premium for Parents of a Child with a Disability, Berlare)",
+        "desc": "Berlare pays parents or carers who raise and look after a child with a disability €400 per calendar year for each child in the family who qualifies.",
+        "deadline": "The page gives no deadline; the premium is yearly.",
+        "amount": "€400 per child per calendar year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate from the FOD Social Security (Directorate-General Persons with Disabilities) showing a supplementary child benefit for the child"
+          }
+        ],
+        "steps": [
+          "Apply with the online form at the bottom of the commune's page",
+          "If that does not work, make an appointment with the social service (Sociaal Huis, 052 36 92 60, sociaalhuis@berlare.be)",
+          "If you qualify, the premium is paid into your account"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor ouders of opvoeders van een kind met een handicap (Berlare)",
+        "desc": "Berlare geeft ouders of opvoeders die een kind met een handicap opvoeden en verzorgen €400 per kalenderjaar voor elk kind in het gezin dat aan de voorwaarden voldoet.",
+        "deadline": "De pagina vermeldt geen termijn; de premie is jaarlijks.",
+        "amount": "€400 per kind per kalenderjaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van de FOD Sociale Zekerheid (Directie-generaal Personen met een handicap) waaruit blijkt dat er een bijkomende kinderbijslag voor het kind is"
+          }
+        ],
+        "steps": [
+          "Vraag aan met het online formulier onderaan de pagina van de gemeente",
+          "Lukt het niet? Maak een afspraak met de sociale dienst (Sociaal Huis, 052 36 92 60, sociaalhuis@berlare.be)",
+          "Voldoe je aan de voorwaarden, dan wordt de premie op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor ouders of opvoeders van een kind met een handicap (prime pour parents d'un enfant handicapé, Berlare)",
+        "desc": "Berlare verse aux parents ou éducateurs qui élèvent et soignent un enfant handicapé 400 € par année civile pour chaque enfant du ménage qui remplit les conditions.",
+        "deadline": "La page n'indique pas de délai ; la prime est annuelle.",
+        "amount": "400 € par enfant et par année civile",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du SPF Sécurité sociale (Direction générale Personnes handicapées) montrant un supplément d'allocations familiales pour l'enfant"
+          }
+        ],
+        "steps": [
+          "Faites la demande via le formulaire en ligne au bas de la page de la commune",
+          "En cas de problème, prenez rendez-vous avec le service social (Sociaal Huis, 052 36 92 60, sociaalhuis@berlare.be)",
+          "Si vous remplissez les conditions, la prime est versée sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Premie voor ouders of opvoeders van een kind met een handicap (Prämie für Eltern eines Kindes mit Behinderung, Berlare)",
+        "desc": "Berlare zahlt Eltern oder Erziehenden, die ein Kind mit Behinderung erziehen und pflegen, 400 € pro Kalenderjahr für jedes Kind in der Familie, das die Bedingungen erfüllt.",
+        "deadline": "Die Seite nennt keine Frist; die Prämie ist jährlich.",
+        "amount": "400 € pro Kind und Kalenderjahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des FÖD Soziale Sicherheit (Generaldirektion Personen mit Behinderung) über eine zusätzliche Kinderzulage für das Kind"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Prämie über das Online-Formular unten auf der Seite der Gemeinde",
+          "Klappt es nicht, vereinbaren Sie einen Termin beim Sozialdienst (Sociaal Huis, 052 36 92 60, sociaalhuis@berlare.be)",
+          "Wenn Sie die Bedingungen erfüllen, wird die Prämie auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "8 Nov 2026",
+      "source_url": [
+        "https://www.berlare.be/sociale-dienst/premie-voor-ouders-opvoeders-van-een-kind-met-een-handicap"
+      ],
+      "conditions": {
+        "en": [
+          "You are a parent or carer who raises and looks after the child.",
+          "The child is under 21 and has their legal address (domicile) in Berlare.",
+          "A certificate from the FOD Social Security shows that the child receives a supplementary child benefit."
+        ],
+        "nl": [
+          "Je bent ouder of opvoeder en neemt de opvoeding en verzorging van het kind op je.",
+          "Het kind is jonger dan 21 jaar en is gedomicilieerd in Berlare.",
+          "Een attest van de FOD Sociale Zekerheid toont dat er een bijkomende kinderbijslag voor het kind is."
+        ],
+        "fr": [
+          "Vous êtes parent ou éducateur et assurez l'éducation et les soins de l'enfant.",
+          "L'enfant a moins de 21 ans et est domicilié à Berlare.",
+          "Une attestation du SPF Sécurité sociale montre que l'enfant bénéficie d'un supplément d'allocations familiales."
+        ],
+        "de": [
+          "Sie sind Elternteil oder Erziehende(r) und übernehmen die Erziehung und Pflege des Kindes.",
+          "Das Kind ist unter 21 Jahre alt und hat seinen Wohnsitz in Berlare.",
+          "Eine Bescheinigung des FÖD Soziale Sicherheit belegt eine zusätzliche Kinderzulage für das Kind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 430,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24009"
+    ],
+    "institution": "Gemeente Bertem",
+    "verified": "8 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bertem.be/product/726/premie-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Premie herbruikbare luiers (Washable Nappy Premium, Bertem)",
+        "desc": "Bertem gives parents who buy washable nappies a €100 subsidy when they hand in an invoice of at least €200.",
+        "deadline": "The commune's page gives no deadline.",
+        "amount": "€100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "An invoice for washable nappies of at least €200"
+          }
+        ],
+        "steps": [
+          "Fill in the Premie herbruikbare luiers form in the commune's e-loket",
+          "Add the invoice",
+          "After approval by the college of mayor and aldermen, the €100 is paid"
+        ]
+      },
+      "nl": {
+        "title": "Premie herbruikbare luiers (Bertem)",
+        "desc": "Bertem geeft ouders die herbruikbare luiers kopen een subsidie van €100 als ze een factuur van minstens €200 bezorgen.",
+        "deadline": "De pagina van de gemeente vermeldt geen termijn.",
+        "amount": "€100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een factuur voor herbruikbare luiers van minstens €200"
+          }
+        ],
+        "steps": [
+          "Vul het formulier Premie herbruikbare luiers in via het e-loket van de gemeente",
+          "Voeg de factuur toe",
+          "Na goedkeuring door het college van burgemeester en schepenen ontvang je €100"
+        ]
+      },
+      "fr": {
+        "title": "Premie herbruikbare luiers (prime pour langes lavables, Bertem)",
+        "desc": "Bertem accorde aux parents qui achètent des langes lavables un subside de 100 € sur présentation d'une facture d'au moins 200 €.",
+        "deadline": "La page de la commune n'indique pas de délai.",
+        "amount": "100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une facture de langes lavables d'au moins 200 €"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire Premie herbruikbare luiers sur le guichet en ligne de la commune",
+          "Joignez la facture",
+          "Après approbation par le collège des bourgmestre et échevins, vous recevez 100 €"
+        ]
+      },
+      "de": {
+        "title": "Premie herbruikbare luiers (Prämie für Stoffwindeln, Bertem)",
+        "desc": "Bertem gibt Eltern, die Stoffwindeln kaufen, einen Zuschuss von 100 €, wenn sie eine Rechnung über mindestens 200 € einreichen.",
+        "deadline": "Die Seite der Gemeinde nennt keine Frist.",
+        "amount": "100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Rechnung für Stoffwindeln über mindestens 200 €"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular Premie herbruikbare luiers im E-Schalter der Gemeinde aus",
+          "Fügen Sie die Rechnung bei",
+          "Nach Genehmigung durch das Bürgermeister- und Schöffenkollegium erhalten Sie 100 €"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "8 Nov 2026",
+      "source_url": [
+        "https://www.bertem.be/product/726/premie-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "You are a parent who bought washable nappies.",
+          "Your invoice is for at least €200.",
+          "The college of mayor and aldermen approves the request."
+        ],
+        "nl": [
+          "Je bent een ouder die herbruikbare luiers kocht.",
+          "Je factuur bedraagt minstens €200.",
+          "Het college van burgemeester en schepenen keurt de aanvraag goed."
+        ],
+        "fr": [
+          "Vous êtes un parent qui a acheté des langes lavables.",
+          "Votre facture s'élève à au moins 200 €.",
+          "Le collège des bourgmestre et échevins approuve la demande."
+        ],
+        "de": [
+          "Sie sind ein Elternteil, der Stoffwindeln gekauft hat.",
+          "Ihre Rechnung beträgt mindestens 200 €.",
+          "Das Bürgermeister- und Schöffenkollegium genehmigt den Antrag."
+        ]
+      }
+    }
+  },
+  {
+    "id": 431,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24009"
+    ],
+    "institution": "Gemeente Bertem",
+    "verified": "8 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bertem.be/product/260/sociale-tegemoetkoming-in-de-afvalkosten",
+    "content": {
+      "en": {
+        "title": "Sociale tegemoetkoming in de afvalkosten (Waste Cost Allowance for Incontinence or Stoma Material, Bertem)",
+        "desc": "Residents of Bertem who need disposable incontinence or stoma material get a yearly €22 social correction on their DifTar waste account from 2026.",
+        "deadline": "Apply before 1 July.",
+        "amount": "€22 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A certificate from your treating doctor confirming you need incontinence and/or stoma material"
+          }
+        ],
+        "steps": [
+          "Fill in the form in the commune's e-loket (or the PDF form on the page)",
+          "Add the doctor's certificate and send it before 1 July",
+          "For questions, contact the Omgeving service (016 49 99 99, omgeving@bertem.be)"
+        ]
+      },
+      "nl": {
+        "title": "Sociale tegemoetkoming in de afvalkosten van wegwerpincontinentie- en/of stomamateriaal (Bertem)",
+        "desc": "Inwoners van Bertem die wegwerpincontinentie- of stomamateriaal nodig hebben, krijgen vanaf 2026 een jaarlijkse sociale correctie van €22 op hun DifTarrekening.",
+        "deadline": "Dien je aanvraag in vóór 1 juli.",
+        "amount": "€22 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een attest van de behandelende arts dat het gebruik van incontinentie- en/of stomamateriaal noodzakelijk is"
+          }
+        ],
+        "steps": [
+          "Vul het formulier in via het e-loket van de gemeente (of het pdf-formulier op de pagina)",
+          "Voeg het attest van de arts toe en dien in vóór 1 juli",
+          "Vragen? Contacteer de dienst Omgeving (016 49 99 99, omgeving@bertem.be)"
+        ]
+      },
+      "fr": {
+        "title": "Sociale tegemoetkoming in de afvalkosten (intervention sociale dans les frais de déchets, Bertem)",
+        "desc": "Les habitants de Bertem qui ont besoin de matériel d'incontinence ou de stomie jetable reçoivent dès 2026 une correction sociale annuelle de 22 € sur leur compte DifTar.",
+        "deadline": "Introduisez votre demande avant le 1er juillet.",
+        "amount": "22 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une attestation du médecin traitant confirmant la nécessité du matériel d'incontinence et/ou de stomie"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire sur le guichet en ligne de la commune (ou le formulaire PDF de la page)",
+          "Joignez l'attestation du médecin et envoyez-la avant le 1er juillet",
+          "Pour toute question, contactez le service Omgeving (016 49 99 99, omgeving@bertem.be)"
+        ]
+      },
+      "de": {
+        "title": "Sociale tegemoetkoming in de afvalkosten (soziale Ermäßigung der Abfallkosten, Bertem)",
+        "desc": "Einwohner von Bertem, die Einweg-Inkontinenz- oder Stomamaterial benötigen, erhalten ab 2026 eine jährliche soziale Korrektur von 22 € auf ihrem DifTar-Abfallkonto.",
+        "deadline": "Stellen Sie Ihren Antrag vor dem 1. Juli.",
+        "amount": "22 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des behandelnden Arztes, dass Inkontinenz- und/oder Stomamaterial notwendig ist"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular im E-Schalter der Gemeinde aus (oder das PDF-Formular auf der Seite)",
+          "Fügen Sie die ärztliche Bescheinigung bei und reichen Sie sie vor dem 1. Juli ein",
+          "Bei Fragen wenden Sie sich an den Dienst Omgeving (016 49 99 99, omgeving@bertem.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "8 Nov 2026",
+      "source_url": [
+        "https://www.bertem.be/product/260/sociale-tegemoetkoming-in-de-afvalkosten"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Bertem.",
+          "For your personal well-being you use disposable incontinence and/or stoma material, confirmed by your treating doctor.",
+          "You apply before 1 July."
+        ],
+        "nl": [
+          "Je bent inwoner van Bertem.",
+          "Je gebruikt voor je persoonlijk welzijn wegwerpincontinentie- en/of stomamateriaal, bevestigd door je behandelende arts.",
+          "Je dient je aanvraag in vóór 1 juli."
+        ],
+        "fr": [
+          "Vous habitez Bertem.",
+          "Vous utilisez pour votre bien-être du matériel d'incontinence et/ou de stomie jetable, confirmé par votre médecin traitant.",
+          "Vous introduisez votre demande avant le 1er juillet."
+        ],
+        "de": [
+          "Sie wohnen in Bertem.",
+          "Sie verwenden für Ihr persönliches Wohlbefinden Einweg-Inkontinenz- und/oder Stomamaterial, bestätigt durch Ihren behandelnden Arzt.",
+          "Sie stellen Ihren Antrag vor dem 1. Juli."
+        ]
+      }
+    }
+  },
+  {
+    "id": 432,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24011"
+    ],
+    "institution": "Gemeente Bierbeek",
+    "verified": "8 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bierbeek.be/sociale%20correctie%20DifTar",
+    "content": {
+      "en": {
+        "title": "Sociale correctie op het DifTar-tarief (Waste Bill Correction for Medical Needs, Bierbeek)",
+        "desc": "Bierbeek covers 100% of the residual-waste bill (rent and collections included), up to €52 a year, for residents whose medical condition produces more waste, such as urinary incontinence, a stoma or dialysis.",
+        "deadline": "Before 31 December of the year you apply for; renew yearly for a permanent condition.",
+        "amount": "100% of the residual-waste bill, up to €52 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's application form"
+          },
+          {
+            "type": "doc",
+            "label": "A medical certificate from your treating doctor (for a temporary condition, stating how long the treatment lasts)"
+          }
+        ],
+        "steps": [
+          "Download the application form from the commune's page",
+          "Hand it in with the medical certificate at the environment service (Speelpleinstraat 8, 016 46 87 87, milieu@bierbeek.be) before 31 December",
+          "Renew it every year if your condition is permanent"
+        ]
+      },
+      "nl": {
+        "title": "Sociale correctie op het gedifferentieerd tarief voor afvalverwerking (Bierbeek)",
+        "desc": "Bierbeek betaalt 100% van de restafvalfactuur (huur en aanbieding inbegrepen) terug, tot €52 per jaar, voor inwoners met een medische aandoening die meer afval veroorzaakt, zoals urinaire incontinentie, een stoma of dialyse.",
+        "deadline": "Vóór 31 december van het aanvraagjaar; bij een blijvende aandoening jaarlijks te vernieuwen.",
+        "amount": "100% van de restafvalfactuur, tot €52 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "Een medisch attest van de behandelende geneesheer (bij een tijdelijke aandoening met de behandelingsduur)"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op de pagina van de gemeente",
+          "Dien het met het medisch attest in bij de milieudienst (Speelpleinstraat 8, 016 46 87 87, milieu@bierbeek.be) vóór 31 december",
+          "Vernieuw de aanvraag elk jaar bij een blijvende aandoening"
+        ]
+      },
+      "fr": {
+        "title": "Sociale correctie op het DifTar-tarief (correction sociale de la facture déchets, Bierbeek)",
+        "desc": "Bierbeek rembourse 100 % de la facture de déchets résiduels (location et collectes comprises), jusqu'à 52 € par an, aux habitants dont l'affection médicale produit plus de déchets : incontinence urinaire, stomie, dialyse, etc.",
+        "deadline": "Avant le 31 décembre de l'année de la demande ; à renouveler chaque année pour une affection permanente.",
+        "amount": "100 % de la facture de déchets résiduels, jusqu'à 52 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation médicale du médecin traitant (pour une affection temporaire, avec la durée du traitement)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande sur la page de la commune",
+          "Remettez-le avec l'attestation au service environnement (Speelpleinstraat 8, 016 46 87 87, milieu@bierbeek.be) avant le 31 décembre",
+          "Renouvelez la demande chaque année en cas d'affection permanente"
+        ]
+      },
+      "de": {
+        "title": "Sociale correctie op het DifTar-tarief (soziale Korrektur der Abfallrechnung, Bierbeek)",
+        "desc": "Bierbeek übernimmt 100 % der Restmüllrechnung (Miete und Abholungen inbegriffen), bis zu 52 € pro Jahr, für Einwohner, deren Erkrankung mehr Abfall verursacht, etwa Harninkontinenz, ein Stoma oder Dialyse.",
+        "deadline": "Vor dem 31. Dezember des Antragsjahres; bei dauerhafter Erkrankung jährlich zu erneuern.",
+        "amount": "100 % der Restmüllrechnung, bis zu 52 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Eine ärztliche Bescheinigung des behandelnden Arztes (bei vorübergehender Erkrankung mit Angabe der Behandlungsdauer)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf der Seite der Gemeinde herunter",
+          "Reichen Sie es mit der Bescheinigung vor dem 31. Dezember beim Umweltdienst ein (Speelpleinstraat 8, 016 46 87 87, milieu@bierbeek.be)",
+          "Erneuern Sie den Antrag bei dauerhafter Erkrankung jedes Jahr"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "8 Nov 2026",
+      "source_url": [
+        "https://www.bierbeek.be/sociale%20correctie%20DifTar"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Bierbeek.",
+          "You have urinary incontinence, a permanent or temporary stoma, kidney or peritoneal dialysis, or another condition that by its nature produces more waste.",
+          "A temporary condition counts only if the treatment lasts more than three months.",
+          "You apply with a medical certificate before 31 December of the year; for a permanent condition you renew every year."
+        ],
+        "nl": [
+          "Je bent inwoner van Bierbeek.",
+          "Je hebt urinaire incontinentie, een blijvende of tijdelijke stoma, nierdialyse of peritoneale dialyse, of een andere aandoening die door haar aard meer afval veroorzaakt.",
+          "Een tijdelijke aandoening telt alleen als de behandeling langer dan drie maanden duurt.",
+          "Je vraagt aan met een medisch attest vóór 31 december van het jaar; bij een blijvende aandoening vernieuw je jaarlijks."
+        ],
+        "fr": [
+          "Vous habitez Bierbeek.",
+          "Vous souffrez d'incontinence urinaire, avez une stomie permanente ou temporaire, êtes sous dialyse rénale ou péritonéale, ou avez une autre affection qui produit par nature plus de déchets.",
+          "Une affection temporaire ne compte que si le traitement dure plus de trois mois.",
+          "Vous faites la demande avec une attestation médicale avant le 31 décembre de l'année ; pour une affection permanente, vous la renouvelez chaque année."
+        ],
+        "de": [
+          "Sie wohnen in Bierbeek.",
+          "Sie haben Harninkontinenz, ein dauerhaftes oder vorübergehendes Stoma, Nieren- oder Peritonealdialyse oder eine andere Erkrankung, die naturgemäß mehr Abfall verursacht.",
+          "Eine vorübergehende Erkrankung zählt nur, wenn die Behandlung länger als drei Monate dauert.",
+          "Sie beantragen mit ärztlicher Bescheinigung vor dem 31. Dezember des Jahres; bei dauerhafter Erkrankung erneuern Sie jährlich."
+        ]
+      }
+    }
   }
 ]

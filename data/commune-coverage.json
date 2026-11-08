@@ -910,49 +910,83 @@
         422,
         423
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "12002",
-      "name": "Berlaar"
+      "name": "Berlaar",
+      "checked": "8 Nov 2026",
+      "ids": [
+        424,
+        425
+      ]
     },
     {
       "nis": "64008",
-      "name": "Berloz"
+      "name": "Berloz",
+      "checked": "8 Nov 2026",
+      "ids": [
+        426
+      ]
     },
     {
       "nis": "42003",
-      "name": "Berlare"
+      "name": "Berlare",
+      "checked": "8 Nov 2026",
+      "ids": [
+        427,
+        428,
+        429
+      ]
     },
     {
       "nis": "51009",
-      "name": "Bernissart"
+      "name": "Bernissart",
+      "checked": "8 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24009",
-      "name": "Bertem"
+      "name": "Bertem",
+      "checked": "8 Nov 2026",
+      "ids": [
+        430,
+        431
+      ]
     },
     {
       "nis": "84009",
-      "name": "Bertrix"
+      "name": "Bertrix",
+      "checked": "8 Nov 2026",
+      "ids": []
     },
     {
       "nis": "23009",
-      "name": "Bever / Biévène"
+      "name": "Bever / Biévène",
+      "checked": "8 Nov 2026",
+      "ids": []
     },
     {
       "nis": "25005",
-      "name": "Bevekom / Beauvechain"
+      "name": "Bevekom / Beauvechain",
+      "checked": "8 Nov 2026",
+      "ids": []
     },
     {
       "nis": "62015",
-      "name": "Beyne-Heusay"
+      "name": "Beyne-Heusay",
+      "checked": "8 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24011",
-      "name": "Bierbeek"
-    },
+      "name": "Bierbeek",
+      "checked": "8 Nov 2026",
+      "ids": [
+        432
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "91015",
       "name": "Bièvre"
