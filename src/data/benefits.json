@@ -52525,5 +52525,1016 @@
         ]
       }
     }
+  },
+  {
+    "id": 433,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "73110"
+    ],
+    "institution": "Stad Bilzen-Hoeselt",
+    "verified": "9 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bilzenhoeselt.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Bilzen-Hoeselt)",
+        "desc": "Bilzen-Hoeselt pays carers €40 a month for looking after one adult in need of care, or €60 a month for two, when the person cared for has a disability score of at least 12 points and a low income.",
+        "deadline": "No fixed deadline; apply through an appointment with Team Zorg.",
+        "amount": "€40 per month for one person cared for, €60 per month for two",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Increased-reimbursement (verhoogde tegemoetkoming) certificate from the health fund"
+          },
+          {
+            "type": "id",
+            "label": "Identity card (or copy) of the person cared for and of the carer"
+          },
+          {
+            "type": "card",
+            "label": "Bank card (or copy) of the carer"
+          },
+          {
+            "type": "doc",
+            "label": "FPS Social Security certificate with a disability score of at least 12 points"
+          }
+        ],
+        "steps": [
+          "Make an appointment with a social worker of Team Zorg (089 39 76 00, sociaalhuis@bilzenhoeselt.be)",
+          "Bring the certificates, identity cards and the carer's bank card",
+          "The city checks the conditions and pays the premium monthly"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Bilzen-Hoeselt)",
+        "desc": "Bilzen-Hoeselt betaalt mantelzorgers €40 per maand voor de zorg voor één meerderjarige hulpbehoevende, of €60 per maand voor twee, als de zorgbehoevende een invaliditeitsscore van minstens 12 punten en een laag inkomen heeft.",
+        "deadline": "Geen vaste termijn; aanvragen via een afspraak met Team Zorg.",
+        "amount": "€40 per maand voor één hulpbehoevende, €60 per maand voor twee",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest verhoogde tegemoetkoming van de mutualiteit"
+          },
+          {
+            "type": "id",
+            "label": "Identiteitskaart (of kopie) van de zorgbehoevende en de mantelzorger"
+          },
+          {
+            "type": "card",
+            "label": "Bankkaart (of kopie) van de mantelzorger"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de FOD met een invaliditeitsscore van minstens 12 punten"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak met een maatschappelijk werker van Team Zorg (089 39 76 00, sociaalhuis@bilzenhoeselt.be)",
+          "Breng de attesten, identiteitskaarten en de bankkaart van de mantelzorger mee",
+          "De stad controleert de voorwaarden en betaalt de premie maandelijks"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Bilzen-Hoeselt)",
+        "desc": "Bilzen-Hoeselt verse aux aidants proches 40 € par mois pour l'aide à un adulte dépendant, ou 60 € par mois pour deux, si la personne aidée a un score d'invalidité d'au moins 12 points et un revenu modeste.",
+        "deadline": "Pas de délai fixe ; demande sur rendez-vous avec le Team Zorg.",
+        "amount": "40 € par mois pour une personne aidée, 60 € par mois pour deux",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation d'intervention majorée de la mutualité"
+          },
+          {
+            "type": "id",
+            "label": "Carte d'identité (ou copie) de la personne aidée et de l'aidant"
+          },
+          {
+            "type": "card",
+            "label": "Carte bancaire (ou copie) de l'aidant"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation du SPF Sécurité sociale avec un score d'invalidité d'au moins 12 points"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous avec un travailleur social du Team Zorg (089 39 76 00, sociaalhuis@bilzenhoeselt.be)",
+          "Apportez les attestations, les cartes d'identité et la carte bancaire de l'aidant",
+          "La ville vérifie les conditions et verse la prime chaque mois"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Bilzen-Hoeselt)",
+        "desc": "Bilzen-Hoeselt zahlt pflegenden Angehörigen 40 € pro Monat für die Betreuung eines pflegebedürftigen Erwachsenen oder 60 € pro Monat für zwei, wenn die betreute Person einen Invaliditätsscore von mindestens 12 Punkten und ein niedriges Einkommen hat.",
+        "deadline": "Keine feste Frist; Antrag über einen Termin beim Team Zorg.",
+        "amount": "40 € pro Monat für eine betreute Person, 60 € pro Monat für zwei",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung über die erhöhte Kostenerstattung der Krankenkasse"
+          },
+          {
+            "type": "id",
+            "label": "Personalausweis (oder Kopie) der betreuten Person und der Pflegeperson"
+          },
+          {
+            "type": "card",
+            "label": "Bankkarte (oder Kopie) der Pflegeperson"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD Soziale Sicherheit mit einem Invaliditätsscore von mindestens 12 Punkten"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin bei einer Sozialarbeiterin oder einem Sozialarbeiter des Team Zorg (089 39 76 00, sociaalhuis@bilzenhoeselt.be)",
+          "Bringen Sie die Bescheinigungen, die Ausweise und die Bankkarte der Pflegeperson mit",
+          "Die Stadt prüft die Bedingungen und zahlt die Prämie monatlich"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "9 Nov 2026",
+      "source_url": [
+        "https://www.bilzenhoeselt.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The carer and the person cared for both live in Bilzen-Hoeselt.",
+          "You are related up to the first degree (e.g. (in-law) parents and children, grandchildren, grandparents, (in-law) brothers and sisters), or, if not related, you live under the same roof.",
+          "The person cared for is at least 18 and has a disability score of at least 12 points (FPS Social Security certificate).",
+          "The person cared for has the increased reimbursement (verhoogde tegemoetkoming) from the health fund, or a limited income (category 2 of the Heating Fund)."
+        ],
+        "nl": [
+          "De mantelzorger en de hulpbehoevende wonen in Bilzen-Hoeselt.",
+          "Jullie zijn verwant tot in de eerste graad (bv. (schoon)ouders en (schoon)kinderen, kleinkinderen, grootouders, (schoon)broers en (schoon)zussen), of zonder die verwantschap wonen jullie onder hetzelfde dak.",
+          "De zorgbehoevende is minstens 18 jaar en heeft een invaliditeitsscore van minstens 12 punten (attest van de FOD).",
+          "De zorgbehoevende heeft recht op verhoogde tegemoetkoming van de ziekte- en invaliditeitsverzekering, of heeft een begrensd inkomen (categorie 2 van het Verwarmingsfonds)."
+        ],
+        "fr": [
+          "L'aidant et la personne aidée habitent tous deux Bilzen-Hoeselt.",
+          "Vous êtes parents au premier degré (p. ex. (beaux-)parents et (beaux-)enfants, petits-enfants, grands-parents, (beaux-)frères et (belles-)sœurs) ou, sans ce lien de parenté, vous vivez sous le même toit.",
+          "La personne aidée a au moins 18 ans et un score d'invalidité d'au moins 12 points (attestation du SPF).",
+          "La personne aidée bénéficie de l'intervention majorée de l'assurance maladie-invalidité, ou a un revenu limité (catégorie 2 du Fonds social chauffage)."
+        ],
+        "de": [
+          "Die Pflegeperson und die betreute Person wohnen beide in Bilzen-Hoeselt.",
+          "Sie sind bis zum ersten Grad verwandt (z. B. (Schwieger-)Eltern und (Schwieger-)Kinder, Enkel, Großeltern, (Schwager-)Brüder und (Schwägerin-)Schwestern) oder wohnen ohne diese Verwandtschaft unter demselben Dach.",
+          "Die betreute Person ist mindestens 18 Jahre alt und hat einen Invaliditätsscore von mindestens 12 Punkten (Bescheinigung des FÖD).",
+          "Die betreute Person hat Anspruch auf die erhöhte Kostenerstattung der Kranken- und Invalidenversicherung oder ein begrenztes Einkommen (Kategorie 2 des Sozialen Heizölfonds)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 434,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11004"
+    ],
+    "institution": "Gemeente Boechout",
+    "verified": "9 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.boechout.be/diftartoelage",
+    "content": {
+      "en": {
+        "title": "Diftar-toelage om medische redenen (Waste Bill Allowance for Medical Reasons, Boechout)",
+        "desc": "Boechout puts €30 a year on the waste (diftar) account of residents whose temporary or chronic incontinence, stoma, kidney dialysis or similar condition produces a lot of waste; €60 a year with the increased reimbursement.",
+        "deadline": "No fixed deadline.",
+        "amount": "€30 per year; €60 per year with the increased reimbursement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, filled in by your GP or treating doctor"
+          },
+          {
+            "type": "doc",
+            "label": "A sticker from your health fund, if you have the increased reimbursement"
+          }
+        ],
+        "steps": [
+          "Download the application form from the commune's page",
+          "Have your GP or treating doctor fill it in",
+          "Send it to the Omgeving service (Heuvelstraat 91, 03 460 06 39, omgeving@boechout.be); the amount goes to your diftar account"
+        ]
+      },
+      "nl": {
+        "title": "Diftar-toelage om medische redenen (Boechout)",
+        "desc": "Boechout stort €30 per jaar op de diftarrekening van inwoners met een tijdelijke of chronische incontinentie, een stoma, nierdialyse of een gelijkaardige aandoening die veel afval veroorzaakt; €60 per jaar met verhoogde tegemoetkoming.",
+        "deadline": "Geen vaste termijn.",
+        "amount": "€30 per jaar; €60 per jaar met verhoogde tegemoetkoming",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ingevuld door je huisarts of behandelend geneesheer"
+          },
+          {
+            "type": "doc",
+            "label": "Een klever van je ziekenfonds, als je verhoogde tegemoetkoming hebt"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op de pagina van de gemeente",
+          "Laat het invullen door je huisarts of behandelend geneesheer",
+          "Bezorg het aan de dienst Omgeving (Heuvelstraat 91, 03 460 06 39, omgeving@boechout.be); het bedrag komt op je diftarrekening"
+        ]
+      },
+      "fr": {
+        "title": "Diftar-toelage om medische redenen (allocation déchets pour raisons médicales, Boechout)",
+        "desc": "Boechout verse 30 € par an sur le compte déchets (diftar) des habitants dont l'incontinence temporaire ou chronique, la stomie, la dialyse rénale ou une affection semblable produit beaucoup de déchets ; 60 € par an avec l'intervention majorée.",
+        "deadline": "Pas de délai fixe.",
+        "amount": "30 € par an ; 60 € par an avec l'intervention majorée",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, rempli par votre médecin généraliste ou traitant"
+          },
+          {
+            "type": "doc",
+            "label": "Une vignette de votre mutualité, si vous avez l'intervention majorée"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur la page de la commune",
+          "Faites-le remplir par votre médecin généraliste ou traitant",
+          "Remettez-le au service Omgeving (Heuvelstraat 91, 03 460 06 39, omgeving@boechout.be) ; le montant est versé sur votre compte diftar"
+        ]
+      },
+      "de": {
+        "title": "Diftar-toelage om medische redenen (Abfallzuschuss aus medizinischen Gründen, Boechout)",
+        "desc": "Boechout zahlt 30 € pro Jahr auf das Abfallkonto (Diftar) von Einwohnern, deren vorübergehende oder chronische Inkontinenz, Stoma, Nierendialyse oder ähnliche Erkrankung viel Abfall verursacht; 60 € pro Jahr mit erhöhter Kostenerstattung.",
+        "deadline": "Keine feste Frist.",
+        "amount": "30 € pro Jahr; 60 € pro Jahr mit erhöhter Kostenerstattung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, ausgefüllt von Ihrem Hausarzt oder behandelnden Arzt"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Vignette Ihrer Krankenkasse, wenn Sie die erhöhte Kostenerstattung erhalten"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf der Seite der Gemeinde herunter",
+          "Lassen Sie es von Ihrem Hausarzt oder behandelnden Arzt ausfüllen",
+          "Reichen Sie es beim Dienst Omgeving ein (Heuvelstraat 91, 03 460 06 39, omgeving@boechout.be); der Betrag wird Ihrem Diftar-Konto gutgeschrieben"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "9 Nov 2026",
+      "source_url": [
+        "https://www.boechout.be/diftartoelage"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Boechout.",
+          "You have temporary or chronic incontinence, or another condition (stoma, kidney dialysis…) that makes you produce a lot of waste, confirmed by your doctor on the form.",
+          "With the increased reimbursement (verhoogde tegemoetkoming) you get €60 instead of €30, on showing a health-fund sticker."
+        ],
+        "nl": [
+          "Je woont in Boechout.",
+          "Je hebt een tijdelijke of chronische incontinentie of een andere aandoening (stoma, nierdialyse …) waardoor je veel afval hebt, bevestigd door je arts op het formulier.",
+          "Met verhoogde tegemoetkoming krijg je €60 in plaats van €30, op voorlegging van een klever van je ziekenfonds."
+        ],
+        "fr": [
+          "Vous habitez Boechout.",
+          "Vous avez une incontinence temporaire ou chronique ou une autre affection (stomie, dialyse rénale…) qui vous fait produire beaucoup de déchets, confirmée par votre médecin sur le formulaire.",
+          "Avec l'intervention majorée, vous recevez 60 € au lieu de 30 €, sur présentation d'une vignette de la mutualité."
+        ],
+        "de": [
+          "Sie wohnen in Boechout.",
+          "Sie haben eine vorübergehende oder chronische Inkontinenz oder eine andere Erkrankung (Stoma, Nierendialyse …), durch die viel Abfall entsteht, von Ihrem Arzt auf dem Formular bestätigt.",
+          "Mit erhöhter Kostenerstattung erhalten Sie 60 € statt 30 €, gegen Vorlage einer Vignette der Krankenkasse."
+        ]
+      }
+    }
+  },
+  {
+    "id": 435,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11004"
+    ],
+    "institution": "Gemeente Boechout",
+    "verified": "9 Nov 2026",
+    "status": "verified",
+    "source_url": "https://boechout.be/mantelzorgtoelage",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage (Carer Allowance, Boechout)",
+        "desc": "Boechout pays €25 a month to residents who regularly give unpaid extra care to a person in need of care in Boechout or Vremde.",
+        "deadline": "No fixed deadline.",
+        "amount": "€25 per month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, with the national register numbers of the carer and the person cared for"
+          },
+          {
+            "type": "card",
+            "label": "Copy of the front and back of the carer's bank card"
+          },
+          {
+            "type": "doc",
+            "label": "One of the care-need certificates listed on the form"
+          }
+        ],
+        "steps": [
+          "Download and fill in the application form from the commune's page",
+          "Add one of the listed certificates and a copy of the carer's bank card",
+          "Hand it in at the Welzijn service (IJzerlei 25, 03 460 18 40, welzijn@boechout.be) and contact the service"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage (Boechout)",
+        "desc": "Boechout betaalt €25 per maand aan inwoners die regelmatig en onbetaald extra zorg geven aan een zorgbehoevende persoon in Boechout of Vremde.",
+        "deadline": "Geen vaste termijn.",
+        "amount": "€25 per maand",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, met de rijksregisternummers van de mantelzorger en de zorgbehoevende"
+          },
+          {
+            "type": "card",
+            "label": "Kopie van de voor- en achterkant van de bankkaart van de mantelzorger"
+          },
+          {
+            "type": "doc",
+            "label": "Een van de attesten van zorgbehoevendheid die op het formulier staan"
+          }
+        ],
+        "steps": [
+          "Download en vul het aanvraagformulier in op de pagina van de gemeente",
+          "Voeg een van de gevraagde attesten en een kopie van de bankkaart van de mantelzorger toe",
+          "Bezorg het aan de dienst Welzijn (IJzerlei 25, 03 460 18 40, welzijn@boechout.be) en neem contact op met de dienst"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage (allocation aux aidants proches, Boechout)",
+        "desc": "Boechout verse 25 € par mois aux habitants qui apportent régulièrement et sans rémunération une aide supplémentaire à une personne dépendante à Boechout ou Vremde.",
+        "deadline": "Pas de délai fixe.",
+        "amount": "25 € par mois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, avec les numéros de registre national de l'aidant et de la personne aidée"
+          },
+          {
+            "type": "card",
+            "label": "Copie recto verso de la carte bancaire de l'aidant"
+          },
+          {
+            "type": "doc",
+            "label": "Une des attestations de dépendance indiquées sur le formulaire"
+          }
+        ],
+        "steps": [
+          "Téléchargez et remplissez le formulaire sur la page de la commune",
+          "Joignez une des attestations demandées et une copie de la carte bancaire de l'aidant",
+          "Remettez-le au service Welzijn (IJzerlei 25, 03 460 18 40, welzijn@boechout.be) et contactez le service"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage (Zuschuss für pflegende Angehörige, Boechout)",
+        "desc": "Boechout zahlt 25 € pro Monat an Einwohner, die regelmäßig und unbezahlt zusätzliche Pflege für eine pflegebedürftige Person in Boechout oder Vremde leisten.",
+        "deadline": "Keine feste Frist.",
+        "amount": "25 € pro Monat",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular mit den Nationalregisternummern der Pflegeperson und der betreuten Person"
+          },
+          {
+            "type": "card",
+            "label": "Kopie der Vorder- und Rückseite der Bankkarte der Pflegeperson"
+          },
+          {
+            "type": "doc",
+            "label": "Eine der auf dem Formular genannten Bescheinigungen über die Pflegebedürftigkeit"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf der Seite der Gemeinde herunter und füllen Sie es aus",
+          "Fügen Sie eine der verlangten Bescheinigungen und eine Kopie der Bankkarte der Pflegeperson bei",
+          "Reichen Sie es beim Dienst Welzijn ein (IJzerlei 25, 03 460 18 40, welzijn@boechout.be) und nehmen Sie Kontakt mit dem Dienst auf"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "9 Nov 2026",
+      "source_url": [
+        "https://boechout.be/mantelzorgtoelage",
+        "https://boechout.be/sites/default/files/2025-12/Mantelzorgtoelage-Aanvraagformulier.docx"
+      ],
+      "conditions": {
+        "en": [
+          "The carer and the person in need of care both live in Boechout or Vremde.",
+          "You regularly give unpaid extra care to that person.",
+          "The care need is shown by one of: a zorgbudget for people with a high care need; a zorgbudget for older people with a care need of at least 9 points; an FPS Social Security certificate of at least 9 points of reduced self-reliance; or a care supplement for children with specific support needs with 4 points in pillar 1 (66%) or at least 9 points over the 3 pillars."
+        ],
+        "nl": [
+          "De mantelzorger en de zorgbehoevende wonen beiden in Boechout of Vremde.",
+          "Je verleent op regelmatige basis en onbetaald extra zorg aan die persoon.",
+          "De zorgbehoevendheid blijkt uit een van: een zorgbudget voor zwaar zorgbehoevenden; een zorgbudget voor ouderen met een zorgnood van minstens 9 punten; een attest van de FOD Sociale Zekerheid met minstens 9 punten vermindering van zelfredzaamheid; of een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte met 4 punten in pijler 1 (66%) of minstens 9 punten in de 3 pijlers samen."
+        ],
+        "fr": [
+          "L'aidant et la personne dépendante habitent tous deux Boechout ou Vremde.",
+          "Vous apportez régulièrement et sans rémunération une aide supplémentaire à cette personne.",
+          "La dépendance est attestée par l'un des documents suivants : un zorgbudget pour personnes fortement dépendantes ; un zorgbudget pour personnes âgées avec un besoin de soins d'au moins 9 points ; une attestation du SPF Sécurité sociale d'au moins 9 points de réduction d'autonomie ; ou un supplément de soins pour enfants ayant un besoin de soutien spécifique avec 4 points au pilier 1 (66 %) ou au moins 9 points sur les 3 piliers."
+        ],
+        "de": [
+          "Die Pflegeperson und die pflegebedürftige Person wohnen beide in Boechout oder Vremde.",
+          "Sie leisten dieser Person regelmäßig und unbezahlt zusätzliche Pflege.",
+          "Die Pflegebedürftigkeit wird durch eines davon belegt: ein Pflegebudget für schwer Pflegebedürftige; ein Pflegebudget für ältere Menschen mit einem Pflegebedarf von mindestens 9 Punkten; eine Bescheinigung des FÖD Soziale Sicherheit mit mindestens 9 Punkten verminderter Selbstständigkeit; oder ein Pflegezuschlag für Kinder mit besonderem Unterstützungsbedarf mit 4 Punkten in Säule 1 (66 %) oder mindestens 9 Punkten in den 3 Säulen zusammen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 436,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12005"
+    ],
+    "institution": "Gemeente Bonheiden",
+    "verified": "9 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bonheiden.be/product/127/sociale-tegemoetkoming-in-de-kosten-van-diftar",
+    "content": {
+      "en": {
+        "title": "Sociale tegemoetkoming in de kosten van Diftar (Waste Bill Allowance for Medical Reasons, Bonheiden)",
+        "desc": "Bonheiden puts €25 a year on the waste (diftar) account of residents with incontinence or another medical condition, such as home kidney dialysis or a stoma, that produces extra waste.",
+        "deadline": "No fixed deadline.",
+        "amount": "€25 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The e-loket application form (or the paper form)"
+          },
+          {
+            "type": "doc",
+            "label": "A health-fund certificate, the VAPH decision on incontinence material, or a doctor's certificate confirming extra care material"
+          }
+        ],
+        "steps": [
+          "Fill in the e-loket form 'Diftarkosten - aanvraag toelage als tegemoetkoming' on the commune's site",
+          "Add the certificate that fits your situation",
+          "The financial service (015 50 28 15, financieledienst@bonheiden.be) puts the amount on your diftar account"
+        ]
+      },
+      "nl": {
+        "title": "Sociale tegemoetkoming in de kosten van Diftar (Bonheiden)",
+        "desc": "Bonheiden stort €25 per jaar op de diftarrekening van inwoners met incontinentie of een andere medische reden, zoals nierdialyse thuis of een stoma, die extra afval veroorzaakt.",
+        "deadline": "Geen vaste termijn.",
+        "amount": "€25 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het e-loketformulier (of het papieren aanvraagformulier)"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van het ziekenfonds, de beslissing van het VAPH over incontinentiemateriaal, of een attest van de arts dat je extra verzorgingsmateriaal gebruikt"
+          }
+        ],
+        "steps": [
+          "Vul het e-loketformulier 'Diftarkosten - aanvraag toelage als tegemoetkoming' in op de site van de gemeente",
+          "Voeg het attest toe dat bij je situatie past",
+          "De financiële dienst (015 50 28 15, financieledienst@bonheiden.be) stort het bedrag op je diftarrekening"
+        ]
+      },
+      "fr": {
+        "title": "Sociale tegemoetkoming in de kosten van Diftar (aide sociale pour la facture déchets, Bonheiden)",
+        "desc": "Bonheiden verse 25 € par an sur le compte déchets (diftar) des habitants souffrant d'incontinence ou d'une autre raison médicale, comme une dialyse rénale à domicile ou une stomie, qui produit des déchets supplémentaires.",
+        "deadline": "Pas de délai fixe.",
+        "amount": "25 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire du guichet en ligne (ou le formulaire papier)"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de la mutualité, la décision du VAPH sur le matériel d'incontinence, ou une attestation du médecin confirmant l'usage de matériel de soins supplémentaire"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en ligne « Diftarkosten - aanvraag toelage als tegemoetkoming » sur le site de la commune",
+          "Joignez l'attestation qui correspond à votre situation",
+          "Le service financier (015 50 28 15, financieledienst@bonheiden.be) verse le montant sur votre compte diftar"
+        ]
+      },
+      "de": {
+        "title": "Sociale tegemoetkoming in de kosten van Diftar (sozialer Abfallzuschuss, Bonheiden)",
+        "desc": "Bonheiden zahlt 25 € pro Jahr auf das Abfallkonto (Diftar) von Einwohnern mit Inkontinenz oder einem anderen medizinischen Grund, etwa Heimdialyse oder einem Stoma, der zusätzlichen Abfall verursacht.",
+        "deadline": "Keine feste Frist.",
+        "amount": "25 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular des Online-Schalters (oder das Papierformular)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Krankenkasse, die Entscheidung der VAPH zum Inkontinenzmaterial oder eine ärztliche Bescheinigung über zusätzliches Pflegematerial"
+          }
+        ],
+        "steps": [
+          "Füllen Sie auf der Website der Gemeinde das Online-Formular „Diftarkosten - aanvraag toelage als tegemoetkoming“ aus",
+          "Fügen Sie die zu Ihrer Situation passende Bescheinigung bei",
+          "Der Finanzdienst (015 50 28 15, financieledienst@bonheiden.be) zahlt den Betrag auf Ihr Diftar-Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "9 Nov 2026",
+      "source_url": [
+        "https://www.bonheiden.be/product/127/sociale-tegemoetkoming-in-de-kosten-van-diftar"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Bonheiden.",
+          "You have incontinence with a score of 3 or 4 on the incontinence criterion of the dependency scale (health-fund certificate), or you get a VAPH contribution for incontinence material (VAPH decision).",
+          "Or another medical reason (such as home kidney dialysis, a stoma or a blistering skin disease) causes extra waste, confirmed by a doctor's certificate that you use extra care material."
+        ],
+        "nl": [
+          "Je woont in Bonheiden.",
+          "Je lijdt aan incontinentie met een score 3 of 4 voor het criterium incontinentie van het afhankelijkheidsrooster (attest van het ziekenfonds), of je krijgt van het VAPH een tegemoetkoming voor incontinentiemateriaal (beslissing van het VAPH).",
+          "Of een andere medische reden (zoals nierdialyse thuis, een stoma of een huidziekte met blaarvorming) veroorzaakt extra afval, bevestigd door een attest van de arts dat je extra verzorgingsmateriaal gebruikt."
+        ],
+        "fr": [
+          "Vous habitez Bonheiden.",
+          "Vous souffrez d'incontinence avec un score de 3 ou 4 au critère incontinence de l'échelle de dépendance (attestation de la mutualité), ou vous recevez du VAPH une intervention pour le matériel d'incontinence (décision du VAPH).",
+          "Ou une autre raison médicale (dialyse rénale à domicile, stomie, maladie de peau bulleuse…) produit des déchets supplémentaires, confirmée par une attestation du médecin indiquant que vous utilisez du matériel de soins supplémentaire."
+        ],
+        "de": [
+          "Sie wohnen in Bonheiden.",
+          "Sie haben Inkontinenz mit einer Punktzahl von 3 oder 4 beim Kriterium Inkontinenz der Abhängigkeitsskala (Bescheinigung der Krankenkasse), oder Sie erhalten von der VAPH einen Zuschuss für Inkontinenzmaterial (Entscheidung der VAPH).",
+          "Oder ein anderer medizinischer Grund (etwa Heimdialyse, ein Stoma oder eine blasenbildende Hauterkrankung) verursacht zusätzlichen Abfall, bestätigt durch eine ärztliche Bescheinigung über zusätzliches Pflegematerial."
+        ]
+      }
+    }
+  },
+  {
+    "id": 437,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12005"
+    ],
+    "institution": "OCMW Bonheiden",
+    "verified": "9 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bonheiden.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Bonheiden)",
+        "desc": "Bonheiden gives carers of a person in need of care who lives in Bonheiden €120 a year in Rijmheide vouchers, whatever the age, income or relationship of the person cared for.",
+        "deadline": "Apply at any time; the premium covers one calendar year and is renewed yearly.",
+        "amount": "€120 per year in Rijmheide vouchers",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The online application (or the request at the home-care service)"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate showing the care need of the person cared for"
+          }
+        ],
+        "steps": [
+          "Apply through the e-loket form 'Mantelzorgpremie' or at the OCMW home-care service (Baxbos 15-17, 015 50 05 00 option 2, thuiszorg@bonheiden.be)",
+          "The OCMW social-services committee decides and informs the carer by letter",
+          "Collect the Rijmheide vouchers by appointment within 3 months; renew yearly with 'Mantelzorgpremie hernieuwde aanvraag'"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Bonheiden)",
+        "desc": "Bonheiden geeft mantelzorgers van een zorgvrager die in Bonheiden woont €120 per jaar in Rijmheidebons, ongeacht de leeftijd, het inkomen of de band met de zorgvrager.",
+        "deadline": "Op elk moment aan te vragen; de premie geldt voor één kalenderjaar en wordt jaarlijks hernieuwd.",
+        "amount": "€120 per jaar in Rijmheidebons",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De aanvraag via het digitaal loket (of bij de dienst thuiszorg)"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest dat de zorgbehoevendheid van de zorgvrager aantoont"
+          }
+        ],
+        "steps": [
+          "Vraag aan via het e-loketformulier 'Mantelzorgpremie' of bij de dienst thuiszorg van het OCMW (Baxbos 15-17, 015 50 05 00 optie 2, thuiszorg@bonheiden.be)",
+          "Het bijzonder comité voor de sociale dienst beslist en laat het de mantelzorger per brief weten",
+          "Haal de Rijmheidebons op afspraak op binnen 3 maanden; hernieuw jaarlijks via 'Mantelzorgpremie hernieuwde aanvraag'"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Bonheiden)",
+        "desc": "Bonheiden offre aux aidants proches d'une personne dépendante domiciliée à Bonheiden 120 € par an en bons Rijmheide, quels que soient l'âge, le revenu ou le lien avec la personne aidée.",
+        "deadline": "Demande possible à tout moment ; la prime vaut pour une année civile et se renouvelle chaque année.",
+        "amount": "120 € par an en bons Rijmheide",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La demande via le guichet en ligne (ou au service d'aide à domicile)"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation prouvant la dépendance de la personne aidée"
+          }
+        ],
+        "steps": [
+          "Faites la demande via le formulaire en ligne « Mantelzorgpremie » ou au service d'aide à domicile du CPAS (Baxbos 15-17, 015 50 05 00 option 2, thuiszorg@bonheiden.be)",
+          "Le comité spécial du service social décide et informe l'aidant par courrier",
+          "Retirez les bons Rijmheide sur rendez-vous dans les 3 mois ; renouvelez chaque année via « Mantelzorgpremie hernieuwde aanvraag »"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Bonheiden)",
+        "desc": "Bonheiden gibt pflegenden Angehörigen einer pflegebedürftigen Person, die in Bonheiden wohnt, 120 € pro Jahr in Rijmheide-Gutscheinen, unabhängig von Alter, Einkommen oder Beziehung zur betreuten Person.",
+        "deadline": "Jederzeit beantragbar; die Prämie gilt für ein Kalenderjahr und wird jährlich erneuert.",
+        "amount": "120 € pro Jahr in Rijmheide-Gutscheinen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der Antrag über den Online-Schalter (oder beim Dienst für häusliche Pflege)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung über die Pflegebedürftigkeit der betreuten Person"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Prämie über das Online-Formular „Mantelzorgpremie“ oder beim Dienst für häusliche Pflege des ÖSHZ (Baxbos 15-17, 015 50 05 00 Option 2, thuiszorg@bonheiden.be)",
+          "Der Sonderausschuss für den Sozialdienst entscheidet und informiert die Pflegeperson per Brief",
+          "Holen Sie die Rijmheide-Gutscheine nach Termin innerhalb von 3 Monaten ab; erneuern Sie jährlich über „Mantelzorgpremie hernieuwde aanvraag“"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "9 Nov 2026",
+      "source_url": [
+        "https://www.bonheiden.be/mantelzorgpremie",
+        "https://www.bonheiden.be/file/download/40241/2CF7953708BDAAC1544F6E47091CE518",
+        "https://www.bonheiden.be/file/download/57277/C0C7289A7BF0088C05CACDE58BB4111A"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for lives in Bonheiden; until 31 December 2026 the carer must also live in Bonheiden, from 1 January 2027 the carer may also live in Mechelen, Sint-Katelijne-Waver, Duffel, Putte, Heist-op-den-Berg, Keerbergen, Tremelo, Haacht or Boortmeerbeek.",
+          "The carer is at least 18 and helps the person very regularly in daily life, voluntarily and unpaid, from a social and emotional bond; no income limit and no age limit for the person cared for.",
+          "The care need of the person cared for is proven with one of the certificates listed in the regulation.",
+          "One premium per person cared for; it covers one calendar year and you confirm every year that the situation is unchanged."
+        ],
+        "nl": [
+          "De zorgvrager woont in Bonheiden; tot 31 december 2026 moet ook de mantelzorger in Bonheiden wonen, vanaf 1 januari 2027 mag de mantelzorger ook in Mechelen, Sint-Katelijne-Waver, Duffel, Putte, Heist-op-den-Berg, Keerbergen, Tremelo, Haacht of Boortmeerbeek wonen.",
+          "De mantelzorger is minstens 18 jaar en helpt de zorgvrager op zeer regelmatige basis in het dagelijkse leven, vrijwillig en onbezoldigd, vanuit een sociale en emotionele band; er gelden geen inkomensgrenzen en geen leeftijd voor de zorgvrager.",
+          "De zorgbehoevendheid van de zorgvrager wordt aangetoond met een van de attesten uit het reglement.",
+          "Eén premie per zorgvrager; ze geldt voor één kalenderjaar en je bevestigt jaarlijks dat de situatie dezelfde is."
+        ],
+        "fr": [
+          "La personne aidée habite Bonheiden ; jusqu'au 31 décembre 2026, l'aidant doit aussi habiter Bonheiden, à partir du 1er janvier 2027 il peut aussi habiter Malines, Sint-Katelijne-Waver, Duffel, Putte, Heist-op-den-Berg, Keerbergen, Tremelo, Haacht ou Boortmeerbeek.",
+          "L'aidant a au moins 18 ans et aide la personne très régulièrement dans la vie quotidienne, bénévolement et sans rémunération, par un lien social et affectif ; pas de plafond de revenus ni d'âge pour la personne aidée.",
+          "La dépendance de la personne aidée est prouvée par une des attestations prévues par le règlement.",
+          "Une prime par personne aidée ; elle vaut pour une année civile et vous confirmez chaque année que la situation n'a pas changé."
+        ],
+        "de": [
+          "Die betreute Person wohnt in Bonheiden; bis zum 31. Dezember 2026 muss auch die Pflegeperson in Bonheiden wohnen, ab dem 1. Januar 2027 darf sie auch in Mechelen, Sint-Katelijne-Waver, Duffel, Putte, Heist-op-den-Berg, Keerbergen, Tremelo, Haacht oder Boortmeerbeek wohnen.",
+          "Die Pflegeperson ist mindestens 18 Jahre alt und hilft der Person sehr regelmäßig im Alltag, freiwillig und unbezahlt, aus einer sozialen und emotionalen Bindung; es gibt keine Einkommensgrenze und kein Alterslimit für die betreute Person.",
+          "Die Pflegebedürftigkeit der betreuten Person wird mit einer der in der Regelung genannten Bescheinigungen nachgewiesen.",
+          "Eine Prämie pro betreuter Person; sie gilt für ein Kalenderjahr, und Sie bestätigen jedes Jahr, dass sich die Lage nicht geändert hat."
+        ]
+      }
+    }
+  },
+  {
+    "id": 438,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11005"
+    ],
+    "institution": "Lokaal bestuur Boom",
+    "verified": "9 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.boom.be/gratis-huisvuilzakken-om-medische-redenen",
+    "content": {
+      "en": {
+        "title": "Gratis huisvuilzakken om medische redenen (Free Waste Bags for Medical Reasons, Boom)",
+        "desc": "Boom gives households of residents with chronic urinary incontinence or a stoma free residual-waste bags: up to 4 rolls a calendar year, at most 2 per half-year.",
+        "deadline": "No fixed deadline; up to 2 rolls per half-year.",
+        "amount": "Up to 4 rolls of residual-waste bags per household per year (max. 2 per half-year)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A doctor's certificate (at most 3 months old) showing chronic urinary incontinence or a stoma"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment for incontinence material"
+          }
+        ],
+        "steps": [
+          "Apply by phone, e-mail or at the OCMW reception (social service, 03 880 58 32, socialedienst@boom.be)",
+          "Bring the doctor's certificate and proof of payment, and fill in the privacy form",
+          "Collect the bags at the OCMW, Jozef Van Cleemputplein 1"
+        ]
+      },
+      "nl": {
+        "title": "Gratis huisvuilzakken om medische redenen (Boom)",
+        "desc": "Boom geeft gezinnen van inwoners met chronische urinaire incontinentie of een stoma gratis restafvalzakken: tot 4 rollen per kalenderjaar, maximaal 2 per semester.",
+        "deadline": "Geen vaste termijn; maximaal 2 rollen per semester.",
+        "amount": "Tot 4 rollen restafvalzakken per gezin per jaar (max. 2 per semester)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een doktersattest (maximaal 3 maanden oud) waaruit chronische urinaire incontinentie of een stoma blijkt"
+          },
+          {
+            "type": "doc",
+            "label": "Een betalingsbewijs van de aankoop van incontinentiemateriaal"
+          }
+        ],
+        "steps": [
+          "Vraag aan telefonisch, via mail of aan het onthaal van het OCMW (sociale dienst, 03 880 58 32, socialedienst@boom.be)",
+          "Breng het doktersattest en het betalingsbewijs mee en vul het privacyformulier in",
+          "Haal de zakken af bij het OCMW, Jozef Van Cleemputplein 1"
+        ]
+      },
+      "fr": {
+        "title": "Gratis huisvuilzakken om medische redenen (sacs poubelle gratuits pour raisons médicales, Boom)",
+        "desc": "Boom donne aux ménages des habitants souffrant d'incontinence urinaire chronique ou ayant une stomie des sacs pour déchets résiduels gratuits : jusqu'à 4 rouleaux par année civile, 2 au maximum par semestre.",
+        "deadline": "Pas de délai fixe ; 2 rouleaux au maximum par semestre.",
+        "amount": "Jusqu'à 4 rouleaux de sacs résiduels par ménage et par an (max. 2 par semestre)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Un certificat médical (de 3 mois au plus) attestant une incontinence urinaire chronique ou une stomie"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve de paiement de matériel d'incontinence"
+          }
+        ],
+        "steps": [
+          "Faites la demande par téléphone, par e-mail ou à l'accueil du CPAS (service social, 03 880 58 32, socialedienst@boom.be)",
+          "Apportez le certificat médical et la preuve de paiement, et remplissez le formulaire de confidentialité",
+          "Retirez les sacs au CPAS, Jozef Van Cleemputplein 1"
+        ]
+      },
+      "de": {
+        "title": "Gratis huisvuilzakken om medische redenen (kostenlose Müllsäcke aus medizinischen Gründen, Boom)",
+        "desc": "Boom gibt Haushalten von Einwohnern mit chronischer Harninkontinenz oder einem Stoma kostenlose Restmüllsäcke: bis zu 4 Rollen pro Kalenderjahr, höchstens 2 pro Halbjahr.",
+        "deadline": "Keine feste Frist; höchstens 2 Rollen pro Halbjahr.",
+        "amount": "Bis zu 4 Rollen Restmüllsäcke pro Haushalt und Jahr (max. 2 pro Halbjahr)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine ärztliche Bescheinigung (höchstens 3 Monate alt) über chronische Harninkontinenz oder ein Stoma"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Zahlungsnachweis für Inkontinenzmaterial"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie telefonisch, per E-Mail oder am Empfang des ÖSHZ (Sozialdienst, 03 880 58 32, socialedienst@boom.be)",
+          "Bringen Sie die ärztliche Bescheinigung und den Zahlungsnachweis mit und füllen Sie das Datenschutzformular aus",
+          "Holen Sie die Säcke beim ÖSHZ ab, Jozef Van Cleemputplein 1"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "9 Nov 2026",
+      "source_url": [
+        "https://www.boom.be/gratis-huisvuilzakken-om-medische-redenen"
+      ],
+      "conditions": {
+        "en": [
+          "The person is domiciled in Boom and does not live in a care home.",
+          "The person has chronic urinary incontinence or a stoma, shown by a doctor's certificate at most 3 months old, plus proof of payment for incontinence material.",
+          "Per household at most 4 rolls a calendar year and 2 per half-year; a social worker checks the household composition and the number of bags still due."
+        ],
+        "nl": [
+          "De persoon is in Boom gedomicilieerd en verblijft niet in een rusthuis.",
+          "De persoon lijdt aan chronische urinaire incontinentie of is stomapatiënt, blijkend uit een doktersattest van maximaal 3 maanden oud, plus een betalingsbewijs van incontinentiemateriaal.",
+          "Per gezin maximaal 4 rollen per kalenderjaar en 2 per semester; een sociaal assistent controleert de gezinssamenstelling en het aantal zakken waarop het gezin nog recht heeft."
+        ],
+        "fr": [
+          "La personne est domiciliée à Boom et ne vit pas en maison de repos.",
+          "La personne souffre d'incontinence urinaire chronique ou a une stomie, attestée par un certificat médical de 3 mois au plus, avec une preuve de paiement de matériel d'incontinence.",
+          "Par ménage, 4 rouleaux au plus par année civile et 2 par semestre ; un assistant social vérifie la composition du ménage et le nombre de sacs encore dus."
+        ],
+        "de": [
+          "Die Person hat ihren Wohnsitz in Boom und lebt nicht in einem Altenheim.",
+          "Die Person hat chronische Harninkontinenz oder ein Stoma, nachgewiesen durch eine höchstens 3 Monate alte ärztliche Bescheinigung und einen Zahlungsnachweis für Inkontinenzmaterial.",
+          "Pro Haushalt höchstens 4 Rollen pro Kalenderjahr und 2 pro Halbjahr; eine Sozialarbeiterin oder ein Sozialarbeiter prüft die Haushaltszusammensetzung und die noch zustehenden Säcke."
+        ]
+      }
+    }
+  },
+  {
+    "id": 439,
+    "category": "family",
+    "situations": [
+      "children",
+      "low-income",
+      "school"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11005"
+    ],
+    "institution": "Lokaal bestuur Boom",
+    "verified": "9 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.boom.be/participatietoelage",
+    "content": {
+      "en": {
+        "title": "Participatietoelage (Participation Allowance for Children, Boom)",
+        "desc": "Boom pays 80% of membership fees, camp and weekend fees, school bills and sports-club costs for children up to 18 from low-income households, up to €200 per child per school year.",
+        "deadline": "Per school year; apply with the invoice and proof of payment.",
+        "amount": "80% of the costs, up to €200 per child per school year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Sticker from the health fund"
+          },
+          {
+            "type": "doc",
+            "label": "Overview of the household's income for the last 3 months"
+          },
+          {
+            "type": "doc",
+            "label": "The invoice or another document with the amount and the organiser of the activity"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment"
+          }
+        ],
+        "steps": [
+          "Make an appointment with Boom's social service (Jozef Van Cleemputplein 1, 03 880 58 32, socialedienst@boom.be)",
+          "Bring the health-fund sticker, income overview, invoice and proof of payment",
+          "The social service checks your right and pays 80% of the costs"
+        ]
+      },
+      "nl": {
+        "title": "Participatietoelage (Boom)",
+        "desc": "Boom betaalt 80% van lidgeld, inschrijvingsgeld voor kampen en weekends, schoolfacturen en sportclubkosten voor kinderen tot en met 18 jaar uit gezinnen met een laag inkomen, tot €200 per kind per schooljaar.",
+        "deadline": "Per schooljaar; aanvragen met de factuur en het betaalbewijs.",
+        "amount": "80% van de kosten, tot €200 per kind per schooljaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Klevertje van de mutualiteit"
+          },
+          {
+            "type": "doc",
+            "label": "Overzicht van de inkomsten van het gezin van de afgelopen 3 maanden"
+          },
+          {
+            "type": "doc",
+            "label": "De factuur of een ander document met het bedrag en de organisator van de activiteit"
+          },
+          {
+            "type": "doc",
+            "label": "Betaalbewijs"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak bij de sociale dienst van Boom (Jozef Van Cleemputplein 1, 03 880 58 32, socialedienst@boom.be)",
+          "Breng het klevertje, het inkomstenoverzicht, de factuur en het betaalbewijs mee",
+          "De sociale dienst kijkt je recht na en betaalt 80% van de kosten"
+        ]
+      },
+      "fr": {
+        "title": "Participatietoelage (allocation de participation pour enfants, Boom)",
+        "desc": "Boom rembourse 80 % des cotisations, des inscriptions aux camps et week-ends, des factures scolaires et des frais de club sportif des enfants jusqu'à 18 ans de ménages à faibles revenus, jusqu'à 200 € par enfant et par année scolaire.",
+        "deadline": "Par année scolaire ; demande avec la facture et la preuve de paiement.",
+        "amount": "80 % des frais, jusqu'à 200 € par enfant et par année scolaire",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vignette de la mutualité"
+          },
+          {
+            "type": "doc",
+            "label": "Aperçu des revenus du ménage des 3 derniers mois"
+          },
+          {
+            "type": "doc",
+            "label": "La facture ou un autre document mentionnant le montant et l'organisateur de l'activité"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous au service social de Boom (Jozef Van Cleemputplein 1, 03 880 58 32, socialedienst@boom.be)",
+          "Apportez la vignette, l'aperçu des revenus, la facture et la preuve de paiement",
+          "Le service social vérifie votre droit et rembourse 80 % des frais"
+        ]
+      },
+      "de": {
+        "title": "Participatietoelage (Teilhabezuschuss für Kinder, Boom)",
+        "desc": "Boom erstattet 80 % der Mitgliedsbeiträge, Anmeldegebühren für Lager und Wochenenden, Schulrechnungen und Sportvereinskosten für Kinder bis 18 Jahre aus Haushalten mit niedrigem Einkommen, bis zu 200 € pro Kind und Schuljahr.",
+        "deadline": "Pro Schuljahr; Antrag mit Rechnung und Zahlungsnachweis.",
+        "amount": "80 % der Kosten, bis zu 200 € pro Kind und Schuljahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vignette der Krankenkasse"
+          },
+          {
+            "type": "doc",
+            "label": "Übersicht über das Einkommen des Haushalts der letzten 3 Monate"
+          },
+          {
+            "type": "doc",
+            "label": "Die Rechnung oder ein anderes Dokument mit Betrag und Veranstalter der Aktivität"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin beim Sozialdienst von Boom (Jozef Van Cleemputplein 1, 03 880 58 32, socialedienst@boom.be)",
+          "Bringen Sie die Vignette, die Einkommensübersicht, die Rechnung und den Zahlungsnachweis mit",
+          "Der Sozialdienst prüft Ihren Anspruch und erstattet 80 % der Kosten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "9 Nov 2026",
+      "source_url": [
+        "https://www.boom.be/participatietoelage"
+      ],
+      "conditions": {
+        "en": [
+          "The child is 0 to 18 and domiciled in Boom.",
+          "The household receives the leefloon, has budget management, budget guidance or collective debt mediation, or receives increased child benefit / the increased reimbursement (verhoogde tegemoetkoming) from the health fund.",
+          "Covers membership and registration fees for camps and weekends; school bills and sports-club costs count towards the same €200 maximum per school year."
+        ],
+        "nl": [
+          "Het kind is 0 tot en met 18 jaar en in Boom gedomicilieerd.",
+          "Het gezin ontvangt leefloon, heeft budgetbeheer, budgetbegeleiding of collectieve schuldbemiddeling, of ontvangt verhoogde kinderbijslag / een verhoogde tegemoetkoming bij de mutualiteit.",
+          "Geldt voor lidgeld en inschrijvingsgeld voor kampen en weekends; schoolfacturen en sportclubkosten tellen mee in hetzelfde maximum van €200 per schooljaar."
+        ],
+        "fr": [
+          "L'enfant a de 0 à 18 ans et est domicilié à Boom.",
+          "Le ménage perçoit le revenu d'intégration, bénéficie d'une gestion ou guidance budgétaire ou d'un règlement collectif de dettes, ou perçoit des allocations familiales majorées / l'intervention majorée de la mutualité.",
+          "Vaut pour les cotisations et inscriptions aux camps et week-ends ; les factures scolaires et frais de club sportif comptent dans le même maximum de 200 € par année scolaire."
+        ],
+        "de": [
+          "Das Kind ist 0 bis 18 Jahre alt und hat seinen Wohnsitz in Boom.",
+          "Der Haushalt bezieht das Eingliederungseinkommen (leefloon), hat Budgetverwaltung, Budgetbegleitung oder eine kollektive Schuldenregelung, oder erhält erhöhtes Kindergeld / die erhöhte Kostenerstattung der Krankenkasse.",
+          "Gilt für Mitgliedsbeiträge und Anmeldegebühren für Lager und Wochenenden; Schulrechnungen und Sportvereinskosten zählen zum selben Höchstbetrag von 200 € pro Schuljahr."
+        ]
+      }
+    }
   }
 ]

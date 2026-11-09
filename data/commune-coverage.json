@@ -984,49 +984,80 @@
       "ids": [
         432
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "91015",
-      "name": "Bièvre"
+      "name": "Bièvre",
+      "checked": "9 Nov 2026",
+      "ids": []
     },
     {
       "nis": "73110",
-      "name": "Bilzen-Hoeselt"
+      "name": "Bilzen-Hoeselt",
+      "checked": "9 Nov 2026",
+      "ids": [
+        433
+      ]
     },
     {
       "nis": "62011",
-      "name": "Bitsingen / Bassenge"
+      "name": "Bitsingen / Bassenge",
+      "checked": "9 Nov 2026",
+      "ids": []
     },
     {
       "nis": "72003",
-      "name": "Bocholt"
+      "name": "Bocholt",
+      "checked": "9 Nov 2026",
+      "ids": []
     },
     {
       "nis": "62119",
-      "name": "Blegny"
+      "name": "Blegny",
+      "checked": "9 Nov 2026",
+      "ids": []
     },
     {
       "nis": "11004",
-      "name": "Boechout"
+      "name": "Boechout",
+      "checked": "9 Nov 2026",
+      "ids": [
+        434,
+        435
+      ]
     },
     {
       "nis": "64074",
-      "name": "Borgworm / Waremme"
+      "name": "Borgworm / Waremme",
+      "checked": "9 Nov 2026",
+      "ids": []
     },
     {
       "nis": "12005",
-      "name": "Bonheiden"
+      "name": "Bonheiden",
+      "checked": "9 Nov 2026",
+      "ids": [
+        436,
+        437
+      ]
     },
     {
       "nis": "84010",
-      "name": "Bouillon"
+      "name": "Bouillon",
+      "checked": "9 Nov 2026",
+      "ids": []
     },
     {
       "nis": "11005",
-      "name": "Boom"
-    },
+      "name": "Boom",
+      "checked": "9 Nov 2026",
+      "ids": [
+        438,
+        439
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "53014",
       "name": "Boussu"
