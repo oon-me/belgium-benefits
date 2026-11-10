@@ -1055,49 +1055,92 @@
         438,
         439
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "53014",
-      "name": "Boussu"
+      "name": "Boussu",
+      "checked": "10 Nov 2026",
+      "ids": [
+        443
+      ]
     },
     {
       "nis": "24014",
-      "name": "Boortmeerbeek"
+      "name": "Boortmeerbeek",
+      "checked": "10 Nov 2026",
+      "ids": [
+        440,
+        441,
+        442
+      ]
     },
     {
       "nis": "64015",
-      "name": "Braives"
+      "name": "Braives",
+      "checked": "10 Nov 2026",
+      "ids": []
     },
     {
       "nis": "12007",
-      "name": "Bornem"
+      "name": "Bornem",
+      "checked": "10 Nov 2026",
+      "ids": [
+        444,
+        445
+      ]
     },
     {
       "nis": "51012",
-      "name": "Brugelette"
+      "name": "Brugelette",
+      "checked": "10 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24016",
-      "name": "Boutersem"
+      "name": "Boutersem",
+      "checked": "10 Nov 2026",
+      "ids": [
+        446,
+        447
+      ]
     },
     {
       "nis": "57093",
-      "name": "Brunehaut"
+      "name": "Brunehaut",
+      "checked": "10 Nov 2026",
+      "ids": [
+        448,
+        449
+      ]
     },
     {
       "nis": "45059",
-      "name": "Brakel"
+      "name": "Brakel",
+      "checked": "10 Nov 2026",
+      "ids": [
+        450,
+        451,
+        452
+      ]
     },
     {
       "nis": "63012",
-      "name": "Büllingen / Bullange"
+      "name": "Büllingen / Bullange",
+      "checked": "10 Nov 2026",
+      "ids": []
     },
     {
       "nis": "11008",
-      "name": "Brasschaat"
-    },
+      "name": "Brasschaat",
+      "checked": "10 Nov 2026",
+      "ids": [
+        453,
+        454,
+        455
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "61010",
       "name": "Burdinne"

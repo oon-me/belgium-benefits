@@ -53536,5 +53536,2324 @@
         ]
       }
     }
+  },
+  {
+    "id": 440,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24014"
+    ],
+    "institution": "Gemeente Boortmeerbeek",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://boortmeerbeek.be/sociale-hulp-zorg-welzijn/financiele-en-materiele-hulp/zorgpremies/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Boortmeerbeek)",
+        "desc": "Boortmeerbeek pays a yearly premium to the carers of a person in need of care who lives in Boortmeerbeek: €264.18 a year (amount on 1 January 2025, indexed every 1 January).",
+        "deadline": "Apply at any time.",
+        "amount": "€264.18 a year per person in need of care (2025 amount, indexed yearly)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form, filed in the name of the person in need of care"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of care need: a positive BelRAI screener, a care-budget certificate for people with a severe care need, or an FPS Social Security certificate of at least 12 points (for children up to 21: the care allowance for children with specific support needs)"
+          },
+          {
+            "type": "doc",
+            "label": "The carer's sworn statement"
+          }
+        ],
+        "steps": [
+          "Fill in the application form and send it to the home-care service (Pastorijstraat 2, thuiszorg@boortmeerbeek.be, 015 18 69 50)",
+          "A social worker visits the person in need of care at home",
+          "The premium is paid yearly"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Boortmeerbeek)",
+        "desc": "Boortmeerbeek betaalt een jaarlijkse premie aan de mantelzorgers van een zorgbehoevende die in Boortmeerbeek woont: €264,18 per jaar (bedrag op 1 januari 2025, jaarlijks geïndexeerd op 1 januari).",
+        "deadline": "Aanvragen kan op elk ogenblik.",
+        "amount": "€264,18 per jaar per zorgbehoevende (bedrag 2025, jaarlijks geïndexeerd)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier, op naam van de zorgbehoevende persoon"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van zorgbehoevendheid: positieve BelRAI-screener, attest zorgbudget voor zwaar zorgbehoevenden of attest van de FOD Sociale Zekerheid van minstens 12 punten (voor kinderen tot en met 21 jaar: recht op zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte)"
+          },
+          {
+            "type": "doc",
+            "label": "Verklaring op eer van de mantelzorger"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in en bezorg het aan de dienst thuiszorg (Pastorijstraat 2, thuiszorg@boortmeerbeek.be, 015 18 69 50)",
+          "Een maatschappelijk werker komt op huisbezoek bij de zorgbehoevende",
+          "De premie wordt jaarlijks uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Boortmeerbeek)",
+        "desc": "Boortmeerbeek verse une prime annuelle aux aidants proches d'une personne dépendante domiciliée à Boortmeerbeek : 264,18 € par an (montant au 1er janvier 2025, indexé chaque 1er janvier).",
+        "deadline": "Demande possible à tout moment.",
+        "amount": "264,18 € par an par personne dépendante (montant 2025, indexé chaque année)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande, au nom de la personne dépendante"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de dépendance : screener BelRAI positif, attestation du budget de soins pour personnes fortement dépendantes ou attestation du SPF Sécurité sociale d'au moins 12 points (pour les enfants jusqu'à 21 ans : droit au supplément de soins pour enfants ayant un besoin de soutien spécifique)"
+          },
+          {
+            "type": "doc",
+            "label": "Déclaration sur l'honneur de l'aidant proche"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire et remettez-le au service des soins à domicile (Pastorijstraat 2, thuiszorg@boortmeerbeek.be, 015 18 69 50)",
+          "Un travailleur social rend visite à la personne dépendante à domicile",
+          "La prime est versée chaque année"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Boortmeerbeek)",
+        "desc": "Boortmeerbeek zahlt pflegenden Angehörigen einer pflegebedürftigen Person mit Wohnsitz in Boortmeerbeek eine jährliche Prämie: 264,18 € pro Jahr (Betrag am 1. Januar 2025, jährlich zum 1. Januar indexiert).",
+        "deadline": "Antrag jederzeit möglich.",
+        "amount": "264,18 € pro Jahr und pflegebedürftiger Person (Betrag 2025, jährlich indexiert)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, auf den Namen der pflegebedürftigen Person"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis der Pflegebedürftigkeit: positiver BelRAI-Screener, Bescheinigung des Pflegebudgets für schwer Pflegebedürftige oder Bescheinigung des FÖD Soziale Sicherheit über mindestens 12 Punkte (für Kinder bis 21 Jahre: Anspruch auf den Pflegezuschlag für Kinder mit besonderem Unterstützungsbedarf)"
+          },
+          {
+            "type": "doc",
+            "label": "Ehrenwörtliche Erklärung der pflegenden Person"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus und reichen Sie es beim Hauspflegedienst ein (Pastorijstraat 2, thuiszorg@boortmeerbeek.be, 015 18 69 50)",
+          "Eine Sozialarbeiterin oder ein Sozialarbeiter besucht die pflegebedürftige Person zu Hause",
+          "Die Prämie wird jährlich ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://boortmeerbeek.be/sociale-hulp-zorg-welzijn/financiele-en-materiele-hulp/zorgpremies/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person in need of care is domiciled in Boortmeerbeek when applying and does not live permanently in a care facility.",
+          "The care need is shown by a positive BelRAI screener, the Flemish care budget for people with a severe care need, or an FPS Social Security certificate of at least 12 points; for children up to 21, the right to the care allowance for children with specific support needs.",
+          "The carer is domiciled in Belgium, helps unpaid and more than occasionally with at least two tasks a week; no income or age condition; one premium per person in need of care."
+        ],
+        "nl": [
+          "De zorgbehoevende is bij de aanvraag in Boortmeerbeek gedomicilieerd en verblijft niet permanent in een voorziening.",
+          "De zorgbehoevendheid blijkt uit een positieve BelRAI-screener, het zorgbudget voor zwaar zorgbehoevenden of een attest van de FOD Sociale Zekerheid van minstens 12 punten; voor kinderen tot en met 21 jaar uit het recht op zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte.",
+          "De mantelzorger is in België gedomicilieerd en helpt onbezoldigd en meer dan occasioneel met minstens twee taken per week; geen inkomens- of leeftijdsvoorwaarde; één premie per zorgbehoevende."
+        ],
+        "fr": [
+          "La personne dépendante est domiciliée à Boortmeerbeek au moment de la demande et ne vit pas en permanence dans une institution.",
+          "La dépendance est établie par un screener BelRAI positif, le budget de soins flamand pour personnes fortement dépendantes ou une attestation du SPF Sécurité sociale d'au moins 12 points ; pour les enfants jusqu'à 21 ans, par le droit au supplément de soins pour enfants ayant un besoin de soutien spécifique.",
+          "L'aidant est domicilié en Belgique et aide bénévolement et plus qu'occasionnellement pour au moins deux tâches par semaine ; aucune condition de revenu ni d'âge ; une prime par personne dépendante."
+        ],
+        "de": [
+          "Die pflegebedürftige Person hat bei der Antragstellung ihren Wohnsitz in Boortmeerbeek und lebt nicht dauerhaft in einer Einrichtung.",
+          "Die Pflegebedürftigkeit wird durch einen positiven BelRAI-Screener, das flämische Pflegebudget für schwer Pflegebedürftige oder eine Bescheinigung des FÖD Soziale Sicherheit über mindestens 12 Punkte nachgewiesen; bei Kindern bis 21 Jahre durch den Anspruch auf den Pflegezuschlag für Kinder mit besonderem Unterstützungsbedarf.",
+          "Die pflegende Person hat ihren Wohnsitz in Belgien und hilft unbezahlt und mehr als gelegentlich bei mindestens zwei Aufgaben pro Woche; keine Einkommens- oder Altersbedingung; eine Prämie pro pflegebedürftiger Person."
+        ]
+      }
+    }
+  },
+  {
+    "id": 441,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24014"
+    ],
+    "institution": "Gemeente Boortmeerbeek",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.boortmeerbeek.be/afval-natuur-milieu/premies-en-ondersteuning-milieu-en-afval/sociale-correctie-op-het-gedifferentieerd-tarief-voor-afvalverwerking",
+    "content": {
+      "en": {
+        "title": "Sociale correctie DifTar voor incontinentie en stoma (Waste Bill Allowance for Incontinence or Stoma, Boortmeerbeek)",
+        "desc": "People with incontinence or a stoma get €50 a year on their DifTar waste account in Boortmeerbeek.",
+        "deadline": "Apply before 1 May of the year; if the incontinence is permanent the request renews automatically.",
+        "amount": "€50 per person per year, credited to the DifTar account",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate from the GP or specialist"
+          },
+          {
+            "type": "doc",
+            "label": "Completed and signed application form for incontinence and stoma patients"
+          }
+        ],
+        "steps": [
+          "Fill in the application form and have the doctor complete the certificate",
+          "Send both to the finance department (Pastorijstraat 2, fd@boortmeerbeek.be, 015 18 68 40) before 1 May",
+          "The €50 is credited to your DifTar account (not your bank account)"
+        ]
+      },
+      "nl": {
+        "title": "Sociale correctie DifTar voor incontinentie en stoma (Boortmeerbeek)",
+        "desc": "Personen met incontinentieproblemen en stomapatiënten krijgen in Boortmeerbeek €50 per jaar op hun DifTar-rekening.",
+        "deadline": "Aanvragen vóór 1 mei van het dienstjaar; bij blijvende incontinentie wordt de aanvraag automatisch verlengd.",
+        "amount": "€50 per persoon per jaar, op de DifTar-rekening",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de huisarts of specialist"
+          },
+          {
+            "type": "doc",
+            "label": "Ingevuld en ondertekend aanvraagformulier incontinentieproblemen en stomapatiënten"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in en laat het attest invullen door de arts",
+          "Bezorg beide aan de dienst financiën (Pastorijstraat 2, fd@boortmeerbeek.be, 015 18 68 40) vóór 1 mei",
+          "De €50 wordt op je DifTar-rekening gestort (niet op je bankrekening)"
+        ]
+      },
+      "fr": {
+        "title": "Sociale correctie DifTar voor incontinentie en stoma (correction sociale de la facture déchets pour incontinence ou stomie, Boortmeerbeek)",
+        "desc": "Les personnes incontinentes ou stomisées reçoivent à Boortmeerbeek 50 € par an sur leur compte DifTar.",
+        "deadline": "Demande avant le 1er mai de l'exercice ; en cas d'incontinence permanente, la demande est prolongée automatiquement.",
+        "amount": "50 € par personne et par an, versés sur le compte DifTar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du médecin généraliste ou spécialiste"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande pour incontinence et stomie complété et signé"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire et faites compléter l'attestation par le médecin",
+          "Envoyez les deux au service des finances (Pastorijstraat 2, fd@boortmeerbeek.be, 015 18 68 40) avant le 1er mai",
+          "Les 50 € sont versés sur votre compte DifTar (pas sur votre compte bancaire)"
+        ]
+      },
+      "de": {
+        "title": "Sociale correctie DifTar voor incontinentie en stoma (Sozialkorrektur der Müllgebühr bei Inkontinenz oder Stoma, Boortmeerbeek)",
+        "desc": "Menschen mit Inkontinenz oder einem Stoma erhalten in Boortmeerbeek 50 € pro Jahr auf ihrem DifTar-Konto.",
+        "deadline": "Antrag vor dem 1. Mai des Jahres; bei dauerhafter Inkontinenz verlängert sich der Antrag automatisch.",
+        "amount": "50 € pro Person und Jahr, gutgeschrieben auf dem DifTar-Konto",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des Hausarztes oder Facharztes"
+          },
+          {
+            "type": "doc",
+            "label": "Ausgefülltes und unterschriebenes Antragsformular für Inkontinenz- und Stomapatienten"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus und lassen Sie die Bescheinigung vom Arzt ausfüllen",
+          "Reichen Sie beides vor dem 1. Mai beim Finanzdienst ein (Pastorijstraat 2, fd@boortmeerbeek.be, 015 18 68 40)",
+          "Die 50 € werden Ihrem DifTar-Konto gutgeschrieben (nicht Ihrem Bankkonto)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.boortmeerbeek.be/afval-natuur-milieu/premies-en-ondersteuning-milieu-en-afval/sociale-correctie-op-het-gedifferentieerd-tarief-voor-afvalverwerking"
+      ],
+      "conditions": {
+        "en": [
+          "You are registered in Boortmeerbeek's population register (bevolkingsregister) and do not live permanently in a care home.",
+          "You have incontinence problems or a stoma, shown by a certificate from your GP or specialist; the situation on 1 January of the year counts.",
+          "Apply before 1 May of the year; €50 per person, credited to the DifTar account."
+        ],
+        "nl": [
+          "Je bent ingeschreven in het bevolkingsregister van Boortmeerbeek en verblijft niet permanent in een rust- of verzorgingstehuis.",
+          "Je hebt incontinentieproblemen of bent stomapatiënt, blijkend uit een attest van de huisarts of specialist; de situatie op 1 januari van het dienstjaar telt.",
+          "Aanvragen vóór 1 mei van het dienstjaar; €50 per persoon, op de DifTar-rekening."
+        ],
+        "fr": [
+          "Vous êtes inscrit au registre de la population de Boortmeerbeek (bevolkingsregister) et ne vivez pas en permanence en maison de repos ou de soins.",
+          "Vous souffrez d'incontinence ou avez une stomie, attestée par votre médecin généraliste ou spécialiste ; la situation au 1er janvier de l'exercice compte.",
+          "Demande avant le 1er mai de l'exercice ; 50 € par personne, versés sur le compte DifTar."
+        ],
+        "de": [
+          "Sie sind im Bevölkerungsregister von Boortmeerbeek (bevolkingsregister) eingetragen und leben nicht dauerhaft in einem Alten- oder Pflegeheim.",
+          "Sie haben Inkontinenz oder ein Stoma, nachgewiesen durch eine Bescheinigung Ihres Haus- oder Facharztes; maßgeblich ist die Lage am 1. Januar des Jahres.",
+          "Antrag vor dem 1. Mai des Jahres; 50 € pro Person, gutgeschrieben auf dem DifTar-Konto."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Boortmeerbeek's population register (bevolkingsregister).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Boortmeerbeek.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population de Boortmeerbeek (bevolkingsregister).",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Boortmeerbeek (bevolkingsregister)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 442,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24014"
+    ],
+    "institution": "Gemeente Boortmeerbeek",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.boortmeerbeek.be/afval-natuur-milieu/premies-en-ondersteuning-milieu-en-afval/subsidie-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Subsidie herbruikbare luiers (Washable Nappy Subsidy, Boortmeerbeek)",
+        "desc": "Boortmeerbeek pays half the purchase price of washable nappies, up to €150 per child.",
+        "deadline": "Apply before the child's third birthday.",
+        "amount": "50% of the invoice, up to €150 per child (one-off)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Purchase receipt or invoice in your name, with the price"
+          },
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (paper or online)",
+          "Send it with the invoice to the environment department (Pastorijstraat 2, milieudienst@boortmeerbeek.be, 015 18 68 90)",
+          "The college of mayor and aldermen decides and pays the subsidy"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie herbruikbare luiers (Boortmeerbeek)",
+        "desc": "Boortmeerbeek betaalt de helft van de aankoopprijs van herbruikbare luiers terug, tot €150 per kind.",
+        "deadline": "Aanvragen vóór de derde verjaardag van het kind.",
+        "amount": "50% van de factuur, tot €150 per kind (eenmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aankoopbewijs of factuur op naam, met vermelding van de kostprijs"
+          },
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (op papier of digitaal)",
+          "Bezorg het met de factuur aan de milieudienst (Pastorijstraat 2, milieudienst@boortmeerbeek.be, 015 18 68 90)",
+          "Het college van burgemeester en schepenen beslist en betaalt de subsidie uit"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie herbruikbare luiers (subside pour langes lavables, Boortmeerbeek)",
+        "desc": "Boortmeerbeek rembourse la moitié du prix d'achat de langes lavables, jusqu'à 150 € par enfant.",
+        "deadline": "Demande avant le troisième anniversaire de l'enfant.",
+        "amount": "50 % de la facture, jusqu'à 150 € par enfant (une seule fois)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve d'achat ou facture à votre nom, avec le prix"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire (papier ou en ligne)",
+          "Envoyez-le avec la facture au service environnement (Pastorijstraat 2, milieudienst@boortmeerbeek.be, 015 18 68 90)",
+          "Le collège des bourgmestre et échevins décide et verse le subside"
+        ]
+      },
+      "de": {
+        "title": "Subsidie herbruikbare luiers (Zuschuss für Stoffwindeln, Boortmeerbeek)",
+        "desc": "Boortmeerbeek erstattet die Hälfte des Kaufpreises von wiederverwendbaren Windeln, bis zu 150 € pro Kind.",
+        "deadline": "Antrag vor dem dritten Geburtstag des Kindes.",
+        "amount": "50 % der Rechnung, bis zu 150 € pro Kind (einmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kaufbeleg oder Rechnung auf Ihren Namen mit Preisangabe"
+          },
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus (auf Papier oder online)",
+          "Reichen Sie es mit der Rechnung beim Umweltdienst ein (Pastorijstraat 2, milieudienst@boortmeerbeek.be, 015 18 68 90)",
+          "Das Bürgermeister- und Schöffenkollegium entscheidet und zahlt den Zuschuss aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.boortmeerbeek.be/afval-natuur-milieu/premies-en-ondersteuning-milieu-en-afval/subsidie-herbruikbare-luiers",
+        "https://www.boortmeerbeek.be/sites/default/files/2025-05/subsidiereglement-herbruikbare-luiers.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Families and single parents with a child up to 3, registered in the commune's population register (bevolkingsregister).",
+          "The father, mother or legal guardian applies in writing on the commune's form, with a purchase receipt or invoice in their name showing the price, before the child's third birthday.",
+          "Half the invoice price, at most €150 per child, once, within the budget available each year."
+        ],
+        "nl": [
+          "Gezinnen en alleenstaanden met een kind tot 3 jaar, ingeschreven in het bevolkingsregister van de gemeente.",
+          "De vader, moeder of wettelijke voogd vraagt schriftelijk aan met het formulier van de gemeente, met een aankoopbewijs of factuur op naam met de kostprijs, vóór de derde verjaardag van het kind.",
+          "De helft van de factuurprijs, maximaal €150 per kind, eenmalig, binnen het jaarlijkse budget."
+        ],
+        "fr": [
+          "Familles et parents seuls avec un enfant de 3 ans au plus, inscrits au registre de la population de la commune (bevolkingsregister).",
+          "Le père, la mère ou le tuteur légal introduit la demande par écrit avec le formulaire communal, avec une preuve d'achat ou une facture à son nom indiquant le prix, avant le troisième anniversaire de l'enfant.",
+          "La moitié du prix facturé, 150 € au plus par enfant, une seule fois, dans la limite du budget annuel."
+        ],
+        "de": [
+          "Familien und Alleinerziehende mit einem Kind bis 3 Jahre, eingetragen im Bevölkerungsregister der Gemeinde (bevolkingsregister).",
+          "Vater, Mutter oder Vormund beantragt schriftlich mit dem Formular der Gemeinde, mit Kaufbeleg oder Rechnung auf eigenen Namen und Preisangabe, vor dem dritten Geburtstag des Kindes.",
+          "Die Hälfte des Rechnungsbetrags, höchstens 150 € pro Kind, einmalig, im Rahmen des jährlichen Budgets."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Boortmeerbeek's population register (bevolkingsregister).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Boortmeerbeek.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population de Boortmeerbeek (bevolkingsregister).",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Boortmeerbeek (bevolkingsregister)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 443,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "53014"
+    ],
+    "institution": "Commune de Boussu",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.boussu.be/actualites/une-prime-communale-pour-lachat-dun-velo-en-2026?u=1faef54ff2a54c328a2e83f254c31644",
+    "content": {
+      "en": {
+        "title": "Prime communale pour l'achat d'un vélo (Bike Purchase Premium, Boussu)",
+        "desc": "Boussu gives adult residents up to €50 for a classic bike or up to €100 for an e-bike, new or second-hand from a professional dealer, bought in 2026.",
+        "deadline": "Send a complete application before 31 December 2026.",
+        "amount": "Up to €50 (classic bike) or up to €100 (e-bike)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Purchase invoice"
+          }
+        ],
+        "steps": [
+          "Download the 2026 application form from the commune's page",
+          "Send it with the invoice by post (Administration communale de Boussu, Rue Grande 71, 7301 Hornu) or by e-mail to sports@boussu.be",
+          "The commune checks the file and pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale pour l'achat d'un vélo (gemeentelijke fietspremie, Boussu)",
+        "desc": "Boussu geeft meerderjarige inwoners tot €50 voor een gewone fiets of tot €100 voor een elektrische fiets, nieuw of tweedehands bij een erkende vakhandelaar, gekocht in 2026.",
+        "deadline": "Volledige aanvraag indienen vóór 31 december 2026.",
+        "amount": "Tot €50 (gewone fiets) of tot €100 (elektrische fiets)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoopfactuur"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier 2026 op de pagina van de gemeente",
+          "Stuur het met de factuur per post (Administration communale de Boussu, Rue Grande 71, 7301 Hornu) of per e-mail naar sports@boussu.be",
+          "De gemeente controleert het dossier en betaalt de premie uit"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale pour l'achat d'un vélo (Boussu)",
+        "desc": "Boussu accorde aux habitants majeurs jusqu'à 50 € pour un vélo classique ou jusqu'à 100 € pour un vélo à assistance électrique, neuf ou d'occasion chez un revendeur professionnel agréé, acheté en 2026.",
+        "deadline": "Demande complète à introduire avant le 31 décembre 2026.",
+        "amount": "Jusqu'à 50 € (vélo classique) ou jusqu'à 100 € (VAE)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Facture d'achat"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande 2026 sur la page de la commune",
+          "Envoyez-le avec la facture par courrier (Administration communale de Boussu, Rue Grande 71, 7301 Hornu) ou par e-mail à sports@boussu.be",
+          "La commune vérifie le dossier et verse la prime"
+        ]
+      },
+      "de": {
+        "title": "Prime communale pour l'achat d'un vélo (Gemeindeprämie für den Fahrradkauf, Boussu)",
+        "desc": "Boussu gewährt volljährigen Einwohnern bis zu 50 € für ein normales Fahrrad oder bis zu 100 € für ein E-Bike, neu oder gebraucht bei einem zugelassenen Fachhändler, gekauft 2026.",
+        "deadline": "Vollständiger Antrag vor dem 31. Dezember 2026.",
+        "amount": "Bis zu 50 € (normales Fahrrad) oder bis zu 100 € (E-Bike)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kaufrechnung"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular 2026 von der Seite der Gemeinde herunter",
+          "Senden Sie es mit der Rechnung per Post (Administration communale de Boussu, Rue Grande 71, 7301 Hornu) oder per E-Mail an sports@boussu.be",
+          "Die Gemeinde prüft die Akte und zahlt die Prämie aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.boussu.be/actualites/une-prime-communale-pour-lachat-dun-velo-en-2026?u=1faef54ff2a54c328a2e83f254c31644"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in the commune of Boussu.",
+          "You were an adult (18 or over) at the time of purchase.",
+          "Classic bike or e-bike, new or second-hand from a professional approved dealer (purchases between private persons do not count); complete application before 31 December 2026."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in de gemeente Boussu.",
+          "Je was meerderjarig op het moment van de aankoop.",
+          "Gewone of elektrische fiets, nieuw of tweedehands bij een erkende vakhandelaar (aankopen tussen particulieren tellen niet); volledige aanvraag vóór 31 december 2026."
+        ],
+        "fr": [
+          "Vous êtes domicilié sur le territoire de la commune de Boussu.",
+          "Vous étiez majeur au moment de l'achat.",
+          "Vélo classique ou VAE, neuf ou d'occasion chez un revendeur professionnel agréé (les achats entre particuliers ne sont pas admis) ; demande complète avant le 31 décembre 2026."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in der Gemeinde Boussu.",
+          "Sie waren zum Zeitpunkt des Kaufs volljährig.",
+          "Normales Fahrrad oder E-Bike, neu oder gebraucht bei einem zugelassenen Fachhändler (Käufe zwischen Privatpersonen zählen nicht); vollständiger Antrag vor dem 31. Dezember 2026."
+        ]
+      }
+    }
+  },
+  {
+    "id": 444,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12007"
+    ],
+    "institution": "Gemeente Bornem",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bornem.be/sociaal-pedagogische-toelage",
+    "content": {
+      "en": {
+        "title": "Sociaal-pedagogische toelage (Allowance for Caring for a Child with a Severe Disability, Bornem)",
+        "desc": "Bornem pays €175 a year per child to the parent who cares for a child with a severe physical or mental disability at home.",
+        "deadline": "Apply before 1 December of the year the allowance is for.",
+        "amount": "€175 per child per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof that the disability is at least 66%"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of increased child benefit or another disability allowance from the FPS Social Security"
+          },
+          {
+            "type": "doc",
+            "label": "Standard application form"
+          }
+        ],
+        "steps": [
+          "Download the form on the commune's page or collect it at the Sociaal Huis (first application)",
+          "Send it to the college of mayor and aldermen with the proofs",
+          "Your situation is checked and the special committee for social services decides monthly"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-pedagogische toelage (Bornem)",
+        "desc": "Bornem betaalt €175 per jaar per kind aan de ouder die thuis een zwaar lichamelijk of geestelijk gehandicapt kind verzorgt.",
+        "deadline": "Aanvragen vóór 1 december van het dienstjaar waarop de aanvraag betrekking heeft.",
+        "amount": "€175 per kind per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs dat de handicap minstens 66% bedraagt"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van verhoogde kinderbijslag of een andere tegemoetkoming aan gehandicapten van de FOD Sociale Zekerheid"
+          },
+          {
+            "type": "doc",
+            "label": "Standaard aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Download het formulier op de pagina van de gemeente of haal het af in het Sociaal Huis (eerste aanvraag)",
+          "Stuur het met de bewijsstukken naar het college van burgemeester en schepenen",
+          "Je situatie wordt onderzocht en het bijzonder comité voor de sociale dienst beslist maandelijks"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-pedagogische toelage (allocation socio-pédagogique pour enfant lourdement handicapé, Bornem)",
+        "desc": "Bornem verse 175 € par an et par enfant au parent qui soigne à domicile un enfant atteint d'un handicap physique ou mental grave.",
+        "deadline": "Demande avant le 1er décembre de l'exercice concerné.",
+        "amount": "175 € par enfant et par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve d'un handicap d'au moins 66 %"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve des allocations familiales majorées ou d'une autre allocation aux personnes handicapées du SPF Sécurité sociale"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande standard"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur la page de la commune ou retirez-le au Sociaal Huis (première demande)",
+          "Envoyez-le avec les preuves au collège des bourgmestre et échevins",
+          "Votre situation est examinée et le comité spécial du service social décide chaque mois"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-pedagogische toelage (sozialpädagogische Zulage für ein schwerbehindertes Kind, Bornem)",
+        "desc": "Bornem zahlt dem Elternteil, der zu Hause ein Kind mit schwerer körperlicher oder geistiger Behinderung pflegt, 175 € pro Jahr und Kind.",
+        "deadline": "Antrag vor dem 1. Dezember des betreffenden Jahres.",
+        "amount": "175 € pro Kind und Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis einer Behinderung von mindestens 66 %"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis des erhöhten Kindergeldes oder einer anderen Behindertenbeihilfe des FÖD Soziale Sicherheit"
+          },
+          {
+            "type": "doc",
+            "label": "Standard-Antragsformular"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular von der Seite der Gemeinde herunter oder holen Sie es im Sociaal Huis ab (Erstantrag)",
+          "Senden Sie es mit den Nachweisen an das Bürgermeister- und Schöffenkollegium",
+          "Ihre Lage wird geprüft und der Sonderausschuss für den Sozialdienst entscheidet monatlich"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.bornem.be/sociaal-pedagogische-toelage",
+        "https://www.bornem.be/file/download/401ff2e4-ce39-43b9-ac13-ba9b1395d9d1/6ao02enoU4mMzNe3MDytajb6dmAQX5brO5QNERELVU3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You (the mother or the person replacing her) care for and raise at home at least one child with a severe physical or mental disability; the child is not placed in a boarding school and has no earned income.",
+          "The child is between 1 and 25 years old when you apply.",
+          "The disability is at least 66%, with proof of increased child benefit or another disability allowance from the FPS Social Security; apply before 1 December of the year."
+        ],
+        "nl": [
+          "Je (de moeder of wie haar vervangt) verzorgt en voedt thuis minstens één zwaar lichamelijk of geestelijk gehandicapt kind op; het kind is niet in een internaat geplaatst en heeft geen beroepsinkomen.",
+          "Het kind is tussen 1 en 25 jaar oud op het ogenblik van de aanvraag.",
+          "De handicap bedraagt minstens 66%, met bewijs van verhoogde kinderbijslag of een andere tegemoetkoming aan gehandicapten van de FOD Sociale Zekerheid; aanvragen vóór 1 december van het dienstjaar."
+        ],
+        "fr": [
+          "Vous (la mère ou la personne qui la remplace) soignez et élevez à domicile au moins un enfant atteint d'un handicap physique ou mental grave ; l'enfant n'est pas placé en internat et n'a pas de revenu professionnel.",
+          "L'enfant a entre 1 et 25 ans au moment de la demande.",
+          "Le handicap atteint au moins 66 %, avec preuve des allocations familiales majorées ou d'une autre allocation aux personnes handicapées du SPF Sécurité sociale ; demande avant le 1er décembre de l'exercice."
+        ],
+        "de": [
+          "Sie (die Mutter oder die Person, die sie ersetzt) pflegen und erziehen zu Hause mindestens ein Kind mit schwerer körperlicher oder geistiger Behinderung; das Kind ist nicht in einem Internat untergebracht und hat kein Berufseinkommen.",
+          "Das Kind ist bei der Antragstellung zwischen 1 und 25 Jahre alt.",
+          "Die Behinderung beträgt mindestens 66 %, mit Nachweis des erhöhten Kindergeldes oder einer anderen Behindertenbeihilfe des FÖD Soziale Sicherheit; Antrag vor dem 1. Dezember des Jahres."
+        ]
+      }
+    }
+  },
+  {
+    "id": 445,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12007"
+    ],
+    "institution": "Gemeente Bornem",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bornem.be/huisvuilzakken",
+    "content": {
+      "en": {
+        "title": "Toelage op afvalkosten om medische redenen (Waste Cost Allowance for Medical Reasons, Bornem)",
+        "desc": "Residents who produce extra waste for medical reasons (incontinence, stoma, home dialysis, certain skin conditions) get €75 on their waste prepayment account.",
+        "deadline": "Apply every year by 31 October.",
+        "amount": "€75 a year, credited to the prepayment account (never paid in cash)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A form from the health fund, a VAPH decision on the incontinence allowance, or a certificate from the treating doctor"
+          },
+          {
+            "type": "doc",
+            "label": "Online application form"
+          }
+        ],
+        "steps": [
+          "Fill in the application form on the commune's website",
+          "Attach one of the certificates",
+          "You receive a confirmation e-mail; the €75 is credited to your prepayment account"
+        ]
+      },
+      "nl": {
+        "title": "Toelage op afvalkosten om medische redenen (Bornem)",
+        "desc": "Inwoners die om medische redenen extra afval hebben (incontinentie, stoma, thuisdialyse, bepaalde huidaandoeningen) krijgen €75 op hun provisierekening.",
+        "deadline": "Jaarlijks aanvragen uiterlijk op 31 oktober.",
+        "amount": "€75 per jaar, op de provisierekening (nooit geldelijk uitbetaald)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een formulier van het ziekenfonds, een VAPH-beslissing over het incontinentieforfait of een attest van de behandelende arts"
+          },
+          {
+            "type": "doc",
+            "label": "Online aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in op de gemeentelijke website",
+          "Voeg een van de attesten toe",
+          "Je krijgt een bevestigingsmail; de €75 komt op je provisierekening"
+        ]
+      },
+      "fr": {
+        "title": "Toelage op afvalkosten om medische redenen (allocation pour frais de déchets pour raisons médicales, Bornem)",
+        "desc": "Les habitants qui produisent plus de déchets pour raisons médicales (incontinence, stomie, dialyse à domicile, certaines affections cutanées) reçoivent 75 € sur leur compte de provision.",
+        "deadline": "Demande chaque année au plus tard le 31 octobre.",
+        "amount": "75 € par an, versés sur le compte de provision (jamais en espèces)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Un formulaire de la mutualité, une décision du VAPH sur le forfait incontinence ou une attestation du médecin traitant"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande en ligne"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire sur le site de la commune",
+          "Joignez une des attestations",
+          "Vous recevez un e-mail de confirmation ; les 75 € sont versés sur votre compte de provision"
+        ]
+      },
+      "de": {
+        "title": "Toelage op afvalkosten om medische redenen (Zuschuss zu Abfallkosten aus medizinischen Gründen, Bornem)",
+        "desc": "Einwohner, die aus medizinischen Gründen mehr Abfall haben (Inkontinenz, Stoma, Heimdialyse, bestimmte Hauterkrankungen), erhalten 75 € auf ihrem Vorauszahlungskonto.",
+        "deadline": "Jährlicher Antrag bis spätestens 31. Oktober.",
+        "amount": "75 € pro Jahr, gutgeschrieben auf dem Vorauszahlungskonto (nie bar ausgezahlt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ein Formular der Krankenkasse, eine VAPH-Entscheidung über die Inkontinenzpauschale oder eine Bescheinigung des behandelnden Arztes"
+          },
+          {
+            "type": "doc",
+            "label": "Online-Antragsformular"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular auf der Website der Gemeinde aus",
+          "Fügen Sie eine der Bescheinigungen bei",
+          "Sie erhalten eine Bestätigungs-E-Mail; die 75 € werden Ihrem Vorauszahlungskonto gutgeschrieben"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.bornem.be/huisvuilzakken",
+        "https://www.bornem.be/file/download/e3c3de06-55b1-4ea0-be88-fbd5b62bbea5/8UEz5flhh44LpUzHzN7n4JViMPtCVaCFCNCjknKaQ83d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are a resident of Bornem on 1 January of the tax year and belong to the target group on that date.",
+          "Target group: chronic incontinence with a recognised certificate or allowance (Katz scale 3 or 4, VAPH incontinence allowance, health-fund certificate, FPS score of 3 or more for personal hygiene), a stoma, home dialysis, or a blistering or other skin condition needing much care material.",
+          "Not for people living in an institution, care home or shared-living community; apply every year by 31 October."
+        ],
+        "nl": [
+          "Je bent inwoner van Bornem op 1 januari van het belastingjaar en behoort op die datum tot de doelgroep.",
+          "Doelgroep: chronische incontinentie met een erkend attest of tegemoetkoming (Katzschaal 3 of 4, VAPH-incontinentieforfait, attest ziekenfonds, FOD-score van 3 of meer voor persoonlijke hygiëne), een stoma, thuisdialyse, of een huidaandoening met blaarvorming of een andere huidaandoening met veel verzorgingsmateriaal.",
+          "Niet voor wie in een instelling, rust- of verzorgingstehuis of woon-leefgemeenschap verblijft; jaarlijks aanvragen uiterlijk op 31 oktober."
+        ],
+        "fr": [
+          "Vous habitez Bornem au 1er janvier de l'exercice d'imposition et appartenez au groupe cible à cette date.",
+          "Groupe cible : incontinence chronique avec une attestation ou allocation reconnue (échelle de Katz 3 ou 4, forfait incontinence VAPH, attestation de la mutualité, score SPF de 3 ou plus pour l'hygiène personnelle), stomie, dialyse à domicile, ou affection cutanée bulleuse ou autre exigeant beaucoup de matériel de soins.",
+          "Pas pour les personnes en institution, maison de repos ou de soins ou habitat communautaire ; demande chaque année au plus tard le 31 octobre."
+        ],
+        "de": [
+          "Sie sind am 1. Januar des Steuerjahres Einwohner von Bornem und gehören an diesem Tag zur Zielgruppe.",
+          "Zielgruppe: chronische Inkontinenz mit anerkannter Bescheinigung oder Beihilfe (Katz-Skala 3 oder 4, VAPH-Inkontinenzpauschale, Bescheinigung der Krankenkasse, FÖD-Punktzahl von 3 oder mehr für Körperpflege), Stoma, Heimdialyse oder eine blasenbildende oder andere Hauterkrankung mit hohem Pflegematerialbedarf.",
+          "Nicht für Personen in einer Einrichtung, einem Alten- oder Pflegeheim oder einer Wohngemeinschaft; jährlicher Antrag bis 31. Oktober."
+        ]
+      }
+    }
+  },
+  {
+    "id": 446,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24016"
+    ],
+    "institution": "Sociaal Huis Boutersem",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.boutersem.be/mantelzorgtoelage",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage (Carer Allowance, Boutersem)",
+        "desc": "The Sociaal Huis of Boutersem pays carers of a person in need of care living in Boutersem €30 a month (base amount, indexed every January), paid at the end of the year.",
+        "deadline": "Renew the application yourself every year; the right ends after one year.",
+        "amount": "€30 a month (base amount 2026, indexed yearly)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate of the care need of the person you help"
+          },
+          {
+            "type": "doc",
+            "label": "Application form"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (download on the commune's page) or make an appointment with the social service",
+          "A short check of the application follows",
+          "The allowance is paid at the end of the year; apply again every year"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage (Boutersem)",
+        "desc": "Het Sociaal Huis van Boutersem betaalt mantelzorgers van een zorgbehoevende die in Boutersem woont €30 per maand (basisbedrag, jaarlijks in januari geïndexeerd), uitbetaald op het einde van het jaar.",
+        "deadline": "Vraag elk jaar zelf een verlenging aan; het recht vervalt na een jaar.",
+        "amount": "€30 per maand (basisbedrag 2026, jaarlijks geïndexeerd)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van zorgbehoevendheid van de persoon die je helpt"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (download op de pagina van de gemeente) of maak een afspraak bij de sociale dienst",
+          "Er volgt een beperkt onderzoek van de aanvraag",
+          "De toelage wordt op het einde van het jaar uitbetaald; vraag elk jaar opnieuw aan"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage (allocation aux aidants proches, Boutersem)",
+        "desc": "Le Sociaal Huis de Boutersem verse aux aidants d'une personne dépendante habitant Boutersem 30 € par mois (montant de base, indexé chaque janvier), payés en fin d'année.",
+        "deadline": "Renouvelez vous-même la demande chaque année ; le droit expire après un an.",
+        "amount": "30 € par mois (montant de base 2026, indexé chaque année)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation de dépendance de la personne aidée"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire (à télécharger sur la page de la commune) ou prenez rendez-vous au service social",
+          "Un examen limité de la demande suit",
+          "L'allocation est versée en fin d'année ; redemandez-la chaque année"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage (Zulage für pflegende Angehörige, Boutersem)",
+        "desc": "Das Sociaal Huis Boutersem zahlt pflegenden Angehörigen einer pflegebedürftigen Person mit Wohnsitz in Boutersem 30 € pro Monat (Grundbetrag, jährlich im Januar indexiert), ausgezahlt am Jahresende.",
+        "deadline": "Beantragen Sie die Verlängerung jedes Jahr selbst; der Anspruch erlischt nach einem Jahr.",
+        "amount": "30 € pro Monat (Grundbetrag 2026, jährlich indexiert)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Pflegebedürftigkeit der unterstützten Person"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus (Download auf der Seite der Gemeinde) oder vereinbaren Sie einen Termin beim Sozialdienst",
+          "Es folgt eine kurze Prüfung des Antrags",
+          "Die Zulage wird am Jahresende ausgezahlt; beantragen Sie sie jedes Jahr neu"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.boutersem.be/mantelzorgtoelage",
+        "https://boutersem.meetingburger.net/Pages/HandleFile.ashx?id=0ff2a7f3-4d17-43ba-9057-1b77fa7f57ef"
+      ],
+      "conditions": {
+        "en": [
+          "The person in need of care lives in Boutersem and can show a certificate of care need.",
+          "The carer helps unpaid with important tasks (shopping, paperwork, garden…) and does not have to live in Boutersem.",
+          "The right ends after one year and must be renewed every year; tell the Sociaal Huis about a death, a move to another commune or an admission to a care home."
+        ],
+        "nl": [
+          "De zorgbehoevende woont in Boutersem en kan een attest van zorgbehoevendheid voorleggen.",
+          "De mantelzorger helpt onbezoldigd met belangrijke taken (boodschappen, administratie, tuin …) en hoeft niet in Boutersem te wonen.",
+          "Het recht vervalt na een jaar en moet elk jaar hernieuwd worden; meld een overlijden, verhuis naar een andere gemeente of opname in een rusthuis aan het Sociaal Huis."
+        ],
+        "fr": [
+          "La personne dépendante habite Boutersem et peut présenter une attestation de dépendance.",
+          "L'aidant aide bénévolement pour des tâches importantes (courses, administration, jardin…) et ne doit pas habiter Boutersem.",
+          "Le droit expire après un an et doit être renouvelé chaque année ; signalez au Sociaal Huis un décès, un déménagement vers une autre commune ou une entrée en maison de repos."
+        ],
+        "de": [
+          "Die pflegebedürftige Person wohnt in Boutersem und kann eine Bescheinigung der Pflegebedürftigkeit vorlegen.",
+          "Die pflegende Person hilft unbezahlt bei wichtigen Aufgaben (Einkäufe, Verwaltung, Garten …) und muss nicht in Boutersem wohnen.",
+          "Der Anspruch erlischt nach einem Jahr und muss jedes Jahr erneuert werden; melden Sie dem Sociaal Huis einen Todesfall, einen Umzug in eine andere Gemeinde oder eine Aufnahme in ein Altenheim."
+        ]
+      }
+    }
+  },
+  {
+    "id": 447,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24016"
+    ],
+    "institution": "Gemeente Boutersem",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.boutersem.be/sociale-correctie-op-het-gedifferentieerd-tarief-voor-afvalverwerking",
+    "content": {
+      "en": {
+        "title": "Sociale correctie DifTar (Waste Bill Correction for Medical Needs, Boutersem)",
+        "desc": "Boutersem gives a €60 yearly waste-bill correction to residents who need incontinence material, are cared for palliatively at home, need much wound-care material, or have increased reimbursement plus a disability allowance.",
+        "deadline": "Hand in the certificate every year.",
+        "amount": "€60 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Recent medical certificate (incontinence, palliative home care or long-term care material)"
+          },
+          {
+            "type": "doc",
+            "label": "Or: FPS Social Security certificate of a recognised-disability allowance"
+          }
+        ],
+        "steps": [
+          "Get a recent medical certificate or the FPS Social Security certificate",
+          "Hand it in to the finance department every year",
+          "The €60 correction is applied"
+        ]
+      },
+      "nl": {
+        "title": "Sociale correctie DifTar (Boutersem)",
+        "desc": "Boutersem geeft een jaarlijkse sociale correctie van €60 aan inwoners die incontinentiemateriaal nodig hebben, thuis palliatief verzorgd worden, veel verzorgingsmateriaal nodig hebben, of een verhoogde tegemoetkoming plus een uitkering wegens handicap hebben.",
+        "deadline": "Jaarlijks het attest bezorgen.",
+        "amount": "€60 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Recent medisch attest (incontinentie, palliatieve thuiszorg of langdurig verzorgingsmateriaal)"
+          },
+          {
+            "type": "doc",
+            "label": "Of: attest van de FOD Sociale Zekerheid over een uitkering wegens erkende handicap"
+          }
+        ],
+        "steps": [
+          "Vraag een recent medisch attest of het attest van de FOD Sociale Zekerheid",
+          "Bezorg het jaarlijks aan de dienst financiën",
+          "De correctie van €60 wordt toegepast"
+        ]
+      },
+      "fr": {
+        "title": "Sociale correctie DifTar (correction sociale de la facture déchets pour raisons médicales, Boutersem)",
+        "desc": "Boutersem accorde une correction sociale annuelle de 60 € aux habitants qui ont besoin de matériel d'incontinence, reçoivent des soins palliatifs à domicile, ont besoin de beaucoup de matériel de soins, ou ont l'intervention majorée et une allocation pour handicap.",
+        "deadline": "Remettez l'attestation chaque année.",
+        "amount": "60 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical récent (incontinence, soins palliatifs à domicile ou matériel de soins de longue durée)"
+          },
+          {
+            "type": "doc",
+            "label": "Ou : attestation du SPF Sécurité sociale d'une allocation pour handicap reconnu"
+          }
+        ],
+        "steps": [
+          "Demandez un certificat médical récent ou l'attestation du SPF Sécurité sociale",
+          "Remettez-le chaque année au service des finances",
+          "La correction de 60 € est appliquée"
+        ]
+      },
+      "de": {
+        "title": "Sociale correctie DifTar (Sozialkorrektur der Müllgebühr aus medizinischen Gründen, Boutersem)",
+        "desc": "Boutersem gewährt Einwohnern, die Inkontinenzmaterial brauchen, zu Hause palliativ versorgt werden, viel Pflegematerial brauchen oder die erhöhte Kostenerstattung plus eine Behindertenbeihilfe haben, eine jährliche Sozialkorrektur von 60 €.",
+        "deadline": "Reichen Sie die Bescheinigung jedes Jahr ein.",
+        "amount": "60 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aktuelle ärztliche Bescheinigung (Inkontinenz, palliative Hauspflege oder langfristiges Pflegematerial)"
+          },
+          {
+            "type": "doc",
+            "label": "Oder: Bescheinigung des FÖD Soziale Sicherheit über eine Beihilfe wegen anerkannter Behinderung"
+          }
+        ],
+        "steps": [
+          "Besorgen Sie eine aktuelle ärztliche Bescheinigung oder die Bescheinigung des FÖD Soziale Sicherheit",
+          "Reichen Sie sie jedes Jahr beim Finanzdienst ein",
+          "Die Korrektur von 60 € wird angewendet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.boutersem.be/sociale-correctie-op-het-gedifferentieerd-tarief-voor-afvalverwerking"
+      ],
+      "conditions": {
+        "en": [
+          "You are a resident of Boutersem.",
+          "You need incontinence material or are cared for palliatively at home, or you need large amounts of dressings and care material for a long-term treatment of more than 3 months (e.g. pressure sores, chronic wound care, tube feeding), shown by a recent medical certificate.",
+          "Or you have the increased reimbursement (verhoogde tegemoetkoming) and an allowance for a recognised disability from the FPS Social Security, shown by an FPS certificate; hand in the certificate every year."
+        ],
+        "nl": [
+          "Je bent inwoner van Boutersem.",
+          "Je hebt incontinentiemateriaal nodig of wordt thuis palliatief verzorgd, of je hebt grote hoeveelheden verbanden en verzorgingsmateriaal nodig voor een langdurige behandeling van meer dan 3 maanden (bv. decubituswonden, chronische wondverzorging, sondevoeding), blijkend uit een recent medisch attest.",
+          "Of je hebt recht op een verhoogde tegemoetkoming en ontvangt een uitkering wegens een erkende handicap van de FOD Sociale Zekerheid, blijkend uit een attest van de FOD; bezorg het attest jaarlijks."
+        ],
+        "fr": [
+          "Vous habitez Boutersem.",
+          "Vous avez besoin de matériel d'incontinence ou recevez des soins palliatifs à domicile, ou vous avez besoin de grandes quantités de pansements et de matériel de soins pour un traitement de plus de 3 mois (p. ex. escarres, soins de plaies chroniques, alimentation par sonde), attesté par un certificat médical récent.",
+          "Ou vous avez droit à l'intervention majorée et percevez une allocation pour handicap reconnu du SPF Sécurité sociale, attestée par le SPF ; remettez l'attestation chaque année."
+        ],
+        "de": [
+          "Sie sind Einwohner von Boutersem.",
+          "Sie brauchen Inkontinenzmaterial oder werden zu Hause palliativ versorgt, oder Sie brauchen große Mengen Verbände und Pflegematerial für eine Behandlung von mehr als 3 Monaten (z. B. Druckgeschwüre, chronische Wundversorgung, Sondenernährung), nachgewiesen durch eine aktuelle ärztliche Bescheinigung.",
+          "Oder Sie haben Anspruch auf die erhöhte Kostenerstattung und beziehen eine Beihilfe wegen anerkannter Behinderung vom FÖD Soziale Sicherheit, nachgewiesen durch eine FÖD-Bescheinigung; reichen Sie die Bescheinigung jedes Jahr ein."
+        ]
+      }
+    }
+  },
+  {
+    "id": 448,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "57093"
+    ],
+    "institution": "Commune de Brunehaut",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://brunehaut.be/primes/",
+    "content": {
+      "en": {
+        "title": "Prime langes lavables pour bébés (Washable Nappies Premium, Brunehaut)",
+        "desc": "Brunehaut gives 100 Brun€uros (local shop vouchers) per young child towards washable nappy kits or reusable changing items.",
+        "deadline": "Apply before the child is two and a half.",
+        "amount": "€100 in Brun€uros per child (doubled for twins)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of the purchase invoices marked 'paid'"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the birth certificate extract or the household composition"
+          },
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          }
+        ],
+        "steps": [
+          "Download the 2026 form and regulation from the commune's premiums page",
+          "Hand it in at office 15 of the town hall or e-mail it to mickael.haudrechy@commune-brunehaut.be with the documents",
+          "The college decides at the end of each half-year and pays in Brun€uros"
+        ]
+      },
+      "nl": {
+        "title": "Prime langes lavables pour bébés (premie wasbare luiers, Brunehaut)",
+        "desc": "Brunehaut geeft 100 Brun€uros (lokale waardebonnen) per jong kind voor kits wasbare luiers of herbruikbaar verzorgingsmateriaal.",
+        "deadline": "Aanvragen voor het kind twee en een half jaar is.",
+        "amount": "€100 in Brun€uros per kind (verdubbeld bij een tweeling)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van de aankoopfacturen met vermelding 'betaald'"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van het uittreksel uit de geboorteakte of de gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Download het formulier en reglement 2026 op de premiepagina van de gemeente",
+          "Geef het af in bureau 15 van het gemeentehuis of mail het met de documenten naar mickael.haudrechy@commune-brunehaut.be",
+          "Het college beslist op het einde van elk semester en betaalt in Brun€uros"
+        ]
+      },
+      "fr": {
+        "title": "Prime langes lavables pour bébés (Brunehaut)",
+        "desc": "Brunehaut accorde 100 Brun€uros (chèques commerces locaux) par enfant en bas âge pour l'achat de kits de langes lavables ou de composants réutilisables pour le change.",
+        "deadline": "Demande avant que l'enfant ait deux ans et demi.",
+        "amount": "100 € en Brun€uros par enfant (doublé pour des jumeaux)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie des factures d'achat portant la mention « acquittée » ou « payée »"
+          },
+          {
+            "type": "doc",
+            "label": "Copie de l'extrait d'acte de naissance ou de la composition de ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire et le règlement 2026 sur la page des primes de la commune",
+          "Déposez-le au bureau 15 de l'administration communale ou envoyez-le avec les documents à mickael.haudrechy@commune-brunehaut.be",
+          "Le Collège décide à chaque fin de semestre et verse la prime en Brun€uros"
+        ]
+      },
+      "de": {
+        "title": "Prime langes lavables pour bébés (Prämie für Stoffwindeln, Brunehaut)",
+        "desc": "Brunehaut gewährt 100 Brun€uros (Gutscheine für lokale Geschäfte) pro Kleinkind für Stoffwindel-Sets oder wiederverwendbares Wickelzubehör.",
+        "deadline": "Antrag, bevor das Kind zweieinhalb Jahre alt ist.",
+        "amount": "100 € in Brun€uros pro Kind (bei Zwillingen verdoppelt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie der Kaufrechnungen mit dem Vermerk „bezahlt“"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie des Geburtsurkundenauszugs oder der Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          }
+        ],
+        "steps": [
+          "Laden Sie Formular und Regelung 2026 von der Prämienseite der Gemeinde herunter",
+          "Geben Sie es in Büro 15 der Gemeindeverwaltung ab oder mailen Sie es mit den Unterlagen an mickael.haudrechy@commune-brunehaut.be",
+          "Das Kollegium entscheidet am Ende jedes Halbjahres und zahlt in Brun€uros"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://brunehaut.be/primes/",
+        "https://brunehaut.be/wp-content/uploads/2026/03/2026-Formulaires-prime-langes-lavables.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The child is domiciled in the commune of Brunehaut (7620 to 7624).",
+          "Invoices for washable nappy kits or reusable changing items, dated no more than three months before the birth; several invoices can be combined but only one application per child.",
+          "Apply by post or e-mail on the commune's form before the child is two and a half; paid within the budget, first come first served."
+        ],
+        "nl": [
+          "Het kind is gedomicilieerd in de gemeente Brunehaut (7620 tot 7624).",
+          "Facturen voor kits wasbare luiers of herbruikbaar verzorgingsmateriaal, hoogstens drie maanden vóór de geboorte gedateerd; meerdere facturen kunnen samen, maar één aanvraag per kind.",
+          "Aanvragen per post of e-mail met het formulier van de gemeente voor het kind twee en een half jaar is; uitbetaald binnen het budget, wie eerst komt eerst maalt."
+        ],
+        "fr": [
+          "L'enfant est domicilié sur le territoire de la Commune de Brunehaut (7620 à 7624).",
+          "Factures de kits de langes lavables ou de composants réutilisables, antérieures de trois mois au plus à la naissance ; plusieurs factures peuvent être cumulées mais une seule demande par enfant.",
+          "Demande par courrier ou e-mail sur le formulaire communal avant que l'enfant ait deux ans et demi ; dans la limite du budget, premier demandeur premier servi."
+        ],
+        "de": [
+          "Das Kind hat seinen Wohnsitz in der Gemeinde Brunehaut (7620 bis 7624).",
+          "Rechnungen für Stoffwindel-Sets oder wiederverwendbares Wickelzubehör, höchstens drei Monate vor der Geburt datiert; mehrere Rechnungen können kombiniert werden, aber nur ein Antrag pro Kind.",
+          "Antrag per Post oder E-Mail mit dem Formular der Gemeinde, bevor das Kind zweieinhalb Jahre alt ist; im Rahmen des Budgets, nach Eingangsreihenfolge."
+        ]
+      }
+    }
+  },
+  {
+    "id": 449,
+    "category": "health",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "57093"
+    ],
+    "institution": "Commune de Brunehaut",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://brunehaut.be/primes/",
+    "content": {
+      "en": {
+        "title": "Prime pour l'acquisition de protections hygiéniques menstruelles réutilisables (Reusable Menstrual Products Premium, Brunehaut)",
+        "desc": "Brunehaut refunds half the cost of reusable menstrual products (cups, period pants, washable pads and liners, sponges, reusable tampons), up to 50 Brun€uros, once every 3 years per user.",
+        "deadline": "Invoices at most 12 months old at the time of the application; renewable every 3 years.",
+        "amount": "50% of the invoices, up to €50 in Brun€uros",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of the purchase invoices with the household's address"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment"
+          },
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          }
+        ],
+        "steps": [
+          "Download the 2026 form and regulation from the commune's premiums page",
+          "Hand it in at office 15 of the town hall or e-mail it to mickael.haudrechy@commune-brunehaut.be with the documents",
+          "The premium is paid in Brun€uros"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour l'acquisition de protections hygiéniques menstruelles réutilisables (premie herbruikbare menstruatieproducten, Brunehaut)",
+        "desc": "Brunehaut betaalt de helft terug van herbruikbare menstruatieproducten (cups, menstruatieslips, wasbare maandverbanden en inlegkruisjes, sponsjes, herbruikbare tampons), tot 50 Brun€uros, eens per 3 jaar per gebruikster.",
+        "deadline": "Facturen hoogstens 12 maanden oud bij de aanvraag; om de 3 jaar hernieuwbaar.",
+        "amount": "50% van de facturen, tot €50 in Brun€uros",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van de aankoopfacturen met het adres van het gezin"
+          },
+          {
+            "type": "doc",
+            "label": "Betalingsbewijs"
+          },
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Download het formulier en reglement 2026 op de premiepagina van de gemeente",
+          "Geef het af in bureau 15 van het gemeentehuis of mail het met de documenten naar mickael.haudrechy@commune-brunehaut.be",
+          "De premie wordt in Brun€uros uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour l'acquisition de protections hygiéniques menstruelles réutilisables (Brunehaut)",
+        "desc": "Brunehaut rembourse la moitié du coût de protections menstruelles réutilisables (coupes, culottes menstruelles, serviettes et protège-slips lavables, éponges, tampons réutilisables), jusqu'à 50 Brun€uros, une fois tous les 3 ans par utilisatrice.",
+        "deadline": "Factures de 12 mois au plus à la date de la demande ; renouvelable tous les 3 ans.",
+        "amount": "50 % des factures, jusqu'à 50 € en Brun€uros",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie des factures d'achat avec l'adresse du ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire et le règlement 2026 sur la page des primes de la commune",
+          "Déposez-le au bureau 15 de l'administration communale ou envoyez-le avec les documents à mickael.haudrechy@commune-brunehaut.be",
+          "La prime est versée en Brun€uros"
+        ]
+      },
+      "de": {
+        "title": "Prime pour l'acquisition de protections hygiéniques menstruelles réutilisables (Prämie für wiederverwendbare Menstruationsprodukte, Brunehaut)",
+        "desc": "Brunehaut erstattet die Hälfte der Kosten wiederverwendbarer Menstruationsprodukte (Tassen, Periodenunterwäsche, waschbare Binden und Slipeinlagen, Schwämmchen, wiederverwendbare Tampons), bis zu 50 Brun€uros, einmal alle 3 Jahre pro Nutzerin.",
+        "deadline": "Rechnungen bei Antragstellung höchstens 12 Monate alt; alle 3 Jahre erneuerbar.",
+        "amount": "50 % der Rechnungen, bis zu 50 € in Brun€uros",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie der Kaufrechnungen mit der Adresse des Haushalts"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          }
+        ],
+        "steps": [
+          "Laden Sie Formular und Regelung 2026 von der Prämienseite der Gemeinde herunter",
+          "Geben Sie es in Büro 15 der Gemeindeverwaltung ab oder mailen Sie es mit den Unterlagen an mickael.haudrechy@commune-brunehaut.be",
+          "Die Prämie wird in Brun€uros ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://brunehaut.be/primes/",
+        "https://brunehaut.be/wp-content/uploads/2026/03/2026-Formulaires-prime-protections-menstruations.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The user, and her legal guardian if she is a minor, are registered in Brunehaut's population registers (registres de la population).",
+          "Reusable menstrual products bought new from 1 April 2025, on invoices at most 12 months old at the time of the application; online invoices must name a member of the household; each invoice counts once.",
+          "50% of the invoices, at most 50 Brun€uros, once per user per 3 years, within the available budget."
+        ],
+        "nl": [
+          "De gebruikster, en haar wettelijke voogd als ze minderjarig is, zijn ingeschreven in het bevolkingsregister van Brunehaut.",
+          "Herbruikbare menstruatieproducten nieuw gekocht vanaf 1 april 2025, op facturen van hoogstens 12 maanden oud bij de aanvraag; online facturen moeten een gezinslid vermelden; elke factuur telt één keer.",
+          "50% van de facturen, maximaal 50 Brun€uros, één keer per gebruikster per 3 jaar, binnen het beschikbare budget."
+        ],
+        "fr": [
+          "L'utilisatrice et son tuteur ou sa tutrice légal(e) sont dûment inscrits aux registres de la population de la Commune de Brunehaut.",
+          "Protections menstruelles réutilisables neuves achetées à partir du 1er avril 2025, sur des factures de 12 mois au plus à la date de la demande ; les factures internet doivent mentionner un membre du ménage ; chaque facture ne compte qu'une fois.",
+          "50 % des factures, 50 Brun€uros au plus, une fois par utilisatrice par période de 3 ans, dans la limite des crédits disponibles."
+        ],
+        "de": [
+          "Die Nutzerin und ihr gesetzlicher Vormund sind im Bevölkerungsregister von Brunehaut (registres de la population) eingetragen.",
+          "Wiederverwendbare Menstruationsprodukte, neu gekauft ab dem 1. April 2025, auf Rechnungen von höchstens 12 Monaten bei Antragstellung; Online-Rechnungen müssen ein Haushaltsmitglied nennen; jede Rechnung zählt einmal.",
+          "50 % der Rechnungen, höchstens 50 Brun€uros, einmal pro Nutzerin alle 3 Jahre, im Rahmen der verfügbaren Mittel."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Brunehaut's population register (registres de la population).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Brunehaut.",
+            "fr": "Pas pour vous : le règlement exige une inscription aux registres de la population de la Commune de Brunehaut.",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Brunehaut (registres de la population)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 450,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "45059"
+    ],
+    "institution": "Gemeente Brakel",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.brakel.be/subsidie-mindervaliden",
+    "content": {
+      "en": {
+        "title": "Subsidie mindervaliden (Allowance for Carers of a Person with a Disability, Brakel)",
+        "desc": "Brakel pays a yearly allowance to the mother or person who raises and cares for a person with a disability: €298 if cared for at home, €149 if in a specialised institution with special education and home at weekends and holidays.",
+        "deadline": "Apply in writing during the year the allowance is for.",
+        "amount": "€298 a year (cared for at home) or €149 a year (institution, home at weekends)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of increased child benefit (under 21) or of an integration and income-replacement allowance (21 and over)"
+          },
+          {
+            "type": "doc",
+            "label": "The commune's application form"
+          }
+        ],
+        "steps": [
+          "Fill in the commune's application form",
+          "Send it to the commune with the proof of increased child benefit or the integration and income-replacement allowance",
+          "The finance department pays the allowance"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie mindervaliden (Brakel)",
+        "desc": "Brakel geeft een jaarlijkse toelage aan de moeder of de persoon die de opvoeding en verzorging van een mindervalide op zich neemt: €298 bij thuisverzorging, €149 bij plaatsing in een gespecialiseerde instelling met aangepast onderwijs en thuisverzorging in weekends en verlof.",
+        "deadline": "Schriftelijk aanvragen in de loop van het jaar waarvoor de toelage geldt.",
+        "amount": "€298 per jaar (thuis verzorgd) of €149 per jaar (instelling, thuis in weekends)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van verhoogde kinderbijslag (onder 21) of van een integratie- en inkomensvervangende tegemoetkoming (vanaf 21)"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier van de gemeente"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier van de gemeente in",
+          "Bezorg het aan het gemeentebestuur met het bewijs van verhoogde kinderbijslag of de integratie- en inkomensvervangende tegemoetkoming",
+          "De financiële dienst betaalt de toelage uit"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie mindervaliden (allocation aux aidants d'une personne handicapée, Brakel)",
+        "desc": "Brakel verse une allocation annuelle à la mère ou à la personne qui élève et soigne une personne handicapée : 298 € si elle est soignée à domicile, 149 € si elle est placée en institution spécialisée avec enseignement adapté et soignée à domicile les week-ends et congés.",
+        "deadline": "Demande écrite au cours de l'année concernée.",
+        "amount": "298 € par an (soins à domicile) ou 149 € par an (institution, retour à domicile le week-end)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve des allocations familiales majorées (moins de 21 ans) ou d'une allocation d'intégration et de remplacement de revenus (21 ans et plus)"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande de la commune"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande de la commune",
+          "Envoyez-le à la commune avec la preuve des allocations familiales majorées ou de l'allocation d'intégration et de remplacement de revenus",
+          "Le service financier verse l'allocation"
+        ]
+      },
+      "de": {
+        "title": "Subsidie mindervaliden (Zulage für Betreuende einer Person mit Behinderung, Brakel)",
+        "desc": "Brakel zahlt der Mutter oder der Person, die eine Person mit Behinderung erzieht und pflegt, eine jährliche Zulage: 298 € bei Pflege zu Hause, 149 € bei Unterbringung in einer Facheinrichtung mit angepasstem Unterricht und Pflege zu Hause an Wochenenden und in Ferien.",
+        "deadline": "Schriftlicher Antrag im Laufe des betreffenden Jahres.",
+        "amount": "298 € pro Jahr (Pflege zu Hause) oder 149 € pro Jahr (Einrichtung, am Wochenende zu Hause)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis des erhöhten Kindergeldes (unter 21) oder einer Eingliederungs- und Einkommensersatzbeihilfe (ab 21)"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular der Gemeinde"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular der Gemeinde aus",
+          "Reichen Sie es mit dem Nachweis des erhöhten Kindergeldes oder der Eingliederungs- und Einkommensersatzbeihilfe bei der Gemeinde ein",
+          "Der Finanzdienst zahlt die Zulage aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.brakel.be/subsidie-mindervaliden"
+      ],
+      "conditions": {
+        "en": [
+          "You (the mother or the person raising and caring for the person with a disability) have lived in Brakel for the whole of the year before the year the allowance is for.",
+          "Under 21: the person with a disability receives increased child benefit; 21 and over: an integration and income-replacement allowance, excluding all other social benefits.",
+          "The situation on 1 January counts; apply in writing during the year on the commune's form."
+        ],
+        "nl": [
+          "Je (de moeder of de persoon die de opvoeding en verzorging van de mindervalide op zich neemt) had het hele jaar vóór het jaar van de toelage je woon- en verblijfplaats in de gemeente.",
+          "Onder 21 jaar: de mindervalide geniet verhoogde kinderbijslag; vanaf 21 jaar: een integratie- en inkomensvervangende tegemoetkoming, met uitsluiting van alle andere sociale uitkeringen.",
+          "De toestand op 1 januari telt; schriftelijk aanvragen in de loop van het jaar met het formulier van de gemeente."
+        ],
+        "fr": [
+          "Vous (la mère ou la personne qui élève et soigne la personne handicapée) avez habité la commune durant toute l'année précédant l'année de l'allocation.",
+          "Moins de 21 ans : la personne handicapée perçoit des allocations familiales majorées ; 21 ans et plus : une allocation d'intégration et de remplacement de revenus, à l'exclusion de toute autre allocation sociale.",
+          "La situation au 1er janvier compte ; demande écrite au cours de l'année avec le formulaire communal."
+        ],
+        "de": [
+          "Sie (die Mutter oder die Person, die die Person mit Behinderung erzieht und pflegt) hatten im ganzen Jahr vor dem Jahr der Zulage Ihren Wohnsitz in der Gemeinde.",
+          "Unter 21 Jahren: Die Person mit Behinderung erhält erhöhtes Kindergeld; ab 21 Jahren: eine Eingliederungs- und Einkommensersatzbeihilfe, unter Ausschluss aller anderen Sozialleistungen.",
+          "Maßgeblich ist die Lage am 1. Januar; schriftlicher Antrag im Laufe des Jahres mit dem Formular der Gemeinde."
+        ]
+      }
+    }
+  },
+  {
+    "id": 451,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "45059"
+    ],
+    "institution": "Gemeente Brakel",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.brakel.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Brakel)",
+        "desc": "Brakel pays €250 a year to an adult in need of care who lives at home in Brakel and is helped by a carer, as support for that carer.",
+        "deadline": "Apply by 1 April of the year after the year of care.",
+        "amount": "€250 per approved application (once per reference year)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Official certificate of care need: BelRAI score of at least 5/12 for ADL and IADL or 12/30 on the full screener, or FPS Social Security certificate of 12 to 14 points (a GP certificate is not valid)"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate from the care fund (zorgkas) that the Flemish care insurance pays no allowance"
+          },
+          {
+            "type": "doc",
+            "label": "Application form signed by the person in need of care and the carer"
+          }
+        ],
+        "steps": [
+          "Get the certificates from the health fund's social service or a recognised family-care service",
+          "Fill in and sign the application form together with the carer and send it to the commune by 1 April",
+          "The college decides; approved applications are paid by 1 July to the person in need of care"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Brakel)",
+        "desc": "Brakel betaalt €250 per jaar aan een meerderjarige zorgbehoevende die thuis in Brakel woont en geholpen wordt door een mantelzorger, als ondersteuning van die mantelzorger.",
+        "deadline": "Aanvragen uiterlijk 1 april van het jaar na het referentiejaar.",
+        "amount": "€250 per goedgekeurde aanvraag (eenmaal per referentiejaar)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Officieel attest van zorgbehoefte: BelRAI-score van minstens 5/12 voor ADL en IADL of 12/30 op de hele screener, of attest FOD Sociale Zekerheid van 12 tot 14 punten (attest van de huisarts is niet geldig)"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de zorgkas dat er vanuit de Vlaamse zorgverzekering geen tussenkomst is"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier ondertekend door zorgbehoevende en mantelzorger"
+          }
+        ],
+        "steps": [
+          "Vraag de attesten aan bij de sociale dienst van het ziekenfonds of een erkende dienst gezinszorg",
+          "Vul het aanvraagformulier samen met de mantelzorger in, onderteken en bezorg het vóór 1 april aan de gemeente",
+          "Het college beslist; goedgekeurde aanvragen worden vóór 1 juli aan de zorgbehoevende uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Brakel)",
+        "desc": "Brakel verse 250 € par an à une personne majeure dépendante vivant à domicile à Brakel et aidée par un aidant proche, pour soutenir cet aidant.",
+        "deadline": "Demande au plus tard le 1er avril de l'année qui suit l'année de référence.",
+        "amount": "250 € par demande approuvée (une fois par année de référence)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation officielle de dépendance : score BelRAI d'au moins 5/12 pour AVQ et AIVQ ou 12/30 sur le screener complet, ou attestation du SPF Sécurité sociale de 12 à 14 points (une attestation du médecin généraliste n'est pas valable)"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de la caisse de soins indiquant qu'aucune intervention de l'assurance soins flamande n'est versée"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire signé par la personne dépendante et l'aidant"
+          }
+        ],
+        "steps": [
+          "Demandez les attestations au service social de la mutualité ou à un service d'aide familiale agréé",
+          "Remplissez et signez le formulaire avec l'aidant et envoyez-le à la commune avant le 1er avril",
+          "Le collège décide ; les demandes approuvées sont payées avant le 1er juillet à la personne dépendante"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Brakel)",
+        "desc": "Brakel zahlt einer volljährigen pflegebedürftigen Person, die zu Hause in Brakel wohnt und von einer pflegenden Person unterstützt wird, 250 € pro Jahr zur Unterstützung dieser Person.",
+        "deadline": "Antrag bis spätestens 1. April des Jahres nach dem Bezugsjahr.",
+        "amount": "250 € pro genehmigtem Antrag (einmal pro Bezugsjahr)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Offizielle Bescheinigung der Pflegebedürftigkeit: BelRAI-Wert von mindestens 5/12 für ADL und IADL oder 12/30 auf dem gesamten Screener, oder Bescheinigung des FÖD Soziale Sicherheit über 12 bis 14 Punkte (eine Hausarztbescheinigung ist nicht gültig)"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Pflegekasse, dass die flämische Pflegeversicherung keine Leistung zahlt"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular, unterschrieben von der pflegebedürftigen und der pflegenden Person"
+          }
+        ],
+        "steps": [
+          "Besorgen Sie die Bescheinigungen beim Sozialdienst der Krankenkasse oder einem anerkannten Familienhilfedienst",
+          "Füllen Sie das Formular mit der pflegenden Person aus, unterschreiben Sie es und reichen Sie es vor dem 1. April bei der Gemeinde ein",
+          "Das Kollegium entscheidet; genehmigte Anträge werden vor dem 1. Juli an die pflegebedürftige Person ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.brakel.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person in need of care is registered in Brakel's population register (bevolkingsregister), lives at home at an address in Brakel and is at least 18.",
+          "BelRAI score of at least 5/12 for ADL and IADL or at least 12/30 on the full screener, or an FPS Social Security certificate of 12 to 14 points; no right to (increased) Groeipakket or a personal assistance budget, and not eligible for the care budget for people with a severe care need.",
+          "The carer is an adult who helps voluntarily, regularly and not professionally; apply by 1 April of the following year, one application per person in need of care per year."
+        ],
+        "nl": [
+          "De zorgbehoevende is ingeschreven in het bevolkingsregister van Brakel, verblijft thuis op een adres in Brakel en is minstens 18 jaar.",
+          "BelRAI-score van minstens 5/12 voor ADL en IADL of minstens 12/30 op de hele screener, of een attest van de FOD Sociale Zekerheid van 12 tot 14 punten; geen recht op (verhoogd) groeipakket of persoonlijke-assistentiebudget, en geen recht op het zorgbudget voor zwaar zorgbehoevenden.",
+          "De mantelzorger is meerderjarig en helpt vrijwillig, regelmatig en niet beroepsmatig; aanvragen uiterlijk 1 april van het volgende jaar, één aanvraag per zorgbehoevende per jaar."
+        ],
+        "fr": [
+          "La personne dépendante est inscrite au registre de la population de Brakel (bevolkingsregister), vit à domicile à une adresse à Brakel et a au moins 18 ans.",
+          "Score BelRAI d'au moins 5/12 pour AVQ et AIVQ ou d'au moins 12/30 sur le screener complet, ou attestation du SPF Sécurité sociale de 12 à 14 points ; pas de droit au Groeipakket (majoré) ni au budget d'assistance personnelle, et pas de droit au budget de soins pour personnes fortement dépendantes.",
+          "L'aidant est majeur et aide volontairement, régulièrement et non professionnellement ; demande au plus tard le 1er avril de l'année suivante, une demande par personne dépendante et par an."
+        ],
+        "de": [
+          "Die pflegebedürftige Person ist im Bevölkerungsregister von Brakel (bevolkingsregister) eingetragen, wohnt zu Hause an einer Adresse in Brakel und ist mindestens 18 Jahre alt.",
+          "BelRAI-Wert von mindestens 5/12 für ADL und IADL oder mindestens 12/30 auf dem gesamten Screener, oder eine Bescheinigung des FÖD Soziale Sicherheit über 12 bis 14 Punkte; kein Anspruch auf (erhöhtes) Groeipakket oder persönliches Assistenzbudget und kein Anspruch auf das Pflegebudget für schwer Pflegebedürftige.",
+          "Die pflegende Person ist volljährig und hilft freiwillig, regelmäßig und nicht beruflich; Antrag bis 1. April des Folgejahres, ein Antrag pro pflegebedürftiger Person und Jahr."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Brakel's population register (bevolkingsregister).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Brakel.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population de Brakel (bevolkingsregister).",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Brakel (bevolkingsregister)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 452,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "45059"
+    ],
+    "institution": "Gemeente Brakel",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.brakel.be/subsidie-voor-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Subsidie voor herbruikbare luiers (Washable Nappy Subsidy, Brakel)",
+        "desc": "Brakel pays half the purchase or rental price of a set of washable nappies, up to €100 per child.",
+        "deadline": "Apply before the child's third birthday.",
+        "amount": "50% of the invoice, up to €100 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Purchase or rental receipt in your name, with the price"
+          },
+          {
+            "type": "doc",
+            "label": "Application form"
+          }
+        ],
+        "steps": [
+          "Fill in the application form for the washable nappy subsidy",
+          "Send it with the receipt to the environment department",
+          "The subsidy is paid after approval"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie voor herbruikbare luiers (Brakel)",
+        "desc": "Brakel betaalt de helft van de aankoop- of huurprijs van een pakket herbruikbare luiers terug, tot €100 per kind.",
+        "deadline": "Aanvragen vóór de derde verjaardag van het kind.",
+        "amount": "50% van de factuur, tot €100 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aankoop- of huurbewijs op naam, met vermelding van de factuurprijs"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier subsidie herbruikbare luiers in",
+          "Bezorg het met het bewijs aan de milieudienst",
+          "De subsidie wordt na goedkeuring uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie voor herbruikbare luiers (subside pour langes lavables, Brakel)",
+        "desc": "Brakel rembourse la moitié du prix d'achat ou de location d'un ensemble de langes lavables, jusqu'à 100 € par enfant.",
+        "deadline": "Demande avant le troisième anniversaire de l'enfant.",
+        "amount": "50 % de la facture, jusqu'à 100 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve d'achat ou de location à votre nom, avec le prix"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande de subside pour langes lavables",
+          "Envoyez-le avec la preuve au service environnement",
+          "Le subside est versé après approbation"
+        ]
+      },
+      "de": {
+        "title": "Subsidie voor herbruikbare luiers (Zuschuss für Stoffwindeln, Brakel)",
+        "desc": "Brakel erstattet die Hälfte des Kauf- oder Mietpreises eines Stoffwindel-Pakets, bis zu 100 € pro Kind.",
+        "deadline": "Antrag vor dem dritten Geburtstag des Kindes.",
+        "amount": "50 % der Rechnung, bis zu 100 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kauf- oder Mietbeleg auf Ihren Namen mit Preisangabe"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular für den Stoffwindel-Zuschuss aus",
+          "Reichen Sie es mit dem Beleg beim Umweltdienst ein",
+          "Der Zuschuss wird nach Genehmigung ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.brakel.be/subsidie-voor-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "Families and single parents registered in the commune's population register (bevolkingsregister), with children up to three.",
+          "The father, mother or legal guardian applies with a purchase or rental receipt in their name showing the price, for a set of shaped washable nappies and accessories.",
+          "Half the invoice price, at most €100 per child; apply to the environment department before the child's third birthday."
+        ],
+        "nl": [
+          "Gezinnen en alleenstaanden, ingeschreven in het gemeentelijk bevolkingsregister, met kinderen tot drie jaar.",
+          "De vader, moeder of wettelijke voogd vraagt aan met een aankoop- of huurbewijs op naam met de factuurprijs, voor een pakket voorgevormde herbruikbare luiers met benodigdheden.",
+          "De helft van de factuurprijs, maximaal €100 per kind; aanvragen bij de milieudienst vóór de derde verjaardag van het kind."
+        ],
+        "fr": [
+          "Familles et parents seuls inscrits au registre de la population de la commune (bevolkingsregister), avec des enfants de trois ans au plus.",
+          "Le père, la mère ou le tuteur légal introduit la demande avec une preuve d'achat ou de location à son nom indiquant le prix, pour un ensemble de langes lavables préformés et accessoires.",
+          "La moitié du prix facturé, 100 € au plus par enfant ; demande au service environnement avant le troisième anniversaire de l'enfant."
+        ],
+        "de": [
+          "Familien und Alleinerziehende, eingetragen im Bevölkerungsregister der Gemeinde (bevolkingsregister), mit Kindern bis drei Jahre.",
+          "Vater, Mutter oder Vormund beantragt mit einem Kauf- oder Mietbeleg auf eigenen Namen und Preisangabe, für ein Paket vorgeformter Stoffwindeln mit Zubehör.",
+          "Die Hälfte des Rechnungsbetrags, höchstens 100 € pro Kind; Antrag beim Umweltdienst vor dem dritten Geburtstag des Kindes."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Brakel's population register (bevolkingsregister).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in het bevolkingsregister van Brakel.",
+            "fr": "Pas pour vous : le règlement exige une inscription au registre de la population de Brakel (bevolkingsregister).",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung im Bevölkerungsregister von Brakel (bevolkingsregister)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 453,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11008"
+    ],
+    "institution": "Gemeente Brasschaat",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.brasschaat.be/hulp-en-zorg/toelagen/sociaal-medische-toelage",
+    "content": {
+      "en": {
+        "title": "Sociaal medische toelage (Social-Medical Allowance, Brasschaat)",
+        "desc": "Brasschaat pays €250 a year to adults with reduced self-reliance or incontinence due to illness who have the increased reimbursement from their health fund.",
+        "deadline": "Apply between 1 January and 30 September.",
+        "amount": "€250 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "FPS Social Security certificate of at least 9 points reduced self-reliance, or the commune's medical certificate on incontinence filled in by a doctor"
+          },
+          {
+            "type": "doc",
+            "label": "Health-fund sticker or certificate"
+          },
+          {
+            "type": "doc",
+            "label": "Care-fund certificate that you do not get the care budget for people with a severe care need"
+          },
+          {
+            "type": "id",
+            "label": "Copy of both sides of your identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of residence"
+          }
+        ],
+        "steps": [
+          "Read the regulation first",
+          "Apply online with the attachments, or make an appointment to apply on paper",
+          "The Pensions and Allowances department handles your application"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal medische toelage (Brasschaat)",
+        "desc": "Brasschaat betaalt €250 per jaar aan volwassenen met een verminderde zelfredzaamheid of incontinentie door ziekte die recht hebben op de verhoogde tegemoetkoming bij hun ziekenfonds.",
+        "deadline": "Aanvragen tussen 1 januari en 30 september.",
+        "amount": "€250 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest FOD Sociale Zekerheid van minstens 9 punten verminderde zelfredzaamheid, of het medisch attest van de gemeente over incontinentie ingevuld door een dokter"
+          },
+          {
+            "type": "doc",
+            "label": "Kleefzegel of attest ziekenfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de zorgkas dat je geen zorgbudget voor zwaar zorgbehoevenden krijgt"
+          },
+          {
+            "type": "id",
+            "label": "Kopie van voor- en achterzijde van je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van woonst"
+          }
+        ],
+        "steps": [
+          "Lees eerst het reglement",
+          "Vraag digitaal aan met de bijlagen, of maak een afspraak om op papier aan te vragen",
+          "De dienst Pensioenen en Tegemoetkomingen verwerkt je aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal medische toelage (allocation socio-médicale, Brasschaat)",
+        "desc": "Brasschaat verse 250 € par an aux adultes à autonomie réduite ou incontinents à cause d'une maladie qui ont droit à l'intervention majorée de leur mutualité.",
+        "deadline": "Demande entre le 1er janvier et le 30 septembre.",
+        "amount": "250 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du SPF Sécurité sociale d'au moins 9 points de réduction d'autonomie, ou le certificat médical de la commune sur l'incontinence rempli par un médecin"
+          },
+          {
+            "type": "doc",
+            "label": "Vignette ou attestation de la mutualité"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de la caisse de soins indiquant que vous ne recevez pas le budget de soins pour personnes fortement dépendantes"
+          },
+          {
+            "type": "id",
+            "label": "Copie recto verso de votre carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de résidence"
+          }
+        ],
+        "steps": [
+          "Lisez d'abord le règlement",
+          "Faites la demande en ligne avec les annexes, ou prenez rendez-vous pour une demande sur papier",
+          "Le service Pensions et Allocations traite votre demande"
+        ]
+      },
+      "de": {
+        "title": "Sociaal medische toelage (sozialmedizinische Zulage, Brasschaat)",
+        "desc": "Brasschaat zahlt Erwachsenen mit verminderter Selbständigkeit oder krankheitsbedingter Inkontinenz, die Anspruch auf die erhöhte Kostenerstattung ihrer Krankenkasse haben, 250 € pro Jahr.",
+        "deadline": "Antrag zwischen dem 1. Januar und dem 30. September.",
+        "amount": "250 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD Soziale Sicherheit über mindestens 9 Punkte verminderte Selbständigkeit, oder die ärztliche Bescheinigung der Gemeinde über Inkontinenz"
+          },
+          {
+            "type": "doc",
+            "label": "Vignette oder Bescheinigung der Krankenkasse"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Pflegekasse, dass Sie kein Pflegebudget für schwer Pflegebedürftige erhalten"
+          },
+          {
+            "type": "id",
+            "label": "Kopie der Vorder- und Rückseite Ihres Personalausweises"
+          },
+          {
+            "type": "doc",
+            "label": "Wohnsitznachweis"
+          }
+        ],
+        "steps": [
+          "Lesen Sie zuerst die Regelung",
+          "Beantragen Sie online mit den Anlagen oder vereinbaren Sie einen Termin für einen Antrag auf Papier",
+          "Der Dienst Renten und Beihilfen bearbeitet Ihren Antrag"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.brasschaat.be/hulp-en-zorg/toelagen/sociaal-medische-toelage"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Brasschaat, are 18 or over on 30 September of the year and do not live in a care facility.",
+          "You have at least 9 points of reduced self-reliance (FPS Social Security certificate) or incontinence due to an illness (medical certificate).",
+          "You have the increased reimbursement (verhoogde tegemoetkoming) from your health fund and do not receive the care budget for people with a severe care need; apply between 1 January and 30 September."
+        ],
+        "nl": [
+          "Je woont in Brasschaat, bent 18 jaar of ouder op 30 september van het aanvraagjaar en verblijft niet in een voorziening.",
+          "Je hebt minstens 9 punten verminderde zelfredzaamheid (attest FOD Sociale Zekerheid) of incontinentieproblemen ten gevolge van een ziektebeeld (medisch attest).",
+          "Je hebt recht op de verhoogde tegemoetkoming bij een ziekenfonds en geniet niet van het zorgbudget voor zwaar zorgbehoevenden; aanvragen tussen 1 januari en 30 september."
+        ],
+        "fr": [
+          "Vous habitez Brasschaat, avez 18 ans ou plus au 30 septembre de l'année de la demande et ne vivez pas en institution.",
+          "Vous avez au moins 9 points de réduction d'autonomie (attestation du SPF Sécurité sociale) ou une incontinence due à une maladie (certificat médical).",
+          "Vous avez droit à l'intervention majorée de votre mutualité et ne recevez pas le budget de soins pour personnes fortement dépendantes ; demande entre le 1er janvier et le 30 septembre."
+        ],
+        "de": [
+          "Sie wohnen in Brasschaat, sind am 30. September des Antragsjahres mindestens 18 Jahre alt und leben nicht in einer Einrichtung.",
+          "Sie haben mindestens 9 Punkte verminderte Selbständigkeit (Bescheinigung des FÖD Soziale Sicherheit) oder krankheitsbedingte Inkontinenz (ärztliche Bescheinigung).",
+          "Sie haben Anspruch auf die erhöhte Kostenerstattung Ihrer Krankenkasse und erhalten kein Pflegebudget für schwer Pflegebedürftige; Antrag zwischen dem 1. Januar und dem 30. September."
+        ]
+      }
+    }
+  },
+  {
+    "id": 454,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11008"
+    ],
+    "institution": "Gemeente Brasschaat",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.brasschaat.be/hulp-en-zorg/toelagen/sociaal-pedagogische-toelage",
+    "content": {
+      "en": {
+        "title": "Sociaal pedagogische toelage (Allowance for Parents of a Child with a Disability, Brasschaat)",
+        "desc": "Brasschaat pays €250 a year to parents or guardians who care at home for a child with a disability and have the increased reimbursement from the health fund.",
+        "deadline": "Apply between 1 January and 30 September.",
+        "amount": "€250 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "FPS Social Security certificate of at least 4 points in pillar 1, or the commune's medical certificate on incontinence filled in by a doctor"
+          },
+          {
+            "type": "doc",
+            "label": "The child's health-fund sticker or certificate of increased reimbursement"
+          },
+          {
+            "type": "doc",
+            "label": "Care-fund certificate that the child does not get the care budget for people with a severe care need"
+          },
+          {
+            "type": "id",
+            "label": "Copy of both sides of your identity card (parent/guardian)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of residence and of household composition"
+          }
+        ],
+        "steps": [
+          "Read the regulation first",
+          "Apply online with the attachments, or make an appointment to apply on paper",
+          "The Pensions and Allowances department handles your application"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal pedagogische toelage (Brasschaat)",
+        "desc": "Brasschaat betaalt €250 per jaar aan ouders of voogden die thuis een kind met een handicap verzorgen en recht hebben op de verhoogde tegemoetkoming bij het ziekenfonds.",
+        "deadline": "Aanvragen tussen 1 januari en 30 september.",
+        "amount": "€250 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest FOD Sociale Zekerheid van minstens 4 punten in pijler 1, of het medisch attest van de gemeente over incontinentie ingevuld door een dokter"
+          },
+          {
+            "type": "doc",
+            "label": "Kleefzegel of attest verhoogde tegemoetkoming ziekenfonds van het kind"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de zorgkas dat het kind geen zorgbudget voor zwaar zorgbehoevenden krijgt"
+          },
+          {
+            "type": "id",
+            "label": "Kopie van voor- en achterzijde van je identiteitskaart (ouder/voogd)"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van woonst en bewijs van gezinssamenstelling"
+          }
+        ],
+        "steps": [
+          "Lees eerst het reglement",
+          "Vraag digitaal aan met de bijlagen, of maak een afspraak om op papier aan te vragen",
+          "De dienst Pensioenen en Tegemoetkomingen verwerkt je aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal pedagogische toelage (allocation socio-pédagogique, Brasschaat)",
+        "desc": "Brasschaat verse 250 € par an aux parents ou tuteurs qui soignent à domicile un enfant handicapé et ont droit à l'intervention majorée de la mutualité.",
+        "deadline": "Demande entre le 1er janvier et le 30 septembre.",
+        "amount": "250 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du SPF Sécurité sociale d'au moins 4 points au pilier 1, ou le certificat médical de la commune sur l'incontinence rempli par un médecin"
+          },
+          {
+            "type": "doc",
+            "label": "Vignette ou attestation d'intervention majorée de la mutualité de l'enfant"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de la caisse de soins indiquant que l'enfant ne reçoit pas le budget de soins pour personnes fortement dépendantes"
+          },
+          {
+            "type": "id",
+            "label": "Copie recto verso de votre carte d'identité (parent/tuteur)"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de résidence et composition de ménage"
+          }
+        ],
+        "steps": [
+          "Lisez d'abord le règlement",
+          "Faites la demande en ligne avec les annexes, ou prenez rendez-vous pour une demande sur papier",
+          "Le service Pensions et Allocations traite votre demande"
+        ]
+      },
+      "de": {
+        "title": "Sociaal pedagogische toelage (sozialpädagogische Zulage, Brasschaat)",
+        "desc": "Brasschaat zahlt Eltern oder Vormündern, die zu Hause ein Kind mit Behinderung pflegen und Anspruch auf die erhöhte Kostenerstattung der Krankenkasse haben, 250 € pro Jahr.",
+        "deadline": "Antrag zwischen dem 1. Januar und dem 30. September.",
+        "amount": "250 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD Soziale Sicherheit über mindestens 4 Punkte in Säule 1, oder die ärztliche Bescheinigung der Gemeinde über Inkontinenz"
+          },
+          {
+            "type": "doc",
+            "label": "Vignette oder Bescheinigung der erhöhten Kostenerstattung der Krankenkasse des Kindes"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Pflegekasse, dass das Kind kein Pflegebudget für schwer Pflegebedürftige erhält"
+          },
+          {
+            "type": "id",
+            "label": "Kopie der Vorder- und Rückseite Ihres Personalausweises (Elternteil/Vormund)"
+          },
+          {
+            "type": "doc",
+            "label": "Wohnsitznachweis und Nachweis der Haushaltszusammensetzung"
+          }
+        ],
+        "steps": [
+          "Lesen Sie zuerst die Regelung",
+          "Beantragen Sie online mit den Anlagen oder vereinbaren Sie einen Termin für einen Antrag auf Papier",
+          "Der Dienst Renten und Beihilfen bearbeitet Ihren Antrag"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.brasschaat.be/hulp-en-zorg/toelagen/sociaal-pedagogische-toelage"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Brasschaat; your child is at most 21 on 30 September of the year, is cared for at home and does not stay in a care facility.",
+          "The child has at least 4 points of reduced self-reliance in pillar 1 (FPS Social Security certificate) or incontinence due to an illness (medical certificate).",
+          "You have the increased reimbursement (verhoogde tegemoetkoming) from a health fund and the child does not receive the care budget for people with a severe care need; apply between 1 January and 30 September."
+        ],
+        "nl": [
+          "Je woont in Brasschaat; je kind is niet ouder dan 21 jaar op 30 september van het aanvraagjaar, wordt thuis verzorgd en verblijft niet in een voorziening.",
+          "Het kind heeft minstens 4 punten verminderde zelfredzaamheid in pijler 1 (attest FOD Sociale Zekerheid) of incontinentieproblemen ten gevolge van een ziektebeeld (medisch attest).",
+          "Je hebt recht op de verhoogde tegemoetkoming bij een ziekenfonds en het kind geniet niet van een zorgbudget voor zwaar zorgbehoevenden; aanvragen tussen 1 januari en 30 september."
+        ],
+        "fr": [
+          "Vous habitez Brasschaat ; votre enfant a 21 ans au plus au 30 septembre de l'année, est soigné à domicile et ne vit pas en institution.",
+          "L'enfant a au moins 4 points de réduction d'autonomie au pilier 1 (attestation du SPF Sécurité sociale) ou une incontinence due à une maladie (certificat médical).",
+          "Vous avez droit à l'intervention majorée d'une mutualité et l'enfant ne reçoit pas le budget de soins pour personnes fortement dépendantes ; demande entre le 1er janvier et le 30 septembre."
+        ],
+        "de": [
+          "Sie wohnen in Brasschaat; Ihr Kind ist am 30. September des Jahres höchstens 21 Jahre alt, wird zu Hause gepflegt und lebt nicht in einer Einrichtung.",
+          "Das Kind hat mindestens 4 Punkte verminderte Selbständigkeit in Säule 1 (Bescheinigung des FÖD Soziale Sicherheit) oder krankheitsbedingte Inkontinenz (ärztliche Bescheinigung).",
+          "Sie haben Anspruch auf die erhöhte Kostenerstattung einer Krankenkasse und das Kind erhält kein Pflegebudget für schwer Pflegebedürftige; Antrag zwischen dem 1. Januar und dem 30. September."
+        ]
+      }
+    }
+  },
+  {
+    "id": 455,
+    "category": "housing",
+    "situations": [
+      "health-issue",
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11008"
+    ],
+    "institution": "Gemeente Brasschaat",
+    "verified": "10 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.brasschaat.be/hulp-en-zorg/senioren/woningaanpassing-aanvullende-premie",
+    "content": {
+      "en": {
+        "title": "Woningaanpassing, aanvullende premie (Home Adaptation Top-Up, Brasschaat)",
+        "desc": "If you adapted your home for an older person or a person with a disability living with you and got a grant from Wonen Vlaanderen or the VAPH, Brasschaat adds 25% of that grant, up to €625 per home.",
+        "deadline": "No fixed deadline on the page; apply once the VAPH or Wonen Vlaanderen grant is awarded.",
+        "amount": "25% of the VAPH or Wonen Vlaanderen grant, up to €625 per home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Letter from Wonen Vlaanderen or the VAPH awarding the adaptation grant"
+          }
+        ],
+        "steps": [
+          "Get the award letter from Wonen Vlaanderen or the VAPH",
+          "E-mail your request with the letter to boekhouding@brasschaat.be, or make an appointment on +32 3 650 29 30",
+          "The commune pays 25% of the awarded grant, up to €625"
+        ]
+      },
+      "nl": {
+        "title": "Woningaanpassing, aanvullende premie (Brasschaat)",
+        "desc": "Heb je je woning aangepast aan een inwonende bejaarde of persoon met een handicap en kreeg je daarvoor een tussenkomst van Wonen Vlaanderen of het VAPH, dan legt Brasschaat 25% van die premie bij, tot €625 per woning.",
+        "deadline": "Geen vaste termijn op de pagina; aanvragen zodra de premie van het VAPH of Wonen Vlaanderen is toegekend.",
+        "amount": "25% van de premie van het VAPH of Wonen Vlaanderen, tot €625 per woning",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Brief van Wonen Vlaanderen of het VAPH met toekenning van de aanpassingspremie"
+          }
+        ],
+        "steps": [
+          "Zorg voor de toekenningsbrief van Wonen Vlaanderen of het VAPH",
+          "Mail je aanvraag met de brief naar boekhouding@brasschaat.be, of maak een afspraak op +32 3 650 29 30",
+          "De gemeente betaalt 25% van de toegekende premie, tot €625"
+        ]
+      },
+      "fr": {
+        "title": "Woningaanpassing, aanvullende premie (prime complémentaire d'adaptation du logement, Brasschaat)",
+        "desc": "Si vous avez adapté votre logement à une personne âgée ou handicapée qui y vit et avez reçu pour cela une intervention de Wonen Vlaanderen ou du VAPH, Brasschaat ajoute 25 % de cette prime, jusqu'à 625 € par logement.",
+        "deadline": "Pas de délai fixe sur la page ; demande dès l'octroi de la prime du VAPH ou de Wonen Vlaanderen.",
+        "amount": "25 % de la prime du VAPH ou de Wonen Vlaanderen, jusqu'à 625 € par logement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Lettre de Wonen Vlaanderen ou du VAPH accordant la prime d'adaptation"
+          }
+        ],
+        "steps": [
+          "Procurez-vous la lettre d'octroi de Wonen Vlaanderen ou du VAPH",
+          "Envoyez votre demande avec la lettre à boekhouding@brasschaat.be, ou prenez rendez-vous au +32 3 650 29 30",
+          "La commune verse 25 % de la prime accordée, jusqu'à 625 €"
+        ]
+      },
+      "de": {
+        "title": "Woningaanpassing, aanvullende premie (ergänzende Prämie für Wohnungsanpassung, Brasschaat)",
+        "desc": "Wenn Sie Ihre Wohnung an eine mitwohnende ältere Person oder Person mit Behinderung angepasst und dafür einen Zuschuss von Wonen Vlaanderen oder dem VAPH erhalten haben, legt Brasschaat 25 % dieses Zuschusses drauf, bis zu 625 € pro Wohnung.",
+        "deadline": "Keine feste Frist auf der Seite; Antrag, sobald der Zuschuss des VAPH oder von Wonen Vlaanderen bewilligt ist.",
+        "amount": "25 % des Zuschusses des VAPH oder von Wonen Vlaanderen, bis zu 625 € pro Wohnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Schreiben von Wonen Vlaanderen oder dem VAPH über die Bewilligung des Anpassungszuschusses"
+          }
+        ],
+        "steps": [
+          "Besorgen Sie das Bewilligungsschreiben von Wonen Vlaanderen oder dem VAPH",
+          "Mailen Sie Ihren Antrag mit dem Schreiben an boekhouding@brasschaat.be oder vereinbaren Sie einen Termin unter +32 3 650 29 30",
+          "Die Gemeinde zahlt 25 % des bewilligten Zuschusses, bis zu 625 €"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "10 Nov 2026",
+      "source_url": [
+        "https://www.brasschaat.be/hulp-en-zorg/senioren/woningaanpassing-aanvullende-premie"
+      ],
+      "conditions": {
+        "en": [
+          "You adapted your home in Brasschaat to the needs of an older person or a person with a disability who lives with you.",
+          "You received a grant for that adaptation from the VAPH or Wonen Vlaanderen.",
+          "The adaptations increase comfort and safety and make independent living possible; 25% of the awarded grant, at most €625 per home."
+        ],
+        "nl": [
+          "Je hebt je woning in Brasschaat aangepast aan de noden van een inwonende bejaarde of persoon met een handicap.",
+          "Je hebt voor die woningaanpassing een tussenkomst ontvangen van het VAPH of Wonen Vlaanderen.",
+          "De aanpassingen verhogen het comfort en de veiligheid en maken zelfstandig wonen mogelijk; 25% van de toegekende premie, maximaal €625 per woning."
+        ],
+        "fr": [
+          "Vous avez adapté votre logement à Brasschaat aux besoins d'une personne âgée ou handicapée qui vit avec vous.",
+          "Vous avez reçu pour cette adaptation une intervention du VAPH ou de Wonen Vlaanderen.",
+          "Les adaptations augmentent le confort et la sécurité et permettent de vivre de manière autonome ; 25 % de la prime accordée, 625 € au plus par logement."
+        ],
+        "de": [
+          "Sie haben Ihre Wohnung in Brasschaat an die Bedürfnisse einer mitwohnenden älteren Person oder Person mit Behinderung angepasst.",
+          "Sie haben für diese Anpassung einen Zuschuss vom VAPH oder von Wonen Vlaanderen erhalten.",
+          "Die Anpassungen erhöhen Komfort und Sicherheit und ermöglichen selbständiges Wohnen; 25 % des bewilligten Zuschusses, höchstens 625 € pro Wohnung."
+        ]
+      }
+    }
   }
 ]
