@@ -55855,5 +55855,1447 @@
         ]
       }
     }
+  },
+  {
+    "id": 456,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11009"
+    ],
+    "institution": "Gemeente Brecht",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.brecht.be/sociale-hulp-welzijn-gezondheid/personen-met-een-zorgnood/zorgtoelage",
+    "content": {
+      "en": {
+        "title": "Zorgtoelage (Care Allowance, Brecht)",
+        "desc": "Brecht pays a yearly care allowance: €95 for people with high costs for dressings or care materials or receiving palliative care at home, and €250 (€275 with a higher care need) for people with a disability, reduced self-reliance or invalidity, or children with the Groeipakket care supplement.",
+        "deadline": "Apply every year by 30 September.",
+        "amount": "€95, €250 or €275 a year (indexed yearly from 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed 2026 application form"
+          },
+          {
+            "type": "doc",
+            "label": "Recent medical certificate and proof of costs (for €95), or the certificate and proof of payment of your allowance or benefit (for €250/€275)"
+          },
+          {
+            "type": "doc",
+            "label": "Tax assessment notice from two years back, only for sickness/invalidity or occupational accident/disease benefits"
+          }
+        ],
+        "steps": [
+          "Download the 2026 application form from the commune's zorgtoelage page or get it at the Welzijnscampus, Gasthuisstraat 11",
+          "Hand it in with the certificates by 30 September (dienst welzijn, 03 203 21 50, welzijn@brecht.be)",
+          "Apply again every year"
+        ]
+      },
+      "nl": {
+        "title": "Zorgtoelage (Brecht)",
+        "desc": "Brecht betaalt een jaarlijkse zorgtoelage: €95 voor wie veel kosten heeft voor verband- of verzorgingsmateriaal of thuis palliatief verzorgd wordt, en €250 (€275 bij hogere zorgnood) voor personen met een beperking, verminderde zelfredzaamheid of invaliditeit, of kinderen met de zorgtoeslag van het Groeipakket.",
+        "deadline": "Jaarlijks aanvragen, uiterlijk op 30 september.",
+        "amount": "€95, €250 of €275 per jaar (jaarlijks geïndexeerd vanaf 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier 2026"
+          },
+          {
+            "type": "doc",
+            "label": "Recent medisch attest en bewijs van kosten (voor €95), of het attest en betalingsbewijs van je tegemoetkoming of uitkering (voor €250/€275)"
+          },
+          {
+            "type": "doc",
+            "label": "Aanslagbiljet van twee jaar terug, enkel bij ziekte- en invaliditeits- of arbeidsongevallen-/beroepsziekte-uitkering"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier 2026 op de pagina zorgtoelage of haal het op de Welzijnscampus, Gasthuisstraat 11",
+          "Dien het met de attesten in vóór 30 september (dienst welzijn, 03 203 21 50, welzijn@brecht.be)",
+          "Vraag elk jaar opnieuw aan"
+        ]
+      },
+      "fr": {
+        "title": "Zorgtoelage (allocation de soins, Brecht)",
+        "desc": "Brecht verse une allocation de soins annuelle : 95 € pour les personnes ayant de gros frais de pansements ou de matériel de soins ou soignées en palliatif à domicile, et 250 € (275 € en cas de besoin de soins plus élevé) pour les personnes handicapées, à autonomie réduite ou en invalidité, ou les enfants bénéficiant du supplément de soins du Groeipakket.",
+        "deadline": "Demande chaque année, au plus tard le 30 septembre.",
+        "amount": "95 €, 250 € ou 275 € par an (indexé chaque année depuis 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande 2026 complété"
+          },
+          {
+            "type": "doc",
+            "label": "Certificat médical récent et preuve des frais (pour 95 €), ou l'attestation et la preuve de paiement de votre allocation ou indemnité (pour 250 €/275 €)"
+          },
+          {
+            "type": "doc",
+            "label": "Avertissement-extrait de rôle d'il y a deux ans, uniquement pour les indemnités maladie-invalidité ou accident du travail/maladie professionnelle"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire 2026 sur la page zorgtoelage de la commune ou retirez-le au Welzijnscampus, Gasthuisstraat 11",
+          "Remettez-le avec les attestations au plus tard le 30 septembre (dienst welzijn, 03 203 21 50, welzijn@brecht.be)",
+          "Refaites la demande chaque année"
+        ]
+      },
+      "de": {
+        "title": "Zorgtoelage (Pflegezulage, Brecht)",
+        "desc": "Brecht zahlt eine jährliche Pflegezulage: 95 € für Personen mit hohen Kosten für Verbands- oder Pflegematerial oder mit häuslicher Palliativpflege, und 250 € (275 € bei höherem Pflegebedarf) für Menschen mit Behinderung, verminderter Selbständigkeit oder Invalidität oder Kinder mit dem Pflegezuschlag des Groeipakket.",
+        "deadline": "Jährlich zu beantragen, spätestens am 30. September.",
+        "amount": "95 €, 250 € oder 275 € pro Jahr (ab 2026 jährlich indexiert)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular 2026"
+          },
+          {
+            "type": "doc",
+            "label": "Aktuelles ärztliches Attest und Kostennachweis (für 95 €) oder Bescheinigung und Zahlungsnachweis Ihrer Zulage oder Leistung (für 250 €/275 €)"
+          },
+          {
+            "type": "doc",
+            "label": "Steuerbescheid von vor zwei Jahren, nur bei Kranken-/Invaliditäts- oder Arbeitsunfall-/Berufskrankheitsleistungen"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular 2026 auf der Seite zorgtoelage der Gemeinde herunter oder holen Sie es im Welzijnscampus, Gasthuisstraat 11",
+          "Reichen Sie es mit den Bescheinigungen bis zum 30. September ein (dienst welzijn, 03 203 21 50, welzijn@brecht.be)",
+          "Beantragen Sie jedes Jahr neu"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://www.brecht.be/sociale-hulp-welzijn-gezondheid/personen-met-een-zorgnood/zorgtoelage",
+        "https://www.brecht.be/download/Lra0y/REGLEMENT%202026.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are registered in Brecht's population register or foreigners' register on 1 January of the year concerned; not for people in prison or in a social-defence institution.",
+          "Not if you receive a Flemish care budget (zorgbudget), a VAPH personal budget or personal assistance budget, or live full-time (7 days a week) in a VAPH multifunctional centre.",
+          "€95: a medical certificate of treatment for at least 3 months and on average €100 a month spent on dressings or care materials, or a certificate from a recognised palliative care network.",
+          "€250: income replacement allowance (66% incapacity), integration allowance (at least 7 points), Groeipakket care supplement, or for at least a year a sickness/invalidity benefit (66%) or occupational accident/disease benefit (33%) with household income at or below the European poverty line; €275 with integration allowance category 4 or 5."
+        ],
+        "nl": [
+          "Je bent op 1 januari van het betrokken jaar ingeschreven in het bevolkingsregister of het vreemdelingenregister van Brecht; niet voor wie in een gevangenis of een instelling voor sociaal verweer verblijft.",
+          "Niet als je een zorgbudget (zwaar zorgbehoevenden, ouderen met een zorgnood of mensen met een handicap), een VAPH-budget voor niet-rechtstreeks toegankelijke hulp, persoonsvolgend budget of persoonlijk assistentiebudget hebt, of voltijds (7 op 7) in een multifunctioneel centrum van het VAPH verblijft.",
+          "€95: een medisch attest van een behandeling van minstens 3 maanden en gemiddeld €100 per maand aan verband- of verzorgingsmateriaal, of een attest van een erkend netwerk palliatieve zorg.",
+          "€250: inkomensvervangende tegemoetkoming (66% ongeschiktheid), integratietegemoetkoming (minstens 7 punten), zorgtoeslag van het Groeipakket, of sinds minstens een jaar een ziekte- en invaliditeitsuitkering (66%) of arbeidsongevallen-/beroepsziekte-uitkering (33%) met een gezinsinkomen tot de Europese armoedegrens; €275 bij integratietegemoetkoming categorie 4 of 5."
+        ],
+        "fr": [
+          "Vous êtes inscrit au registre de la population ou au registre des étrangers de Brecht au 1er janvier de l'année concernée ; pas pour les personnes en prison ou en établissement de défense sociale.",
+          "Pas si vous recevez un budget de soins flamand (zorgbudget), un budget du VAPH (aide non directement accessible, budget personnel ou budget d'assistance personnelle) ou séjournez à temps plein (7 jours sur 7) dans un centre multifonctionnel du VAPH.",
+          "95 € : certificat médical d'un traitement d'au moins 3 mois et en moyenne 100 € par mois de pansements ou de matériel de soins, ou attestation d'un réseau de soins palliatifs agréé.",
+          "250 € : allocation de remplacement de revenus (66 % d'incapacité), allocation d'intégration (au moins 7 points), supplément de soins du Groeipakket, ou depuis au moins un an une indemnité maladie-invalidité (66 %) ou accident du travail/maladie professionnelle (33 %) avec un revenu du ménage ne dépassant pas le seuil de pauvreté européen ; 275 € en allocation d'intégration catégorie 4 ou 5."
+        ],
+        "de": [
+          "Sie sind am 1. Januar des betreffenden Jahres im Bevölkerungs- oder Fremdenregister von Brecht eingetragen; nicht für Personen im Gefängnis oder in einer Einrichtung für Sozialschutz.",
+          "Nicht, wenn Sie ein flämisches Pflegebudget (zorgbudget), ein VAPH-Budget (nicht direkt zugängliche Hilfe, personengebundenes Budget oder persönliches Assistenzbudget) erhalten oder ganzzeitig (7 Tage die Woche) in einem multifunktionalen Zentrum des VAPH wohnen.",
+          "95 €: ärztliches Attest einer Behandlung von mindestens 3 Monaten und durchschnittlich 100 € pro Monat für Verbands- oder Pflegematerial, oder Bescheinigung eines anerkannten Palliativnetzes.",
+          "250 €: Einkommensersatzbeihilfe (66 % Unfähigkeit), Eingliederungsbeihilfe (mindestens 7 Punkte), Pflegezuschlag des Groeipakket, oder seit mindestens einem Jahr Kranken-/Invaliditätsleistung (66 %) oder Arbeitsunfall-/Berufskrankheitsleistung (33 %) bei einem Haushaltseinkommen bis zur europäischen Armutsgrenze; 275 € bei Eingliederungsbeihilfe Kategorie 4 oder 5."
+        ]
+      }
+    }
+  },
+  {
+    "id": 457,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35002"
+    ],
+    "institution": "Gemeente Bredene",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bredene.be/nl/welzijn-gezondheid/sociaal-huis/sociale-dienst-gemeente/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Bredene)",
+        "desc": "Bredene pays €50 a quarter to one unpaid informal carer per person in Bredene who needs care, so that person can keep living at home.",
+        "deadline": "No deadline; paid from the first day of the quarter after the application.",
+        "amount": "€50 a quarter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form signed by the person needing care and the carer"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of the FPS Social Security allowances (12 points) or of the zorgbudget for older people (category 3 or higher)"
+          }
+        ],
+        "steps": [
+          "Apply online with the 'Nu aanvragen' button on the commune's mantelzorgpremie page, or get the form at the social service, Duinenstraat 106",
+          "Add the certificates (socialedienst@bredene.be, 059 33 97 70)",
+          "Payment stops after admission to residential care, death or a move out of the commune"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Bredene)",
+        "desc": "Bredene betaalt €50 per kwartaal aan één onbetaalde mantelzorger per zorgbehoevende inwoner van Bredene, zodat die langer thuis kan blijven wonen.",
+        "deadline": "Geen termijn; toegekend vanaf de eerste dag van het kwartaal na de aanvraag.",
+        "amount": "€50 per kwartaal",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier, samen ingediend door zorgbehoevende en mantelzorger"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van de tegemoetkoming van de FOD Sociale Zekerheid (12 punten) of van het zorgbudget ouderen (minstens categorie 3)"
+          }
+        ],
+        "steps": [
+          "Vraag digitaal aan met de knop 'Nu aanvragen' op de pagina mantelzorgpremie, of haal het formulier bij de Gemeentelijke Sociale Dienst, Duinenstraat 106",
+          "Voeg de bewijsstukken toe (socialedienst@bredene.be, 059 33 97 70)",
+          "De betaling stopt na definitieve opname in een residentiële opvang, overlijden of verhuis buiten de gemeente"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aidant proche, Bredene)",
+        "desc": "Bredene verse 50 € par trimestre à un aidant proche non rémunéré par habitant de Bredene ayant besoin de soins, pour qu'il puisse rester plus longtemps à domicile.",
+        "deadline": "Pas de délai ; octroyée à partir du premier jour du trimestre suivant la demande.",
+        "amount": "50 € par trimestre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande introduit ensemble par la personne aidée et l'aidant"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de l'allocation du SPF Sécurité sociale (12 points) ou du zorgbudget pour personnes âgées (catégorie 3 au moins)"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne via le bouton 'Nu aanvragen' sur la page mantelzorgpremie, ou retirez le formulaire au service social, Duinenstraat 106",
+          "Joignez les pièces justificatives (socialedienst@bredene.be, 059 33 97 70)",
+          "Le paiement s'arrête après un placement définitif en institution, un décès ou un déménagement hors de la commune"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Bredene)",
+        "desc": "Bredene zahlt 50 € pro Quartal an eine unbezahlte pflegende Person je pflegebedürftigem Einwohner von Bredene, damit dieser länger zu Hause wohnen kann.",
+        "deadline": "Keine Frist; gewährt ab dem ersten Tag des Quartals nach dem Antrag.",
+        "amount": "50 € pro Quartal",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, gemeinsam eingereicht von pflegebedürftiger Person und pflegender Person"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis der Beihilfe des FÖD Soziale Sicherheit (12 Punkte) oder des zorgbudget für ältere Menschen (mindestens Kategorie 3)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online über die Schaltfläche 'Nu aanvragen' auf der Seite mantelzorgpremie oder holen Sie das Formular beim Sozialdienst, Duinenstraat 106",
+          "Fügen Sie die Nachweise bei (socialedienst@bredene.be, 059 33 97 70)",
+          "Die Zahlung endet nach endgültiger Heimaufnahme, Tod oder Umzug aus der Gemeinde"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://www.bredene.be/nl/welzijn-gezondheid/sociaal-huis/sociale-dienst-gemeente/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person needing care lives in Bredene and, if under 66, receives the FPS Social Security income replacement and integration allowance for at least 12 points; if 66 or older, receives the zorgbudget for older people with a care need, at least category 3.",
+          "The carer is a non-professional who helps the person stay at home and lives in Bredene, Oostende, Oudenburg or De Haan.",
+          "One carer per person needing care, chosen by that person."
+        ],
+        "nl": [
+          "De zorgbehoevende is inwoner van Bredene en geniet, indien jonger dan 66, een inkomensvervangende en integratietegemoetkoming van de FOD Sociale Zekerheid voor minstens 12 punten; indien 66 of ouder, een zorgbudget ouderen met een zorgnood van minstens categorie 3.",
+          "De mantelzorger is een niet-professionele hulpverlener die de zorgbehoevende langer thuis laat wonen en woont in Bredene, Oostende, Oudenburg of De Haan.",
+          "Eén mantelzorger per zorgbehoevende; de zorgbehoevende kiest zelf wie."
+        ],
+        "fr": [
+          "La personne aidée habite Bredene et, si elle a moins de 66 ans, reçoit l'allocation de remplacement de revenus et d'intégration du SPF Sécurité sociale pour au moins 12 points ; à 66 ans ou plus, le zorgbudget pour personnes âgées en besoin de soins, au moins catégorie 3.",
+          "L'aidant est un aidant non professionnel qui permet à la personne de rester à domicile et habite Bredene, Ostende, Oudenburg ou De Haan.",
+          "Un aidant par personne aidée, choisi par celle-ci."
+        ],
+        "de": [
+          "Die pflegebedürftige Person wohnt in Bredene und erhält, wenn unter 66, die Einkommensersatz- und Eingliederungsbeihilfe des FÖD Soziale Sicherheit für mindestens 12 Punkte; ab 66 das zorgbudget für ältere Menschen mit Pflegebedarf, mindestens Kategorie 3.",
+          "Die pflegende Person ist nicht beruflich tätig, ermöglicht der Person das Wohnen zu Hause und wohnt in Bredene, Ostende, Oudenburg oder De Haan.",
+          "Eine pflegende Person je pflegebedürftiger Person, von dieser selbst gewählt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 458,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35002"
+    ],
+    "institution": "Gemeente Bredene",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bredene.be/nl/welzijn-gezondheid/toegankelijkheid-in-bredene/vakantietoelage-voor-personen-met-een-beperking",
+    "content": {
+      "en": {
+        "title": "Vakantietoelage voor personen met een beperking (Holiday Allowance for People with a Disability, Bredene)",
+        "desc": "Bredene pays up to €75 a year towards an adapted holiday of at least 5 days organised by a social association or health fund, for children and adults with a severe disability or long-term illness.",
+        "deadline": "Apply in writing by 31 December of the year of the holiday.",
+        "amount": "Up to €75 a year, no more than your own contribution",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate of the recognised degree of disability, or of the length of illness from the health fund or doctor"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate from the organiser that the holiday was adapted"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment of your own contribution"
+          }
+        ],
+        "steps": [
+          "Fill in the form at the bottom of the commune's vakantietoelage page",
+          "E-mail it with the three documents to socialedienst@bredene.be by 31 December",
+          "Once a year per person"
+        ]
+      },
+      "nl": {
+        "title": "Vakantietoelage voor personen met een beperking (Bredene)",
+        "desc": "Bredene betaalt tot €75 per jaar voor een aangepaste vakantie van minstens 5 dagen, georganiseerd door een sociale vereniging of erkend ziekenfonds, voor kinderen en volwassenen met een zware beperking of langdurige ziekte.",
+        "deadline": "Schriftelijk aanvragen uiterlijk op 31 december van het betrokken kalenderjaar.",
+        "amount": "Tot €75 per jaar, niet meer dan je eigen bijdrage",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest met de toegekende invaliditeitsgraad, of attest over de duur van de ziekte van ziekenfonds of behandelend geneesheer"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de inrichtende organisatie over het aangepaste vakantieverblijf"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van betaling van je persoonlijke tussenkomst"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier onderaan de pagina vakantietoelage in",
+          "Mail het met de drie documenten naar socialedienst@bredene.be vóór 31 december",
+          "Eenmaal per kalenderjaar per persoon"
+        ]
+      },
+      "fr": {
+        "title": "Vakantietoelage voor personen met een beperking (allocation vacances pour personnes handicapées, Bredene)",
+        "desc": "Bredene verse jusqu'à 75 € par an pour des vacances adaptées d'au moins 5 jours organisées par une association sociale ou une mutualité, pour les enfants et adultes avec un handicap lourd ou une maladie de longue durée.",
+        "deadline": "Demande écrite au plus tard le 31 décembre de l'année concernée.",
+        "amount": "Jusqu'à 75 € par an, sans dépasser votre propre contribution",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du degré d'invalidité reconnu, ou de la durée de la maladie par la mutualité ou le médecin"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de l'organisateur sur le séjour adapté"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement de votre intervention personnelle"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en bas de la page vakantietoelage de la commune",
+          "Envoyez-le avec les trois documents à socialedienst@bredene.be avant le 31 décembre",
+          "Une fois par an et par personne"
+        ]
+      },
+      "de": {
+        "title": "Vakantietoelage voor personen met een beperking (Urlaubszulage für Menschen mit Behinderung, Bredene)",
+        "desc": "Bredene zahlt bis zu 75 € pro Jahr für einen angepassten Urlaub von mindestens 5 Tagen, organisiert von einer sozialen Vereinigung oder anerkannten Krankenkasse, für Kinder und Erwachsene mit schwerer Behinderung oder langer Krankheit.",
+        "deadline": "Schriftlicher Antrag spätestens am 31. Dezember des betreffenden Jahres.",
+        "amount": "Bis zu 75 € pro Jahr, höchstens Ihr Eigenanteil",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des anerkannten Invaliditätsgrades oder der Krankheitsdauer von Krankenkasse oder Arzt"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung des Veranstalters über den angepassten Urlaubsaufenthalt"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis Ihres Eigenanteils"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular unten auf der Seite vakantietoelage der Gemeinde aus",
+          "Mailen Sie es mit den drei Dokumenten bis zum 31. Dezember an socialedienst@bredene.be",
+          "Einmal pro Kalenderjahr und Person"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://www.bredene.be/nl/welzijn-gezondheid/toegankelijkheid-in-bredene/vakantietoelage-voor-personen-met-een-beperking"
+      ],
+      "conditions": {
+        "en": [
+          "You are registered in Bredene's population registers when the holiday starts.",
+          "When the holiday starts, you have been unfit for work for at least one year, or have a physical and/or mental disability of at least 66%.",
+          "The holiday is organised by a social association or recognised health fund, with transport and/or stay adapted to your needs, and lasts at least 5 days including travel."
+        ],
+        "nl": [
+          "Je bent bij de aanvang van de vakantie ingeschreven in de bevolkingsregisters van de gemeente.",
+          "Op de aanvangsdatum van de vakantie ben je minstens één jaar arbeidsongeschikt, of voor minstens 66% getroffen door een lichamelijke en/of geestelijke ongeschiktheid.",
+          "De vakantie wordt georganiseerd door een sociale vereniging of erkend ziekenfonds, vervoer en/of verblijf zijn aangepast, en ze duurt minstens 5 dagen (verblijf + reisdagen)."
+        ],
+        "fr": [
+          "Vous êtes inscrit aux registres de la population de Bredene au début des vacances (bevolkingsregisters).",
+          "Au début des vacances, vous êtes en incapacité de travail depuis au moins un an, ou atteint d'une incapacité physique et/ou mentale d'au moins 66 %.",
+          "Les vacances sont organisées par une association sociale ou une mutualité reconnue, avec transport et/ou séjour adaptés, et durent au moins 5 jours (séjour + voyage)."
+        ],
+        "de": [
+          "Sie sind bei Urlaubsbeginn in den Bevölkerungsregistern von Bredene eingetragen (bevolkingsregisters).",
+          "Bei Urlaubsbeginn sind Sie seit mindestens einem Jahr arbeitsunfähig oder zu mindestens 66 % körperlich und/oder geistig beeinträchtigt.",
+          "Der Urlaub wird von einer sozialen Vereinigung oder anerkannten Krankenkasse organisiert, Transport und/oder Aufenthalt sind angepasst, und er dauert mindestens 5 Tage (Aufenthalt + Reisetage)."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the page requires registration in Bredene's population registers (bevolkingsregisters).",
+            "nl": "Niet voor jou: de pagina vereist een inschrijving in de bevolkingsregisters van Bredene.",
+            "fr": "Pas pour vous : la page exige une inscription aux registres de la population de Bredene (bevolkingsregisters).",
+            "de": "Nicht für Sie: Die Seite verlangt eine Eintragung in den Bevölkerungsregistern von Bredene (bevolkingsregisters)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 459,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35002"
+    ],
+    "institution": "Gemeente Bredene",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bredene.be/nl/dienstverlening/financiele-tussenkomsten-premies/subsidie-voor-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Subsidie voor herbruikbare luiers (Reusable Nappies Grant, Bredene)",
+        "desc": "Bredene refunds half of what you pay to buy or rent reusable nappies and accessories, up to €100, once per child.",
+        "deadline": "Within 6 months of the purchase or rental, and before the child turns three.",
+        "amount": "50% of the receipt, up to €100 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of the purchase invoice or detailed till receipt"
+          },
+          {
+            "type": "id",
+            "label": "Copy (both sides) of the applicant's identity card"
+          }
+        ],
+        "steps": [
+          "Apply online with the 'Aanvragen' button on the commune's reusable nappies page",
+          "Attach the receipt and identity card copy (milieu@bredene.be, 059 33 91 91)",
+          "The environment department checks the application and pays 50%, up to €100"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie voor herbruikbare luiers (Bredene)",
+        "desc": "Bredene betaalt de helft terug van de aankoop of huur van herbruikbare luiers en toebehoren, tot €100, eenmaal per kind.",
+        "deadline": "Binnen 6 maanden na aankoop of huur, en vóór de derde verjaardag van het kind.",
+        "amount": "50% van het aankoopbewijs, tot €100 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van de aankoopfactuur of gedetailleerd kasticket"
+          },
+          {
+            "type": "id",
+            "label": "Kopie (recto/verso) van de identiteitskaart van de aanvrager"
+          }
+        ],
+        "steps": [
+          "Vraag aan met de knop 'Aanvragen' op de pagina subsidie herbruikbare luiers",
+          "Voeg het aankoopbewijs en de kopie van de identiteitskaart toe (milieu@bredene.be, 059 33 91 91)",
+          "De milieudienst behandelt de aanvraag en betaalt 50%, tot €100"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie voor herbruikbare luiers (subside langes réutilisables, Bredene)",
+        "desc": "Bredene rembourse la moitié de l'achat ou de la location de langes réutilisables et accessoires, jusqu'à 100 €, une fois par enfant.",
+        "deadline": "Dans les 6 mois de l'achat ou de la location, et avant les trois ans de l'enfant.",
+        "amount": "50 % du justificatif, jusqu'à 100 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie de la facture d'achat ou du ticket de caisse détaillé"
+          },
+          {
+            "type": "id",
+            "label": "Copie (recto/verso) de la carte d'identité du demandeur"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne via le bouton 'Aanvragen' sur la page des langes réutilisables",
+          "Joignez le justificatif et la copie de la carte d'identité (milieu@bredene.be, 059 33 91 91)",
+          "Le service environnement traite la demande et verse 50 %, jusqu'à 100 €"
+        ]
+      },
+      "de": {
+        "title": "Subsidie voor herbruikbare luiers (Zuschuss für Mehrwegwindeln, Bredene)",
+        "desc": "Bredene erstattet die Hälfte des Kaufs oder der Miete von Mehrwegwindeln und Zubehör, bis zu 100 €, einmal pro Kind.",
+        "deadline": "Innerhalb von 6 Monaten nach Kauf oder Miete und vor dem dritten Geburtstag des Kindes.",
+        "amount": "50 % des Kaufbelegs, bis zu 100 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie der Rechnung oder des detaillierten Kassenbons"
+          },
+          {
+            "type": "id",
+            "label": "Kopie (Vorder- und Rückseite) des Personalausweises der antragstellenden Person"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online über die Schaltfläche 'Aanvragen' auf der Seite zu Mehrwegwindeln",
+          "Fügen Sie Kaufbeleg und Ausweiskopie bei (milieu@bredene.be, 059 33 91 91)",
+          "Der Umweltdienst prüft den Antrag und zahlt 50 %, bis zu 100 €"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://www.bredene.be/nl/dienstverlening/financiele-tussenkomsten-premies/subsidie-voor-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "At the time of the application, the child has been registered in Bredene's population registers for at least three months and the parents are domiciled in Bredene.",
+          "Apply before the child's third birthday and within 6 months of the purchase or rental.",
+          "One premium per child."
+        ],
+        "nl": [
+          "Op het moment van de aanvraag is het kind minstens drie maanden ingeschreven in de bevolkingsregisters van de gemeente en zijn de ouders gedomicilieerd in Bredene.",
+          "Aanvragen vóór de derde verjaardag van het kind en binnen 6 maanden na aankoop of huur.",
+          "Eén premie per kind."
+        ],
+        "fr": [
+          "Au moment de la demande, l'enfant est inscrit depuis au moins trois mois aux registres de la population de Bredene (bevolkingsregisters) et les parents sont domiciliés à Bredene.",
+          "Demande avant le troisième anniversaire de l'enfant et dans les 6 mois de l'achat ou de la location.",
+          "Une prime par enfant."
+        ],
+        "de": [
+          "Zum Zeitpunkt des Antrags ist das Kind seit mindestens drei Monaten in den Bevölkerungsregistern von Bredene eingetragen (bevolkingsregisters) und die Eltern haben ihren Wohnsitz in Bredene.",
+          "Antrag vor dem dritten Geburtstag des Kindes und innerhalb von 6 Monaten nach Kauf oder Miete.",
+          "Eine Prämie pro Kind."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the child must be registered in Bredene's population registers (bevolkingsregisters).",
+            "nl": "Niet voor jou: het kind moet ingeschreven zijn in de bevolkingsregisters van Bredene.",
+            "fr": "Pas pour vous : l'enfant doit être inscrit aux registres de la population de Bredene (bevolkingsregisters).",
+            "de": "Nicht für Sie: Das Kind muss in den Bevölkerungsregistern von Bredene eingetragen sein (bevolkingsregisters)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 460,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "72004"
+    ],
+    "institution": "Stad Bree",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.bree.be/aanvraag-subsidie-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Subsidie herbruikbare luiers (Reusable Nappies Grant, Bree)",
+        "desc": "Bree refunds half of what you spend on washable nappies, covers, cloths or inserts, up to €100, once per child under 3.",
+        "deadline": "Before the child turns 3; paid in June or December.",
+        "amount": "50% of the purchase, up to €100 per child (purchase of at least €100)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Invoices or till receipts"
+          },
+          {
+            "type": "doc",
+            "label": "Scan of the birth, adoption or foster-care certificate"
+          }
+        ],
+        "steps": [
+          "Fill in the online form on the city's reusable nappies page, with the child's national register number",
+          "Upload the receipts and the birth, adoption or foster-care proof, and confirm on your honour",
+          "The city pays in June or December to the account you entered"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie herbruikbare luiers (Bree)",
+        "desc": "Bree betaalt de helft terug van je aankoop van wasbare luiers, overbroekjes, doeken of inleggers, tot €100, eenmaal per kind jonger dan 3 jaar.",
+        "deadline": "Vóór het kind 3 jaar wordt; uitbetaling in juni of december.",
+        "amount": "50% van de aankoop, tot €100 per kind (aankoop van minstens €100)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Facturen of kastickets"
+          },
+          {
+            "type": "doc",
+            "label": "Scan van het geboorte-, adoptie- of pleegzorgbewijs"
+          }
+        ],
+        "steps": [
+          "Vul het online formulier op de pagina subsidie herbruikbare luiers in, met het rijksregisternummer van het kind",
+          "Laad de aankoopbewijzen en het bewijs van geboorte, adoptie of pleegzorg op en verklaar op eer",
+          "De stad betaalt in juni of december op het rekeningnummer uit je aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie herbruikbare luiers (subside langes réutilisables, Bree)",
+        "desc": "Bree rembourse la moitié de vos achats de langes lavables, culottes, langes en tissu ou inserts, jusqu'à 100 €, une fois par enfant de moins de 3 ans.",
+        "deadline": "Avant les 3 ans de l'enfant ; paiement en juin ou en décembre.",
+        "amount": "50 % de l'achat, jusqu'à 100 € par enfant (achat d'au moins 100 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Factures ou tickets de caisse"
+          },
+          {
+            "type": "doc",
+            "label": "Scan de l'acte de naissance, d'adoption ou de l'attestation de placement familial"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en ligne sur la page langes réutilisables de la ville, avec le numéro de registre national de l'enfant",
+          "Téléversez les justificatifs d'achat et la preuve de naissance, d'adoption ou de placement, et certifiez sur l'honneur",
+          "La ville paie en juin ou en décembre sur le compte indiqué"
+        ]
+      },
+      "de": {
+        "title": "Subsidie herbruikbare luiers (Zuschuss für Mehrwegwindeln, Bree)",
+        "desc": "Bree erstattet die Hälfte Ihrer Ausgaben für waschbare Windeln, Überhosen, Tücher oder Einlagen, bis zu 100 €, einmal pro Kind unter 3 Jahren.",
+        "deadline": "Bevor das Kind 3 Jahre alt wird; Auszahlung im Juni oder Dezember.",
+        "amount": "50 % des Kaufs, bis zu 100 € pro Kind (Kauf von mindestens 100 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Rechnungen oder Kassenbons"
+          },
+          {
+            "type": "doc",
+            "label": "Scan der Geburts-, Adoptions- oder Pflegebescheinigung"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Online-Formular auf der Seite zu Mehrwegwindeln aus, mit der Nationalregisternummer des Kindes",
+          "Laden Sie die Kaufbelege und den Geburts-, Adoptions- oder Pflegenachweis hoch und erklären Sie es auf Ehre",
+          "Die Stadt zahlt im Juni oder Dezember auf das angegebene Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://www.bree.be/aanvraag-subsidie-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "You are a parent or legal guardian of a child aged 0 to 3 registered in Bree's population register.",
+          "Only washable items used several times (nappies, cloths, covers, washable inserts); not accessories such as nappy bags or wash bags.",
+          "Once per child, and only if the total purchase is at least €100."
+        ],
+        "nl": [
+          "Je bent ouder of wettelijke voogd van een kind tussen 0 en 3 jaar ingeschreven in het bevolkingsregister van Bree.",
+          "Enkel wasbare, meermaals bruikbare luierbenodigdheden (luiers, doeken, overbroekjes, wasbare inleggers); geen accessoires zoals een luiertas of waszakjes.",
+          "Eenmalig per kind, en enkel als de totale aankoopprijs minstens €100 is."
+        ],
+        "fr": [
+          "Vous êtes parent ou tuteur légal d'un enfant de 0 à 3 ans inscrit au registre de la population de Bree (bevolkingsregister).",
+          "Uniquement des articles lavables réutilisables (langes, tissus, culottes, inserts lavables) ; pas d'accessoires comme un sac à langer ou des sacs de lavage.",
+          "Une seule fois par enfant, et seulement si l'achat total atteint au moins 100 €."
+        ],
+        "de": [
+          "Sie sind Elternteil oder Vormund eines Kindes von 0 bis 3 Jahren, das im Bevölkerungsregister von Bree eingetragen ist (bevolkingsregister).",
+          "Nur waschbare, mehrfach verwendbare Artikel (Windeln, Tücher, Überhosen, waschbare Einlagen); kein Zubehör wie Wickeltasche oder Wäschesäckchen.",
+          "Einmal pro Kind und nur, wenn der Gesamtkauf mindestens 100 € beträgt."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the child must be registered in Bree's population register (bevolkingsregister).",
+            "nl": "Niet voor jou: het kind moet ingeschreven zijn in het bevolkingsregister van Bree.",
+            "fr": "Pas pour vous : l'enfant doit être inscrit au registre de la population de Bree (bevolkingsregister).",
+            "de": "Nicht für Sie: Das Kind muss im Bevölkerungsregister von Bree eingetragen sein (bevolkingsregister)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 461,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "42004"
+    ],
+    "institution": "Gemeente Buggenhout",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.buggenhout.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Buggenhout)",
+        "desc": "Buggenhout pays €120 a year to an unpaid informal carer who regularly looks after a person in Buggenhout who needs care at home.",
+        "deadline": "Apply every year before 1 October; paid in November/December.",
+        "amount": "€120 a year (pro rata per month if conditions stop during the year)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form completed and signed by the carer and the person needing care"
+          },
+          {
+            "type": "doc",
+            "label": "Current certificate of the care need (FPS Social Security, Katz scale, BEL-RAI or palliative status)"
+          }
+        ],
+        "steps": [
+          "Fill in the form with the person you care for and both sign it",
+          "Hand it in with the certificate at the town hall's quick desk or e-mail info@buggenhout.be before 1 October",
+          "Renew the application yourself every year"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Buggenhout)",
+        "desc": "Buggenhout betaalt €120 per jaar aan een onbetaalde mantelzorger die op regelmatige basis zorgt voor een zorgbehoevende inwoner van Buggenhout die thuis woont.",
+        "deadline": "Jaarlijks aanvragen vóór 1 oktober; uitbetaling in november/december.",
+        "amount": "€120 per kalenderjaar (per maand verrekend als de voorwaarden in de loop van het jaar wegvallen)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier, volledig ingevuld en ondertekend door mantelzorger én zorgbehoevende"
+          },
+          {
+            "type": "doc",
+            "label": "Actueel attest van de zorgbehoefte (FOD Sociale Zekerheid, KATZ-schaal, BEL-RAI of palliatief statuut)"
+          }
+        ],
+        "steps": [
+          "Vul het formulier in samen met de zorgbehoevende en onderteken het allebei",
+          "Bezorg het met het attest aan de snelbalie in het gemeentehuis of via info@buggenhout.be vóór 1 oktober",
+          "Hernieuw de aanvraag elk jaar op eigen initiatief"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aidant proche, Buggenhout)",
+        "desc": "Buggenhout verse 120 € par an à un aidant proche non rémunéré qui s'occupe régulièrement d'une personne de Buggenhout ayant besoin de soins à domicile.",
+        "deadline": "Demande chaque année avant le 1er octobre ; paiement en novembre/décembre.",
+        "amount": "120 € par an (au prorata mensuel si les conditions cessent en cours d'année)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire complété et signé par l'aidant et la personne aidée"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation actuelle du besoin de soins (SPF Sécurité sociale, échelle de Katz, BEL-RAI ou statut palliatif)"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire avec la personne aidée et signez-le tous les deux",
+          "Remettez-le avec l'attestation au guichet rapide de la maison communale ou à info@buggenhout.be avant le 1er octobre",
+          "Renouvelez la demande vous-même chaque année"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Buggenhout)",
+        "desc": "Buggenhout zahlt 120 € pro Jahr an eine unbezahlte pflegende Person, die sich regelmäßig um eine pflegebedürftige Person in Buggenhout zu Hause kümmert.",
+        "deadline": "Jährlich vor dem 1. Oktober beantragen; Auszahlung im November/Dezember.",
+        "amount": "120 € pro Jahr (monatsanteilig, wenn die Voraussetzungen im Laufe des Jahres entfallen)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, ausgefüllt und unterschrieben von pflegender und pflegebedürftiger Person"
+          },
+          {
+            "type": "doc",
+            "label": "Aktuelle Bescheinigung des Pflegebedarfs (FÖD Soziale Sicherheit, Katz-Skala, BEL-RAI oder Palliativstatus)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular mit der gepflegten Person aus und unterschreiben Sie beide",
+          "Geben Sie es mit der Bescheinigung am Schnellschalter des Gemeindehauses ab oder senden Sie es vor dem 1. Oktober an info@buggenhout.be",
+          "Erneuern Sie den Antrag jedes Jahr selbst"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://www.buggenhout.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The carer is at least 21, helps voluntarily, regularly, long-term and unpaid, does not receive a benefit as a person needing care, and is domiciled in Buggenhout.",
+          "The person needing care is at least 21, domiciled in Buggenhout, lives at home, and has a current certificate: FPS Social Security 10 points or more, Katz A profile (lower with a dementia diagnosis and doctor's certificate), BEL-RAI total of at least 13 (or ADL+IADL at least 5.5), or palliative status.",
+          "One premium per address of the person needing care; a carer gets it once a year for one person."
+        ],
+        "nl": [
+          "De mantelzorger is minstens 21, helpt vrijwillig, doorlopend, niet beroepshalve en onbetaald op regelmatige en langdurige basis, ontvangt zelf geen uitkering als zorgbehoevende en heeft zijn domicilie in Buggenhout.",
+          "De zorgbehoevende is minstens 21, gedomicilieerd in Buggenhout, woont in het natuurlijk thuismilieu en heeft een actueel attest: FOD Sociale Zekerheid vanaf 10 punten, KATZ vanaf A-profiel (lager bij dementie mits doktersattest), BEL-RAI totaalscore minstens 13 (of IADL+ADL minstens 5,5), of palliatief statuut.",
+          "Maximum één toelage per zorgbehoevend adres; een mantelzorger krijgt per kalenderjaar maar eenmaal een premie voor één zorgbehoevende."
+        ],
+        "fr": [
+          "L'aidant a au moins 21 ans, aide de manière volontaire, régulière, durable, non professionnelle et non rémunérée, ne perçoit pas lui-même d'allocation comme personne aidée et est domicilié à Buggenhout.",
+          "La personne aidée a au moins 21 ans, est domiciliée à Buggenhout, vit à domicile et dispose d'une attestation actuelle : SPF Sécurité sociale à partir de 10 points, profil Katz A (moins avec diagnostic de démence et certificat médical), BEL-RAI total d'au moins 13 (ou IADL+ADL d'au moins 5,5) ou statut palliatif.",
+          "Une seule prime par adresse de personne aidée ; un aidant ne la reçoit qu'une fois par an pour une seule personne."
+        ],
+        "de": [
+          "Die pflegende Person ist mindestens 21, hilft freiwillig, regelmäßig, langfristig, nicht beruflich und unbezahlt, erhält selbst keine Leistung als pflegebedürftige Person und hat ihren Wohnsitz in Buggenhout.",
+          "Die pflegebedürftige Person ist mindestens 21, hat ihren Wohnsitz in Buggenhout, lebt zu Hause und hat eine aktuelle Bescheinigung: FÖD Soziale Sicherheit ab 10 Punkten, Katz-Profil A (niedriger bei Demenzdiagnose mit ärztlichem Attest), BEL-RAI-Gesamtwert mindestens 13 (oder IADL+ADL mindestens 5,5) oder Palliativstatus.",
+          "Höchstens eine Prämie je Adresse der pflegebedürftigen Person; eine pflegende Person erhält sie nur einmal pro Jahr für eine Person."
+        ]
+      }
+    }
+  },
+  {
+    "id": 462,
+    "category": "health",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "93010"
+    ],
+    "institution": "Commune de Cerfontaine",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.cerfontaine.be/ma-commune/services-communaux/comptabilite-finances-1/prime-communale-a-lusage-de-protections-hygieniques-menstruelles-reutilisables",
+    "content": {
+      "en": {
+        "title": "Prime communale à l'usage de protections hygiéniques menstruelles réutilisables (Reusable Menstrual Products Premium, Cerfontaine)",
+        "desc": "Cerfontaine refunds 60% of what you pay for reusable menstrual products (cups, period pants, washable pads and liners, sponges, reusable tampons), up to €100, once per user.",
+        "deadline": "Invoices at most four months old at the time of the application.",
+        "amount": "60% of the invoices, up to €100 per user",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the purchase invoice(s); for online purchases, with the name of a household member"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment"
+          }
+        ],
+        "steps": [
+          "Download the form and regulation from the commune's premium page",
+          "Send it with the invoices and proof of payment by post to Place de l'Eglise 5, 5630 Cerfontaine, drop it in the town hall letterbox or e-mail comptabilite@cerfontaine.be",
+          "An incomplete file is refused and must be sent again"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale à l'usage de protections hygiéniques menstruelles réutilisables (premie herbruikbare menstruatieproducten, Cerfontaine)",
+        "desc": "Cerfontaine betaalt 60% terug van je aankoop van herbruikbare menstruatieproducten (cups, menstruatieslips, wasbare maandverbanden en inlegkruisjes, sponsjes, herbruikbare tampons), tot €100, eenmaal per gebruikster.",
+        "deadline": "Facturen hoogstens vier maanden oud bij de aanvraag.",
+        "amount": "60% van de facturen, tot €100 per gebruikster",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van de aankoopfactuur of -facturen; bij online aankopen op naam van een gezinslid"
+          },
+          {
+            "type": "doc",
+            "label": "Betalingsbewijs"
+          }
+        ],
+        "steps": [
+          "Download het formulier en reglement op de premiepagina van de gemeente",
+          "Stuur het met de facturen en het betalingsbewijs per post naar Place de l'Eglise 5, 5630 Cerfontaine, deponeer het in de brievenbus van het gemeentehuis of mail naar comptabilite@cerfontaine.be",
+          "Een onvolledig dossier wordt geweigerd en moet opnieuw ingediend worden"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale à l'usage de protections hygiéniques menstruelles réutilisables (Cerfontaine)",
+        "desc": "Cerfontaine rembourse 60 % de vos achats de protections menstruelles réutilisables (coupes, culottes menstruelles, serviettes et protège-slips lavables, éponges, tampons réutilisables), jusqu'à 100 €, une fois par utilisatrice.",
+        "deadline": "Factures de quatre mois au plus à la date de la demande.",
+        "amount": "60 % des factures, jusqu'à 100 € par utilisatrice",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Copie de la ou des factures d'achat ; pour un achat en ligne, au nom d'un membre du ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire et le règlement sur la page de la prime",
+          "Envoyez-le avec les factures et la preuve de paiement par la poste à la Place de l'Eglise 5, 5630 Cerfontaine, déposez-le dans la boîte aux lettres de la maison communale ou envoyez-le à comptabilite@cerfontaine.be",
+          "Un dossier incomplet est refusé et doit être réintroduit"
+        ]
+      },
+      "de": {
+        "title": "Prime communale à l'usage de protections hygiéniques menstruelles réutilisables (Prämie für wiederverwendbare Menstruationsprodukte, Cerfontaine)",
+        "desc": "Cerfontaine erstattet 60 % Ihrer Ausgaben für wiederverwendbare Menstruationsprodukte (Tassen, Periodenunterwäsche, waschbare Binden und Slipeinlagen, Schwämme, wiederverwendbare Tampons), bis zu 100 €, einmal pro Nutzerin.",
+        "deadline": "Rechnungen höchstens vier Monate alt zum Zeitpunkt des Antrags.",
+        "amount": "60 % der Rechnungen, bis zu 100 € pro Nutzerin",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie der Rechnung(en); bei Online-Käufen auf den Namen eines Haushaltsmitglieds"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis"
+          }
+        ],
+        "steps": [
+          "Laden Sie Formular und Regelung auf der Prämienseite der Gemeinde herunter",
+          "Senden Sie es mit Rechnungen und Zahlungsnachweis per Post an Place de l'Eglise 5, 5630 Cerfontaine, werfen Sie es in den Briefkasten des Gemeindehauses oder mailen Sie es an comptabilite@cerfontaine.be",
+          "Eine unvollständige Akte wird abgelehnt und muss neu eingereicht werden"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://www.cerfontaine.be/ma-commune/services-communaux/comptabilite-finances-1/prime-communale-a-lusage-de-protections-hygieniques-menstruelles-reutilisables",
+        "https://www.cerfontaine.be/ma-commune/services-communaux/comptabilite-finances-1/prime-communale-a-lusage-de-protections-hygieniques-menstruelles-reutilisables/reglement-et-formulaire-prime-protections-menstruelles-reutilisables/reglement-prime-protections-hygieniques-reutilisables.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The user, and her legal guardian if she applies for her, are registered in Cerfontaine's population registers.",
+          "Reusable products only (cups, period pants, reusable liners and pads, menstrual sponges, reusable tampons); kits count only if mostly reusable; invoices at most four months old.",
+          "Once per user, within the commune's available budget; each invoice counts only once."
+        ],
+        "nl": [
+          "De gebruikster en, als die voor haar aanvraagt, haar wettelijke voogd zijn ingeschreven in de bevolkingsregisters van Cerfontaine (registres de la population).",
+          "Enkel herbruikbare producten (cups, menstruatieslips, herbruikbare inlegkruisjes en maandverbanden, sponsjes, herbruikbare tampons); kits enkel als ze grotendeels herbruikbaar zijn; facturen hoogstens vier maanden oud.",
+          "Eenmaal per gebruikster, binnen het beschikbare budget van de gemeente; elke factuur telt maar één keer."
+        ],
+        "fr": [
+          "L'utilisatrice et, s'il fait la demande pour elle, son tuteur ou sa tutrice légal(e) sont inscrits aux registres de la population de Cerfontaine.",
+          "Uniquement des protections réutilisables (coupes, culottes menstruelles, protège-slips et serviettes réutilisables, éponges, tampons réutilisables) ; kits seulement s'ils sont majoritairement réutilisables ; factures de quatre mois au plus.",
+          "Une seule fois par utilisatrice, dans la limite des crédits budgétaires ; chaque facture n'est prise en compte qu'une fois."
+        ],
+        "de": [
+          "Die Nutzerin und, wenn er/sie für sie beantragt, ihr Vormund sind in den Bevölkerungsregistern von Cerfontaine eingetragen (registres de la population).",
+          "Nur wiederverwendbare Produkte (Tassen, Periodenunterwäsche, wiederverwendbare Slipeinlagen und Binden, Schwämme, wiederverwendbare Tampons); Sets nur, wenn überwiegend wiederverwendbar; Rechnungen höchstens vier Monate alt.",
+          "Einmal pro Nutzerin, im Rahmen der verfügbaren Haushaltsmittel; jede Rechnung zählt nur einmal."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in Cerfontaine's population registers (registres de la population).",
+            "nl": "Niet voor jou: het reglement vereist een inschrijving in de bevolkingsregisters van Cerfontaine (registres de la population).",
+            "fr": "Pas pour vous : le règlement exige une inscription aux registres de la population de Cerfontaine.",
+            "de": "Nicht für Sie: Die Regelung verlangt eine Eintragung in den Bevölkerungsregistern von Cerfontaine (registres de la population)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 463,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "52010"
+    ],
+    "institution": "Commune de Chapelle-lez-Herlaimont",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://chapelle-lez-herlaimont.be/loisirs/sports/asbl-sport-et-delassement/mise-en-place-dun-cheque-sport",
+    "content": {
+      "en": {
+        "title": "Chèque-sport (Sports Cheque, Chapelle-lez-Herlaimont)",
+        "desc": "Chapelle-lez-Herlaimont gives €50 towards the membership fee of a recognised sports club for young people aged 4 to 18 in 2026.",
+        "deadline": "Apply by 31 December 2026.",
+        "amount": "€50 per young person per year, no more than the fee paid",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment of the sports club membership fee"
+          }
+        ],
+        "steps": [
+          "Fill in the application form from the commune's sports cheque page",
+          "E-mail it with the proof of payment to cheques.sport@7160.be or post it to ASBL Sport et Délassement, Rue de la Hestre 67, 7160 Chapelle-lez-Herlaimont by 31 December 2026",
+          "Paid within the available budget"
+        ]
+      },
+      "nl": {
+        "title": "Chèque-sport (sportcheque, Chapelle-lez-Herlaimont)",
+        "desc": "Chapelle-lez-Herlaimont geeft €50 voor het lidgeld van een erkende sportclub voor jongeren van 4 tot 18 jaar in 2026.",
+        "deadline": "Aanvragen uiterlijk op 31 december 2026.",
+        "amount": "€50 per jongere per jaar, niet meer dan het betaalde lidgeld",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van betaling van het lidgeld aan de sportclub"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier van de pagina chèque-sport in",
+          "Mail het met het betalingsbewijs naar cheques.sport@7160.be of stuur het naar ASBL Sport et Délassement, Rue de la Hestre 67, 7160 Chapelle-lez-Herlaimont, uiterlijk op 31 december 2026",
+          "Uitbetaald binnen het beschikbare budget"
+        ]
+      },
+      "fr": {
+        "title": "Chèque-sport (Chapelle-lez-Herlaimont)",
+        "desc": "Chapelle-lez-Herlaimont accorde 50 € pour l'affiliation à un club sportif reconnu aux jeunes de 4 à 18 ans en 2026.",
+        "deadline": "Demande au plus tard le 31 décembre 2026.",
+        "amount": "50 € par jeune et par an, sans dépasser la cotisation payée",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve du paiement de la cotisation au club sportif"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande de la page chèque-sport",
+          "Envoyez-le avec la preuve de paiement à cheques.sport@7160.be ou par la poste à l'ASBL Sport et Délassement, Rue de la Hestre 67, 7160 Chapelle-lez-Herlaimont, au plus tard le 31 décembre 2026",
+          "Versé dans la limite des crédits disponibles"
+        ]
+      },
+      "de": {
+        "title": "Chèque-sport (Sportscheck, Chapelle-lez-Herlaimont)",
+        "desc": "Chapelle-lez-Herlaimont gibt 50 € für den Mitgliedsbeitrag eines anerkannten Sportvereins für Jugendliche von 4 bis 18 Jahren im Jahr 2026.",
+        "deadline": "Antrag spätestens am 31. Dezember 2026.",
+        "amount": "50 € pro Jugendlichem und Jahr, höchstens der gezahlte Beitrag",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis des Mitgliedsbeitrags beim Sportverein"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular der Seite chèque-sport aus",
+          "Senden Sie es mit dem Zahlungsnachweis an cheques.sport@7160.be oder per Post an ASBL Sport et Délassement, Rue de la Hestre 67, 7160 Chapelle-lez-Herlaimont, spätestens am 31. Dezember 2026",
+          "Ausgezahlt im Rahmen der verfügbaren Mittel"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://chapelle-lez-herlaimont.be/loisirs/sports/asbl-sport-et-delassement/mise-en-place-dun-cheque-sport"
+      ],
+      "conditions": {
+        "en": [
+          "The young person is 4 to 18 during 2026 and is domiciled or mainly lives in the commune, or has at least one parent domiciled there.",
+          "Regularly enrolled in a club affiliated to a recognised federation for the 2026-2027 season; one-off sports camps do not count.",
+          "One cheque per young person per calendar year, no more than the fee actually paid."
+        ],
+        "nl": [
+          "De jongere is 4 tot 18 jaar in 2026 en is gedomicilieerd of verblijft hoofdzakelijk in de gemeente, of heeft minstens één ouder die er gedomicilieerd is.",
+          "Regelmatig ingeschreven in een club aangesloten bij een erkende federatie voor het seizoen 2026-2027; losse sportstages tellen niet.",
+          "Eén cheque per jongere per kalenderjaar, niet meer dan het werkelijk betaalde lidgeld."
+        ],
+        "fr": [
+          "Le jeune a de 4 à 18 ans durant l'année 2026 et est domicilié ou réside principalement sur le territoire de la commune, ou a au moins un parent domicilié sur l'entité.",
+          "Inscrit de manière régulière dans un club affilié à une fédération reconnue pour la saison 2026-2027 ; les stages sportifs ponctuels ne sont pas éligibles.",
+          "Un seul chèque par bénéficiaire et par année civile, sans dépasser la cotisation effectivement payée."
+        ],
+        "de": [
+          "Der/die Jugendliche ist im Jahr 2026 4 bis 18 Jahre alt und hat seinen Wohnsitz oder Hauptaufenthalt in der Gemeinde oder mindestens einen Elternteil mit Wohnsitz dort.",
+          "Regelmäßig in einem Verein eines anerkannten Verbands für die Saison 2026-2027 angemeldet; einzelne Sportlager zählen nicht.",
+          "Ein Scheck pro Jugendlichem und Kalenderjahr, höchstens der tatsächlich gezahlte Beitrag."
+        ]
+      }
+    }
+  },
+  {
+    "id": 464,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63087"
+    ],
+    "institution": "Gemeinde Burg-Reuland",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.burg-reuland.be/buergerdienste/gemeindedienste/dienst-umwelt-und-erneuerbare-energien/praemien/",
+    "content": {
+      "en": {
+        "title": "Energie- und Sanierungsprämie für Altbauten (Renovation Premium for Old Homes, Burg-Reuland)",
+        "desc": "Burg-Reuland pays 10% of the invoiced cost, up to €3,500, for renovating a home first lived in before 1950, or turning a barn or stable of such a building into housing.",
+        "deadline": "Apply and get the commune's agreement before starting the works; finish within 3 years.",
+        "amount": "10% of the invoices, up to €3,500 per building",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate from the registration office (at most two months old) proving your property right"
+          },
+          {
+            "type": "doc",
+            "label": "Description of the planned works with cost estimate, if possible with photos"
+          },
+          {
+            "type": "doc",
+            "label": "Receipted invoices in your name of at least €10,000 excl. VAT"
+          }
+        ],
+        "steps": [
+          "Send the application form and description of the works to the college of mayor and aldermen",
+          "Wait for the agreement in principle before starting the works (environment department, 080 39 99 90)",
+          "When finished, report it to the commune with photos and the invoices; it pays 10%, up to €3,500"
+        ]
+      },
+      "nl": {
+        "title": "Energie- und Sanierungsprämie für Altbauten (renovatiepremie oude woningen, Burg-Reuland)",
+        "desc": "Burg-Reuland betaalt 10% van de gefactureerde kosten, tot €3.500, voor de renovatie van een woning die vóór 1950 voor het eerst bewoond werd, of het ombouwen van een schuur of stal van zo'n gebouw tot woonruimte.",
+        "deadline": "Aanvragen en het akkoord van de gemeente krijgen vóór de start van de werken; binnen 3 jaar afwerken.",
+        "amount": "10% van de facturen, tot €3.500 per gebouw",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van het registratiekantoor (hoogstens twee maanden oud) dat je zakelijk recht bewijst"
+          },
+          {
+            "type": "doc",
+            "label": "Beschrijving van de geplande werken met kostenraming, zo mogelijk met foto's"
+          },
+          {
+            "type": "doc",
+            "label": "Gekwiteerde facturen op jouw naam van minstens €10.000 excl. btw"
+          }
+        ],
+        "steps": [
+          "Stuur het aanvraagformulier en de beschrijving van de werken naar het college van burgemeester en schepenen",
+          "Wacht op het principieel akkoord voor je de werken start (milieudienst, 080 39 99 90)",
+          "Meld de afwerking aan de gemeente met foto's en de facturen; die betaalt 10%, tot €3.500"
+        ]
+      },
+      "fr": {
+        "title": "Energie- und Sanierungsprämie für Altbauten (prime à la rénovation de bâtiments anciens, Burg-Reuland)",
+        "desc": "Burg-Reuland verse 10 % des coûts facturés, jusqu'à 3.500 €, pour rénover un logement habité pour la première fois avant 1950, ou transformer une grange ou une étable d'un tel bâtiment en logement.",
+        "deadline": "Demande et accord de principe de la commune avant le début des travaux ; travaux terminés dans les 3 ans.",
+        "amount": "10 % des factures, jusqu'à 3.500 € par bâtiment",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du bureau de l'enregistrement (de deux mois au plus) prouvant votre droit réel"
+          },
+          {
+            "type": "doc",
+            "label": "Description des travaux prévus avec estimation des coûts, si possible avec photos"
+          },
+          {
+            "type": "doc",
+            "label": "Factures acquittées à votre nom d'au moins 10.000 € HTVA"
+          }
+        ],
+        "steps": [
+          "Envoyez le formulaire et la description des travaux au collège des bourgmestre et échevins",
+          "Attendez l'accord de principe avant de commencer les travaux (service environnement, 080 39 99 90)",
+          "Une fois terminé, informez la commune avec photos et factures ; elle verse 10 %, jusqu'à 3.500 €"
+        ]
+      },
+      "de": {
+        "title": "Energie- und Sanierungsprämie für Altbauten (Burg-Reuland)",
+        "desc": "Burg-Reuland zahlt 10 % der in Rechnung gestellten Kosten, bis zu 3.500 €, für die Sanierung eines vor 1950 erstmals bewohnten Hauses oder den Umbau einer Scheune oder eines Stalls eines solchen Gebäudes zu Wohnraum.",
+        "deadline": "Antrag und grundsätzliche Zusage der Gemeinde vor Beginn der Arbeiten; Fertigstellung innerhalb von 3 Jahren.",
+        "amount": "10 % der Rechnungen, bis zu 3.500 € pro Gebäude",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des Registrierungsamts (höchstens zwei Monate alt) über Ihr dingliches Recht"
+          },
+          {
+            "type": "doc",
+            "label": "Beschreibung der geplanten Arbeiten mit Kostenschätzung, möglichst mit Fotos"
+          },
+          {
+            "type": "doc",
+            "label": "Quittierte Rechnungen auf Ihren Namen über mindestens 10.000 € ohne MwSt."
+          }
+        ],
+        "steps": [
+          "Senden Sie Antragsformular und Arbeitsbeschreibung an das Bürgermeister- und Schöffenkollegium",
+          "Warten Sie die grundsätzliche Zusage ab, bevor Sie mit den Arbeiten beginnen (Umweltdienst, 080 39 99 90)",
+          "Melden Sie die Fertigstellung mit Fotos und Rechnungen; die Gemeinde zahlt 10 %, bis zu 3.500 €"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://www.burg-reuland.be/buergerdienste/gemeindedienste/dienst-umwelt-und-erneuerbare-energien/praemien/",
+        "https://www.burg-reuland.be/wp-content/uploads/beschluss-praemie-energie-sanierung.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You hold a property right (ownership, co-ownership, usufruct or similar) on a building in Burg-Reuland; all holders sign or the signer acts for them.",
+          "Population register entries show the home was first lived in before 1950; the building has no planning irregularities and all required permits are in place.",
+          "A complete project of at least €10,000 excl. VAT in invoices (own labour not counted), not repairs of fire, disaster or insured damage; once per building; refundable if the building stops being housing within 10 years."
+        ],
+        "nl": [
+          "Je hebt een zakelijk recht (eigendom, mede-eigendom, vruchtgebruik of gelijkaardig) op een gebouw in Burg-Reuland; alle houders tekenen of de ondertekenaar handelt in hun naam.",
+          "Uit het bevolkingsregister blijkt dat de woning vóór 1950 voor het eerst bewoond werd; het gebouw heeft geen stedenbouwkundige onregelmatigheden en alle vereiste vergunningen zijn er.",
+          "Een volledig project van minstens €10.000 excl. btw aan facturen (eigen werk telt niet), geen herstel van brand-, ramp- of verzekerde schade; eenmaal per gebouw; terug te betalen als het gebouw binnen 10 jaar geen woonruimte meer is."
+        ],
+        "fr": [
+          "Vous détenez un droit réel (propriété, copropriété, usufruit ou similaire) sur un bâtiment à Burg-Reuland ; tous les titulaires signent ou le signataire agit en leur nom.",
+          "Le registre de la population montre que le logement a été habité pour la première fois avant 1950 ; le bâtiment ne présente pas d'irrégularité urbanistique et tous les permis requis sont obtenus.",
+          "Un projet complet d'au moins 10.000 € HTVA de factures (travail personnel non compté), hors réparation de dégâts d'incendie, de catastrophe ou assurés ; une fois par bâtiment ; remboursable si le bâtiment cesse d'être un logement dans les 10 ans."
+        ],
+        "de": [
+          "Sie haben ein dingliches Recht (Eigentum, Miteigentum, Nießbrauch oder ähnlich) an einem Gebäude in Burg-Reuland; alle Berechtigten unterschreiben oder der Unterzeichnende handelt in ihrem Auftrag.",
+          "Eintragungen im Bevölkerungsregister belegen, dass das Haus vor 1950 erstmals bewohnt wurde; das Gebäude weist keine städtebaulichen Unregelmäßigkeiten auf und alle nötigen Genehmigungen liegen vor.",
+          "Ein vollständiges Projekt mit mindestens 10.000 € ohne MwSt. an Rechnungen (Eigenleistung zählt nicht), keine Behebung von Brand-, Katastrophen- oder versicherten Schäden; einmal pro Gebäude; rückzahlbar, wenn das Gebäude innerhalb von 10 Jahren nicht mehr als Wohnraum dient."
+        ]
+      }
+    }
+  },
+  {
+    "id": 465,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "57018"
+    ],
+    "institution": "Commune de Celles",
+    "verified": "12 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.celles.be/actualites/content?u=98b612d87b684051b910dfebc2c5bc96",
+    "content": {
+      "en": {
+        "title": "Prime communale anti-inondation (Flood Protection Premium, Celles)",
+        "desc": "Celles pays up to 80% of what you invest to protect your home against flooding (masonry, drainage such as non-return valves, earthworks), up to €500 per home over 10 years, after a free home diagnosis by the Contrat de rivière Escaut-Lys.",
+        "deadline": "Apply within 6 months of the invoice date.",
+        "amount": "Up to 80% of the investment, up to €500 per home over 10 years",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Home diagnosis by the Contrat de rivière Escaut-Lys technician"
+          },
+          {
+            "type": "doc",
+            "label": "Purchase invoice for the flood protection material or works"
+          },
+          {
+            "type": "doc",
+            "label": "Completed premium application form"
+          }
+        ],
+        "steps": [
+          "Ask the Contrat de rivière Escaut-Lys for a home diagnosis (mfrens@crescautlys.be, 0470 11 10 29)",
+          "Carry out works from the eligible list drawn up by the Contrat de rivière",
+          "Send the commune's application form with the invoice within 6 months of the invoice date"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale anti-inondation (premie overstromingsbescherming, Celles)",
+        "desc": "Celles betaalt tot 80% van je investering om je woning tegen overstromingen te beschermen (metselwerk, afwatering zoals terugslagkleppen, grondwerken), tot €500 per woning over 10 jaar, na een gratis woningdiagnose door het Contrat de rivière Escaut-Lys.",
+        "deadline": "Aanvragen binnen 6 maanden na de factuurdatum.",
+        "amount": "Tot 80% van de investering, tot €500 per woning over 10 jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Woningdiagnose door de technicus van het Contrat de rivière Escaut-Lys"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoopfactuur van het beschermingsmateriaal of de werken"
+          },
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier voor de premie"
+          }
+        ],
+        "steps": [
+          "Vraag een woningdiagnose aan bij het Contrat de rivière Escaut-Lys (mfrens@crescautlys.be, 0470 11 10 29)",
+          "Voer werken uit van de lijst van het Contrat de rivière",
+          "Bezorg het aanvraagformulier van de gemeente met de factuur binnen 6 maanden na de factuurdatum"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale anti-inondation (Celles)",
+        "desc": "Celles verse jusqu'à 80 % de votre investissement pour protéger votre habitation contre les inondations (maçonnerie, égouttage comme un clapet anti-retour, terrassement), jusqu'à 500 € par habitation sur 10 ans, après un diagnostic gratuit par le Contrat de rivière Escaut-Lys.",
+        "deadline": "Demande dans les 6 mois de la date de la facture.",
+        "amount": "Jusqu'à 80 % de l'investissement, au maximum 500 € par habitation sur 10 ans",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Diagnostic de l'habitation par le technicien du Contrat de rivière Escaut-Lys"
+          },
+          {
+            "type": "doc",
+            "label": "Facture d'achat du matériel de protection ou des travaux"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande de prime complété"
+          }
+        ],
+        "steps": [
+          "Demandez un diagnostic de l'habitation au Contrat de rivière Escaut-Lys (mfrens@crescautlys.be, 0470 11 10 29)",
+          "Réalisez des travaux repris dans la liste établie par le Contrat de rivière",
+          "Introduisez le formulaire de la commune avec la facture dans les 6 mois de la date de la facture"
+        ]
+      },
+      "de": {
+        "title": "Prime communale anti-inondation (Hochwasserschutzprämie, Celles)",
+        "desc": "Celles zahlt bis zu 80 % Ihrer Investition zum Schutz Ihres Hauses vor Hochwasser (Mauerwerk, Entwässerung wie Rückstauklappen, Erdarbeiten), bis zu 500 € pro Wohnung über 10 Jahre, nach einer kostenlosen Hausdiagnose durch den Contrat de rivière Escaut-Lys.",
+        "deadline": "Antrag innerhalb von 6 Monaten nach dem Rechnungsdatum.",
+        "amount": "Bis zu 80 % der Investition, höchstens 500 € pro Wohnung über 10 Jahre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Hausdiagnose durch den Techniker des Contrat de rivière Escaut-Lys"
+          },
+          {
+            "type": "doc",
+            "label": "Rechnung für das Schutzmaterial oder die Arbeiten"
+          },
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Prämienantragsformular"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie eine Hausdiagnose beim Contrat de rivière Escaut-Lys (mfrens@crescautlys.be, 0470 11 10 29)",
+          "Führen Sie Arbeiten aus der Liste des Contrat de rivière aus",
+          "Reichen Sie das Formular der Gemeinde mit der Rechnung innerhalb von 6 Monaten nach dem Rechnungsdatum ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "12 Nov 2026",
+      "source_url": [
+        "https://www.celles.be/mon-administration/cadre-de-vie/gestion-des-inondations/prime",
+        "https://www.celles.be/actualites/content?u=98b612d87b684051b910dfebc2c5bc96"
+      ],
+      "conditions": {
+        "en": [
+          "Your home is in the commune of Celles and you invest in works to protect it against water intrusion.",
+          "A technician of the Contrat de rivière Escaut-Lys has visited your home for a diagnosis, and the works are on its list (masonry, drainage, earthworks).",
+          "Purchase invoice presented and application made within 6 months of its date; at most €500 per home over 10 years, within the commune's budget."
+        ],
+        "nl": [
+          "Je woning ligt in de gemeente Celles en je investeert in werken om ze te beschermen tegen binnendringend water.",
+          "Een technicus van het Contrat de rivière Escaut-Lys heeft je woning bezocht voor een diagnose, en de werken staan op zijn lijst (metselwerk, afwatering, grondwerken).",
+          "Aankoopfactuur voorgelegd en aanvraag binnen 6 maanden na de factuurdatum; hoogstens €500 per woning over 10 jaar, binnen het budget van de gemeente."
+        ],
+        "fr": [
+          "Votre habitation se trouve dans la commune de Celles et vous investissez dans des travaux pour la protéger contre l'intrusion de l'eau.",
+          "Un technicien du Contrat de rivière Escaut-Lys a réalisé le diagnostic de votre habitation et les travaux figurent sur sa liste (maçonnerie, égouttage, terrassement).",
+          "Facture d'achat présentée et demande introduite dans les 6 mois de sa date ; au maximum 500 € par habitation sur 10 ans, dans la limite du budget communal."
+        ],
+        "de": [
+          "Ihre Wohnung liegt in der Gemeinde Celles und Sie investieren in Arbeiten zum Schutz vor eindringendem Wasser.",
+          "Ein Techniker des Contrat de rivière Escaut-Lys hat Ihr Haus diagnostiziert, und die Arbeiten stehen auf seiner Liste (Mauerwerk, Entwässerung, Erdarbeiten).",
+          "Rechnung vorgelegt und Antrag innerhalb von 6 Monaten nach deren Datum; höchstens 500 € pro Wohnung über 10 Jahre, im Rahmen des Gemeindehaushalts."
+        ]
+      }
+    }
   }
 ]

@@ -1138,49 +1138,87 @@
         454,
         455
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "61010",
-      "name": "Burdinne"
+      "name": "Burdinne",
+      "checked": "12 Nov 2026",
+      "ids": []
     },
     {
       "nis": "11009",
-      "name": "Brecht"
+      "name": "Brecht",
+      "checked": "12 Nov 2026",
+      "ids": [
+        456
+      ]
     },
     {
       "nis": "63087",
-      "name": "Burg-Reuland"
+      "name": "Burg-Reuland",
+      "checked": "12 Nov 2026",
+      "ids": [
+        464
+      ]
     },
     {
       "nis": "35002",
-      "name": "Bredene"
+      "name": "Bredene",
+      "checked": "12 Nov 2026",
+      "ids": [
+        457,
+        458,
+        459
+      ]
     },
     {
       "nis": "63013",
-      "name": "Bütgenbach / Butgenbach"
+      "name": "Bütgenbach / Butgenbach",
+      "checked": "12 Nov 2026",
+      "ids": []
     },
     {
       "nis": "72004",
-      "name": "Bree"
+      "name": "Bree",
+      "checked": "12 Nov 2026",
+      "ids": [
+        460
+      ]
     },
     {
       "nis": "57018",
-      "name": "Celles"
+      "name": "Celles",
+      "checked": "12 Nov 2026",
+      "ids": [
+        465
+      ]
     },
     {
       "nis": "93010",
-      "name": "Cerfontaine"
+      "name": "Cerfontaine",
+      "checked": "12 Nov 2026",
+      "ids": [
+        462
+      ]
     },
     {
       "nis": "42004",
-      "name": "Buggenhout"
+      "name": "Buggenhout",
+      "checked": "12 Nov 2026",
+      "ids": [
+        461
+      ]
     },
     {
       "nis": "52010",
-      "name": "Chapelle-lez-Herlaimont"
-    },
+      "name": "Chapelle-lez-Herlaimont",
+      "checked": "12 Nov 2026",
+      "ids": [
+        463
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "31006",
       "name": "Damme"
