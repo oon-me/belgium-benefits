@@ -57297,5 +57297,1626 @@
         ]
       }
     }
+  },
+  {
+    "id": 466,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "31006"
+    ],
+    "institution": "OCMW Damme",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.damme.be/product/195/toelage-thuiszorg",
+    "content": {
+      "en": {
+        "title": "Toelage thuiszorg (Home Care Allowance, Damme)",
+        "desc": "Damme's OCMW pays a carer up to €40 a month for looking after one person in need of care at home, or up to €60 a month for two, when the person cared for has increased reimbursement (verhoogde tegemoetkoming).",
+        "deadline": "No deadline: the allowance starts on the first day of the month after you apply.",
+        "amount": "Up to €40 a month (one person cared for) or €60 a month (two)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Sticker or certificate from the health fund showing increased reimbursement"
+          },
+          {
+            "type": "doc",
+            "label": "Recent FOD Social Security or child-benefit care certificate, if you have one"
+          },
+          {
+            "type": "doc",
+            "label": "Signed statement that you will report a hospital or care-home admission"
+          }
+        ],
+        "steps": [
+          "Apply at the Sociaal Huis (Brouwerijstraat 4, Sijsele, 050 67 28 40)",
+          "A social worker visits you at home, assesses the need for care and completes the application",
+          "After approval the allowance is paid every three months"
+        ]
+      },
+      "nl": {
+        "title": "Toelage thuiszorg (Damme)",
+        "desc": "Het OCMW van Damme betaalt een mantelzorger tot €40 per maand voor de thuiszorg van één zorgbehoevende, of tot €60 per maand voor twee, als de zorgbehoevende recht heeft op de verhoogde tegemoetkoming.",
+        "deadline": "Geen termijn: de toelage gaat in op de eerste dag van de maand na je aanvraag.",
+        "amount": "Tot €40 per maand (één zorgbehoevende) of €60 per maand (twee)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kleefbriefje of attest van het ziekenfonds dat de verhoogde tegemoetkoming aantoont"
+          },
+          {
+            "type": "doc",
+            "label": "Recent attest van de FOD Sociale Zekerheid of zorgtoeslag van het groeipakket, als je er een hebt"
+          },
+          {
+            "type": "doc",
+            "label": "Ondertekende verklaring dat je een opname in ziekenhuis of woonzorgcentrum meldt"
+          }
+        ],
+        "steps": [
+          "Vraag de toelage aan bij het Sociaal Huis (Brouwerijstraat 4, Sijsele, 050 67 28 40)",
+          "Een maatschappelijk werker komt op huisbezoek, brengt de zorgbehoefte in kaart en vervolledigt de aanvraag",
+          "Na goedkeuring wordt de toelage driemaandelijks uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Toelage thuiszorg (allocation de soins à domicile, Damme)",
+        "desc": "Le CPAS (OCMW) de Damme verse à l'aidant proche jusqu'à 40 € par mois pour s'occuper à domicile d'une personne dépendante, ou jusqu'à 60 € par mois pour deux, si la personne aidée bénéficie de l'intervention majorée (verhoogde tegemoetkoming).",
+        "deadline": "Pas de délai : l'allocation prend cours le premier jour du mois qui suit la demande.",
+        "amount": "Jusqu'à 40 € par mois (une personne aidée) ou 60 € par mois (deux)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vignette ou attestation de la mutualité prouvant l'intervention majorée"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation récente du SPF Sécurité sociale ou du supplément de soins des allocations familiales, si vous en avez une"
+          },
+          {
+            "type": "doc",
+            "label": "Déclaration signée par laquelle vous vous engagez à signaler une hospitalisation ou une admission en maison de repos"
+          }
+        ],
+        "steps": [
+          "Faites la demande au Sociaal Huis (Brouwerijstraat 4, Sijsele, 050 67 28 40)",
+          "Un travailleur social vous rend visite, évalue le besoin de soins et complète la demande",
+          "Après approbation, l'allocation est versée tous les trois mois"
+        ]
+      },
+      "de": {
+        "title": "Toelage thuiszorg (Zulage für häusliche Pflege, Damme)",
+        "desc": "Das ÖSHZ (OCMW) Damme zahlt pflegenden Angehörigen bis zu 40 € im Monat für die häusliche Pflege einer pflegebedürftigen Person oder bis zu 60 € im Monat für zwei, wenn die gepflegte Person Anspruch auf die erhöhte Kostenbeteiligung (verhoogde tegemoetkoming) hat.",
+        "deadline": "Keine Frist: Die Zulage beginnt am ersten Tag des Monats nach dem Antrag.",
+        "amount": "Bis zu 40 € im Monat (eine gepflegte Person) oder 60 € im Monat (zwei)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vignette oder Bescheinigung der Krankenkasse über die erhöhte Kostenbeteiligung"
+          },
+          {
+            "type": "doc",
+            "label": "Aktuelle Bescheinigung des FÖD Soziale Sicherheit oder des Pflegezuschlags zum Kindergeld, falls vorhanden"
+          },
+          {
+            "type": "doc",
+            "label": "Unterschriebene Erklärung, dass Sie eine Aufnahme in Krankenhaus oder Pflegeheim melden"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Zulage im Sociaal Huis (Brouwerijstraat 4, Sijsele, 050 67 28 40)",
+          "Ein Sozialarbeiter besucht Sie zu Hause, ermittelt den Pflegebedarf und vervollständigt den Antrag",
+          "Nach der Genehmigung wird die Zulage vierteljährlich ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.damme.be/product/195/toelage-thuiszorg",
+        "https://www.damme.be/download.ashx?id=10278"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for is domiciled in Damme, either at the same address as you or connected to you through a personal alarm.",
+          "The person cared for is entitled to increased reimbursement (verhoogde tegemoetkoming) from the health fund.",
+          "Need for care shown by an FOD Social Security certificate with at least 12 points, a child-benefit care certificate (at least 4 points in pillar 1 or 6 in total), or the OCMW's own scale (at least 2 criteria).",
+          "A social worker confirms on a home visit that you really provide the care; a child under 21 lives at home or comes home every day."
+        ],
+        "nl": [
+          "De zorgbehoevende is gedomicilieerd in Damme, op hetzelfde adres als jij of met jou verbonden via een personenalarm.",
+          "De zorgbehoevende heeft recht op de verhoogde tegemoetkoming van het ziekenfonds.",
+          "Zorgbehoevendheid blijkt uit een attest van de FOD Sociale Zekerheid met minstens 12 punten, een attest zorgtoeslag (minstens 4 punten in pijler 1 of 6 in totaal) of de eigen schaal van het OCMW (minstens 2 criteria).",
+          "Een maatschappelijk werker stelt bij een huisbezoek vast dat je de zorg effectief opneemt; een kind jonger dan 21 woont thuis of keert dagelijks naar huis terug."
+        ],
+        "fr": [
+          "La personne aidée est domiciliée à Damme, à la même adresse que vous ou reliée à vous par un système d'alarme personnelle.",
+          "La personne aidée a droit à l'intervention majorée (verhoogde tegemoetkoming) de la mutualité.",
+          "Besoin de soins prouvé par une attestation du SPF Sécurité sociale d'au moins 12 points, une attestation de supplément de soins (au moins 4 points au pilier 1 ou 6 au total) ou l'échelle propre du CPAS (au moins 2 critères).",
+          "Un travailleur social constate lors d'une visite que vous assurez réellement les soins ; un enfant de moins de 21 ans vit à la maison ou y rentre chaque jour."
+        ],
+        "de": [
+          "Die gepflegte Person hat ihren Wohnsitz in Damme, an derselben Adresse wie Sie oder über ein Personennotrufgerät mit Ihnen verbunden.",
+          "Die gepflegte Person hat Anspruch auf die erhöhte Kostenbeteiligung (verhoogde tegemoetkoming) der Krankenkasse.",
+          "Pflegebedarf belegt durch eine Bescheinigung des FÖD Soziale Sicherheit mit mindestens 12 Punkten, eine Bescheinigung zum Pflegezuschlag (mindestens 4 Punkte in Säule 1 oder 6 insgesamt) oder die eigene Skala des ÖSHZ (mindestens 2 Kriterien).",
+          "Ein Sozialarbeiter stellt bei einem Hausbesuch fest, dass Sie die Pflege tatsächlich leisten; ein Kind unter 21 wohnt zu Hause oder kehrt täglich heim."
+        ]
+      }
+    }
+  },
+  {
+    "id": 467,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35029"
+    ],
+    "institution": "OCMW De Haan",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.dehaan.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, De Haan)",
+        "desc": "De Haan pays carers €35 a month for each person in need of care they look after, so that person can keep living at home.",
+        "deadline": "No deadline: payment starts on the first of the month after the special committee for social services approves it.",
+        "amount": "€35 a month per person cared for",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "FOD Social Security certificate (integration allowance or care budget, at least 12 points) or care-budget certificate for people with a high need of care"
+          },
+          {
+            "type": "doc",
+            "label": "Self-reliance table ('zelfredzaamheid') filled in by the GP"
+          },
+          {
+            "type": "doc",
+            "label": "Signed statement on honour that you support the home care"
+          }
+        ],
+        "steps": [
+          "Apply in writing or in person at the Sociaal Huis (Dienst Welzijn, Markt 2, 050 43 51 40)",
+          "A social worker carries out a social inquiry and the special committee for social services decides",
+          "Report in writing straight away if the person moves into a care home or dies"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (De Haan)",
+        "desc": "De Haan betaalt mantelzorgers €35 per maand per zorgbehoevende voor wie ze zorgen, zodat die persoon thuis kan blijven wonen.",
+        "deadline": "Geen termijn: de uitbetaling gaat in op de eerste van de maand na de beslissing van het Bijzonder Comité Sociale Dienst.",
+        "amount": "€35 per maand per zorgbehoevende",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest FOD SZ integratietegemoetkoming of zorgbudget (minstens 12 punten) of attest zorgbudget voor zwaarbehoevenden"
+          },
+          {
+            "type": "doc",
+            "label": "Tabel 'zelfredzaamheid' ingevuld door de huisarts"
+          },
+          {
+            "type": "doc",
+            "label": "Ondertekende verklaring op eer dat je instaat voor de ondersteuning van de thuiszorg"
+          }
+        ],
+        "steps": [
+          "Vraag de premie schriftelijk of mondeling aan bij het Sociaal Huis (Dienst Welzijn, Markt 2, 050 43 51 40)",
+          "Na een sociaal onderzoek beslist het Bijzonder Comité Sociale Dienst",
+          "Meld een definitieve opname of overlijden meteen schriftelijk aan de sociale dienst"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime pour aidant proche, De Haan)",
+        "desc": "De Haan verse aux aidants proches 35 € par mois par personne dépendante dont ils s'occupent, pour qu'elle puisse continuer à vivre chez elle.",
+        "deadline": "Pas de délai : le paiement commence le premier du mois qui suit la décision du comité spécial du service social.",
+        "amount": "35 € par mois par personne aidée",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du SPF Sécurité sociale (allocation d'intégration ou budget de soins, au moins 12 points) ou attestation de budget de soins pour personnes fortement dépendantes"
+          },
+          {
+            "type": "doc",
+            "label": "Tableau d'autonomie (« zelfredzaamheid ») rempli par le médecin traitant"
+          },
+          {
+            "type": "doc",
+            "label": "Déclaration sur l'honneur signée attestant que vous soutenez les soins à domicile"
+          }
+        ],
+        "steps": [
+          "Faites la demande par écrit ou de vive voix au Sociaal Huis (Dienst Welzijn, Markt 2, 050 43 51 40)",
+          "Un travailleur social mène une enquête sociale et le comité spécial du service social décide",
+          "Signalez immédiatement par écrit une admission définitive en maison de repos ou un décès"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, De Haan)",
+        "desc": "De Haan zahlt pflegenden Angehörigen 35 € im Monat pro pflegebedürftiger Person, damit diese zu Hause wohnen bleiben kann.",
+        "deadline": "Keine Frist: Die Zahlung beginnt am Ersten des Monats nach der Entscheidung des Sonderausschusses für den Sozialdienst.",
+        "amount": "35 € im Monat pro gepflegter Person",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD Soziale Sicherheit (Eingliederungsbeihilfe oder Pflegebudget, mindestens 12 Punkte) oder Bescheinigung über das Pflegebudget für Schwerpflegebedürftige"
+          },
+          {
+            "type": "doc",
+            "label": "Tabelle zur Selbstständigkeit („zelfredzaamheid“), vom Hausarzt ausgefüllt"
+          },
+          {
+            "type": "doc",
+            "label": "Unterschriebene ehrenwörtliche Erklärung, dass Sie die häusliche Pflege unterstützen"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Prämie schriftlich oder mündlich im Sociaal Huis (Dienst Welzijn, Markt 2, 050 43 51 40)",
+          "Nach einer Sozialuntersuchung entscheidet der Sonderausschuss für den Sozialdienst",
+          "Melden Sie eine dauerhafte Heimaufnahme oder einen Todesfall sofort schriftlich"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.dehaan.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "You are an adult, live in De Haan or a neighbouring commune, and sign a statement on honour that you support the person's home care.",
+          "The person cared for lives in De Haan, independently or in an assisted-living flat; a minor must stay with you at least at weekends.",
+          "The person cared for has an FOD Social Security certificate (integration allowance or care budget) of at least 12 points and/or a care budget for people with a high need of care; for a minor, at least 4 points in pillar 1 or at least 66% incapacity."
+        ],
+        "nl": [
+          "Je bent meerderjarig, woont in De Haan of een buurgemeente en tekent een verklaring op eer dat je instaat voor de ondersteuning van de thuiszorg.",
+          "De zorgbehoevende woont in De Haan, zelfstandig of in een assistentiewoning; een minderjarige verblijft minstens tijdens de weekends bij jou.",
+          "De zorgbehoevende heeft een attest FOD SZ integratietegemoetkoming of zorgbudget van minstens 12 punten en/of een zorgbudget voor zwaarbehoevenden; voor een minderjarige minstens 4 punten in pijler 1 of een ongeschiktheid van minstens 66%."
+        ],
+        "fr": [
+          "Vous êtes majeur, habitez De Haan ou une commune voisine et signez une déclaration sur l'honneur attestant que vous soutenez les soins à domicile.",
+          "La personne aidée habite De Haan, de façon autonome ou dans une résidence-services ; un mineur séjourne chez vous au moins le week-end.",
+          "La personne aidée a une attestation du SPF Sécurité sociale (allocation d'intégration ou budget de soins) d'au moins 12 points et/ou un budget de soins pour personnes fortement dépendantes ; pour un mineur, au moins 4 points au pilier 1 ou une incapacité d'au moins 66 %."
+        ],
+        "de": [
+          "Sie sind volljährig, wohnen in De Haan oder einer Nachbargemeinde und unterschreiben eine ehrenwörtliche Erklärung, dass Sie die häusliche Pflege unterstützen.",
+          "Die gepflegte Person wohnt in De Haan, selbstständig oder in einer Servicewohnung; ein Minderjähriger hält sich mindestens an den Wochenenden bei Ihnen auf.",
+          "Die gepflegte Person hat eine Bescheinigung des FÖD Soziale Sicherheit (Eingliederungsbeihilfe oder Pflegebudget) mit mindestens 12 Punkten und/oder ein Pflegebudget für Schwerpflegebedürftige; bei Minderjährigen mindestens 4 Punkte in Säule 1 oder mindestens 66 % Erwerbsunfähigkeit."
+        ]
+      }
+    }
+  },
+  {
+    "id": 468,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35029"
+    ],
+    "institution": "Gemeente De Haan",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.dehaan.be/gemeentelijke-subsidie-voor-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Subsidie voor herbruikbare luiers (Reusable Nappies Subsidy, De Haan)",
+        "desc": "De Haan refunds half of what you pay for new reusable nappies, up to €125 per child under 3, once per child.",
+        "deadline": "Apply before the child's third birthday, with an invoice no more than 3 years old.",
+        "amount": "50% of the invoice, up to €125 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Invoice for the reusable nappies in the applicant's name"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment"
+          },
+          {
+            "type": "doc",
+            "label": "Application form (online or on paper)"
+          }
+        ],
+        "steps": [
+          "Buy new (not second-hand) reusable nappies and keep the invoice in your name",
+          "Fill in the application form online or send it to the Dienst Milieu (Leopoldlaan 24, De Haan)",
+          "Attach the invoice and proof of payment"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke subsidie voor herbruikbare luiers (De Haan)",
+        "desc": "De Haan betaalt de helft van je aankoop van nieuwe herbruikbare luiers terug, tot €125 per kind jonger dan 3 jaar, eenmaal per kind.",
+        "deadline": "Aanvragen vóór de derde verjaardag van het kind, met een factuur van hoogstens 3 jaar oud.",
+        "amount": "50% van de factuur, tot €125 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aankoopfactuur van de herbruikbare luiers op naam van de aanvrager"
+          },
+          {
+            "type": "doc",
+            "label": "Betaalbewijs"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier (digitaal of op papier)"
+          }
+        ],
+        "steps": [
+          "Koop nieuwe (geen tweedehands) herbruikbare luiers en vraag een factuur op je naam",
+          "Vul het aanvraagformulier digitaal in of bezorg het aan de Dienst Milieu (Leopoldlaan 24, De Haan)",
+          "Voeg de factuur en het betaalbewijs toe"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie voor herbruikbare luiers (subside langes lavables, De Haan)",
+        "desc": "De Haan rembourse la moitié de votre achat de langes lavables neufs, jusqu'à 125 € par enfant de moins de 3 ans, une fois par enfant.",
+        "deadline": "Demande avant le troisième anniversaire de l'enfant, avec une facture de 3 ans maximum.",
+        "amount": "50 % de la facture, jusqu'à 125 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Facture d'achat des langes lavables au nom du demandeur"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande (en ligne ou papier)"
+          }
+        ],
+        "steps": [
+          "Achetez des langes lavables neufs (pas d'occasion) et demandez une facture à votre nom",
+          "Remplissez le formulaire en ligne ou envoyez-le au Dienst Milieu (Leopoldlaan 24, De Haan)",
+          "Joignez la facture et la preuve de paiement"
+        ]
+      },
+      "de": {
+        "title": "Subsidie voor herbruikbare luiers (Zuschuss für Stoffwindeln, De Haan)",
+        "desc": "De Haan erstattet die Hälfte Ihres Kaufs neuer Stoffwindeln, bis zu 125 € pro Kind unter 3 Jahren, einmal pro Kind.",
+        "deadline": "Antrag vor dem dritten Geburtstag des Kindes, mit einer höchstens 3 Jahre alten Rechnung.",
+        "amount": "50 % der Rechnung, bis zu 125 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Rechnung für die Stoffwindeln auf den Namen des Antragstellers"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular (online oder auf Papier)"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie neue (keine gebrauchten) Stoffwindeln und lassen Sie die Rechnung auf Ihren Namen ausstellen",
+          "Füllen Sie das Antragsformular online aus oder senden Sie es an den Dienst Milieu (Leopoldlaan 24, De Haan)",
+          "Fügen Sie Rechnung und Zahlungsnachweis bei"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.dehaan.be/gemeentelijke-subsidie-voor-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "The parent(s) or guardian(s) and the child are all registered at the same address in De Haan's population or foreigners' register (bevolkings- of vreemdelingenregister).",
+          "The invoice is in the applicant's name, dated from 1 January 2020 and no more than 3 years before the application, and applicant and child were registered in De Haan on its date.",
+          "Second-hand nappies do not count; once per child, applied for before the child turns 3."
+        ],
+        "nl": [
+          "De ouder(s) of voogd(en) en het kind zijn allen op hetzelfde adres ingeschreven in het bevolkings- of vreemdelingenregister van De Haan.",
+          "De factuur staat op naam van de aanvrager, dateert van 1 januari 2020 of later en is niet ouder dan 3 jaar, en aanvrager en kind waren op de factuurdatum in De Haan ingeschreven.",
+          "Tweedehands luiers komen niet in aanmerking; eenmaal per kind, aan te vragen vóór de derde verjaardag."
+        ],
+        "fr": [
+          "Le(s) parent(s) ou tuteur(s) et l'enfant sont tous inscrits à la même adresse au registre de la population ou des étrangers de De Haan (bevolkings- of vreemdelingenregister).",
+          "La facture est au nom du demandeur, datée du 1er janvier 2020 au plus tôt et de moins de 3 ans, et le demandeur et l'enfant étaient inscrits à De Haan à sa date.",
+          "Les langes d'occasion ne comptent pas ; une fois par enfant, demande avant ses 3 ans."
+        ],
+        "de": [
+          "Elternteil(e) oder Vormund und Kind sind alle an derselben Adresse im Bevölkerungs- oder Fremdenregister von De Haan (bevolkings- of vreemdelingenregister) eingetragen.",
+          "Die Rechnung lautet auf den Antragsteller, datiert frühestens vom 1. Januar 2020 und ist höchstens 3 Jahre alt, und Antragsteller und Kind waren an ihrem Datum in De Haan eingetragen.",
+          "Gebrauchte Windeln zählen nicht; einmal pro Kind, Antrag vor dem dritten Geburtstag."
+        ]
+      }
+    }
+  },
+  {
+    "id": 469,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25117"
+    ],
+    "institution": "Commune de Chastre",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.chastre.be/services-communaux/finances/octroi-de-primes-subsides-1/prime-de-naissance",
+    "content": {
+      "en": {
+        "title": "Prime de naissance (Birth Premium, Chastre)",
+        "desc": "Chastre gives €150 for each birth, or adoption of a child under 3, to a household living in the commune.",
+        "deadline": "Apply before the child's first birthday (adoption: within the year of the adoption).",
+        "amount": "€150 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed and signed application form"
+          }
+        ],
+        "steps": [
+          "Download the application form from the commune's website",
+          "Fill it in and sign it, with the bank account for the payment",
+          "Return it to the commune administration before the child's first birthday"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance (geboortepremie, Chastre)",
+        "desc": "Chastre geeft €150 bij elke geboorte of adoptie van een kind jonger dan 3 jaar aan een gezin dat in de gemeente woont.",
+        "deadline": "Aanvragen vóór de eerste verjaardag van het kind (adoptie: binnen het jaar van de adoptie).",
+        "amount": "€150 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld en ondertekend aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op de website van de gemeente",
+          "Vul het in en onderteken het, met het rekeningnummer voor de betaling",
+          "Bezorg het aan het gemeentebestuur vóór de eerste verjaardag van het kind"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance (Chastre)",
+        "desc": "Chastre octroie 150 € pour chaque naissance ou adoption d'un enfant de moins de 3 ans à un ménage domicilié dans la commune.",
+        "deadline": "Demande avant le premier anniversaire de l'enfant (adoption : dans l'année de l'adoption).",
+        "amount": "150 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété et signé"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande sur le site de la commune",
+          "Complétez-le et signez-le, avec le compte bancaire pour le paiement",
+          "Remettez-le à l'administration communale avant le premier anniversaire de l'enfant"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance (Geburtsprämie, Chastre)",
+        "desc": "Chastre gewährt 150 € für jede Geburt oder Adoption eines Kindes unter 3 Jahren an einen Haushalt mit Wohnsitz in der Gemeinde.",
+        "deadline": "Antrag vor dem ersten Geburtstag des Kindes (Adoption: im Jahr der Adoption).",
+        "amount": "150 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes und unterschriebenes Antragsformular"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf der Website der Gemeinde herunter",
+          "Füllen Sie es aus und unterschreiben Sie es, mit dem Bankkonto für die Zahlung",
+          "Reichen Sie es vor dem ersten Geburtstag des Kindes bei der Gemeindeverwaltung ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.chastre.be/services-communaux/finances/octroi-de-primes-subsides-1/prime-de-naissance/octroi-dune-prime-de-naissance/reglement-prime-de-naissance.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are the head of the household or their partner, domiciled in Chastre on the date of the birth (or adoption).",
+          "For a birth, or the adoption of a child under 3.",
+          "Apply with the form before the child's first birthday, or within the year of the adoption; within the budget available."
+        ],
+        "nl": [
+          "Je bent gezinshoofd of diens partner en gedomicilieerd in Chastre op de datum van de geboorte (of adoptie).",
+          "Voor een geboorte of de adoptie van een kind jonger dan 3 jaar.",
+          "Aanvraag met het formulier vóór de eerste verjaardag van het kind, of binnen het jaar van de adoptie; binnen het beschikbare budget."
+        ],
+        "fr": [
+          "Vous êtes le/la chef(fe) de ménage ou son conjoint, domicilié à Chastre à la date de la naissance (ou de l'adoption).",
+          "Pour une naissance ou l'adoption d'un enfant de moins de 3 ans.",
+          "Demande avec le formulaire avant le premier anniversaire de l'enfant, ou dans l'année de l'adoption ; dans les limites des crédits disponibles."
+        ],
+        "de": [
+          "Sie sind Haushaltsvorstand oder dessen Partner und haben am Tag der Geburt (oder Adoption) Ihren Wohnsitz in Chastre.",
+          "Für eine Geburt oder die Adoption eines Kindes unter 3 Jahren.",
+          "Antrag mit dem Formular vor dem ersten Geburtstag des Kindes oder im Jahr der Adoption; im Rahmen der verfügbaren Mittel."
+        ]
+      }
+    }
+  },
+  {
+    "id": 470,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25117"
+    ],
+    "institution": "Commune de Chastre",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.chastre.be/services-communaux/finances/octroi-de-primes-subsides-1/prime-pour-acquisition-de-langes-lavables-1",
+    "content": {
+      "en": {
+        "title": "Prime langes lavables (Washable Nappies Premium, Chastre)",
+        "desc": "Chastre refunds 75% of what you spend on washable nappies, up to €250 per child, or up to €100 if you rent a kit to try them first.",
+        "deadline": "Once per calendar year per child, until the child is 3 (up to 12 with a medical certificate).",
+        "amount": "75% of the purchase, up to €250 per child (rental: up to €100)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of purchase"
+          },
+          {
+            "type": "doc",
+            "label": "Completed and signed application form"
+          }
+        ],
+        "steps": [
+          "Buy or rent washable nappies (more than 85% reusable materials)",
+          "Fill in the commune's application form with your bank account",
+          "Send it with the proof of purchase to the commune (questions: environnement@chastre.be)"
+        ]
+      },
+      "nl": {
+        "title": "Prime langes lavables (premie wasbare luiers, Chastre)",
+        "desc": "Chastre betaalt 75% van je uitgaven voor wasbare luiers terug, tot €250 per kind, of tot €100 als je eerst een pakket huurt om ze te testen.",
+        "deadline": "Eenmaal per kalenderjaar per kind, tot het kind 3 jaar is (tot 12 jaar met een medisch attest).",
+        "amount": "75% van de aankoop, tot €250 per kind (huur: tot €100)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aankoopbewijs"
+          },
+          {
+            "type": "doc",
+            "label": "Ingevuld en ondertekend aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Koop of huur wasbare luiers (meer dan 85% herbruikbare materialen)",
+          "Vul het aanvraagformulier van de gemeente in, met je rekeningnummer",
+          "Bezorg het met het aankoopbewijs aan de gemeente (vragen: environnement@chastre.be)"
+        ]
+      },
+      "fr": {
+        "title": "Prime langes lavables (Chastre)",
+        "desc": "Chastre rembourse 75 % de vos dépenses en langes lavables, jusqu'à 250 € par enfant, ou jusqu'à 100 € si vous louez d'abord un kit pour les tester.",
+        "deadline": "Une fois par année civile et par enfant, jusqu'à 3 ans accomplis (jusqu'à 12 ans sur justificatif médical).",
+        "amount": "75 % de l'achat, jusqu'à 250 € par enfant (location : jusqu'à 100 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve d'achat"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété et signé"
+          }
+        ],
+        "steps": [
+          "Achetez ou louez des langes lavables (plus de 85 % de matériaux réutilisables)",
+          "Complétez le formulaire de la commune avec votre compte bancaire",
+          "Envoyez-le avec la preuve d'achat à la commune (questions : environnement@chastre.be)"
+        ]
+      },
+      "de": {
+        "title": "Prime langes lavables (Prämie für Stoffwindeln, Chastre)",
+        "desc": "Chastre erstattet 75 % Ihrer Ausgaben für Stoffwindeln, bis zu 250 € pro Kind, oder bis zu 100 €, wenn Sie zuerst ein Testpaket mieten.",
+        "deadline": "Einmal pro Kalenderjahr und Kind, bis zum vollendeten 3. Lebensjahr (bis 12 Jahre mit ärztlichem Nachweis).",
+        "amount": "75 % des Kaufpreises, bis zu 250 € pro Kind (Miete: bis zu 100 €)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kaufnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Ausgefülltes und unterschriebenes Antragsformular"
+          }
+        ],
+        "steps": [
+          "Kaufen oder mieten Sie Stoffwindeln (mehr als 85 % wiederverwendbare Materialien)",
+          "Füllen Sie das Antragsformular der Gemeinde mit Ihrem Bankkonto aus",
+          "Senden Sie es mit dem Kaufnachweis an die Gemeinde (Fragen: environnement@chastre.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.chastre.be/services-communaux/finances/octroi-de-primes-subsides-1/prime-pour-acquisition-de-langes-lavables-1/formulaire-de-demande-de-prime/prime-langes-lavables.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are the parent or legal guardian of the child and domiciled in Chastre on the date of purchase.",
+          "Once per calendar year per child, until the child is 3 (up to 12 with a medical certificate).",
+          "Within the budget available; after a rental premium, the purchase premium is capped at €150 for that child."
+        ],
+        "nl": [
+          "Je bent ouder of wettelijke voogd van het kind en gedomicilieerd in Chastre op de aankoopdatum.",
+          "Eenmaal per kalenderjaar per kind, tot het kind 3 jaar is (tot 12 jaar met een medisch attest).",
+          "Binnen het beschikbare budget; na een huurpremie is de aankooppremie voor dat kind beperkt tot €150."
+        ],
+        "fr": [
+          "Vous êtes le parent ou le tuteur légal de l'enfant, domicilié à Chastre à la date d'achat.",
+          "Une fois par année civile et par enfant, jusqu'à 3 ans accomplis (jusqu'à 12 ans sur justificatif médical).",
+          "Dans les limites des crédits disponibles ; après une prime à la location, la prime à l'achat est limitée à 150 € pour cet enfant."
+        ],
+        "de": [
+          "Sie sind Elternteil oder gesetzlicher Vormund des Kindes und haben am Kaufdatum Ihren Wohnsitz in Chastre.",
+          "Einmal pro Kalenderjahr und Kind, bis zum vollendeten 3. Lebensjahr (bis 12 Jahre mit ärztlichem Nachweis).",
+          "Im Rahmen der verfügbaren Mittel; nach einer Mietprämie ist die Kaufprämie für dieses Kind auf 150 € begrenzt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 471,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "38008"
+    ],
+    "institution": "Gemeente De Panne",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.depanne.be/nl/welzijn/senioren/thuiszorgdiensten/premie-personenalarm",
+    "content": {
+      "en": {
+        "title": "Premie personenalarm (Personal Alarm Premium, De Panne)",
+        "desc": "De Panne gives a one-off €75 to residents who start using a personal alarm (worn around the neck or wrist) from a health fund or Gerust Zorgcentrale.",
+        "deadline": "Apply within 12 months of installing or activating the alarm; only alarms from 1 January 2026.",
+        "amount": "€75, once",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Installation or activation certificate of the alarm"
+          },
+          {
+            "type": "id",
+            "label": "National register number (for the payment)"
+          }
+        ],
+        "steps": [
+          "Have a personal alarm installed through a health fund or Gerust Zorgcentrale",
+          "Apply with the online form on De Panne's website, or by appointment at the Thuiszorgloket (De Boare, Koningsplein 1, 058 42 97 65)",
+          "Add the installation certificate; after approval the premium is paid into your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Premie personenalarm (De Panne)",
+        "desc": "De Panne geeft een eenmalige premie van €75 aan inwoners die een personenalarm (rond hals of pols) in gebruik nemen via een ziekenfonds of Gerust Zorgcentrale.",
+        "deadline": "Aanvragen binnen 12 maanden na installatie of activering; enkel alarmen vanaf 1 januari 2026.",
+        "amount": "€75, eenmalig",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van installatie of activering van het personenalarm"
+          },
+          {
+            "type": "id",
+            "label": "Rijksregisternummer (voor de uitbetaling)"
+          }
+        ],
+        "steps": [
+          "Laat een personenalarm installeren via een ziekenfonds of Gerust Zorgcentrale",
+          "Vraag de premie aan via het online formulier van De Panne, of op afspraak bij het Thuiszorgloket (De Boare, Koningsplein 1, 058 42 97 65)",
+          "Voeg het installatieattest toe; na goedkeuring volgt de betaling op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Premie personenalarm (prime alarme personnelle, De Panne)",
+        "desc": "La Panne octroie une prime unique de 75 € aux habitants qui mettent en service une alarme personnelle (au cou ou au poignet) via une mutualité ou Gerust Zorgcentrale.",
+        "deadline": "Demande dans les 12 mois de l'installation ou de l'activation ; uniquement les alarmes à partir du 1er janvier 2026.",
+        "amount": "75 €, une seule fois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation d'installation ou d'activation de l'alarme"
+          },
+          {
+            "type": "id",
+            "label": "Numéro de registre national (pour le paiement)"
+          }
+        ],
+        "steps": [
+          "Faites installer une alarme personnelle via une mutualité ou Gerust Zorgcentrale",
+          "Demandez la prime via le formulaire en ligne de La Panne, ou sur rendez-vous au Thuiszorgloket (De Boare, Koningsplein 1, 058 42 97 65)",
+          "Joignez l'attestation d'installation ; après approbation, la prime est versée sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Premie personenalarm (Prämie für Personennotruf, De Panne)",
+        "desc": "De Panne gewährt Einwohnern, die über eine Krankenkasse oder die Gerust Zorgcentrale einen Personennotruf (um Hals oder Handgelenk) in Betrieb nehmen, eine einmalige Prämie von 75 €.",
+        "deadline": "Antrag innerhalb von 12 Monaten nach Installation oder Aktivierung; nur Notrufgeräte ab dem 1. Januar 2026.",
+        "amount": "75 €, einmalig",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Installations- oder Aktivierungsbescheinigung des Notrufgeräts"
+          },
+          {
+            "type": "id",
+            "label": "Nationalregisternummer (für die Auszahlung)"
+          }
+        ],
+        "steps": [
+          "Lassen Sie einen Personennotruf über eine Krankenkasse oder die Gerust Zorgcentrale installieren",
+          "Beantragen Sie die Prämie über das Online-Formular von De Panne oder nach Termin beim Thuiszorgloket (De Boare, Koningsplein 1, 058 42 97 65)",
+          "Fügen Sie die Installationsbescheinigung bei; nach der Genehmigung wird die Prämie auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.depanne.be/nl/welzijn/senioren/thuiszorgdiensten/premie-personenalarm",
+        "https://www.depanne.be/nl/premie-personenalarm-maakt-langer-thuis-wonen-mogelijk"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in De Panne.",
+          "The alarm was requested through a recognised provider (a health fund or Gerust Zorgcentrale) and installed or activated from 1 January 2026.",
+          "One premium per household, applied for within 12 months of installation or activation."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in De Panne.",
+          "Je vroeg het personenalarm aan via een erkende verstrekker (een ziekenfonds of Gerust Zorgcentrale) en het werd geïnstalleerd of geactiveerd vanaf 1 januari 2026.",
+          "Maximum één premie per huishouden, aangevraagd binnen 12 maanden na installatie of activering."
+        ],
+        "fr": [
+          "Vous êtes domicilié à La Panne (De Panne).",
+          "L'alarme a été demandée via un fournisseur reconnu (une mutualité ou Gerust Zorgcentrale) et installée ou activée à partir du 1er janvier 2026.",
+          "Une prime maximum par ménage, demandée dans les 12 mois de l'installation ou de l'activation."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in De Panne.",
+          "Das Notrufgerät wurde über einen anerkannten Anbieter (eine Krankenkasse oder die Gerust Zorgcentrale) beantragt und ab dem 1. Januar 2026 installiert oder aktiviert.",
+          "Höchstens eine Prämie pro Haushalt, beantragt innerhalb von 12 Monaten nach Installation oder Aktivierung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 472,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "34009"
+    ],
+    "institution": "Gemeente Deerlijk",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.deerlijk.be/tegemoetkoming-afvalkost-om-medische-redenen",
+    "content": {
+      "en": {
+        "title": "Tegemoetkoming afvalkost om medische redenen (Waste Cost Allowance for Medical Reasons, Deerlijk)",
+        "desc": "Deerlijk pays €50 a year into the bank account of residents who need home care for certain medical conditions, towards the cost of residual waste. From 2026 it replaces the free waste bags.",
+        "deadline": "Yearly allowance from 1 January 2026; apply with the form on Deerlijk's page.",
+        "amount": "€50 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificate from a doctor or health fund showing the medical condition"
+          },
+          {
+            "type": "doc",
+            "label": "Application form"
+          }
+        ],
+        "steps": [
+          "Get a certificate from your doctor or health fund",
+          "Fill in the application form linked on Deerlijk's page and hand it in to the commune",
+          "The €50 is paid into your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming afvalkost om medische redenen (Deerlijk)",
+        "desc": "Deerlijk stort €50 per jaar op de rekening van inwoners die thuis zorg nodig hebben wegens bepaalde medische aandoeningen, als tegemoetkoming in de restafvalkost. Vanaf 2026 vervangt dit de gratis huisvuilzakken.",
+        "deadline": "Jaarlijkse tegemoetkoming vanaf 1 januari 2026; aanvragen met het formulier op de pagina van Deerlijk.",
+        "amount": "€50 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de dokter of het ziekenfonds dat de medische situatie aantoont"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vraag een attest aan je dokter of ziekenfonds",
+          "Vul het aanvraagformulier op de pagina van Deerlijk in en bezorg het aan de gemeente",
+          "De €50 wordt op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Tegemoetkoming afvalkost om medische redenen (intervention dans les frais de déchets pour raisons médicales, Deerlijk)",
+        "desc": "Deerlijk verse 50 € par an sur le compte des habitants qui ont besoin de soins à domicile pour certaines affections médicales, pour les frais de déchets résiduels. Depuis 2026, cela remplace les sacs poubelles gratuits.",
+        "deadline": "Intervention annuelle depuis le 1er janvier 2026 ; demande avec le formulaire de la page de Deerlijk.",
+        "amount": "50 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du médecin ou de la mutualité prouvant la situation médicale"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Demandez une attestation à votre médecin ou à votre mutualité",
+          "Complétez le formulaire de demande de la page de Deerlijk et remettez-le à la commune",
+          "Les 50 € sont versés sur votre compte bancaire"
+        ]
+      },
+      "de": {
+        "title": "Tegemoetkoming afvalkost om medische redenen (Abfallkostenzuschuss aus medizinischen Gründen, Deerlijk)",
+        "desc": "Deerlijk überweist Einwohnern, die wegen bestimmter Erkrankungen häusliche Pflege brauchen, 50 € im Jahr als Zuschuss zu den Restmüllkosten. Ab 2026 ersetzt dies die kostenlosen Müllsäcke.",
+        "deadline": "Jährlicher Zuschuss ab dem 1. Januar 2026; Antrag mit dem Formular auf der Seite von Deerlijk.",
+        "amount": "50 € im Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des Arztes oder der Krankenkasse über die medizinische Situation"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich eine Bescheinigung vom Arzt oder von der Krankenkasse ausstellen",
+          "Füllen Sie das Antragsformular auf der Seite von Deerlijk aus und reichen Sie es bei der Gemeinde ein",
+          "Die 50 € werden auf Ihr Bankkonto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.deerlijk.be/tegemoetkoming-afvalkost-om-medische-redenen"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Deerlijk and have one of these conditions: chronic incontinence, a stoma, or home treatment by kidney dialysis, tube feeding, peritoneal dialysis or chemotherapy.",
+          "The condition is shown by a certificate from a doctor or health fund.",
+          "You are entitled to increased reimbursement (verhoogde tegemoetkoming)."
+        ],
+        "nl": [
+          "Je bent inwoner van Deerlijk met een van deze medische situaties: chronische incontinentie, stoma, of thuisbehandeling met nierdialyse, sondevoeding, buikvliesspoeling of chemotherapie.",
+          "De medische situatie wordt aangetoond met een attest van de dokter of het ziekenfonds.",
+          "Je hebt recht op een verhoogde tegemoetkoming."
+        ],
+        "fr": [
+          "Vous habitez Deerlijk et êtes dans une de ces situations : incontinence chronique, stomie, ou traitement à domicile par dialyse rénale, alimentation par sonde, dialyse péritonéale ou chimiothérapie.",
+          "La situation médicale est prouvée par une attestation du médecin ou de la mutualité.",
+          "Vous avez droit à l'intervention majorée (verhoogde tegemoetkoming)."
+        ],
+        "de": [
+          "Sie wohnen in Deerlijk und haben eine dieser Situationen: chronische Inkontinenz, Stoma oder Heimbehandlung mit Nierendialyse, Sondennahrung, Bauchfelldialyse oder Chemotherapie.",
+          "Die medizinische Situation ist durch eine Bescheinigung des Arztes oder der Krankenkasse belegt.",
+          "Sie haben Anspruch auf die erhöhte Kostenbeteiligung (verhoogde tegemoetkoming)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 473,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "62022"
+    ],
+    "institution": "Commune de Chaudfontaine",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.chaudfontaine.be/ma-commune/administration/services-communaux/petite-enfance/prime-langes-lavables/",
+    "content": {
+      "en": {
+        "title": "Prime langes lavables (Washable Nappies Premium, Chaudfontaine)",
+        "desc": "Chaudfontaine refunds half of what you pay for washable nappies, covers and fabric inserts, up to €125 per child, once per child.",
+        "deadline": "Apply before the child turns 2½; invoices no older than 3 months before the birth or registration.",
+        "amount": "50% of the invoices, up to €125 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Purchase invoice(s)"
+          },
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Statement of claim (déclaration de créance)"
+          }
+        ],
+        "steps": [
+          "Buy washable nappies, covers or fabric inserts (accessories don't count; several invoices can be combined)",
+          "Fill in the application form and the statement of claim from the commune's page",
+          "Send them with the invoices to the finance department (Avenue du Centenaire 14, 4053 Embourg) before the child is 2½"
+        ]
+      },
+      "nl": {
+        "title": "Prime langes lavables (premie wasbare luiers, Chaudfontaine)",
+        "desc": "Chaudfontaine betaalt de helft van je aankoop van wasbare luiers, overbroekjes en stoffen inlegkruisjes terug, tot €125 per kind, eenmaal per kind.",
+        "deadline": "Aanvragen voordat het kind 2½ jaar is; facturen niet ouder dan 3 maanden vóór de geboorte of inschrijving.",
+        "amount": "50% van de facturen, tot €125 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aankoopfactu(u)r(en)"
+          },
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Schuldvordering (déclaration de créance)"
+          }
+        ],
+        "steps": [
+          "Koop wasbare luiers, overbroekjes of stoffen inlegkruisjes (accessoires tellen niet; meerdere facturen mogen samen)",
+          "Vul het aanvraagformulier en de schuldvordering van de gemeentepagina in",
+          "Bezorg ze met de facturen aan de financiële dienst (Avenue du Centenaire 14, 4053 Embourg) voordat het kind 2½ jaar is"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale à l'achat de langes lavables (Chaudfontaine)",
+        "desc": "Chaudfontaine rembourse la moitié de vos achats de langes lavables, culottes de protection et inserts en tissu, jusqu'à 125 € par enfant, une seule fois par enfant.",
+        "deadline": "Demande avant que l'enfant n'atteigne 2 ans ½ ; factures au plus 3 mois avant la naissance ou l'inscription.",
+        "amount": "50 % des factures, jusqu'à 125 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Facture(s) d'achat"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Déclaration de créance"
+          }
+        ],
+        "steps": [
+          "Achetez des langes lavables, culottes de protection ou inserts en tissu (les accessoires ne comptent pas ; plusieurs factures peuvent être cumulées)",
+          "Complétez le formulaire de demande et la déclaration de créance de la page communale",
+          "Envoyez-les avec les factures au service des finances (Avenue du Centenaire 14, 4053 Embourg) avant les 2 ans ½ de l'enfant"
+        ]
+      },
+      "de": {
+        "title": "Prime langes lavables (Prämie für Stoffwindeln, Chaudfontaine)",
+        "desc": "Chaudfontaine erstattet die Hälfte Ihrer Ausgaben für Stoffwindeln, Überhosen und Stoffeinlagen, bis zu 125 € pro Kind, einmal pro Kind.",
+        "deadline": "Antrag, bevor das Kind 2½ Jahre alt ist; Rechnungen höchstens 3 Monate vor Geburt oder Eintragung.",
+        "amount": "50 % der Rechnungen, bis zu 125 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kaufrechnung(en)"
+          },
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Forderungserklärung (déclaration de créance)"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie Stoffwindeln, Überhosen oder Stoffeinlagen (Zubehör zählt nicht; mehrere Rechnungen können zusammengelegt werden)",
+          "Füllen Sie das Antragsformular und die Forderungserklärung von der Gemeindeseite aus",
+          "Senden Sie sie mit den Rechnungen an die Finanzabteilung (Avenue du Centenaire 14, 4053 Embourg), bevor das Kind 2½ Jahre alt ist"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.chaudfontaine.be/ma-commune/administration/services-communaux/petite-enfance/prime-langes-lavables/"
+      ],
+      "conditions": {
+        "en": [
+          "You are the father, mother or guardian of the child.",
+          "You and the child are registered in Chaudfontaine's population register (registre de population) when you apply.",
+          "Once per child, before the child turns 2½; within the budget, in order of complete applications (if the budget runs out you get priority the next year)."
+        ],
+        "nl": [
+          "Je bent vader, moeder of voogd van het kind.",
+          "Jij en het kind zijn bij de aanvraag ingeschreven in het bevolkingsregister van Chaudfontaine (registre de population).",
+          "Eenmaal per kind, voordat het kind 2½ jaar is; binnen het budget, in volgorde van volledige aanvragen (is het budget op, dan krijg je voorrang het jaar erna)."
+        ],
+        "fr": [
+          "Vous êtes le père, la mère ou le tuteur de l'enfant.",
+          "Vous et l'enfant êtes inscrits au registre de population de Chaudfontaine au moment de la demande.",
+          "Une fois par enfant, avant ses 2 ans ½ ; dans les limites du budget, par ordre de réception des demandes complètes (priorité l'année suivante si le budget est épuisé)."
+        ],
+        "de": [
+          "Sie sind Vater, Mutter oder Vormund des Kindes.",
+          "Sie und das Kind sind beim Antrag im Bevölkerungsregister von Chaudfontaine (registre de population) eingetragen.",
+          "Einmal pro Kind, bevor es 2½ Jahre alt ist; im Rahmen des Budgets, nach Eingang vollständiger Anträge (bei erschöpftem Budget Vorrang im Folgejahr)."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the page requires registration in Chaudfontaine's population register (registre de population).",
+            "nl": "Niet voor jou: de pagina vereist een inschrijving in het bevolkingsregister van Chaudfontaine (registre de population).",
+            "fr": "Pas pour vous : la page exige une inscription au registre de population de Chaudfontaine.",
+            "de": "Nicht für Sie: Die Seite verlangt eine Eintragung im Bevölkerungsregister von Chaudfontaine (registre de population)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 474,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "44083"
+    ],
+    "institution": "Stad Deinze",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.deinze.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Deinze)",
+        "desc": "Deinze pays €25 for each full month that you take a person with a disability and reduced self-reliance into your household, paid once a year.",
+        "deadline": "Apply between 1 January and 31 March.",
+        "amount": "€25 a month per person taken into the household",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "FOD Social Security certificate showing reduced self-reliance (at least 12 points)"
+          }
+        ],
+        "steps": [
+          "Collect the certificate showing reduced self-reliance",
+          "Apply at the Sociaal Huis (Brielstraat 2, Deinze, 09 381 95 00) between 1 January and 31 March",
+          "The allowance is paid once a year"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Deinze)",
+        "desc": "Deinze betaalt €25 per volledige maand dat je een persoon met een handicap en verminderde zelfredzaamheid in je gezin opneemt, eenmaal per jaar uitbetaald.",
+        "deadline": "Aanvragen tussen 1 januari en 31 maart.",
+        "amount": "€25 per maand per opgenomen persoon",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de FOD Sociale Zekerheid met verminderde zelfredzaamheid (minstens 12 punten)"
+          }
+        ],
+        "steps": [
+          "Zorg voor het attest van verminderde zelfredzaamheid",
+          "Vraag de premie aan bij het Sociaal Huis (Brielstraat 2, Deinze, 09 381 95 00) tussen 1 januari en 31 maart",
+          "De toelage wordt eenmaal per jaar uitgekeerd"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime pour aidant proche, Deinze)",
+        "desc": "Deinze verse 25 € par mois complet pendant lequel vous accueillez dans votre ménage une personne handicapée à l'autonomie réduite, payés une fois par an.",
+        "deadline": "Demande entre le 1er janvier et le 31 mars.",
+        "amount": "25 € par mois par personne accueillie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du SPF Sécurité sociale prouvant une autonomie réduite (au moins 12 points)"
+          }
+        ],
+        "steps": [
+          "Procurez-vous l'attestation d'autonomie réduite",
+          "Faites la demande au Sociaal Huis (Brielstraat 2, Deinze, 09 381 95 00) entre le 1er janvier et le 31 mars",
+          "L'allocation est versée une fois par an"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Deinze)",
+        "desc": "Deinze zahlt 25 € für jeden vollen Monat, in dem Sie eine Person mit Behinderung und eingeschränkter Selbstständigkeit in Ihren Haushalt aufnehmen, einmal im Jahr ausgezahlt.",
+        "deadline": "Antrag zwischen dem 1. Januar und dem 31. März.",
+        "amount": "25 € im Monat pro aufgenommener Person",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD Soziale Sicherheit über eingeschränkte Selbstständigkeit (mindestens 12 Punkte)"
+          }
+        ],
+        "steps": [
+          "Besorgen Sie die Bescheinigung über eingeschränkte Selbstständigkeit",
+          "Beantragen Sie die Prämie im Sociaal Huis (Brielstraat 2, Deinze, 09 381 95 00) zwischen dem 1. Januar und dem 31. März",
+          "Die Zulage wird einmal im Jahr ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.deinze.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "You are an adult resident of Deinze and take a person with a disability into your household (domiciled and living in your home).",
+          "That person has reduced self-reliance: at least 12 points on the FOD Social Security certificate (under 21: 4 points in pillar 1 or 6 points across the three pillars).",
+          "Only one person per household can apply, and the applicant cannot be the person cared for; apply between 1 January and 31 March."
+        ],
+        "nl": [
+          "Je bent een meerderjarige inwoner van Deinze en neemt een persoon met een handicap op in je gezin (gedomicilieerd en verblijvend in jouw woning).",
+          "Die persoon heeft een verminderde zelfredzaamheid: minstens 12 punten op het attest van de FOD Sociale Zekerheid (jonger dan 21: 4 punten in pijler 1 of 6 punten in de drie pijlers samen).",
+          "Slechts één persoon per gezin kan aanvragen en de aanvrager kan niet de begunstigde zijn; aanvragen tussen 1 januari en 31 maart."
+        ],
+        "fr": [
+          "Vous êtes un habitant majeur de Deinze et accueillez dans votre ménage une personne handicapée (domiciliée et vivant chez vous).",
+          "Cette personne a une autonomie réduite : au moins 12 points sur l'attestation du SPF Sécurité sociale (moins de 21 ans : 4 points au pilier 1 ou 6 points sur les trois piliers).",
+          "Une seule personne par ménage peut faire la demande et le demandeur ne peut pas être la personne aidée ; demande entre le 1er janvier et le 31 mars."
+        ],
+        "de": [
+          "Sie sind volljähriger Einwohner von Deinze und nehmen eine Person mit Behinderung in Ihren Haushalt auf (mit Wohnsitz und Aufenthalt in Ihrer Wohnung).",
+          "Diese Person hat eine eingeschränkte Selbstständigkeit: mindestens 12 Punkte auf der Bescheinigung des FÖD Soziale Sicherheit (unter 21: 4 Punkte in Säule 1 oder 6 Punkte in den drei Säulen).",
+          "Nur eine Person pro Haushalt kann beantragen, und der Antragsteller kann nicht die gepflegte Person sein; Antrag zwischen dem 1. Januar und dem 31. März."
+        ]
+      }
+    }
+  },
+  {
+    "id": 475,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "44083"
+    ],
+    "institution": "Stad Deinze",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.deinze.be/premie-voor-personen-met-een-beperking",
+    "content": {
+      "en": {
+        "title": "Premie voor personen met een beperking (Disability Premium, Deinze)",
+        "desc": "Deinze gives €130 a year to residents with reduced self-reliance who are entitled to increased reimbursement.",
+        "deadline": "Apply every year between 1 January and 31 March, for the previous calendar year.",
+        "amount": "€130 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "FOD Social Security certificate showing reduced self-reliance"
+          },
+          {
+            "type": "doc",
+            "label": "Application form (online or on paper)"
+          }
+        ],
+        "steps": [
+          "Apply online on Deinze's website, or download the paper form",
+          "Hand the form in at Dienstencentrum Leiespiegel or Sociaal Huis Nevele, or email it to inclusie@deinze.be",
+          "Do this between 1 January and 31 March for the previous year (the Wegwijzer can help)"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor personen met een beperking (Deinze)",
+        "desc": "Deinze geeft €130 per kalenderjaar aan inwoners met een verminderde zelfredzaamheid die recht hebben op een verhoogde tegemoetkoming.",
+        "deadline": "Jaarlijks aanvragen tussen 1 januari en 31 maart, voor het voorbije kalenderjaar.",
+        "amount": "€130 per kalenderjaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de FOD Sociale Zekerheid met verminderde zelfredzaamheid"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier (online of op papier)"
+          }
+        ],
+        "steps": [
+          "Vraag online aan op de website van Deinze of download het aanvraagformulier",
+          "Bezorg het formulier aan het onthaal van dienstencentrum Leiespiegel of Sociaal Huis Nevele, of mail het naar inclusie@deinze.be",
+          "Doe dit tussen 1 januari en 31 maart voor het voorbije jaar (de Wegwijzer helpt je)"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor personen met een beperking (prime pour personnes handicapées, Deinze)",
+        "desc": "Deinze octroie 130 € par année civile aux habitants à l'autonomie réduite qui bénéficient de l'intervention majorée.",
+        "deadline": "Demande chaque année entre le 1er janvier et le 31 mars, pour l'année civile écoulée.",
+        "amount": "130 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du SPF Sécurité sociale prouvant une autonomie réduite"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande (en ligne ou papier)"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne sur le site de Deinze ou téléchargez le formulaire",
+          "Remettez-le à l'accueil du dienstencentrum Leiespiegel ou du Sociaal Huis Nevele, ou envoyez-le à inclusie@deinze.be",
+          "Faites-le entre le 1er janvier et le 31 mars pour l'année écoulée (le Wegwijzer peut vous aider)"
+        ]
+      },
+      "de": {
+        "title": "Premie voor personen met een beperking (Prämie für Menschen mit Behinderung, Deinze)",
+        "desc": "Deinze gewährt Einwohnern mit eingeschränkter Selbstständigkeit, die Anspruch auf die erhöhte Kostenbeteiligung haben, 130 € pro Kalenderjahr.",
+        "deadline": "Jährlicher Antrag zwischen dem 1. Januar und dem 31. März für das vergangene Kalenderjahr.",
+        "amount": "130 € im Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD Soziale Sicherheit über eingeschränkte Selbstständigkeit"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular (online oder auf Papier)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online auf der Website von Deinze oder laden Sie das Formular herunter",
+          "Geben Sie es im Dienstencentrum Leiespiegel oder im Sociaal Huis Nevele ab oder mailen Sie es an inclusie@deinze.be",
+          "Tun Sie dies zwischen dem 1. Januar und dem 31. März für das vergangene Jahr (der Wegwijzer hilft Ihnen)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.deinze.be/premie-voor-personen-met-een-beperking"
+      ],
+      "conditions": {
+        "en": [
+          "You have an FOD Social Security certificate showing reduced self-reliance: at least 12 points (under 21: 4 points in pillar 1 or 6 across the three pillars).",
+          "On 31 December of the previous year you were domiciled at a private address in Deinze, and you do not live permanently in a care institution.",
+          "You are entitled to increased reimbursement (verhoogde tegemoetkoming) from your health fund."
+        ],
+        "nl": [
+          "Je hebt een attest van de FOD Sociale Zekerheid met verminderde zelfredzaamheid: minstens 12 punten (jonger dan 21: 4 punten in pijler 1 of 6 in de drie pijlers samen).",
+          "Je was op 31 december van het voorbije kalenderjaar gedomicilieerd op een privé-adres in Deinze en verblijft niet permanent in een zorginstelling.",
+          "Je hebt recht op een verhoogde tegemoetkoming van het ziekenfonds."
+        ],
+        "fr": [
+          "Vous avez une attestation du SPF Sécurité sociale prouvant une autonomie réduite : au moins 12 points (moins de 21 ans : 4 points au pilier 1 ou 6 sur les trois piliers).",
+          "Au 31 décembre de l'année écoulée, vous étiez domicilié à une adresse privée à Deinze et ne vivez pas en permanence dans une institution de soins.",
+          "Vous avez droit à l'intervention majorée (verhoogde tegemoetkoming) de votre mutualité."
+        ],
+        "de": [
+          "Sie haben eine Bescheinigung des FÖD Soziale Sicherheit über eingeschränkte Selbstständigkeit: mindestens 12 Punkte (unter 21: 4 Punkte in Säule 1 oder 6 in den drei Säulen).",
+          "Am 31. Dezember des Vorjahres hatten Sie Ihren Wohnsitz an einer Privatadresse in Deinze und leben nicht dauerhaft in einer Pflegeeinrichtung.",
+          "Sie haben Anspruch auf die erhöhte Kostenbeteiligung (verhoogde tegemoetkoming) Ihrer Krankenkasse."
+        ]
+      }
+    }
+  },
+  {
+    "id": 476,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25018"
+    ],
+    "institution": "Commune de Chaumont-Gistoux",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.chaumont-gistoux.be/ma-commune/services-communaux/finances-et-comptabilite/prime-de-soutien-a-la-petite-enfance",
+    "content": {
+      "en": {
+        "title": "Prime de soutien à la petite enfance (Early Childhood Premium, Chaumont-Gistoux)",
+        "desc": "Chaumont-Gistoux gives €150 for each child born or adopted, to the person who has the child in their care.",
+        "deadline": "Apply within 6 months of the birth or adoption; later applications are refused.",
+        "amount": "€150 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          }
+        ],
+        "steps": [
+          "Fill in the commune's application form",
+          "Send it by email to comptabilite@chaumont-gistoux.be or by post to Rue Colleau 2, 1325 Chaumont-Gistoux",
+          "Do this within 6 months of the birth or adoption (help: 010/23.38.24)"
+        ]
+      },
+      "nl": {
+        "title": "Prime de soutien à la petite enfance (premie voor het jonge kind, Chaumont-Gistoux)",
+        "desc": "Chaumont-Gistoux geeft €150 voor elk geboren of geadopteerd kind, aan de persoon die het kind ten laste heeft.",
+        "deadline": "Aanvragen binnen 6 maanden na de geboorte of adoptie; later kan de premie niet meer worden toegekend.",
+        "amount": "€150 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier van de gemeente in",
+          "Stuur het per e-mail naar comptabilite@chaumont-gistoux.be of per post naar Rue Colleau 2, 1325 Chaumont-Gistoux",
+          "Doe dit binnen 6 maanden na de geboorte of adoptie (hulp: 010/23.38.24)"
+        ]
+      },
+      "fr": {
+        "title": "Prime de soutien à la petite enfance (Chaumont-Gistoux)",
+        "desc": "Chaumont-Gistoux octroie 150 € pour chaque enfant né ou adopté, à la personne qui a l'enfant à sa charge.",
+        "deadline": "Demande dans les 6 mois qui suivent la naissance ou l'adoption ; au-delà, la prime ne peut plus être accordée.",
+        "amount": "150 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire de demande de la commune",
+          "Envoyez-le par e-mail à comptabilite@chaumont-gistoux.be ou par courrier à la rue Colleau 2, 1325 Chaumont-Gistoux",
+          "Faites-le dans les 6 mois de la naissance ou de l'adoption (aide : 010/23.38.24)"
+        ]
+      },
+      "de": {
+        "title": "Prime de soutien à la petite enfance (Prämie für Kleinkinder, Chaumont-Gistoux)",
+        "desc": "Chaumont-Gistoux gewährt 150 € für jedes geborene oder adoptierte Kind an die Person, die für das Kind sorgt.",
+        "deadline": "Antrag innerhalb von 6 Monaten nach Geburt oder Adoption; danach wird die Prämie nicht mehr gewährt.",
+        "amount": "150 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular der Gemeinde aus",
+          "Senden Sie es per E-Mail an comptabilite@chaumont-gistoux.be oder per Post an Rue Colleau 2, 1325 Chaumont-Gistoux",
+          "Tun Sie dies innerhalb von 6 Monaten nach Geburt oder Adoption (Hilfe: 010/23.38.24)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.chaumont-gistoux.be/ma-commune/services-communaux/finances-et-comptabilite/prime-de-soutien-a-la-petite-enfance"
+      ],
+      "conditions": {
+        "en": [
+          "You are the person who has the child in your care.",
+          "The child is registered in Chaumont-Gistoux's population registers (registres de la population) at birth or adoption.",
+          "Application within 6 months of the birth or adoption."
+        ],
+        "nl": [
+          "Je bent de persoon die het kind ten laste heeft.",
+          "Het kind is bij de geboorte of adoptie ingeschreven in de bevolkingsregisters van Chaumont-Gistoux (registres de la population).",
+          "Aanvraag binnen 6 maanden na de geboorte of adoptie."
+        ],
+        "fr": [
+          "Vous êtes la personne qui a la charge de l'enfant.",
+          "L'enfant est inscrit dans les registres de la population de Chaumont-Gistoux au moment de sa naissance ou de son adoption.",
+          "Demande dans les 6 mois de la naissance ou de l'adoption."
+        ],
+        "de": [
+          "Sie sind die Person, die für das Kind sorgt.",
+          "Das Kind ist bei Geburt oder Adoption in den Bevölkerungsregistern von Chaumont-Gistoux (registres de la population) eingetragen.",
+          "Antrag innerhalb von 6 Monaten nach Geburt oder Adoption."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the child must be registered in Chaumont-Gistoux's population registers (registres de la population).",
+            "nl": "Niet voor jou: het kind moet ingeschreven zijn in de bevolkingsregisters van Chaumont-Gistoux (registres de la population).",
+            "fr": "Pas pour vous : l'enfant doit être inscrit aux registres de la population de Chaumont-Gistoux.",
+            "de": "Nicht für Sie: Das Kind muss in den Bevölkerungsregistern von Chaumont-Gistoux eingetragen sein (registres de la population)."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 477,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "41011"
+    ],
+    "institution": "Lokaal Bestuur Denderleeuw",
+    "verified": "13 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.denderleeuw.be/financiele-tussenkomst-in-afvalfactuur",
+    "content": {
+      "en": {
+        "title": "Financiële tussenkomst in afvalfactuur (Waste Bill Allowance for Incontinence, Denderleeuw)",
+        "desc": "Denderleeuw deducts €30 a year from the ILvA waste bill for each household member who needs incontinence material.",
+        "deadline": "Apply by 1 December each year; with a medical certificate marked 'permanent' you don't need to reapply.",
+        "amount": "€30 a year off the waste bill",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate for the use of incontinence material"
+          },
+          {
+            "type": "doc",
+            "label": "Application form (online, by post or at the counter)"
+          }
+        ],
+        "steps": [
+          "Get a medical certificate",
+          "Apply online, by post to the Dienst Omgeving (A. De Cockstraat 1, 9470 Denderleeuw) or at the counter of the administrative centre, by 1 December",
+          "The reduction appears in December on the waste bill of the household's reference person at ILvA"
+        ]
+      },
+      "nl": {
+        "title": "Financiële tussenkomst in afvalfactuur (Denderleeuw)",
+        "desc": "Denderleeuw trekt €30 per jaar af van de afvalfactuur van ILvA voor elk gezinslid dat incontinentiemateriaal nodig heeft.",
+        "deadline": "Jaarlijks aanvragen uiterlijk op 1 december; met een medisch attest met de vermelding 'permanent' hoef je niet opnieuw aan te vragen.",
+        "amount": "€30 per jaar op de afvalfactuur",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch attest voor het gebruik van incontinentiemateriaal"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier (online, per post of aan het loket)"
+          }
+        ],
+        "steps": [
+          "Vraag een medisch attest",
+          "Vraag online aan, per post bij de dienst Omgeving (A. De Cockstraat 1, 9470 Denderleeuw) of aan het loket in het administratief centrum, uiterlijk op 1 december",
+          "De tussenkomst komt in december op de afvalfactuur van de referentiepersoon bij ILvA"
+        ]
+      },
+      "fr": {
+        "title": "Financiële tussenkomst in afvalfactuur (intervention dans la facture de déchets pour incontinence, Denderleeuw)",
+        "desc": "Denderleeuw déduit 30 € par an de la facture de déchets d'ILvA pour chaque membre du ménage qui a besoin de matériel d'incontinence.",
+        "deadline": "Demande chaque année au plus tard le 1er décembre ; avec un certificat médical portant la mention « permanent », pas besoin de renouveler.",
+        "amount": "30 € par an sur la facture de déchets",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical pour l'usage de matériel d'incontinence"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande (en ligne, par courrier ou au guichet)"
+          }
+        ],
+        "steps": [
+          "Demandez un certificat médical",
+          "Faites la demande en ligne, par courrier au Dienst Omgeving (A. De Cockstraat 1, 9470 Denderleeuw) ou au guichet du centre administratif, au plus tard le 1er décembre",
+          "La réduction apparaît en décembre sur la facture de déchets de la personne de référence chez ILvA"
+        ]
+      },
+      "de": {
+        "title": "Financiële tussenkomst in afvalfactuur (Abfallrechnungszuschuss bei Inkontinenz, Denderleeuw)",
+        "desc": "Denderleeuw zieht für jedes Haushaltsmitglied, das Inkontinenzmaterial braucht, 30 € im Jahr von der Abfallrechnung von ILvA ab.",
+        "deadline": "Jährlicher Antrag bis spätestens 1. Dezember; mit einem ärztlichen Attest mit dem Vermerk „permanent“ ist keine Erneuerung nötig.",
+        "amount": "30 € im Jahr auf der Abfallrechnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliches Attest über die Verwendung von Inkontinenzmaterial"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular (online, per Post oder am Schalter)"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich ein ärztliches Attest ausstellen",
+          "Beantragen Sie online, per Post beim Dienst Omgeving (A. De Cockstraat 1, 9470 Denderleeuw) oder am Schalter des Verwaltungszentrums, bis spätestens 1. Dezember",
+          "Die Ermäßigung erscheint im Dezember auf der Abfallrechnung der Referenzperson bei ILvA"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "13 Nov 2026",
+      "source_url": [
+        "https://www.denderleeuw.be/financiele-tussenkomst-in-afvalfactuur"
+      ],
+      "conditions": {
+        "en": [
+          "You are a resident of Denderleeuw who uses incontinence material for your own well-being; the allowance is per household member who needs it.",
+          "You can show a medical certificate.",
+          "Apply by 1 December of the year concerned; it counts for at most 1 year unless the certificate says 'permanent'."
+        ],
+        "nl": [
+          "Je bent inwoner van Denderleeuw en gebruikt voor je persoonlijk welzijn incontinentiemateriaal; de premie geldt per gezinslid dat het nodig heeft.",
+          "Je kunt een medisch attest voorleggen.",
+          "Aanvragen uiterlijk op 1 december van het betrokken jaar; geldig voor maximaal 1 jaar, tenzij het attest 'permanent' vermeldt."
+        ],
+        "fr": [
+          "Vous habitez Denderleeuw et utilisez du matériel d'incontinence pour votre bien-être ; l'intervention vaut par membre du ménage concerné.",
+          "Vous pouvez présenter un certificat médical.",
+          "Demande au plus tard le 1er décembre de l'année concernée ; valable 1 an maximum, sauf si le certificat porte la mention « permanent »."
+        ],
+        "de": [
+          "Sie wohnen in Denderleeuw und verwenden für Ihr Wohlbefinden Inkontinenzmaterial; der Zuschuss gilt pro betroffenem Haushaltsmitglied.",
+          "Sie können ein ärztliches Attest vorlegen.",
+          "Antrag bis spätestens 1. Dezember des betreffenden Jahres; gültig höchstens 1 Jahr, außer das Attest vermerkt „permanent“."
+        ]
+      }
+    }
   }
 ]

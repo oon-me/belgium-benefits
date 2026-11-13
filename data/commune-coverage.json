@@ -1216,49 +1216,90 @@
       "ids": [
         463
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "31006",
-      "name": "Damme"
+      "name": "Damme",
+      "checked": "13 Nov 2026",
+      "ids": [
+        466
+      ]
     },
     {
       "nis": "35029",
-      "name": "De Haan"
+      "name": "De Haan",
+      "checked": "13 Nov 2026",
+      "ids": [
+        467,
+        468
+      ]
     },
     {
       "nis": "25117",
-      "name": "Chastre"
+      "name": "Chastre",
+      "checked": "13 Nov 2026",
+      "ids": [
+        469,
+        470
+      ]
     },
     {
       "nis": "38008",
-      "name": "De Panne / La Panne"
+      "name": "De Panne / La Panne",
+      "checked": "13 Nov 2026",
+      "ids": [
+        471
+      ]
     },
     {
       "nis": "34009",
-      "name": "Deerlijk"
+      "name": "Deerlijk",
+      "checked": "13 Nov 2026",
+      "ids": [
+        472
+      ]
     },
     {
       "nis": "62022",
-      "name": "Chaudfontaine"
+      "name": "Chaudfontaine",
+      "checked": "13 Nov 2026",
+      "ids": [
+        473
+      ]
     },
     {
       "nis": "44083",
-      "name": "Deinze"
+      "name": "Deinze",
+      "checked": "13 Nov 2026",
+      "ids": [
+        474,
+        475
+      ]
     },
     {
       "nis": "25018",
-      "name": "Chaumont-Gistoux"
+      "name": "Chaumont-Gistoux",
+      "checked": "13 Nov 2026",
+      "ids": [
+        476
+      ]
     },
     {
       "nis": "41011",
-      "name": "Denderleeuw"
+      "name": "Denderleeuw",
+      "checked": "13 Nov 2026",
+      "ids": [
+        477
+      ]
     },
     {
       "nis": "51014",
-      "name": "Chièvres"
-    },
+      "name": "Chièvres",
+      "checked": "13 Nov 2026",
+      "ids": []
+    }
+  ],
+  "queue": [
     {
       "nis": "56016",
       "name": "Chimay"
