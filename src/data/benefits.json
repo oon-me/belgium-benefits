@@ -58918,5 +58918,975 @@
         ]
       }
     }
+  },
+  {
+    "id": 478,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "37002"
+    ],
+    "institution": "OCMW Dentergem",
+    "verified": "15 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.dentergem.be/thuiszorgpremie",
+    "content": {
+      "en": {
+        "title": "Thuiszorgpremie (Home Care Premium, Dentergem)",
+        "desc": "Dentergem's social welfare committee pays a yearly allowance to the person who cares at home for a family member with a disability.",
+        "deadline": "Apply at the Sociaal Huis Wegwijs; the allowance is yearly.",
+        "amount": "€225 a year (cared for at home), €150 (attends a school or institution and comes home daily) or €75 (at home at least two days a week)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Disability certificate from the FPS Social Security or the child benefit fund"
+          },
+          {
+            "type": "doc",
+            "label": "Household composition certificate"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate from the care fund (zorgkas) about the care budget for people with a high need of care"
+          }
+        ],
+        "steps": [
+          "Get the disability certificate and the certificate from your care fund",
+          "Make an appointment at the Sociaal Huis Wegwijs (Kasteeldreef 1, 8720 Wakken, 056 62 10 10)",
+          "Submit the application; the special committee for social services decides"
+        ]
+      },
+      "nl": {
+        "title": "Thuiszorgpremie (Dentergem)",
+        "desc": "Het bijzonder comité voor de sociale dienst van Dentergem kent een jaarlijkse toelage toe aan wie thuis een persoon met een handicap verzorgt.",
+        "deadline": "Aanvragen bij het Sociaal Huis Wegwijs; de toelage geldt per jaar.",
+        "amount": "€225 per jaar (thuis verzorgd), €150 (gaat naar school of instelling en komt dagelijks thuis) of €75 (minstens twee dagen per week thuis)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de handicap van de FOD Sociale Zekerheid of het kinderbijslagfonds"
+          },
+          {
+            "type": "doc",
+            "label": "Attest samenstelling van het gezin"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de zorgkas over het zorgbudget voor zwaar zorgbehoevenden"
+          }
+        ],
+        "steps": [
+          "Vraag het attest van de handicap en het attest van je zorgkas",
+          "Maak een afspraak bij het Sociaal Huis Wegwijs (Kasteeldreef 1, 8720 Wakken, 056 62 10 10)",
+          "Dien de aanvraag in; het bijzonder comité beslist"
+        ]
+      },
+      "fr": {
+        "title": "Thuiszorgpremie (prime pour soins à domicile, Dentergem)",
+        "desc": "Le comité spécial du service social de Dentergem verse une allocation annuelle à la personne qui soigne à domicile un proche handicapé.",
+        "deadline": "Demande au Sociaal Huis Wegwijs ; l'allocation est annuelle.",
+        "amount": "225 € par an (soigné à domicile), 150 € (fréquente une école ou une institution et rentre chaque jour) ou 75 € (à domicile au moins deux jours par semaine)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation de handicap du SPF Sécurité sociale ou de la caisse d'allocations familiales"
+          },
+          {
+            "type": "doc",
+            "label": "Composition de ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de la caisse de soins (zorgkas) sur le budget pour personnes lourdement dépendantes"
+          }
+        ],
+        "steps": [
+          "Demandez l'attestation de handicap et l'attestation de votre caisse de soins",
+          "Prenez rendez-vous au Sociaal Huis Wegwijs (Kasteeldreef 1, 8720 Wakken, 056 62 10 10)",
+          "Introduisez la demande ; le comité spécial décide"
+        ]
+      },
+      "de": {
+        "title": "Thuiszorgpremie (Prämie für häusliche Pflege, Dentergem)",
+        "desc": "Der Sonderausschuss für den Sozialdienst von Dentergem zahlt eine jährliche Zulage an die Person, die einen Angehörigen mit Behinderung zu Hause pflegt.",
+        "deadline": "Antrag beim Sociaal Huis Wegwijs; die Zulage gilt pro Jahr.",
+        "amount": "225 € im Jahr (zu Hause gepflegt), 150 € (besucht eine Schule oder Einrichtung und kommt täglich heim) oder 75 € (mindestens zwei Tage pro Woche zu Hause)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Behinderungsbescheinigung des FÖD Soziale Sicherheit oder der Kindergeldkasse"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Pflegekasse (zorgkas) über das Pflegebudget für schwer Pflegebedürftige"
+          }
+        ],
+        "steps": [
+          "Besorgen Sie die Behinderungsbescheinigung und die Bescheinigung Ihrer Pflegekasse",
+          "Vereinbaren Sie einen Termin im Sociaal Huis Wegwijs (Kasteeldreef 1, 8720 Wakken, 056 62 10 10)",
+          "Reichen Sie den Antrag ein; der Sonderausschuss entscheidet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "15 Nov 2026",
+      "source_url": [
+        "https://www.dentergem.be/thuiszorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person with a disability has lived in Dentergem for at least three months and has a certificate showing at least 66% disability, earning capacity reduced to one third or less, at least 9 points loss of self-reliance, or the right to increased child benefit (at least 4 points in pillar 1 or 6 points over the 3 pillars).",
+          "Carer and person cared for are registered at the same address in Dentergem's population or foreigners' register, are related by blood or marriage up to the third degree or form a de facto household, and the carer actually provides the care.",
+          "The care budget for people with a high need of care must be used up first (at most 2 months a year can be combined); after a negative decision by the care fund you can apply.",
+          "The person with a disability owns no second built property and has not sold or donated one in the last 5 years."
+        ],
+        "nl": [
+          "De persoon met een handicap woont minstens drie maanden in Dentergem en heeft een attest van minstens 66% handicap, vermindering van het verdienvermogen tot 1/3 of minder, vermindering van zelfredzaamheid van minstens 9 punten, of recht op verhoogde kinderbijslag (minstens 4 punten in pijler 1 of 6 punten in de 3 pijlers samen).",
+          "Zorgverstrekker en persoon met een handicap zijn op hetzelfde adres ingeschreven in het bevolkings- of vreemdelingenregister van Dentergem, zijn bloed- of aanverwant tot en met de derde graad of vormen een feitelijk gezin, en de zorgverstrekker staat daadwerkelijk in voor de verzorging.",
+          "Eerst moet het recht op het zorgbudget voor zwaar zorgbehoevenden uitgeput zijn (maximaal 2 maanden per jaar cumuleerbaar); na een negatieve beslissing van de zorgkas kun je aanvragen.",
+          "De persoon met een handicap bezit geen tweede bebouwde eigendom en heeft er geen verkocht of geschonken in de laatste 5 jaar."
+        ],
+        "fr": [
+          "La personne handicapée habite Dentergem depuis au moins trois mois et dispose d'une attestation d'au moins 66 % de handicap, d'une capacité de gain réduite à un tiers ou moins, d'une perte d'autonomie d'au moins 9 points, ou du droit aux allocations familiales majorées (au moins 4 points dans le pilier 1 ou 6 points sur les 3 piliers).",
+          "Le soignant et la personne soignée sont inscrits à la même adresse au registre de la population ou des étrangers de Dentergem, sont parents ou alliés jusqu'au troisième degré ou forment un ménage de fait, et le soignant assure réellement les soins.",
+          "Le droit au budget de soins pour personnes lourdement dépendantes doit d'abord être épuisé (cumul limité à 2 mois par an) ; après une décision négative de la caisse de soins, vous pouvez introduire la demande.",
+          "La personne handicapée ne possède pas de second bien bâti et n'en a ni vendu ni donné au cours des 5 dernières années."
+        ],
+        "de": [
+          "Die Person mit Behinderung wohnt seit mindestens drei Monaten in Dentergem und hat eine Bescheinigung über mindestens 66 % Behinderung, eine auf ein Drittel oder weniger verringerte Erwerbsfähigkeit, mindestens 9 Punkte Verlust an Selbständigkeit oder Anspruch auf erhöhtes Kindergeld (mindestens 4 Punkte in Säule 1 oder 6 Punkte in den 3 Säulen).",
+          "Pflegeperson und gepflegte Person sind an derselben Adresse im Bevölkerungs- oder Fremdenregister von Dentergem eingetragen, sind bis zum dritten Grad verwandt oder verschwägert oder bilden einen faktischen Haushalt, und die Pflegeperson übernimmt die Pflege tatsächlich.",
+          "Zuerst muss der Anspruch auf das Pflegebudget für schwer Pflegebedürftige ausgeschöpft sein (höchstens 2 Monate im Jahr kombinierbar); nach einer negativen Entscheidung der Pflegekasse können Sie beantragen.",
+          "Die Person mit Behinderung besitzt keine zweite bebaute Immobilie und hat in den letzten 5 Jahren keine verkauft oder verschenkt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 479,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "37002"
+    ],
+    "institution": "OCMW Dentergem",
+    "verified": "15 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.dentergem.be/tussenkomst-kosten-huisvuilophaling",
+    "content": {
+      "en": {
+        "title": "Tussenkomst kosten huisvuilophaling (Waste Collection Allowance, Dentergem)",
+        "desc": "Dentergem pays a yearly allowance to residents who produce extra waste for medical reasons, such as incontinence, a stoma, home dialysis or tube feeding, and to foster families with a child under 3.",
+        "deadline": "Apply every year at the Sociaal Huis Wegwijs.",
+        "amount": "€50 per calendar year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doctor's certificate (valid for up to 5 years)"
+          },
+          {
+            "type": "doc",
+            "label": "Application form"
+          }
+        ],
+        "steps": [
+          "Get a doctor's certificate (a model is on the commune's page)",
+          "Fill in the application form at the reception of the Sociaal Huis Wegwijs, or email it with the certificate to sociaalhuis@dentergem.be",
+          "The special committee decides on the allowance"
+        ]
+      },
+      "nl": {
+        "title": "Tussenkomst kosten huisvuilophaling (Dentergem)",
+        "desc": "Dentergem geeft een jaarlijkse tussenkomst aan inwoners die door een medische situatie extra afval hebben, zoals bij incontinentie, een stoma, thuisdialyse of sondevoeding, en aan pleeggezinnen met een kind jonger dan 3 jaar.",
+        "deadline": "Jaarlijks aanvragen bij het Sociaal Huis Wegwijs.",
+        "amount": "€50 per kalenderjaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Doktersattest (maximaal 5 jaar geldig)"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vraag een doktersattest (een model staat op de webpagina van de gemeente)",
+          "Vul het aanvraagformulier in aan het onthaal van het Sociaal Huis Wegwijs, of mail het met het attest naar sociaalhuis@dentergem.be",
+          "Het bijzonder comité beslist over de toekenning"
+        ]
+      },
+      "fr": {
+        "title": "Tussenkomst kosten huisvuilophaling (intervention dans les frais de collecte des déchets, Dentergem)",
+        "desc": "Dentergem verse une intervention annuelle aux habitants qui produisent plus de déchets pour raison médicale (incontinence, stomie, dialyse à domicile, alimentation par sonde) et aux familles d'accueil avec un enfant de moins de 3 ans.",
+        "deadline": "Demande chaque année au Sociaal Huis Wegwijs.",
+        "amount": "50 € par année civile",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical (valable 5 ans maximum)"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Demandez un certificat médical (un modèle figure sur la page de la commune)",
+          "Remplissez le formulaire à l'accueil du Sociaal Huis Wegwijs ou envoyez-le avec le certificat à sociaalhuis@dentergem.be",
+          "Le comité spécial décide de l'octroi"
+        ]
+      },
+      "de": {
+        "title": "Tussenkomst kosten huisvuilophaling (Zuschuss zu den Müllabfuhrkosten, Dentergem)",
+        "desc": "Dentergem zahlt einen jährlichen Zuschuss an Einwohner, die aus medischen Gründen mehr Abfall haben (Inkontinenz, Stoma, Heimdialyse, Sondenernährung), und an Pflegefamilien mit einem Kind unter 3 Jahren.",
+        "deadline": "Jährlicher Antrag beim Sociaal Huis Wegwijs.",
+        "amount": "50 € pro Kalenderjahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliches Attest (höchstens 5 Jahre gültig)"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich ein ärztliches Attest ausstellen (ein Muster steht auf der Seite der Gemeinde)",
+          "Füllen Sie das Formular am Empfang des Sociaal Huis Wegwijs aus oder schicken Sie es mit dem Attest an sociaalhuis@dentergem.be",
+          "Der Sonderausschuss entscheidet über die Gewährung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "15 Nov 2026",
+      "source_url": [
+        "https://www.dentergem.be/tussenkomst-kosten-huisvuilophaling"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Dentergem, at home.",
+          "A doctor's certificate (valid for up to 5 years) confirms the medical situation; for incontinence you must be at least 12.",
+          "Foster families qualify with a child under 3 on 1 January of the year concerned.",
+          "Granted once a year within the available budget; apply every year."
+        ],
+        "nl": [
+          "Je bent inwoner van Dentergem en woont thuis.",
+          "Een doktersattest (maximaal 5 jaar geldig) bevestigt de medische situatie; bij incontinentie ben je minstens 12 jaar.",
+          "Pleeggezinnen komen in aanmerking met een kind jonger dan 3 jaar op 1 januari van het betrokken jaar.",
+          "Eenmalig per jaar toegekend binnen de beschikbare budgetten; jaarlijks aanvragen."
+        ],
+        "fr": [
+          "Vous habitez Dentergem, à domicile.",
+          "Un certificat médical (valable 5 ans maximum) confirme la situation médicale ; en cas d'incontinence, vous avez au moins 12 ans.",
+          "Les familles d'accueil ont droit avec un enfant de moins de 3 ans au 1er janvier de l'année concernée.",
+          "Accordée une fois par an dans les limites du budget disponible ; demande chaque année."
+        ],
+        "de": [
+          "Sie wohnen in Dentergem, zu Hause.",
+          "Ein ärztliches Attest (höchstens 5 Jahre gültig) bestätigt die medizinische Situation; bei Inkontinenz sind Sie mindestens 12 Jahre alt.",
+          "Pflegefamilien haben Anspruch mit einem Kind unter 3 Jahren am 1. Januar des betreffenden Jahres.",
+          "Einmal jährlich im Rahmen des verfügbaren Budgets gewährt; jedes Jahr beantragen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 480,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13006"
+    ],
+    "institution": "Lokaal Bestuur Dessel",
+    "verified": "15 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.dessel.be/premiediftar",
+    "content": {
+      "en": {
+        "title": "Premie DIFTAR – medische redenen (Medical Waste Allowance, Dessel)",
+        "desc": "Dessel pays €30 a year to people who produce more waste for medical reasons, such as incontinence or kidney dialysis. It is settled on the IOK Afvalbeheer waste bill.",
+        "deadline": "Apply every year before 31 December.",
+        "amount": "€30 a year on the waste bill",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate"
+          },
+          {
+            "type": "doc",
+            "label": "Application form"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (on the commune's page)",
+          "Send it with a medical certificate to the finance department of Lokaal Bestuur Dessel (Hannekestraat 1, 2480 Dessel) before 31 December",
+          "The €30 is settled on your next IOK Afvalbeheer bill"
+        ]
+      },
+      "nl": {
+        "title": "Premie DIFTAR – medische redenen (Dessel)",
+        "desc": "Dessel geeft €30 per jaar aan personen die om medische redenen, zoals incontinentie of nierdialyse, meer afval produceren. De toelage wordt verrekend op de afrekening van IOK Afvalbeheer.",
+        "deadline": "Jaarlijks aanvragen vóór 31 december.",
+        "amount": "€30 per jaar op de afvalafrekening",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch attest"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (op de webpagina van de gemeente)",
+          "Bezorg het met een medisch attest aan de financiële dienst van lokaal bestuur Dessel (Hannekestraat 1, 2480 Dessel) vóór 31 december",
+          "De €30 wordt verrekend op je volgende afrekening van IOK Afvalbeheer"
+        ]
+      },
+      "fr": {
+        "title": "Premie DIFTAR – medische redenen (prime déchets pour raison médicale, Dessel)",
+        "desc": "Dessel accorde 30 € par an aux personnes qui produisent plus de déchets pour raison médicale, comme l'incontinence ou la dialyse rénale. Le montant est déduit du décompte d'IOK Afvalbeheer.",
+        "deadline": "Demande chaque année avant le 31 décembre.",
+        "amount": "30 € par an sur le décompte des déchets",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande (sur la page de la commune)",
+          "Envoyez-le avec un certificat médical au service financier de lokaal bestuur Dessel (Hannekestraat 1, 2480 Dessel) avant le 31 décembre",
+          "Les 30 € sont déduits de votre prochain décompte d'IOK Afvalbeheer"
+        ]
+      },
+      "de": {
+        "title": "Premie DIFTAR – medische redenen (Abfallzuschuss aus medizinischen Gründen, Dessel)",
+        "desc": "Dessel zahlt 30 € im Jahr an Personen, die aus medizinischen Gründen wie Inkontinenz oder Nierendialyse mehr Abfall haben. Der Betrag wird mit der Abrechnung von IOK Afvalbeheer verrechnet.",
+        "deadline": "Jährlicher Antrag vor dem 31. Dezember.",
+        "amount": "30 € im Jahr auf der Abfallabrechnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliches Attest"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus (auf der Seite der Gemeinde)",
+          "Schicken Sie es mit einem ärztlichen Attest an den Finanzdienst von Lokaal Bestuur Dessel (Hannekestraat 1, 2480 Dessel) vor dem 31. Dezember",
+          "Die 30 € werden mit Ihrer nächsten Abrechnung von IOK Afvalbeheer verrechnet"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "15 Nov 2026",
+      "source_url": [
+        "https://www.dessel.be/premiediftar",
+        "https://www.dessel.be/file/download/479/20D1CA4DA3B6003FE950C57CF6E77350"
+      ],
+      "conditions": {
+        "en": [
+          "You produce more waste for a medical reason (for example incontinence or kidney dialysis) and can show a medical certificate.",
+          "Apply every year before 31 December; the allowance is settled on the next IOK Afvalbeheer bill, for a minor on the bill of the head of the household."
+        ],
+        "nl": [
+          "Je produceert om een medische reden (bijvoorbeeld incontinentie of nierdialyse) meer afval en kunt een medisch attest voorleggen.",
+          "Jaarlijks aanvragen vóór 31 december; de toelage wordt verrekend op de eerstvolgende afrekening van IOK Afvalbeheer, voor een minderjarige aan het gezinshoofd."
+        ],
+        "fr": [
+          "Vous produisez plus de déchets pour une raison médicale (par exemple incontinence ou dialyse rénale) et pouvez présenter un certificat médical.",
+          "Demande chaque année avant le 31 décembre ; la prime est déduite du prochain décompte d'IOK Afvalbeheer, pour un mineur au nom du chef de ménage."
+        ],
+        "de": [
+          "Sie haben aus medizinischen Gründen (zum Beispiel Inkontinenz oder Nierendialyse) mehr Abfall und können ein ärztliches Attest vorlegen.",
+          "Jährlicher Antrag vor dem 31. Dezember; der Zuschuss wird mit der nächsten Abrechnung von IOK Afvalbeheer verrechnet, bei Minderjährigen mit der des Haushaltsvorstands."
+        ]
+      }
+    }
+  },
+  {
+    "id": 481,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "91030"
+    ],
+    "institution": "Ville de Ciney",
+    "verified": "15 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ciney.be/vie-communale/services-communaux/services-communaux/environnement/primes/prime-langes-lavables",
+    "content": {
+      "en": {
+        "title": "Prime aux langes lavables (Washable Nappies Premium, Ciney)",
+        "desc": "Ciney refunds half of what you spend on washable nappies for a child from birth to 3 years.",
+        "deadline": "Ask the environment department about the deadline.",
+        "amount": "50% of the purchase, up to €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Household composition certificate"
+          },
+          {
+            "type": "doc",
+            "label": "Paid invoice(s) for the washable nappies"
+          },
+          {
+            "type": "doc",
+            "label": "Application form"
+          }
+        ],
+        "steps": [
+          "Buy washable nappies and keep the paid invoices",
+          "Fill in the application form (on the city's page)",
+          "Send it with a household composition and the invoices to the Service Environnement (Rue du Centre 35, 5590 Ciney, environnement@ciney.be)"
+        ]
+      },
+      "nl": {
+        "title": "Prime aux langes lavables (premie voor wasbare luiers, Ciney)",
+        "desc": "Ciney betaalt de helft terug van wat je uitgeeft aan wasbare luiers voor een kind van de geboorte tot 3 jaar.",
+        "deadline": "Vraag de milieudienst naar de termijn.",
+        "amount": "50% van de aankoop, maximaal €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "Betaalde factuur of facturen van de wasbare luiers"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Koop wasbare luiers en bewaar de betaalde facturen",
+          "Vul het aanvraagformulier in (op de webpagina van de stad)",
+          "Bezorg het met een gezinssamenstelling en de facturen aan de Service Environnement (Rue du Centre 35, 5590 Ciney, environnement@ciney.be)"
+        ]
+      },
+      "fr": {
+        "title": "Prime aux langes lavables (Ciney)",
+        "desc": "Ciney rembourse la moitié de l'achat de langes lavables pour un enfant de la naissance à 3 ans.",
+        "deadline": "Renseignez-vous sur le délai auprès du service Environnement.",
+        "amount": "50 % de l'achat, maximum 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Composition de famille"
+          },
+          {
+            "type": "doc",
+            "label": "Facture(s) acquittée(s) des langes lavables"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Achetez des langes lavables et conservez les factures acquittées",
+          "Remplissez le formulaire de demande (sur la page de la ville)",
+          "Envoyez-le avec une composition de famille et les factures au Service Environnement (Rue du Centre 35, 5590 Ciney, environnement@ciney.be)"
+        ]
+      },
+      "de": {
+        "title": "Prime aux langes lavables (Prämie für Stoffwindeln, Ciney)",
+        "desc": "Ciney erstattet die Hälfte der Kosten für Stoffwindeln für ein Kind von der Geburt bis 3 Jahre.",
+        "deadline": "Fragen Sie den Umweltdienst nach der Frist.",
+        "amount": "50 % des Kaufpreises, höchstens 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Bezahlte Rechnung(en) für die Stoffwindeln"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie Stoffwindeln und bewahren Sie die bezahlten Rechnungen auf",
+          "Füllen Sie das Antragsformular aus (auf der Seite der Stadt)",
+          "Schicken Sie es mit der Haushaltszusammensetzung und den Rechnungen an den Service Environnement (Rue du Centre 35, 5590 Ciney, environnement@ciney.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "15 Nov 2026",
+      "source_url": [
+        "https://www.ciney.be/vie-communale/services-communaux/services-communaux/environnement/primes/prime-langes-lavables"
+      ],
+      "conditions": {
+        "en": [
+          "You are a citizen of Ciney and the mother, father or legal guardian of a child from birth to 3 years.",
+          "Attach a household composition and proof of purchase (paid invoices) of the washable nappies."
+        ],
+        "nl": [
+          "Je bent inwoner van Ciney en de moeder, vader of wettelijke voogd van een kind van de geboorte tot 3 jaar.",
+          "Voeg een gezinssamenstelling en aankoopbewijzen (betaalde facturen) van de wasbare luiers toe."
+        ],
+        "fr": [
+          "Vous êtes citoyen de Ciney et la mère, le père ou le tuteur légal d'un enfant de la naissance à 3 ans.",
+          "Joignez une composition de famille et les preuves d'achat (factures acquittées) des langes lavables."
+        ],
+        "de": [
+          "Sie wohnen in Ciney und sind Mutter, Vater oder Vormund eines Kindes von der Geburt bis 3 Jahre.",
+          "Fügen Sie eine Haushaltszusammensetzung und die Kaufbelege (bezahlte Rechnungen) der Stoffwindeln bei."
+        ]
+      }
+    }
+  },
+  {
+    "id": 482,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "44013"
+    ],
+    "institution": "Lokaal Bestuur Destelbergen",
+    "verified": "15 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.destelbergen.be/thuiszorgtoelage",
+    "content": {
+      "en": {
+        "title": "Thuiszorgtoelage (Home Care Allowance, Destelbergen)",
+        "desc": "Destelbergen pays a yearly allowance to adult residents who need help at home for medical reasons, from professionals or informal carers.",
+        "deadline": "Apply by email to the Sociaal Huis.",
+        "amount": "€625 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form"
+          },
+          {
+            "type": "doc",
+            "label": "BelRAI screener assessment by a social worker or another authorised assessor"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (on the commune's page)",
+          "Email it to sociaalhuis@destelbergen.be",
+          "A social worker of the Sociaal Huis or another authorised assessor checks your care need with the BelRAI screener"
+        ]
+      },
+      "nl": {
+        "title": "Thuiszorgtoelage (Destelbergen)",
+        "desc": "Destelbergen geeft een jaarlijkse toelage aan volwassen inwoners die door medische redenen thuis ondersteuning nodig hebben, via professionele hulp of mantelzorg.",
+        "deadline": "Aanvragen per mail bij het Sociaal Huis.",
+        "amount": "€625 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "BelRAI-screener door een maatschappelijk werker of andere gemachtigde indicatiesteller"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (op de webpagina van de gemeente)",
+          "Mail het naar sociaalhuis@destelbergen.be",
+          "Een maatschappelijk werker van het Sociaal Huis of een andere gemachtigde indicatiesteller bekijkt je zorgnood met de BelRAI-screener"
+        ]
+      },
+      "fr": {
+        "title": "Thuiszorgtoelage (allocation de soins à domicile, Destelbergen)",
+        "desc": "Destelbergen verse une allocation annuelle aux habitants adultes qui ont besoin d'aide à domicile pour raison médicale, par des professionnels ou des aidants proches.",
+        "deadline": "Demande par e-mail au Sociaal Huis.",
+        "amount": "625 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Évaluation BelRAI par un assistant social ou un autre évaluateur habilité"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande (sur la page de la commune)",
+          "Envoyez-le à sociaalhuis@destelbergen.be",
+          "Un assistant social du Sociaal Huis ou un autre évaluateur habilité examine votre besoin de soins avec le BelRAI screener"
+        ]
+      },
+      "de": {
+        "title": "Thuiszorgtoelage (Zulage für häusliche Pflege, Destelbergen)",
+        "desc": "Destelbergen zahlt erwachsenen Einwohnern, die aus medizinischen Gründen zu Hause Unterstützung durch Fachkräfte oder pflegende Angehörige brauchen, eine jährliche Zulage.",
+        "deadline": "Antrag per E-Mail beim Sociaal Huis.",
+        "amount": "625 € im Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "BelRAI-Screener durch einen Sozialarbeiter oder eine andere befugte Stelle"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus (auf der Seite der Gemeinde)",
+          "Schicken Sie es an sociaalhuis@destelbergen.be",
+          "Ein Sozialarbeiter des Sociaal Huis oder eine andere befugte Stelle prüft Ihren Pflegebedarf mit dem BelRAI-Screener"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "15 Nov 2026",
+      "source_url": [
+        "https://www.destelbergen.be/thuiszorgtoelage"
+      ],
+      "conditions": {
+        "en": [
+          "You are at least 18 and live in Destelbergen.",
+          "You need help with daily tasks such as washing, cooking, cleaning and shopping: your BelRAI score is between 3.5 and 5.5 on ADL and IADL together, or between 10.5 and 13 on all ADL and IADL items together.",
+          "Cannot be combined with Destelbergen's socio-pedagogical allowance."
+        ],
+        "nl": [
+          "Je bent minstens 18 jaar en woont in Destelbergen.",
+          "Je hebt hulp nodig bij dagelijkse handelingen zoals wassen, koken, poetsen en boodschappen doen: je BelRAI-score ligt tussen 3,5 en 5,5 op ADL en IADL samen, of tussen 10,5 en 13 op alle ADL- en IADL-items samen.",
+          "Niet te combineren met de gemeentelijke sociaal-pedagogische toelage."
+        ],
+        "fr": [
+          "Vous avez au moins 18 ans et habitez Destelbergen.",
+          "Vous avez besoin d'aide pour les actes quotidiens (se laver, cuisiner, nettoyer, faire les courses) : votre score BelRAI est entre 3,5 et 5,5 sur les AVQ et AIVQ ensemble, ou entre 10,5 et 13 sur l'ensemble des items AVQ et AIVQ.",
+          "Non cumulable avec l'allocation socio-pédagogique communale."
+        ],
+        "de": [
+          "Sie sind mindestens 18 Jahre alt und wohnen in Destelbergen.",
+          "Sie brauchen Hilfe bei täglichen Verrichtungen wie Waschen, Kochen, Putzen und Einkaufen: Ihr BelRAI-Wert liegt zwischen 3,5 und 5,5 bei ADL und IADL zusammen oder zwischen 10,5 und 13 bei allen ADL- und IADL-Punkten zusammen.",
+          "Nicht mit der kommunalen sozialpädagogischen Zulage kombinierbar."
+        ]
+      }
+    }
+  },
+  {
+    "id": 483,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "44013"
+    ],
+    "institution": "Lokaal Bestuur Destelbergen",
+    "verified": "15 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.destelbergen.be/zorg-ondersteuning/premies-tegemoetkomingen/sociaal-pedagogische-toelage",
+    "content": {
+      "en": {
+        "title": "Sociaal-pedagogische toelage (Allowance for Parents of a Child with a Disability, Destelbergen)",
+        "desc": "Destelbergen pays €200 a year per child with a disability, up to and including the year the child turns 21.",
+        "deadline": "Apply before 1 October of the year concerned; payment by 30 November. Past years cannot be claimed.",
+        "amount": "€200 a year per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate from the FPS or the Growth Package payment body showing the right to the care supplement for children with a specific support need"
+          }
+        ],
+        "steps": [
+          "Get the certificate showing the care supplement",
+          "Fill in the application form (on the commune's page) and submit it to the Sociaal Huis before 1 October",
+          "The allowance is paid into your account by 30 November"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-pedagogische toelage (Destelbergen)",
+        "desc": "Destelbergen geeft €200 per jaar per kind met een beperking, tot en met het jaar waarin het kind 21 wordt.",
+        "deadline": "Aanvragen vóór 1 oktober van het betreffende jaar; uitbetaling ten laatste op 30 november. Voorgaande jaren kun je niet aanvragen.",
+        "amount": "€200 per jaar per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de FOD of de uitbetalingsinstelling van het groeipakket over het recht op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte"
+          }
+        ],
+        "steps": [
+          "Vraag het attest over de zorgtoeslag",
+          "Vul het aanvraagformulier in (op de webpagina van de gemeente) en dien het in bij het Sociaal Huis vóór 1 oktober",
+          "De toelage wordt ten laatste op 30 november op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-pedagogische toelage (allocation pour parents d'un enfant handicapé, Destelbergen)",
+        "desc": "Destelbergen verse 200 € par an par enfant handicapé, jusqu'à l'année de ses 21 ans incluse.",
+        "deadline": "Demande avant le 1er octobre de l'année concernée ; paiement au plus tard le 30 novembre. Pas de demande pour les années passées.",
+        "amount": "200 € par an par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation du SPF ou de la caisse du Groeipakket prouvant le droit au supplément pour enfants ayant un besoin de soutien spécifique"
+          }
+        ],
+        "steps": [
+          "Demandez l'attestation du supplément de soins",
+          "Remplissez le formulaire (sur la page de la commune) et introduisez-le au Sociaal Huis avant le 1er octobre",
+          "L'allocation est versée sur votre compte au plus tard le 30 novembre"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-pedagogische toelage (Zulage für Eltern eines Kindes mit Behinderung, Destelbergen)",
+        "desc": "Destelbergen zahlt 200 € im Jahr pro Kind mit Behinderung, bis einschließlich zum Jahr, in dem es 21 wird.",
+        "deadline": "Antrag vor dem 1. Oktober des betreffenden Jahres; Auszahlung spätestens am 30. November. Vergangene Jahre können nicht beantragt werden.",
+        "amount": "200 € im Jahr pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD oder der Auszahlungsstelle des Groeipakket über den Anspruch auf den Pflegezuschlag für Kinder mit besonderem Unterstützungsbedarf"
+          }
+        ],
+        "steps": [
+          "Besorgen Sie die Bescheinigung über den Pflegezuschlag",
+          "Füllen Sie das Antragsformular aus (auf der Seite der Gemeinde) und reichen Sie es vor dem 1. Oktober beim Sociaal Huis ein",
+          "Die Zulage wird spätestens am 30. November auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "15 Nov 2026",
+      "source_url": [
+        "https://www.destelbergen.be/zorg-ondersteuning/premies-tegemoetkomingen/sociaal-pedagogische-toelage"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Destelbergen on 1 January of the year concerned and are registered in its population register or foreigners' register.",
+          "You are the parent or the person who raises and cares for the child (co-parents: the child stays with you at least 50% of the time).",
+          "The child, up to the year it turns 21, is recognised for the care supplement for children with a specific support need (at least 4 points in pillar 1 or 6 points over the 3 pillars), valid on 1 January.",
+          "Apply before 1 October; cannot be combined with Destelbergen's home care allowance."
+        ],
+        "nl": [
+          "Je woont op 1 januari van het betrokken jaar in Destelbergen en bent ingeschreven in het bevolkingsregister of het vreemdelingenregister van de gemeente.",
+          "Je bent de ouder of de persoon die instaat voor de opvoeding en verzorging van het kind (co-ouderschap: het kind verblijft minstens 50% van de tijd bij jou).",
+          "Het kind, tot en met het jaar waarin het 21 wordt, heeft een erkenning voor de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte (minstens 4 punten in pijler 1 of 6 punten in de 3 pijlers samen), geldig op 1 januari.",
+          "Aanvragen vóór 1 oktober; niet te combineren met de gemeentelijke thuiszorgtoelage."
+        ],
+        "fr": [
+          "Vous habitez Destelbergen au 1er janvier de l'année concernée et êtes inscrit au registre de la population ou des étrangers de la commune.",
+          "Vous êtes le parent ou la personne qui assure l'éducation et les soins de l'enfant (coparentalité : l'enfant séjourne chez vous au moins 50 % du temps).",
+          "L'enfant, jusqu'à l'année de ses 21 ans, est reconnu pour le supplément pour enfants ayant un besoin de soutien spécifique (au moins 4 points dans le pilier 1 ou 6 points sur les 3 piliers), valable au 1er janvier.",
+          "Demande avant le 1er octobre ; non cumulable avec l'allocation communale de soins à domicile."
+        ],
+        "de": [
+          "Sie wohnen am 1. Januar des betreffenden Jahres in Destelbergen und sind im Bevölkerungs- oder Fremdenregister der Gemeinde eingetragen.",
+          "Sie sind Elternteil oder die Person, die das Kind erzieht und versorgt (Co-Elternschaft: das Kind ist mindestens 50 % der Zeit bei Ihnen).",
+          "Das Kind ist bis zum Jahr, in dem es 21 wird, für den Pflegezuschlag für Kinder mit besonderem Unterstützungsbedarf anerkannt (mindestens 4 Punkte in Säule 1 oder 6 Punkte in den 3 Säulen), gültig am 1. Januar.",
+          "Antrag vor dem 1. Oktober; nicht mit der kommunalen Zulage für häusliche Pflege kombinierbar."
+        ]
+      }
+    }
+  },
+  {
+    "id": 484,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24020"
+    ],
+    "institution": "Stad Diest",
+    "verified": "15 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.diest.be/welzijn/financiele-hulp/premie-wasbare-luiers",
+    "content": {
+      "en": {
+        "title": "Premie wasbare luiers (Washable Nappies Premium, Diest)",
+        "desc": "Diest refunds half of what you pay for washable nappies, once per child.",
+        "deadline": "Apply before the child's third birthday.",
+        "amount": "50% of the purchase price, up to €150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of the invoice or proof of purchase in your name, showing the price"
+          },
+          {
+            "type": "doc",
+            "label": "Application form"
+          },
+          {
+            "type": "id",
+            "label": "Copy of the child's or applicant's ID (or a GP certificate if you apply before the birth is registered)"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (on the city's page)",
+          "Send it with the invoice and the ID copy or GP certificate to milieu@diest.be or by post to Stad Diest, dienst Milieu, Grote Markt 1, 3290 Diest",
+          "The college of mayor and aldermen decides on the subsidy"
+        ]
+      },
+      "nl": {
+        "title": "Premie wasbare luiers (Diest)",
+        "desc": "Diest betaalt de helft terug van wat je voor wasbare luiers betaalt, eenmalig per kind.",
+        "deadline": "Aanvragen vóór de derde verjaardag van het kind.",
+        "amount": "50% van de aankoopprijs, maximaal €150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van de factuur of het aankoopbewijs op naam, met vermelding van de prijs"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          },
+          {
+            "type": "id",
+            "label": "Kopie van het identiteitsbewijs van het kind of de aanvrager (of een attest van de huisarts bij aanvraag vóór de aangifte van de geboorte)"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (op de webpagina van de stad)",
+          "Bezorg het met de factuur en de kopie van het identiteitsbewijs of het attest van de huisarts aan milieu@diest.be of per brief aan Stad Diest, dienst Milieu, Grote Markt 1, 3290 Diest",
+          "Het college van burgemeester en schepenen beslist over de subsidie"
+        ]
+      },
+      "fr": {
+        "title": "Premie wasbare luiers (prime pour langes lavables, Diest)",
+        "desc": "Diest rembourse la moitié de l'achat de langes lavables, une fois par enfant.",
+        "deadline": "Demande avant le troisième anniversaire de l'enfant.",
+        "amount": "50 % du prix d'achat, maximum 150 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie de la facture ou de la preuve d'achat à votre nom, avec le prix"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          },
+          {
+            "type": "id",
+            "label": "Copie de la pièce d'identité de l'enfant ou du demandeur (ou attestation du médecin si la demande précède la déclaration de naissance)"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande (sur la page de la ville)",
+          "Envoyez-le avec la facture et la copie d'identité ou l'attestation du médecin à milieu@diest.be ou par courrier à Stad Diest, dienst Milieu, Grote Markt 1, 3290 Diest",
+          "Le collège des bourgmestre et échevins décide de la prime"
+        ]
+      },
+      "de": {
+        "title": "Premie wasbare luiers (Prämie für Stoffwindeln, Diest)",
+        "desc": "Diest erstattet die Hälfte des Kaufpreises für Stoffwindeln, einmal pro Kind.",
+        "deadline": "Antrag vor dem dritten Geburtstag des Kindes.",
+        "amount": "50 % des Kaufpreises, höchstens 150 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie der Rechnung oder des Kaufbelegs auf Ihren Namen mit Preisangabe"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          },
+          {
+            "type": "id",
+            "label": "Kopie des Ausweises des Kindes oder des Antragstellers (oder ein Attest des Hausarztes bei Antrag vor der Geburtsanzeige)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus (auf der Seite der Stadt)",
+          "Schicken Sie es mit der Rechnung und der Ausweiskopie oder dem Attest an milieu@diest.be oder per Post an Stad Diest, dienst Milieu, Grote Markt 1, 3290 Diest",
+          "Das Bürgermeister- und Schöffenkollegium entscheidet über den Zuschuss"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "15 Nov 2026",
+      "source_url": [
+        "https://www.diest.be/welzijn/financiele-hulp/premie-wasbare-luiers",
+        "https://www.diest.be/sites/default/files/2022-06/MNW-DIT-Subsidiereglement%20herbruikbare%20luiers%20Nh.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Families and single parents with a child up to 3, registered in Diest's population and foreigners' register.",
+          "The father, mother or legal guardian applies in writing before the child's third birthday; one subsidy per child."
+        ],
+        "nl": [
+          "Gezinnen en alleenstaanden met een kind tot 3 jaar, ingeschreven in het bevolkings- en vreemdelingenregister van Diest.",
+          "De vader, de moeder of de wettelijke voogd vraagt schriftelijk aan vóór de derde verjaardag van het kind; eenmalig per kind."
+        ],
+        "fr": [
+          "Familles et parents seuls avec un enfant jusqu'à 3 ans, inscrits au registre de la population et des étrangers de Diest.",
+          "Le père, la mère ou le tuteur légal introduit la demande par écrit avant le troisième anniversaire de l'enfant ; une seule prime par enfant."
+        ],
+        "de": [
+          "Familien und Alleinerziehende mit einem Kind bis 3 Jahre, eingetragen im Bevölkerungs- und Fremdenregister von Diest.",
+          "Vater, Mutter oder Vormund beantragt schriftlich vor dem dritten Geburtstag des Kindes; einmalig pro Kind."
+        ]
+      }
+    }
   }
 ]

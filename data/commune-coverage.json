@@ -1297,49 +1297,81 @@
       "name": "Chièvres",
       "checked": "13 Nov 2026",
       "ids": []
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "56016",
-      "name": "Chimay"
+      "name": "Chimay",
+      "checked": "15 Nov 2026",
+      "ids": []
     },
     {
       "nis": "37002",
-      "name": "Dentergem"
+      "name": "Dentergem",
+      "checked": "15 Nov 2026",
+      "ids": [
+        478,
+        479
+      ]
     },
     {
       "nis": "85007",
-      "name": "Chiny"
+      "name": "Chiny",
+      "checked": "15 Nov 2026",
+      "ids": []
     },
     {
       "nis": "13006",
-      "name": "Dessel"
+      "name": "Dessel",
+      "checked": "15 Nov 2026",
+      "ids": [
+        480
+      ]
     },
     {
       "nis": "91030",
-      "name": "Ciney"
+      "name": "Ciney",
+      "checked": "15 Nov 2026",
+      "ids": [
+        481
+      ]
     },
     {
       "nis": "44013",
-      "name": "Destelbergen"
+      "name": "Destelbergen",
+      "checked": "15 Nov 2026",
+      "ids": [
+        482,
+        483
+      ]
     },
     {
       "nis": "61012",
-      "name": "Clavier"
+      "name": "Clavier",
+      "checked": "15 Nov 2026",
+      "ids": []
     },
     {
       "nis": "71011",
-      "name": "Diepenbeek"
+      "name": "Diepenbeek",
+      "checked": "15 Nov 2026",
+      "ids": []
     },
     {
       "nis": "53082",
-      "name": "Colfontaine"
+      "name": "Colfontaine",
+      "checked": "15 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24020",
-      "name": "Diest"
-    },
+      "name": "Diest",
+      "checked": "15 Nov 2026",
+      "ids": [
+        484
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "62026",
       "name": "Comblain-au-Pont"
