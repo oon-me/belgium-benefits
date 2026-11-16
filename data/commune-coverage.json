@@ -1369,49 +1369,83 @@
       "ids": [
         484
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "62026",
-      "name": "Comblain-au-Pont"
+      "name": "Comblain-au-Pont",
+      "checked": "16 Nov 2026",
+      "ids": []
     },
     {
       "nis": "32003",
-      "name": "Diksmuide / Dixmude"
+      "name": "Diksmuide / Dixmude",
+      "checked": "16 Nov 2026",
+      "ids": [
+        485
+      ]
     },
     {
       "nis": "23016",
-      "name": "Dilbeek"
+      "name": "Dilbeek",
+      "checked": "16 Nov 2026",
+      "ids": [
+        486
+      ]
     },
     {
       "nis": "25023",
-      "name": "Court-Saint-Etienne"
+      "name": "Court-Saint-Etienne",
+      "checked": "16 Nov 2026",
+      "ids": [
+        487
+      ]
     },
     {
       "nis": "72041",
-      "name": "Dilsen-Stokkem"
+      "name": "Dilsen-Stokkem",
+      "checked": "16 Nov 2026",
+      "ids": []
     },
     {
       "nis": "93014",
-      "name": "Couvin"
+      "name": "Couvin",
+      "checked": "16 Nov 2026",
+      "ids": []
     },
     {
       "nis": "23098",
-      "name": "Drogenbos"
+      "name": "Drogenbos",
+      "checked": "16 Nov 2026",
+      "ids": [
+        488,
+        489
+      ]
     },
     {
       "nis": "64021",
-      "name": "Crisnée"
+      "name": "Crisnée",
+      "checked": "16 Nov 2026",
+      "ids": [
+        490
+      ]
     },
     {
       "nis": "12009",
-      "name": "Duffel"
+      "name": "Duffel",
+      "checked": "16 Nov 2026",
+      "ids": [
+        491,
+        492
+      ]
     },
     {
       "nis": "62027",
-      "name": "Dalhem"
-    },
+      "name": "Dalhem",
+      "checked": "16 Nov 2026",
+      "ids": []
+    }
+  ],
+  "queue": [
     {
       "nis": "11013",
       "name": "Edegem"

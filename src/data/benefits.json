@@ -59888,5 +59888,1121 @@
         ]
       }
     }
+  },
+  {
+    "id": 485,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "32003"
+    ],
+    "institution": "OCMW Diksmuide",
+    "verified": "16 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.diksmuide.be/zorgtegoedafval",
+    "content": {
+      "en": {
+        "title": "ZorgTegoed Afval (Waste Allowance for Incontinence, Stoma or Home Dialysis, Diksmuide)",
+        "desc": "Diksmuide pays €50 a year into your waste (diftar) account if incontinence, a stoma, home dialysis or another condition gives you a lot of medical waste.",
+        "deadline": "Apply again every year.",
+        "amount": "€50 a year on your diftar account",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of the incontinence allowance from your health fund, or a GP statement on the form"
+          },
+          {
+            "type": "doc",
+            "label": "Application form"
+          }
+        ],
+        "steps": [
+          "Get proof of your incontinence allowance from your health fund, or have your GP fill in the doctor's part of the form",
+          "Hand in the application form at the Sociaal Huis (IJzerheemplein 4, 8600 Diksmuide, by appointment, sociaal.huis@diksmuide.be)",
+          "The €50 is paid into your diftar account"
+        ]
+      },
+      "nl": {
+        "title": "ZorgTegoed Afval (Diksmuide)",
+        "desc": "Diksmuide stort jaarlijks €50 op je diftarrekening als je door incontinentie, een stoma, thuisdialyse of een andere aandoening veel medisch afval hebt.",
+        "deadline": "Elk jaar opnieuw aanvragen.",
+        "amount": "€50 per jaar op je diftarrekening",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van het incontinentieforfait van het ziekenfonds, of de verklaring van de huisarts op het formulier"
+          },
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vraag een bewijs van je incontinentieforfait aan je ziekenfonds, of laat de huisarts de verklaring op het formulier invullen",
+          "Bezorg het aanvraagformulier aan het Sociaal Huis (IJzerheemplein 4, 8600 Diksmuide, op afspraak, sociaal.huis@diksmuide.be)",
+          "De €50 wordt op je diftarrekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "ZorgTegoed Afval (allocation déchets pour incontinence, stomie ou dialyse à domicile, Diksmuide)",
+        "desc": "Diksmuide verse 50 € par an sur votre compte déchets (diftar) si l'incontinence, une stomie, la dialyse à domicile ou une autre affection vous fait produire beaucoup de déchets médicaux.",
+        "deadline": "Demande à renouveler chaque année.",
+        "amount": "50 € par an sur votre compte diftar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve du forfait incontinence de la mutualité, ou déclaration du médecin sur le formulaire"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Demandez une preuve de votre forfait incontinence à votre mutualité, ou faites remplir la déclaration du médecin sur le formulaire",
+          "Remettez le formulaire au Sociaal Huis (IJzerheemplein 4, 8600 Diksmuide, sur rendez-vous, sociaal.huis@diksmuide.be)",
+          "Les 50 € sont versés sur votre compte diftar"
+        ]
+      },
+      "de": {
+        "title": "ZorgTegoed Afval (Abfallzuschuss bei Inkontinenz, Stoma oder Heimdialyse, Diksmuide)",
+        "desc": "Diksmuide zahlt jährlich 50 € auf Ihr Abfallkonto (Diftar), wenn Sie durch Inkontinenz, ein Stoma, Heimdialyse oder eine andere Erkrankung viel medizinischen Abfall haben.",
+        "deadline": "Jedes Jahr neu beantragen.",
+        "amount": "50 € pro Jahr auf Ihrem Diftar-Konto",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis der Inkontinenzpauschale der Krankenkasse oder Erklärung des Hausarztes auf dem Formular"
+          },
+          {
+            "type": "doc",
+            "label": "Antragsformular"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von Ihrer Krankenkasse die Inkontinenzpauschale bescheinigen oder den Arztteil des Formulars vom Hausarzt ausfüllen",
+          "Reichen Sie das Antragsformular beim Sociaal Huis ein (IJzerheemplein 4, 8600 Diksmuide, nach Termin, sociaal.huis@diksmuide.be)",
+          "Die 50 € werden auf Ihr Diftar-Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "16 Nov 2026",
+      "source_url": [
+        "https://www.diksmuide.be/zorgtegoedafval",
+        "https://www.diksmuide.be/sites/default/files/2026-01/ZorgTegoed-Afval.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in Diksmuide and still live at home at least part of the time.",
+          "You have chronic incontinence with an incontinence allowance from your health fund, a stoma, home peritoneal or haemodialysis, or another condition that causes a lot of medical waste."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in Diksmuide en verblijft minstens nog gedeeltelijk thuis.",
+          "Je hebt chronische incontinentie met een incontinentieforfait van het ziekenfonds, een stoma, peritoneale of hemodialyse thuis, of een andere aandoening waardoor je veel medisch afval hebt."
+        ],
+        "fr": [
+          "Vous êtes domicilié à Diksmuide et vivez encore au moins en partie à domicile.",
+          "Vous souffrez d'incontinence chronique avec un forfait incontinence de la mutualité, avez une stomie, faites une dialyse péritonéale ou une hémodialyse à domicile, ou avez une autre affection qui produit beaucoup de déchets médicaux."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in Diksmuide und wohnen zumindest noch teilweise zu Hause.",
+          "Sie haben chronische Inkontinenz mit Inkontinenzpauschale der Krankenkasse, ein Stoma, Peritoneal- oder Hämodialyse zu Hause oder eine andere Erkrankung mit viel medizinischem Abfall."
+        ]
+      }
+    }
+  },
+  {
+    "id": 486,
+    "category": "housing",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23016"
+    ],
+    "institution": "Gemeente Dilbeek",
+    "verified": "16 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.dilbeek.be/nl/themas/bouwen-wonen/sociale-premie-water-en-elektriciteit-voor-personen-met-een-laag-inkomen",
+    "content": {
+      "en": {
+        "title": "Sociale premie water en elektriciteit (Social Water and Electricity Premium, Dilbeek)",
+        "desc": "Dilbeek pays €100 a year towards the water and electricity bills of households on a low income.",
+        "deadline": "Apply every year between 1 May and 30 June.",
+        "amount": "€100 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of your tax assessment, pension slip or benefit slip"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the latest cadastral income statements"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of a recent payment of your electricity or water bill"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (on the commune's page)",
+          "Hand it in with the supporting documents at the welfare desk (welzijnsloket) in Itterbeek between 1 May and 30 June",
+          "The commune checks your income and pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Sociale premie water en elektriciteit (Dilbeek)",
+        "desc": "Dilbeek betaalt gezinnen met een laag inkomen €100 per jaar als tussenkomst in hun water- en elektriciteitsverbruik.",
+        "deadline": "Jaarlijks aanvragen van 1 mei tot en met 30 juni.",
+        "amount": "€100 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van het aanslagbiljet, de pensioenfiche of de fiche van het vervangingsinkomen"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van de laatste kadastrale inkomensbiljetten"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van een recent betalingsbewijs van de elektriciteits- of waterrekening"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (op de webpagina van de gemeente)",
+          "Bezorg het met de bewijsstukken aan het welzijnsloket in Itterbeek tussen 1 mei en 30 juni",
+          "De gemeente controleert je inkomen en betaalt de premie uit"
+        ]
+      },
+      "fr": {
+        "title": "Sociale premie water en elektriciteit (prime sociale eau et électricité, Dilbeek)",
+        "desc": "Dilbeek verse 100 € par an aux ménages à faibles revenus pour leurs factures d'eau et d'électricité.",
+        "deadline": "Demande chaque année entre le 1er mai et le 30 juin.",
+        "amount": "100 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie de l'avertissement-extrait de rôle, de la fiche de pension ou de la fiche de revenu de remplacement"
+          },
+          {
+            "type": "doc",
+            "label": "Copie des derniers avertissements du revenu cadastral"
+          },
+          {
+            "type": "doc",
+            "label": "Copie d'une preuve de paiement récente de la facture d'électricité ou d'eau"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande (sur la page de la commune)",
+          "Remettez-le avec les justificatifs au guichet social (welzijnsloket) d'Itterbeek entre le 1er mai et le 30 juin",
+          "La commune vérifie vos revenus et verse la prime"
+        ]
+      },
+      "de": {
+        "title": "Sociale premie water en elektriciteit (Sozialprämie für Wasser und Strom, Dilbeek)",
+        "desc": "Dilbeek zahlt Haushalten mit geringem Einkommen jährlich 100 € für ihre Wasser- und Stromrechnungen.",
+        "deadline": "Jährlich zwischen dem 1. Mai und dem 30. Juni beantragen.",
+        "amount": "100 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie des Steuerbescheids, der Rentenbescheinigung oder der Bescheinigung über das Ersatzeinkommen"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie der letzten Katastereinkommen-Bescheide"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie eines aktuellen Zahlungsbelegs der Strom- oder Wasserrechnung"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus (auf der Seite der Gemeinde)",
+          "Reichen Sie es mit den Nachweisen zwischen dem 1. Mai und dem 30. Juni beim Sozialschalter (welzijnsloket) in Itterbeek ein",
+          "Die Gemeinde prüft Ihr Einkommen und zahlt die Prämie aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "16 Nov 2026",
+      "source_url": [
+        "https://www.dilbeek.be/nl/themas/bouwen-wonen/sociale-premie-water-en-elektriciteit-voor-personen-met-een-laag-inkomen"
+      ],
+      "conditions": {
+        "en": [
+          "You have been domiciled in Dilbeek for 1 year on 31 December of the year before the payment.",
+          "The income of everyone at your address stays under a limit based on the integration income (leefloon): category 2 + 15% for a single person, category 3 + 10% for a single parent with 1 child or a couple, plus €500 per dependant.",
+          "A household member with a disability counts as two persons; the cadastral income of your own home up to €991.57 (+ €136.34 per dependant) is not counted."
+        ],
+        "nl": [
+          "Je bent op 31 december van het jaar vóór de uitbetaling 1 jaar gedomicilieerd in Dilbeek.",
+          "Het inkomen van iedereen op je adres blijft onder een grens op basis van het leefloon: categorie 2 + 15% voor een alleenstaande, categorie 3 + 10% voor een alleenstaande met 1 kind of een echtpaar, plus €500 per persoon ten laste.",
+          "Een gezinslid met een handicap telt voor twee eenheden; het kadastraal inkomen van de gezinswoning tot €991,57 (+ €136,34 per persoon ten laste) telt niet mee."
+        ],
+        "fr": [
+          "Au 31 décembre de l'année précédant le paiement, vous êtes domicilié à Dilbeek depuis 1 an.",
+          "Les revenus de toutes les personnes domiciliées à votre adresse restent sous un plafond basé sur le revenu d'intégration : catégorie 2 + 15 % pour un isolé, catégorie 3 + 10 % pour un parent seul avec 1 enfant ou un couple, plus 500 € par personne à charge.",
+          "Un membre du ménage handicapé compte pour deux unités ; le revenu cadastral du logement familial jusqu'à 991,57 € (+ 136,34 € par personne à charge) n'est pas pris en compte."
+        ],
+        "de": [
+          "Am 31. Dezember des Jahres vor der Auszahlung haben Sie seit 1 Jahr Ihren Wohnsitz in Dilbeek.",
+          "Das Einkommen aller Personen an Ihrer Adresse bleibt unter einer Grenze auf Basis des Eingliederungseinkommens: Kategorie 2 + 15 % für Alleinstehende, Kategorie 3 + 10 % für Alleinerziehende mit 1 Kind oder Paare, plus 500 € pro unterhaltsberechtigte Person.",
+          "Ein Haushaltsmitglied mit Behinderung zählt doppelt; das Katastereinkommen der Familienwohnung bis 991,57 € (+ 136,34 € pro unterhaltsberechtigte Person) wird nicht angerechnet."
+        ]
+      }
+    }
+  },
+  {
+    "id": 487,
+    "category": "housing",
+    "situations": [
+      "buying-home",
+      "renting"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25023"
+    ],
+    "institution": "Commune de Court-Saint-Etienne",
+    "verified": "16 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.court-st-etienne.be/ma-commune/services-communaux/environnement/demarches/prime-anti-inondations",
+    "content": {
+      "en": {
+        "title": "Prime anti-inondations (Flood Protection Premium, Court-Saint-Etienne)",
+        "desc": "Court-Saint-Etienne pays 60% of works or equipment that protect a flooded home against water, such as flood barriers, non-return valves or raising the electrical panel.",
+        "deadline": "Apply within 3 years of the flood, and before starting the works.",
+        "amount": "60% of the cost, up to €500 per building every 10 years",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Copy of your ID card"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of your right to the building, or the owner's written consent if you rent"
+          },
+          {
+            "type": "doc",
+            "label": "Your insurer's reply on the flood claim"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (on the commune's page) before you start",
+          "Send it to the college communal with your ID, proof of your right to the building (or the owner's written consent if you rent), the insurer's reply and a description of the project",
+          "After the college approves, carry out the works and send the invoices, proof of payment and photos; the premium is paid within 30 days"
+        ]
+      },
+      "nl": {
+        "title": "Prime anti-inondations (premie tegen overstromingen, Court-Saint-Etienne)",
+        "desc": "Court-Saint-Etienne betaalt 60% van werken of uitrusting die een overstroomde woning beschermen tegen water, zoals schotbalken, terugslagkleppen of een hoger geplaatste elektriciteitskast.",
+        "deadline": "Aanvragen binnen 3 jaar na de overstroming en vóór de start van de werken.",
+        "amount": "60% van de kosten, maximaal €500 per gebouw per 10 jaar",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Kopie van je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van je recht op het gebouw, of schriftelijke toestemming van de eigenaar als je huurt"
+          },
+          {
+            "type": "doc",
+            "label": "Antwoord van de verzekeraar over de schadeclaim"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (op de webpagina van de gemeente) voordat je begint",
+          "Bezorg het aan het college met je identiteitskaart, het bewijs van je recht op het gebouw (of de schriftelijke toestemming van de eigenaar als je huurt), het antwoord van de verzekeraar en een beschrijving van het project",
+          "Na goedkeuring voer je de werken uit en bezorg je facturen, betalingsbewijzen en foto's; de premie wordt binnen 30 dagen betaald"
+        ]
+      },
+      "fr": {
+        "title": "Prime anti-inondations (Court-Saint-Etienne)",
+        "desc": "Court-Saint-Etienne prend en charge 60 % des travaux ou équipements qui protègent un logement inondé contre l'eau, comme des batardeaux, des clapets anti-retour ou la mise hors eau du tableau électrique.",
+        "deadline": "Demande dans les 3 ans du sinistre et avant de commencer les travaux.",
+        "amount": "60 % du coût, maximum 500 € par immeuble par période de 10 ans",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Copie de la carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve du droit réel sur le logement, ou accord écrit du propriétaire si vous êtes locataire"
+          },
+          {
+            "type": "doc",
+            "label": "Réponse de l'assureur sur la prise en charge du sinistre"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande (sur la page de la commune) avant de commencer",
+          "Envoyez-le au Collège communal avec votre carte d'identité, la preuve de votre droit réel (ou l'accord écrit du propriétaire si vous êtes locataire), la réponse de l'assureur et une description du projet",
+          "Après l'accord du Collège, réalisez les travaux et envoyez factures, preuves de paiement et photos ; la prime est versée dans les 30 jours"
+        ]
+      },
+      "de": {
+        "title": "Prime anti-inondations (Hochwasserschutzprämie, Court-Saint-Etienne)",
+        "desc": "Court-Saint-Etienne übernimmt 60 % der Arbeiten oder Ausrüstung, die eine überflutete Wohnung vor Wasser schützen, etwa Dammbalken, Rückstauklappen oder einen höher gesetzten Stromverteiler.",
+        "deadline": "Antrag innerhalb von 3 Jahren nach dem Hochwasser und vor Beginn der Arbeiten.",
+        "amount": "60 % der Kosten, höchstens 500 € pro Gebäude alle 10 Jahre",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Kopie Ihres Personalausweises"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis Ihres Rechts am Gebäude oder schriftliche Zustimmung des Eigentümers, wenn Sie mieten"
+          },
+          {
+            "type": "doc",
+            "label": "Antwort der Versicherung zum Schadensfall"
+          }
+        ],
+        "steps": [
+          "Füllen Sie vor Beginn das Antragsformular aus (auf der Seite der Gemeinde)",
+          "Schicken Sie es an das Gemeindekollegium mit Ausweis, Nachweis Ihres dinglichen Rechts (oder schriftlicher Zustimmung des Eigentümers, wenn Sie mieten), der Antwort der Versicherung und einer Projektbeschreibung",
+          "Nach der Zusage führen Sie die Arbeiten aus und senden Rechnungen, Zahlungsbelege und Fotos; die Prämie wird innerhalb von 30 Tagen gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "16 Nov 2026",
+      "source_url": [
+        "https://www.court-st-etienne.be/ma-commune/services-communaux/environnement/demarches/prime-anti-inondations",
+        "https://www.court-st-etienne.be/ma-commune/services-communaux/environnement/demarches/documents-pour-demarches-environnement/fichiers/prime-anti-inondation-reglement.pdf/@@download/file/prime-anti-inondation-reglement.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The building is in Court-Saint-Etienne, is occupied, and its inside was flooded after 1 June 2021 with damage recognised and paid by an insurer.",
+          "You are the owner, co-owner, usufructuary, long-lease holder or a tenant with a registered lease; one premium per building every 10 years, not for a building with a planning offence.",
+          "Apply within 3 years of the flood and do not start the works before the college communal approves."
+        ],
+        "nl": [
+          "Het gebouw ligt in Court-Saint-Etienne, is bewoond en liep na 1 juni 2021 binnen schade op door overstroming, vastgesteld en vergoed door een verzekeraar.",
+          "Je bent eigenaar, mede-eigenaar, vruchtgebruiker, erfpachter of huurder met een geregistreerd huurcontract; één premie per gebouw per 10 jaar, niet voor een gebouw met een stedenbouwkundige overtreding.",
+          "Vraag aan binnen 3 jaar na de overstroming en begin niet aan de werken vóór de goedkeuring van het college."
+        ],
+        "fr": [
+          "L'immeuble est situé à Court-Saint-Etienne, est occupé et son intérieur a été inondé après le 1er juin 2021, avec des dégâts constatés et indemnisés par un assureur.",
+          "Vous êtes propriétaire, copropriétaire, usufruitier, emphytéote ou locataire avec un bail enregistré ; une seule prime par immeuble par 10 ans, pas pour un bien frappé d'une infraction urbanistique.",
+          "Introduisez la demande dans les 3 ans du sinistre et ne commencez pas les travaux avant la décision d'octroi du Collège."
+        ],
+        "de": [
+          "Das Gebäude liegt in Court-Saint-Etienne, ist bewohnt und wurde nach dem 1. Juni 2021 innen überflutet; der Schaden wurde von einer Versicherung festgestellt und entschädigt.",
+          "Sie sind Eigentümer, Miteigentümer, Nießbraucher, Erbpächter oder Mieter mit registriertem Mietvertrag; eine Prämie pro Gebäude alle 10 Jahre, nicht für ein Gebäude mit Städtebauverstoß.",
+          "Beantragen Sie innerhalb von 3 Jahren nach dem Hochwasser und beginnen Sie nicht vor der Zusage des Gemeindekollegiums."
+        ]
+      }
+    }
+  },
+  {
+    "id": 488,
+    "category": "housing",
+    "situations": [
+      "renting",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23098"
+    ],
+    "institution": "OCMW Drogenbos",
+    "verified": "16 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.drogenbos.be/nl/product/1631/de-huurpremie-ocmw",
+    "content": {
+      "en": {
+        "title": "Huurpremie OCMW (OCMW Rent Premium, Drogenbos)",
+        "desc": "The OCMW of Drogenbos pays €150 a month to low-income tenants of a private rental home who have been waiting for social housing for at least three years.",
+        "deadline": "Granted for 12 months; can be renewed once after a review (2 years at most).",
+        "amount": "€150 a month",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "ID card"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the lease and proof of the last three months' rent"
+          },
+          {
+            "type": "doc",
+            "label": "Income of the last 3 months and recent bank balances of all adult household members"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of registration with a social housing company for Drogenbos"
+          }
+        ],
+        "steps": [
+          "Make an appointment with a social worker of the OCMW (Grote Baan 226, 1620 Drogenbos, 02 334 72 30, socialedienst@drogenbos.be)",
+          "Bring your ID, lease, proof of the last three rent payments, income and bank balances of all adults, and proof of your social housing registration",
+          "The OCMW's standing committee decides within 30 days"
+        ]
+      },
+      "nl": {
+        "title": "Huurpremie OCMW (Drogenbos)",
+        "desc": "Het OCMW van Drogenbos betaalt €150 per maand aan huurders van een private woning met een laag inkomen die al minstens drie jaar op een sociale woning wachten.",
+        "deadline": "Toegekend voor 12 maanden; eenmalig verlengbaar na evaluatie (maximaal 2 jaar).",
+        "amount": "€150 per maand",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van het huurcontract en bewijs van betaling van de laatste drie maanden huur"
+          },
+          {
+            "type": "doc",
+            "label": "Inkomensbewijs van de laatste 3 maanden en recent saldo van de zicht- en spaarrekeningen van alle meerderjarige gezinsleden"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van inschrijving bij een sociale huisvestingsmaatschappij bevoegd voor Drogenbos"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak met een maatschappelijk werker van het OCMW (Grote Baan 226, 1620 Drogenbos, 02 334 72 30, socialedienst@drogenbos.be)",
+          "Breng je identiteitskaart, huurcontract, bewijs van de laatste drie huurbetalingen, inkomsten en spaarsaldi van alle meerderjarigen en het bewijs van je inschrijving voor een sociale woning mee",
+          "Het Vast bureau van het OCMW beslist binnen 30 dagen"
+        ]
+      },
+      "fr": {
+        "title": "Huurpremie OCMW (prime au loyer du CPAS, Drogenbos)",
+        "desc": "Le CPAS de Drogenbos verse 150 € par mois aux locataires d'un logement privé à faibles revenus qui attendent un logement social depuis au moins trois ans.",
+        "deadline": "Accordée pour 12 mois ; renouvelable une fois après évaluation (2 ans maximum).",
+        "amount": "150 € par mois",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Copie du bail et preuve du paiement des trois derniers loyers"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve des revenus des 3 derniers mois et soldes bancaires récents de tous les adultes du ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve d'inscription auprès d'une société de logement social compétente pour Drogenbos"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous avec un assistant social du CPAS (Grote Baan 226, 1620 Drogenbos, 02 334 72 30, socialedienst@drogenbos.be)",
+          "Apportez votre carte d'identité, le bail, la preuve des trois derniers loyers payés, les revenus et soldes bancaires de tous les adultes et la preuve d'inscription pour un logement social",
+          "Le bureau permanent du CPAS décide dans les 30 jours"
+        ]
+      },
+      "de": {
+        "title": "Huurpremie OCMW (Mietprämie des ÖSHZ, Drogenbos)",
+        "desc": "Das ÖSHZ Drogenbos zahlt Mietern einer privaten Wohnung mit geringem Einkommen, die seit mindestens drei Jahren auf eine Sozialwohnung warten, 150 € pro Monat.",
+        "deadline": "Für 12 Monate gewährt; einmal nach Prüfung verlängerbar (höchstens 2 Jahre).",
+        "amount": "150 € pro Monat",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Personalausweis"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie des Mietvertrags und Nachweis der letzten drei Monatsmieten"
+          },
+          {
+            "type": "doc",
+            "label": "Einkommensnachweis der letzten 3 Monate und aktuelle Kontostände aller erwachsenen Haushaltsmitglieder"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis der Anmeldung bei einer für Drogenbos zuständigen Sozialwohnungsgesellschaft"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin mit einem Sozialarbeiter des ÖSHZ (Grote Baan 226, 1620 Drogenbos, 02 334 72 30, socialedienst@drogenbos.be)",
+          "Bringen Sie Ausweis, Mietvertrag, Nachweis der letzten drei Mietzahlungen, Einkommen und Kontostände aller Erwachsenen und den Nachweis Ihrer Anmeldung für eine Sozialwohnung mit",
+          "Das ständige Präsidium des ÖSHZ entscheidet innerhalb von 30 Tagen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "16 Nov 2026",
+      "source_url": [
+        "https://www.drogenbos.be/nl/product/1631/de-huurpremie-ocmw",
+        "https://www.drogenbos.be/download.ashx?id=22849"
+      ],
+      "conditions": {
+        "en": [
+          "You are an adult registered without interruption for at least three years in Drogenbos's population or foreigners' register, and you rent a private home or room in Drogenbos where you are domiciled (lease in your name).",
+          "You have been registered for social housing for Drogenbos for at least three years and have not refused a social home without good reason.",
+          "The rent (without charges) is between €800 and €1,000 for a studio or 1 bedroom, up to €1,250 for 2 bedrooms, higher for larger homes; the home meets the minimum quality standards.",
+          "Household income stays under the integration income (leefloon) + 40% for your category, plus €141 per dependent child; you own no home or building land anywhere and receive no other rent premium or rent subsidy.",
+          "If you receive unemployment benefit or the integration income, you show the OCMW that you are actively looking for work."
+        ],
+        "nl": [
+          "Je bent meerderjarig, minstens drie jaar ononderbroken ingeschreven in het bevolkings- of vreemdelingenregister van Drogenbos en huurt een private woning of kamer in Drogenbos waar je gedomicilieerd bent (huurcontract op jouw naam).",
+          "Je bent minstens drie jaar ingeschreven bij een sociale huisvestingsmaatschappij voor Drogenbos en hebt geen sociale woning geweigerd zonder geldige reden.",
+          "De huurprijs (zonder lasten) ligt tussen €800 en €1.000 voor een studio of 1 slaapkamer, tot €1.250 voor 2 slaapkamers, hoger voor grotere woningen; de woning voldoet aan de minimale kwaliteitsnormen.",
+          "Het gezinsinkomen blijft onder het leefloon + 40% voor je categorie, plus €141 per kind ten laste; je bezit geen woning of bouwgrond in binnen- of buitenland en krijgt geen andere huurpremie of huursubsidie.",
+          "Als je een werkloosheidsuitkering of leefloon krijgt, toon je het OCMW je actieve werkbereidheid aan."
+        ],
+        "fr": [
+          "Vous êtes majeur, inscrit sans interruption depuis au moins trois ans au registre de la population ou des étrangers de Drogenbos et louez à Drogenbos un logement ou une chambre privés où vous êtes domicilié (bail à votre nom).",
+          "Vous êtes inscrit depuis au moins trois ans auprès d'une société de logement social pour Drogenbos et n'avez pas refusé de logement social sans motif valable.",
+          "Le loyer (hors charges) est compris entre 800 € et 1.000 € pour un studio ou 1 chambre, jusqu'à 1.250 € pour 2 chambres, plus pour les logements plus grands ; le logement respecte les normes minimales de qualité.",
+          "Les revenus du ménage restent sous le revenu d'intégration + 40 % de votre catégorie, plus 141 € par enfant à charge ; vous ne possédez aucun logement ou terrain à bâtir, en Belgique ou à l'étranger, et ne recevez aucune autre prime ou allocation de loyer.",
+          "Si vous percevez des allocations de chômage ou le revenu d'intégration, vous prouvez au CPAS que vous cherchez activement du travail."
+        ],
+        "de": [
+          "Sie sind volljährig, seit mindestens drei Jahren ununterbrochen im Bevölkerungs- oder Fremdenregister von Drogenbos eingetragen und mieten in Drogenbos eine private Wohnung oder ein Zimmer, wo Sie Ihren Wohnsitz haben (Mietvertrag auf Ihren Namen).",
+          "Sie sind seit mindestens drei Jahren bei einer Sozialwohnungsgesellschaft für Drogenbos angemeldet und haben keine Sozialwohnung ohne triftigen Grund abgelehnt.",
+          "Die Miete (ohne Nebenkosten) liegt zwischen 800 € und 1.000 € für ein Studio oder 1 Schlafzimmer, bis 1.250 € für 2 Schlafzimmer, höher für größere Wohnungen; die Wohnung erfüllt die Mindestqualitätsnormen.",
+          "Das Haushaltseinkommen bleibt unter dem Eingliederungseinkommen + 40 % Ihrer Kategorie, plus 141 € pro unterhaltsberechtigtem Kind; Sie besitzen weder im In- noch im Ausland eine Wohnung oder Bauland und erhalten keine andere Mietprämie oder Mietbeihilfe.",
+          "Wenn Sie Arbeitslosengeld oder das Eingliederungseinkommen beziehen, weisen Sie dem ÖSHZ Ihre aktive Arbeitssuche nach."
+        ]
+      }
+    }
+  },
+  {
+    "id": 489,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23098"
+    ],
+    "institution": "Gemeente Drogenbos",
+    "verified": "16 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.drogenbos.be/nl/product/120/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Informal Carer Premium, Drogenbos)",
+        "desc": "Drogenbos pays €50 a month to someone who looks after a resident in need of care at home, without pay.",
+        "deadline": "Renew every year before 1 January.",
+        "amount": "€50 a month, paid once a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Care-need certificate valid for more than 6 months (FOD Social Security 10 points or more, Katz B-forfait from the health fund, or Flemish care insurance)"
+          },
+          {
+            "type": "doc",
+            "label": "Signed statement on honour by the carer, and the application form"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (in the regulation on the commune's page) together with the person you care for",
+          "Hand it in with the care-need certificate and your statement on honour at the town hall or the OCMW (Grote Baan 226, 1620 Drogenbos)",
+          "The college of mayor and aldermen decides within a month; renew before 1 January each year"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Drogenbos)",
+        "desc": "Drogenbos betaalt €50 per maand aan wie onbetaald zorgt voor een zorgbehoevende inwoner die thuis woont.",
+        "deadline": "Jaarlijks opnieuw aanvragen vóór 1 januari.",
+        "amount": "€50 per maand, jaarlijks uitbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van zorgbehoevendheid geldig voor meer dan 6 maanden (FOD Sociale Zekerheid minstens 10 punten, forfait B op de KATZ-schaal van het ziekenfonds of Vlaamse Zorgverzekering)"
+          },
+          {
+            "type": "doc",
+            "label": "Ondertekende verklaring op eer van de mantelzorger en het aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vul samen met de zorgbehoevende het aanvraagformulier in (in het reglement op de webpagina van de gemeente)",
+          "Bezorg het met het attest van zorgbehoevendheid en je verklaring op eer aan het gemeentehuis of het OCMW (Grote Baan 226, 1620 Drogenbos)",
+          "Het college van burgemeester en schepenen beslist binnen de maand; vraag elk jaar vóór 1 januari opnieuw aan"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Drogenbos)",
+        "desc": "Drogenbos verse 50 € par mois à la personne qui s'occupe, sans être payée, d'un habitant dépendant qui vit à domicile.",
+        "deadline": "À renouveler chaque année avant le 1er janvier.",
+        "amount": "50 € par mois, versés une fois par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation de dépendance valable plus de 6 mois (SPF Sécurité sociale 10 points ou plus, forfait B sur l'échelle de Katz de la mutualité ou Vlaamse Zorgverzekering)"
+          },
+          {
+            "type": "doc",
+            "label": "Déclaration sur l'honneur signée par l'aidant et formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande avec la personne aidée (dans le règlement sur la page de la commune)",
+          "Remettez-le avec l'attestation de dépendance et votre déclaration sur l'honneur à la maison communale ou au CPAS (Grote Baan 226, 1620 Drogenbos)",
+          "Le collège des bourgmestre et échevins décide dans le mois ; renouvelez la demande avant le 1er janvier de chaque année"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Drogenbos)",
+        "desc": "Drogenbos zahlt 50 € pro Monat an Personen, die unbezahlt einen pflegebedürftigen Einwohner zu Hause betreuen.",
+        "deadline": "Jedes Jahr vor dem 1. Januar neu beantragen.",
+        "amount": "50 € pro Monat, einmal jährlich ausgezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung der Pflegebedürftigkeit mit mehr als 6 Monaten Gültigkeit (FÖD Soziale Sicherheit mindestens 10 Punkte, Pauschale B auf der Katz-Skala der Krankenkasse oder flämische Pflegeversicherung)"
+          },
+          {
+            "type": "doc",
+            "label": "Unterschriebene ehrenwörtliche Erklärung der Pflegeperson und Antragsformular"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular gemeinsam mit der betreuten Person aus (in der Regelung auf der Seite der Gemeinde)",
+          "Reichen Sie es mit der Pflegebedürftigkeitsbescheinigung und Ihrer ehrenwörtlichen Erklärung im Gemeindehaus oder beim ÖSHZ ein (Grote Baan 226, 1620 Drogenbos)",
+          "Das Bürgermeister- und Schöffenkollegium entscheidet innerhalb eines Monats; beantragen Sie jedes Jahr vor dem 1. Januar neu"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "16 Nov 2026",
+      "source_url": [
+        "https://www.drogenbos.be/nl/product/120/mantelzorgpremie",
+        "https://www.drogenbos.be/download.ashx?id=438"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for lives in Drogenbos, at home (alone or with others), and needs help with daily care, shown by a certificate: 10+ points from FOD Social Security, a Katz B-forfait from the health fund, or Flemish care insurance.",
+          "The carer is a relative, friend or neighbour who gives long-term unpaid care; a carer living elsewhere adds a certificate that their own commune pays no carer premium for this care.",
+          "One premium per person cared for and per carer."
+        ],
+        "nl": [
+          "De zorgbehoevende is inwoner van Drogenbos, woont thuis (zelfstandig of inwonend) en heeft hulp nodig bij de dagelijkse verzorging, blijkend uit een attest: minstens 10 punten bij de FOD Sociale Zekerheid, forfait B op de KATZ-schaal of Vlaamse Zorgverzekering.",
+          "De mantelzorger is een familielid, vriend of buur die langdurig onbetaald zorgt; een mantelzorger van buiten Drogenbos voegt een attest toe dat de eigen gemeente geen mantelzorgpremie toekent.",
+          "Eén premie per zorgbehoevende en per mantelzorger."
+        ],
+        "fr": [
+          "La personne aidée habite Drogenbos, vit à domicile (seule ou chez quelqu'un) et a besoin d'aide pour les soins quotidiens, attestée par : 10 points ou plus au SPF Sécurité sociale, un forfait B sur l'échelle de Katz ou la Vlaamse Zorgverzekering.",
+          "L'aidant est un proche, un ami ou un voisin qui apporte des soins non rémunérés de longue durée ; un aidant domicilié ailleurs joint une attestation que sa commune n'accorde pas de prime pour cette aide.",
+          "Une seule prime par personne aidée et par aidant."
+        ],
+        "de": [
+          "Die betreute Person wohnt in Drogenbos zu Hause (allein oder bei anderen) und braucht Hilfe bei der täglichen Pflege, belegt durch: mindestens 10 Punkte beim FÖD Soziale Sicherheit, Pauschale B auf der Katz-Skala oder flämische Pflegeversicherung.",
+          "Die Pflegeperson ist ein Angehöriger, Freund oder Nachbar, der langfristig unbezahlt pflegt; wohnt sie anderswo, legt sie eine Bescheinigung bei, dass ihre Gemeinde dafür keine Prämie zahlt.",
+          "Eine Prämie pro betreuter Person und pro Pflegeperson."
+        ]
+      }
+    }
+  },
+  {
+    "id": 490,
+    "category": "family",
+    "situations": [
+      "children",
+      "school"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "64021"
+    ],
+    "institution": "Commune de Crisnée",
+    "verified": "16 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.crisnee.be/accueil/actualites/4524-prime-communale-abonnement-de-transport-en-commun",
+    "content": {
+      "en": {
+        "title": "Prime communale abonnement de transport en commun (School Transport Pass Premium, Crisnée)",
+        "desc": "Crisnée refunds up to €50 a year of a pupil's school subscription for TEC, SNCB, De Lijn or STIB.",
+        "deadline": "Apply by 31 October of the year you bought the subscription.",
+        "amount": "Up to €50 a year per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of the subscription"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment and your bank account number"
+          }
+        ],
+        "steps": [
+          "Buy the school subscription (valid from 1 September at the earliest)",
+          "Send a copy of the subscription, the proof of payment and your bank account number to the commune (rue du Soleil 1, 4367 Crisnée, or by email)",
+          "The commune pays the premium into your account"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale abonnement de transport en commun (premie schoolabonnement openbaar vervoer, Crisnée)",
+        "desc": "Crisnée betaalt tot €50 per jaar terug van het schoolabonnement van een leerling bij TEC, NMBS, De Lijn of MIVB.",
+        "deadline": "Aanvragen uiterlijk op 31 oktober van het jaar van aankoop van het abonnement.",
+        "amount": "Tot €50 per jaar per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van het abonnement"
+          },
+          {
+            "type": "doc",
+            "label": "Betalingsbewijs en je rekeningnummer"
+          }
+        ],
+        "steps": [
+          "Koop het schoolabonnement (ten vroegste geldig vanaf 1 september)",
+          "Bezorg een kopie van het abonnement, het betalingsbewijs en je rekeningnummer aan de gemeente (rue du Soleil 1, 4367 Crisnée, of per e-mail)",
+          "De gemeente stort de premie op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale abonnement de transport en commun (Crisnée)",
+        "desc": "Crisnée rembourse jusqu'à 50 € par an de l'abonnement scolaire TEC, SNCB, De Lijn ou STIB d'un élève.",
+        "deadline": "Demande au plus tard le 31 octobre de l'année d'achat de l'abonnement.",
+        "amount": "Jusqu'à 50 € par an et par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie de l'abonnement"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de paiement et numéro de compte"
+          }
+        ],
+        "steps": [
+          "Achetez l'abonnement scolaire (valable au plus tôt à partir du 1er septembre)",
+          "Envoyez une copie de l'abonnement, la preuve de paiement et votre numéro de compte à l'Administration communale (rue du Soleil 1, 4367 Crisnée, ou par e-mail)",
+          "La commune verse la prime sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Prime communale abonnement de transport en commun (Prämie für Schulabonnements, Crisnée)",
+        "desc": "Crisnée erstattet bis zu 50 € pro Jahr für das Schulabonnement eines Schülers bei TEC, SNCB, De Lijn oder STIB.",
+        "deadline": "Antrag bis spätestens 31. Oktober des Jahres, in dem das Abonnement gekauft wurde.",
+        "amount": "Bis zu 50 € pro Jahr und Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie des Abonnements"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis und Ihre Kontonummer"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie das Schulabonnement (frühestens gültig ab 1. September)",
+          "Schicken Sie eine Kopie des Abonnements, den Zahlungsnachweis und Ihre Kontonummer an die Gemeindeverwaltung (rue du Soleil 1, 4367 Crisnée, oder per E-Mail)",
+          "Die Gemeinde überweist die Prämie auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "16 Nov 2026",
+      "source_url": [
+        "https://www.crisnee.be/accueil/actualites/4524-prime-communale-abonnement-de-transport-en-commun",
+        "https://www.crisnee.be/images/Taxes/2026/Reglement%20relatif%20a%20loctroi%20dune%20prime%20communale%20pour%20les%20abonnements%20de%20transport%20en%20commun.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The school subscription is in the name of a pupil aged 12 or older, and at least one parent is domiciled in Crisnée (the commune's page mentions pupils and students up to 25).",
+          "The subscription is valid from 1 September of that year at the earliest; apply by 31 October, within the commune's budget."
+        ],
+        "nl": [
+          "Het schoolabonnement staat op naam van een schoolgaand kind van 12 jaar of ouder van wie minstens één ouder in Crisnée gedomicilieerd is (de webpagina van de gemeente vermeldt leerlingen en studenten tot 25 jaar).",
+          "Het abonnement is ten vroegste geldig vanaf 1 september van dat jaar; aanvragen uiterlijk 31 oktober, binnen het beschikbare budget."
+        ],
+        "fr": [
+          "L'abonnement scolaire est au nom d'un enfant scolarisé de 12 ans et plus dont au moins un des parents est domicilié à Crisnée (la page de la commune mentionne les élèves et étudiants jusqu'à 25 ans).",
+          "L'abonnement est valable au plus tôt à partir du 1er septembre de l'année concernée ; demande au plus tard le 31 octobre, dans les limites du crédit budgétaire."
+        ],
+        "de": [
+          "Das Schulabonnement lautet auf ein Schulkind ab 12 Jahren, von dem mindestens ein Elternteil seinen Wohnsitz in Crisnée hat (die Seite der Gemeinde nennt Schüler und Studierende bis 25 Jahre).",
+          "Das Abonnement gilt frühestens ab 1. September des Jahres; Antrag bis 31. Oktober, im Rahmen des verfügbaren Budgets."
+        ]
+      }
+    }
+  },
+  {
+    "id": 491,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12009"
+    ],
+    "institution": "Lokaal bestuur Duffel",
+    "verified": "16 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.duffel.be/toelagepersonenmeteenbeperking",
+    "content": {
+      "en": {
+        "title": "Sociale toelage voor thuisverzorging van een persoon met een beperking (Home Care Allowance for a Person with a Disability, Duffel)",
+        "desc": "Duffel gives a yearly allowance to someone who cares at home for a person with a disability living at the same address.",
+        "deadline": "Apply between 15 October and 15 December 2026.",
+        "amount": "Up to €600 a year (2026); the budget is shared among applicants",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of the carer's tax assessment (tax year 2025, income 2024)"
+          },
+          {
+            "type": "doc",
+            "label": "FOD Social Security certificate showing the disability and its duration"
+          },
+          {
+            "type": "doc",
+            "label": "Signed application form"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (on the commune's page or at the zorgcampus)",
+          "Hand it in at the zorgcampus (Kwakkelenberg 1-3, 2570 Duffel) between 15 October and 15 December with your tax assessment and the FOD disability certificate",
+          "Duffel divides the budget among the applications and pays the allowance"
+        ]
+      },
+      "nl": {
+        "title": "Sociale toelage voor thuisverzorging van een persoon met een beperking (Duffel)",
+        "desc": "Duffel geeft een jaarlijkse toelage aan wie thuis zorgt voor een persoon met een beperking die op hetzelfde adres woont.",
+        "deadline": "Aanvragen tussen 15 oktober en 15 december 2026.",
+        "amount": "Maximaal €600 per jaar (2026); het budget wordt verdeeld over de aanvragen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van het aanslagbiljet personenbelasting van de verzorger (aanslagjaar 2025, inkomen 2024)"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de FOD met de duur van de invaliditeit en het aantal punten zelfredzaamheid"
+          },
+          {
+            "type": "doc",
+            "label": "Ondertekend aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (op de webpagina van de gemeente of bij de zorgcampus)",
+          "Bezorg het tussen 15 oktober en 15 december aan de zorgcampus (Kwakkelenberg 1-3, 2570 Duffel) met je aanslagbiljet en het attest van de FOD",
+          "Duffel verdeelt het budget over de aanvragen en betaalt de toelage uit"
+        ]
+      },
+      "fr": {
+        "title": "Sociale toelage voor thuisverzorging van een persoon met een beperking (allocation pour soins à domicile d'une personne handicapée, Duffel)",
+        "desc": "Duffel verse une allocation annuelle à la personne qui soigne à domicile une personne handicapée vivant à la même adresse.",
+        "deadline": "Demande entre le 15 octobre et le 15 décembre 2026.",
+        "amount": "Maximum 600 € par an (2026) ; le budget est réparti entre les demandes",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie de l'avertissement-extrait de rôle de l'aidant (exercice 2025, revenus 2024)"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation du SPF indiquant la durée du handicap et les points de perte d'autonomie"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande signé"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande (sur la page de la commune ou au zorgcampus)",
+          "Remettez-le au zorgcampus (Kwakkelenberg 1-3, 2570 Duffel) entre le 15 octobre et le 15 décembre avec votre avertissement-extrait de rôle et l'attestation du SPF",
+          "Duffel répartit le budget entre les demandes et verse l'allocation"
+        ]
+      },
+      "de": {
+        "title": "Sociale toelage voor thuisverzorging van een persoon met een beperking (Zuschuss für die häusliche Pflege einer Person mit Behinderung, Duffel)",
+        "desc": "Duffel zahlt einen jährlichen Zuschuss an Personen, die eine Person mit Behinderung an derselben Adresse zu Hause pflegen.",
+        "deadline": "Antrag zwischen dem 15. Oktober und dem 15. Dezember 2026.",
+        "amount": "Höchstens 600 € pro Jahr (2026); das Budget wird auf die Anträge verteilt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie des Steuerbescheids der Pflegeperson (Steuerjahr 2025, Einkommen 2024)"
+          },
+          {
+            "type": "doc",
+            "label": "FÖD-Bescheinigung mit Dauer der Behinderung und Punktzahl der Selbstständigkeit"
+          },
+          {
+            "type": "doc",
+            "label": "Unterschriebenes Antragsformular"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus (auf der Seite der Gemeinde oder beim zorgcampus)",
+          "Reichen Sie es zwischen dem 15. Oktober und dem 15. Dezember beim zorgcampus ein (Kwakkelenberg 1-3, 2570 Duffel), mit Steuerbescheid und FÖD-Bescheinigung",
+          "Duffel verteilt das Budget auf die Anträge und zahlt den Zuschuss aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "16 Nov 2026",
+      "source_url": [
+        "https://www.duffel.be/toelagepersonenmeteenbeperking"
+      ],
+      "conditions": {
+        "en": [
+          "The person you care for has a loss of autonomy of at least 12 points, or is legally at least 66% disabled and 21 or younger, or is legally 100% disabled.",
+          "The carer's net taxable income with spouse or partner (income 2024) is at most €55,528.15 plus €1,859.20 per dependant.",
+          "Both of you live together in Duffel at the same address; the full allowance needs this for 1 October 2025 to 30 September 2026, and half is paid if the person is home only at weekends and holidays."
+        ],
+        "nl": [
+          "De persoon die je verzorgt heeft een vermindering van zelfredzaamheid van minstens 12 punten, of is wettelijk minstens 66% invalide en niet ouder dan 21, of is wettelijk 100% invalide.",
+          "Het netto-belastbaar inkomen van de verzorger met echtgeno(o)t(e) of samenwonende (inkomen 2024) is maximaal €55.528,15 plus €1.859,20 per persoon ten laste.",
+          "Jullie wonen samen in Duffel op hetzelfde adres; voor de volledige toelage geldt dat van 1 oktober 2025 tot 30 september 2026, en je krijgt de helft als de persoon enkel in weekends en vakanties thuis is."
+        ],
+        "fr": [
+          "La personne soignée a une perte d'autonomie d'au moins 12 points, ou est légalement handicapée à 66 % au moins et âgée de 21 ans maximum, ou est légalement handicapée à 100 %.",
+          "Le revenu net imposable de l'aidant et de son conjoint ou cohabitant (revenus 2024) ne dépasse pas 55.528,15 € plus 1.859,20 € par personne à charge.",
+          "Vous habitez ensemble à Duffel à la même adresse ; l'allocation complète suppose que ce soit le cas du 1er octobre 2025 au 30 septembre 2026, et la moitié est versée si la personne n'est à la maison que les week-ends et vacances."
+        ],
+        "de": [
+          "Die gepflegte Person hat eine verminderte Selbstständigkeit von mindestens 12 Punkten oder ist gesetzlich zu mindestens 66 % behindert und höchstens 21 Jahre alt oder gesetzlich zu 100 % behindert.",
+          "Das zu versteuernde Nettoeinkommen der Pflegeperson mit Ehe- oder Lebenspartner (Einkommen 2024) beträgt höchstens 55.528,15 € plus 1.859,20 € pro unterhaltsberechtigte Person.",
+          "Sie wohnen zusammen in Duffel an derselben Adresse; für den vollen Zuschuss gilt das vom 1. Oktober 2025 bis 30. September 2026, und die Hälfte wird gezahlt, wenn die Person nur an Wochenenden und in den Ferien zu Hause ist."
+        ]
+      }
+    }
+  },
+  {
+    "id": 492,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "12009"
+    ],
+    "institution": "Lokaal bestuur Duffel",
+    "verified": "16 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.duffel.be/toelagemedischeredenen",
+    "content": {
+      "en": {
+        "title": "Toelage om medische redenen (Medical Waste Allowance, Duffel)",
+        "desc": "Duffel puts €30 on your DIFTAR waste account if incontinence, a skin disease, home dialysis, a permanent stoma or another illness gives you extra waste.",
+        "deadline": "Apply before 30 September; renew every year if the condition is temporary.",
+        "amount": "€30 a year on your DIFTAR account",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form with the part filled in by your doctor or home nurse"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (on the commune's page); your doctor or home nurse completes part of it",
+          "Hand it in at the zorgcampus (Kwakkelenberg 1-3, 2570 Duffel) before 30 September",
+          "The €30 is paid into your DIFTAR account"
+        ]
+      },
+      "nl": {
+        "title": "Toelage om medische redenen (Duffel)",
+        "desc": "Duffel stort €30 op je DIFTAR-provisierekening als je door incontinentie, een huidziekte, nierdialyse aan huis, een permanente stoma of een andere ziekte extra afval hebt.",
+        "deadline": "Aanvragen vóór 30 september; jaarlijks hernieuwen als de aandoening tijdelijk is.",
+        "amount": "€30 per jaar op je DIFTAR-rekening",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier met het deel ingevuld door je behandelende arts of thuisverpleegkundige"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (op de webpagina van de gemeente); je behandelende arts of thuisverpleegkundige vult een deel in",
+          "Bezorg het vóór 30 september aan de zorgcampus (Kwakkelenberg 1-3, 2570 Duffel)",
+          "De €30 wordt op je DIFTAR-provisierekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Toelage om medische redenen (allocation pour raisons médicales, Duffel)",
+        "desc": "Duffel verse 30 € sur votre compte déchets DIFTAR si l'incontinence, une maladie de peau, la dialyse à domicile, une stomie permanente ou une autre maladie vous fait produire plus de déchets.",
+        "deadline": "Demande avant le 30 septembre ; à renouveler chaque année si l'affection est temporaire.",
+        "amount": "30 € par an sur votre compte DIFTAR",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande avec la partie remplie par votre médecin ou infirmier à domicile"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande (sur la page de la commune) ; votre médecin ou infirmier à domicile en complète une partie",
+          "Remettez-le au zorgcampus (Kwakkelenberg 1-3, 2570 Duffel) avant le 30 septembre",
+          "Les 30 € sont versés sur votre compte DIFTAR"
+        ]
+      },
+      "de": {
+        "title": "Toelage om medische redenen (Zuschuss aus medizinischen Gründen, Duffel)",
+        "desc": "Duffel überweist 30 € auf Ihr DIFTAR-Abfallkonto, wenn Sie durch Inkontinenz, eine Hautkrankheit, Heimdialyse, ein dauerhaftes Stoma oder eine andere Krankheit zusätzlichen Abfall haben.",
+        "deadline": "Antrag vor dem 30. September; bei vorübergehender Erkrankung jedes Jahr erneuern.",
+        "amount": "30 € pro Jahr auf Ihrem DIFTAR-Konto",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular mit dem von Ihrem Arzt oder Ihrer Hauskrankenpflege ausgefüllten Teil"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus (auf der Seite der Gemeinde); Ihr Arzt oder Ihre Hauskrankenpflege füllt einen Teil aus",
+          "Reichen Sie es vor dem 30. September beim zorgcampus ein (Kwakkelenberg 1-3, 2570 Duffel)",
+          "Die 30 € werden auf Ihr DIFTAR-Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "16 Nov 2026",
+      "source_url": [
+        "https://www.duffel.be/toelagemedischeredenen"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Duffel and have extra waste because of incontinence, a skin disease or another illness, or you have home kidney dialysis or a permanent stoma.",
+          "Your doctor or home nurse confirms this on the form; apply before 30 September, every year if the condition is temporary."
+        ],
+        "nl": [
+          "Je woont in Duffel en hebt extra afval door incontinentie, een huidziekte of een andere ziekte, of je doet nierdialyse aan huis of hebt een permanente stoma.",
+          "Je arts of thuisverpleegkundige bevestigt dit op het formulier; aanvragen vóór 30 september, jaarlijks als de aandoening tijdelijk is."
+        ],
+        "fr": [
+          "Vous habitez Duffel et produisez plus de déchets à cause d'incontinence, d'une maladie de peau ou d'une autre maladie, ou vous êtes dialysé à domicile ou avez une stomie permanente.",
+          "Votre médecin ou infirmier à domicile le confirme sur le formulaire ; demande avant le 30 septembre, chaque année si l'affection est temporaire."
+        ],
+        "de": [
+          "Sie wohnen in Duffel und haben zusätzlichen Abfall durch Inkontinenz, eine Hautkrankheit oder eine andere Krankheit, oder Sie haben Heimdialyse oder ein dauerhaftes Stoma.",
+          "Ihr Arzt oder Ihre Hauskrankenpflege bestätigt dies auf dem Formular; Antrag vor dem 30. September, jedes Jahr bei vorübergehender Erkrankung."
+        ]
+      }
+    }
   }
 ]
