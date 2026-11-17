@@ -61949,22 +61949,22 @@
       "conditions": {
         "en": [
           "The person cared for lives at home, needs help with daily tasks (washing, dressing, eating) and is domiciled in Evergem; the carer's own domicile does not matter.",
-          "The person cared for has a recognised care need, e.g. FOD Social Security 12-14 points or 66% disability, Flemish care-insurance BEL score 35 (10 on block B under 18), BelRAI 13, or KATZ B or C.",
+          "The person cared for has a recognised care need: from 18, e.g. FOD Social Security 12-14 points, Flemish care-insurance BEL score 35, BelRAI 13 or KATZ B or C; under 18, e.g. 66% disability or BEL 10 points on block B.",
           "Only one carer per care situation and one premium per carer or household; a person domiciled at an institution's address in Evergem gives no right to it."
         ],
         "nl": [
           "De zorgvrager woont thuis, heeft hulp nodig in het dagelijks leven (wassen, aankleden, eten) en is gedomicilieerd in Evergem; het domicilie van de mantelzorger telt niet.",
-          "De zorgvrager heeft een erkende zorgnood, bv. FOD Sociale Zekerheid 12-14 punten of 66% invaliditeit, BEL-profielschaal 35 punten (onder 18: 10 op blok B), BelRAI 13, of KATZ B of C.",
+          "De zorgvrager heeft een erkende zorgnood: vanaf 18 jaar bv. FOD Sociale Zekerheid 12-14 punten, BEL-profielschaal 35 punten, BelRAI 13 of KATZ B of C; jonger dan 18 bv. 66% invaliditeit of BEL 10 punten op blok B.",
           "Slechts één mantelzorger per zorgsituatie en één premie per mantelzorger of huishouden; een zorgvrager gedomicilieerd op het adres van een instelling in Evergem opent geen recht."
         ],
         "fr": [
           "La personne aidée vit à domicile, a besoin d'aide dans la vie quotidienne (se laver, s'habiller, manger) et est domiciliée à Evergem ; le domicile de l'aidant ne compte pas.",
-          "La personne aidée a un besoin de soins reconnu, p. ex. SPF Sécurité sociale 12-14 points ou 66 % d'invalidité, échelle BEL de l'assurance soins flamande 35 points (moins de 18 ans : 10 au bloc B), BelRAI 13, ou KATZ B ou C.",
+          "La personne aidée a un besoin de soins reconnu : dès 18 ans, p. ex. SPF Sécurité sociale 12-14 points, échelle BEL de l'assurance soins flamande 35 points, BelRAI 13 ou KATZ B ou C ; avant 18 ans, p. ex. 66 % d'invalidité ou 10 points au bloc B de l'échelle BEL.",
           "Un seul aidant par situation de soins et une seule prime par aidant ou ménage ; une personne domiciliée à l'adresse d'une institution à Evergem n'ouvre pas de droit."
         ],
         "de": [
           "Die gepflegte Person lebt zu Hause, braucht Hilfe im Alltag (Waschen, Anziehen, Essen) und hat ihren Wohnsitz in Evergem; der Wohnsitz der Pflegeperson spielt keine Rolle.",
-          "Die gepflegte Person hat einen anerkannten Pflegebedarf, z. B. FÖD Soziale Sicherheit 12-14 Punkte oder 66 % Invalidität, BEL-Profilskala der flämischen Pflegeversicherung 35 Punkte (unter 18: 10 in Block B), BelRAI 13 oder KATZ B oder C.",
+          "Die gepflegte Person hat einen anerkannten Pflegebedarf: ab 18 z. B. FÖD Soziale Sicherheit 12-14 Punkte, BEL-Profilskala der flämischen Pflegeversicherung 35 Punkte, BelRAI 13 oder KATZ B oder C; unter 18 z. B. 66 % Invalidität oder 10 Punkte in Block B der BEL-Skala.",
           "Nur eine Pflegeperson pro Pflegesituation und eine Prämie pro Pflegeperson oder Haushalt; eine Person mit Wohnsitz an der Adresse einer Einrichtung in Evergem begründet keinen Anspruch."
         ]
       }
