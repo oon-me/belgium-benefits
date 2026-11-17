@@ -61004,5 +61004,970 @@
         ]
       }
     }
+  },
+  {
+    "id": 493,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11013"
+    ],
+    "institution": "Lokaal bestuur Edegem",
+    "verified": "17 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.edegem.be/sociaalpedagogischetoelage",
+    "content": {
+      "en": {
+        "title": "Sociaal-pedagogische toelage (Allowance for Parents of a Disabled Child, Edegem)",
+        "desc": "Edegem gives a yearly allowance to residents who care for and raise a child with a disability of at least 66% at home.",
+        "deadline": "Apply online at any time; Edegem reminds you each following year to renew.",
+        "amount": "€125 a year if the child goes to school or an institution; €220 if the child stays and is cared for at home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Child's identity card"
+          },
+          {
+            "type": "doc",
+            "label": "FOD Social Security certificate of reduced autonomy of at least 7 points (66%)"
+          }
+        ],
+        "steps": [
+          "Apply online via the 'Vraag online aan' button on Edegem's page",
+          "Add the child's identity card and the FOD certificate",
+          "Edegem pays €125 or €220 into your account and reminds you to renew the next year"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-pedagogische toelage (Edegem)",
+        "desc": "Edegem geeft een jaarlijkse toelage aan inwoners die thuis een kind met een handicap van minstens 66% verzorgen en opvoeden.",
+        "deadline": "Online aanvragen op elk moment; je krijgt elk volgend jaar een herinnering om te vernieuwen.",
+        "amount": "€125 per jaar als het kind naar school of een instelling gaat; €220 als het kind thuis blijft en daar verzorgd wordt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Identiteitskaart van het kind"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van verminderde zelfredzaamheid van minstens 7 punten (66%) van de FOD Sociale Zekerheid"
+          }
+        ],
+        "steps": [
+          "Vraag de toelage online aan via de knop 'Vraag online aan' op de pagina van Edegem",
+          "Voeg de identiteitskaart van het kind en het attest van de FOD toe",
+          "Edegem stort €125 of €220 op je rekening en herinnert je het volgende jaar aan de vernieuwing"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-pedagogische toelage (allocation socio-pédagogique pour parents d'un enfant handicapé, Edegem)",
+        "desc": "Edegem verse une allocation annuelle aux habitants qui soignent et élèvent à domicile un enfant handicapé à 66 % au moins.",
+        "deadline": "Demande en ligne à tout moment ; Edegem vous rappelle chaque année suivante de la renouveler.",
+        "amount": "125 € par an si l'enfant va à l'école ou dans une institution ; 220 € s'il reste et est soigné à la maison",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Carte d'identité de l'enfant"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation du SPF Sécurité sociale d'une perte d'autonomie d'au moins 7 points (66 %)"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne via le bouton « Vraag online aan » sur la page d'Edegem",
+          "Joignez la carte d'identité de l'enfant et l'attestation du SPF",
+          "Edegem verse 125 € ou 220 € sur votre compte et vous rappelle l'année suivante de renouveler"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-pedagogische toelage (sozialpädagogischer Zuschuss für Eltern eines Kindes mit Behinderung, Edegem)",
+        "desc": "Edegem zahlt Einwohnern, die zu Hause ein Kind mit einer Behinderung von mindestens 66 % pflegen und erziehen, einen jährlichen Zuschuss.",
+        "deadline": "Online-Antrag jederzeit; Edegem erinnert Sie jedes folgende Jahr an die Erneuerung.",
+        "amount": "125 € pro Jahr, wenn das Kind eine Schule oder Einrichtung besucht; 220 €, wenn es zu Hause bleibt und dort gepflegt wird",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Personalausweis des Kindes"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD Soziale Sicherheit über eine verminderte Selbstständigkeit von mindestens 7 Punkten (66 %)"
+          }
+        ],
+        "steps": [
+          "Stellen Sie den Antrag online über die Schaltfläche „Vraag online aan“ auf der Seite von Edegem",
+          "Fügen Sie den Personalausweis des Kindes und die FÖD-Bescheinigung bei",
+          "Edegem überweist 125 € oder 220 € und erinnert Sie im folgenden Jahr an die Erneuerung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "17 Nov 2026",
+      "source_url": [
+        "https://www.edegem.be/sociaalpedagogischetoelage"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Edegem and care for and raise at home a child with a mental or physical disability of at least 66%.",
+          "When you apply, the child is at least 1 year old and no older than 21."
+        ],
+        "nl": [
+          "Je woont in Edegem en verzorgt en voedt thuis een mentaal of fysiek gehandicapt kind van minstens 66% op.",
+          "Op het moment van de aanvraag is het kind minstens één jaar en niet ouder dan 21 jaar."
+        ],
+        "fr": [
+          "Vous habitez Edegem et soignez et élevez à domicile un enfant atteint d'un handicap mental ou physique d'au moins 66 %.",
+          "Au moment de la demande, l'enfant a au moins 1 an et pas plus de 21 ans."
+        ],
+        "de": [
+          "Sie wohnen in Edegem und pflegen und erziehen zu Hause ein Kind mit einer geistigen oder körperlichen Behinderung von mindestens 66 %.",
+          "Zum Zeitpunkt des Antrags ist das Kind mindestens 1 Jahr und höchstens 21 Jahre alt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 494,
+    "category": "family",
+    "situations": [
+      "children",
+      "school"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "84016"
+    ],
+    "institution": "Commune de Daverdisse",
+    "verified": "17 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.daverdisse.be/ma-commune/vie-administrative/population/primes/prime-etudiants",
+    "content": {
+      "en": {
+        "title": "Prime communale d'étude (Student Premium, Daverdisse)",
+        "desc": "Daverdisse gives a yearly premium to secondary and higher-education students who live in the commune and finished their school year.",
+        "deadline": "Apply before 15 September of the year concerned.",
+        "amount": "€100 for secondary school; €200 for higher education (bachelor, master, AESI and similar)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Secondary school: attendance certificate signed by the school"
+          },
+          {
+            "type": "doc",
+            "label": "Higher education: proof of a full year, e.g. a pass certificate or proof you sat all first-session exams"
+          }
+        ],
+        "steps": [
+          "Get the form from the commune or download it from daverdisse.be",
+          "Send it with the proof of attendance to the commune before 15 September",
+          "The commune pays the premium into the student's account (or the head of household's for a minor without an account), normally before 15 October"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale d'étude (studiepremie, Daverdisse)",
+        "desc": "Daverdisse geeft een jaarlijkse premie aan leerlingen van het secundair en studenten van het hoger onderwijs die in de gemeente wonen en hun studiejaar hebben afgerond.",
+        "deadline": "Aanvragen vóór 15 september van het betrokken jaar.",
+        "amount": "€100 voor het secundair onderwijs; €200 voor het hoger onderwijs (bachelor, master, AESI en dergelijke)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Secundair onderwijs: attest van schoolbezoek, ondertekend door de school"
+          },
+          {
+            "type": "doc",
+            "label": "Hoger onderwijs: bewijs van een volledig jaar, bv. een slaagattest of een bewijs dat je alle examens van de eerste zittijd aflegde"
+          }
+        ],
+        "steps": [
+          "Vraag het formulier aan bij de gemeente of download het op daverdisse.be",
+          "Bezorg het met het bewijs van schoolbezoek vóór 15 september aan de gemeente",
+          "De gemeente stort de premie op de rekening van de student (of van het gezinshoofd bij een minderjarige zonder rekening), normaal vóór 15 oktober"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale d'étude (Daverdisse)",
+        "desc": "Daverdisse octroie chaque année une prime aux élèves du secondaire et aux étudiants du supérieur domiciliés dans la commune qui ont terminé leur année d'étude.",
+        "deadline": "Demande avant le 15 septembre de l'année concernée.",
+        "amount": "100 € pour l'enseignement secondaire ; 200 € pour l'enseignement supérieur (bachelier, master, AESI, etc.)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Secondaire : attestation de fréquentation scolaire signée par l'établissement"
+          },
+          {
+            "type": "doc",
+            "label": "Supérieur : preuve d'une année complète, p. ex. attestation de réussite ou de présentation de tous les examens de première session"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire à l'administration communale ou téléchargez-le sur daverdisse.be",
+          "Renvoyez-le avec la preuve de fréquentation à la commune avant le 15 septembre",
+          "La commune verse la prime sur le compte de l'étudiant (ou du chef de ménage pour un mineur sans compte), en principe avant le 15 octobre"
+        ]
+      },
+      "de": {
+        "title": "Prime communale d'étude (Studienprämie, Daverdisse)",
+        "desc": "Daverdisse zahlt jedes Jahr eine Prämie an Schüler der Sekundarstufe und Studierende, die in der Gemeinde wohnen und ihr Studienjahr abgeschlossen haben.",
+        "deadline": "Antrag vor dem 15. September des betreffenden Jahres.",
+        "amount": "100 € für die Sekundarschule; 200 € für das Hochschulstudium (Bachelor, Master, AESI usw.)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Sekundarschule: von der Schule unterschriebene Schulbesuchsbescheinigung"
+          },
+          {
+            "type": "doc",
+            "label": "Hochschule: Nachweis eines vollständigen Jahres, z. B. Bestehensbescheinigung oder Nachweis der Teilnahme an allen Prüfungen der ersten Sitzung"
+          }
+        ],
+        "steps": [
+          "Holen Sie das Formular bei der Gemeinde ab oder laden Sie es auf daverdisse.be herunter",
+          "Reichen Sie es mit dem Nachweis vor dem 15. September bei der Gemeinde ein",
+          "Die Gemeinde überweist die Prämie auf das Konto des Studierenden (bei Minderjährigen ohne Konto auf das des Haushaltsvorstands), in der Regel vor dem 15. Oktober"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "17 Nov 2026",
+      "source_url": [
+        "https://www.daverdisse.be/ma-commune/vie-administrative/population/primes/prime-etudiants",
+        "https://www.daverdisse.be/ma-commune/vie-administrative/population/primes/prime-etudiants/reglement.pdf/view"
+      ],
+      "conditions": {
+        "en": [
+          "The student is domiciled in Daverdisse on 1 January of the year of the premium and attends secondary school or higher education.",
+          "The student finished the school year and sat all first-session exams that can lead to the next year, a certificate or a diploma.",
+          "The premium is paid to the head of household's account only after any household debts to the commune are settled."
+        ],
+        "nl": [
+          "De student is op 1 januari van het jaar van de premie gedomicilieerd in Daverdisse en volgt secundair of hoger onderwijs.",
+          "De student heeft het studiejaar afgerond en alle examens van de eerste zittijd afgelegd die toegang geven tot het volgende jaar, een getuigschrift of een diploma.",
+          "Betaling op de rekening van het gezinshoofd gebeurt pas nadat eventuele schulden van het gezin aan de gemeente zijn vereffend."
+        ],
+        "fr": [
+          "L'étudiant est domicilié à Daverdisse au 1er janvier de l'année d'octroi et suit l'enseignement secondaire ou supérieur.",
+          "L'étudiant a terminé son année d'étude et s'est présenté à tous les examens de première session pouvant donner accès à l'année suivante, à un certificat ou à un diplôme.",
+          "Le versement sur le compte du chef de ménage n'a lieu qu'après apurement des dettes du ménage envers la commune."
+        ],
+        "de": [
+          "Der Studierende hat am 1. Januar des Prämienjahres seinen Wohnsitz in Daverdisse und besucht die Sekundarschule oder eine Hochschule.",
+          "Er hat das Studienjahr abgeschlossen und an allen Prüfungen der ersten Sitzung teilgenommen, die zum nächsten Jahr, zu einem Zeugnis oder Diplom führen können.",
+          "Eine Zahlung auf das Konto des Haushaltsvorstands erfolgt erst, wenn etwaige Schulden des Haushalts bei der Gemeinde beglichen sind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 495,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "41082"
+    ],
+    "institution": "Lokaal bestuur Erpe-Mere",
+    "verified": "17 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.erpe-mere.be/gemeentelijke-mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke mantelzorgpremie (Carer Premium, Erpe-Mere)",
+        "desc": "Erpe-Mere gives a yearly premium to someone who cares at home for an older person with care needs living with them.",
+        "deadline": "For 2026, the carer applies by 30 September 2026.",
+        "amount": "€620 a year for one older person with care needs; €930 for two or more",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate of need for help from the FOD Social Security"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the tax assessment (income 2024, tax year 2025)"
+          },
+          {
+            "type": "doc",
+            "label": "Health-fund sticker of the person cared for"
+          }
+        ],
+        "steps": [
+          "Get the form: past recipients receive it by post; others find it in the September info magazine, on the commune's page or at the Sociaal Huis",
+          "Hand it in with the documents by 30 September",
+          "Erpe-Mere checks the conditions and pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke mantelzorgpremie (Erpe-Mere)",
+        "desc": "Erpe-Mere geeft een jaarlijkse premie aan wie thuis zorgt voor een inwonende oudere met een zorgnood.",
+        "deadline": "Voor 2026 dient de mantelzorger de aanvraag in ten laatste op 30 september 2026.",
+        "amount": "€620 per jaar voor één oudere met zorgnood; €930 voor twee of meer zorgbehoevenden",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch attest van hulpbehoevendheid van de FOD Sociale Zekerheid"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van het aanslagbiljet personenbelasting (inkomsten 2024, aanslagjaar 2025)"
+          },
+          {
+            "type": "doc",
+            "label": "Klevertje van het ziekenfonds van de zorgbehoevende"
+          }
+        ],
+        "steps": [
+          "Neem het formulier: wie de premie al kreeg, krijgt het in de brievenbus; anderen vinden het in het infoblad van september, op de pagina van de gemeente of in het Sociaal Huis",
+          "Dien het met de documenten in ten laatste op 30 september",
+          "Erpe-Mere controleert de voorwaarden en betaalt de premie uit"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke mantelzorgpremie (prime aux aidants proches, Erpe-Mere)",
+        "desc": "Erpe-Mere verse une prime annuelle à la personne qui s'occupe à domicile d'une personne âgée dépendante vivant avec elle.",
+        "deadline": "Pour 2026, l'aidant introduit la demande au plus tard le 30 septembre 2026.",
+        "amount": "620 € par an pour une personne âgée dépendante ; 930 € pour deux personnes ou plus",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical d'aide d'une tierce personne délivré par le SPF Sécurité sociale"
+          },
+          {
+            "type": "doc",
+            "label": "Copie de l'avertissement-extrait de rôle (revenus 2024, exercice 2025)"
+          },
+          {
+            "type": "doc",
+            "label": "Vignette de mutualité de la personne aidée"
+          }
+        ],
+        "steps": [
+          "Procurez-vous le formulaire : les anciens bénéficiaires le reçoivent par la poste ; les autres le trouvent dans le bulletin de septembre, sur la page de la commune ou au Sociaal Huis",
+          "Remettez-le avec les documents au plus tard le 30 septembre",
+          "Erpe-Mere vérifie les conditions et verse la prime"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke mantelzorgpremie (Prämie für pflegende Angehörige, Erpe-Mere)",
+        "desc": "Erpe-Mere zahlt eine jährliche Prämie an Personen, die zu Hause eine bei ihnen wohnende pflegebedürftige ältere Person versorgen.",
+        "deadline": "Für 2026 stellt die Pflegeperson den Antrag spätestens am 30. September 2026.",
+        "amount": "620 € pro Jahr für eine pflegebedürftige ältere Person; 930 € für zwei oder mehr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung der Hilfsbedürftigkeit vom FÖD Soziale Sicherheit"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie des Steuerbescheids (Einkommen 2024, Steuerjahr 2025)"
+          },
+          {
+            "type": "doc",
+            "label": "Krankenkassenaufkleber der gepflegten Person"
+          }
+        ],
+        "steps": [
+          "Besorgen Sie das Formular: frühere Empfänger erhalten es per Post; andere finden es im Infoblatt vom September, auf der Seite der Gemeinde oder im Sociaal Huis",
+          "Reichen Sie es mit den Unterlagen spätestens am 30. September ein",
+          "Erpe-Mere prüft die Bedingungen und zahlt die Prämie aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "17 Nov 2026",
+      "source_url": [
+        "https://www.erpe-mere.be/gemeentelijke-mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "On 1 January 2026 the older person with care needs officially lives with you in Erpe-Mere (not in a care home) and is at least 70.",
+          "The person cared for is entitled to increased reimbursement (verhoogde tegemoetkoming; health-fund code ending in 1).",
+          "The joint net taxable income of the carer and everyone else in the household except the person(s) cared for is at most €29,750, plus €990 per dependant."
+        ],
+        "nl": [
+          "De oudere met zorgnood woont op 1 januari 2026 officieel bij jou in, in Erpe-Mere (niet in een woonzorgcentrum), en is dan minstens 70 jaar.",
+          "De zorgbehoevende heeft recht op de verhoogde tegemoetkoming (de code op het ziekenfondsklevertje eindigt op 1).",
+          "Het gezamenlijk netto-belastbaar inkomen van de mantelzorger en alle andere samenwonenden, behalve de zorgbehoevende(n), is niet hoger dan €29.750, verhoogd met €990 per persoon ten laste."
+        ],
+        "fr": [
+          "Au 1er janvier 2026, la personne âgée dépendante habite officiellement chez vous à Erpe-Mere (pas en maison de repos) et a au moins 70 ans.",
+          "La personne aidée bénéficie de l'intervention majorée (code de la vignette de mutualité se terminant par 1).",
+          "Le revenu net imposable commun de l'aidant et des autres cohabitants, hors personne(s) aidée(s), ne dépasse pas 29.750 €, majoré de 990 € par personne à charge."
+        ],
+        "de": [
+          "Am 1. Januar 2026 wohnt die pflegebedürftige ältere Person offiziell bei Ihnen in Erpe-Mere (nicht in einem Pflegeheim) und ist mindestens 70 Jahre alt.",
+          "Die gepflegte Person hat Anrecht auf die erhöhte Kostenbeteiligung (Code auf dem Krankenkassenaufkleber endet auf 1).",
+          "Das gemeinsame zu versteuernde Nettoeinkommen der Pflegeperson und aller anderen Mitbewohner außer der gepflegten Person(en) beträgt höchstens 29.750 €, zuzüglich 990 € pro unterhaltsberechtigte Person."
+        ]
+      }
+    }
+  },
+  {
+    "id": 496,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "41082"
+    ],
+    "institution": "Lokaal bestuur Erpe-Mere",
+    "verified": "17 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.erpe-mere.be/socio-pedagogische-toelage",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke socio-pedagogische premie (Premium for Parents of a Disabled Child, Erpe-Mere)",
+        "desc": "Erpe-Mere gives a yearly premium to parents who care at home for a child with a disability.",
+        "deadline": "For 2026, apply by 30 September 2026.",
+        "amount": "€620 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical certificate from the FOD Social Security, or a Groeipakket care supplement (zorgtoeslag) certificate"
+          },
+          {
+            "type": "doc",
+            "label": "For a child over 21: copy of the judgment on extended minority, where it applies"
+          },
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          }
+        ],
+        "steps": [
+          "Get the form from the September info magazine or download it from the commune's page",
+          "Hand it in with the certificate by 30 September",
+          "A staff member may visit you at home; Erpe-Mere then pays the premium"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke socio-pedagogische premie voor ouders van kinderen met een handicap (Erpe-Mere)",
+        "desc": "Erpe-Mere geeft een jaarlijkse premie aan ouders die thuis zorgen voor een kind met een handicap.",
+        "deadline": "Voor 2026 indienen ten laatste op 30 september 2026.",
+        "amount": "€620 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medisch attest van de FOD Sociale Zekerheid of attest zorgtoeslag van de uitbetaler van je groeipakket"
+          },
+          {
+            "type": "doc",
+            "label": "Voor een kind ouder dan 21: kopie van het vonnis bij verlengde minderjarigheid, als dat van toepassing is"
+          },
+          {
+            "type": "doc",
+            "label": "Volledig ingevuld aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Neem het formulier uit het infoblad van september of download het op de pagina van de gemeente",
+          "Dien het met het attest in ten laatste op 30 september",
+          "Een medewerker kan op huisbezoek komen; daarna betaalt Erpe-Mere de premie uit"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke socio-pedagogische premie (prime socio-pédagogique pour parents d'un enfant handicapé, Erpe-Mere)",
+        "desc": "Erpe-Mere verse une prime annuelle aux parents qui s'occupent à domicile d'un enfant handicapé.",
+        "deadline": "Pour 2026, demande au plus tard le 30 septembre 2026.",
+        "amount": "620 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical du SPF Sécurité sociale ou attestation du supplément de soins (zorgtoeslag) de la caisse du Groeipakket"
+          },
+          {
+            "type": "doc",
+            "label": "Pour un enfant de plus de 21 ans : copie du jugement de minorité prolongée, le cas échéant"
+          },
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          }
+        ],
+        "steps": [
+          "Prenez le formulaire dans le bulletin de septembre ou téléchargez-le sur la page de la commune",
+          "Remettez-le avec l'attestation au plus tard le 30 septembre",
+          "Un collaborateur peut passer à domicile ; Erpe-Mere verse ensuite la prime"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke socio-pedagogische premie (sozialpädagogische Prämie für Eltern eines Kindes mit Behinderung, Erpe-Mere)",
+        "desc": "Erpe-Mere zahlt eine jährliche Prämie an Eltern, die zu Hause ein Kind mit Behinderung versorgen.",
+        "deadline": "Für 2026 Antrag spätestens am 30. September 2026.",
+        "amount": "620 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ärztliche Bescheinigung des FÖD Soziale Sicherheit oder Bescheinigung über den Pflegezuschlag (zorgtoeslag) der Groeipakket-Kasse"
+          },
+          {
+            "type": "doc",
+            "label": "Für ein Kind über 21: Kopie des Urteils über die verlängerte Minderjährigkeit, falls zutreffend"
+          },
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          }
+        ],
+        "steps": [
+          "Nehmen Sie das Formular aus dem Infoblatt vom September oder laden Sie es auf der Seite der Gemeinde herunter",
+          "Reichen Sie es mit der Bescheinigung spätestens am 30. September ein",
+          "Ein Mitarbeiter kann einen Hausbesuch machen; danach zahlt Erpe-Mere die Prämie aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "17 Nov 2026",
+      "source_url": [
+        "https://www.erpe-mere.be/socio-pedagogische-toelage"
+      ],
+      "conditions": {
+        "en": [
+          "On 1 January 2026 your child officially lives with you in Erpe-Mere, and you care for the child at home at least 80 days a year.",
+          "The child receives the extra child benefit for children with a disability, cannot support themselves and had no income above the subsistence minimum.",
+          "The child is under 21; over 21, the child has a guardianship (bewindvoering) certificate, a 100% disability rating or a reduced autonomy of 18 points."
+        ],
+        "nl": [
+          "Je kind woont op 1 januari 2026 officieel bij jou in, in Erpe-Mere, en je zorgt minstens 80 dagen per jaar thuis voor je kind.",
+          "Je kind ontvangt een bijkomende bijslag voor kinderen met een handicap, kan niet zelfstandig in zijn levensonderhoud voorzien en had geen inkomen hoger dan het bestaansminimum.",
+          "Je kind is jonger dan 21 jaar; ouder dan 21 heeft het een attest van bewindvoering, een invaliditeitsgraad van 100% of een vermindering van zelfredzaamheid van 18 punten."
+        ],
+        "fr": [
+          "Au 1er janvier 2026, votre enfant habite officiellement chez vous à Erpe-Mere et vous vous en occupez à domicile au moins 80 jours par an.",
+          "L'enfant perçoit le supplément d'allocations familiales pour enfant handicapé, ne peut subvenir seul à ses besoins et n'a pas eu de revenu supérieur au minimum de subsistance.",
+          "L'enfant a moins de 21 ans ; au-delà, il dispose d'une attestation d'administration (bewindvoering), d'un taux d'invalidité de 100 % ou d'une perte d'autonomie de 18 points."
+        ],
+        "de": [
+          "Am 1. Januar 2026 wohnt Ihr Kind offiziell bei Ihnen in Erpe-Mere, und Sie versorgen es mindestens 80 Tage im Jahr zu Hause.",
+          "Das Kind erhält den Zuschlag für Kinder mit Behinderung, kann nicht selbst für seinen Lebensunterhalt sorgen und hatte kein Einkommen über dem Existenzminimum.",
+          "Das Kind ist unter 21; über 21 hat es eine Bescheinigung über eine Betreuung (bewindvoering), einen Invaliditätsgrad von 100 % oder eine verminderte Selbstständigkeit von 18 Punkten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 497,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63020"
+    ],
+    "institution": "Commune de Dison",
+    "verified": "17 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.dison.be/au-quotidien/petite-enfance-et-jeunesse/prime-de-naissance",
+    "content": {
+      "en": {
+        "title": "Allocation de naissance (Birth Allowance, Dison)",
+        "desc": "Dison gives a birth allowance to mothers living in the commune whose baby has had regular check-ups.",
+        "deadline": "Apply before the child's first birthday (for an adopted child, within three years).",
+        "amount": "€50 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form the commune gives you when the child is registered, completed and signed by the mother"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of the child's check-ups (ONE infant consultation or a doctor) and first polio vaccine dose"
+          }
+        ],
+        "steps": [
+          "Fill in the form you receive when the child is registered, and have it confirmed for the check-ups",
+          "Hand it to the Service de la petite enfance before the first birthday",
+          "Attend (in person or by proxy) the reception where the allowance is handed out"
+        ]
+      },
+      "nl": {
+        "title": "Allocation de naissance (geboortepremie, Dison)",
+        "desc": "Dison geeft een geboortepremie aan moeders die in de gemeente wonen en van wie de baby regelmatig onderzocht werd.",
+        "deadline": "Aanvragen vóór de eerste verjaardag van het kind (bij adoptie binnen drie jaar).",
+        "amount": "€50 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier dat je bij de inschrijving van het kind krijgt, ingevuld en ondertekend door de moeder"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van de onderzoeken van het kind (consultatiebureau van ONE of een arts) en van de eerste dosis poliovaccin"
+          }
+        ],
+        "steps": [
+          "Vul het formulier in dat je bij de inschrijving van het kind krijgt en laat de onderzoeken bevestigen",
+          "Bezorg het vóór de eerste verjaardag aan de Service de la petite enfance",
+          "Ga (zelf of met volmacht) naar de receptie waar de premie wordt uitgereikt"
+        ]
+      },
+      "fr": {
+        "title": "Allocation de naissance (Dison)",
+        "desc": "Dison octroie une allocation de naissance aux mères domiciliées dans la commune dont l'enfant a été régulièrement suivi.",
+        "deadline": "Demande au plus tard au 1er anniversaire de l'enfant (trois ans pour un enfant adopté).",
+        "amount": "50 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire remis par la commune lors de l'inscription de l'enfant, complété et signé par la maman"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve du suivi de l'enfant (consultation ONE ou médecin) et de la première dose du vaccin contre la polio"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire reçu lors de l'inscription de l'enfant et faites attester le suivi",
+          "Remettez-le au Service de la petite enfance avant le premier anniversaire",
+          "Présentez-vous (ou par procuration) à la réception où l'allocation est remise"
+        ]
+      },
+      "de": {
+        "title": "Allocation de naissance (Geburtszulage, Dison)",
+        "desc": "Dison zahlt Müttern mit Wohnsitz in der Gemeinde, deren Baby regelmäßig untersucht wurde, eine Geburtszulage.",
+        "deadline": "Antrag spätestens am ersten Geburtstag des Kindes (bei Adoption innerhalb von drei Jahren).",
+        "amount": "50 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, das Sie bei der Eintragung des Kindes erhalten, von der Mutter ausgefüllt und unterschrieben"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis der Untersuchungen des Kindes (ONE-Säuglingsberatung oder Arzt) und der ersten Polio-Impfdosis"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das bei der Eintragung erhaltene Formular aus und lassen Sie die Untersuchungen bestätigen",
+          "Reichen Sie es vor dem ersten Geburtstag beim Service de la petite enfance ein",
+          "Nehmen Sie (persönlich oder per Vollmacht) am Empfang teil, bei dem die Zulage überreicht wird"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "17 Nov 2026",
+      "source_url": [
+        "https://www.dison.be/au-quotidien/petite-enfance-et-jeunesse/prime-de-naissance",
+        "https://www.dison.be/au-quotidien/petite-enfance-et-jeunesse/prime-de-naissance/reglement/demande-dallocation-pour-publipostage-2024.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "From the birth until the application, the mother is domiciled in Dison without interruption and registered in the population register or the foreigners' register.",
+          "For at least six months of its first year, the child was examined regularly by an ONE infant consultation or a doctor and received the first polio vaccine dose.",
+          "The mother attends the reception where the allowance is handed out, in person or by proxy; without a medical or employer's certificate for her absence, it is not granted."
+        ],
+        "nl": [
+          "Vanaf de geboorte tot de aanvraag is de moeder ononderbroken in Dison gedomicilieerd en ingeschreven in het bevolkingsregister of het vreemdelingenregister.",
+          "Het kind werd minstens zes maanden van zijn eerste levensjaar regelmatig onderzocht door een consultatiebureau van ONE of een arts en kreeg de eerste dosis poliovaccin.",
+          "De moeder is (zelf of met volmacht) aanwezig op de receptie waar de premie wordt uitgereikt; zonder medisch attest of attest van de werkgever voor haar afwezigheid wordt ze niet toegekend."
+        ],
+        "fr": [
+          "De l'accouchement jusqu'à la demande, la mère est domiciliée sans interruption à Dison et inscrite au registre de la population ou au registre des étrangers.",
+          "Pendant au moins six mois de sa première année, l'enfant a été régulièrement examiné par une consultation ONE ou un médecin et a reçu la première dose du vaccin contre la polio.",
+          "La mère est présente, personnellement ou par procuration, à la réception de remise ; sans certificat médical ou attestation de l'employeur justifiant son absence, l'allocation n'est pas octroyée."
+        ],
+        "de": [
+          "Von der Geburt bis zum Antrag hat die Mutter ununterbrochen ihren Wohnsitz in Dison und ist im Bevölkerungs- oder Fremdenregister eingetragen.",
+          "Das Kind wurde mindestens sechs Monate seines ersten Lebensjahres regelmäßig in einer ONE-Säuglingsberatung oder von einem Arzt untersucht und erhielt die erste Polio-Impfdosis.",
+          "Die Mutter nimmt persönlich oder per Vollmacht am Empfang teil; ohne ärztliches Attest oder Arbeitgeberbescheinigung für ihre Abwesenheit wird die Zulage nicht gewährt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 498,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11016"
+    ],
+    "institution": "Gemeente Essen",
+    "verified": "17 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.essen.be/persoon-en-levensmomenten/geboorte-en-adoptie/geboortepremie-en-adoptiepremie",
+    "content": {
+      "en": {
+        "title": "Geboortepremie en adoptiepremie (Birth and Adoption Premium, Essen)",
+        "desc": "Essen gives a premium to residents who have just become parents by birth or adoption.",
+        "deadline": "Apply after the child is registered; the commune sends you the form.",
+        "amount": "€34 for a first child, €2.50 more for each next child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form (sent by post after registration, or online with your eID)"
+          }
+        ],
+        "steps": [
+          "Register the child at the commune",
+          "Fill in the form Essen sends you, or apply online with your eID if it did not arrive",
+          "The premium reaches your account after a few months"
+        ]
+      },
+      "nl": {
+        "title": "Geboortepremie en adoptiepremie (Essen)",
+        "desc": "Essen geeft een premie aan inwoners die pas ouders zijn geworden door geboorte of adoptie.",
+        "deadline": "Aanvragen nadat het kind is ingeschreven; de gemeente stuurt je het formulier.",
+        "amount": "€34 voor een eerste kind, €2,50 meer voor elk volgend kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier (per post na de inschrijving, of online met je eID)"
+          }
+        ],
+        "steps": [
+          "Laat het kind inschrijven bij de gemeente",
+          "Vul het formulier in dat Essen je stuurt, of vraag online aan met je eID als het niet aankwam",
+          "Na enkele maanden staat de premie op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Geboortepremie en adoptiepremie (prime de naissance et d'adoption, Essen)",
+        "desc": "Essen octroie une prime aux habitants qui viennent de devenir parents par naissance ou adoption.",
+        "deadline": "Demande après l'inscription de l'enfant ; la commune vous envoie le formulaire.",
+        "amount": "34 € pour un premier enfant, 2,50 € de plus pour chaque enfant suivant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande (envoyé par la poste après l'inscription, ou en ligne avec votre eID)"
+          }
+        ],
+        "steps": [
+          "Faites inscrire l'enfant à la commune",
+          "Complétez le formulaire envoyé par Essen, ou faites la demande en ligne avec votre eID s'il ne vous est pas parvenu",
+          "La prime est versée sur votre compte après quelques mois"
+        ]
+      },
+      "de": {
+        "title": "Geboortepremie en adoptiepremie (Geburts- und Adoptionsprämie, Essen)",
+        "desc": "Essen zahlt Einwohnern, die durch Geburt oder Adoption gerade Eltern geworden sind, eine Prämie.",
+        "deadline": "Antrag nach der Eintragung des Kindes; die Gemeinde schickt Ihnen das Formular.",
+        "amount": "34 € für ein erstes Kind, 2,50 € mehr für jedes weitere Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular (per Post nach der Eintragung oder online mit Ihrer eID)"
+          }
+        ],
+        "steps": [
+          "Lassen Sie das Kind bei der Gemeinde eintragen",
+          "Füllen Sie das von Essen geschickte Formular aus oder beantragen Sie online mit Ihrer eID, falls es nicht ankam",
+          "Die Prämie wird nach einigen Monaten überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "17 Nov 2026",
+      "source_url": [
+        "https://www.essen.be/persoon-en-levensmomenten/geboorte-en-adoptie/geboortepremie-en-adoptiepremie"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Essen and have just become a parent by birth or adoption.",
+          "The child is registered in Essen's population registers (bevolkingsregisters)."
+        ],
+        "nl": [
+          "Je woont in Essen en bent pas ouder geworden door geboorte of adoptie.",
+          "Het kind is ingeschreven in de bevolkingsregisters van Essen."
+        ],
+        "fr": [
+          "Vous habitez Essen et venez de devenir parent par naissance ou adoption.",
+          "L'enfant est inscrit dans les registres de la population (bevolkingsregisters) d'Essen."
+        ],
+        "de": [
+          "Sie wohnen in Essen und sind gerade durch Geburt oder Adoption Eltern geworden.",
+          "Das Kind ist in den Bevölkerungsregistern (bevolkingsregisters) von Essen eingetragen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 499,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "44019"
+    ],
+    "institution": "Gemeente Evergem",
+    "verified": "17 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.evergem.be/product/287/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke mantelzorgpremie (Carer Premium, Evergem)",
+        "desc": "Evergem gives a yearly premium to a family member, friend or neighbour who gives long-term unpaid care to a person living at home.",
+        "deadline": "Apply every year again, with all supporting documents.",
+        "amount": "€125 a year, paid in two instalments",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Health-fund sticker"
+          },
+          {
+            "type": "doc",
+            "label": "Care certificate showing the person's care needs"
+          }
+        ],
+        "steps": [
+          "Make an appointment: with the inclusion officer if the person cared for is under 75, with the senior consultant if over 75",
+          "Bring your identity card, the health-fund sticker and the care certificate",
+          "Evergem pays the premium twice a year; reapply each year"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke mantelzorgpremie (Evergem)",
+        "desc": "Evergem geeft een jaarlijkse premie aan een familielid, vriend, kennis of buur die langdurig en onbetaald zorg geeft aan een thuiswonende zorgbehoevende.",
+        "deadline": "Elk jaar opnieuw aanvragen, met alle bewijsstukken.",
+        "amount": "€125 per jaar, in twee keer uitbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Klevertje van de mutualiteit"
+          },
+          {
+            "type": "doc",
+            "label": "Zorgattest"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak: bij de inclusieambtenaar als de zorgvrager jonger is dan 75, bij de seniorenconsulent als hij ouder is dan 75",
+          "Breng je identiteitskaart, het klevertje en het zorgattest mee",
+          "Evergem betaalt de premie twee keer per jaar uit; vraag elk jaar opnieuw aan"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke mantelzorgpremie (prime aux aidants proches, Evergem)",
+        "desc": "Evergem verse une prime annuelle au membre de la famille, ami, connaissance ou voisin qui apporte des soins non rémunérés et de longue durée à une personne dépendante vivant à domicile.",
+        "deadline": "Demande à renouveler chaque année, avec toutes les pièces justificatives.",
+        "amount": "125 € par an, versés en deux fois",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Vignette de mutualité"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation de soins"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous : avec le fonctionnaire inclusion si la personne aidée a moins de 75 ans, avec le conseiller seniors si elle a plus de 75 ans",
+          "Apportez votre carte d'identité, la vignette et l'attestation de soins",
+          "Evergem verse la prime deux fois par an ; renouvelez la demande chaque année"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke mantelzorgpremie (Prämie für pflegende Angehörige, Evergem)",
+        "desc": "Evergem zahlt eine jährliche Prämie an Angehörige, Freunde, Bekannte oder Nachbarn, die eine zu Hause lebende pflegebedürftige Person langfristig und unbezahlt versorgen.",
+        "deadline": "Antrag jedes Jahr neu, mit allen Nachweisen.",
+        "amount": "125 € pro Jahr, in zwei Raten ausgezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Personalausweis"
+          },
+          {
+            "type": "doc",
+            "label": "Krankenkassenaufkleber"
+          },
+          {
+            "type": "doc",
+            "label": "Pflegebescheinigung"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin: beim Inklusionsbeauftragten, wenn die gepflegte Person unter 75 ist, beim Seniorenberater, wenn sie über 75 ist",
+          "Bringen Sie Personalausweis, Krankenkassenaufkleber und Pflegebescheinigung mit",
+          "Evergem zahlt die Prämie zweimal im Jahr; der Antrag ist jährlich zu erneuern"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "17 Nov 2026",
+      "source_url": [
+        "https://www.evergem.be/product/287/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for lives at home, needs help with daily tasks (washing, dressing, eating) and is domiciled in Evergem; the carer's own domicile does not matter.",
+          "The person cared for has a recognised care need, e.g. FOD Social Security 12-14 points or 66% disability, Flemish care-insurance BEL score 35 (10 on block B under 18), BelRAI 13, or KATZ B or C.",
+          "Only one carer per care situation and one premium per carer or household; a person domiciled at an institution's address in Evergem gives no right to it."
+        ],
+        "nl": [
+          "De zorgvrager woont thuis, heeft hulp nodig in het dagelijks leven (wassen, aankleden, eten) en is gedomicilieerd in Evergem; het domicilie van de mantelzorger telt niet.",
+          "De zorgvrager heeft een erkende zorgnood, bv. FOD Sociale Zekerheid 12-14 punten of 66% invaliditeit, BEL-profielschaal 35 punten (onder 18: 10 op blok B), BelRAI 13, of KATZ B of C.",
+          "Slechts één mantelzorger per zorgsituatie en één premie per mantelzorger of huishouden; een zorgvrager gedomicilieerd op het adres van een instelling in Evergem opent geen recht."
+        ],
+        "fr": [
+          "La personne aidée vit à domicile, a besoin d'aide dans la vie quotidienne (se laver, s'habiller, manger) et est domiciliée à Evergem ; le domicile de l'aidant ne compte pas.",
+          "La personne aidée a un besoin de soins reconnu, p. ex. SPF Sécurité sociale 12-14 points ou 66 % d'invalidité, échelle BEL de l'assurance soins flamande 35 points (moins de 18 ans : 10 au bloc B), BelRAI 13, ou KATZ B ou C.",
+          "Un seul aidant par situation de soins et une seule prime par aidant ou ménage ; une personne domiciliée à l'adresse d'une institution à Evergem n'ouvre pas de droit."
+        ],
+        "de": [
+          "Die gepflegte Person lebt zu Hause, braucht Hilfe im Alltag (Waschen, Anziehen, Essen) und hat ihren Wohnsitz in Evergem; der Wohnsitz der Pflegeperson spielt keine Rolle.",
+          "Die gepflegte Person hat einen anerkannten Pflegebedarf, z. B. FÖD Soziale Sicherheit 12-14 Punkte oder 66 % Invalidität, BEL-Profilskala der flämischen Pflegeversicherung 35 Punkte (unter 18: 10 in Block B), BelRAI 13 oder KATZ B oder C.",
+          "Nur eine Pflegeperson pro Pflegesituation und eine Prämie pro Pflegeperson oder Haushalt; eine Person mit Wohnsitz an der Adresse einer Einrichtung in Evergem begründet keinen Anspruch."
+        ]
+      }
+    }
   }
 ]

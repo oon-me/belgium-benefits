@@ -1443,49 +1443,82 @@
       "name": "Dalhem",
       "checked": "16 Nov 2026",
       "ids": []
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "11013",
-      "name": "Edegem"
+      "name": "Edegem",
+      "checked": "17 Nov 2026",
+      "ids": [
+        493
+      ]
     },
     {
       "nis": "84016",
-      "name": "Daverdisse"
+      "name": "Daverdisse",
+      "checked": "17 Nov 2026",
+      "ids": [
+        494
+      ]
     },
     {
       "nis": "43005",
-      "name": "Eeklo"
+      "name": "Eeklo",
+      "checked": "17 Nov 2026",
+      "ids": []
     },
     {
       "nis": "91034",
-      "name": "Dinant"
+      "name": "Dinant",
+      "checked": "17 Nov 2026",
+      "ids": []
     },
     {
       "nis": "41082",
-      "name": "Erpe-Mere"
+      "name": "Erpe-Mere",
+      "checked": "17 Nov 2026",
+      "ids": [
+        495,
+        496
+      ]
     },
     {
       "nis": "63020",
-      "name": "Dison"
+      "name": "Dison",
+      "checked": "17 Nov 2026",
+      "ids": [
+        497
+      ]
     },
     {
       "nis": "11016",
-      "name": "Essen"
+      "name": "Essen",
+      "checked": "17 Nov 2026",
+      "ids": [
+        498
+      ]
     },
     {
       "nis": "93018",
-      "name": "Doische"
+      "name": "Doische",
+      "checked": "17 Nov 2026",
+      "ids": []
     },
     {
       "nis": "44019",
-      "name": "Evergem"
+      "name": "Evergem",
+      "checked": "17 Nov 2026",
+      "ids": [
+        499
+      ]
     },
     {
       "nis": "64023",
-      "name": "Donceel"
-    },
+      "name": "Donceel",
+      "checked": "17 Nov 2026",
+      "ids": []
+    }
+  ],
+  "queue": [
     {
       "nis": "44020",
       "name": "Gavere"
