@@ -61969,5 +61969,1167 @@
         ]
       }
     }
+  },
+  {
+    "id": 500,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "44020"
+    ],
+    "institution": "Gemeente Gavere",
+    "verified": "18 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gavere.be/burger/welzijn/gezondheid/gratis-restafvalzakken-om-medische-redenen",
+    "content": {
+      "en": {
+        "title": "Gratis restafvalzakken om medische redenen (Free waste bags for medical reasons, Gavere)",
+        "desc": "Gavere gives free residual-waste bags each year to residents who live with incontinence, home dialysis, tube feeding or a stoma.",
+        "deadline": "Apply each year; the medical certificate may be at most 3 months old.",
+        "amount": "1 roll of 60-litre bags or 2 rolls of 30-litre bags a year, free",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Recent medical certificate (at most 3 months old; Gavere has a form for your GP)"
+          }
+        ],
+        "steps": [
+          "Apply online and add a scan or photo of your medical certificate",
+          "Once approved, you get an email inviting you to book an appointment",
+          "Collect the bags at the administratief centrum (bring the beneficiary's identity card if you collect for someone else)"
+        ]
+      },
+      "nl": {
+        "title": "Gratis restafvalzakken om medische redenen (Gavere)",
+        "desc": "Gavere geeft jaarlijks gratis restafvalzakken aan inwoners die leven met incontinentie, thuisdialyse, sondevoeding of een stoma.",
+        "deadline": "Elk jaar aanvragen; het medisch attest is maximaal 3 maanden oud.",
+        "amount": "1 rol zakken van 60 liter of 2 rollen van 30 liter per jaar, gratis",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Recent medisch attest (maximaal 3 maanden oud; Gavere heeft een formulier voor je huisarts)"
+          }
+        ],
+        "steps": [
+          "Vraag online aan en voeg een scan of foto van je medisch attest toe",
+          "Na goedkeuring krijg je een uitnodiging per mail om een afspraak te maken",
+          "Haal de zakken op in het administratief centrum (breng de identiteitskaart van de begunstigde mee als je voor iemand anders ophaalt)"
+        ]
+      },
+      "fr": {
+        "title": "Gratis restafvalzakken om medische redenen (sacs poubelle gratuits pour raisons médicales, Gavere)",
+        "desc": "Gavere offre chaque année des sacs poubelle gratuits aux habitants qui vivent avec une incontinence, une dialyse à domicile, une alimentation par sonde ou une stomie.",
+        "deadline": "Demande chaque année ; le certificat médical date de 3 mois maximum.",
+        "amount": "1 rouleau de sacs de 60 litres ou 2 rouleaux de 30 litres par an, gratuits",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Certificat médical récent (3 mois maximum ; Gavere propose un formulaire pour votre médecin)"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne avec un scan ou une photo du certificat médical",
+          "Après accord, vous recevez un e-mail vous invitant à prendre rendez-vous",
+          "Retirez les sacs au centre administratif (avec la carte d'identité du bénéficiaire si vous les retirez pour quelqu'un d'autre)"
+        ]
+      },
+      "de": {
+        "title": "Gratis restafvalzakken om medische redenen (kostenlose Restmüllsäcke aus medizinischen Gründen, Gavere)",
+        "desc": "Gavere gibt Einwohnern, die mit Inkontinenz, Heimdialyse, Sondennahrung oder einem Stoma leben, jedes Jahr kostenlose Restmüllsäcke.",
+        "deadline": "Antrag jedes Jahr; das ärztliche Attest ist höchstens 3 Monate alt.",
+        "amount": "1 Rolle 60-Liter-Säcke oder 2 Rollen 30-Liter-Säcke pro Jahr, kostenlos",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aktuelles ärztliches Attest (höchstens 3 Monate alt; Gavere hat ein Formular für Ihren Hausarzt)"
+          }
+        ],
+        "steps": [
+          "Stellen Sie den Antrag online und fügen Sie einen Scan oder ein Foto des Attests bei",
+          "Nach der Genehmigung erhalten Sie eine E-Mail mit der Einladung, einen Termin zu vereinbaren",
+          "Holen Sie die Säcke im administratief centrum ab (mit dem Personalausweis der begünstigten Person, wenn Sie für jemand anderen abholen)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "18 Nov 2026",
+      "source_url": [
+        "https://www.gavere.be/burger/welzijn/gezondheid/gratis-restafvalzakken-om-medische-redenen"
+      ],
+      "conditions": {
+        "en": [
+          "You are 18 or older and a resident of Gavere.",
+          "You live permanently at home or in a home situation.",
+          "You live with incontinence, home dialysis, tube feeding or a stoma, shown by a medical certificate at most 3 months old."
+        ],
+        "nl": [
+          "Je bent 18 jaar of ouder en inwoner van Gavere.",
+          "Je woont permanent thuis of in een thuissituatie.",
+          "Je leeft met incontinentie, thuisdialyse, sondevoeding of een stoma, aangetoond met een medisch attest van maximaal 3 maanden oud."
+        ],
+        "fr": [
+          "Vous avez 18 ans ou plus et habitez Gavere.",
+          "Vous vivez en permanence à domicile ou dans une situation de domicile.",
+          "Vous vivez avec une incontinence, une dialyse à domicile, une alimentation par sonde ou une stomie, prouvée par un certificat médical de 3 mois maximum."
+        ],
+        "de": [
+          "Sie sind mindestens 18 Jahre alt und wohnen in Gavere.",
+          "Sie wohnen dauerhaft zu Hause oder in einer häuslichen Wohnsituation.",
+          "Sie leben mit Inkontinenz, Heimdialyse, Sondennahrung oder einem Stoma, nachgewiesen durch ein höchstens 3 Monate altes ärztliches Attest."
+        ]
+      }
+    }
+  },
+  {
+    "id": 501,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24028"
+    ],
+    "institution": "OCMW Geetbets",
+    "verified": "18 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.geetbets.be/welzijn-gezin/sociale-dienst/diftarpremie",
+    "content": {
+      "en": {
+        "title": "Diftarpremie (Waste-bill allowance for medical reasons, Geetbets)",
+        "desc": "Geetbets gives a yearly allowance towards the higher waste bill of residents who use incontinence material for medical reasons, and of stoma and dialysis patients.",
+        "deadline": "Apply once; it is then paid automatically every year while you meet the conditions.",
+        "amount": "€60 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form (from the OCMW, the reception desk or the website)"
+          }
+        ],
+        "steps": [
+          "Get the application form from the OCMW (011 58 65 79), the reception desk or the website",
+          "Fill it in and hand it in to the OCMW",
+          "After the first application, the allowance is granted automatically each year after a yearly check"
+        ]
+      },
+      "nl": {
+        "title": "Diftarpremie (Geetbets)",
+        "desc": "Geetbets geeft een jaarlijkse tegemoetkoming als sociale correctie op de diftarfactuur voor inwoners die om medische redenen incontinentiemateriaal gebruiken, en voor stoma- en dialysepatiënten.",
+        "deadline": "Eenmalig aanvragen; daarna wordt de premie jaarlijks automatisch toegekend zolang je aan de voorwaarden voldoet.",
+        "amount": "€60 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier (bij het OCMW, het onthaal of op de website)"
+          }
+        ],
+        "steps": [
+          "Haal het aanvraagformulier bij het OCMW (011 58 65 79), het onthaal of download het",
+          "Vul het in en dien het in bij het OCMW",
+          "Na de eerste aanvraag wordt de premie na jaarlijkse controle automatisch toegekend"
+        ]
+      },
+      "fr": {
+        "title": "Diftarpremie (aide pour la facture des déchets pour raisons médicales, Geetbets)",
+        "desc": "Geetbets verse une aide annuelle pour compenser la facture des déchets plus élevée des habitants qui utilisent du matériel d'incontinence pour raisons médicales, ainsi que des patients stomisés et dialysés.",
+        "deadline": "Demande unique ; l'aide est ensuite versée automatiquement chaque année tant que les conditions sont remplies.",
+        "amount": "60 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande (auprès de l'OCMW, de l'accueil ou sur le site)"
+          }
+        ],
+        "steps": [
+          "Procurez-vous le formulaire auprès de l'OCMW (011 58 65 79), de l'accueil ou téléchargez-le",
+          "Complétez-le et remettez-le à l'OCMW",
+          "Après la première demande, l'aide est accordée automatiquement chaque année après contrôle"
+        ]
+      },
+      "de": {
+        "title": "Diftarpremie (Zuschuss zur Abfallrechnung aus medizinischen Gründen, Geetbets)",
+        "desc": "Geetbets zahlt einen jährlichen Zuschuss zur höheren Abfallrechnung von Einwohnern, die aus medizinischen Gründen Inkontinenzmaterial verwenden, sowie von Stoma- und Dialysepatienten.",
+        "deadline": "Einmaliger Antrag; danach wird der Zuschuss jedes Jahr automatisch gewährt, solange die Bedingungen erfüllt sind.",
+        "amount": "60 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular (beim OCMW, am Empfang oder auf der Website)"
+          }
+        ],
+        "steps": [
+          "Holen Sie das Antragsformular beim OCMW (011 58 65 79), am Empfang oder laden Sie es herunter",
+          "Füllen Sie es aus und reichen Sie es beim OCMW ein",
+          "Nach dem ersten Antrag wird der Zuschuss nach jährlicher Prüfung automatisch gewährt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "18 Nov 2026",
+      "source_url": [
+        "https://www.geetbets.be/welzijn-gezin/sociale-dienst/diftarpremie"
+      ],
+      "conditions": {
+        "en": [
+          "You are a resident of Geetbets.",
+          "You use incontinence material for medical reasons, or you are a stoma patient or a kidney-dialysis or peritoneal-dialysis patient."
+        ],
+        "nl": [
+          "Je bent inwoner van Geetbets.",
+          "Je gebruikt om medische redenen incontinentiemateriaal, of je bent stomapatiënt of patiënt met nierdialyse of peritoneaaldialyse."
+        ],
+        "fr": [
+          "Vous habitez Geetbets.",
+          "Vous utilisez du matériel d'incontinence pour raisons médicales, ou vous êtes patient stomisé, en dialyse rénale ou en dialyse péritonéale."
+        ],
+        "de": [
+          "Sie wohnen in Geetbets.",
+          "Sie verwenden aus medizinischen Gründen Inkontinenzmaterial oder sind Stomapatient, Nierendialyse- oder Peritonealdialysepatient."
+        ]
+      }
+    }
+  },
+  {
+    "id": 502,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "41018"
+    ],
+    "institution": "Stad Geraardsbergen",
+    "verified": "18 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.geraardsbergen.be/product/1353/lokale-premie-voor-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Lokale premie voor herbruikbare luiers (Reusable Nappies Premium, Geraardsbergen)",
+        "desc": "Geraardsbergen pays a one-off premium for buying or renting reusable nappies for a young child, or reusable incontinence material.",
+        "deadline": "The invoice or rental contract may be at most one year old.",
+        "amount": "50% of the invoice, up to €100 per child or person",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copy of the purchase invoice or rental contract (at most one year old)"
+          }
+        ],
+        "steps": [
+          "Fill in the digital application form on the city's website, or apply at the Duurzaamheid (sustainability) service",
+          "Add a copy of the invoice or rental contract",
+          "After the check, the premium is paid into your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Lokale premie voor herbruikbare luiers (Geraardsbergen)",
+        "desc": "Geraardsbergen geeft een eenmalige premie voor de aankoop of huur van herbruikbare luiers voor een jong kind, of van herbruikbaar incontinentiemateriaal.",
+        "deadline": "De aankoopfactuur of het huurcontract is niet ouder dan één jaar.",
+        "amount": "50% van de factuurprijs, maximaal €100 per kind of persoon",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie van het aankoop- of huurbewijs (niet ouder dan één jaar)"
+          }
+        ],
+        "steps": [
+          "Vul het digitaal aanvraagformulier in via het thuisloket, of vraag aan bij de dienst Duurzaamheid",
+          "Voeg een kopie van de factuur of het huurcontract toe",
+          "Na controle van de voorwaarden wordt de premie op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Lokale premie voor herbruikbare luiers (prime couches lavables, Grammont)",
+        "desc": "Grammont verse une prime unique pour l'achat ou la location de couches lavables pour un jeune enfant, ou de matériel d'incontinence réutilisable.",
+        "deadline": "La facture ou le contrat de location date d'un an maximum.",
+        "amount": "50 % de la facture, 100 € maximum par enfant ou par personne",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Copie de la facture d'achat ou du contrat de location (un an maximum)"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en ligne sur le site de la ville, ou adressez-vous au service Duurzaamheid (durabilité)",
+          "Joignez une copie de la facture ou du contrat de location",
+          "Après contrôle, la prime est versée sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Lokale premie voor herbruikbare luiers (Prämie für Mehrwegwindeln, Geraardsbergen)",
+        "desc": "Geraardsbergen zahlt eine einmalige Prämie für den Kauf oder die Miete von Mehrwegwindeln für ein Kleinkind oder von wiederverwendbarem Inkontinenzmaterial.",
+        "deadline": "Rechnung oder Mietvertrag sind höchstens ein Jahr alt.",
+        "amount": "50 % der Rechnung, höchstens 100 € pro Kind oder Person",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kopie der Kaufrechnung oder des Mietvertrags (höchstens ein Jahr alt)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Online-Antragsformular auf der Website der Stadt aus oder beantragen Sie beim Dienst Duurzaamheid (Nachhaltigkeit)",
+          "Fügen Sie eine Kopie der Rechnung oder des Mietvertrags bei",
+          "Nach der Prüfung wird die Prämie auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "18 Nov 2026",
+      "source_url": [
+        "https://www.geraardsbergen.be/product/1353/lokale-premie-voor-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "You are a head of household registered in Geraardsbergen's population register or foreigners' register, with a dependent child aged 0 to 3 who uses reusable nappies; or you are registered there and use reusable incontinence material.",
+          "The premium is paid once per child or per person; the invoice or rental contract is no older than one year."
+        ],
+        "nl": [
+          "Je bent gezinshoofd ingeschreven in het bevolkingsregister of vreemdelingenregister van Geraardsbergen met een kind ten laste tussen 0 en 3 jaar dat herbruikbare luiers gebruikt; of je bent er ingeschreven en gebruikt herbruikbaar incontinentiemateriaal.",
+          "De premie is eenmalig per kind of per persoon; de factuur of het huurcontract is niet ouder dan één jaar."
+        ],
+        "fr": [
+          "Vous êtes chef de ménage inscrit au registre de la population ou au registre des étrangers de Grammont, avec un enfant à charge de 0 à 3 ans qui utilise des couches lavables ; ou vous y êtes inscrit et utilisez du matériel d'incontinence réutilisable.",
+          "La prime est unique par enfant ou par personne ; la facture ou le contrat de location date d'un an maximum."
+        ],
+        "de": [
+          "Sie sind Haushaltsvorstand, eingetragen im Bevölkerungs- oder Fremdenregister von Geraardsbergen, mit einem unterhaltsberechtigten Kind von 0 bis 3 Jahren, das Mehrwegwindeln benutzt; oder Sie sind dort eingetragen und verwenden wiederverwendbares Inkontinenzmaterial.",
+          "Die Prämie gibt es einmal pro Kind oder Person; Rechnung oder Mietvertrag sind höchstens ein Jahr alt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 503,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "71017"
+    ],
+    "institution": "OCMW Gingelom",
+    "verified": "18 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gingelom.be/personenalarmsysteem",
+    "content": {
+      "en": {
+        "title": "Premie personenalarmsysteem (Personal Alarm Premium, Gingelom)",
+        "desc": "The OCMW of Gingelom pays towards the installation and rental of a personal alarm, so people can keep living alone at home safely.",
+        "deadline": "The page sets no deadline; there is no contribution if you buy the device.",
+        "amount": "€25 for installation and €12.50 a month towards rental, paid every quarter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of all income"
+          },
+          {
+            "type": "doc",
+            "label": "Certificate from the treating doctor showing the alarm is needed"
+          }
+        ],
+        "steps": [
+          "Make an appointment with the social service (011 88 04 71)",
+          "Bring your identity card, proof of income and the doctor's certificate",
+          "The OCMW pays the premium once a quarter"
+        ]
+      },
+      "nl": {
+        "title": "Premie personenalarmsysteem (Gingelom)",
+        "desc": "Het OCMW van Gingelom komt tussen in de installatie- en huurkosten van een personenalarm, zodat je langer veilig alleen thuis kan blijven wonen.",
+        "deadline": "De pagina vermeldt geen termijn; bij aankoop van het toestel is er geen tussenkomst.",
+        "amount": "€25 voor de plaatsing en €12,50 per maand voor de huur, één keer per kwartaal uitbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijsstukken van alle inkomsten"
+          },
+          {
+            "type": "doc",
+            "label": "Attest van de behandelende geneesheer waaruit de noodzaak blijkt"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak bij de sociale dienst (011 88 04 71)",
+          "Breng je identiteitskaart, bewijzen van inkomsten en het doktersattest mee",
+          "Het OCMW betaalt de premie één keer per kwartaal uit"
+        ]
+      },
+      "fr": {
+        "title": "Premie personenalarmsysteem (prime pour un système d'alarme personnelle, Gingelom)",
+        "desc": "L'OCMW de Gingelom intervient dans les frais d'installation et de location d'une alarme personnelle, pour rester plus longtemps seul à domicile en sécurité.",
+        "deadline": "La page ne fixe pas de délai ; pas d'intervention en cas d'achat de l'appareil.",
+        "amount": "25 € pour l'installation et 12,50 € par mois pour la location, versés chaque trimestre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Preuves de tous les revenus"
+          },
+          {
+            "type": "doc",
+            "label": "Attestation du médecin traitant montrant la nécessité de l'alarme"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous avec le service social (011 88 04 71)",
+          "Apportez votre carte d'identité, les preuves de revenus et l'attestation du médecin",
+          "L'OCMW verse la prime une fois par trimestre"
+        ]
+      },
+      "de": {
+        "title": "Premie personenalarmsysteem (Prämie für ein Personennotrufsystem, Gingelom)",
+        "desc": "Das OCMW Gingelom beteiligt sich an den Installations- und Mietkosten eines Personennotrufs, damit man länger sicher allein zu Hause wohnen kann.",
+        "deadline": "Die Seite nennt keine Frist; beim Kauf des Geräts gibt es keinen Zuschuss.",
+        "amount": "25 € für die Installation und 12,50 € pro Monat für die Miete, vierteljährlich ausgezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Personalausweis"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweise aller Einkünfte"
+          },
+          {
+            "type": "doc",
+            "label": "Bescheinigung des behandelnden Arztes über die Notwendigkeit des Notrufs"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin beim Sozialdienst (011 88 04 71)",
+          "Bringen Sie Personalausweis, Einkommensnachweise und das ärztliche Attest mit",
+          "Das OCMW zahlt die Prämie einmal pro Quartal aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "18 Nov 2026",
+      "source_url": [
+        "https://www.gingelom.be/personenalarmsysteem"
+      ],
+      "conditions": {
+        "en": [
+          "You are registered in Gingelom's population register (bevolkingsregister) and actually live there.",
+          "Your income is not higher than the leefloon (social integration income) plus 50%.",
+          "Your treating doctor certifies that a personal alarm is needed; only a rented device qualifies."
+        ],
+        "nl": [
+          "Je bent ingeschreven in het bevolkingsregister van Gingelom en verblijft er ook effectief.",
+          "Je inkomen ligt niet hoger dan het leefloon +50%.",
+          "Je behandelende geneesheer attesteert dat een personenalarm nodig is; alleen een gehuurd toestel komt in aanmerking."
+        ],
+        "fr": [
+          "Vous êtes inscrit au registre de la population (bevolkingsregister) de Gingelom et y résidez effectivement.",
+          "Vos revenus ne dépassent pas le revenu d'intégration (leefloon) majoré de 50 %.",
+          "Votre médecin traitant atteste qu'une alarme personnelle est nécessaire ; seul un appareil loué est pris en compte."
+        ],
+        "de": [
+          "Sie sind im Bevölkerungsregister (bevolkingsregister) von Gingelom eingetragen und wohnen tatsächlich dort.",
+          "Ihr Einkommen liegt nicht über dem Eingliederungseinkommen (leefloon) plus 50 %.",
+          "Ihr behandelnder Arzt bescheinigt, dass ein Personennotruf nötig ist; nur ein gemietetes Gerät wird bezuschusst."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the page requires registration in Gingelom's population register (bevolkingsregister).",
+            "nl": "Niet voor jou: de pagina vereist een inschrijving in het bevolkingsregister van Gingelom.",
+            "fr": "Pas pour vous : la page exige une inscription au registre de la population (bevolkingsregister) de Gingelom.",
+            "de": "Nicht für Sie: Die Seite verlangt eine Eintragung im Bevölkerungsregister (bevolkingsregister) von Gingelom."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 504,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35005"
+    ],
+    "institution": "OCMW Gistel",
+    "verified": "18 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gistel.be/mantelzorgpremie",
+    "amount_source_url": "https://www.gistel.be/File/Download/30739/9C994B6B3C6EAF832D010982F61A2C6E",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Gistel)",
+        "desc": "Gistel gives a yearly premium to adults who regularly and voluntarily care for a person with a recognised care need living at home in Gistel.",
+        "deadline": "Apply every year between 1 November and 31 December.",
+        "amount": "Up to €30 a month per person cared for, paid yearly (shared out if the budget runs short)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of the care need (FOD Social Security certificate or proof of the Flemish care budget for people with a severe care need)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of your registration as a carer, from your health fund or care fund"
+          }
+        ],
+        "steps": [
+          "Contact the local service centre De Zonnewijzer first to check which documents you need",
+          "Apply online between 1 November and 31 December and upload both proofs",
+          "The OCMW decides in February and pays at the end of February; reapply every year"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Gistel)",
+        "desc": "Gistel geeft een jaarlijkse premie aan meerderjarigen die vrijwillig en zeer regelmatig zorgen voor een thuiswonende zorgbehoevende in Gistel.",
+        "deadline": "Elk jaar aanvragen tussen 1 november en 31 december.",
+        "amount": "Maximaal €30 per maand per zorgbehoevende, jaarlijks uitbetaald (evenredig verdeeld als het budget niet volstaat)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van zorgbehoefte (attest van de FOD Sociale Zekerheid of bewijs zorgbudget voor zwaar zorgbehoevenden)"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van registratie als mantelzorger, via het ziekenfonds of de zorgkas"
+          }
+        ],
+        "steps": [
+          "Neem eerst contact op met het Lokaal Dienstencentrum De Zonnewijzer om na te gaan welke documenten nodig zijn",
+          "Vraag digitaal aan tussen 1 november en 31 december en laad beide bewijzen op",
+          "Het vast bureau beslist in februari en betaalt eind februari uit; elk jaar opnieuw aanvragen"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Gistel)",
+        "desc": "Gistel verse une prime annuelle aux adultes qui s'occupent bénévolement et très régulièrement d'une personne dépendante reconnue vivant à domicile à Gistel.",
+        "deadline": "Demande chaque année entre le 1er novembre et le 31 décembre.",
+        "amount": "Jusqu'à 30 € par mois par personne aidée, versés une fois par an (répartis au prorata si le budget ne suffit pas)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve du besoin de soins (attestation du SPF Sécurité sociale ou preuve du budget flamand pour personnes fortement dépendantes)"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve de votre enregistrement comme aidant proche, auprès de la mutualité ou de la caisse d'assurance soins"
+          }
+        ],
+        "steps": [
+          "Contactez d'abord le centre de services local De Zonnewijzer pour vérifier les documents nécessaires",
+          "Faites la demande en ligne entre le 1er novembre et le 31 décembre en joignant les deux preuves",
+          "Le bureau permanent décide en février et paie fin février ; demande à renouveler chaque année"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Gistel)",
+        "desc": "Gistel zahlt eine jährliche Prämie an Erwachsene, die freiwillig und sehr regelmäßig eine anerkannt pflegebedürftige Person versorgen, die in Gistel zu Hause lebt.",
+        "deadline": "Antrag jedes Jahr zwischen dem 1. November und dem 31. Dezember.",
+        "amount": "Bis zu 30 € pro Monat je gepflegter Person, jährlich ausgezahlt (anteilig gekürzt, wenn das Budget nicht reicht)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis des Pflegebedarfs (Bescheinigung des FÖD Soziale Sicherheit oder Nachweis des flämischen Pflegebudgets für schwer Pflegebedürftige)"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis Ihrer Registrierung als pflegende Person bei der Krankenkasse oder Pflegekasse"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich zuerst an das lokale Dienstleistungszentrum De Zonnewijzer, um die nötigen Unterlagen zu klären",
+          "Stellen Sie den Antrag online zwischen dem 1. November und dem 31. Dezember und laden Sie beide Nachweise hoch",
+          "Das ständige Präsidium entscheidet im Februar und zahlt Ende Februar; Antrag jedes Jahr erneuern"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "18 Nov 2026",
+      "source_url": [
+        "https://www.gistel.be/mantelzorgpremie",
+        "https://www.gistel.be/File/Download/30739/9C994B6B3C6EAF832D010982F61A2C6E"
+      ],
+      "conditions": {
+        "en": [
+          "You are an adult who cares voluntarily and very regularly for the person, and you are registered as a carer with your health fund or care fund.",
+          "The person cared for has their domicile in Gistel, actually lives there and still lives at home (an assistance flat, service flat or De Bezaan also counts; a care home, hotel or community does not; a minor sleeps at home at least at weekends).",
+          "The care need is proven: a FOD Social Security certificate with at least 12 points (category 3), proof of the care budget for people with a severe care need, or for a minor at least 4 points in pillar 1 or at least 66% incapacity.",
+          "Only one premium per address; it is reduced for stays of more than 31 days in a row in a hospital, rehabilitation centre or care home."
+        ],
+        "nl": [
+          "Je bent meerderjarig, zorgt vrijwillig en zeer regelmatig voor de zorgbehoevende en bent als mantelzorger geregistreerd bij het ziekenfonds of de zorgkas.",
+          "De zorgbehoevende heeft zijn woonplaats in Gistel, verblijft er effectief en woont nog thuis (assistentiewoning, serviceflat of De Bezaan kan ook; woonzorgcentrum, hotel of leefgemeenschap niet; een minderjarige slaapt minstens in het weekend thuis).",
+          "De zorgbehoefte is aangetoond: attest van de FOD Sociale Zekerheid met minstens 12 punten (categorie 3), bewijs zorgbudget voor zwaar zorgbehoevenden, of voor een minderjarige minstens 4 punten in pijler 1 of minstens 66% ongeschiktheid.",
+          "Slechts één premie per adres; het bedrag vermindert bij een ononderbroken verblijf van meer dan 31 dagen in een ziekenhuis, herstellingsoord of woonzorgcentrum."
+        ],
+        "fr": [
+          "Vous êtes majeur, aidez la personne bénévolement et très régulièrement, et êtes enregistré comme aidant proche auprès de votre mutualité ou caisse d'assurance soins.",
+          "La personne aidée est domiciliée à Gistel, y réside effectivement et vit encore à domicile (résidence-service, flat-service ou De Bezaan acceptés ; maison de repos, hôtel ou communauté exclus ; un mineur dort au moins le week-end à la maison).",
+          "Le besoin de soins est prouvé : attestation du SPF Sécurité sociale d'au moins 12 points (catégorie 3), preuve du budget pour personnes fortement dépendantes, ou pour un mineur au moins 4 points au pilier 1 ou au moins 66 % d'incapacité.",
+          "Une seule prime par adresse ; elle est réduite en cas de séjour de plus de 31 jours consécutifs à l'hôpital, en revalidation ou en maison de repos."
+        ],
+        "de": [
+          "Sie sind volljährig, versorgen die Person freiwillig und sehr regelmäßig und sind bei Ihrer Krankenkasse oder Pflegekasse als pflegende Person registriert.",
+          "Die gepflegte Person hat ihren Wohnsitz in Gistel, wohnt tatsächlich dort und noch zu Hause (Assistenz- oder Servicewohnung oder De Bezaan zählen; Wohn- und Pflegezentrum, Hotel oder Lebensgemeinschaft nicht; ein Minderjähriger schläft mindestens am Wochenende zu Hause).",
+          "Der Pflegebedarf ist nachgewiesen: Bescheinigung des FÖD Soziale Sicherheit mit mindestens 12 Punkten (Kategorie 3), Nachweis des Pflegebudgets für schwer Pflegebedürftige oder bei Minderjährigen mindestens 4 Punkte in Säule 1 oder mindestens 66 % Beeinträchtigung.",
+          "Nur eine Prämie pro Adresse; sie wird bei einem ununterbrochenen Aufenthalt von mehr als 31 Tagen im Krankenhaus, in der Reha oder im Pflegeheim gekürzt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 505,
+    "category": "other",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35005"
+    ],
+    "institution": "OCMW Gistel",
+    "verified": "18 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gistel.be/premie-voor-maaltijden-en-klusjes-aan-huis",
+    "amount_source_url": "https://www.gistel.be/File/Download/30740/A3797FE25A331F20D2F6C84F872BDC1E",
+    "content": {
+      "en": {
+        "title": "Premie klusjes aan huis (Odd-Jobs-at-Home Premium, Gistel)",
+        "desc": "Gistel pays part of the hourly cost of small jobs at home (repairs, fall prevention, garden work) done through the vzw Duinenwacht group purchase, for people aged 65+ on a low income.",
+        "deadline": "Apply within 3 months after the job was done.",
+        "amount": "€16 an hour (financial difficulties) or €14 an hour (increased reimbursement), up to 26 hours a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form signed by the person at whose home the job was done"
+          },
+          {
+            "type": "doc",
+            "label": "Proof that you meet the conditions (income situation; a medical certificate if you are under 65)"
+          }
+        ],
+        "steps": [
+          "Join the vzw Duinenwacht group purchase and have a recognised job done at your home",
+          "Within 3 months, apply at De Zonnewijzer (Bruidstraat 9) or online with the proofs",
+          "The social committee decides in May and November; the premium is paid the following month"
+        ]
+      },
+      "nl": {
+        "title": "Premie klusjes aan huis (Gistel)",
+        "desc": "Gistel betaalt een deel van de uurprijs van erkende klusjes aan huis (herstellingen, valpreventie, tuinonderhoud) via de groepsaankoop van vzw Duinenwacht, voor 65-plussers met een laag inkomen.",
+        "deadline": "Aanvragen binnen de 3 maanden na uitvoering van het klusje.",
+        "amount": "€16 per uur (financiële moeilijkheden) of €14 per uur (verhoogde tegemoetkoming), maximaal 26 uur per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier ondertekend door de burger bij wie het klusje werd uitgevoerd"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijzen dat je aan de voorwaarden voldoet (inkomenssituatie; medisch getuigschrift als je jonger bent dan 65)"
+          }
+        ],
+        "steps": [
+          "Stap in op de groepsaankoop van vzw Duinenwacht en laat een erkend klusje uitvoeren op je woonplaatsadres",
+          "Vraag binnen de 3 maanden aan bij De Zonnewijzer (Bruidstraat 9) of digitaal, met de bewijzen",
+          "Het bijzonder comité voor de sociale dienst beslist in mei en november; de premie wordt de maand nadien uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Premie klusjes aan huis (prime pour petits travaux à domicile, Gistel)",
+        "desc": "Gistel paie une partie du coût horaire de petits travaux à domicile (réparations, prévention des chutes, jardin) réalisés via l'achat groupé de l'asbl Duinenwacht, pour les 65 ans et plus à faibles revenus.",
+        "deadline": "Demande dans les 3 mois après les travaux.",
+        "amount": "16 € de l'heure (difficultés financières) ou 14 € de l'heure (intervention majorée), 26 heures maximum par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande signé par la personne chez qui les travaux ont été faits"
+          },
+          {
+            "type": "doc",
+            "label": "Preuves que vous remplissez les conditions (situation de revenus ; certificat médical si vous avez moins de 65 ans)"
+          }
+        ],
+        "steps": [
+          "Participez à l'achat groupé de l'asbl Duinenwacht et faites réaliser un petit travail reconnu à votre domicile",
+          "Dans les 3 mois, faites la demande à De Zonnewijzer (Bruidstraat 9) ou en ligne, avec les preuves",
+          "Le comité spécial du service social décide en mai et en novembre ; la prime est versée le mois suivant"
+        ]
+      },
+      "de": {
+        "title": "Premie klusjes aan huis (Prämie für Kleinarbeiten im Haus, Gistel)",
+        "desc": "Gistel übernimmt einen Teil des Stundenpreises für Kleinarbeiten im Haus (Reparaturen, Sturzprävention, Gartenpflege) über den Gruppeneinkauf der vzw Duinenwacht, für Menschen ab 65 mit geringem Einkommen.",
+        "deadline": "Antrag innerhalb von 3 Monaten nach der Arbeit.",
+        "amount": "16 € pro Stunde (finanzielle Schwierigkeiten) oder 14 € pro Stunde (erhöhte Kostenerstattung), höchstens 26 Stunden pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Antragsformular, unterschrieben von der Person, bei der die Arbeit erledigt wurde"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweise, dass Sie die Bedingungen erfüllen (Einkommenslage; ärztliches Attest, wenn Sie unter 65 sind)"
+          }
+        ],
+        "steps": [
+          "Nehmen Sie am Gruppeneinkauf der vzw Duinenwacht teil und lassen Sie eine anerkannte Arbeit an Ihrer Wohnadresse erledigen",
+          "Beantragen Sie innerhalb von 3 Monaten bei De Zonnewijzer (Bruidstraat 9) oder online, mit den Nachweisen",
+          "Der Sonderausschuss für den Sozialdienst entscheidet im Mai und November; die Prämie wird im Folgemonat ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "18 Nov 2026",
+      "source_url": [
+        "https://www.gistel.be/premie-voor-maaltijden-en-klusjes-aan-huis",
+        "https://www.gistel.be/File/Download/30740/A3797FE25A331F20D2F6C84F872BDC1E"
+      ],
+      "conditions": {
+        "en": [
+          "Every adult applicant in the household is 65 or older (exception with a medical certificate) and domiciled in Gistel.",
+          "You are in financial difficulty (leefloon or equivalent, budget management with debts, or collective debt settlement) or you receive increased reimbursement (verhoogde tegemoetkoming).",
+          "The job was done at your home address through the vzw Duinenwacht group purchase and is on the list of recognised jobs (small repairs, fall prevention, gardens up to 400 m²)."
+        ],
+        "nl": [
+          "Alle meerderjarige aanvragers van het gezin zijn 65 jaar of ouder (uitzondering mits medisch getuigschrift) en gedomicilieerd in Gistel.",
+          "Je hebt financiële moeilijkheden ((equivalent) leefloon, budgetbeheer met schuldenlast of collectieve schuldbemiddeling) of je geniet een verhoogde tegemoetkoming.",
+          "Het klusje werd uitgevoerd op het woonplaatsadres via de groepsaankoop van vzw Duinenwacht en staat op de lijst van erkende klusjes (kleine herstellingen, valpreventie, tuinen tot 400 m²)."
+        ],
+        "fr": [
+          "Tous les demandeurs majeurs du ménage ont 65 ans ou plus (exception sur certificat médical) et sont domiciliés à Gistel.",
+          "Vous êtes en difficulté financière (revenu d'intégration ou équivalent, gestion budgétaire avec dettes ou règlement collectif de dettes) ou bénéficiez de l'intervention majorée (verhoogde tegemoetkoming).",
+          "Le travail a été fait à votre domicile via l'achat groupé de l'asbl Duinenwacht et figure sur la liste des travaux reconnus (petites réparations, prévention des chutes, jardins jusqu'à 400 m²)."
+        ],
+        "de": [
+          "Alle volljährigen Antragsteller des Haushalts sind mindestens 65 (Ausnahme mit ärztlichem Attest) und haben ihren Wohnsitz in Gistel.",
+          "Sie sind in finanziellen Schwierigkeiten (Eingliederungseinkommen oder gleichwertig, Budgetverwaltung mit Schulden oder kollektive Schuldenregelung) oder erhalten die erhöhte Kostenerstattung (verhoogde tegemoetkoming).",
+          "Die Arbeit wurde an Ihrer Wohnadresse über den Gruppeneinkauf der vzw Duinenwacht erledigt und steht auf der Liste der anerkannten Arbeiten (kleine Reparaturen, Sturzprävention, Gärten bis 400 m²)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 506,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "55050"
+    ],
+    "institution": "Commune d'Écaussinnes",
+    "verified": "18 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ecaussinnes.be/ma-commune/services-communaux/environnement/primes-communales",
+    "content": {
+      "en": {
+        "title": "Prime à l'achat de langes lavables (Washable Nappies Premium, Écaussinnes)",
+        "desc": "Écaussinnes pays back half of what parents spend on washable nappies for their child.",
+        "deadline": "Apply before the child turns 2; invoices may be at most 3 months older than the birth.",
+        "amount": "50% of the invoice, up to €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Purchase invoice(s) (several can be added up to reach €75)"
+          }
+        ],
+        "steps": [
+          "Download and fill in the application form on the commune's page",
+          "Hand it in with your invoices to the Service environnement before the child turns 2"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'achat de langes lavables (premie wasbare luiers, Écaussinnes)",
+        "desc": "Écaussinnes betaalt de helft terug van wat ouders uitgeven aan wasbare luiers voor hun kind.",
+        "deadline": "Aanvragen voor het kind 2 jaar wordt; facturen zijn niet ouder dan 3 maanden voor de geboorte.",
+        "amount": "50% van de factuur, maximaal €75",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoopfactu(u)r(en) (meerdere mogen samengeteld worden tot €75)"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op de pagina van de gemeente en vul het in",
+          "Dien het met je facturen in bij de Service environnement voor het kind 2 jaar wordt"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'achat de langes lavables (Écaussinnes)",
+        "desc": "Écaussinnes rembourse la moitié de l'achat de langes lavables pour votre enfant.",
+        "deadline": "Demande avant les 2 ans de l'enfant ; factures datant au plus de 3 mois avant la naissance.",
+        "amount": "50 % de la facture, 75 € maximum",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Facture(s) d'achat (plusieurs peuvent être cumulées jusqu'à 75 €)"
+          }
+        ],
+        "steps": [
+          "Téléchargez et complétez le formulaire sur la page de la commune",
+          "Remettez-le avec vos factures au service environnement avant les 2 ans de l'enfant"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'achat de langes lavables (Prämie für Stoffwindeln, Écaussinnes)",
+        "desc": "Écaussinnes erstattet die Hälfte der Ausgaben der Eltern für Stoffwindeln für ihr Kind.",
+        "deadline": "Antrag bevor das Kind 2 Jahre alt wird; Rechnungen höchstens 3 Monate vor der Geburt.",
+        "amount": "50 % der Rechnung, höchstens 75 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ausgefülltes Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kaufrechnung(en) (mehrere können bis 75 € zusammengerechnet werden)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf der Seite der Gemeinde herunter und füllen Sie es aus",
+          "Reichen Sie es mit Ihren Rechnungen beim Service environnement ein, bevor das Kind 2 Jahre alt wird"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "18 Nov 2026",
+      "source_url": [
+        "https://www.ecaussinnes.be/ma-commune/services-communaux/environnement/primes-communales"
+      ],
+      "conditions": {
+        "en": [
+          "You are the father, mother or legal guardian of the child and are domiciled in Écaussinnes.",
+          "The premium is granted once per child and per household; invoices may date from at most 3 months before the birth, and you apply before the child turns 2."
+        ],
+        "nl": [
+          "Je bent de vader, moeder of wettelijke voogd van het kind en bent gedomicilieerd in Écaussinnes.",
+          "De premie wordt één keer per kind en per gezin toegekend; facturen zijn niet ouder dan 3 maanden voor de geboorte en je vraagt aan voor het kind 2 jaar wordt."
+        ],
+        "fr": [
+          "Vous êtes le père, la mère ou le tuteur légal de l'enfant et êtes domicilié à Écaussinnes.",
+          "La prime est octroyée une seule fois par enfant et par ménage ; les factures datent au plus de 3 mois avant la naissance et la demande est faite avant les 2 ans de l'enfant."
+        ],
+        "de": [
+          "Sie sind Vater, Mutter oder Vormund des Kindes und haben Ihren Wohnsitz in Écaussinnes.",
+          "Die Prämie gibt es einmal pro Kind und Haushalt; Rechnungen höchstens 3 Monate vor der Geburt, Antrag bevor das Kind 2 Jahre alt wird."
+        ]
+      }
+    }
+  },
+  {
+    "id": 507,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "51067"
+    ],
+    "institution": "Ville d'Enghien",
+    "verified": "18 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.enghien-edingen.be/fr/ma-commune/services-communaux/environnement/environnement-mobilite/formulaires-et-reglements-service-environnement/reglement-communal-couches-lavables.pdf/@@download/file/R%C3%A8glement%20communal%20couches%20lavables.pdf",
+    "content": {
+      "en": {
+        "title": "Prime pour l'achat de couches lavables (Washable Nappies Premium, Enghien)",
+        "desc": "Enghien gives parents a premium for buying or renting washable nappies for a child under two and a half.",
+        "deadline": "Apply before the child is 2½ years old.",
+        "amount": "Up to €100 for purchase or rental (rental of at least 3 months)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Application form annexed to the regulation"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of purchase (receipts, invoice or transfer; several can be combined)"
+          },
+          {
+            "type": "doc",
+            "label": "Household composition showing the date the child was entered in the city's population registers"
+          }
+        ],
+        "steps": [
+          "Fill in the form annexed to the regulation",
+          "Send it with the proofs to the Service Environnement, Avenue Reine Astrid 18b, 7850 Enghien, before the child is 2½"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour l'achat de couches lavables (premie wasbare luiers, Edingen)",
+        "desc": "Edingen geeft ouders een premie voor de aankoop of huur van wasbare luiers voor een kind jonger dan tweeënhalf.",
+        "deadline": "Aanvragen voor het kind 2,5 jaar oud is.",
+        "amount": "Maximaal €100 voor aankoop of huur (huur van minstens 3 maanden)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aanvraagformulier bij het reglement"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoopbewijs (kasticket, factuur of overschrijving; meerdere mogen samen)"
+          },
+          {
+            "type": "doc",
+            "label": "Gezinssamenstelling met de datum van inschrijving van het kind in de bevolkingsregisters van de stad"
+          }
+        ],
+        "steps": [
+          "Vul het formulier bij het reglement in",
+          "Stuur het met de bewijzen naar de Service Environnement, Avenue Reine Astrid 18b, 7850 Edingen, voor het kind 2,5 jaar is"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour l'achat de couches lavables (Enghien)",
+        "desc": "Enghien accorde aux parents une prime pour l'achat ou la location de couches lavables pour un enfant de moins de deux ans et demi.",
+        "deadline": "Demande avant que l'enfant ait 2 ans et demi.",
+        "amount": "100 € maximum pour l'achat ou la location (location d'au moins 3 mois)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Formulaire annexé au règlement"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve d'achat (tickets de caisse, facture ou virement ; plusieurs preuves cumulables)"
+          },
+          {
+            "type": "doc",
+            "label": "Composition de ménage précisant la date d'inscription de l'enfant aux registres de la population de la Ville"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire annexé au règlement",
+          "Envoyez-le avec les justificatifs au Service Environnement, avenue Reine Astrid 18b, 7850 Enghien, avant les 2 ans et demi de l'enfant"
+        ]
+      },
+      "de": {
+        "title": "Prime pour l'achat de couches lavables (Prämie für Stoffwindeln, Enghien)",
+        "desc": "Enghien zahlt Eltern eine Prämie für den Kauf oder die Miete von Stoffwindeln für ein Kind unter zweieinhalb Jahren.",
+        "deadline": "Antrag bevor das Kind 2½ Jahre alt ist.",
+        "amount": "Höchstens 100 € für Kauf oder Miete (Miete von mindestens 3 Monaten)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Dem Reglement beigefügtes Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kaufnachweis (Kassenbon, Rechnung oder Überweisung; mehrere kombinierbar)"
+          },
+          {
+            "type": "doc",
+            "label": "Haushaltszusammensetzung mit dem Datum der Eintragung des Kindes in die Bevölkerungsregister der Stadt"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das dem Reglement beigefügte Formular aus",
+          "Senden Sie es mit den Nachweisen an den Service Environnement, Avenue Reine Astrid 18b, 7850 Enghien, bevor das Kind 2½ ist"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "18 Nov 2026",
+      "source_url": [
+        "https://www.enghien-edingen.be/fr/ma-commune/services-communaux/environnement/environnement-mobilite/formulaires-et-reglements-service-environnement/reglement-communal-couches-lavables.pdf/@@download/file/R%C3%A8glement%20communal%20couches%20lavables.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are the father, mother or legal guardian of a child under 2½ and are domiciled in Enghien.",
+          "The premium is granted once per child, within the available budget; a rental must last at least 3 months.",
+          "The nappies meet the regulation's technical rules: waterproof cover, washable nappies, inserts in natural or organic textile, and cellulose or reusable liners."
+        ],
+        "nl": [
+          "Je bent de vader, moeder of wettelijke voogd van een kind jonger dan 2,5 jaar en bent gedomicilieerd in Edingen.",
+          "De premie wordt één keer per kind toegekend, binnen het beschikbare budget; een huur loopt minstens 3 maanden.",
+          "De luiers voldoen aan de technische voorschriften van het reglement: waterdicht broekje, wasbare luiers, inlegdoekjes in natuurlijk of ecologisch textiel en inlegvellen in cellulose of herbruikbaar materiaal."
+        ],
+        "fr": [
+          "Vous êtes le père, la mère ou le tuteur légal d'un enfant de moins de 2 ans et demi et êtes domicilié à Enghien.",
+          "La prime est octroyée une seule fois par enfant, dans la limite des crédits disponibles ; une location dure au moins 3 mois.",
+          "Les couches respectent les prescriptions techniques du règlement : culotte imperméable, couches lavables, inserts en textile naturel ou écologique et feuillets en cellulose ou réutilisables."
+        ],
+        "de": [
+          "Sie sind Vater, Mutter oder Vormund eines Kindes unter 2½ Jahren und haben Ihren Wohnsitz in Enghien.",
+          "Die Prämie gibt es einmal pro Kind im Rahmen der verfügbaren Mittel; eine Miete dauert mindestens 3 Monate.",
+          "Die Windeln erfüllen die technischen Vorgaben des Reglements: wasserdichte Überhose, waschbare Windeln, Einlagen aus natürlichem oder ökologischem Textil und Vlies aus Zellulose oder wiederverwendbarem Material."
+        ]
+      }
+    }
+  },
+  {
+    "id": 508,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "92035"
+    ],
+    "institution": "Commune d'Eghezée",
+    "verified": "18 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.eghezee.be/votre-commune/services-communaux/gestion-financiere/primes/prime-de-naissance-et-d2019adoption",
+    "content": {
+      "en": {
+        "title": "Prime de naissance et d'adoption (Birth and Adoption Premium, Eghezée)",
+        "desc": "Eghezée pays a premium to the mother when a child is born, or to the adoptive parent when a child up to six is adopted.",
+        "deadline": "The page sets no deadline; it is paid once the mother's or adopter's own registration in the population register has lasted six months.",
+        "amount": "€80 for the first child, €60 for the second and each next child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Extract of the birth certificate (for an adoption: extract of the population or foreigners' register)"
+          }
+        ],
+        "steps": [
+          "Fill in the birth premium request form on the commune's e-guichet",
+          "Add the extract of the birth certificate (or of the register for an adoption)",
+          "The commune pays the premium once your registration in the population register has lasted six months"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance et d'adoption (geboorte- en adoptiepremie, Eghezée)",
+        "desc": "Eghezée geeft een premie aan de moeder bij de geboorte van een kind, of aan de adoptant bij de adoptie van een kind tot zes jaar.",
+        "deadline": "De pagina vermeldt geen termijn; de premie wordt betaald zodra de eigen inschrijving van de moeder of adoptant in het bevolkingsregister zes maanden duurt.",
+        "amount": "€80 voor het eerste kind, €60 voor het tweede en volgende",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Uittreksel uit de geboorteakte (bij adoptie: uittreksel uit het bevolkings- of vreemdelingenregister)"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier voor de geboortepremie in via het e-loket van de gemeente",
+          "Voeg het uittreksel uit de geboorteakte toe (of uit het register bij adoptie)",
+          "De gemeente betaalt de premie zodra je inschrijving in het bevolkingsregister zes maanden duurt"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance et d'adoption (Eghezée)",
+        "desc": "Eghezée verse une prime à la mère à la naissance d'un enfant, ou à l'adoptant lors de l'adoption d'un enfant de six ans au plus.",
+        "deadline": "La page ne fixe pas de délai ; la prime est payable dès que l'inscription de la mère ou de l'adoptant au registre de population atteint six mois.",
+        "amount": "80 € pour le premier enfant, 60 € pour le deuxième et les suivants",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Extrait de l'acte de naissance (pour une adoption : extrait du registre de population ou du registre des étrangers)"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande de prime de naissance sur l'e-guichet de la commune",
+          "Joignez l'extrait d'acte de naissance (ou du registre pour une adoption)",
+          "La commune paie la prime dès que votre inscription au registre de population atteint six mois"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance et d'adoption (Geburts- und Adoptionsprämie, Eghezée)",
+        "desc": "Eghezée zahlt der Mutter bei der Geburt eines Kindes eine Prämie, oder dem Adoptivelternteil bei der Adoption eines Kindes bis sechs Jahre.",
+        "deadline": "Die Seite nennt keine Frist; gezahlt wird, sobald die eigene Eintragung der Mutter oder des Adoptivelternteils im Bevölkerungsregister sechs Monate besteht.",
+        "amount": "80 € für das erste Kind, 60 € für das zweite und jedes weitere",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Auszug aus der Geburtsurkunde (bei Adoption: Auszug aus dem Bevölkerungs- oder Fremdenregister)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular für die Geburtsprämie im E-Schalter der Gemeinde aus",
+          "Fügen Sie den Auszug aus der Geburtsurkunde bei (bei Adoption aus dem Register)",
+          "Die Gemeinde zahlt die Prämie, sobald Ihre Eintragung im Bevölkerungsregister sechs Monate besteht"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "18 Nov 2026",
+      "source_url": [
+        "https://www.eghezee.be/votre-commune/services-communaux/gestion-financiere/primes/prime-de-naissance-et-d2019adoption"
+      ],
+      "conditions": {
+        "en": [
+          "The mother is domiciled in Eghezée at the time of the birth, or the adoptive parent on the day the adopted child is registered.",
+          "It is paid once the mother's or adopter's own registration in the population register (registre de population) has lasted six months.",
+          "An adopted child is at most six when registered, and no Eghezée birth premium was already paid for the child."
+        ],
+        "nl": [
+          "De moeder is gedomicilieerd in Eghezée op het moment van de geboorte, of de adoptant op de dag van inschrijving van het geadopteerde kind.",
+          "De premie wordt betaald zodra de eigen inschrijving van de moeder of adoptant in het bevolkingsregister (registre de population) zes maanden duurt.",
+          "Een geadopteerd kind is bij inschrijving niet ouder dan zes jaar en er werd voor het kind nog geen geboortepremie van Eghezée betaald."
+        ],
+        "fr": [
+          "La mère est domiciliée dans la commune au moment de la naissance, ou l'adoptant au jour de l'inscription de l'enfant adopté.",
+          "Elle est payable dès que la propre inscription de la mère ou de l'adoptant au registre de population atteint six mois.",
+          "L'enfant adopté n'a pas dépassé six ans à son inscription et aucune prime de naissance n'a déjà été octroyée par Eghezée."
+        ],
+        "de": [
+          "Die Mutter hat zum Zeitpunkt der Geburt ihren Wohnsitz in Eghezée, oder der Adoptivelternteil am Tag der Eintragung des adoptierten Kindes.",
+          "Sie wird gezahlt, sobald die eigene Eintragung der Mutter oder des Adoptivelternteils im Bevölkerungsregister (registre de population) sechs Monate besteht.",
+          "Ein adoptiertes Kind ist bei der Eintragung höchstens sechs Jahre alt, und für das Kind wurde noch keine Geburtsprämie von Eghezée gezahlt."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation pays only once the mother's own registration in the population register (registre de population) has lasted six months.",
+            "nl": "Niet voor jou: het reglement betaalt pas uit zodra de eigen inschrijving van de moeder in het bevolkingsregister (registre de population) zes maanden duurt.",
+            "fr": "Pas pour vous : le règlement ne paie que lorsque l'inscription de la mère au registre de population atteint six mois.",
+            "de": "Nicht für Sie: Das Reglement zahlt erst, wenn die eigene Eintragung der Mutter im Bevölkerungsregister (registre de population) sechs Monate besteht."
+          }
+        }
+      }
+    }
   }
 ]

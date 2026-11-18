@@ -1516,49 +1516,86 @@
       "name": "Donceel",
       "checked": "17 Nov 2026",
       "ids": []
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "44020",
-      "name": "Gavere"
+      "name": "Gavere",
+      "checked": "18 Nov 2026",
+      "ids": [
+        500
+      ]
     },
     {
       "nis": "53020",
-      "name": "Dour"
+      "name": "Dour",
+      "checked": "18 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24028",
-      "name": "Geetbets"
+      "name": "Geetbets",
+      "checked": "18 Nov 2026",
+      "ids": [
+        501
+      ]
     },
     {
       "nis": "83012",
-      "name": "Durbuy"
+      "name": "Durbuy",
+      "checked": "18 Nov 2026",
+      "ids": []
     },
     {
       "nis": "55050",
-      "name": "Ecaussinnes"
+      "name": "Ecaussinnes",
+      "checked": "18 Nov 2026",
+      "ids": [
+        506
+      ]
     },
     {
       "nis": "51067",
-      "name": "Edingen / Enghien"
+      "name": "Edingen / Enghien",
+      "checked": "18 Nov 2026",
+      "ids": [
+        507
+      ]
     },
     {
       "nis": "41018",
-      "name": "Geraardsbergen / Grammont"
+      "name": "Geraardsbergen / Grammont",
+      "checked": "18 Nov 2026",
+      "ids": [
+        502
+      ]
     },
     {
       "nis": "92035",
-      "name": "Eghezée"
+      "name": "Eghezée",
+      "checked": "18 Nov 2026",
+      "ids": [
+        508
+      ]
     },
     {
       "nis": "71017",
-      "name": "Gingelom"
+      "name": "Gingelom",
+      "checked": "18 Nov 2026",
+      "ids": [
+        503
+      ]
     },
     {
       "nis": "35005",
-      "name": "Gistel"
-    },
+      "name": "Gistel",
+      "checked": "18 Nov 2026",
+      "ids": [
+        504,
+        505
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "51017",
       "name": "Elzele / Ellezelles"
