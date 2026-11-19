@@ -1593,49 +1593,86 @@
         504,
         505
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "51017",
-      "name": "Elzele / Ellezelles"
+      "name": "Elzele / Ellezelles",
+      "checked": "19 Nov 2026",
+      "ids": [
+        509
+      ]
     },
     {
       "nis": "24137",
-      "name": "Glabbeek"
+      "name": "Glabbeek",
+      "checked": "19 Nov 2026",
+      "ids": [
+        510
+      ]
     },
     {
       "nis": "61080",
-      "name": "Engis"
+      "name": "Engis",
+      "checked": "19 Nov 2026",
+      "ids": [
+        511
+      ]
     },
     {
       "nis": "23025",
-      "name": "Grimbergen"
+      "name": "Grimbergen",
+      "checked": "19 Nov 2026",
+      "ids": [
+        512
+      ]
     },
     {
       "nis": "83013",
-      "name": "Erezée"
+      "name": "Erezée",
+      "checked": "19 Nov 2026",
+      "ids": []
     },
     {
       "nis": "13010",
-      "name": "Grobbendonk"
+      "name": "Grobbendonk",
+      "checked": "19 Nov 2026",
+      "ids": [
+        513
+      ]
     },
     {
       "nis": "56022",
-      "name": "Erquelinnes"
+      "name": "Erquelinnes",
+      "checked": "19 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24033",
-      "name": "Haacht"
+      "name": "Haacht",
+      "checked": "19 Nov 2026",
+      "ids": [
+        514,
+        515
+      ]
     },
     {
       "nis": "62032",
-      "name": "Esneux"
+      "name": "Esneux",
+      "checked": "19 Nov 2026",
+      "ids": [
+        516
+      ]
     },
     {
       "nis": "41024",
-      "name": "Haaltert"
-    },
+      "name": "Haaltert",
+      "checked": "19 Nov 2026",
+      "ids": [
+        517
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "57027",
       "name": "Estaimpuis"

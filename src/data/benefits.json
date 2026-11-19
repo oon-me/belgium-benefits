@@ -63131,5 +63131,1320 @@
         }
       }
     }
+  },
+  {
+    "id": 509,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "51017"
+    ],
+    "institution": "Commune d'Ellezelles",
+    "verified": "19 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ellezelles.be/ma-commune/services-communaux/tous-les-services-communaux/service-environnement-et-developpement-rural/la-mobilite/les-primes-velo-1",
+    "content": {
+      "en": {
+        "title": "Prime à l'achat d'un vélo (Bike Purchase Premium, Ellezelles)",
+        "desc": "Ellezelles refunds 10% of the price of a bike or e-bike bought by a resident, once a year per household.",
+        "deadline": "Within 3 months of the invoice date.",
+        "amount": "10% of the price incl. VAT, up to €150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's application form"
+          },
+          {
+            "type": "doc",
+            "label": "The invoice (proof of purchase)"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of your identity card"
+          },
+          {
+            "type": "doc",
+            "label": "A signed declaration on honour"
+          }
+        ],
+        "steps": [
+          "Buy a new bike or e-bike, or a second-hand one with an invoice",
+          "Send the form and documents to the Commune d'Ellezelles within 3 months of the invoice",
+          "The municipal College checks the file and the premium is paid into your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'achat d'un vélo (fietspremie, Elzele)",
+        "desc": "Elzele betaalt 10% terug van de prijs van een fiets of elektrische fiets die een inwoner koopt, één keer per jaar per gezin.",
+        "deadline": "Binnen 3 maanden na de factuurdatum.",
+        "amount": "10% van de prijs incl. btw, maximaal €150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "De factuur (aankoopbewijs)"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Een ondertekende verklaring op eer"
+          }
+        ],
+        "steps": [
+          "Koop een nieuwe fiets of elektrische fiets, of een tweedehandse met factuur",
+          "Bezorg het formulier en de documenten binnen 3 maanden na de factuur aan de gemeente Elzele",
+          "Het college onderzoekt het dossier en de premie wordt op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'achat d'un vélo (Ellezelles)",
+        "desc": "Ellezelles rembourse 10 % du prix d'un vélo musculaire ou à assistance électrique acheté par un habitant, une fois par an et par ménage.",
+        "deadline": "Dans les 3 mois de la date de la facture.",
+        "amount": "10 % du prix TVAC, maximum 150 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande de la commune"
+          },
+          {
+            "type": "doc",
+            "label": "La facture (preuve d'achat)"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de votre carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation sur l'honneur signée"
+          }
+        ],
+        "steps": [
+          "Achetez un vélo neuf ou à assistance électrique, ou un vélo d'occasion avec facture",
+          "Envoyez le formulaire et les documents à la Commune d'Ellezelles dans les 3 mois de la facture",
+          "Le Collège communal examine le dossier et la prime est versée sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'achat d'un vélo (Fahrradprämie, Ellezelles)",
+        "desc": "Ellezelles erstattet 10 % des Preises eines Fahrrads oder E-Bikes, das ein Einwohner kauft, einmal pro Jahr und Haushalt.",
+        "deadline": "Innerhalb von 3 Monaten nach dem Rechnungsdatum.",
+        "amount": "10 % des Preises inkl. MwSt., höchstens 150 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Die Rechnung (Kaufnachweis)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie Ihres Personalausweises"
+          },
+          {
+            "type": "doc",
+            "label": "Eine unterschriebene ehrenwörtliche Erklärung"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie ein neues Fahrrad oder E-Bike oder ein gebrauchtes mit Rechnung",
+          "Reichen Sie Formular und Unterlagen innerhalb von 3 Monaten nach der Rechnung bei der Gemeinde Ellezelles ein",
+          "Das Gemeindekollegium prüft die Akte und die Prämie wird auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "19 Nov 2026",
+      "source_url": [
+        "https://www.ellezelles.be/ma-commune/services-communaux/tous-les-services-communaux/service-environnement-et-developpement-rural/la-mobilite/les-primes-velo-1",
+        "https://www.ellezelles.be/ma-commune/services-communaux/tous-les-services-communaux/service-environnement-et-developpement-rural/la-mobilite/les-primes-velo-1/reglement-et-formulaire-prime-velo/reglement-prime-a-lachat-dun-velo-electrique-ou-musculaire.pdf/@@download/file/R%C3%A8glement%20-%20Prime%20%C3%A0%20l%27achat%20d%27un%20v%C3%A9lo%20%C3%A9lectrique%20ou%20musculaire.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You have been registered in the population, foreigners' or waiting register of Ellezelles for at least 4 months before the purchase (adult or minor).",
+          "The bike is a pedal bike or an e-bike assisted up to 25 km/h; children's bikes, go-karts and (electric) scooters do not count. You may not resell it within 3 years.",
+          "One premium per household per year, and no new request until 3 years after the last payment; paid within the commune's budget."
+        ],
+        "nl": [
+          "Je staat minstens 4 maanden vóór de aankoop ingeschreven in het bevolkings-, vreemdelingen- of wachtregister van Elzele (meerderjarig of minderjarig).",
+          "Het gaat om een gewone fiets of een elektrische fiets met trapondersteuning tot 25 km/u; kinderfietsen, gocarts en (elektrische) steps tellen niet. Je mag de fiets 3 jaar niet doorverkopen.",
+          "Eén premie per gezin per jaar en geen nieuwe aanvraag binnen 3 jaar na de vorige uitbetaling; uitbetaald binnen het budget van de gemeente."
+        ],
+        "fr": [
+          "Vous êtes inscrit aux registres de la population, des étrangers ou d'attente d'Ellezelles depuis au moins 4 mois avant l'achat (majeur ou mineur).",
+          "Il s'agit d'un vélo musculaire ou d'un vélo à assistance électrique jusqu'à 25 km/h ; vélos pour enfants, cuistax et trottinettes (électriques) exclus. Le vélo ne peut pas être revendu pendant 3 ans.",
+          "Une prime par ménage et par an, et pas de nouvelle demande avant 3 ans après la liquidation ; dans la limite des crédits budgétaires."
+        ],
+        "de": [
+          "Sie sind seit mindestens 4 Monaten vor dem Kauf im Bevölkerungs-, Fremden- oder Warteregister von Ellezelles eingetragen (volljährig oder minderjährig).",
+          "Es handelt sich um ein Fahrrad oder ein E-Bike mit Tretunterstützung bis 25 km/h; Kinderfahrräder, Gokarts und (E-)Roller zählen nicht. Das Rad darf 3 Jahre lang nicht weiterverkauft werden.",
+          "Eine Prämie pro Haushalt und Jahr, kein neuer Antrag binnen 3 Jahren nach der letzten Auszahlung; im Rahmen des Gemeindebudgets."
+        ]
+      }
+    }
+  },
+  {
+    "id": 510,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24137"
+    ],
+    "institution": "OCMW Glabbeek",
+    "verified": "19 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.glabbeek.be/mantelzorg",
+    "amount_source_url": "https://www.glabbeek.be/file/download/a99b661c-f38d-4547-93c3-d41c0fbed1e8/fTM2hpA4lAqIjxBtToiGVWVYXXw0OASp8Ap6Ld843d",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Glabbeek)",
+        "desc": "Glabbeek's OCMW pays a yearly premium to the unpaid carer of a person who lived at home in Glabbeek; the person cared for applies for it.",
+        "deadline": "The application for 2026 must be complete by 31 December 2026.",
+        "amount": "€60 or €90 a year with the Flemish care budget or a PAB/PVB, €180 or €270 with a BelRAI screening only (the higher amount when the carer does not live with the person)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form for 2026, completed and signed"
+          },
+          {
+            "type": "doc",
+            "label": "Proof from the care fund (care budget or BelRAI screening) or a VAPH decision (PAB or PVB)"
+          },
+          {
+            "type": "doc",
+            "label": "If the carer lives elsewhere: a certificate of residence or the carer's identity card"
+          }
+        ],
+        "steps": [
+          "The person cared for (or a representative) makes an appointment at the OCMW (016 77 29 29)",
+          "Hand in the completed form and certificates against a receipt before 31 December 2026",
+          "The OCMW pays within 45 days of the complete application"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Glabbeek)",
+        "desc": "Het OCMW van Glabbeek betaalt een jaarlijkse premie aan de mantelzorger van iemand die thuis woonde in Glabbeek; de zorgbehoevende vraagt ze aan.",
+        "deadline": "De aanvraag voor 2026 moet ten laatste op 31 december 2026 volledig zijn.",
+        "amount": "€60 of €90 per jaar met zorgbudget of PAB/PVB, €180 of €270 met enkel een BelRAI-screening (het hogere bedrag als de mantelzorger niet inwoont)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde en ondertekende aanvraagformulier 2026"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van de zorgkas (zorgbudget of BelRAI-screening) of een VAPH-beslissing (PAB of PVB)"
+          },
+          {
+            "type": "doc",
+            "label": "Als de mantelzorger niet inwoont: een attest van woonst of de identiteitskaart van de mantelzorger"
+          }
+        ],
+        "steps": [
+          "De zorgbehoevende (of een vertegenwoordiger) maakt een afspraak bij het OCMW (016 77 29 29)",
+          "Breng het ingevulde formulier en de attesten tegen ontvangstbewijs binnen vóór 31 december 2026",
+          "Het OCMW betaalt binnen 45 dagen na de volledige aanvraag"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Glabbeek)",
+        "desc": "Le CPAS (OCMW) de Glabbeek verse une prime annuelle à l'aidant proche bénévole d'une personne qui vivait à domicile à Glabbeek ; c'est la personne aidée qui la demande.",
+        "deadline": "La demande pour 2026 doit être complète au plus tard le 31 décembre 2026.",
+        "amount": "60 € ou 90 € par an avec le budget de soins flamand ou un PAB/PVB, 180 € ou 270 € avec seulement un screening BelRAI (le montant le plus élevé si l'aidant n'habite pas avec la personne)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande 2026 complété et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve de la caisse d'assurance soins (budget de soins ou screening BelRAI) ou une décision de la VAPH (PAB ou PVB)"
+          },
+          {
+            "type": "doc",
+            "label": "Si l'aidant habite ailleurs : un certificat de résidence ou la carte d'identité de l'aidant"
+          }
+        ],
+        "steps": [
+          "La personne aidée (ou un représentant) prend rendez-vous à l'OCMW (016 77 29 29)",
+          "Remettez le formulaire et les attestations contre accusé de réception avant le 31 décembre 2026",
+          "L'OCMW paie dans les 45 jours suivant la demande complète"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Glabbeek)",
+        "desc": "Das ÖSHZ (OCMW) Glabbeek zahlt eine jährliche Prämie an die unbezahlte Pflegeperson eines Menschen, der zu Hause in Glabbeek lebte; die gepflegte Person beantragt sie.",
+        "deadline": "Der Antrag für 2026 muss spätestens am 31. Dezember 2026 vollständig sein.",
+        "amount": "60 € oder 90 € pro Jahr mit flämischem Pflegebudget oder PAB/PVB, 180 € oder 270 € nur mit BelRAI-Screening (der höhere Betrag, wenn die Pflegeperson nicht mit der Person zusammenwohnt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte und unterschriebene Antragsformular 2026"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis der Pflegekasse (Pflegebudget oder BelRAI-Screening) oder ein VAPH-Beschluss (PAB oder PVB)"
+          },
+          {
+            "type": "doc",
+            "label": "Wenn die Pflegeperson anderswo wohnt: eine Wohnsitzbescheinigung oder ihr Personalausweis"
+          }
+        ],
+        "steps": [
+          "Die gepflegte Person (oder ein Vertreter) vereinbart einen Termin beim OCMW (016 77 29 29)",
+          "Geben Sie Formular und Bescheinigungen gegen Empfangsbestätigung vor dem 31. Dezember 2026 ab",
+          "Das OCMW zahlt innerhalb von 45 Tagen nach dem vollständigen Antrag"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "19 Nov 2026",
+      "source_url": [
+        "https://www.glabbeek.be/mantelzorg",
+        "https://www.glabbeek.be/file/download/a99b661c-f38d-4547-93c3-d41c0fbed1e8/fTM2hpA4lAqIjxBtToiGVWVYXXw0OASp8Ap6Ld843d"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for lived at home in Glabbeek for at least 6 months in 2025; one premium per person cared for, with no income or age limit.",
+          "In 2025 the person had the Flemish care budget for people with a severe care need for at least 1 month, or a PAB (under 18) or PVB (18+), or a BelRAI screening with the scores listed in the leaflet.",
+          "The carer may live anywhere and is an unpaid volunteer; for the BelRAI-only amounts the carer cares for only this one person and registers as a carer with the OCMW (otherwise for at most 2 people)."
+        ],
+        "nl": [
+          "De zorgbehoevende woonde in 2025 minstens 6 maanden in een thuissituatie in Glabbeek; 1 premie per zorgbehoevende, zonder inkomens- of leeftijdsgrens.",
+          "De zorgbehoevende had in 2025 minstens 1 maand recht op het zorgbudget voor zwaar zorgbehoevenden, of een PAB (-18) of PVB (+18), of heeft een BelRAI-screening met de scores uit de folder.",
+          "De mantelzorger mag overal wonen en is een onbezoldigde vrijwilliger; voor de bedragen met enkel BelRAI is hij mantelzorger voor slechts 1 persoon en laat hij zich registreren bij het OCMW (anders voor max. 2 personen)."
+        ],
+        "fr": [
+          "La personne aidée a vécu au moins 6 mois à domicile à Glabbeek en 2025 ; une prime par personne aidée, sans limite de revenus ni d'âge.",
+          "En 2025, la personne a eu droit pendant au moins 1 mois au budget de soins pour personnes fortement dépendantes, ou à un PAB (-18 ans) ou PVB (+18 ans), ou dispose d'un screening BelRAI avec les scores du dépliant.",
+          "L'aidant peut habiter n'importe où et est bénévole non rémunéré ; pour les montants BelRAI seul, il n'aide que cette personne et s'enregistre comme aidant à l'OCMW (sinon 2 personnes au maximum)."
+        ],
+        "de": [
+          "Die gepflegte Person hat 2025 mindestens 6 Monate zu Hause in Glabbeek gewohnt; eine Prämie pro gepflegter Person, ohne Einkommens- oder Altersgrenze.",
+          "Die Person hatte 2025 mindestens 1 Monat Anspruch auf das Pflegebudget für schwer Pflegebedürftige oder ein PAB (unter 18) oder PVB (ab 18) oder hat ein BelRAI-Screening mit den Werten aus dem Faltblatt.",
+          "Die Pflegeperson kann überall wohnen und ist unbezahlt ehrenamtlich tätig; für die Beträge nur mit BelRAI pflegt sie nur diese eine Person und lässt sich beim OCMW registrieren (sonst höchstens 2 Personen)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 511,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "61080"
+    ],
+    "institution": "Commune d'Engis",
+    "verified": "19 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.engis.be/economie/prime-velo",
+    "content": {
+      "en": {
+        "title": "Prime vélo (Bike Premium, Engis)",
+        "desc": "Engis pays part of the price of a new bike, e-bike, conversion kit or cargo bike, depending on household income.",
+        "deadline": "Within 6 months of the invoice date.",
+        "amount": "30%, 20% or 10% of the price depending on household income, up to €250; at most 2 premiums per household",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, dated and signed"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of your identity card"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of your latest tax assessment (avertissement-extrait de rôle)"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition certificate"
+          },
+          {
+            "type": "doc",
+            "label": "The detailed invoice and proof of payment"
+          },
+          {
+            "type": "doc",
+            "label": "The signed declaration on honour (and for an e-bike, kit or cargo bike: the specifications or approval certificate)"
+          }
+        ],
+        "steps": [
+          "Buy the new bike for yourself or a member of your household",
+          "Send the file to the Cellule Cadre de vie, Administration communale d'Engis, rue Reine Astrid 13, 4480 Engis, within 6 months of the invoice",
+          "You get an acknowledgement when the file is complete; missing documents must follow within 30 days",
+          "The commune pays the premium into your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Prime vélo (fietspremie, Engis)",
+        "desc": "Engis betaalt een deel van de prijs van een nieuwe fiets, elektrische fiets, ombouwkit of bakfiets terug, afhankelijk van het gezinsinkomen.",
+        "deadline": "Binnen 6 maanden na de factuurdatum.",
+        "amount": "30%, 20% of 10% van de prijs volgens het gezinsinkomen, maximaal €250; maximaal 2 premies per gezin",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, gedateerd en ondertekend"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van je laatste aanslagbiljet"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "De gedetailleerde factuur en het betalingsbewijs"
+          },
+          {
+            "type": "doc",
+            "label": "De ondertekende verklaring op eer (en voor een elektrische fiets, kit of bakfiets: de technische fiche of het homologatieattest)"
+          }
+        ],
+        "steps": [
+          "Koop de nieuwe fiets voor jezelf of een gezinslid",
+          "Stuur het dossier binnen 6 maanden na de factuur naar de Cellule Cadre de vie, gemeentebestuur Engis, rue Reine Astrid 13, 4480 Engis",
+          "Je krijgt een ontvangstbevestiging zodra het dossier volledig is; ontbrekende stukken moet je binnen 30 dagen bezorgen",
+          "De gemeente stort de premie op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Prime vélo (Engis)",
+        "desc": "Engis rembourse une partie du prix d'un vélo neuf, d'un vélo à assistance électrique, d'un kit d'adaptation ou d'un vélo-cargo, selon les revenus du ménage.",
+        "deadline": "Dans les 6 mois de la date de facturation.",
+        "amount": "30 %, 20 % ou 10 % du prix selon les revenus du ménage, maximum 250 € ; 2 primes au maximum par ménage",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande daté et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie du dernier avertissement-extrait de rôle"
+          },
+          {
+            "type": "doc",
+            "label": "La composition de ménage"
+          },
+          {
+            "type": "doc",
+            "label": "La facture détaillée et la preuve de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation sur l'honneur signée (et pour un VAE, un kit ou un vélo-cargo : la fiche technique ou le certificat d'homologation)"
+          }
+        ],
+        "steps": [
+          "Achetez le vélo neuf pour vous ou un membre de votre ménage",
+          "Envoyez le dossier à la Cellule Cadre de vie, Administration communale d'Engis, rue Reine Astrid 13, 4480 Engis, dans les 6 mois de la facture",
+          "Vous recevez un accusé de réception quand le dossier est complet ; les pièces manquantes doivent suivre dans les 30 jours",
+          "La commune verse la prime sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Prime vélo (Fahrradprämie, Engis)",
+        "desc": "Engis erstattet je nach Haushaltseinkommen einen Teil des Preises eines neuen Fahrrads, E-Bikes, Umrüstsatzes oder Lastenrads.",
+        "deadline": "Innerhalb von 6 Monaten nach dem Rechnungsdatum.",
+        "amount": "30 %, 20 % oder 10 % des Preises je nach Haushaltseinkommen, höchstens 250 €; höchstens 2 Prämien pro Haushalt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das datierte und unterschriebene Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie Ihres Personalausweises"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie Ihres letzten Steuerbescheids"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Die detaillierte Rechnung und der Zahlungsnachweis"
+          },
+          {
+            "type": "doc",
+            "label": "Die unterschriebene ehrenwörtliche Erklärung (bei E-Bike, Umrüstsatz oder Lastenrad zusätzlich das Datenblatt oder die Typgenehmigung)"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie das neue Fahrrad für sich oder ein Haushaltsmitglied",
+          "Senden Sie die Unterlagen innerhalb von 6 Monaten nach der Rechnung an die Cellule Cadre de vie, Gemeindeverwaltung Engis, rue Reine Astrid 13, 4480 Engis",
+          "Sie erhalten eine Empfangsbestätigung, sobald die Akte vollständig ist; fehlende Unterlagen sind binnen 30 Tagen nachzureichen",
+          "Die Gemeinde überweist die Prämie auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "19 Nov 2026",
+      "source_url": [
+        "https://www.engis.be/economie/prime-velo"
+      ],
+      "conditions": {
+        "en": [
+          "You are an adult domiciled in Engis and have been registered in its population, foreigners' or waiting register for at least 6 months at the date of purchase.",
+          "The rate depends on the household's reference income (taxable income minus €2,200 per dependent child, doubled for a child with a recognised disability): 30% under €41,100, 20% from €41,100 to €93,000, 10% above €93,000.",
+          "The bike is new and for your own use or that of a household member; you may not resell it for 3 years, and you cannot apply again within 3 years of a payment."
+        ],
+        "nl": [
+          "Je bent meerderjarig, gedomicilieerd in Engis en staat op de aankoopdatum minstens 6 maanden ingeschreven in het bevolkings-, vreemdelingen- of wachtregister van de gemeente.",
+          "Het percentage hangt af van het referentie-inkomen van het gezin (belastbaar inkomen min €2.200 per kind ten laste, dubbel voor een kind met een erkende handicap): 30% onder €41.100, 20% van €41.100 tot €93.000, 10% boven €93.000.",
+          "De fiets is nieuw en voor eigen gebruik of dat van een gezinslid; je mag hem 3 jaar niet doorverkopen en kan binnen 3 jaar na een uitbetaling geen nieuwe aanvraag doen."
+        ],
+        "fr": [
+          "Vous êtes majeur, domicilié à Engis et inscrit aux registres de la population, des étrangers ou d'attente de la commune depuis au moins 6 mois à la date de l'achat.",
+          "Le taux dépend du revenu de référence du ménage (revenu globalement imposable diminué de 2.200 € par enfant à charge, doublé pour un enfant reconnu handicapé) : 30 % sous 41.100 €, 20 % de 41.100 € à 93.000 €, 10 % au-delà de 93.000 €.",
+          "Le vélo est neuf et destiné à votre usage ou à celui d'un membre du ménage ; il ne peut pas être revendu pendant 3 ans et aucune nouvelle demande n'est possible dans les 3 ans suivant la liquidation."
+        ],
+        "de": [
+          "Sie sind volljährig, in Engis wohnhaft und am Kaufdatum seit mindestens 6 Monaten im Bevölkerungs-, Fremden- oder Warteregister der Gemeinde eingetragen.",
+          "Der Satz hängt vom Referenzeinkommen des Haushalts ab (steuerpflichtiges Gesamteinkommen minus 2.200 € je unterhaltsberechtigtem Kind, doppelt bei einem Kind mit anerkannter Behinderung): 30 % unter 41.100 €, 20 % von 41.100 € bis 93.000 €, 10 % über 93.000 €.",
+          "Das Fahrrad ist neu und für Sie oder ein Haushaltsmitglied bestimmt; es darf 3 Jahre nicht weiterverkauft werden, und binnen 3 Jahren nach einer Auszahlung ist kein neuer Antrag möglich."
+        ]
+      }
+    }
+  },
+  {
+    "id": 512,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23025"
+    ],
+    "institution": "OCMW Grimbergen",
+    "verified": "19 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.grimbergen.be/mantelzorgtoelage",
+    "amount_source_url": "https://www.grimbergen.be/file/download/efd866f2-d5e7-43d7-af72-cc54a8d36efb/dzrKFyc8GIBMVx46ug6sTHDdJ2VkNcObTCmdHBKkvQ3d",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage (Carer Allowance, Grimbergen)",
+        "desc": "Grimbergen's OCMW pays a monthly allowance to someone who gives long-term unpaid care to a person aged 65 or over living at home in Grimbergen.",
+        "deadline": "No deadline: the allowance starts on the first of the month in which the complete application arrives.",
+        "amount": "€25 a month, paid every quarter (within the OCMW's budget)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form (online or from the Sociaal Huis)"
+          },
+          {
+            "type": "doc",
+            "label": "The evaluation scale of the care need, filled in by the person's GP"
+          }
+        ],
+        "steps": [
+          "The carer applies via the digital counter, by phone (02 267 15 05), by e-mail (thuiszorgpunt@grimbergen.be) or by post to OCMW thuiszorgpunt, Verbeytstraat 30, 1853 Grimbergen",
+          "A social worker visits at home and looks at the care situation",
+          "The special committee for the social service decides; the allowance is reviewed every year"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage (Grimbergen)",
+        "desc": "Het OCMW van Grimbergen betaalt een maandelijkse toelage aan wie langdurig en onbetaald zorgt voor een thuiswonende 65-plusser in Grimbergen.",
+        "deadline": "Geen termijn: het recht gaat in op de eerste van de maand waarin de volledige aanvraag binnenkomt.",
+        "amount": "€25 per maand, elk trimester uitbetaald (binnen het budget van het OCMW)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier (digitaal loket of Sociaal Huis)"
+          },
+          {
+            "type": "doc",
+            "label": "De evaluatieschaal van de zorgbehoevendheid, ingevuld door de huisarts"
+          }
+        ],
+        "steps": [
+          "De mantelzorger vraagt aan via het digitaal loket, telefonisch (02 267 15 05), per mail (thuiszorgpunt@grimbergen.be) of per post naar OCMW thuiszorgpunt, Verbeytstraat 30, 1853 Grimbergen",
+          "Een maatschappelijk werker komt op huisbezoek en bespreekt de zorgsituatie",
+          "Het Bijzonder Comité Sociale Dienst beslist; de toelage wordt jaarlijks herzien"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage (allocation aux aidants proches, Grimbergen)",
+        "desc": "Le CPAS (OCMW) de Grimbergen verse une allocation mensuelle à la personne qui aide durablement et bénévolement une personne de 65 ans ou plus vivant à domicile à Grimbergen.",
+        "deadline": "Pas de délai : le droit commence le 1er du mois où la demande complète est reçue.",
+        "amount": "25 € par mois, versés chaque trimestre (dans la limite du budget de l'OCMW)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande (guichet numérique ou Sociaal Huis)"
+          },
+          {
+            "type": "doc",
+            "label": "L'échelle d'évaluation de la dépendance, remplie par le médecin traitant"
+          }
+        ],
+        "steps": [
+          "L'aidant fait la demande via le guichet numérique, par téléphone (02 267 15 05), par e-mail (thuiszorgpunt@grimbergen.be) ou par courrier à OCMW thuiszorgpunt, Verbeytstraat 30, 1853 Grimbergen",
+          "Un travailleur social vient à domicile pour examiner la situation",
+          "Le Comité spécial du service social décide ; l'allocation est revue chaque année"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage (Zulage für pflegende Angehörige, Grimbergen)",
+        "desc": "Das ÖSHZ (OCMW) Grimbergen zahlt eine monatliche Zulage an Personen, die langfristig und unbezahlt eine zu Hause lebende Person ab 65 Jahren in Grimbergen pflegen.",
+        "deadline": "Keine Frist: Der Anspruch beginnt am Ersten des Monats, in dem der vollständige Antrag eingeht.",
+        "amount": "25 € pro Monat, vierteljährlich ausgezahlt (im Rahmen des OCMW-Budgets)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular (digitaler Schalter oder Sociaal Huis)"
+          },
+          {
+            "type": "doc",
+            "label": "Die Bewertungsskala des Pflegebedarfs, ausgefüllt vom Hausarzt"
+          }
+        ],
+        "steps": [
+          "Die Pflegeperson beantragt über den digitalen Schalter, telefonisch (02 267 15 05), per E-Mail (thuiszorgpunt@grimbergen.be) oder per Post an OCMW thuiszorgpunt, Verbeytstraat 30, 1853 Grimbergen",
+          "Eine Sozialarbeiterin besucht Sie zu Hause und bespricht die Pflegesituation",
+          "Der Sonderausschuss für den Sozialdienst entscheidet; die Zulage wird jährlich überprüft"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "19 Nov 2026",
+      "source_url": [
+        "https://www.grimbergen.be/mantelzorgtoelage",
+        "https://www.grimbergen.be/file/download/efd866f2-d5e7-43d7-af72-cc54a8d36efb/dzrKFyc8GIBMVx46ug6sTHDdJ2VkNcObTCmdHBKkvQ3d"
+      ],
+      "conditions": {
+        "en": [
+          "The carer is an adult who regularly gives long-term, unpaid care that helps the person stay at home; family ties do not matter and the carer need not live with the person.",
+          "The person cared for is at least 65, has their domicile in Grimbergen, is cared for there and lives at home (not in an assistance flat, care home or other housing form).",
+          "The person's care need is shown on the evaluation scale filled in by their GP; a social worker checks the situation at home."
+        ],
+        "nl": [
+          "De mantelzorger is meerderjarig en geeft regelmatig langdurige, onbetaalde zorg die helpt om thuis te blijven wonen; verwantschap speelt geen rol en de mantelzorger hoeft niet in te wonen.",
+          "De zorgbehoevende is minstens 65 jaar, gedomicilieerd in Grimbergen, de zorg gebeurt in Grimbergen en hij woont thuis (niet in een assistentiewoning, woonzorgcentrum of andere woonvorm).",
+          "De zorgbehoevendheid blijkt uit de evaluatieschaal die de huisarts invult; een maatschappelijk werker onderzoekt de situatie thuis."
+        ],
+        "fr": [
+          "L'aidant est majeur et apporte régulièrement une aide durable et non rémunérée qui permet à la personne de rester chez elle ; le lien de parenté ne compte pas et l'aidant ne doit pas habiter avec elle.",
+          "La personne aidée a au moins 65 ans, est domiciliée à Grimbergen, y est aidée et vit à domicile (pas en résidence-service, maison de repos ou autre forme d'habitat).",
+          "La dépendance est établie par l'échelle d'évaluation remplie par le médecin traitant ; un travailleur social vérifie la situation à domicile."
+        ],
+        "de": [
+          "Die Pflegeperson ist volljährig und leistet regelmäßig langfristige, unbezahlte Hilfe, damit die Person zu Hause bleiben kann; Verwandtschaft spielt keine Rolle, und sie muss nicht mit ihr zusammenwohnen.",
+          "Die gepflegte Person ist mindestens 65 Jahre alt, in Grimbergen wohnhaft, wird dort gepflegt und lebt zu Hause (nicht in einer Assistenzwohnung, einem Pflegeheim oder einer anderen Wohnform).",
+          "Der Pflegebedarf ergibt sich aus der vom Hausarzt ausgefüllten Bewertungsskala; eine Sozialarbeiterin prüft die Situation zu Hause."
+        ]
+      }
+    }
+  },
+  {
+    "id": 513,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13010"
+    ],
+    "institution": "Gemeente Grobbendonk",
+    "verified": "19 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.grobbendonk.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Grobbendonk)",
+        "desc": "Grobbendonk gives a one-off yearly premium in Grobbendonk gift vouchers to registered carers of a resident with a recognised care need.",
+        "deadline": "Apply between 1 January and 15 December of the current year.",
+        "amount": "€100 with increased reimbursement (verhoogde tegemoetkoming), €50 without; for a second person at the same address €50 or €25",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Your name and phone number (the service centre handles the rest)"
+          }
+        ],
+        "steps": [
+          "Apply at the reception of the local service centre 't Trefpunt (Schransstraat 51), at the weekly care drop-in, or by e-mail to info.ldc@grobbendonk.be",
+          "The premium is paid in Grobbendonk gift vouchers"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Grobbendonk)",
+        "desc": "Grobbendonk geeft geregistreerde mantelzorgers van een erkend zorgbehoevende inwoner een eenmalige jaarlijkse premie in Grobbendonkse cadeaucheques.",
+        "deadline": "Aanvragen tussen 1 januari en 15 december van het lopende jaar.",
+        "amount": "€100 met verhoogde tegemoetkoming, €50 zonder; voor een tweede zorgbehoevende op hetzelfde adres €50 of €25",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Je naam en telefoonnummer (het dienstencentrum doet de rest)"
+          }
+        ],
+        "steps": [
+          "Vraag aan aan het onthaal van het lokaal dienstencentrum 't Trefpunt (Schransstraat 51), tijdens de zitdag zorg of via info.ldc@grobbendonk.be",
+          "De premie wordt uitbetaald in Grobbendonkse cadeaucheques"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Grobbendonk)",
+        "desc": "Grobbendonk offre chaque année une prime unique en chèques-cadeaux de Grobbendonk aux aidants proches enregistrés d'un habitant dont la dépendance est reconnue.",
+        "deadline": "Demande entre le 1er janvier et le 15 décembre de l'année en cours.",
+        "amount": "100 € avec l'intervention majorée, 50 € sans ; pour une deuxième personne à la même adresse 50 € ou 25 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Votre nom et votre numéro de téléphone (le centre de services s'occupe du reste)"
+          }
+        ],
+        "steps": [
+          "Faites la demande à l'accueil du centre de services local 't Trefpunt (Schransstraat 51), lors de la permanence soins ou par e-mail à info.ldc@grobbendonk.be",
+          "La prime est versée en chèques-cadeaux de Grobbendonk"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Grobbendonk)",
+        "desc": "Grobbendonk gibt registrierten pflegenden Angehörigen eines anerkannt pflegebedürftigen Einwohners jährlich eine einmalige Prämie in Grobbendonker Geschenkgutscheinen.",
+        "deadline": "Antrag zwischen dem 1. Januar und dem 15. Dezember des laufenden Jahres.",
+        "amount": "100 € mit erhöhter Kostenerstattung, 50 € ohne; für eine zweite Person an derselben Adresse 50 € oder 25 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ihr Name und Ihre Telefonnummer (das Dienstleistungszentrum erledigt den Rest)"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie am Empfang des lokalen Dienstleistungszentrums 't Trefpunt (Schransstraat 51), in der Pflegesprechstunde oder per E-Mail an info.ldc@grobbendonk.be",
+          "Die Prämie wird in Grobbendonker Geschenkgutscheinen ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "19 Nov 2026",
+      "source_url": [
+        "https://www.grobbendonk.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The carer lives in Grobbendonk, is an adult or emancipated minor, gives long-term unpaid extra care at home and is registered as a carer by the care fund (zorgkas).",
+          "The person cared for lives in Grobbendonk, at home, needs help with daily tasks such as washing, dressing and eating, and is recognised by the care fund with a right to the care budget.",
+          "One premium per person cared for; a carer can receive it for at most 2 people. The full €100 needs increased reimbursement from the health fund."
+        ],
+        "nl": [
+          "De mantelzorger woont in Grobbendonk, is meerderjarig of een ontvoogde minderjarige, biedt langdurig en onbezoldigd extra thuiszorg en is door de zorgkas geregistreerd als mantelzorger.",
+          "De zorgbehoevende woont in Grobbendonk, thuis, heeft hulp nodig bij wassen, aankleden, eten, drinken ... en is door de zorgkas erkend met recht op een zorgbudget voor mantel- en thuiszorg.",
+          "Eén premie per zorgbehoevende; een mantelzorger kan de premie voor maximaal 2 zorgbehoevenden krijgen. De volle €100 vraagt een verhoogde tegemoetkoming via het ziekenfonds."
+        ],
+        "fr": [
+          "L'aidant habite Grobbendonk, est majeur ou mineur émancipé, apporte durablement une aide supplémentaire non rémunérée à domicile et est enregistré comme aidant proche par la caisse d'assurance soins.",
+          "La personne aidée habite Grobbendonk, vit à domicile, a besoin d'aide pour se laver, s'habiller, manger, boire… et est reconnue par la caisse d'assurance soins avec droit au budget de soins.",
+          "Une prime par personne aidée ; un aidant peut la recevoir pour 2 personnes au maximum. Les 100 € complets supposent l'intervention majorée de la mutualité."
+        ],
+        "de": [
+          "Die Pflegeperson wohnt in Grobbendonk, ist volljährig oder ein für mündig erklärter Minderjähriger, leistet langfristig unbezahlte zusätzliche Hilfe zu Hause und ist bei der Pflegekasse als pflegende Person registriert.",
+          "Die gepflegte Person wohnt in Grobbendonk zu Hause, braucht Hilfe beim Waschen, Anziehen, Essen, Trinken … und ist von der Pflegekasse mit Anspruch auf das Pflegebudget anerkannt.",
+          "Eine Prämie pro gepflegter Person; eine Pflegeperson kann sie für höchstens 2 Personen erhalten. Die vollen 100 € setzen die erhöhte Kostenerstattung der Krankenkasse voraus."
+        ]
+      }
+    }
+  },
+  {
+    "id": 514,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24033"
+    ],
+    "institution": "OCMW Haacht",
+    "verified": "19 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.haacht.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Haacht)",
+        "desc": "Haacht's OCMW pays a quarterly premium to residents who give long-term unpaid care to a person with a proven care need living at home in Haacht.",
+        "deadline": "No deadline: the premium starts from the first quarter after the application.",
+        "amount": "€90 a quarter, paid at the end of the quarter's first month",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of the care need: a BEL score for family care, a positive BelRAI screener, a care fund certificate or a decision of the FOD Social Security"
+          }
+        ],
+        "steps": [
+          "Apply on 016 61 91 11 or welzijn@haacht.be",
+          "A social worker visits at home to fill in the form and gather the proofs",
+          "The special committee for the social service decides within 30 days; the premium is reviewed every year"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Haacht)",
+        "desc": "Het OCMW van Haacht betaalt een premie per kwartaal aan inwoners die langdurig en onbetaald zorgen voor een thuiswonende, aantoonbaar zorgbehoevende inwoner van Haacht.",
+        "deadline": "Geen termijn: de premie loopt vanaf het eerste kwartaal na de aanvraag.",
+        "amount": "€90 per kwartaal, betaald op het einde van de eerste maand van het kwartaal",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van zorgbehoevendheid: belscore gezinszorg, positief resultaat op de BelRAI-screener, attest zorgkas of beslissing van de FOD Sociale Zekerheid"
+          }
+        ],
+        "steps": [
+          "Vraag aan via 016 61 91 11 of welzijn@haacht.be",
+          "Een maatschappelijk werker komt op huisbezoek om het formulier in te vullen en de bewijsstukken te verzamelen",
+          "Het bijzonder comité voor de sociale dienst beslist binnen 30 dagen; de premie wordt jaarlijks herzien"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Haacht)",
+        "desc": "Le CPAS (OCMW) de Haacht verse une prime trimestrielle aux habitants qui aident durablement et bénévolement un habitant de Haacht vivant à domicile, dont la dépendance est prouvée.",
+        "deadline": "Pas de délai : la prime court à partir du premier trimestre qui suit la demande.",
+        "amount": "90 € par trimestre, payés à la fin du premier mois du trimestre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une preuve de la dépendance : score BEL pour l'aide familiale, résultat positif au screener BelRAI, attestation de la caisse d'assurance soins ou décision du SPF Sécurité sociale"
+          }
+        ],
+        "steps": [
+          "Faites la demande au 016 61 91 11 ou à welzijn@haacht.be",
+          "Un travailleur social vient à domicile pour remplir le formulaire et réunir les preuves",
+          "Le comité spécial du service social décide dans les 30 jours ; la prime est revue chaque année"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Haacht)",
+        "desc": "Das ÖSHZ (OCMW) Haacht zahlt Einwohnern eine vierteljährliche Prämie, wenn sie langfristig und unbezahlt einen zu Hause lebenden, nachweislich pflegebedürftigen Einwohner von Haacht versorgen.",
+        "deadline": "Keine Frist: Die Prämie läuft ab dem ersten Quartal nach dem Antrag.",
+        "amount": "90 € pro Quartal, gezahlt am Ende des ersten Monats des Quartals",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis des Pflegebedarfs: BEL-Score der Familienhilfe, positives BelRAI-Screening, Bescheinigung der Pflegekasse oder Beschluss des FÖD Soziale Sicherheit"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie unter 016 61 91 11 oder welzijn@haacht.be",
+          "Eine Sozialarbeiterin besucht Sie zu Hause, füllt das Formular aus und sammelt die Nachweise",
+          "Der Sonderausschuss für den Sozialdienst entscheidet binnen 30 Tagen; die Prämie wird jährlich überprüft"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "19 Nov 2026",
+      "source_url": [
+        "https://www.haacht.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The carer is a family member, friend, acquaintance or neighbour of the person, gives long-term unpaid extra care at home and lives in Haacht.",
+          "The person cared for lives in Haacht, at home (alone or with others), and needs help with daily tasks such as washing, dressing, eating and drinking, proven by a BEL score, BelRAI screener, care fund certificate or FOD Social Security decision.",
+          "The premium stops on death, admission to a care home or when the conditions are no longer met; you must report changes to OCMW Haacht."
+        ],
+        "nl": [
+          "De mantelzorger is een familielid, vriend, kennis of buur van de zorgbehoevende, biedt langdurig en onbezoldigd extra thuiszorg en is inwoner van Haacht.",
+          "De zorgbehoevende is inwoner van Haacht, woont thuis (zelfstandig of inwonend) en heeft hulp nodig bij wassen, aankleden, eten, drinken ..., aangetoond met een belscore, BelRAI-screener, attest zorgkas of beslissing van de FOD Sociale Zekerheid.",
+          "De premie stopt bij overlijden, opname in een woonzorgcentrum of als niet meer aan de voorwaarden wordt voldaan; wijzigingen meld je aan OCMW Haacht."
+        ],
+        "fr": [
+          "L'aidant est un membre de la famille, un ami, une connaissance ou un voisin, apporte durablement une aide supplémentaire non rémunérée à domicile et habite Haacht.",
+          "La personne aidée habite Haacht, vit à domicile (seule ou chez quelqu'un) et a besoin d'aide pour se laver, s'habiller, manger, boire…, prouvé par un score BEL, le screener BelRAI, une attestation de la caisse d'assurance soins ou une décision du SPF Sécurité sociale.",
+          "La prime s'arrête en cas de décès, d'entrée en maison de repos ou quand les conditions ne sont plus remplies ; tout changement doit être signalé à l'OCMW de Haacht."
+        ],
+        "de": [
+          "Die Pflegeperson ist ein Familienmitglied, Freund, Bekannter oder Nachbar, leistet langfristig unbezahlte zusätzliche Hilfe zu Hause und wohnt in Haacht.",
+          "Die gepflegte Person wohnt in Haacht zu Hause (allein oder bei anderen) und braucht Hilfe beim Waschen, Anziehen, Essen, Trinken …, nachgewiesen durch BEL-Score, BelRAI-Screening, Bescheinigung der Pflegekasse oder Beschluss des FÖD Soziale Sicherheit.",
+          "Die Prämie endet bei Tod, Aufnahme in ein Pflegeheim oder wenn die Bedingungen nicht mehr erfüllt sind; Änderungen sind dem OCMW Haacht zu melden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 515,
+    "category": "housing",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24033"
+    ],
+    "institution": "Gemeente Haacht",
+    "verified": "19 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.haacht.be/gemeentelijke-aanpassingspremie",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke aanpassingspremie (Home Adaptation Top-Up for Older and Disabled People, Haacht)",
+        "desc": "Haacht adds half of the Vlaams-Brabant provincial adaptation premium for works that adapt a home in Haacht to an older or disabled person's physical needs.",
+        "deadline": "Apply together with the provincial adaptation premium.",
+        "amount": "50% of the provincial premium, up to €1,000 per application and never more than the cost left after all premiums",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed explanatory note (toelichtingsnota) from Haacht's website, added to your provincial application"
+          }
+        ],
+        "steps": [
+          "Apply for the provincial adaptation premium of Vlaams-Brabant",
+          "Add Haacht's completed explanatory note to that application; no separate request to the commune is needed",
+          "The WoonEnergieloket can help with the forms; the care team follows up the payment"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke aanpassingspremie voor ouderen en personen met een handicap (Haacht)",
+        "desc": "Haacht legt de helft bij van de provinciale aanpassingspremie van Vlaams-Brabant voor werken die een woning in Haacht aanpassen aan de fysieke noden van ouderen en personen met een handicap.",
+        "deadline": "Samen met de aanvraag van de provinciale aanpassingspremie.",
+        "amount": "50% van de provinciale premie, maximaal €1.000 per aanvraag en nooit meer dan het restbedrag na alle premies",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De ingevulde toelichtingsnota van de website van Haacht, gevoegd bij je provinciale aanvraag"
+          }
+        ],
+        "steps": [
+          "Vraag de provinciale aanpassingspremie aan bij provincie Vlaams-Brabant",
+          "Voeg de ingevulde toelichtingsnota van Haacht bij die aanvraag; een aparte aanvraag bij de gemeente is niet nodig",
+          "Het Woonenergieloket helpt bij het invullen; het Zorgteam volgt de uitbetaling op"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke aanpassingspremie (complément communal pour l'adaptation du logement des aînés et personnes handicapées, Haacht)",
+        "desc": "Haacht ajoute la moitié de la prime provinciale d'adaptation du Brabant flamand pour les travaux qui adaptent un logement à Haacht aux besoins physiques d'une personne âgée ou handicapée.",
+        "deadline": "Avec la demande de prime provinciale d'adaptation.",
+        "amount": "50 % de la prime provinciale, maximum 1.000 € par demande et jamais plus que le reste à charge après toutes les primes",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La note explicative (toelichtingsnota) du site de Haacht, complétée et jointe à votre demande provinciale"
+          }
+        ],
+        "steps": [
+          "Demandez la prime provinciale d'adaptation à la province du Brabant flamand",
+          "Joignez à cette demande la note explicative de Haacht complétée ; aucune demande séparée à la commune n'est nécessaire",
+          "Le WoonEnergieloket aide à remplir les documents ; l'équipe soins suit le paiement"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke aanpassingspremie (Gemeindezuschuss zur Wohnungsanpassung für Ältere und Menschen mit Behinderung, Haacht)",
+        "desc": "Haacht legt die Hälfte der Anpassungsprämie der Provinz Flämisch-Brabant drauf, wenn eine Wohnung in Haacht an die körperlichen Bedürfnisse älterer oder behinderter Menschen angepasst wird.",
+        "deadline": "Zusammen mit dem Antrag auf die Anpassungsprämie der Provinz.",
+        "amount": "50 % der Provinzprämie, höchstens 1.000 € pro Antrag und nie mehr als der Restbetrag nach allen Prämien",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die ausgefüllte Erläuterung (toelichtingsnota) von der Website Haachts, beigefügt zum Provinzantrag"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Anpassungsprämie bei der Provinz Flämisch-Brabant",
+          "Fügen Sie die ausgefüllte Erläuterung Haachts bei; ein eigener Antrag bei der Gemeinde ist nicht nötig",
+          "Das WoonEnergieloket hilft beim Ausfüllen; das Pflegeteam betreut die Auszahlung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "19 Nov 2026",
+      "source_url": [
+        "https://www.haacht.be/gemeentelijke-aanpassingspremie"
+      ],
+      "conditions": {
+        "en": [
+          "You receive the provincial adaptation premium of the province of Vlaams-Brabant for adapting the home to the physical needs of an older or disabled person.",
+          "The home is in Haacht.",
+          "The cost left after all premiums must be at least €50 to be paid."
+        ],
+        "nl": [
+          "Je ontvangt de provinciale aanpassingspremie van provincie Vlaams-Brabant voor het aanpassen van de woning aan de fysieke noden van ouderen of personen met een handicap.",
+          "De woning ligt in Haacht.",
+          "Het restbedrag na aftrek van alle premies moet minstens €50 zijn om uitbetaald te worden."
+        ],
+        "fr": [
+          "Vous recevez la prime provinciale d'adaptation de la province du Brabant flamand pour adapter le logement aux besoins physiques d'une personne âgée ou handicapée.",
+          "Le logement se trouve à Haacht.",
+          "Le reste à charge après déduction de toutes les primes doit être d'au moins 50 € pour être payé."
+        ],
+        "de": [
+          "Sie erhalten die Anpassungsprämie der Provinz Flämisch-Brabant für die Anpassung der Wohnung an die körperlichen Bedürfnisse älterer oder behinderter Menschen.",
+          "Die Wohnung liegt in Haacht.",
+          "Der Restbetrag nach Abzug aller Prämien muss mindestens 50 € betragen, damit gezahlt wird."
+        ]
+      }
+    }
+  },
+  {
+    "id": 516,
+    "category": "other",
+    "situations": [
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "62032"
+    ],
+    "institution": "Commune d'Esneux",
+    "verified": "19 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.esneux.be/vie-pratique/sports/cheque-sport.html",
+    "amount_source_url": "https://www.esneux.be/uploads/images/Sport/Reglement.pdf",
+    "content": {
+      "en": {
+        "title": "Chèque sport (Sports Voucher, Esneux)",
+        "desc": "Esneux pays €20 towards the yearly sports club fee of children aged 4 to 18 and of pensioners on a modest income.",
+        "deadline": "Until the budget runs out, and by 15 December 2026 at the latest.",
+        "amount": "€20 a year per person, at most 80% of the club fee",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition certificate"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the tax assessment (avertissement-extrait de rôle) for the year before"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment of the club membership"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the bank card of the account for the payment"
+          },
+          {
+            "type": "doc",
+            "label": "For pensioners: an official document from the pension body"
+          }
+        ],
+        "steps": [
+          "Join a sports club recognised by an official sports federation",
+          "Send the form and documents to l'Escale, avenue de la Station 80, 4130 Esneux, by e-mail to sports@esneux.be, or hand them in at l'Escale",
+          "The municipal College approves the list of beneficiaries and the amount is paid into your account"
+        ]
+      },
+      "nl": {
+        "title": "Chèque sport (sportcheque, Esneux)",
+        "desc": "Esneux betaalt €20 terug van het jaarlijkse lidgeld van een sportclub voor kinderen van 4 tot 18 jaar en voor gepensioneerden met een bescheiden inkomen.",
+        "deadline": "Zolang het budget strekt, en ten laatste op 15 december 2026.",
+        "amount": "€20 per jaar per persoon, maximaal 80% van het lidgeld",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het aanslagbiljet van het jaar ervoor"
+          },
+          {
+            "type": "doc",
+            "label": "Het betalingsbewijs van het lidgeld"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de bankkaart van de rekening voor de betaling"
+          },
+          {
+            "type": "doc",
+            "label": "Voor gepensioneerden: een officieel document van de pensioeninstelling"
+          }
+        ],
+        "steps": [
+          "Word lid van een sportclub die erkend is door een officiële sportfederatie",
+          "Stuur het formulier en de documenten naar l'Escale, avenue de la Station 80, 4130 Esneux, mail ze naar sports@esneux.be of geef ze af aan het onthaal van l'Escale",
+          "Het college keurt de lijst van begunstigden goed en het bedrag wordt op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Chèque sport (Esneux)",
+        "desc": "Esneux rembourse 20 € de la cotisation annuelle d'un club sportif aux enfants de 4 à 18 ans et aux pensionnés aux revenus modestes.",
+        "deadline": "Jusqu'à épuisement du budget, et au plus tard le 15 décembre 2026.",
+        "amount": "20 € par an et par personne, au maximum 80 % de la cotisation",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Un certificat de composition de ménage"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de l'avertissement-extrait de rôle de l'année précédente"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de paiement de l'affiliation au club"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la carte bancaire du compte de versement"
+          },
+          {
+            "type": "doc",
+            "label": "Pour les aînés : un document officiel de l'organisme de pension"
+          }
+        ],
+        "steps": [
+          "Affiliez-vous à un club reconnu par une fédération sportive officielle",
+          "Envoyez le formulaire et les documents à l'Escale, avenue de la Station 80, 4130 Esneux, par e-mail à sports@esneux.be, ou déposez-les à l'accueil de l'Escale",
+          "Le Collège communal approuve la liste des bénéficiaires et le montant est versé sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Chèque sport (Sportscheck, Esneux)",
+        "desc": "Esneux erstattet 20 € des Jahresbeitrags eines Sportvereins für Kinder von 4 bis 18 Jahren und für Rentner mit bescheidenem Einkommen.",
+        "deadline": "Solange das Budget reicht, spätestens am 15. Dezember 2026.",
+        "amount": "20 € pro Jahr und Person, höchstens 80 % des Vereinsbeitrags",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des Steuerbescheids des Vorjahres"
+          },
+          {
+            "type": "doc",
+            "label": "Der Zahlungsnachweis des Vereinsbeitrags"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Bankkarte des Kontos für die Auszahlung"
+          },
+          {
+            "type": "doc",
+            "label": "Für Rentner: ein offizielles Dokument der Pensionskasse"
+          }
+        ],
+        "steps": [
+          "Treten Sie einem von einem offiziellen Sportverband anerkannten Verein bei",
+          "Senden Sie Formular und Unterlagen an l'Escale, avenue de la Station 80, 4130 Esneux, per E-Mail an sports@esneux.be oder geben Sie sie am Empfang von l'Escale ab",
+          "Das Gemeindekollegium genehmigt die Liste der Begünstigten, und der Betrag wird auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "19 Nov 2026",
+      "source_url": [
+        "https://www.esneux.be/vie-pratique/sports/cheque-sport.html",
+        "https://www.esneux.be/uploads/images/Sport/Reglement.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The young person or pensioner has their domicile in Esneux; young people are 4 to 18 years old, pensioners prove their pension status with an official document.",
+          "Young people: the household's taxable income of the year before is below €33,600 with 1 dependant, €39,200 with 2, €44,800 with 3, €50,400 with 4, €56,000 with 5, plus €5,600 per extra dependant.",
+          "Pensioners: taxable income of the year before is below €24,700 for a single person or €30,300 for a household pension.",
+          "One voucher per person per year; it cannot be combined with other CPAS help for sport."
+        ],
+        "nl": [
+          "De jongere of gepensioneerde is gedomicilieerd in Esneux; jongeren zijn 4 tot 18 jaar, gepensioneerden bewijzen hun pensioen met een officieel document.",
+          "Jongeren: het belastbaar gezinsinkomen van het jaar ervoor ligt onder €33.600 met 1 persoon ten laste, €39.200 met 2, €44.800 met 3, €50.400 met 4, €56.000 met 5, plus €5.600 per extra persoon.",
+          "Gepensioneerden: het belastbaar inkomen van het jaar ervoor ligt onder €24.700 voor een alleenstaande of €30.300 voor een gezinspensioen.",
+          "Eén cheque per persoon per jaar; niet te combineren met andere sporthulp van het OCMW."
+        ],
+        "fr": [
+          "Le jeune ou l'aîné est domicilié à Esneux ; les jeunes ont de 4 à 18 ans inclus, les aînés prouvent leur statut de pensionné par un document officiel.",
+          "Jeunes : les revenus imposables du ménage de l'année précédente sont inférieurs à 33.600 € avec 1 personne à charge, 39.200 € avec 2, 44.800 € avec 3, 50.400 € avec 4, 56.000 € avec 5, plus 5.600 € par personne supplémentaire.",
+          "Aînés : les revenus imposables de l'année précédente sont inférieurs à 24.700 € pour une personne isolée ou 30.300 € pour une pension de ménage.",
+          "Un chèque par personne et par an ; non cumulable avec une autre aide du CPAS en matière sportive."
+        ],
+        "de": [
+          "Der junge Mensch oder Rentner ist in Esneux wohnhaft; junge Menschen sind 4 bis 18 Jahre alt, Rentner weisen ihren Status mit einem offiziellen Dokument nach.",
+          "Junge Menschen: Das steuerpflichtige Haushaltseinkommen des Vorjahres liegt unter 33.600 € bei 1 unterhaltsberechtigten Person, 39.200 € bei 2, 44.800 € bei 3, 50.400 € bei 4, 56.000 € bei 5, plus 5.600 € je weiterer Person.",
+          "Rentner: Das steuerpflichtige Einkommen des Vorjahres liegt unter 24.700 € für Alleinstehende oder 30.300 € bei einer Haushaltsrente.",
+          "Ein Scheck pro Person und Jahr; nicht mit anderer Sporthilfe des ÖSHZ kombinierbar."
+        ]
+      }
+    }
+  },
+  {
+    "id": 517,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "41024"
+    ],
+    "institution": "Lokaal Bestuur Haaltert",
+    "verified": "19 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.haaltert.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Haaltert)",
+        "desc": "Haaltert pays a yearly premium to residents with a recognised care need who are helped by a carer at home.",
+        "deadline": "Apply every year between 1 October and 31 December.",
+        "amount": "€200 a year (adult with at least 12 points), €400 with RVT status, €600 for a child under 18 or an adult under administration for a disability from before 18; pro rata for part of a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, signed by the person cared for (or representative) and the carer"
+          },
+          {
+            "type": "doc",
+            "label": "The documents listed on the form, such as the FOD Social Security or Opgroeien certificate"
+          }
+        ],
+        "steps": [
+          "Fill in the form online, on paper from the Sociaal Huis, from the Mahazine or as a PDF",
+          "Hand it in via the e-counter, or on paper at Sociale Zaken by appointment (053 85 86 35, socialezaken@haaltert.be); do not use the letterbox, as you need a receipt",
+          "Approved premiums are paid in the first quarter of the next year"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Haaltert)",
+        "desc": "Haaltert betaalt een jaarlijkse premie aan erkend zorgbehoevende inwoners die thuis bijgestaan worden door een mantelzorger.",
+        "deadline": "Elk jaar aanvragen tussen 1 oktober en 31 december.",
+        "amount": "€200 per jaar (meerderjarige met minstens 12 punten), €400 met RVT-statuut, €600 voor een minderjarige of een meerderjarige onder bewindvoering door een handicap van vóór 18; à rato voor een deel van het jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ondertekend door de zorgbehoevende (of vertegenwoordiger) en de mantelzorger"
+          },
+          {
+            "type": "doc",
+            "label": "De documenten die op het formulier staan, zoals het attest van de FOD Sociale Zekerheid of van Opgroeien"
+          }
+        ],
+        "steps": [
+          "Vul het formulier in: online, op papier in het Sociaal Huis, uit het Mahazine of als pdf",
+          "Dien in via het e-loket of op papier bij Sociale Zaken na afspraak (053 85 86 35, socialezaken@haaltert.be); gebruik de postbus niet, want je hebt een ontvangstbevestiging nodig",
+          "Goedgekeurde premies worden in het eerste kwartaal van het volgende jaar uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Haaltert)",
+        "desc": "Haaltert verse une prime annuelle aux habitants dont la dépendance est reconnue et qui sont aidés à domicile par un aidant proche.",
+        "deadline": "Demande chaque année entre le 1er octobre et le 31 décembre.",
+        "amount": "200 € par an (adulte avec au moins 12 points), 400 € avec le statut MRS (RVT), 600 € pour un enfant mineur ou un adulte sous administration pour un handicap survenu avant 18 ans ; au prorata pour une partie de l'année",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, signé par la personne aidée (ou son représentant) et l'aidant"
+          },
+          {
+            "type": "doc",
+            "label": "Les documents indiqués sur le formulaire, comme l'attestation du SPF Sécurité sociale ou d'Opgroeien"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire en ligne, sur papier au Sociaal Huis, dans le Mahazine ou en PDF",
+          "Déposez-le via l'e-guichet ou sur papier aux Affaires sociales sur rendez-vous (053 85 86 35, socialezaken@haaltert.be) ; n'utilisez pas la boîte aux lettres, car il vous faut un accusé de réception",
+          "Les primes approuvées sont payées au premier trimestre de l'année suivante"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Haaltert)",
+        "desc": "Haaltert zahlt anerkannt pflegebedürftigen Einwohnern, die zu Hause von einer pflegenden Person unterstützt werden, eine jährliche Prämie.",
+        "deadline": "Antrag jedes Jahr zwischen dem 1. Oktober und dem 31. Dezember.",
+        "amount": "200 € pro Jahr (Erwachsene mit mindestens 12 Punkten), 400 € mit RVT-Status, 600 € für Minderjährige oder Erwachsene unter Betreuung wegen einer Behinderung vor 18; anteilig für einen Teil des Jahres",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, unterschrieben von der gepflegten Person (oder ihrem Vertreter) und der Pflegeperson"
+          },
+          {
+            "type": "doc",
+            "label": "Die auf dem Formular genannten Unterlagen, etwa die Bescheinigung des FÖD Soziale Sicherheit oder von Opgroeien"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular online, auf Papier im Sociaal Huis, aus dem Mahazine oder als PDF aus",
+          "Reichen Sie es über den E-Schalter oder auf Papier nach Termin bei Sociale Zaken ein (053 85 86 35, socialezaken@haaltert.be); nicht in den Briefkasten werfen, da Sie eine Empfangsbestätigung brauchen",
+          "Genehmigte Prämien werden im ersten Quartal des Folgejahres ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "19 Nov 2026",
+      "source_url": [
+        "https://www.haaltert.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for has their domicile in Haaltert and does not live in a residential institution.",
+          "Under 18: a certificate from Opgroeien with at least 4 points in pillar 1. 18 or over: a FOD Social Security certificate with at least 12 points.",
+          "The €400 rate needs RVT status as well; the €600 rate covers minors, and adults under administration because of a disability established before 18 with at least 12 points."
+        ],
+        "nl": [
+          "De zorgbehoevende is gedomicilieerd in Haaltert en verblijft niet in een residentiële instelling.",
+          "Jonger dan 18: een attest van Opgroeien met minimaal 4 punten in pijler 1. 18 of ouder: een attest van de FOD Sociale Zekerheid met minimaal 12 punten.",
+          "Voor €400 is ook het RVT-statuut nodig; €600 geldt voor minderjarigen en voor meerderjarigen onder bewindvoering door een beperking vastgesteld vóór 18 met minimaal 12 punten."
+        ],
+        "fr": [
+          "La personne aidée est domiciliée à Haaltert et ne réside pas dans une institution résidentielle.",
+          "Moins de 18 ans : une attestation d'Opgroeien d'au moins 4 points au pilier 1. 18 ans ou plus : une attestation du SPF Sécurité sociale d'au moins 12 points.",
+          "Le taux de 400 € exige en plus le statut MRS (RVT) ; 600 € vaut pour les mineurs et les adultes sous administration en raison d'un handicap constaté avant 18 ans avec au moins 12 points."
+        ],
+        "de": [
+          "Die gepflegte Person ist in Haaltert wohnhaft und lebt nicht in einer stationären Einrichtung.",
+          "Unter 18: eine Bescheinigung von Opgroeien mit mindestens 4 Punkten in Säule 1. Ab 18: eine Bescheinigung des FÖD Soziale Sicherheit mit mindestens 12 Punkten.",
+          "Für 400 € ist zusätzlich der RVT-Status nötig; 600 € gelten für Minderjährige und für Erwachsene unter Betreuung wegen einer vor 18 festgestellten Behinderung mit mindestens 12 Punkten."
+        ]
+      }
+    }
   }
 ]
