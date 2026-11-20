@@ -64446,5 +64446,1378 @@
         ]
       }
     }
+  },
+  {
+    "id": 518,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "57027"
+    ],
+    "institution": "Commune d'Estaimpuis",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.estaimpuis.be/%F0%9F%A7%B7%F0%9F%A7%91%F0%9F%8D%BCprime-communale-sur-les-couches-lavables/",
+    "content": {
+      "en": {
+        "title": "Prime aux langes lavables (Washable Nappy Premium, Estaimpuis)",
+        "desc": "Estaimpuis refunds half of what parents spend on a set of washable nappies for a child under two and a half.",
+        "deadline": "Apply before the child turns 2½. Invoices must date from 1 January 2026 or later, and not from before the child's registration in Estaimpuis.",
+        "amount": "50% of the invoice, up to €100, once per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the invoice(s) showing what the nappy set contains"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition certificate"
+          }
+        ],
+        "steps": [
+          "Ask the Finance department (Service finances) of the commune for the form \"Demande de prime à l'achat de langes lavables\"",
+          "Hand in the form, dated and signed by the father, mother or guardian, with the invoice and the household composition",
+          "The College decides and pays the premium within the available budget"
+        ]
+      },
+      "nl": {
+        "title": "Prime aux langes lavables (premie herbruikbare luiers, Estaimpuis)",
+        "desc": "Estaimpuis betaalt de helft terug van wat ouders uitgeven aan een set herbruikbare luiers voor een kind jonger dan tweeënhalf.",
+        "deadline": "Aanvragen voor het kind 2,5 jaar wordt. De facturen dateren van 1 januari 2026 of later, en niet van vóór de inschrijving van het kind in Estaimpuis.",
+        "amount": "50% van de factuur, maximaal €100, één keer per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de factuur of facturen met de inhoud van de luierset"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van gezinssamenstelling"
+          }
+        ],
+        "steps": [
+          "Vraag bij de financiële dienst (Service finances) van de gemeente het formulier \"Demande de prime à l'achat de langes lavables\"",
+          "Dien het formulier in, gedateerd en ondertekend door vader, moeder of voogd, met de factuur en de gezinssamenstelling",
+          "Het college beslist en betaalt de premie uit binnen het beschikbare budget"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'achat de langes lavables (Estaimpuis)",
+        "desc": "Estaimpuis rembourse la moitié de l'achat d'un lot de langes lavables pour un enfant de moins de deux ans et demi.",
+        "deadline": "Demande avant que l'enfant n'atteigne 2,5 ans. Les factures ne peuvent être antérieures au 1er janvier 2026 ni à l'inscription de l'enfant à Estaimpuis.",
+        "amount": "50 % de la facture, au maximum 100 €, une fois par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la ou des factures détaillant la composition du lot"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire « Demande de prime à l'achat de langes lavables » au Service finances de l'Administration communale",
+          "Remettez le formulaire daté et signé par le père, la mère ou le tuteur, avec la facture et la composition de ménage",
+          "Le Collège communal statue et libère la prime dans les limites des crédits disponibles"
+        ]
+      },
+      "de": {
+        "title": "Prime aux langes lavables (Prämie für Stoffwindeln, Estaimpuis)",
+        "desc": "Estaimpuis erstattet die Hälfte der Kosten für ein Set Stoffwindeln für ein Kind unter zweieinhalb Jahren.",
+        "deadline": "Antrag, bevor das Kind 2,5 Jahre alt wird. Die Rechnungen stammen vom 1. Januar 2026 oder später und nicht von vor der Eintragung des Kindes in Estaimpuis.",
+        "amount": "50 % der Rechnung, höchstens 100 €, einmal pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Rechnung(en) mit dem Inhalt des Windelsets"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Haushaltszusammensetzung"
+          }
+        ],
+        "steps": [
+          "Fordern Sie beim Finanzdienst (Service finances) der Gemeinde das Formular „Demande de prime à l'achat de langes lavables“ an",
+          "Reichen Sie das vom Vater, der Mutter oder dem Vormund datierte und unterschriebene Formular mit der Rechnung und der Haushaltszusammensetzung ein",
+          "Das Gemeindekollegium entscheidet und zahlt die Prämie im Rahmen der verfügbaren Mittel aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.estaimpuis.be/%F0%9F%A7%B7%F0%9F%A7%91%F0%9F%8D%BCprime-communale-sur-les-couches-lavables/",
+        "https://www.estaimpuis.be/wp-content/uploads/2026/02/Deliberation-Reglement-relatif-a-loctroi-dune-prime-communale-a-lachat-de-langes-lavables.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The applicant is the father, mother or legal guardian of a child under 2½, and both are registered in Estaimpuis's population register.",
+          "The set includes at least a waterproof cover, a washable nappy and a cotton insert.",
+          "Once per child and per household."
+        ],
+        "nl": [
+          "De aanvrager is vader, moeder of wettelijke voogd van een kind jonger dan 2,5 jaar, en beiden zijn ingeschreven in het bevolkingsregister van Estaimpuis.",
+          "De set bevat minstens een waterdicht overbroekje, een wasbare luier en een katoenen inlegger.",
+          "Eén keer per kind en per gezin."
+        ],
+        "fr": [
+          "Le demandeur est le père, la mère ou le tuteur légal d'un enfant de moins de 2,5 ans, et tous deux sont inscrits au registre de la population d'Estaimpuis.",
+          "Le lot comporte au moins une culotte de protection imperméable, une couche lavable et un insert en coton.",
+          "Une seule fois par enfant et par ménage."
+        ],
+        "de": [
+          "Antragsteller ist Vater, Mutter oder Vormund eines Kindes unter 2,5 Jahren; beide sind im Bevölkerungsregister von Estaimpuis eingetragen.",
+          "Das Set enthält mindestens eine wasserdichte Überhose, eine waschbare Windel und eine Baumwolleinlage.",
+          "Einmal pro Kind und Haushalt."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires the parent and the child to be in Estaimpuis's population register (registre de la population).",
+            "nl": "Niet voor jou: het reglement vereist dat ouder en kind in het bevolkingsregister (registre de la population) van Estaimpuis staan.",
+            "fr": "Pas pour vous : le règlement exige que le parent et l'enfant soient inscrits au registre de la population d'Estaimpuis.",
+            "de": "Nicht für Sie: Das Reglement verlangt, dass Elternteil und Kind im Bevölkerungsregister (registre de la population) von Estaimpuis stehen."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 519,
+    "category": "other",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "58003"
+    ],
+    "institution": "Commune d'Estinnes",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.estinnes.be/bouger-decouvrir/sport/cheque-sport/reglement-et-formulaires/reglement-communal-fixant-les-conditions-doctroi-des-cheques-sports.pdf/@@download/file/R%C3%A8glement%20communal%20fixant%20les%20conditions%20d%E2%80%99octroi%20des%20ch%C3%A8ques%20sports.pdf",
+    "content": {
+      "en": {
+        "title": "Chèque sport (Sports Voucher, Estinnes)",
+        "desc": "Estinnes pays €25 a year towards the club membership of young people aged 3 to 18 who play a sport.",
+        "deadline": "Apply before 31 October of the year concerned.",
+        "amount": "€25 per child per year, never more than the membership paid",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The official application form"
+          },
+          {
+            "type": "doc",
+            "label": "A sworn statement that the young person is registered at the club (form from the commune)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment of the membership (bank transfer or signed receipt from the club)"
+          }
+        ],
+        "steps": [
+          "Fill in the official form (one per child), signed by the young person or their legal representative",
+          "Send it with the documents to the Sports service, Chaussée Brunehault 232, 7120 Estinnes, or by e-mail to secretariat@estinnes.be",
+          "After the College approves it, the €25 is paid into the account on the form; you are told the decision by letter"
+        ]
+      },
+      "nl": {
+        "title": "Chèque sport (sportcheque, Estinnes)",
+        "desc": "Estinnes betaalt jaarlijks €25 terug van het clublidgeld van jongeren van 3 tot 18 jaar die een sport beoefenen.",
+        "deadline": "Aanvragen vóór 31 oktober van het betrokken jaar.",
+        "amount": "€25 per kind per jaar, nooit meer dan het betaalde lidgeld",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het officiële aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een verklaring op erewoord dat de jongere bij de club ingeschreven is (formulier van de gemeente)"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van betaling van het lidgeld (overschrijving of ondertekend ontvangstbewijs van de club)"
+          }
+        ],
+        "steps": [
+          "Vul het officiële formulier in (één per kind), ondertekend door de jongere of de wettelijke vertegenwoordiger",
+          "Stuur het met de documenten naar de sportdienst, Chaussée Brunehault 232, 7120 Estinnes, of per e-mail naar secretariat@estinnes.be",
+          "Na goedkeuring door het college wordt €25 gestort op de rekening op het formulier; je krijgt de beslissing per brief"
+        ]
+      },
+      "fr": {
+        "title": "Chèque sport (Estinnes)",
+        "desc": "Estinnes verse 25 € par an sur la cotisation à un club des jeunes de 3 à 18 ans qui pratiquent une activité physique.",
+        "deadline": "Demande avant le 31 octobre de l'année concernée.",
+        "amount": "25 € par enfant et par an, jamais plus que la cotisation payée",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande officiel"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation sur l'honneur d'inscription au club ou à l'association"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de paiement de la cotisation (virement ou reçu signé du club)"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire officiel (un par enfant), signé par le jeune ou son représentant légal",
+          "Envoyez-le avec les pièces au Service « Sports », Chaussée Brunehault 232, 7120 Estinnes, ou par courriel à secretariat@estinnes.be",
+          "Après accord du Collège communal, les 25 € sont versés sur le compte indiqué ; la décision vous est notifiée par courrier"
+        ]
+      },
+      "de": {
+        "title": "Chèque sport (Sportscheck, Estinnes)",
+        "desc": "Estinnes zahlt jungen Menschen von 3 bis 18 Jahren jährlich 25 € zum Vereinsbeitrag für eine Sportart.",
+        "deadline": "Antrag vor dem 31. Oktober des betreffenden Jahres.",
+        "amount": "25 € pro Kind und Jahr, nie mehr als der gezahlte Beitrag",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das offizielle Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine ehrenwörtliche Erklärung über die Vereinsmitgliedschaft (Formular der Gemeinde)"
+          },
+          {
+            "type": "doc",
+            "label": "Zahlungsnachweis des Beitrags (Überweisung oder unterschriebene Quittung des Vereins)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das offizielle Formular aus (eines pro Kind), unterschrieben vom jungen Menschen oder dem gesetzlichen Vertreter",
+          "Senden Sie es mit den Unterlagen an den Sportdienst, Chaussée Brunehault 232, 7120 Estinnes, oder per E-Mail an secretariat@estinnes.be",
+          "Nach Zustimmung des Kollegiums werden 25 € auf das angegebene Konto überwiesen; die Entscheidung erhalten Sie per Brief"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.estinnes.be/bouger-decouvrir/sport/cheque-sport/reglement-et-formulaires/reglement-communal-fixant-les-conditions-doctroi-des-cheques-sports.pdf/@@download/file/R%C3%A8glement%20communal%20fixant%20les%20conditions%20d%E2%80%99octroi%20des%20ch%C3%A8ques%20sports.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The young person is 3 to 18 years old and has their domicile in Estinnes (postcode 7120) when the request is made.",
+          "They pay a membership to a club or association recognised by a sports federation, in Estinnes or elsewhere.",
+          "Once per young person per calendar year, as long as the budget lasts (complete files are handled in order of arrival)."
+        ],
+        "nl": [
+          "De jongere is 3 tot 18 jaar en is bij de aanvraag gedomicilieerd in Estinnes (postcode 7120).",
+          "Hij of zij betaalt lidgeld aan een club of vereniging die erkend is door een sportfederatie, in Estinnes of elders.",
+          "Eén keer per jongere per kalenderjaar, zolang het budget strekt (volledige dossiers in volgorde van aankomst)."
+        ],
+        "fr": [
+          "Le jeune a entre 3 et 18 ans et est domicilié à Estinnes (code postal 7120) au moment de la demande.",
+          "Il pratique, moyennant cotisation, une activité physique dans un club ou une association reconnu par une fédération sportive, à Estinnes ou ailleurs.",
+          "Une fois par bénéficiaire et par année civile, dans la limite du budget (les dossiers complets sont traités par ordre d'arrivée)."
+        ],
+        "de": [
+          "Der junge Mensch ist 3 bis 18 Jahre alt und bei Antragstellung in Estinnes (Postleitzahl 7120) wohnhaft.",
+          "Er oder sie zahlt einen Beitrag an einen von einem Sportverband anerkannten Verein, in Estinnes oder anderswo.",
+          "Einmal pro Person und Kalenderjahr, solange das Budget reicht (vollständige Anträge in Reihenfolge des Eingangs)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 520,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "85009"
+    ],
+    "institution": "Commune d'Etalle",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.etalle.be/etalle/contenu/administration-communale/primes",
+    "content": {
+      "en": {
+        "title": "Prime de naissance (Birth Premium, Etalle)",
+        "desc": "Etalle pays a premium for each birth or adoption in a family living in the commune.",
+        "deadline": "Return the form the commune sends you after the birth notice.",
+        "amount": "€50 for the 1st and 2nd child, €100 for the 3rd child and each one after",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form sent by the commune"
+          }
+        ],
+        "steps": [
+          "After the birth notice, the commune sends the parents an application form",
+          "Fill it in and return it to the commune",
+          "Premiums are paid every quarter"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance (geboortepremie, Etalle)",
+        "desc": "Etalle betaalt een premie voor elke geboorte of adoptie in een gezin dat in de gemeente woont.",
+        "deadline": "Stuur het formulier terug dat de gemeente na de geboorteaangifte opstuurt.",
+        "amount": "€50 voor het 1e en 2e kind, €100 voor het 3e en elk volgend kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier dat de gemeente opstuurt"
+          }
+        ],
+        "steps": [
+          "Na de geboorteaangifte stuurt de gemeente de ouders een aanvraagformulier",
+          "Vul het in en stuur het terug naar de gemeente",
+          "De premies worden per kwartaal uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance (Etalle)",
+        "desc": "Etalle verse une prime pour chaque naissance ou adoption dans une famille domiciliée dans la commune.",
+        "deadline": "Renvoyez le formulaire que la commune vous adresse dès réception de l'avis de naissance.",
+        "amount": "50 € pour le 1er et le 2e enfant, 100 € à partir du 3e enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande envoyé par la commune"
+          }
+        ],
+        "steps": [
+          "Dès réception de l'avis de naissance, la commune envoie le formulaire de demande aux parents",
+          "Complétez-le et renvoyez-le à la commune",
+          "Les primes sont liquidées trimestriellement"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance (Geburtsprämie, Etalle)",
+        "desc": "Etalle zahlt für jede Geburt oder Adoption in einer in der Gemeinde wohnenden Familie eine Prämie.",
+        "deadline": "Senden Sie das Formular zurück, das die Gemeinde nach der Geburtsanzeige verschickt.",
+        "amount": "50 € für das 1. und 2. Kind, 100 € ab dem 3. Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das von der Gemeinde zugesandte Antragsformular"
+          }
+        ],
+        "steps": [
+          "Nach der Geburtsanzeige schickt die Gemeinde den Eltern ein Antragsformular",
+          "Füllen Sie es aus und senden Sie es an die Gemeinde zurück",
+          "Die Prämien werden vierteljährlich ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.etalle.be/etalle/contenu/administration-communale/primes"
+      ],
+      "conditions": {
+        "en": [
+          "The person receiving the premium has their domicile in Etalle.",
+          "Also paid for a stillborn child and for an adoption; the family situation at the birth decides the child's rank."
+        ],
+        "nl": [
+          "Wie de premie ontvangt, is gedomicilieerd in Etalle.",
+          "Ook uitbetaald bij een doodgeboren kind en bij adoptie; de gezinssituatie bij de geboorte bepaalt de rang van het kind."
+        ],
+        "fr": [
+          "Le bénéficiaire de l'allocation est domicilié dans la commune.",
+          "Également octroyée pour un enfant mort-né ou présenté sans vie et en cas d'adoption ; la situation familiale à la naissance détermine le rang."
+        ],
+        "de": [
+          "Der Empfänger der Prämie ist in Etalle wohnhaft.",
+          "Auch bei Totgeburt und Adoption gezahlt; die Familiensituation bei der Geburt bestimmt den Rang des Kindes."
+        ]
+      }
+    }
+  },
+  {
+    "id": 521,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "85009"
+    ],
+    "institution": "Commune d'Etalle",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.etalle.be/etalle/contenu/administration-communale/primes",
+    "content": {
+      "en": {
+        "title": "Prime à la vie chère (Cost-of-Living Premium for Families, Etalle)",
+        "desc": "Etalle pays families a yearly premium for each child registered in the commune who receives family allowance.",
+        "deadline": "Apply by 31 December of the year. Requests in by 30 June are paid in August; later ones in January.",
+        "amount": "€60 per child a year; €120 for a child with the disability or illness supplement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The signed request"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate from the family-allowance fund showing the right on 1 January"
+          }
+        ],
+        "steps": [
+          "Write a dated, signed request to the commune with the names, sex, profession and address of the parent and the children",
+          "Add the certificate from your family-allowance fund (and proof of the supplement, if any)",
+          "The premium is paid once a year per child into the parent's account"
+        ]
+      },
+      "nl": {
+        "title": "Prime à la vie chère (premie levensduurte voor gezinnen, Etalle)",
+        "desc": "Etalle betaalt gezinnen een jaarlijkse premie per kind dat in de gemeente ingeschreven is en kinderbijslag krijgt.",
+        "deadline": "Aanvragen uiterlijk 31 december van het jaar. Aanvragen tot 30 juni worden in augustus betaald, latere in januari.",
+        "amount": "€60 per kind per jaar; €120 voor een kind met de toeslag voor handicap of ziekte",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De ondertekende aanvraag"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van het kinderbijslagfonds over het recht op 1 januari"
+          }
+        ],
+        "steps": [
+          "Richt een gedateerde, ondertekende aanvraag aan de gemeente met naam, geslacht, beroep en adres van de ouder en de kinderen",
+          "Voeg het attest van je kinderbijslagfonds toe (en het bewijs van de toeslag, indien van toepassing)",
+          "De premie wordt eenmaal per jaar per kind op de rekening van de ouder gestort"
+        ]
+      },
+      "fr": {
+        "title": "Prime à la vie chère (Etalle)",
+        "desc": "Etalle verse aux familles une prime annuelle par enfant inscrit dans la commune et bénéficiaire d'allocations familiales.",
+        "deadline": "Demande au plus tard le 31 décembre de l'année. Les demandes reçues pour le 30 juin sont payées en août, les suivantes en janvier.",
+        "amount": "60 € par enfant et par an ; 120 € pour un enfant bénéficiant d'allocations majorées pour handicap ou maladie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La demande signée"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de la caisse d'allocations familiales établissant le droit au 1er janvier"
+          }
+        ],
+        "steps": [
+          "Adressez à l'administration communale une demande datée et signée reprenant nom, prénom, sexe, profession et domicile du parent et des enfants",
+          "Joignez l'attestation de la caisse d'allocations familiales (et le justificatif de l'allocation majorée le cas échéant)",
+          "La prime est versée une fois par an et par enfant sur le compte du parent"
+        ]
+      },
+      "de": {
+        "title": "Prime à la vie chère (Teuerungsprämie für Familien, Etalle)",
+        "desc": "Etalle zahlt Familien eine jährliche Prämie für jedes in der Gemeinde eingetragene Kind mit Familienbeihilfe.",
+        "deadline": "Antrag spätestens bis 31. Dezember des Jahres. Anträge bis 30. Juni werden im August gezahlt, spätere im Januar.",
+        "amount": "60 € pro Kind und Jahr; 120 € für ein Kind mit erhöhter Beihilfe wegen Behinderung oder Krankheit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der unterschriebene Antrag"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Familienkasse über den Anspruch am 1. Januar"
+          }
+        ],
+        "steps": [
+          "Richten Sie einen datierten, unterschriebenen Antrag mit Name, Geschlecht, Beruf und Wohnsitz von Elternteil und Kindern an die Gemeinde",
+          "Fügen Sie die Bescheinigung Ihrer Familienkasse bei (und gegebenenfalls den Nachweis der erhöhten Beihilfe)",
+          "Die Prämie wird einmal jährlich pro Kind auf das Konto des Elternteils überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.etalle.be/etalle/contenu/administration-communale/primes"
+      ],
+      "conditions": {
+        "en": [
+          "On 1 January of the year, the child is registered in Etalle's population registers and receives family allowance from a State or an EU institution.",
+          "The premium goes to the parent registered in Etalle's population register on 1 January; if both are, to the parent who receives the allowance."
+        ],
+        "nl": [
+          "Op 1 januari van het jaar is het kind ingeschreven in de bevolkingsregisters van Etalle en krijgt het kinderbijslag van een staat of een EU-instelling.",
+          "De premie gaat naar de ouder die op 1 januari in het bevolkingsregister van Etalle staat; staan beiden erin, dan naar de bijslagtrekkende ouder."
+        ],
+        "fr": [
+          "Au 1er janvier de l'exercice, l'enfant est inscrit aux registres de la population d'Etalle et bénéficie d'allocations familiales à charge d'un État ou d'une institution de l'Union européenne.",
+          "La prime est liquidée au parent inscrit au registre de la population d'Etalle au 1er janvier ; si les deux le sont, au parent allocataire."
+        ],
+        "de": [
+          "Am 1. Januar des Jahres ist das Kind in den Bevölkerungsregistern von Etalle eingetragen und erhält Familienbeihilfe eines Staates oder einer EU-Einrichtung.",
+          "Die Prämie erhält der am 1. Januar im Bevölkerungsregister von Etalle eingetragene Elternteil; sind beide eingetragen, der Elternteil, der die Beihilfe bezieht."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires the child and the parent to be in Etalle's population register (registre de la population) on 1 January.",
+            "nl": "Niet voor jou: het reglement vereist dat kind en ouder op 1 januari in het bevolkingsregister (registre de la population) van Etalle staan.",
+            "fr": "Pas pour vous : le règlement exige que l'enfant et le parent soient inscrits au registre de la population d'Etalle au 1er janvier.",
+            "de": "Nicht für Sie: Das Reglement verlangt, dass Kind und Elternteil am 1. Januar im Bevölkerungsregister (registre de la population) von Etalle stehen."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 522,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "85009"
+    ],
+    "institution": "Commune d'Etalle",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.etalle.be/etalle/contenu/administration-communale/primes",
+    "content": {
+      "en": {
+        "title": "Prime à l'acquisition d'un bien immobilier (Home Purchase or Building Premium, Etalle)",
+        "desc": "Etalle pays a one-off premium to people who buy or build a single-family home in the commune to live in themselves.",
+        "deadline": "Building: apply while the works are under way, before you take up domicile there. Buying: within six months of signing the deed at the notary.",
+        "amount": "€600 for a single person or household without children, plus €38 per dependent child for each of the first three and €50 per child from the fourth",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "For a purchase: a certificate from the notary who drew up the deed"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate from the competent authority that you own no other home"
+          }
+        ],
+        "steps": [
+          "Send your request to the College of the commune of Etalle within the deadline",
+          "Add the notary's certificate (purchase) and a certificate that you own no other home"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'acquisition d'un bien immobilier (premie aankoop of bouw van een woning, Etalle)",
+        "desc": "Etalle betaalt een eenmalige premie aan wie in de gemeente een eengezinswoning koopt of bouwt om er zelf te wonen.",
+        "deadline": "Bouwen: aanvragen tijdens de werken, vóór je er gedomicilieerd bent. Kopen: binnen zes maanden na het verlijden van de akte bij de notaris.",
+        "amount": "€600 voor een alleenstaande of een gezin zonder kinderen, plus €38 per kind ten laste voor elk van de eerste drie en €50 per kind vanaf het vierde",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bij aankoop: een attest van de notaris die de akte verleden heeft"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van de bevoegde overheid dat je geen andere woning bezit"
+          }
+        ],
+        "steps": [
+          "Richt je aanvraag binnen de termijn aan het college van de gemeente Etalle",
+          "Voeg het attest van de notaris (aankoop) en een attest dat je geen andere woning bezit toe"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'acquisition d'un bien immobilier (Etalle)",
+        "desc": "Etalle verse une prime unique aux particuliers qui achètent ou construisent dans la commune une maison unifamiliale pour s'y loger.",
+        "deadline": "Construction : pendant les travaux, avant d'y être domicilié. Achat : dans les six mois de la passation de l'acte devant notaire.",
+        "amount": "600 € pour une personne seule ou un ménage sans enfant, plus 38 € par enfant à charge pour chacun des trois premiers et 50 € par enfant à partir du quatrième",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "En cas d'achat : une attestation du notaire qui a reçu l'acte"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de l'autorité compétente que vous n'êtes propriétaire d'aucune autre habitation"
+          }
+        ],
+        "steps": [
+          "Adressez votre demande au Collège communal d'Etalle dans le délai",
+          "Joignez l'attestation du notaire (achat) et l'attestation de l'autorité compétente qu'il n'est propriétaire d'aucune autre habitation"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'acquisition d'un bien immobilier (Prämie für Kauf oder Bau eines Hauses, Etalle)",
+        "desc": "Etalle zahlt eine einmalige Prämie an Privatpersonen, die in der Gemeinde ein Einfamilienhaus zum Eigenbedarf kaufen oder bauen.",
+        "deadline": "Bau: während der Arbeiten, bevor Sie dort wohnhaft sind. Kauf: innerhalb von sechs Monaten nach der notariellen Urkunde.",
+        "amount": "600 € für Alleinstehende oder Haushalte ohne Kinder, plus 38 € je unterhaltsberechtigtem Kind für die ersten drei und 50 € je Kind ab dem vierten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Beim Kauf: eine Bescheinigung des Notars, der die Urkunde aufgenommen hat"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der zuständigen Behörde, dass Sie keine andere Wohnung besitzen"
+          }
+        ],
+        "steps": [
+          "Richten Sie Ihren Antrag fristgerecht an das Gemeindekollegium von Etalle",
+          "Fügen Sie die Bescheinigung des Notars (Kauf) und eine Bescheinigung bei, dass Sie keine andere Wohnung besitzen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.etalle.be/etalle/contenu/administration-communale/primes"
+      ],
+      "conditions": {
+        "en": [
+          "You buy or build a single-family house in Etalle for your own use, to live in.",
+          "You own no other home.",
+          "You live in the house without interruption for 6 years from when it is habitable."
+        ],
+        "nl": [
+          "Je koopt of bouwt in Etalle een eengezinswoning voor eigen gebruik, om er te wonen.",
+          "Je bent geen eigenaar van een andere woning.",
+          "Je woont er 6 jaar ononderbroken vanaf het moment dat de woning bewoonbaar is."
+        ],
+        "fr": [
+          "Vous achetez ou construisez à Etalle, pour votre propre compte et votre usage personnel, une maison unifamiliale pour vous y loger.",
+          "Vous n'êtes propriétaire d'aucun autre logement.",
+          "Vous habitez la maison pendant 6 ans sans interruption à compter du moment où elle est habitable."
+        ],
+        "de": [
+          "Sie kaufen oder bauen in Etalle ein Einfamilienhaus zur eigenen Nutzung, um darin zu wohnen.",
+          "Sie besitzen keine andere Wohnung.",
+          "Sie bewohnen das Haus ab Bezugsfertigkeit 6 Jahre ohne Unterbrechung."
+        ]
+      }
+    }
+  },
+  {
+    "id": 523,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "42008"
+    ],
+    "institution": "Lokaal Bestuur Hamme",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hamme.be/reglement-mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Hamme)",
+        "desc": "Hamme pays a yearly premium to residents with a recognised care need; the person cared for applies and receives it, not the carer.",
+        "deadline": "Apply every year before 1 December.",
+        "amount": "€240 a year, in twelfths for the months you actually lived in Hamme",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A medical certificate from the FOD Social Security"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate from your zorgkas stating the BelRAI score and that the Flemish care insurance pays nothing"
+          }
+        ],
+        "steps": [
+          "Get the application form from Team leven en welzijn (Nieuwstraat 11, Hamme) or download it from hamme.be",
+          "Hand it in with the certificates; you can drop by without an appointment (052 47 55 31, leven-welzijn@hamme.be)",
+          "The premium is calculated in December and paid into the account of the person cared for"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Hamme)",
+        "desc": "Hamme betaalt een jaarlijkse premie aan erkend zorgbehoevende inwoners; de zorgbehoevende vraagt ze zelf aan en ontvangt ze, niet de mantelzorger.",
+        "deadline": "Elk jaar aanvragen vóór 1 december.",
+        "amount": "€240 per jaar, in twaalfden naargelang de maanden dat je effectief in Hamme woonde",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een medisch attest van de FOD Sociale Zekerheid"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van de zorgkas met de BelRAI-score en de vermelding dat de Vlaamse zorgverzekering niet tussenkomt"
+          }
+        ],
+        "steps": [
+          "Haal het aanvraagformulier bij Team leven en welzijn (Nieuwstraat 11, Hamme) of download het op hamme.be",
+          "Dien het in met de attesten; je kan zonder afspraak langskomen (052 47 55 31, leven-welzijn@hamme.be)",
+          "De premie wordt in december berekend en op de rekening van de zorgbehoevende gestort"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aux aidants proches, Hamme)",
+        "desc": "Hamme verse une prime annuelle aux habitants dont la dépendance est reconnue ; c'est la personne aidée qui la demande et la reçoit, pas l'aidant.",
+        "deadline": "Demande chaque année avant le 1er décembre.",
+        "amount": "240 € par an, en douzièmes selon les mois de résidence effective à Hamme",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation médicale du SPF Sécurité sociale"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de la zorgkas mentionnant le score BelRAI et l'absence d'intervention de l'assurance soins flamande"
+          }
+        ],
+        "steps": [
+          "Retirez le formulaire auprès de Team leven en welzijn (Nieuwstraat 11, Hamme) ou téléchargez-le sur hamme.be",
+          "Déposez-le avec les attestations ; vous pouvez passer sans rendez-vous (052 47 55 31, leven-welzijn@hamme.be)",
+          "La prime est calculée en décembre et versée sur le compte de la personne aidée"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Hamme)",
+        "desc": "Hamme zahlt anerkannt pflegebedürftigen Einwohnern eine jährliche Prämie; die gepflegte Person beantragt und erhält sie, nicht die Pflegeperson.",
+        "deadline": "Antrag jedes Jahr vor dem 1. Dezember.",
+        "amount": "240 € pro Jahr, in Zwölfteln nach den Monaten, in denen Sie tatsächlich in Hamme wohnten",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine ärztliche Bescheinigung des FÖD Soziale Sicherheit"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Zorgkas mit dem BelRAI-Wert und dem Vermerk, dass die flämische Pflegeversicherung nichts zahlt"
+          }
+        ],
+        "steps": [
+          "Holen Sie das Antragsformular bei Team leven en welzijn (Nieuwstraat 11, Hamme) ab oder laden Sie es auf hamme.be herunter",
+          "Reichen Sie es mit den Bescheinigungen ein; Sie können ohne Termin vorbeikommen (052 47 55 31, leven-welzijn@hamme.be)",
+          "Die Prämie wird im Dezember berechnet und auf das Konto der gepflegten Person überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.hamme.be/reglement-mantelzorgpremie",
+        "https://www.hamme.be/file/download/a4bc8202-279a-40f1-929a-dc9ff27454f9/GQK0pjiDZspOLJZhtpWEJu2f4hOixn8UK5N42wmRTE3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for is at least 21 on 1 January and has their domicile in Hamme on 1 January of the year.",
+          "Care need: FOD Social Security category III (12-14 points), or a BelRAI screener score of 12/30, 4.5/12 (ADL/iADL) or 3-4/6 (cognition), at most 5 years old; older BEL scores do not count.",
+          "Not for people who get the zorgbudget for severe care needs, Hamme's premium for parents of a disabled child, a personal assistance budget (PAB) or a social supplement in the Groeipakket."
+        ],
+        "nl": [
+          "De zorgbehoevende is op 1 januari minstens 21 jaar en is op 1 januari van het aanvraagjaar gedomicilieerd in Hamme.",
+          "Zorgnood: FOD Sociale Zekerheid categorie III (12-14 punten), of een BelRAI-score van 12/30, 4,5/12 (ADL/iADL) of 3-4/6 (cognitie), maximaal 5 jaar oud; BEL-scores tellen niet meer.",
+          "Niet voor wie het zorgbudget voor zwaar zorgbehoevenden, de gemeentelijke premie voor ouders van een kind met een handicap, een persoonlijk assistentiebudget (PAB) of een sociale toeslag in het Groeipakket krijgt."
+        ],
+        "fr": [
+          "La personne aidée a au moins 21 ans au 1er janvier et est domiciliée à Hamme au 1er janvier de l'année de la demande.",
+          "Dépendance : catégorie III du SPF Sécurité sociale (12-14 points), ou un score BelRAI de 12/30, 4,5/12 (ADL/iADL) ou 3-4/6 (cognition), datant de 5 ans au plus ; les scores BEL ne comptent plus.",
+          "Exclu si vous recevez le budget de soins pour personnes fortement dépendantes, la prime communale pour parents d'un enfant handicapé, un budget d'assistance personnelle (PAB) ou un supplément social du Groeipakket."
+        ],
+        "de": [
+          "Die gepflegte Person ist am 1. Januar mindestens 21 Jahre alt und am 1. Januar des Antragsjahres in Hamme wohnhaft.",
+          "Pflegebedarf: FÖD Soziale Sicherheit Kategorie III (12-14 Punkte) oder ein BelRAI-Wert von 12/30, 4,5/12 (ADL/iADL) oder 3-4/6 (Kognition), höchstens 5 Jahre alt; BEL-Werte zählen nicht mehr.",
+          "Ausgeschlossen bei Pflegebudget für schwer Pflegebedürftige, der Gemeindeprämie für Eltern eines Kindes mit Behinderung, einem persönlichen Assistenzbudget (PAB) oder einem Sozialzuschlag im Groeipakket."
+        ]
+      }
+    }
+  },
+  {
+    "id": 524,
+    "category": "family",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "72037"
+    ],
+    "institution": "Stad Hamont-Achel",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hamont-achel.be/product/10/voorhuwelijkssparen-premie",
+    "content": {
+      "en": {
+        "title": "Premie voorhuwelijkssparen (Pre-Marriage Savings Premium, Hamont-Achel)",
+        "desc": "Hamont-Achel adds a municipal premium when you marry after saving with a recognised pre-marriage savings scheme.",
+        "deadline": "Apply after the wedding, once you have received the savings and the scheme's premium.",
+        "amount": "10% of the amount saved, up to €76.80",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A certificate from the recognised scheme showing your identity, joining date, amount saved and premium"
+          },
+          {
+            "type": "id",
+            "label": "Identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Your bank account number"
+          }
+        ],
+        "steps": [
+          "Make an appointment with Burgerzaken (online or 011 51 05 00); Wednesday afternoon is a walk-in time",
+          "Bring the certificate from the savings scheme, your identity card and your account number"
+        ]
+      },
+      "nl": {
+        "title": "Premie voorhuwelijkssparen (Hamont-Achel)",
+        "desc": "Hamont-Achel geeft een extra gemeentelijke premie wanneer je trouwt na sparen bij een erkende dienst voor voorhuwelijkssparen.",
+        "deadline": "Aanvragen na het huwelijk, zodra je het gespaarde bedrag en de premie van het voorhuwelijkssparen ontvangen hebt.",
+        "amount": "10% van het gespaarde bedrag, maximaal €76,80",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een attest van de erkende dienst met je identiteit, de aansluitingsdatum, het gespaarde bedrag en de premie"
+          },
+          {
+            "type": "id",
+            "label": "Identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Je rekeningnummer"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak bij Burgerzaken (online of 011 51 05 00); woensdagnamiddag kan je zonder afspraak binnenlopen",
+          "Breng het attest van de dienst voorhuwelijkssparen, je identiteitskaart en je rekeningnummer mee"
+        ]
+      },
+      "fr": {
+        "title": "Premie voorhuwelijkssparen (prime à l'épargne prénuptiale, Hamont-Achel)",
+        "desc": "Hamont-Achel ajoute une prime communale lorsque vous vous mariez après avoir épargné auprès d'un service agréé d'épargne prénuptiale.",
+        "deadline": "Demande après le mariage, une fois l'épargne et la prime du service reçues.",
+        "amount": "10 % du montant épargné, au maximum 76,80 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une attestation du service agréé mentionnant votre identité, la date d'affiliation, le montant épargné et la prime"
+          },
+          {
+            "type": "id",
+            "label": "Carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Votre numéro de compte"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous au service Burgerzaken (en ligne ou au 011 51 05 00) ; le mercredi après-midi est sans rendez-vous",
+          "Apportez l'attestation du service d'épargne prénuptiale, votre carte d'identité et votre numéro de compte"
+        ]
+      },
+      "de": {
+        "title": "Premie voorhuwelijkssparen (Prämie für voreheliches Sparen, Hamont-Achel)",
+        "desc": "Hamont-Achel zahlt eine zusätzliche Gemeindeprämie, wenn Sie nach dem Sparen bei einem anerkannten vorehelichen Sparprogramm heiraten.",
+        "deadline": "Antrag nach der Hochzeit, sobald Sie das Ersparte und die Prämie des Programms erhalten haben.",
+        "amount": "10 % des gesparten Betrags, höchstens 76,80 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des anerkannten Programms mit Identität, Beitrittsdatum, gespartem Betrag und Prämie"
+          },
+          {
+            "type": "id",
+            "label": "Personalausweis"
+          },
+          {
+            "type": "doc",
+            "label": "Ihre Kontonummer"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin bei Burgerzaken (online oder 011 51 05 00); mittwochnachmittags ohne Termin",
+          "Bringen Sie die Bescheinigung des Sparprogramms, Ihren Personalausweis und Ihre Kontonummer mit"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.hamont-achel.be/product/10/voorhuwelijkssparen-premie"
+      ],
+      "conditions": {
+        "en": [
+          "On the wedding date you have been a member of a recognised pre-marriage savings scheme for at least 3 years.",
+          "You have lived in Hamont-Achel for at least 1 year on the wedding date.",
+          "You marry before the age of 30 and have received the savings and the scheme's premium."
+        ],
+        "nl": [
+          "Je bent op de huwelijksdatum minstens 3 jaar aangesloten bij een erkende dienst voor voorhuwelijkssparen.",
+          "Je woont op de huwelijksdatum minstens 1 jaar in de gemeente.",
+          "Je trouwt vóór je 30 jaar bent en hebt de gespaarde sommen en de premie van het voorhuwelijkssparen ontvangen."
+        ],
+        "fr": [
+          "À la date du mariage, vous êtes affilié depuis au moins 3 ans à un service agréé d'épargne prénuptiale.",
+          "Vous habitez la commune depuis au moins 1 an à la date du mariage.",
+          "Vous vous mariez avant 30 ans et avez reçu l'épargne et la prime de l'épargne prénuptiale."
+        ],
+        "de": [
+          "Am Hochzeitstag sind Sie seit mindestens 3 Jahren Mitglied eines anerkannten vorehelichen Sparprogramms.",
+          "Sie wohnen am Hochzeitstag seit mindestens 1 Jahr in der Gemeinde.",
+          "Sie heiraten vor dem 30. Lebensjahr und haben das Ersparte und die Prämie des Programms erhalten."
+        ]
+      }
+    }
+  },
+  {
+    "id": 525,
+    "category": "housing",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "64076"
+    ],
+    "institution": "Commune de Faimes",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.faimes.be/ma-commune/services-communaux/environnement-1/prime-communale-audit-logement",
+    "content": {
+      "en": {
+        "title": "Prime communale audit logement (Home Energy Audit Top-Up, Faimes)",
+        "desc": "Faimes adds half of the Walloon premium for a home energy audit (audit logement) on a home in the commune.",
+        "deadline": "Apply within four months of the Walloon (SPW) final decision on the audit premium.",
+        "amount": "Half of the SPW audit premium, up to €500 per audit; regional and municipal premiums together never exceed the audit invoices",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The commune's application form"
+          },
+          {
+            "type": "doc",
+            "label": "The SPW notification of the final audit premium"
+          },
+          {
+            "type": "doc",
+            "label": "All paid audit invoices and a copy of the audit report"
+          }
+        ],
+        "steps": [
+          "First obtain the Walloon (SPW) premium for the audit logement",
+          "Send the commune's form with the documents to the College, by hand against receipt, by post or to ecopasseur@faimes.be",
+          "Complete files get an acknowledgement and are handled in order; if the budget runs out, they move to the next year"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale audit logement (gemeentelijke aanvulling woningaudit, Faimes)",
+        "desc": "Faimes legt de helft bij van de Waalse premie voor een energieaudit (audit logement) van een woning in de gemeente.",
+        "deadline": "Aanvragen binnen vier maanden na de definitieve beslissing van de Waalse overheid (SPW) over de auditpremie.",
+        "amount": "De helft van de SPW-auditpremie, maximaal €500 per audit; Waalse en gemeentelijke premie samen nooit meer dan de auditfacturen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier van de gemeente"
+          },
+          {
+            "type": "doc",
+            "label": "De kennisgeving van de SPW over de definitieve auditpremie"
+          },
+          {
+            "type": "doc",
+            "label": "Alle betaalde auditfacturen en een kopie van het auditrapport"
+          }
+        ],
+        "steps": [
+          "Krijg eerst de Waalse (SPW) premie voor de audit logement",
+          "Stuur het formulier van de gemeente met de documenten naar het college: afgeven tegen ontvangstbewijs, per post of naar ecopasseur@faimes.be",
+          "Volledige dossiers krijgen een ontvangstbevestiging en worden in volgorde behandeld; is het budget op, dan schuiven ze door naar het volgende jaar"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale audit logement (Faimes)",
+        "desc": "Faimes ajoute la moitié de la prime wallonne pour un audit logement réalisé sur un logement de la commune.",
+        "deadline": "Demande dans les quatre mois de la notification de la décision définitive du SPW sur la prime audit.",
+        "amount": "La moitié de la prime du SPW, au maximum 500 € par audit ; les primes régionale et communale cumulées ne dépassent jamais les factures de l'audit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande communal"
+          },
+          {
+            "type": "doc",
+            "label": "La notification du montant définitif de la prime du SPW"
+          },
+          {
+            "type": "doc",
+            "label": "Toutes les factures acquittées de l'audit et une copie du rapport"
+          }
+        ],
+        "steps": [
+          "Obtenez d'abord la prime du SPW pour l'audit logement",
+          "Adressez le formulaire communal et les pièces au Collège communal, par dépôt contre récépissé, par la poste ou à ecopasseur@faimes.be",
+          "Les dossiers complets reçoivent un accusé de réception et sont traités par ordre chronologique ; si le budget est épuisé, ils sont reportés à l'année suivante"
+        ]
+      },
+      "de": {
+        "title": "Prime communale audit logement (Gemeindezuschuss Wohnungsaudit, Faimes)",
+        "desc": "Faimes legt die Hälfte der wallonischen Prämie für ein Wohnungsaudit (audit logement) einer Wohnung in der Gemeinde dazu.",
+        "deadline": "Antrag innerhalb von vier Monaten nach der endgültigen Entscheidung des SPW über die Auditprämie.",
+        "amount": "Die Hälfte der SPW-Auditprämie, höchstens 500 € pro Audit; regionale und kommunale Prämie zusammen nie mehr als die Auditrechnungen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular der Gemeinde"
+          },
+          {
+            "type": "doc",
+            "label": "Die SPW-Mitteilung über die endgültige Auditprämie"
+          },
+          {
+            "type": "doc",
+            "label": "Alle bezahlten Auditrechnungen und eine Kopie des Auditberichts"
+          }
+        ],
+        "steps": [
+          "Erhalten Sie zuerst die wallonische (SPW) Prämie für das Audit logement",
+          "Senden Sie das Gemeindeformular mit den Unterlagen an das Kollegium: Abgabe gegen Quittung, per Post oder an ecopasseur@faimes.be",
+          "Vollständige Anträge erhalten eine Eingangsbestätigung und werden der Reihe nach bearbeitet; ist das Budget erschöpft, werden sie ins nächste Jahr verschoben"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.faimes.be/ma-commune/vie-politique/conseil-communal-1/reglements/reglement-communal-audit-logement.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The Walloon (SPW) audit logement premium has already been granted, and the same conditions apply: you are 18 or older and hold a real right on the home.",
+          "The home is in Faimes, more than 15 years old when the audit is registered, and mainly used for housing.",
+          "Within 24 months you live in it for at least 5 years, rent it out under a registered lease for 5 years, lend it free to close family for a year, or hand it to a social rental agency for 9 years; otherwise the premium is paid back."
+        ],
+        "nl": [
+          "De Waalse (SPW) premie voor de audit logement is al toegekend, en dezelfde voorwaarden gelden: je bent minstens 18 en hebt een zakelijk recht op de woning.",
+          "De woning ligt in Faimes, is bij de registratie van de audit ouder dan 15 jaar en dient hoofdzakelijk als woning.",
+          "Binnen 24 maanden woon je er minstens 5 jaar, verhuur je ze 5 jaar met een geregistreerd huurcontract, stel je ze 1 jaar gratis ter beschikking van naaste familie of geef je ze 9 jaar in beheer aan een sociaal verhuurkantoor; anders betaal je de premie terug."
+        ],
+        "fr": [
+          "La prime du SPW pour l'audit logement a été octroyée, et les mêmes conditions s'appliquent : avoir au moins 18 ans et un droit réel sur le logement.",
+          "Le logement est situé à Faimes, a plus de quinze ans à l'enregistrement de l'audit et est destiné principalement au logement.",
+          "Dans les 24 mois, vous occupez le logement au moins 5 ans, le louez 5 ans par bail enregistré, le mettez gratuitement 1 an à disposition d'un parent jusqu'au 2e degré, ou le confiez 9 ans à une AIS ; sinon la prime est remboursée."
+        ],
+        "de": [
+          "Die wallonische (SPW) Prämie für das Audit logement wurde bereits gewährt, und es gelten dieselben Bedingungen: mindestens 18 Jahre und ein dingliches Recht an der Wohnung.",
+          "Die Wohnung liegt in Faimes, ist bei Registrierung des Audits älter als 15 Jahre und dient hauptsächlich dem Wohnen.",
+          "Innerhalb von 24 Monaten bewohnen Sie die Wohnung mindestens 5 Jahre, vermieten sie 5 Jahre mit registriertem Mietvertrag, überlassen sie 1 Jahr kostenlos nahen Verwandten oder geben sie 9 Jahre an eine soziale Immobilienagentur; sonst wird die Prämie zurückgefordert."
+        ]
+      }
+    }
+  },
+  {
+    "id": 526,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "82009"
+    ],
+    "institution": "Commune de Fauvillers",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.fauvillers.be/fauvillers/information/prime-sport",
+    "content": {
+      "en": {
+        "title": "Prime sport (Sports Premium, Fauvillers)",
+        "desc": "Fauvillers pays residents up to €40 a year towards an organised sports activity in or near the commune.",
+        "deadline": "Once a year; the scheme runs until 2030.",
+        "amount": "Up to €40 per person per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed prime sport form"
+          }
+        ],
+        "steps": [
+          "Download the form from fauvillers.be or collect it at the town hall",
+          "Hand in the completed form to the commune"
+        ]
+      },
+      "nl": {
+        "title": "Prime sport (sportpremie, Fauvillers)",
+        "desc": "Fauvillers betaalt inwoners tot €40 per jaar voor een georganiseerde sportactiviteit in of bij de gemeente.",
+        "deadline": "Eén keer per jaar; de regeling loopt tot 2030.",
+        "amount": "Tot €40 per persoon per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde formulier sportpremie"
+          }
+        ],
+        "steps": [
+          "Download het formulier op fauvillers.be of haal het bij het gemeentebestuur",
+          "Dien het ingevulde formulier in bij de gemeente"
+        ]
+      },
+      "fr": {
+        "title": "Prime sport (Fauvillers)",
+        "desc": "Fauvillers verse aux habitants jusqu'à 40 € par an pour une activité sportive organisée dans ou près de la commune.",
+        "deadline": "Une fois par an ; le dispositif reste en vigueur jusqu'en 2030.",
+        "amount": "Jusqu'à 40 € par an et par personne",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire prime sport complété"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur fauvillers.be ou retirez-le à l'administration communale",
+          "Remettez le formulaire complété à la commune"
+        ]
+      },
+      "de": {
+        "title": "Prime sport (Sportprämie, Fauvillers)",
+        "desc": "Fauvillers zahlt Einwohnern bis zu 40 € pro Jahr für eine organisierte Sportaktivität in oder nahe der Gemeinde.",
+        "deadline": "Einmal pro Jahr; die Regelung gilt bis 2030.",
+        "amount": "Bis zu 40 € pro Person und Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Formular Sportprämie"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf fauvillers.be herunter oder holen Sie es bei der Gemeindeverwaltung ab",
+          "Reichen Sie das ausgefüllte Formular bei der Gemeinde ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.fauvillers.be/fauvillers/information/prime-sport"
+      ],
+      "conditions": {
+        "en": [
+          "You have your domicile in Fauvillers.",
+          "The activity is organised in Fauvillers, at the Martelange-Fauvillers sports hall (including TC Martelange tennis and US Martelange football), or with Royale Entente Sportive Witry Menufontaine football.",
+          "Once per person per year."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in Fauvillers.",
+          "De activiteit vindt plaats in Fauvillers, in de sporthal Martelange-Fauvillers (ook tennis bij TC Martelange en voetbal bij US Martelange) of bij voetbalclub Royale Entente Sportive Witry Menufontaine.",
+          "Eén keer per persoon per jaar."
+        ],
+        "fr": [
+          "Vous êtes domicilié sur le territoire communal.",
+          "L'activité est organisée sur le territoire de la commune, au hall sportif pluricommunal de Martelange-Fauvillers (y compris le tennis du TC Martelange et le football à l'US Martelange) ou à la Royale Entente Sportive Witry Menufontaine.",
+          "Une fois par an et par personne."
+        ],
+        "de": [
+          "Sie sind in Fauvillers wohnhaft.",
+          "Die Aktivität findet in Fauvillers statt, in der Sporthalle Martelange-Fauvillers (einschließlich Tennis beim TC Martelange und Fußball bei US Martelange) oder beim Fußballverein Royale Entente Sportive Witry Menufontaine.",
+          "Einmal pro Person und Jahr."
+        ]
+      }
+    }
+  },
+  {
+    "id": 527,
+    "category": "housing",
+    "situations": [],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "72038"
+    ],
+    "institution": "Lokaal Bestuur Hechtel-Eksel",
+    "verified": "20 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hechtel-eksel.be/gemeentelijke-isolatiepremie",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke isolatiepremie (Municipal Insulation Top-Up, Hechtel-Eksel)",
+        "desc": "Hechtel-Eksel adds a premium for roof, attic floor, wall, floor or cellar insulation in an existing home that already got Mijn VerbouwPremie.",
+        "deadline": "Apply at the latest two years after the final invoice, once Mijn VerbouwPremie has announced its payment.",
+        "amount": "€2 per m² of insulation, up to €400 per home (once)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Invoices for the insulation material (type, brand, m², thickness, lambda or R value)"
+          },
+          {
+            "type": "doc",
+            "label": "The contractor's Mijn VerbouwPremie certificate and a copy of the Mijn VerbouwPremie payment notice"
+          }
+        ],
+        "steps": [
+          "Wait for the payment notice from Mijn VerbouwPremie",
+          "Apply through the online form or the paper form of the commune, with the documents",
+          "Questions: Dienst Milieu, Don Boscostraat 5, 011 73 01 58, milieu@hechtel-eksel.be"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke isolatiepremie (Hechtel-Eksel)",
+        "desc": "Hechtel-Eksel geeft een premie voor dak-, zoldervloer-, muur-, vloer- of kelderisolatie in een bestaande woning die al Mijn VerbouwPremie kreeg.",
+        "deadline": "Aanvragen ten laatste twee jaar na de eindfactuur, na het bericht tot uitbetaling van Mijn VerbouwPremie.",
+        "amount": "€2 per m² isolatie, maximaal €400 per woning (één keer)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Facturen van het isolatiemateriaal (soort, merk, m², dikte, lambda- of Rd-waarde)"
+          },
+          {
+            "type": "doc",
+            "label": "Het attest van de aannemer voor Mijn VerbouwPremie en een kopie van het bericht tot uitbetaling van Mijn VerbouwPremie"
+          }
+        ],
+        "steps": [
+          "Wacht op het bericht tot uitbetaling van Mijn VerbouwPremie",
+          "Vraag aan via het webformulier of het papieren formulier van de gemeente, met de documenten",
+          "Vragen: Dienst Milieu, Don Boscostraat 5, 011 73 01 58, milieu@hechtel-eksel.be"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke isolatiepremie (prime communale à l'isolation, Hechtel-Eksel)",
+        "desc": "Hechtel-Eksel accorde une prime pour l'isolation du toit, du plancher de grenier, des murs, du sol ou de la cave d'un logement existant qui a déjà reçu Mijn VerbouwPremie.",
+        "deadline": "Demande au plus tard deux ans après la facture finale, après l'avis de paiement de Mijn VerbouwPremie.",
+        "amount": "2 € par m² d'isolation, au maximum 400 € par logement (une seule fois)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Les factures du matériau d'isolation (type, marque, m², épaisseur, valeur lambda ou R)"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation de l'entrepreneur pour Mijn VerbouwPremie et une copie de l'avis de paiement de Mijn VerbouwPremie"
+          }
+        ],
+        "steps": [
+          "Attendez l'avis de paiement de Mijn VerbouwPremie",
+          "Introduisez la demande via le formulaire en ligne ou papier de la commune, avec les documents",
+          "Questions : Dienst Milieu, Don Boscostraat 5, 011 73 01 58, milieu@hechtel-eksel.be"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke isolatiepremie (Gemeindeprämie für Dämmung, Hechtel-Eksel)",
+        "desc": "Hechtel-Eksel zahlt eine Prämie für Dach-, Dachboden-, Wand-, Boden- oder Kellerdämmung in einer bestehenden Wohnung, die bereits Mijn VerbouwPremie erhalten hat.",
+        "deadline": "Antrag spätestens zwei Jahre nach der Schlussrechnung, nach der Zahlungsmitteilung von Mijn VerbouwPremie.",
+        "amount": "2 € pro m² Dämmung, höchstens 400 € pro Wohnung (einmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Rechnungen des Dämmmaterials (Art, Marke, m², Dicke, Lambda- oder R-Wert)"
+          },
+          {
+            "type": "doc",
+            "label": "Die Bescheinigung des Unternehmers für Mijn VerbouwPremie und eine Kopie der Zahlungsmitteilung von Mijn VerbouwPremie"
+          }
+        ],
+        "steps": [
+          "Warten Sie auf die Zahlungsmitteilung von Mijn VerbouwPremie",
+          "Stellen Sie den Antrag über das Online- oder Papierformular der Gemeinde, mit den Unterlagen",
+          "Fragen: Dienst Milieu, Don Boscostraat 5, 011 73 01 58, milieu@hechtel-eksel.be"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "20 Nov 2026",
+      "source_url": [
+        "https://www.hechtel-eksel.be/gemeentelijke-isolatiepremie",
+        "https://www.hechtel-eksel.be/sites/default/files/2026-03/Premiereglement-isolatie-vanaf-01.07.2022.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The home is in Hechtel-Eksel, mainly permitted, and connected to the Fluvius electricity grid for at least 15 years; demolition and rebuilding does not count.",
+          "For private owners of a building used as a home; if you are not the owner, the owner co-signs the form.",
+          "Mijn VerbouwPremie has already approved a premium for the works, and the material meets its insulation values; reed and thermal foils do not count."
+        ],
+        "nl": [
+          "De woning ligt in Hechtel-Eksel, is hoofdzakelijk vergund en is minstens 15 jaar aangesloten op het elektriciteitsnet van Fluvius; sloop en herbouw komt niet in aanmerking.",
+          "Voor particuliere eigenaars van een gebouw met woonfunctie; ben je geen eigenaar, dan ondertekent de eigenaar het formulier mee.",
+          "Mijn VerbouwPremie heeft al een premie voor de werken goedgekeurd en het materiaal voldoet aan de isolatiewaarden ervan; riet en thermisch isolerende folies komen niet in aanmerking."
+        ],
+        "fr": [
+          "Le logement est situé à Hechtel-Eksel, principalement autorisé, et raccordé au réseau électrique de Fluvius depuis au moins 15 ans ; une démolition-reconstruction n'entre pas en compte.",
+          "Pour les propriétaires particuliers d'un bâtiment à fonction de logement ; si vous n'êtes pas propriétaire, le propriétaire cosigne le formulaire.",
+          "Mijn VerbouwPremie a déjà approuvé une prime pour les travaux et le matériau respecte ses valeurs d'isolation ; le roseau et les films thermiques n'entrent pas en compte."
+        ],
+        "de": [
+          "Die Wohnung liegt in Hechtel-Eksel, ist überwiegend genehmigt und seit mindestens 15 Jahren an das Stromnetz von Fluvius angeschlossen; Abriss und Neubau zählen nicht.",
+          "Für private Eigentümer eines Wohngebäudes; sind Sie nicht Eigentümer, unterschreibt der Eigentümer das Formular mit.",
+          "Mijn VerbouwPremie hat bereits eine Prämie für die Arbeiten genehmigt und das Material erfüllt deren Dämmwerte; Schilf und Thermofolien zählen nicht."
+        ]
+      }
+    }
   }
 ]

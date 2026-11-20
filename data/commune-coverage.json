@@ -1670,49 +1670,87 @@
       "ids": [
         517
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "57027",
-      "name": "Estaimpuis"
+      "name": "Estaimpuis",
+      "checked": "20 Nov 2026",
+      "ids": [
+        518
+      ]
     },
     {
       "nis": "71020",
-      "name": "Halen"
+      "name": "Halen",
+      "checked": "20 Nov 2026",
+      "ids": []
     },
     {
       "nis": "58003",
-      "name": "Estinnes"
+      "name": "Estinnes",
+      "checked": "20 Nov 2026",
+      "ids": [
+        519
+      ]
     },
     {
       "nis": "85009",
-      "name": "Etalle"
+      "name": "Etalle",
+      "checked": "20 Nov 2026",
+      "ids": [
+        520,
+        521,
+        522
+      ]
     },
     {
       "nis": "42008",
-      "name": "Hamme"
+      "name": "Hamme",
+      "checked": "20 Nov 2026",
+      "ids": [
+        523
+      ]
     },
     {
       "nis": "72037",
-      "name": "Hamont-Achel"
+      "name": "Hamont-Achel",
+      "checked": "20 Nov 2026",
+      "ids": [
+        524
+      ]
     },
     {
       "nis": "64076",
-      "name": "Faimes"
+      "name": "Faimes",
+      "checked": "20 Nov 2026",
+      "ids": [
+        525
+      ]
     },
     {
       "nis": "52018",
-      "name": "Farciennes"
+      "name": "Farciennes",
+      "checked": "20 Nov 2026",
+      "ids": []
     },
     {
       "nis": "82009",
-      "name": "Fauvillers"
+      "name": "Fauvillers",
+      "checked": "20 Nov 2026",
+      "ids": [
+        526
+      ]
     },
     {
       "nis": "72038",
-      "name": "Hechtel-Eksel"
-    },
+      "name": "Hechtel-Eksel",
+      "checked": "20 Nov 2026",
+      "ids": [
+        527
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "92138",
       "name": "Fernelmont"
