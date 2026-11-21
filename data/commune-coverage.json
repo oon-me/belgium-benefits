@@ -1748,49 +1748,86 @@
       "ids": [
         527
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "92138",
-      "name": "Fernelmont"
+      "name": "Fernelmont",
+      "checked": "21 Nov 2026",
+      "ids": [
+        528,
+        529
+      ]
     },
     {
       "nis": "73022",
-      "name": "Heers"
+      "name": "Heers",
+      "checked": "21 Nov 2026",
+      "ids": [
+        530
+      ]
     },
     {
       "nis": "61019",
-      "name": "Ferrières"
+      "name": "Ferrières",
+      "checked": "21 Nov 2026",
+      "ids": [
+        531
+      ]
     },
     {
       "nis": "64025",
-      "name": "Fexhe-le-Haut-Clocher"
+      "name": "Fexhe-le-Haut-Clocher",
+      "checked": "21 Nov 2026",
+      "ids": [
+        532
+      ]
     },
     {
       "nis": "11018",
-      "name": "Hemiksem"
+      "name": "Hemiksem",
+      "checked": "21 Nov 2026",
+      "ids": []
     },
     {
       "nis": "62120",
-      "name": "Flémalle"
+      "name": "Flémalle",
+      "checked": "21 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24038",
-      "name": "Herent"
+      "name": "Herent",
+      "checked": "21 Nov 2026",
+      "ids": [
+        533
+      ]
     },
     {
       "nis": "62038",
-      "name": "Fléron"
+      "name": "Fléron",
+      "checked": "21 Nov 2026",
+      "ids": [
+        534
+      ]
     },
     {
       "nis": "13011",
-      "name": "Herentals"
+      "name": "Herentals",
+      "checked": "21 Nov 2026",
+      "ids": [
+        535
+      ]
     },
     {
       "nis": "52021",
-      "name": "Fleurus"
-    },
+      "name": "Fleurus",
+      "checked": "21 Nov 2026",
+      "ids": [
+        536
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "13012",
       "name": "Herenthout"

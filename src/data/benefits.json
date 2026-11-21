@@ -65819,5 +65819,1082 @@
         ]
       }
     }
+  },
+  {
+    "id": 528,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "92138"
+    ],
+    "institution": "Commune de Fernelmont",
+    "verified": "21 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.fernelmont.be/ma-commune/services-communaux/primes/prime-petite-enfance-couches-culottes",
+    "content": {
+      "en": {
+        "title": "Prime petite enfance (Nappy Premium, Fernelmont)",
+        "desc": "Fernelmont pays families with a child aged 0 to 2 a premium towards the extra waste costs of disposable nappies.",
+        "deadline": "Ask while your child is aged 0 to 2.",
+        "amount": "€60",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed application form with the child's name and your bank account number"
+          }
+        ],
+        "steps": [
+          "Download the form on the commune's page",
+          "Send it to the Collège communal; questions: Vinciane Rossillong, 081 83 02 69, vinciane.rossillong@fernelmont.be"
+        ]
+      },
+      "nl": {
+        "title": "Prime petite enfance (luierpremie, Fernelmont)",
+        "desc": "Fernelmont geeft gezinnen met een kind van 0 tot 2 jaar een premie voor de extra afvalkosten van wegwerpluiers.",
+        "deadline": "Aanvragen zolang je kind 0 tot 2 jaar is.",
+        "amount": "€60",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld aanvraagformulier met de naam van het kind en je rekeningnummer"
+          }
+        ],
+        "steps": [
+          "Download het formulier op de pagina van de gemeente",
+          "Stuur het naar het Collège communal; vragen: Vinciane Rossillong, 081 83 02 69, vinciane.rossillong@fernelmont.be"
+        ]
+      },
+      "fr": {
+        "title": "Prime petite enfance (couches-culottes, Fernelmont)",
+        "desc": "Fernelmont verse aux familles ayant un enfant de 0 à 2 ans une prime pour compenser le coût supplémentaire des déchets de couches-culottes.",
+        "deadline": "Demande tant que l'enfant a entre 0 et 2 ans.",
+        "amount": "60 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire complété avec le nom de l'enfant et votre numéro de compte"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur la page de la commune",
+          "Envoyez-le au Collège communal ; questions : Vinciane Rossillong, 081 83 02 69, vinciane.rossillong@fernelmont.be"
+        ]
+      },
+      "de": {
+        "title": "Prime petite enfance (Windelprämie, Fernelmont)",
+        "desc": "Fernelmont zahlt Familien mit einem Kind von 0 bis 2 Jahren eine Prämie für die zusätzlichen Abfallkosten von Wegwerfwindeln.",
+        "deadline": "Antrag, solange das Kind 0 bis 2 Jahre alt ist.",
+        "amount": "60 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Formular mit dem Namen des Kindes und Ihrer Kontonummer"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf der Seite der Gemeinde herunter",
+          "Senden Sie es an das Collège communal; Fragen: Vinciane Rossillong, 081 83 02 69, vinciane.rossillong@fernelmont.be"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "21 Nov 2026",
+      "source_url": [
+        "https://www.fernelmont.be/ma-commune/services-communaux/primes/prime-petite-enfance-couches-culottes"
+      ],
+      "conditions": {
+        "en": [
+          "The child is aged 0 to 2 and belongs to a household domiciled in Fernelmont or registered there as second residents."
+        ],
+        "nl": [
+          "Het kind is 0 tot 2 jaar en hoort bij een gezin dat in Fernelmont gedomicilieerd is of er als tweede verblijver is ingeschreven."
+        ],
+        "fr": [
+          "L'enfant a entre 0 et 2 ans et fait partie d'un ménage domicilié à Fernelmont ou recensé comme second résident."
+        ],
+        "de": [
+          "Das Kind ist 0 bis 2 Jahre alt und gehört zu einem Haushalt mit Wohnsitz in Fernelmont oder dort als Zweitwohnsitz erfasst."
+        ]
+      }
+    }
+  },
+  {
+    "id": 529,
+    "category": "housing",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "92138"
+    ],
+    "institution": "Commune de Fernelmont",
+    "verified": "21 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.fernelmont.be/ma-commune/services-communaux/primes/prime-logement-senior/prime-a-ladaptation-du-logement-occupe-par-un-senior",
+    "content": {
+      "en": {
+        "title": "Prime à l'adaptation du logement occupé par un senior (Senior Home Adaptation Premium, Fernelmont)",
+        "desc": "Fernelmont pays back part of what a resident aged 65 or over spends adapting their home to stay independent, such as a stairlift, motorised shutters, wider doors or an adapted bathroom.",
+        "deadline": "Once a year per home, while the budget lasts; works from before the regulation came into force do not count.",
+        "amount": "25% of the cost incl. VAT, up to €200 per home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form (from the Service Finances)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of the works and their cost: invoice, description and a sworn statement that the works meet Walloon safety standards"
+          },
+          {
+            "type": "doc",
+            "label": "Photos before and after the works"
+          }
+        ],
+        "steps": [
+          "Ask the Service Finances for the form",
+          "Send it with the documents to the Collège communal, rue Goffin 2, 5380 Fernelmont",
+          "The Collège decides within 60 days"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'adaptation du logement occupé par un senior (aanpassingspremie woning senioren, Fernelmont)",
+        "desc": "Fernelmont betaalt een deel terug van wat een inwoner van 65 jaar of ouder uitgeeft om de woning aan te passen en zelfstandig te blijven wonen, zoals een traplift, gemotoriseerde rolluiken, bredere deuren of een aangepaste badkamer.",
+        "deadline": "Eén keer per jaar per woning, zolang het budget strekt; werken van vóór de inwerkingtreding van het reglement tellen niet.",
+        "amount": "25% van de kosten incl. btw, maximaal €200 per woning",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier (bij de Service Finances)"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van de werken en de kosten: factuur, beschrijving en een verklaring op eer dat de werken aan de Waalse veiligheidsnormen voldoen"
+          },
+          {
+            "type": "doc",
+            "label": "Foto's voor en na de werken"
+          }
+        ],
+        "steps": [
+          "Vraag het formulier aan de Service Finances",
+          "Stuur het met de documenten naar het Collège communal, rue Goffin 2, 5380 Fernelmont",
+          "Het Collège beslist binnen 60 dagen"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'adaptation du logement occupé par un senior (Fernelmont)",
+        "desc": "Fernelmont rembourse une partie des frais exposés par un habitant de 65 ans ou plus pour adapter son logement et garder son autonomie : monte-escalier, motorisation des volets, élargissement des portes, salle de bain adaptée…",
+        "deadline": "Une fois par an par logement, dans la limite des crédits ; les travaux antérieurs à l'entrée en vigueur du règlement ne sont pas pris en compte.",
+        "amount": "25 % des frais TVA comprise, au maximum 200 € par logement",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande (au Service Finances)"
+          },
+          {
+            "type": "doc",
+            "label": "Les justificatifs des aménagements et de leur coût : facture, descriptif et engagement sur l'honneur de conformité aux normes de sécurité wallonnes"
+          },
+          {
+            "type": "doc",
+            "label": "Un reportage photo avant et après travaux"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire au Service Finances",
+          "Envoyez-le avec les justificatifs au Collège communal, rue Goffin 2, 5380 Fernelmont",
+          "Le Collège statue dans les 60 jours"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'adaptation du logement occupé par un senior (Prämie zur Wohnungsanpassung für Senioren, Fernelmont)",
+        "desc": "Fernelmont erstattet einen Teil der Kosten, die ein Einwohner ab 65 Jahren für die Anpassung seiner Wohnung aufwendet, um selbstständig zu bleiben, etwa Treppenlift, motorisierte Rollläden, breitere Türen oder ein angepasstes Bad.",
+        "deadline": "Einmal pro Jahr und Wohnung, solange Mittel verfügbar sind; Arbeiten vor Inkrafttreten der Regelung zählen nicht.",
+        "amount": "25 % der Kosten inkl. MwSt., höchstens 200 € pro Wohnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular (beim Service Finances)"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweise der Arbeiten und Kosten: Rechnung, Beschreibung und eidesstattliche Erklärung, dass die Arbeiten den wallonischen Sicherheitsnormen entsprechen"
+          },
+          {
+            "type": "doc",
+            "label": "Fotos vor und nach den Arbeiten"
+          }
+        ],
+        "steps": [
+          "Fragen Sie beim Service Finances nach dem Formular",
+          "Senden Sie es mit den Unterlagen an das Collège communal, rue Goffin 2, 5380 Fernelmont",
+          "Das Collège entscheidet innerhalb von 60 Tagen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "21 Nov 2026",
+      "source_url": [
+        "https://www.fernelmont.be/ma-commune/services-communaux/primes/prime-logement-senior/prime-a-ladaptation-du-logement-occupe-par-un-senior"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in Fernelmont and at least 65 on the day you apply.",
+          "You own, rent or hold the usufruct of the home, which is in Fernelmont and used only as a home; the premium is paid to the senior only."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in Fernelmont en minstens 65 jaar op de dag van de aanvraag.",
+          "Je bent eigenaar, huurder of vruchtgebruiker van de woning, die in Fernelmont ligt en alleen als woning dient; de premie gaat alleen naar de senior."
+        ],
+        "fr": [
+          "Vous êtes domicilié à Fernelmont et avez au moins 65 ans le jour de la demande.",
+          "Vous êtes propriétaire, locataire ou usufruitier du logement, situé à Fernelmont et affecté uniquement au logement ; la prime est attribuée uniquement au senior."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in Fernelmont und sind am Tag des Antrags mindestens 65 Jahre alt.",
+          "Sie sind Eigentümer, Mieter oder Nießbraucher der Wohnung, die in Fernelmont liegt und nur zum Wohnen dient; die Prämie wird nur dem Senior gezahlt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 530,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "73022"
+    ],
+    "institution": "OCMW Heers",
+    "verified": "21 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.heers.be/mantelzorgtoelage",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage (Carer Allowance, Heers)",
+        "desc": "Heers gives an allowance to people with a disability or older people in need of care who are looked after at home and have increased reimbursement (verhoogde tegemoetkoming).",
+        "deadline": "Paid once a year in December; if the care insurance is granted for a limited time, so is the allowance.",
+        "amount": "€12.50 per month, paid once a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of your disability score from the FOD Sociale Zekerheid or, from 70, of your care budget for people in high need of care"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of increased reimbursement from your health fund"
+          }
+        ],
+        "steps": [
+          "Make an appointment with the Sociale Dienst (OCMW), Paardskerkhofstraat 20, 011 48 01 00, sociale.dienst@heers.be",
+          "Tell the OCMW yourself when your care insurance is extended"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage (Heers)",
+        "desc": "Heers geeft een toelage aan personen met een handicap of zorgbehoevende ouderen die thuis verzorgd worden en de verhoogde tegemoetkoming hebben.",
+        "deadline": "Eén keer per jaar uitbetaald in december; wordt de zorgverzekering voor beperkte tijd toegekend, dan ook de toelage.",
+        "amount": "€12,50 per maand, één keer per jaar uitbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van je mindervalidescore van de FOD Sociale Zekerheid of, vanaf 70, van je zorgbudget voor zwaar zorgbehoevenden"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van de verhoogde tegemoetkoming van je ziekenfonds"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak bij de Sociale Dienst (OCMW), Paardskerkhofstraat 20, 011 48 01 00, sociale.dienst@heers.be",
+          "Meld een verlenging van je zorgverzekering zelf aan het OCMW"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage (allocation d'aidant proche, Heers)",
+        "desc": "Heers accorde une allocation aux personnes handicapées ou aux personnes âgées dépendantes soignées à domicile qui bénéficient de l'intervention majorée (verhoogde tegemoetkoming).",
+        "deadline": "Versée une fois par an en décembre ; si l'assurance soins est accordée pour une durée limitée, l'allocation l'est aussi.",
+        "amount": "12,50 € par mois, versés une fois par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La preuve de votre score de handicap du SPF Sécurité sociale ou, dès 70 ans, de votre budget de soins pour personnes fortement dépendantes"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de l'intervention majorée de votre mutualité"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous au Sociale Dienst (OCMW), Paardskerkhofstraat 20, 011 48 01 00, sociale.dienst@heers.be",
+          "Signalez vous-même à l'OCMW la prolongation de votre assurance soins"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage (Pflegezulage, Heers)",
+        "desc": "Heers zahlt Menschen mit Behinderung oder pflegebedürftigen älteren Menschen, die zu Hause gepflegt werden und die erhöhte Kostenerstattung (verhoogde tegemoetkoming) haben, eine Zulage.",
+        "deadline": "Einmal jährlich im Dezember ausgezahlt; wird die Pflegeversicherung befristet gewährt, gilt das auch für die Zulage.",
+        "amount": "12,50 € pro Monat, einmal jährlich ausgezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis Ihrer Behinderungspunkte vom FÖD Soziale Sicherheit oder, ab 70, Ihres Pflegebudgets für schwer Pflegebedürftige"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis der erhöhten Kostenerstattung Ihrer Krankenkasse"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin beim Sociale Dienst (OCMW), Paardskerkhofstraat 20, 011 48 01 00, sociale.dienst@heers.be",
+          "Melden Sie eine Verlängerung Ihrer Pflegeversicherung selbst beim OCMW"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "21 Nov 2026",
+      "source_url": [
+        "https://www.heers.be/mantelzorgtoelage"
+      ],
+      "conditions": {
+        "en": [
+          "Up to 69: a disability score of 12 points from the FOD Sociale Zekerheid, and living at home with your family, not in an institution.",
+          "From 70: a disability score of 9 points or a care budget for people in high need of care, and living in your own home, not in a care home.",
+          "In both cases: increased reimbursement (verhoogde tegemoetkoming) when you apply, and living in Heers for at least one month before applying; the allowance is paid to the person needing care."
+        ],
+        "nl": [
+          "Tot 69 jaar: een mindervalidescore van 12 punten van de FOD Sociale Zekerheid, en thuis bij je gezin wonen, niet in een instelling.",
+          "Vanaf 70 jaar: een mindervalidescore van 9 punten of een zorgbudget voor zwaar zorgbehoevenden, en in je eigen woning wonen, niet in een rusthuis of RVT.",
+          "In beide gevallen: de verhoogde tegemoetkoming op het moment van de aanvraag, en minstens één maand vóór de aanvraag in Heers wonen; de toelage gaat naar de zorgbehoevende."
+        ],
+        "fr": [
+          "Jusqu'à 69 ans : un score de handicap de 12 points du SPF Sécurité sociale, et vivre à domicile avec votre famille, pas en institution.",
+          "Dès 70 ans : un score de handicap de 9 points ou un budget de soins pour personnes fortement dépendantes, et vivre dans votre logement, pas en maison de repos ou MRS.",
+          "Dans les deux cas : l'intervention majorée (verhoogde tegemoetkoming) au moment de la demande, et habiter Heers depuis au moins un mois avant la demande ; l'allocation est versée à la personne dépendante."
+        ],
+        "de": [
+          "Bis 69 Jahre: 12 Behinderungspunkte vom FÖD Soziale Sicherheit und zu Hause bei Ihrer Familie wohnen, nicht in einer Einrichtung.",
+          "Ab 70 Jahren: 9 Behinderungspunkte oder ein Pflegebudget für schwer Pflegebedürftige und in Ihrer eigenen Wohnung wohnen, nicht in einem Alten- oder Pflegeheim.",
+          "In beiden Fällen: die erhöhte Kostenerstattung (verhoogde tegemoetkoming) zum Zeitpunkt des Antrags und seit mindestens einem Monat vor dem Antrag in Heers wohnen; die Zulage geht an die pflegebedürftige Person."
+        ]
+      }
+    }
+  },
+  {
+    "id": 531,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "61019"
+    ],
+    "institution": "Commune de Ferrières",
+    "verified": "21 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ferrieres.be/ma-commune/services-communaux/finances-1/primes",
+    "content": {
+      "en": {
+        "title": "Prime pour langes lavables (Washable Nappies Premium, Ferrières)",
+        "desc": "Ferrières pays back half of what parents spend on washable nappies, while the budget lasts.",
+        "deadline": "Invoices may be at most 3 months older than the birth and must be handed in before the child turns 2.",
+        "amount": "50% of the invoice(s), up to €200",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed declaration of claim (déclaration de créance)"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the purchase invoice(s) in your name; till receipts and sworn statements are not accepted"
+          }
+        ],
+        "steps": [
+          "Fill in the declaration of claim from the commune",
+          "Hand it in with your invoices to the commune of Ferrières before the child turns 2"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour langes lavables (premie herbruikbare luiers, Ferrières)",
+        "desc": "Ferrières betaalt de helft terug van wat ouders uitgeven aan herbruikbare luiers, zolang het budget strekt.",
+        "deadline": "Facturen mogen maximaal 3 maanden ouder zijn dan de geboorte en moeten vóór de tweede verjaardag van het kind binnen zijn.",
+        "amount": "50% van de factuur of facturen, maximaal €200",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevulde schuldvordering (déclaration de créance)"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van de aankoopfactuur of -facturen op jouw naam; kassabonnen en verklaringen op eer worden niet aanvaard"
+          }
+        ],
+        "steps": [
+          "Vul de schuldvordering van de gemeente in",
+          "Dien ze met je facturen in bij de gemeente Ferrières vóór de tweede verjaardag van het kind"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour langes lavables (Ferrières)",
+        "desc": "Ferrières rembourse la moitié des dépenses des parents en langes lavables, dans la mesure des crédits disponibles.",
+        "deadline": "Les factures peuvent dater de maximum 3 mois avant la naissance et doivent être introduites avant le deuxième anniversaire de l'enfant.",
+        "amount": "50 % de la ou des factures, plafonnés à 200 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La déclaration de créance dûment complétée"
+          },
+          {
+            "type": "doc",
+            "label": "La copie de la ou des factures d'achat à votre nom ; tickets de caisse et déclarations sur l'honneur refusés"
+          }
+        ],
+        "steps": [
+          "Complétez la déclaration de créance de la commune",
+          "Introduisez-la avec vos factures à la commune de Ferrières avant les 2 ans de l'enfant"
+        ]
+      },
+      "de": {
+        "title": "Prime pour langes lavables (Prämie für Stoffwindeln, Ferrières)",
+        "desc": "Ferrières erstattet Eltern die Hälfte der Kosten für Stoffwindeln, solange Mittel verfügbar sind.",
+        "deadline": "Rechnungen dürfen höchstens 3 Monate vor der Geburt liegen und müssen vor dem zweiten Geburtstag des Kindes eingereicht werden.",
+        "amount": "50 % der Rechnung(en), höchstens 200 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die ausgefüllte Forderungserklärung (déclaration de créance)"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie der Kaufrechnung(en) auf Ihren Namen; Kassenbons und eidesstattliche Erklärungen werden nicht akzeptiert"
+          }
+        ],
+        "steps": [
+          "Füllen Sie die Forderungserklärung der Gemeinde aus",
+          "Reichen Sie sie mit Ihren Rechnungen vor dem zweiten Geburtstag des Kindes bei der Gemeinde Ferrières ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "21 Nov 2026",
+      "source_url": [
+        "https://www.ferrieres.be/ma-commune/services-communaux/finances-1/primes"
+      ],
+      "conditions": {
+        "en": [
+          "You and your child are registered in Ferrières' population register or foreigners' register on the date you apply.",
+          "Once per child; premiums go in the order complete applications arrive."
+        ],
+        "nl": [
+          "Jij en je kind zijn op de datum van de aanvraag ingeschreven in het bevolkings- of vreemdelingenregister van Ferrières.",
+          "Eén keer per kind; premies volgen de volgorde waarin volledige aanvragen binnenkomen."
+        ],
+        "fr": [
+          "Vous et votre enfant êtes inscrits au registre de la population ou des étrangers de Ferrières à la date de la demande.",
+          "Une seule fois par enfant ; la prime suit l'ordre de réception des demandes complètes."
+        ],
+        "de": [
+          "Sie und Ihr Kind sind am Tag des Antrags im Bevölkerungs- oder Fremdenregister von Ferrières eingetragen.",
+          "Einmal pro Kind; die Prämien folgen der Reihenfolge, in der vollständige Anträge eingehen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 532,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "64025"
+    ],
+    "institution": "Commune de Fexhe-le-Haut-Clocher",
+    "verified": "21 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.fexhe-le-haut-clocher.be/ma-commune/services-communaux/service-population/demarches/prime-de-naissance",
+    "content": {
+      "en": {
+        "title": "Prime de naissance ou d'adoption (Birth or Adoption Premium, Fexhe-le-Haut-Clocher)",
+        "desc": "Fexhe-le-Haut-Clocher gives a one-off premium for each child born or adopted.",
+        "deadline": "Send the form within six months of the birth; later requests are not paid.",
+        "amount": "€50 per child (once)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Completed and signed application form"
+          }
+        ],
+        "steps": [
+          "Download the form on the commune's page",
+          "Send it by email to accueil@fexhe-le-haut-clocher.be, by post or at the reception, rue de la Station 27",
+          "The premium is usually paid within two months"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance ou d'adoption (geboorte- of adoptiepremie, Fexhe-le-Haut-Clocher)",
+        "desc": "Fexhe-le-Haut-Clocher geeft een eenmalige premie voor elk geboren of geadopteerd kind.",
+        "deadline": "Stuur het formulier binnen zes maanden na de geboorte; latere aanvragen worden niet uitbetaald.",
+        "amount": "€50 per kind (één keer)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ingevuld en ondertekend aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Download het formulier op de pagina van de gemeente",
+          "Stuur het per e-mail naar accueil@fexhe-le-haut-clocher.be, per post of geef het af aan het onthaal, rue de la Station 27",
+          "De premie wordt meestal binnen twee maanden betaald"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance ou d'adoption (Fexhe-le-Haut-Clocher)",
+        "desc": "Fexhe-le-Haut-Clocher octroie une prime unique pour chaque enfant né ou adopté.",
+        "deadline": "Le formulaire doit être envoyé dans les six mois de la naissance ; passé ce délai, la prime n'est pas versée.",
+        "amount": "50 € par enfant (une seule fois)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété et signé"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur la page de la commune",
+          "Renvoyez-le par courriel à accueil@fexhe-le-haut-clocher.be, par courrier ou à l'accueil, rue de la Station 27",
+          "La prime est en principe versée dans les deux mois"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance ou d'adoption (Geburts- oder Adoptionsprämie, Fexhe-le-Haut-Clocher)",
+        "desc": "Fexhe-le-Haut-Clocher zahlt für jedes geborene oder adoptierte Kind eine einmalige Prämie.",
+        "deadline": "Senden Sie das Formular innerhalb von sechs Monaten nach der Geburt; spätere Anträge werden nicht ausgezahlt.",
+        "amount": "50 € pro Kind (einmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte und unterschriebene Antragsformular"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf der Seite der Gemeinde herunter",
+          "Senden Sie es per E-Mail an accueil@fexhe-le-haut-clocher.be, per Post oder geben Sie es am Empfang ab, rue de la Station 27",
+          "Die Prämie wird in der Regel innerhalb von zwei Monaten gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "21 Nov 2026",
+      "source_url": [
+        "https://www.fexhe-le-haut-clocher.be/ma-commune/services-communaux/service-population/demarches/prime-de-naissance"
+      ],
+      "conditions": {
+        "en": [
+          "You apply as the person with whom the child is domiciled.",
+          "You are domiciled in Fexhe-le-Haut-Clocher on the date of birth or adoption and permanently registered in the population register or the foreigners' register."
+        ],
+        "nl": [
+          "Je vraagt aan als de persoon bij wie het kind gedomicilieerd is.",
+          "Je bent op de datum van geboorte of adoptie gedomicilieerd in Fexhe-le-Haut-Clocher en definitief ingeschreven in het bevolkings- of vreemdelingenregister."
+        ],
+        "fr": [
+          "Vous faites la demande en tant que personne chez qui l'enfant est domicilié.",
+          "Vous êtes domicilié à Fexhe-le-Haut-Clocher à la date de la naissance ou de l'adoption et inscrit définitivement au registre de la population ou au registre des étrangers."
+        ],
+        "de": [
+          "Sie stellen den Antrag als die Person, bei der das Kind seinen Wohnsitz hat.",
+          "Sie haben am Tag der Geburt oder Adoption Ihren Wohnsitz in Fexhe-le-Haut-Clocher und sind endgültig im Bevölkerungs- oder Fremdenregister eingetragen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 533,
+    "category": "housing",
+    "situations": [
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24038"
+    ],
+    "institution": "Gemeente Herent",
+    "verified": "21 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.herent.be/isolerende-maatregelen",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke isolatiepremie (Municipal Insulation Top-Up, Herent)",
+        "desc": "Herent adds a premium for roof, attic floor, outer wall, cavity wall, floor or cellar insulation in an existing home for households in income category 3 or 4 of Mijn VerbouwPremie.",
+        "deadline": "Apply once you have Mijn VerbouwPremie's decision letter; the commune also emails eligible households.",
+        "amount": "€3.50 per m² of insulation, on at most 170 m² (for Mijn VerbouwPremie applications from 1 Jan 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Mijn VerbouwPremie's decision letter"
+          },
+          {
+            "type": "doc",
+            "label": "The detail of the decision showing income category 3 or 4"
+          }
+        ],
+        "steps": [
+          "Apply for Mijn VerbouwPremie with the Flemish government",
+          "Send the two documents through Herent's online application form",
+          "Questions: milieu@herent.be"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke isolatiepremie (Herent)",
+        "desc": "Herent geeft een extra premie voor dak-, zoldervloer-, buitenmuur-, spouwmuur-, vloer- of kelderisolatie in een bestaande woning voor gezinnen in inkomenscategorie 3 of 4 van Mijn VerbouwPremie.",
+        "deadline": "Aanvragen zodra je de beslissingsbrief van Mijn VerbouwPremie hebt; de gemeente mailt ook zelf rechthebbende gezinnen.",
+        "amount": "€3,5 per m² isolatie, op maximaal 170 m² (voor Mijn VerbouwPremies aangevraagd vanaf 1 januari 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De beslissingsbrief van Mijn VerbouwPremie"
+          },
+          {
+            "type": "doc",
+            "label": "Het detail van de beslissing waaruit inkomenscategorie 3 of 4 blijkt"
+          }
+        ],
+        "steps": [
+          "Vraag Mijn VerbouwPremie aan bij de Vlaamse overheid",
+          "Bezorg de twee documenten via het online aanvraagformulier van Herent",
+          "Vragen: milieu@herent.be"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke isolatiepremie (prime communale à l'isolation, Herent)",
+        "desc": "Herent accorde une prime complémentaire pour l'isolation du toit, du plancher de grenier, des murs extérieurs, des murs creux, du sol ou de la cave d'un logement existant, pour les ménages des catégories de revenus 3 ou 4 de Mijn VerbouwPremie.",
+        "deadline": "Demande dès réception de la lettre de décision de Mijn VerbouwPremie ; la commune contacte aussi par e-mail les ménages concernés.",
+        "amount": "3,50 € par m² d'isolation, sur 170 m² au maximum (pour les demandes Mijn VerbouwPremie à partir du 1er janvier 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La lettre de décision de Mijn VerbouwPremie"
+          },
+          {
+            "type": "doc",
+            "label": "Le détail de la décision montrant la catégorie de revenus 3 ou 4"
+          }
+        ],
+        "steps": [
+          "Demandez Mijn VerbouwPremie auprès des autorités flamandes",
+          "Transmettez les deux documents via le formulaire en ligne de Herent",
+          "Questions : milieu@herent.be"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke isolatiepremie (Gemeindeprämie für Dämmung, Herent)",
+        "desc": "Herent zahlt eine Zusatzprämie für Dach-, Dachboden-, Außenwand-, Hohlwand-, Boden- oder Kellerdämmung in einer bestehenden Wohnung für Haushalte der Einkommenskategorie 3 oder 4 von Mijn VerbouwPremie.",
+        "deadline": "Antrag, sobald Sie den Entscheidungsbrief von Mijn VerbouwPremie haben; die Gemeinde schreibt berechtigte Haushalte auch per E-Mail an.",
+        "amount": "3,50 € pro m² Dämmung, für höchstens 170 m² (für Mijn-VerbouwPremie-Anträge ab 1. Januar 2026)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der Entscheidungsbrief von Mijn VerbouwPremie"
+          },
+          {
+            "type": "doc",
+            "label": "Die Einzelheiten der Entscheidung mit der Einkommenskategorie 3 oder 4"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie Mijn VerbouwPremie bei der flämischen Regierung",
+          "Senden Sie die beiden Unterlagen über das Online-Formular von Herent",
+          "Fragen: milieu@herent.be"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "21 Nov 2026",
+      "source_url": [
+        "https://www.herent.be/isolerende-maatregelen"
+      ],
+      "conditions": {
+        "en": [
+          "You received Mijn VerbouwPremie for the insulation and belong to its income category 3 or 4.",
+          "The home is in Herent and got its building permit before 1 Jan 2006; new builds, rebuilds, extensions and major renovations that must meet E-level rules do not count.",
+          "The insulation meets the page's minimum values (e.g. roof Rd ≥ 4.5, outer wall Rd ≥ 3, floor Rd ≥ 2); premiums are paid within the available budget."
+        ],
+        "nl": [
+          "Je kreeg Mijn VerbouwPremie voor de isolatie en behoort tot inkomenscategorie 3 of 4 daarvan.",
+          "De woning ligt in Herent en kreeg een bouwvergunning vóór 1 januari 2006; nieuwbouw, herbouw, uitbreiding en grondige verbouwingen die aan E-peileisen moeten voldoen, tellen niet.",
+          "De isolatie haalt de minimumwaarden van de pagina (bv. dak Rd ≥ 4,5, buitenmuur Rd ≥ 3, vloer Rd ≥ 2); premies binnen de voorziene kredieten."
+        ],
+        "fr": [
+          "Vous avez reçu Mijn VerbouwPremie pour l'isolation et appartenez à sa catégorie de revenus 3 ou 4.",
+          "Le logement est situé à Herent et a obtenu son permis de bâtir avant le 1er janvier 2006 ; les nouvelles constructions, reconstructions, extensions et rénovations lourdes soumises aux exigences PEB n'entrent pas en compte.",
+          "L'isolation atteint les valeurs minimales de la page (p. ex. toit Rd ≥ 4,5, mur extérieur Rd ≥ 3, sol Rd ≥ 2) ; primes dans la limite des crédits."
+        ],
+        "de": [
+          "Sie haben Mijn VerbouwPremie für die Dämmung erhalten und gehören zu deren Einkommenskategorie 3 oder 4.",
+          "Die Wohnung liegt in Herent und erhielt ihre Baugenehmigung vor dem 1. Januar 2006; Neubauten, Wiederaufbau, Erweiterungen und umfassende Renovierungen mit E-Wert-Pflicht zählen nicht.",
+          "Die Dämmung erreicht die Mindestwerte der Seite (z. B. Dach Rd ≥ 4,5, Außenwand Rd ≥ 3, Boden Rd ≥ 2); Prämien im Rahmen der verfügbaren Mittel."
+        ]
+      }
+    }
+  },
+  {
+    "id": 534,
+    "category": "housing",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "62038"
+    ],
+    "institution": "Commune de Fléron",
+    "verified": "21 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.fleron.be/ma-commune/services-communaux/conseiller-en-energie/primes-et-aides",
+    "content": {
+      "en": {
+        "title": "Prime pour l'installation d'un chauffe-eau solaire (Solar Water Heater Premium, Fléron)",
+        "desc": "Fléron gives residents a premium for installing a solar water heater in a building in the commune.",
+        "deadline": "Ask the Service Énergie for the conditions and deadline before you apply.",
+        "amount": "€150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ask the Service Énergie which documents to send"
+          }
+        ],
+        "steps": [
+          "Contact the Service Énergie: energie@fleron.be, 04 355 91 53",
+          "Apply with the documents it asks for"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour l'installation d'un chauffe-eau solaire (premie zonneboiler, Fléron)",
+        "desc": "Fléron geeft inwoners een premie voor de installatie van een zonneboiler in een gebouw in de gemeente.",
+        "deadline": "Vraag de Service Énergie naar de voorwaarden en de termijn vóór je aanvraagt.",
+        "amount": "€150",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Vraag de Service Énergie welke documenten je moet bezorgen"
+          }
+        ],
+        "steps": [
+          "Neem contact op met de Service Énergie: energie@fleron.be, 04 355 91 53",
+          "Vraag aan met de documenten die zij vragen"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour l'installation d'un chauffe-eau solaire (Fléron)",
+        "desc": "Fléron octroie aux citoyens une prime pour l'installation d'un chauffe-eau solaire dans un bâtiment situé sur la commune.",
+        "deadline": "Renseignez-vous auprès du Service Énergie sur les conditions et le délai avant d'introduire la demande.",
+        "amount": "150 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Demandez au Service Énergie quels documents fournir"
+          }
+        ],
+        "steps": [
+          "Contactez le Service Énergie : energie@fleron.be, 04 355 91 53",
+          "Introduisez la demande avec les documents demandés"
+        ]
+      },
+      "de": {
+        "title": "Prime pour l'installation d'un chauffe-eau solaire (Prämie für Solarwarmwasserbereiter, Fléron)",
+        "desc": "Fléron zahlt Einwohnern eine Prämie für die Installation eines Solarwarmwasserbereiters in einem Gebäude in der Gemeinde.",
+        "deadline": "Erkundigen Sie sich vor dem Antrag beim Service Énergie nach Bedingungen und Frist.",
+        "amount": "150 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Fragen Sie beim Service Énergie, welche Unterlagen nötig sind"
+          }
+        ],
+        "steps": [
+          "Kontaktieren Sie den Service Énergie: energie@fleron.be, 04 355 91 53",
+          "Stellen Sie den Antrag mit den angeforderten Unterlagen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "21 Nov 2026",
+      "source_url": [
+        "https://www.fleron.be/ma-commune/services-communaux/conseiller-en-energie/primes-et-aides"
+      ],
+      "conditions": {
+        "en": [
+          "You are a citizen of Fléron and the building is in the commune of Fléron."
+        ],
+        "nl": [
+          "Je bent inwoner van Fléron en het gebouw ligt in de gemeente Fléron."
+        ],
+        "fr": [
+          "Vous êtes citoyen fléronnais et le bâtiment est situé sur le territoire de la commune de Fléron."
+        ],
+        "de": [
+          "Sie sind Einwohner von Fléron und das Gebäude liegt in der Gemeinde Fléron."
+        ]
+      }
+    }
+  },
+  {
+    "id": 535,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13011"
+    ],
+    "institution": "Stad Herentals",
+    "verified": "21 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.herentals.be/sociale-hulp-en-zorg/dienstencentrum/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Herentals)",
+        "desc": "Herentals gives the main carer of a resident who needs care a yearly premium in local gift vouchers.",
+        "deadline": "Apply before 30 Nov 2026; all requests are decided together and you get a letter in early January 2027.",
+        "amount": "€150 a year in Handelshart Herentals gift vouchers",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of the care budget for people in high need of care for 2026, or a zorgtoeslag certificate showing at least 12 points (or 6 in the third pillar)"
+          }
+        ],
+        "steps": [
+          "Download the form on herentals.be or ask at a local service centre",
+          "Send it with the proof to dienstencentrum@herentals.be, by post to LDC Convent 2, Augustijnenlaan 30, or hand it in at Convent2 or Het Pomphuis (Morkhoven)",
+          "If granted, collect the vouchers at the times given in the letter"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Herentals)",
+        "desc": "Herentals geeft de centrale mantelzorger van een inwoner met een zorgnood jaarlijks een premie in lokale cadeaubonnen.",
+        "deadline": "Aanvragen vóór 30 november 2026; alle aanvragen worden samen behandeld en je krijgt begin januari 2027 een brief.",
+        "amount": "€150 per jaar in Handelshart Herentals Cadeaubonnen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van het zorgbudget voor zwaar zorgbehoevenden in 2026, of een attest zorgtoeslag met minstens 12 punten (of 6 in de derde pijler)"
+          }
+        ],
+        "steps": [
+          "Download het formulier op herentals.be of vraag het aan het onthaal van een lokaal dienstencentrum",
+          "Bezorg het met het bewijs via dienstencentrum@herentals.be, per post aan LDC Convent 2, Augustijnenlaan 30, of geef het af in Convent2 of Het Pomphuis (Morkhoven)",
+          "Bij toekenning haal je de cadeaubonnen af op de momenten in de brief"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime d'aidant proche, Herentals)",
+        "desc": "Herentals accorde chaque année à l'aidant proche principal d'un habitant ayant besoin de soins une prime en chèques-cadeaux locaux.",
+        "deadline": "Demande avant le 30 novembre 2026 ; les demandes sont traitées ensemble et vous recevez une lettre début janvier 2027.",
+        "amount": "150 € par an en chèques-cadeaux Handelshart Herentals",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve du budget de soins pour personnes fortement dépendantes en 2026, ou une attestation zorgtoeslag avec au moins 12 points (ou 6 dans le troisième pilier)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur herentals.be ou demandez-le dans un centre de services local",
+          "Envoyez-le avec la preuve à dienstencentrum@herentals.be, par courrier au LDC Convent 2, Augustijnenlaan 30, ou déposez-le à Convent2 ou Het Pomphuis (Morkhoven)",
+          "En cas d'octroi, retirez les chèques aux moments indiqués dans la lettre"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Pflegeprämie, Herentals)",
+        "desc": "Herentals zahlt der Hauptpflegeperson eines pflegebedürftigen Einwohners jährlich eine Prämie in lokalen Geschenkgutscheinen.",
+        "deadline": "Antrag vor dem 30. November 2026; alle Anträge werden gemeinsam bearbeitet, Anfang Januar 2027 erhalten Sie einen Brief.",
+        "amount": "150 € pro Jahr in Handelshart-Herentals-Gutscheinen",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis des Pflegebudgets für schwer Pflegebedürftige 2026 oder eine Bescheinigung zorgtoeslag mit mindestens 12 Punkten (oder 6 in der dritten Säule)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf herentals.be herunter oder fragen Sie in einem lokalen Dienstleistungszentrum",
+          "Senden Sie es mit dem Nachweis an dienstencentrum@herentals.be, per Post an LDC Convent 2, Augustijnenlaan 30, oder geben Sie es in Convent2 oder Het Pomphuis (Morkhoven) ab",
+          "Bei Bewilligung holen Sie die Gutscheine zu den im Brief genannten Zeiten ab"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "21 Nov 2026",
+      "source_url": [
+        "https://www.herentals.be/sociale-hulp-en-zorg/dienstencentrum/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The carer is the main carer, gives regular help at home, turns at least 18 in the year of the request, lives in the province of Antwerp and does not live at the same address as the person needing care; one premium per carer per year.",
+          "The person needing care is registered at an address in Herentals, does not live in a residential institution and proves the care need with the 2026 care budget for people in high need of care or a zorgtoeslag certificate (at least 12 points, or 6 in the third pillar).",
+          "One premium per year per person needing care, and one per address when several people needing care live there."
+        ],
+        "nl": [
+          "De mantelzorger is de centrale mantelzorger, geeft regelmatig hulp in de thuissituatie, wordt minstens 18 in het jaar van de aanvraag, woont in de provincie Antwerpen en woont niet op hetzelfde adres als de zorgbehoevende; één premie per mantelzorger per jaar.",
+          "De persoon met een zorgnood is ingeschreven op een adres in Herentals, verblijft niet in een residentiële instelling en toont de zorgnood aan met het zorgbudget voor zwaar zorgbehoevenden in 2026 of een attest zorgtoeslag (minstens 12 punten, of 6 in de derde pijler).",
+          "Eén premie per jaar per persoon met een zorgnood, en één per adres als er meerdere zorgbehoevenden wonen."
+        ],
+        "fr": [
+          "L'aidant est l'aidant proche principal, aide régulièrement à domicile, atteint au moins 18 ans dans l'année de la demande, habite la province d'Anvers et n'habite pas à la même adresse que la personne aidée ; une prime par aidant et par an.",
+          "La personne aidée est inscrite à une adresse à Herentals, ne vit pas en institution résidentielle et prouve son besoin de soins par le budget de soins pour personnes fortement dépendantes 2026 ou une attestation zorgtoeslag (au moins 12 points, ou 6 dans le troisième pilier).",
+          "Une prime par an par personne aidée, et une seule par adresse si plusieurs personnes dépendantes y vivent."
+        ],
+        "de": [
+          "Die Pflegeperson ist die Hauptpflegeperson, hilft regelmäßig zu Hause, wird im Antragsjahr mindestens 18, wohnt in der Provinz Antwerpen und nicht an derselben Adresse wie die pflegebedürftige Person; eine Prämie pro Pflegeperson und Jahr.",
+          "Die pflegebedürftige Person ist an einer Adresse in Herentals eingetragen, lebt nicht in einer stationären Einrichtung und weist den Pflegebedarf mit dem Pflegebudget für schwer Pflegebedürftige 2026 oder einer Bescheinigung zorgtoeslag nach (mindestens 12 Punkte oder 6 in der dritten Säule).",
+          "Eine Prämie pro Jahr und pflegebedürftiger Person, und nur eine pro Adresse, wenn dort mehrere Pflegebedürftige wohnen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 536,
+    "category": "other",
+    "situations": [
+      "children",
+      "school"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "52021"
+    ],
+    "institution": "Ville de Fleurus",
+    "verified": "21 Nov 2026",
+    "status": "verified",
+    "source_url": "https://fleurus.be/actualites/prime-communale-inscriptions-a-lacademie",
+    "content": {
+      "en": {
+        "title": "Prime communale Académie (Art Academy Premium, Fleurus)",
+        "desc": "Fleurus gives a one-off premium to children under 12 enrolled at the René Borremans music and spoken-arts academy, now that enrolment is no longer free for them.",
+        "deadline": "Apply by 31 Jan 2027 for the 2026-2027 school year.",
+        "amount": "€25 (once)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed premium form"
+          }
+        ],
+        "steps": [
+          "Download the regulation and form from the Fleurus page",
+          "Send the form to the administration communale by post or email"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale Académie (premie kunstacademie, Fleurus)",
+        "desc": "Fleurus geeft een eenmalige premie aan kinderen jonger dan 12 die ingeschreven zijn aan de muziek- en woordacademie René Borremans, nu de inschrijving voor hen niet meer gratis is.",
+        "deadline": "Aanvragen ten laatste op 31 januari 2027 voor het schooljaar 2026-2027.",
+        "amount": "€25 (één keer)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde premieformulier"
+          }
+        ],
+        "steps": [
+          "Download het reglement en het formulier op de pagina van Fleurus",
+          "Stuur het formulier per post of e-mail naar het gemeentebestuur"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale Académie (Fleurus)",
+        "desc": "Fleurus octroie une prime unique aux jeunes de moins de 12 ans inscrits à l'Académie de Musique et des Arts parlés « René Borremans », dont l'inscription n'est plus gratuite.",
+        "deadline": "Demande au plus tard le 31 janvier 2027 pour l'année scolaire 2026-2027.",
+        "amount": "25 € (une seule fois)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de prime complété"
+          }
+        ],
+        "steps": [
+          "Téléchargez le règlement et le formulaire sur la page de Fleurus",
+          "Envoyez le formulaire à l'administration communale par courrier ou par courriel"
+        ]
+      },
+      "de": {
+        "title": "Prime communale Académie (Prämie Kunstakademie, Fleurus)",
+        "desc": "Fleurus zahlt Kindern unter 12 Jahren, die an der Akademie für Musik und Sprechkunst „René Borremans“ eingeschrieben sind, eine einmalige Prämie, da die Einschreibung für sie nicht mehr kostenlos ist.",
+        "deadline": "Antrag bis spätestens 31. Januar 2027 für das Schuljahr 2026-2027.",
+        "amount": "25 € (einmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Prämienformular"
+          }
+        ],
+        "steps": [
+          "Laden Sie Reglement und Formular auf der Seite von Fleurus herunter",
+          "Senden Sie das Formular per Post oder E-Mail an die Gemeindeverwaltung"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "21 Nov 2026",
+      "source_url": [
+        "https://fleurus.be/actualites/prime-communale-inscriptions-a-lacademie"
+      ],
+      "conditions": {
+        "en": [
+          "The pupil is domiciled in Fleurus, is under 12 and is enrolled at the René Borremans academy for the 2026-2027 school year."
+        ],
+        "nl": [
+          "De leerling is gedomicilieerd in Fleurus, is jonger dan 12 en is ingeschreven aan de academie René Borremans voor het schooljaar 2026-2027."
+        ],
+        "fr": [
+          "L'élève est domicilié à Fleurus, a moins de 12 ans et est inscrit à l'Académie René Borremans pour l'année scolaire 2026-2027."
+        ],
+        "de": [
+          "Die Schülerin oder der Schüler hat den Wohnsitz in Fleurus, ist unter 12 Jahre alt und für das Schuljahr 2026-2027 an der Akademie René Borremans eingeschrieben."
+        ]
+      }
+    }
   }
 ]
