@@ -1825,49 +1825,80 @@
       "ids": [
         536
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "13012",
-      "name": "Herenthout"
+      "name": "Herenthout",
+      "checked": "22 Nov 2026",
+      "ids": [
+        537
+      ]
     },
     {
       "nis": "92045",
-      "name": "Floreffe"
+      "name": "Floreffe",
+      "checked": "22 Nov 2026",
+      "ids": [
+        538
+      ]
     },
     {
       "nis": "71024",
-      "name": "Herk-de-Stad / Herck-la-Ville"
+      "name": "Herk-de-Stad / Herck-la-Ville",
+      "checked": "22 Nov 2026",
+      "ids": [
+        539
+      ]
     },
     {
       "nis": "93022",
-      "name": "Florennes"
+      "name": "Florennes",
+      "checked": "22 Nov 2026",
+      "ids": []
     },
     {
       "nis": "13013",
-      "name": "Herselt"
+      "name": "Herselt",
+      "checked": "22 Nov 2026",
+      "ids": [
+        540,
+        541
+      ]
     },
     {
       "nis": "85011",
-      "name": "Florenville"
+      "name": "Florenville",
+      "checked": "22 Nov 2026",
+      "ids": []
     },
     {
       "nis": "73028",
-      "name": "Herstappe"
+      "name": "Herstappe",
+      "checked": "22 Nov 2026",
+      "ids": []
     },
     {
       "nis": "52022",
-      "name": "Fontaine-lEvêque"
+      "name": "Fontaine-lEvêque",
+      "checked": "22 Nov 2026",
+      "ids": []
     },
     {
       "nis": "41027",
-      "name": "Herzele"
+      "name": "Herzele",
+      "checked": "22 Nov 2026",
+      "ids": [
+        542
+      ]
     },
     {
       "nis": "92048",
-      "name": "Fosses-la-Ville"
-    },
+      "name": "Fosses-la-Ville",
+      "checked": "22 Nov 2026",
+      "ids": []
+    }
+  ],
+  "queue": [
     {
       "nis": "71070",
       "name": "Heusden-Zolder"

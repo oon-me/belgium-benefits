@@ -66896,5 +66896,822 @@
         ]
       }
     }
+  },
+  {
+    "id": 537,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13012"
+    ],
+    "institution": "Gemeente Herenthout",
+    "verified": "22 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.herenthout.be/herbruikbare-luiers",
+    "request_url": "https://www.herenthout.be/aanvraag-premie-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Premie herbruikbare luiers (Reusable Nappies Premium, Herenthout)",
+        "desc": "Herenthout gives families a one-off premium when they buy reusable nappies for a child under three.",
+        "deadline": "Apply while the child is under three; the proof of purchase may not be older than one year.",
+        "amount": "€100 once per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of purchase of reusable nappies and accessories of at least €200, not older than one year"
+          }
+        ],
+        "steps": [
+          "Fill in the online request form on herenthout.be, or apply at the environment service (Omgeving), Bouwelse Steenweg 8",
+          "Attach the proof of purchase",
+          "The premium is transferred to your account within two months"
+        ]
+      },
+      "nl": {
+        "title": "Premie herbruikbare luiers (Herenthout)",
+        "desc": "Herenthout geeft gezinnen een eenmalige premie bij de aankoop van herbruikbare luiers voor een kind jonger dan drie jaar.",
+        "deadline": "Aanvragen zolang het kind jonger is dan drie jaar; het aankoopbewijs mag niet ouder zijn dan één jaar.",
+        "amount": "€100 eenmalig per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoopbewijs van herbruikbare luiers en benodigdheden van minstens €200, niet ouder dan één jaar"
+          }
+        ],
+        "steps": [
+          "Vul het online aanvraagformulier op herenthout.be in, of vraag aan bij de dienst Omgeving, Bouwelse Steenweg 8",
+          "Voeg het aankoopbewijs toe",
+          "De premie wordt binnen twee maanden op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Premie herbruikbare luiers (prime langes réutilisables, Herenthout)",
+        "desc": "Herenthout accorde aux familles une prime unique à l'achat de langes réutilisables pour un enfant de moins de trois ans.",
+        "deadline": "Demande tant que l'enfant a moins de trois ans ; la preuve d'achat ne peut pas dater de plus d'un an.",
+        "amount": "100 € une fois par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve d'achat de langes réutilisables et accessoires d'au moins 200 €, datant de moins d'un an"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire de demande en ligne sur herenthout.be, ou adressez-vous au service Omgeving, Bouwelse Steenweg 8",
+          "Joignez la preuve d'achat",
+          "La prime est versée sur votre compte dans les deux mois"
+        ]
+      },
+      "de": {
+        "title": "Premie herbruikbare luiers (Prämie für Mehrweg-Windeln, Herenthout)",
+        "desc": "Herenthout zahlt Familien eine einmalige Prämie beim Kauf von Mehrweg-Windeln für ein Kind unter drei Jahren.",
+        "deadline": "Antrag, solange das Kind unter drei Jahre alt ist; der Kaufbeleg darf nicht älter als ein Jahr sein.",
+        "amount": "100 € einmalig pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kaufbeleg für Mehrweg-Windeln und Zubehör von mindestens 200 €, nicht älter als ein Jahr"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Online-Antragsformular auf herenthout.be aus oder wenden Sie sich an den Dienst Omgeving, Bouwelse Steenweg 8",
+          "Fügen Sie den Kaufbeleg bei",
+          "Die Prämie wird innerhalb von zwei Monaten auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "22 Nov 2026",
+      "source_url": [
+        "https://www.herenthout.be/herbruikbare-luiers",
+        "https://www.herenthout.be/file/download/252e0e49-08ec-41b4-9e93-bd3572fc9b8b/wjqk6CGtfdLFEoNa8oRuEXmLlodrTuo9qsyznV83d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Families or single people registered in the population register (bevolkingsregister) of Herenthout with children aged 0 to 3.",
+          "Any type of reusable nappy counts; the proof of purchase of nappies and accessories is at least €200 and not older than one year.",
+          "One premium per child, within the budget set each year."
+        ],
+        "nl": [
+          "Gezinnen of alleenstaanden ingeschreven in het bevolkingsregister van Herenthout met kinderen tussen 0 en 3 jaar.",
+          "Alle soorten herbruikbare luiers tellen; het aankoopbewijs van luiers en benodigdheden bedraagt minstens €200 en is niet ouder dan één jaar.",
+          "Eén premie per kind, binnen de jaarlijks voorziene kredieten."
+        ],
+        "fr": [
+          "Familles ou personnes seules inscrites au registre de la population (bevolkingsregister) de Herenthout avec des enfants de 0 à 3 ans.",
+          "Tous les types de langes réutilisables comptent ; la preuve d'achat des langes et accessoires atteint au moins 200 € et date de moins d'un an.",
+          "Une prime par enfant, dans les limites du budget annuel."
+        ],
+        "de": [
+          "Familien oder Alleinstehende, die im Bevölkerungsregister (bevolkingsregister) von Herenthout eingetragen sind, mit Kindern von 0 bis 3 Jahren.",
+          "Alle Arten von Mehrweg-Windeln zählen; der Kaufbeleg für Windeln und Zubehör beträgt mindestens 200 € und ist nicht älter als ein Jahr.",
+          "Eine Prämie pro Kind, im Rahmen der jährlichen Haushaltsmittel."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the regulation requires registration in the population register (bevolkingsregister) of Herenthout.",
+            "nl": "Niet voor jou: het reglement vereist inschrijving in het bevolkingsregister van Herenthout.",
+            "fr": "Pas pour vous : le règlement exige l'inscription au registre de la population (bevolkingsregister) de Herenthout.",
+            "de": "Nicht für Sie: die Regelung verlangt die Eintragung im Bevölkerungsregister (bevolkingsregister) von Herenthout."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 538,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "92045"
+    ],
+    "institution": "Commune de Floreffe",
+    "verified": "22 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.floreffe.be/prime-communale-achat-langes-lavables-et-reutilisables",
+    "content": {
+      "en": {
+        "title": "Prime langes lavables (Washable Nappies Premium, Floreffe)",
+        "desc": "Floreffe refunds half of what you spend on washable nappies, new or second-hand, for a child living in the commune.",
+        "deadline": "Apply before the child turns 2; invoices may date from at most three months before the birth.",
+        "amount": "50% of the invoices, up to €125 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the purchase invoice(s); for second-hand nappies, the sale offer and a note from the seller"
+          },
+          {
+            "type": "doc",
+            "label": "Copy of the birth certificate extract or the household composition"
+          }
+        ],
+        "steps": [
+          "Download the form on floreffe.be or collect it at the environment service",
+          "Send or bring it with the documents to the environment service, rue Emile Romedenne 9, 5150 Floreffe, or e-mail environnement@floreffe.be",
+          "Premiums are granted in order of arrival, within the yearly budget"
+        ]
+      },
+      "nl": {
+        "title": "Prime langes lavables (premie wasbare luiers, Floreffe)",
+        "desc": "Floreffe betaalt de helft terug van wat je uitgeeft aan wasbare luiers, nieuw of tweedehands, voor een kind dat in de gemeente woont.",
+        "deadline": "Aanvragen voordat het kind 2 jaar wordt; facturen mogen ten vroegste drie maanden vóór de geboorte dateren.",
+        "amount": "50% van de facturen, maximaal €125 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van de aankoopfactuur of -facturen; voor tweedehandsluiers de verkoopadvertentie en een nota van de verkoper"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van het uittreksel uit de geboorteakte of de gezinssamenstelling"
+          }
+        ],
+        "steps": [
+          "Download het formulier op floreffe.be of haal het af bij de milieudienst",
+          "Stuur of breng het met de documenten naar de milieudienst, rue Emile Romedenne 9, 5150 Floreffe, of mail naar environnement@floreffe.be",
+          "Premies worden toegekend in volgorde van ontvangst, binnen het jaarlijkse budget"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale à l'achat de langes lavables (Floreffe)",
+        "desc": "Floreffe rembourse la moitié de vos achats de langes lavables, neufs ou de seconde main, pour un enfant domicilié dans la commune.",
+        "deadline": "Demande avant que l'enfant n'ait atteint 2 ans ; les factures ne peuvent être antérieures de plus de trois mois à la naissance.",
+        "amount": "50 % des factures, maximum 125 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Copie de(s) facture(s) d'achat ; pour des langes de seconde main, une copie de l'offre de vente et une note du vendeur"
+          },
+          {
+            "type": "doc",
+            "label": "Copie de l'extrait d'acte de naissance ou de la composition de ménage"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur floreffe.be ou retirez-le au service environnement",
+          "Renvoyez-le ou déposez-le avec les documents au service environnement, rue Emile Romedenne 9, 5150 Floreffe, ou par courriel à environnement@floreffe.be",
+          "Les primes sont octroyées par ordre d'arrivée, dans les limites du budget"
+        ]
+      },
+      "de": {
+        "title": "Prime langes lavables (Prämie für waschbare Windeln, Floreffe)",
+        "desc": "Floreffe erstattet die Hälfte Ihrer Ausgaben für waschbare Windeln, neu oder gebraucht, für ein Kind mit Wohnsitz in der Gemeinde.",
+        "deadline": "Antrag, bevor das Kind 2 Jahre alt wird; Rechnungen dürfen höchstens drei Monate vor der Geburt datieren.",
+        "amount": "50 % der Rechnungen, höchstens 125 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie der Kaufrechnung(en); bei gebrauchten Windeln das Verkaufsangebot und eine Notiz des Verkäufers"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie des Geburtsurkundenauszugs oder der Haushaltszusammensetzung"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular auf floreffe.be herunter oder holen Sie es beim Umweltdienst ab",
+          "Senden oder bringen Sie es mit den Unterlagen zum Umweltdienst, rue Emile Romedenne 9, 5150 Floreffe, oder per E-Mail an environnement@floreffe.be",
+          "Prämien werden in der Reihenfolge des Eingangs im Rahmen des Jahresbudgets gewährt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "22 Nov 2026",
+      "source_url": [
+        "https://www.floreffe.be/prime-communale-achat-langes-lavables-et-reutilisables",
+        "https://www.floreffe.be/wp-content/uploads/2022/02/formulaire-primes-langes-parents.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The child is domiciled in Floreffe; the father, the mother or the person with whom the child is domiciled applies.",
+          "Apply before the child turns 2; invoices may not date from more than three months before the birth.",
+          "Once per child; new and second-hand purchases can be added up to reach the €125 ceiling; within the budget, in order of arrival."
+        ],
+        "nl": [
+          "Het kind is gedomicilieerd in Floreffe; de vader, de moeder of de persoon bij wie het kind gedomicilieerd is, vraagt aan.",
+          "Aanvragen voordat het kind 2 jaar wordt; facturen mogen niet meer dan drie maanden vóór de geboorte dateren.",
+          "Eén keer per kind; nieuwe en tweedehandse aankopen mogen samengeteld worden tot het plafond van €125; binnen het budget, in volgorde van ontvangst."
+        ],
+        "fr": [
+          "L'enfant est domicilié dans la commune de Floreffe ; la demande est faite par le père, la mère ou la personne chez qui l'enfant est domicilié.",
+          "Demande avant que l'enfant n'ait atteint 2 ans ; factures au plus trois mois avant la naissance.",
+          "Une seule fois par enfant ; achats neufs et de seconde main cumulables jusqu'au plafond de 125 € ; dans les limites du budget, par ordre d'arrivée."
+        ],
+        "de": [
+          "Das Kind hat seinen Wohnsitz in Floreffe; den Antrag stellt der Vater, die Mutter oder die Person, bei der das Kind gemeldet ist.",
+          "Antrag, bevor das Kind 2 Jahre alt wird; Rechnungen höchstens drei Monate vor der Geburt.",
+          "Einmal pro Kind; neue und gebrauchte Käufe können bis zur Obergrenze von 125 € zusammengerechnet werden; im Rahmen des Budgets, nach Eingang."
+        ]
+      }
+    }
+  },
+  {
+    "id": 539,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "71024"
+    ],
+    "institution": "OCMW Herk-de-Stad",
+    "verified": "22 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.herk-de-stad.be/leven-en-welzijn/welzijn-ocmw/senioren-en-personen-met-een-beperking/mantelzorgpremie",
+    "request_url": "https://www.herk-de-stad.be/aanvraagformulier-mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Herk-de-Stad)",
+        "desc": "Herk-de-Stad pays a monthly allowance to the carer of a resident who needs permanent care at home.",
+        "deadline": "No deadline on the page; the conditions are checked again every year, and changes must be reported.",
+        "amount": "Up to €30 a month (group 1) or €45 a month (group 2), indexed yearly",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, in the name of the person needing care"
+          },
+          {
+            "type": "doc",
+            "label": "Decision granting the care budget for people in high need of care (Vlaamse Sociale Bescherming)"
+          },
+          {
+            "type": "doc",
+            "label": "Decision granting an integration allowance or a care budget for older people, category 3 or higher (12 points or more)"
+          }
+        ],
+        "steps": [
+          "Apply at the Welzijnsloket of Herk-de-Stad by appointment, or with the online form",
+          "A social worker visits the person needing care with the carer present for a social and financial check",
+          "Report any change: admission to a care home, a move, a change in the allowance, death, or the end of the care"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Herk-de-Stad)",
+        "desc": "Herk-de-Stad betaalt een maandelijkse toelage aan de mantelzorger van een inwoner die blijvend zorg nodig heeft thuis.",
+        "deadline": "Geen termijn op de pagina; de voorwaarden worden jaarlijks opnieuw nagegaan en wijzigingen moet je melden.",
+        "amount": "Maximaal €30 per maand (groep 1) of €45 per maand (groep 2), jaarlijks geïndexeerd",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, op naam van de zorgbehoevende"
+          },
+          {
+            "type": "doc",
+            "label": "Beslissing van toekenning van het zorgbudget voor zwaar zorgbehoevenden (Vlaamse Sociale Bescherming)"
+          },
+          {
+            "type": "doc",
+            "label": "Beslissing van toekenning van een integratietegemoetkoming of een zorgbudget voor ouderen met een zorgnood, vanaf categorie 3 (12 punten of meer)"
+          }
+        ],
+        "steps": [
+          "Vraag aan bij het Welzijnsloket van Herk-de-Stad na afspraak, of via het online formulier",
+          "Een maatschappelijk assistent komt op huisbezoek bij de zorgbehoevende, samen met de mantelzorger, voor een sociaal en financieel onderzoek",
+          "Meld elke wijziging: opname in een woonzorgcentrum, verhuis, wijziging van het recht, overlijden of stopzetting van de zorg"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime d'aidant proche, Herk-de-Stad)",
+        "desc": "Herk-de-Stad verse une allocation mensuelle à l'aidant proche d'un habitant qui a besoin de soins permanents à domicile.",
+        "deadline": "Pas de délai sur la page ; les conditions sont revérifiées chaque année et les changements doivent être signalés.",
+        "amount": "Jusqu'à 30 € par mois (groupe 1) ou 45 € par mois (groupe 2), indexé chaque année",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, au nom de la personne aidée"
+          },
+          {
+            "type": "doc",
+            "label": "Décision d'octroi du budget de soins pour personnes fortement dépendantes (Vlaamse Sociale Bescherming)"
+          },
+          {
+            "type": "doc",
+            "label": "Décision d'octroi d'une allocation d'intégration ou d'un budget de soins pour personnes âgées, catégorie 3 ou plus (12 points ou plus)"
+          }
+        ],
+        "steps": [
+          "Introduisez la demande au Welzijnsloket de Herk-de-Stad sur rendez-vous, ou via le formulaire en ligne",
+          "Un assistant social rend visite à la personne aidée, en présence de l'aidant, pour une enquête sociale et financière",
+          "Signalez tout changement : admission en maison de repos, déménagement, modification du droit, décès ou fin des soins"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Pflegeprämie, Herk-de-Stad)",
+        "desc": "Herk-de-Stad zahlt der Pflegeperson eines Einwohners, der dauerhaft Pflege zu Hause braucht, eine monatliche Zulage.",
+        "deadline": "Keine Frist auf der Seite; die Bedingungen werden jährlich neu geprüft, Änderungen müssen gemeldet werden.",
+        "amount": "Bis zu 30 € pro Monat (Gruppe 1) oder 45 € pro Monat (Gruppe 2), jährlich indexiert",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular auf den Namen der pflegebedürftigen Person"
+          },
+          {
+            "type": "doc",
+            "label": "Bewilligung des Pflegebudgets für schwer Pflegebedürftige (Vlaamse Sociale Bescherming)"
+          },
+          {
+            "type": "doc",
+            "label": "Bewilligung einer Integrationsbeihilfe oder eines Pflegebudgets für ältere Menschen, ab Kategorie 3 (12 Punkte oder mehr)"
+          }
+        ],
+        "steps": [
+          "Stellen Sie den Antrag beim Welzijnsloket von Herk-de-Stad nach Terminvereinbarung oder über das Online-Formular",
+          "Ein Sozialarbeiter besucht die pflegebedürftige Person im Beisein der Pflegeperson für eine soziale und finanzielle Prüfung",
+          "Melden Sie jede Änderung: Aufnahme in ein Pflegeheim, Umzug, Änderung des Anspruchs, Tod oder Ende der Pflege"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "22 Nov 2026",
+      "source_url": [
+        "https://www.herk-de-stad.be/leven-en-welzijn/welzijn-ocmw/senioren-en-personen-met-een-beperking/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person needing care is at least 18, needs permanent help because of reduced self-care, is registered in the population or foreigners' register (bevolkings- of vreemdelingenregister) of Herk-de-Stad and does not live in a residential facility.",
+          "The person needing care receives the care budget for people in high need of care and an integration allowance or a care budget for older people from category 3 (12-14 points); category 4 or 5 (15-18 points) gives group 2.",
+          "The carer is an adult, gives permanent unpaid care, is registered in the population or foreigners' register of Herk-de-Stad and cannot also qualify as a person needing care; spouses or partners never qualify."
+        ],
+        "nl": [
+          "De zorgbehoevende is minstens 18 jaar, heeft door een aangetast zelfzorgvermogen blijvend hulp nodig, is ingeschreven in het bevolkings- of vreemdelingenregister van Herk-de-Stad en is niet opgenomen in een residentiële voorziening.",
+          "De zorgbehoevende heeft recht op het zorgbudget voor zwaar zorgbehoevenden én op een integratietegemoetkoming of een zorgbudget voor ouderen met een zorgnood vanaf categorie 3 (12-14 punten); categorie 4 of 5 (15-18 punten) geeft groep 2.",
+          "De mantelzorger is meerderjarig, draagt permanent onbezoldigd zorg, is ingeschreven in het bevolkings- of vreemdelingenregister van Herk-de-Stad en kan niet zelf als zorgbehoevende recht geven op de premie; echtgenoten of partners hebben nooit recht."
+        ],
+        "fr": [
+          "La personne aidée a au moins 18 ans, a besoin d'une aide permanente en raison d'une autonomie réduite, est inscrite au registre de la population ou des étrangers (bevolkings- of vreemdelingenregister) de Herk-de-Stad et ne vit pas en institution résidentielle.",
+          "La personne aidée a droit au budget de soins pour personnes fortement dépendantes et à une allocation d'intégration ou un budget de soins pour personnes âgées à partir de la catégorie 3 (12-14 points) ; la catégorie 4 ou 5 (15-18 points) donne le groupe 2.",
+          "L'aidant est majeur, fournit des soins permanents non rémunérés, est inscrit au registre de la population ou des étrangers de Herk-de-Stad et ne peut pas lui-même ouvrir le droit comme personne aidée ; les conjoints ou partenaires n'y ont jamais droit."
+        ],
+        "de": [
+          "Die pflegebedürftige Person ist mindestens 18, braucht wegen eingeschränkter Selbstversorgung dauerhaft Hilfe, ist im Bevölkerungs- oder Fremdenregister (bevolkings- of vreemdelingenregister) von Herk-de-Stad eingetragen und lebt nicht in einer stationären Einrichtung.",
+          "Die pflegebedürftige Person erhält das Pflegebudget für schwer Pflegebedürftige und eine Integrationsbeihilfe oder ein Pflegebudget für ältere Menschen ab Kategorie 3 (12-14 Punkte); Kategorie 4 oder 5 (15-18 Punkte) ergibt Gruppe 2.",
+          "Die Pflegeperson ist volljährig, leistet dauerhaft unbezahlte Pflege, ist im Bevölkerungs- oder Fremdenregister von Herk-de-Stad eingetragen und kann nicht selbst als Pflegebedürftige Anspruch geben; Ehe- oder Lebenspartner haben nie Anspruch."
+        ]
+      }
+    }
+  },
+  {
+    "id": 540,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13013"
+    ],
+    "institution": "OCMW Herselt",
+    "verified": "22 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.herselt.be/Mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Herselt)",
+        "desc": "Herselt pays a yearly allowance to residents who need heavy care and are looked after by a carer.",
+        "deadline": "No deadline; the allowance starts on the first of the month after the request. Report changes, or that year's amount is withheld.",
+        "amount": "Up to €300 a year (€25 a month), paid every six months",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of the BelRAI Screener score from the care fund (zorgkas)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of at least 12 points loss of self-reliance from the FPS Social Security"
+          }
+        ],
+        "steps": [
+          "Make an appointment with the zorgteam of the OCMW, Kerkstraat 1a, Herselt (014 54 89 91, zorgteam@herselt.be)",
+          "Apply in the name of the person needing care; the allowance is paid to them",
+          "Report every change to the social worker"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Herselt)",
+        "desc": "Herselt betaalt een jaarlijkse toelage aan inwoners die zwaar hulpbehoevend zijn en door een mantelzorger verzorgd worden.",
+        "deadline": "Geen termijn; de toelage gaat in vanaf de eerste van de maand na de aanvraag. Meld wijzigingen, anders wordt het bedrag van dat jaar ingehouden.",
+        "amount": "Maximaal €300 per jaar (€25 per maand), halfjaarlijks uitbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van de score op de BelRAI Screener door de zorgkas"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van minstens 12 punten verlies zelfredzaamheid door de FOD Sociale Zekerheid"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak met het zorgteam van het OCMW, Kerkstraat 1a, Herselt (014 54 89 91, zorgteam@herselt.be)",
+          "Vraag aan op naam van de hulpbehoevende; de toelage wordt aan hem of haar uitbetaald",
+          "Meld elke wijziging aan de maatschappelijk assistent"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime d'aidant proche, Herselt)",
+        "desc": "Herselt verse une allocation annuelle aux habitants fortement dépendants aidés par un aidant proche.",
+        "deadline": "Pas de délai ; l'allocation commence le premier du mois suivant la demande. Signalez les changements, sinon le montant de l'année est retenu.",
+        "amount": "Jusqu'à 300 € par an (25 € par mois), versés par semestre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve du score BelRAI Screener établi par la caisse de soins (zorgkas)"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve d'au moins 12 points de perte d'autonomie du SPF Sécurité sociale"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous avec le zorgteam du CPAS, Kerkstraat 1a, Herselt (014 54 89 91, zorgteam@herselt.be)",
+          "Faites la demande au nom de la personne aidée ; l'allocation lui est versée",
+          "Signalez tout changement à l'assistant social"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Pflegeprämie, Herselt)",
+        "desc": "Herselt zahlt Einwohnern, die stark hilfsbedürftig sind und von einer Pflegeperson betreut werden, eine jährliche Zulage.",
+        "deadline": "Keine Frist; die Zulage beginnt am Ersten des Monats nach dem Antrag. Melden Sie Änderungen, sonst wird der Betrag des Jahres einbehalten.",
+        "amount": "Bis zu 300 € pro Jahr (25 € pro Monat), halbjährlich ausgezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis des BelRAI-Screener-Ergebnisses der Pflegekasse (zorgkas)"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis von mindestens 12 Punkten Verlust der Selbstständigkeit vom FÖD Soziale Sicherheit"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin mit dem zorgteam des ÖSHZ, Kerkstraat 1a, Herselt (014 54 89 91, zorgteam@herselt.be)",
+          "Stellen Sie den Antrag auf den Namen der hilfsbedürftigen Person; die Zulage wird an sie ausgezahlt",
+          "Melden Sie jede Änderung dem Sozialarbeiter"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "22 Nov 2026",
+      "source_url": [
+        "https://www.herselt.be/Mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person needing care lives in Herselt and is at least 18.",
+          "The person needing care scores at least 13 in total, or at least 6 on the IADL and ADL modules together, on the BelRAI Screener by the care fund, and at least 12 points loss of self-reliance set by the FPS Social Security.",
+          "The carer is at least 18 and does not need care themselves; the carer's income does not count."
+        ],
+        "nl": [
+          "De hulpbehoevende woont in Herselt en is minimum 18 jaar.",
+          "De hulpbehoevende scoort minstens een totaalscore van 13 of minstens 6 punten op de som van de modules IADL en ADL op de BelRAI Screener door de zorgkas, en minstens 12 punten verlies zelfredzaamheid vastgesteld door de FOD Sociale Zekerheid.",
+          "De mantelzorger is minimum 18 jaar en is zelf niet zorgbehoevend; met het inkomen van de mantelzorger wordt geen rekening gehouden."
+        ],
+        "fr": [
+          "La personne aidée habite à Herselt et a au moins 18 ans.",
+          "La personne aidée obtient au moins 13 au total, ou au moins 6 points pour les modules IADL et ADL réunis, au BelRAI Screener de la caisse de soins, et au moins 12 points de perte d'autonomie fixés par le SPF Sécurité sociale.",
+          "L'aidant a au moins 18 ans et n'est pas lui-même dépendant ; ses revenus ne sont pas pris en compte."
+        ],
+        "de": [
+          "Die hilfsbedürftige Person wohnt in Herselt und ist mindestens 18.",
+          "Die hilfsbedürftige Person erreicht beim BelRAI Screener der Pflegekasse mindestens 13 Punkte insgesamt oder mindestens 6 Punkte in den Modulen IADL und ADL zusammen sowie mindestens 12 Punkte Verlust der Selbstständigkeit laut FÖD Soziale Sicherheit.",
+          "Die Pflegeperson ist mindestens 18 und selbst nicht pflegebedürftig; ihr Einkommen spielt keine Rolle."
+        ]
+      }
+    }
+  },
+  {
+    "id": 541,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13013"
+    ],
+    "institution": "Gemeente Herselt",
+    "verified": "22 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.herselt.be/toelage-diftar",
+    "content": {
+      "en": {
+        "title": "Toelage Diftar (Medical Waste Allowance, Herselt)",
+        "desc": "Herselt gives a yearly allowance to households that produce more residual waste for a medical reason, such as incontinence or dialysis.",
+        "deadline": "No deadline on the page; the certificate is needed only once when the condition is irreversible.",
+        "amount": "Up to €54 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A certificate from the health fund or a doctor confirming that the person uses extra care material"
+          }
+        ],
+        "steps": [
+          "Hand the certificate to the finance service (financiën), Kerkstraat 1, Herselt, or e-mail financien@herselt.be",
+          "The allowance goes to the reference person of the household"
+        ]
+      },
+      "nl": {
+        "title": "Toelage Diftar (Herselt)",
+        "desc": "Herselt geeft een jaarlijkse toelage aan gezinnen die om een medische reden meer restafval hebben, zoals incontinentie of nierdialyse.",
+        "deadline": "Geen termijn op de pagina; het attest hoeft maar één keer als de aandoening onomkeerbaar is.",
+        "amount": "Maximaal €54 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een attest van het ziekenfonds of een medisch attest dat bevestigt dat de betrokkene extra verzorgingsmateriaal gebruikt"
+          }
+        ],
+        "steps": [
+          "Bezorg het attest aan de financiële dienst, Kerkstraat 1, Herselt, of mail naar financien@herselt.be",
+          "De toelage gaat naar de referentiepersoon van het gezin"
+        ]
+      },
+      "fr": {
+        "title": "Toelage Diftar (allocation déchets pour raison médicale, Herselt)",
+        "desc": "Herselt accorde une allocation annuelle aux ménages qui produisent plus de déchets résiduels pour une raison médicale, comme l'incontinence ou la dialyse.",
+        "deadline": "Pas de délai sur la page ; l'attestation ne doit être fournie qu'une fois si l'affection est irréversible.",
+        "amount": "Jusqu'à 54 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une attestation de la mutualité ou un certificat médical confirmant que la personne utilise du matériel de soins supplémentaire"
+          }
+        ],
+        "steps": [
+          "Remettez l'attestation au service financier, Kerkstraat 1, Herselt, ou par courriel à financien@herselt.be",
+          "L'allocation est versée à la personne de référence du ménage"
+        ]
+      },
+      "de": {
+        "title": "Toelage Diftar (Müllzulage aus medizinischen Gründen, Herselt)",
+        "desc": "Herselt zahlt Haushalten, die aus medizinischen Gründen wie Inkontinenz oder Dialyse mehr Restmüll haben, eine jährliche Zulage.",
+        "deadline": "Keine Frist auf der Seite; die Bescheinigung ist nur einmal nötig, wenn die Erkrankung unumkehrbar ist.",
+        "amount": "Bis zu 54 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung der Krankenkasse oder ein ärztliches Attest, dass die Person zusätzliches Pflegematerial verwendet"
+          }
+        ],
+        "steps": [
+          "Geben Sie die Bescheinigung beim Finanzdienst, Kerkstraat 1, Herselt, ab oder senden Sie sie an financien@herselt.be",
+          "Die Zulage geht an die Bezugsperson des Haushalts"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "22 Nov 2026",
+      "source_url": [
+        "https://www.herselt.be/toelage-diftar"
+      ],
+      "conditions": {
+        "en": [
+          "The person is registered in the population register (bevolkingsregister) of Herselt.",
+          "A household member has a temporary or permanent increase in residual waste for a medical reason (incontinence, kidney dialysis, stoma, cystic fibrosis, blistering skin disease and similar), shown by a health-fund or medical certificate."
+        ],
+        "nl": [
+          "De persoon is ingeschreven in het bevolkingsregister van de gemeente Herselt.",
+          "Een gezinslid heeft om een medische reden (incontinentie, nierdialyse, stomapatiënt, mucoviscidose, huidziekte met blaarvorming en dergelijke) tijdelijk of permanent meer restafval, aangetoond met een attest van het ziekenfonds of een medisch attest."
+        ],
+        "fr": [
+          "La personne est inscrite au registre de la population (bevolkingsregister) de Herselt.",
+          "Un membre du ménage produit temporairement ou durablement plus de déchets résiduels pour une raison médicale (incontinence, dialyse, stomie, mucoviscidose, maladie de peau bulleuse, etc.), prouvée par une attestation de la mutualité ou un certificat médical."
+        ],
+        "de": [
+          "Die Person ist im Bevölkerungsregister (bevolkingsregister) von Herselt eingetragen.",
+          "Ein Haushaltsmitglied hat aus medizinischen Gründen (Inkontinenz, Dialyse, Stoma, Mukoviszidose, blasenbildende Hautkrankheit u. Ä.) vorübergehend oder dauerhaft mehr Restmüll, belegt durch eine Bescheinigung der Krankenkasse oder ein ärztliches Attest."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: the page requires registration in the population register (bevolkingsregister) of Herselt.",
+            "nl": "Niet voor jou: de pagina vereist inschrijving in het bevolkingsregister van Herselt.",
+            "fr": "Pas pour vous : la page exige l'inscription au registre de la population (bevolkingsregister) de Herselt.",
+            "de": "Nicht für Sie: die Seite verlangt die Eintragung im Bevölkerungsregister (bevolkingsregister) von Herselt."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 542,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "41027"
+    ],
+    "institution": "Gemeente Herzele",
+    "verified": "22 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.herzele.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie voor opvoeders van kinderen met een handicap (Carer Premium for Parents of Disabled Children, Herzele)",
+        "desc": "Herzele gives parents and carers of a child or young person with a disability up to 25 a yearly allowance.",
+        "deadline": "The application form opens once a year, online and on paper.",
+        "amount": "€170 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The FPS Social Security decision granting the child at least 66% disability or at least 4 points in pillar 1"
+          }
+        ],
+        "steps": [
+          "Contact the Sociaal Huis, Kloosterstraat 42, Herzele (053 60 33 14, sociaal.huis@herzele.be) for an appointment with a social worker",
+          "Fill in the form when it opens, at the digital counter or on paper"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke mantelzorgpremie aan opvoeders van kinderen met een handicap (Herzele)",
+        "desc": "Herzele geeft ouders en opvoeders van een kind of jongere met een handicap tot 25 jaar een jaarlijkse toelage.",
+        "deadline": "Het aanvraagformulier wordt één keer per jaar gelanceerd, via het digitaal loket en op papier.",
+        "amount": "€170 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De beslissing van de FOD Sociale Zekerheid die het kind minstens 66% invaliditeit of minstens 4 punten in pijler 1 toekent"
+          }
+        ],
+        "steps": [
+          "Neem contact op met het Sociaal Huis, Kloosterstraat 42, Herzele (053 60 33 14, sociaal.huis@herzele.be) voor een afspraak met een maatschappelijk werker",
+          "Vul het formulier in wanneer het opengaat, via het digitaal loket of op papier"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie pour parents d'enfants handicapés (Herzele)",
+        "desc": "Herzele accorde aux parents et éducateurs d'un enfant ou jeune handicapé jusqu'à 25 ans une allocation annuelle.",
+        "deadline": "Le formulaire de demande est ouvert une fois par an, en ligne et sur papier.",
+        "amount": "170 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La décision du SPF Sécurité sociale reconnaissant à l'enfant au moins 66 % d'invalidité ou au moins 4 points dans le pilier 1"
+          }
+        ],
+        "steps": [
+          "Contactez le Sociaal Huis, Kloosterstraat 42, Herzele (053 60 33 14, sociaal.huis@herzele.be) pour un rendez-vous avec un travailleur social",
+          "Remplissez le formulaire lorsqu'il est ouvert, en ligne ou sur papier"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie für Eltern von Kindern mit Behinderung (Herzele)",
+        "desc": "Herzele zahlt Eltern und Erziehenden eines Kindes oder Jugendlichen mit Behinderung bis 25 Jahre eine jährliche Zulage.",
+        "deadline": "Das Antragsformular wird einmal im Jahr bereitgestellt, online und auf Papier.",
+        "amount": "170 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Der Bescheid des FÖD Soziale Sicherheit über mindestens 66 % Invalidität oder mindestens 4 Punkte in Säule 1 für das Kind"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an das Sociaal Huis, Kloosterstraat 42, Herzele (053 60 33 14, sociaal.huis@herzele.be), für einen Termin mit einem Sozialarbeiter",
+          "Füllen Sie das Formular aus, sobald es bereitsteht, online oder auf Papier"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "22 Nov 2026",
+      "source_url": [
+        "https://www.herzele.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "You and your child lived in Herzele for the whole previous calendar year.",
+          "Your child was not older than 25 on 1 January of the year of the request.",
+          "From 1 January of the year of the request, the FPS Social Security granted your child at least 66% disability or at least 4 points in pillar 1."
+        ],
+        "nl": [
+          "Jij en je kind woonden het volledige vorige kalenderjaar in Herzele.",
+          "Je kind was op 1 januari van het aanvraagjaar niet ouder dan 25 jaar.",
+          "Vanaf 1 januari van het aanvraagjaar werd minstens 66% invaliditeit (of minstens 4 punten in pijler 1) toegekend aan je kind door de FOD Sociale Zekerheid."
+        ],
+        "fr": [
+          "Vous et votre enfant avez habité à Herzele pendant toute l'année civile précédente.",
+          "Votre enfant n'avait pas plus de 25 ans au 1er janvier de l'année de la demande.",
+          "Au 1er janvier de l'année de la demande, le SPF Sécurité sociale a reconnu à votre enfant au moins 66 % d'invalidité (ou au moins 4 points dans le pilier 1)."
+        ],
+        "de": [
+          "Sie und Ihr Kind haben im gesamten vorigen Kalenderjahr in Herzele gewohnt.",
+          "Ihr Kind war am 1. Januar des Antragsjahres nicht älter als 25.",
+          "Ab dem 1. Januar des Antragsjahres hat der FÖD Soziale Sicherheit Ihrem Kind mindestens 66 % Invalidität (oder mindestens 4 Punkte in Säule 1) zuerkannt."
+        ]
+      }
+    }
   }
 ]
