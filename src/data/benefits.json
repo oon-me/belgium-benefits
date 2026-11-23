@@ -67713,5 +67713,841 @@
         ]
       }
     }
+  },
+  {
+    "id": 543,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24043"
+    ],
+    "institution": "Gemeente Holsbeek",
+    "verified": "23 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.holsbeek.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Holsbeek)",
+        "desc": "Holsbeek gives €75 a year to a carer who gives long-term, unpaid extra care at home to a person with a heavy care need.",
+        "deadline": "Apply each year.",
+        "amount": "€75 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, filled in by the carer and the person cared for"
+          },
+          {
+            "type": "doc",
+            "label": "The certificate of entitlement to the care budget for people with a heavy care need (sent each year by the health fund)"
+          }
+        ],
+        "steps": [
+          "Fill in the application form together with the person you care for",
+          "Hand it in with the care-budget certificate to the welfare service of the OCMW Holsbeek, Dreef 1 (016 31 42 70, mantelzorg@holsbeek.be)"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Holsbeek)",
+        "desc": "Holsbeek geeft €75 per jaar aan een mantelzorger die langdurig en onbetaald extra thuiszorg geeft aan een zwaar zorgbehoevende persoon.",
+        "deadline": "Jaarlijks aan te vragen.",
+        "amount": "€75 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ingevuld door mantelzorger en zorgbehoevende"
+          },
+          {
+            "type": "doc",
+            "label": "Het attest van recht op een zorgbudget voor zwaar zorgbehoevenden (jaarlijks automatisch van je mutualiteit)"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier samen met de zorgbehoevende in",
+          "Bezorg het met het attest zorgbudget aan de dienst welzijn en samenleven van het OCMW Holsbeek, Dreef 1 (016 31 42 70, mantelzorg@holsbeek.be)"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime d'aidant proche, Holsbeek)",
+        "desc": "Holsbeek verse 75 € par an à l'aidant proche qui apporte durablement et bénévolement des soins supplémentaires à domicile à une personne lourdement dépendante.",
+        "deadline": "À demander chaque année.",
+        "amount": "75 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, complété par l'aidant et la personne aidée"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation de droit au budget de soins pour personnes lourdement dépendantes (envoyée chaque année par la mutualité)"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire avec la personne que vous aidez",
+          "Remettez-le avec l'attestation au service bien-être de l'OCMW Holsbeek, Dreef 1 (016 31 42 70, mantelzorg@holsbeek.be)"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Pflegeprämie, Holsbeek)",
+        "desc": "Holsbeek zahlt 75 € pro Jahr an pflegende Angehörige, die einer schwer pflegebedürftigen Person langfristig und unbezahlt zusätzliche Pflege zu Hause leisten.",
+        "deadline": "Jedes Jahr zu beantragen.",
+        "amount": "75 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, ausgefüllt von der pflegenden und der gepflegten Person"
+          },
+          {
+            "type": "doc",
+            "label": "Die Bescheinigung über den Anspruch auf das Pflegebudget für schwer Pflegebedürftige (jährlich von der Krankenkasse)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular gemeinsam mit der gepflegten Person aus",
+          "Reichen Sie es mit der Bescheinigung beim Sozialdienst des OCMW Holsbeek ein, Dreef 1 (016 31 42 70, mantelzorg@holsbeek.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "23 Nov 2026",
+      "source_url": [
+        "https://www.holsbeek.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "You are a family member, friend, acquaintance or neighbour of the person cared for and give long-term, unpaid extra home care.",
+          "The person cared for lives in Holsbeek, at home (on their own or with others), and needs help with daily life such as washing, dressing, eating and drinking.",
+          "The person cared for receives the care budget for people with a heavy care need and adds its certificate to the application."
+        ],
+        "nl": [
+          "Je bent een familielid, vriend, kennis of buur van de zorgbehoevende en biedt langdurig en onbezoldigd extra thuiszorg aan.",
+          "De zorgbehoevende woont in Holsbeek, woont thuis (zelfstandig of inwonend) en heeft hulp nodig in het dagelijks leven bij wassen, aankleden, eten, drinken.",
+          "De zorgbehoevende ontvangt het zorgbudget voor zwaar zorgbehoevenden en voegt het attest bij de aanvraag."
+        ],
+        "fr": [
+          "Vous êtes un membre de la famille, un ami, une connaissance ou un voisin de la personne aidée et lui apportez durablement et bénévolement des soins supplémentaires à domicile.",
+          "La personne aidée habite à Holsbeek, à domicile (seule ou chez quelqu'un), et a besoin d'aide au quotidien pour se laver, s'habiller, manger, boire.",
+          "La personne aidée reçoit le budget de soins pour personnes lourdement dépendantes et joint l'attestation à la demande."
+        ],
+        "de": [
+          "Sie sind Familienmitglied, Freund, Bekannter oder Nachbar der gepflegten Person und leisten langfristig und unbezahlt zusätzliche häusliche Pflege.",
+          "Die gepflegte Person wohnt in Holsbeek, zu Hause (allein oder bei anderen), und braucht Hilfe im Alltag beim Waschen, Anziehen, Essen und Trinken.",
+          "Die gepflegte Person erhält das Pflegebudget für schwer Pflegebedürftige und fügt die Bescheinigung dem Antrag bei."
+        ]
+      }
+    }
+  },
+  {
+    "id": 544,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24043"
+    ],
+    "institution": "Gemeente Holsbeek",
+    "verified": "23 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.holsbeek.be/product/131/herbruikbare-luiers-subsidie",
+    "request_url": "https://www.holsbeek.be/eloket/keuze/80/herbruikbare-luiers-subsidieaanvraag",
+    "content": {
+      "en": {
+        "title": "Subsidie herbruikbare luiers (Reusable Nappies Subsidy, Holsbeek)",
+        "desc": "Holsbeek pays half of the invoice for reusable nappies, up to €150 per child.",
+        "deadline": "Once per child; the child must be under three.",
+        "amount": "50% of the invoice, up to €150 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the proof of purchase or invoice(s) in your name, with purchase date and price"
+          },
+          {
+            "type": "doc",
+            "label": "If you apply after the birth: a copy of the identity document of the child or the applicant"
+          }
+        ],
+        "steps": [
+          "Apply online through the e-counter or send the written form to the environment service, Dutselstraat 15, Holsbeek (016 79 11 04, milieu@holsbeek.be)"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie herbruikbare luiers (Holsbeek)",
+        "desc": "Holsbeek betaalt de helft van de factuur voor herbruikbare luiers terug, met een maximum van €150 per kind.",
+        "deadline": "Eenmalig per kind; het kind is jonger dan drie jaar.",
+        "amount": "50% van de factuur, max. €150 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van het aankoopbewijs of de factuur/facturen op naam, met aankoopdatum en kostprijs"
+          },
+          {
+            "type": "doc",
+            "label": "Bij aanvraag na de geboorte: kopie van het identiteitsbewijs van het kind of de aanvrager"
+          }
+        ],
+        "steps": [
+          "Vraag online aan via het e-loket of bezorg het schriftelijke formulier aan de milieudienst, Dutselstraat 15, Holsbeek (016 79 11 04, milieu@holsbeek.be)"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie herbruikbare luiers (prime langes réutilisables, Holsbeek)",
+        "desc": "Holsbeek rembourse la moitié de la facture de langes réutilisables, avec un maximum de 150 € par enfant.",
+        "deadline": "Une seule fois par enfant ; l'enfant a moins de trois ans.",
+        "amount": "50 % de la facture, max. 150 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Copie de la preuve d'achat ou de la/des facture(s) à votre nom, avec date d'achat et prix"
+          },
+          {
+            "type": "doc",
+            "label": "Si la demande suit la naissance : copie de la pièce d'identité de l'enfant ou du demandeur"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne via le guichet électronique ou envoyez le formulaire écrit au service environnement, Dutselstraat 15, Holsbeek (016 79 11 04, milieu@holsbeek.be)"
+        ]
+      },
+      "de": {
+        "title": "Subsidie herbruikbare luiers (Prämie für Mehrweg-Windeln, Holsbeek)",
+        "desc": "Holsbeek erstattet die Hälfte der Rechnung für Mehrweg-Windeln, höchstens 150 € pro Kind.",
+        "deadline": "Einmal pro Kind; das Kind ist unter drei Jahre alt.",
+        "amount": "50 % der Rechnung, max. 150 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie des Kaufbelegs oder der Rechnung(en) auf Ihren Namen, mit Kaufdatum und Preis"
+          },
+          {
+            "type": "doc",
+            "label": "Bei Antrag nach der Geburt: Kopie des Ausweises des Kindes oder der antragstellenden Person"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online über den E-Schalter oder senden Sie das schriftliche Formular an den Umweltdienst, Dutselstraat 15, Holsbeek (016 79 11 04, milieu@holsbeek.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "23 Nov 2026",
+      "source_url": [
+        "https://www.holsbeek.be/product/131/herbruikbare-luiers-subsidie"
+      ],
+      "conditions": {
+        "en": [
+          "Your family or you as a single parent are registered in the population or foreigners' register of Holsbeek.",
+          "Your child is up to three years old.",
+          "The father, mother or legal guardian applies, once per child."
+        ],
+        "nl": [
+          "Je gezin of jij als alleenstaande bent ingeschreven in het bevolkings- of vreemdelingenregister van Holsbeek.",
+          "Je kind is maximaal drie jaar oud.",
+          "De vader, de moeder of de wettelijke voogd vraagt aan, éénmalig per kind."
+        ],
+        "fr": [
+          "Votre ménage, ou vous comme parent isolé, êtes inscrits au registre de la population ou des étrangers de Holsbeek.",
+          "Votre enfant a au maximum trois ans.",
+          "Le père, la mère ou le tuteur légal introduit la demande, une seule fois par enfant."
+        ],
+        "de": [
+          "Ihre Familie oder Sie als Alleinstehende(r) sind im Bevölkerungs- oder Fremdenregister von Holsbeek eingetragen.",
+          "Ihr Kind ist höchstens drei Jahre alt.",
+          "Der Vater, die Mutter oder der Vormund stellt den Antrag, einmal pro Kind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 545,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24043"
+    ],
+    "institution": "Gemeente Holsbeek",
+    "verified": "23 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.holsbeek.be/product/2048/premie-aan-gezinnen-met-een-kind-met-een-beperking",
+    "content": {
+      "en": {
+        "title": "Premie aan gezinnen met een kind met een beperking (Premium for Families with a Disabled Child, Holsbeek)",
+        "desc": "Holsbeek gives families of a child with a high care need €150 a year.",
+        "deadline": "Apply every year with the form, up to and including the year the child turns 21.",
+        "amount": "€150 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate from your child benefit fund, the FPS Social Security or Opgroeien showing at least 4 points in pillar 1 of the medical-social scale"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (online or on paper)",
+          "Hand it in with the certificate to the social service of the OCMW Holsbeek, Dreef 1 (016 31 42 70, sociale.dienst@ocmw.holsbeek.be)"
+        ]
+      },
+      "nl": {
+        "title": "Premie aan gezinnen met een kind met een beperking (Holsbeek)",
+        "desc": "Holsbeek geeft gezinnen met een kind met een verhoogde zorgnood een toelage van €150 per jaar.",
+        "deadline": "Jaarlijks aan te vragen met het formulier, tot en met het jaar waarin het kind 21 wordt.",
+        "amount": "€150 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van je kinderbijslagfonds, de FOD Sociale Zekerheid of het Agentschap Opgroeien dat je kind minstens 4 punten scoort in pijler 1 van de medisch-sociale schaal"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in (online of op papier)",
+          "Bezorg het met het attest aan de sociale dienst van het OCMW Holsbeek, Dreef 1 (016 31 42 70, sociale.dienst@ocmw.holsbeek.be)"
+        ]
+      },
+      "fr": {
+        "title": "Premie aan gezinnen met een kind met een beperking (prime aux familles d'un enfant handicapé, Holsbeek)",
+        "desc": "Holsbeek accorde aux familles d'un enfant ayant un besoin de soins accru une allocation de 150 € par an.",
+        "deadline": "À demander chaque année avec le formulaire, jusqu'à l'année des 21 ans de l'enfant incluse.",
+        "amount": "150 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de votre caisse d'allocations familiales, du SPF Sécurité sociale ou de l'Agentschap Opgroeien montrant au moins 4 points au pilier 1 de l'échelle médico-sociale"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire de demande (en ligne ou sur papier)",
+          "Remettez-le avec l'attestation au service social de l'OCMW Holsbeek, Dreef 1 (016 31 42 70, sociale.dienst@ocmw.holsbeek.be)"
+        ]
+      },
+      "de": {
+        "title": "Premie aan gezinnen met een kind met een beperking (Prämie für Familien mit einem Kind mit Behinderung, Holsbeek)",
+        "desc": "Holsbeek zahlt Familien mit einem Kind mit erhöhtem Pflegebedarf 150 € pro Jahr.",
+        "deadline": "Jedes Jahr mit dem Formular zu beantragen, bis einschließlich des Jahres, in dem das Kind 21 wird.",
+        "amount": "150 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung Ihrer Kindergeldkasse, des FÖD Soziale Sicherheit oder der Agentur Opgroeien über mindestens 4 Punkte in Säule 1 der medizinisch-sozialen Skala"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus (online oder auf Papier)",
+          "Reichen Sie es mit der Bescheinigung beim Sozialdienst des OCMW Holsbeek ein, Dreef 1 (016 31 42 70, sociale.dienst@ocmw.holsbeek.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "23 Nov 2026",
+      "source_url": [
+        "https://www.holsbeek.be/product/2048/premie-aan-gezinnen-met-een-kind-met-een-beperking"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in Holsbeek.",
+          "Your child receives the Growth Package care supplement for children with a specific support need, with at least 4 points in the first pillar of the medical-social scale.",
+          "The premium is paid up to and including the year in which the child turns 21; apply every year."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in Holsbeek.",
+          "Je kind krijgt binnen het Groeipakket een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte en scoort minstens 4 punten op de eerste pijler van de medisch-sociale schaal.",
+          "De premie wordt uitbetaald tot en met het jaar waarin het kind 21 jaar wordt; jaarlijks aan te vragen."
+        ],
+        "fr": [
+          "Vous êtes domicilié à Holsbeek.",
+          "Votre enfant reçoit, dans le Groeipakket, le supplément de soins pour enfants ayant un besoin de soutien spécifique, avec au moins 4 points au premier pilier de l'échelle médico-sociale.",
+          "La prime est versée jusqu'à l'année des 21 ans de l'enfant incluse ; à demander chaque année."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in Holsbeek.",
+          "Ihr Kind erhält im Groeipakket den Pflegezuschlag für Kinder mit besonderem Unterstützungsbedarf, mit mindestens 4 Punkten in der ersten Säule der medizinisch-sozialen Skala.",
+          "Die Prämie wird bis einschließlich des Jahres gezahlt, in dem das Kind 21 wird; jedes Jahr zu beantragen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 546,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24041"
+    ],
+    "institution": "Gemeente Hoegaarden",
+    "verified": "23 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.lokaalbestuurhoegaarden.be/dienstverlening-inwoners/afval-milieu-en-landbouw/minder-afval/subsidie-voor-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Subsidie voor herbruikbare luiers (Reusable Nappies Subsidy, Hoegaarden)",
+        "desc": "Hoegaarden pays half of the invoice for reusable nappies, up to €150 per child.",
+        "deadline": "Apply before the child's third birthday; one-off subsidy.",
+        "amount": "50% of the invoice, up to €150 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the proof of purchase or invoice(s) in your name, with the price"
+          },
+          {
+            "type": "doc",
+            "label": "If you apply after the birth: a copy of the identity document of the child or the applicant"
+          },
+          {
+            "type": "doc",
+            "label": "If you apply before the birth: a certificate from your GP or gynaecologist"
+          }
+        ],
+        "steps": [
+          "Send the written application form to the environment service, Gemeenteplein 1, Hoegaarden (016 768 768, milieudienst@gemhoegaarden.be)"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie voor herbruikbare luiers (Hoegaarden)",
+        "desc": "Hoegaarden betaalt de helft van de factuur voor herbruikbare luiers terug, met een maximum van €150 per kind.",
+        "deadline": "Aanvragen vóór de derde verjaardag van het kind; eenmalige subsidie.",
+        "amount": "50% van de factuur, max. €150 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie van het aankoopbewijs of de factuur/facturen op naam, met de kostprijs"
+          },
+          {
+            "type": "doc",
+            "label": "Bij aanvraag na de geboorte: kopie van het identiteitsbewijs van het kind of de aanvrager"
+          },
+          {
+            "type": "doc",
+            "label": "Bij aanvraag vóór de geboorte: een attest van de huisarts of gynaecoloog"
+          }
+        ],
+        "steps": [
+          "Bezorg het schriftelijke aanvraagformulier aan de milieudienst, Gemeenteplein 1, Hoegaarden (016 768 768, milieudienst@gemhoegaarden.be)"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie voor herbruikbare luiers (prime langes réutilisables, Hoegaarden)",
+        "desc": "Hoegaarden rembourse la moitié de la facture de langes réutilisables, avec un maximum de 150 € par enfant.",
+        "deadline": "À demander avant le troisième anniversaire de l'enfant ; subside unique.",
+        "amount": "50 % de la facture, max. 150 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Copie de la preuve d'achat ou de la/des facture(s) à votre nom, avec le prix"
+          },
+          {
+            "type": "doc",
+            "label": "Si la demande suit la naissance : copie de la pièce d'identité de l'enfant ou du demandeur"
+          },
+          {
+            "type": "doc",
+            "label": "Si la demande précède la naissance : une attestation du médecin généraliste ou du gynécologue"
+          }
+        ],
+        "steps": [
+          "Envoyez le formulaire écrit au service environnement, Gemeenteplein 1, Hoegaarden (016 768 768, milieudienst@gemhoegaarden.be)"
+        ]
+      },
+      "de": {
+        "title": "Subsidie voor herbruikbare luiers (Prämie für Mehrweg-Windeln, Hoegaarden)",
+        "desc": "Hoegaarden erstattet die Hälfte der Rechnung für Mehrweg-Windeln, höchstens 150 € pro Kind.",
+        "deadline": "Vor dem dritten Geburtstag des Kindes zu beantragen; einmaliger Zuschuss.",
+        "amount": "50 % der Rechnung, max. 150 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Kopie des Kaufbelegs oder der Rechnung(en) auf Ihren Namen, mit Preis"
+          },
+          {
+            "type": "doc",
+            "label": "Bei Antrag nach der Geburt: Kopie des Ausweises des Kindes oder der antragstellenden Person"
+          },
+          {
+            "type": "doc",
+            "label": "Bei Antrag vor der Geburt: eine Bescheinigung des Hausarztes oder Gynäkologen"
+          }
+        ],
+        "steps": [
+          "Senden Sie das schriftliche Antragsformular an den Umweltdienst, Gemeenteplein 1, Hoegaarden (016 768 768, milieudienst@gemhoegaarden.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "23 Nov 2026",
+      "source_url": [
+        "https://www.lokaalbestuurhoegaarden.be/dienstverlening-inwoners/afval-milieu-en-landbouw/minder-afval/subsidie-voor-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "Only for residents of Hoegaarden.",
+          "The father, mother or legal guardian applies in writing before the child's third birthday."
+        ],
+        "nl": [
+          "Enkel voor inwoners van Hoegaarden.",
+          "De vader, de moeder of de wettelijke voogd vraagt schriftelijk aan vóór de derde verjaardag van het kind."
+        ],
+        "fr": [
+          "Uniquement pour les habitants de Hoegaarden.",
+          "Le père, la mère ou le tuteur légal introduit la demande par écrit avant le troisième anniversaire de l'enfant."
+        ],
+        "de": [
+          "Nur für Einwohner von Hoegaarden.",
+          "Der Vater, die Mutter oder der Vormund stellt den Antrag schriftlich vor dem dritten Geburtstag des Kindes."
+        ]
+      }
+    }
+  },
+  {
+    "id": 547,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24041"
+    ],
+    "institution": "Gemeente Hoegaarden",
+    "verified": "23 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.lokaalbestuurhoegaarden.be/financiele-tegemoetkoming-voor-incontinentiemateriaal-en-buikvliesdialyses",
+    "content": {
+      "en": {
+        "title": "Financiële tegemoetkoming voor incontinentiemateriaal en buikvliesdialyses (Incontinence and Dialysis Waste Allowance, Hoegaarden)",
+        "desc": "Hoegaarden pays back the residual-waste bill of residents whose condition produces extra waste, up to €52 a year.",
+        "deadline": "Apply before 31 December of the year concerned; the allowance goes onto your Diftar account in March of the following year.",
+        "amount": "100% of the residual-waste bill (including rent and collection), up to €52 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A doctor's certificate"
+          }
+        ],
+        "steps": [
+          "Fill in the application form",
+          "Hand it in with the doctor's certificate at the town hall, Gemeenteplein 1, Hoegaarden (environment service, 016 768 768, milieudienst@gemhoegaarden.be), before 31 December"
+        ]
+      },
+      "nl": {
+        "title": "Financiële tegemoetkoming voor incontinentiemateriaal en buikvliesdialyses (Hoegaarden)",
+        "desc": "Hoegaarden betaalt de restafvalfactuur terug van inwoners met een aandoening die extra afval veroorzaakt, met een maximum van €52 per jaar.",
+        "deadline": "Aanvragen vóór 31 december van het aanvraagjaar; de toelage wordt in maart van het volgende jaar op je Diftar-rekening gestort.",
+        "amount": "100% van de restafvalfactuur (inclusief huur en aanbieding), max. €52 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een doktersattest"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in",
+          "Dien het met het doktersattest in bij het gemeentebestuur, Gemeenteplein 1, Hoegaarden (milieudienst, 016 768 768, milieudienst@gemhoegaarden.be), vóór 31 december"
+        ]
+      },
+      "fr": {
+        "title": "Financiële tegemoetkoming voor incontinentiemateriaal en buikvliesdialyses (allocation déchets pour incontinence et dialyse, Hoegaarden)",
+        "desc": "Hoegaarden rembourse la facture de déchets résiduels des habitants dont l'affection produit davantage de déchets, avec un maximum de 52 € par an.",
+        "deadline": "À demander avant le 31 décembre de l'année concernée ; l'allocation est versée sur votre compte Diftar en mars de l'année suivante.",
+        "amount": "100 % de la facture de déchets résiduels (location et collecte comprises), max. 52 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Un certificat médical"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire de demande",
+          "Remettez-le avec le certificat médical à l'administration communale, Gemeenteplein 1, Hoegaarden (service environnement, 016 768 768, milieudienst@gemhoegaarden.be), avant le 31 décembre"
+        ]
+      },
+      "de": {
+        "title": "Financiële tegemoetkoming voor incontinentiemateriaal en buikvliesdialyses (Müllzulage bei Inkontinenz und Dialyse, Hoegaarden)",
+        "desc": "Hoegaarden erstattet Einwohnern, deren Erkrankung mehr Abfall verursacht, die Restmüllrechnung, höchstens 52 € pro Jahr.",
+        "deadline": "Vor dem 31. Dezember des betreffenden Jahres zu beantragen; die Zulage wird im März des Folgejahres auf Ihr Diftar-Konto gezahlt.",
+        "amount": "100 % der Restmüllrechnung (einschließlich Miete und Abholung), max. 52 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ein ärztliches Attest"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular aus",
+          "Reichen Sie es mit dem ärztlichen Attest bei der Gemeindeverwaltung ein, Gemeenteplein 1, Hoegaarden (Umweltdienst, 016 768 768, milieudienst@gemhoegaarden.be), vor dem 31. Dezember"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "23 Nov 2026",
+      "source_url": [
+        "https://www.lokaalbestuurhoegaarden.be/financiele-tegemoetkoming-voor-incontinentiemateriaal-en-buikvliesdialyses"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Hoegaarden and have incontinence, a permanent or temporary stoma, kidney or peritoneal dialysis, or another condition that produces more waste.",
+          "You apply before 31 December of the year concerned, with a doctor's certificate."
+        ],
+        "nl": [
+          "Je bent inwoner van Hoegaarden met incontinentie, een blijvende of tijdelijke stoma, nierdialyse of peritoneale dialyse, of een andere aandoening die een verhoogde afvalproductie met zich meebrengt.",
+          "Je dient de aanvraag in vóór 31 december van het aanvraagjaar, gestaafd met een doktersattest."
+        ],
+        "fr": [
+          "Vous habitez Hoegaarden et souffrez d'incontinence, avez une stomie permanente ou temporaire, êtes sous dialyse rénale ou péritonéale, ou avez une autre affection qui augmente la production de déchets.",
+          "Vous introduisez la demande avant le 31 décembre de l'année concernée, avec un certificat médical."
+        ],
+        "de": [
+          "Sie wohnen in Hoegaarden und haben Inkontinenz, ein dauerhaftes oder vorübergehendes Stoma, Nieren- oder Peritonealdialyse oder eine andere Erkrankung, die mehr Abfall verursacht.",
+          "Sie stellen den Antrag vor dem 31. Dezember des betreffenden Jahres, mit einem ärztlichen Attest."
+        ]
+      }
+    }
+  },
+  {
+    "id": 548,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "53028"
+    ],
+    "institution": "Commune de Frameries",
+    "verified": "23 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.frameries.be/ma-commune/administration/energie/primes-aides-financieres/primes-aides-financieres",
+    "content": {
+      "en": {
+        "title": "Prime Mobilité active (Active Mobility Premium, Frameries)",
+        "desc": "Frameries pays 20% of the price of a bike, e-bike, cargo bike, e-scooter or similar, new or second-hand, plus half the price of a good lock.",
+        "deadline": "Apply within three months of the purchase (invoice date).",
+        "amount": "20% of the price, up to €50 (classic adult bike, e-scooter, monowheel), €100 (e-bike, tricycle, quadricycle, conversion kit, folding bike) or €200 (cargo bike); lock: 50%, up to €15",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed, dated and signed application form"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition certificate less than 3 months old (free from the commune's population service)"
+          },
+          {
+            "type": "doc",
+            "label": "Purchase invoice(s) in your name, less than 3 months old"
+          },
+          {
+            "type": "doc",
+            "label": "For e-bikes and conversion kits: the official document showing the motor power (under 250 W)"
+          }
+        ],
+        "steps": [
+          "Download the form and regulation from the commune's page",
+          "Hand in the file at the reception or energy counter, by post (Prime Communale Aide Mobilité Active – Coordination POLLEC, Rue Archimède 1, 7080 Frameries) or by e-mail to pollec@frameries.be",
+          "The commune checks the file within 30 days and pays within 30 days after that"
+        ]
+      },
+      "nl": {
+        "title": "Prime Mobilité active (premie actieve mobiliteit, Frameries)",
+        "desc": "Frameries betaalt 20% van de prijs van een fiets, elektrische fiets, bakfiets, elektrische step en dergelijke, nieuw of tweedehands, plus de helft van de prijs van een goed slot.",
+        "deadline": "Aanvragen binnen drie maanden na de aankoop (factuurdatum).",
+        "amount": "20% van de prijs, max. €50 (gewone volwassenenfiets, elektrische step, monowiel), €100 (elektrische fiets, driewieler, vierwieler, ombouwkit, plooifiets) of €200 (bakfiets); slot: 50%, max. €15",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde, gedateerde en ondertekende aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een gezinssamenstelling van minder dan 3 maanden oud (gratis bij de dienst bevolking)"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoopfactu(u)r(en) op jouw naam, minder dan 3 maanden oud"
+          },
+          {
+            "type": "doc",
+            "label": "Voor elektrische fietsen en ombouwkits: het officiële document met het motorvermogen (minder dan 250 W)"
+          }
+        ],
+        "steps": [
+          "Download het formulier en het reglement op de pagina van de gemeente",
+          "Dien het dossier in aan het onthaal of het energieloket, per post (Prime Communale Aide Mobilité Active – Coordination POLLEC, Rue Archimède 1, 7080 Frameries) of per e-mail naar pollec@frameries.be",
+          "De gemeente controleert het dossier binnen 30 dagen en betaalt daarna binnen 30 dagen"
+        ]
+      },
+      "fr": {
+        "title": "Prime Mobilité active (Frameries)",
+        "desc": "Frameries rembourse 20 % du prix d'un vélo, VAE, vélo cargo, trottinette électrique ou autre engin, neuf ou d'occasion, plus la moitié du prix d'un bon cadenas.",
+        "deadline": "À introduire dans les trois mois de l'achat (date de facture).",
+        "amount": "20 % du prix, plafonné à 50 € (vélo adulte musculaire, trottinette électrique, gyroroue), 100 € (VAE, tricycle, quadricycle, kit électrique, vélo pliable) ou 200 € (vélo cargo) ; cadenas : 50 %, max. 15 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété, daté et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage de moins de 3 mois (gratuite au service Population)"
+          },
+          {
+            "type": "doc",
+            "label": "La/les facture(s) d'achat à votre nom, de moins de 3 mois"
+          },
+          {
+            "type": "doc",
+            "label": "Pour les VAE et kits électriques : le document officiel mentionnant la puissance du moteur (moins de 250 W)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire et le règlement sur la page de la commune",
+          "Déposez le dossier à l'accueil ou au guichet Énergie, par courrier (Prime Communale Aide Mobilité Active – Coordination POLLEC, Rue Archimède 1, 7080 Frameries) ou par e-mail à pollec@frameries.be",
+          "La commune vérifie le dossier dans les 30 jours et paie dans les 30 jours suivants"
+        ]
+      },
+      "de": {
+        "title": "Prime Mobilité active (Prämie für aktive Mobilität, Frameries)",
+        "desc": "Frameries erstattet 20 % des Preises eines Fahrrads, E-Bikes, Lastenrads, E-Scooters oder Ähnlichem, neu oder gebraucht, sowie die Hälfte des Preises eines guten Schlosses.",
+        "deadline": "Innerhalb von drei Monaten nach dem Kauf (Rechnungsdatum) zu beantragen.",
+        "amount": "20 % des Preises, max. 50 € (normales Erwachsenenrad, E-Scooter, Monowheel), 100 € (E-Bike, Dreirad, Vierrad, Umrüstsatz, Faltrad) oder 200 € (Lastenrad); Schloss: 50 %, max. 15 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte, datierte und unterschriebene Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung, nicht älter als 3 Monate (kostenlos beim Einwohnermeldeamt)"
+          },
+          {
+            "type": "doc",
+            "label": "Kaufrechnung(en) auf Ihren Namen, nicht älter als 3 Monate"
+          },
+          {
+            "type": "doc",
+            "label": "Für E-Bikes und Umrüstsätze: das offizielle Dokument mit der Motorleistung (unter 250 W)"
+          }
+        ],
+        "steps": [
+          "Laden Sie Formular und Reglement von der Seite der Gemeinde herunter",
+          "Reichen Sie die Akte am Empfang oder Energieschalter ein, per Post (Prime Communale Aide Mobilité Active – Coordination POLLEC, Rue Archimède 1, 7080 Frameries) oder per E-Mail an pollec@frameries.be",
+          "Die Gemeinde prüft die Akte innerhalb von 30 Tagen und zahlt innerhalb weiterer 30 Tage"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "23 Nov 2026",
+      "source_url": [
+        "https://www.frameries.be/ma-commune/administration/energie/primes-aides-financieres/primes-aides-financieres/audit-logement/2023-09-25-frameries-reglement-aide-a-la-mobilite-active.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are a private person domiciled in Frameries for at least 3 months.",
+          "You are at least 18 or an emancipated minor.",
+          "You will not resell the equipment for 3 years; one premium per person per part and two per household, and none again for 5 years after payment.",
+          "You apply within three months of the purchase; leased equipment is excluded; premiums are paid within the available budget."
+        ],
+        "nl": [
+          "Je bent een natuurlijke persoon en al minstens 3 maanden gedomicilieerd in Frameries.",
+          "Je bent minstens 18 jaar of een ontvoogde minderjarige.",
+          "Je verkoopt het materiaal 3 jaar niet door; één premie per persoon per luik en twee per gezin, en geen nieuwe premie gedurende 5 jaar na de uitbetaling.",
+          "Je vraagt aan binnen drie maanden na de aankoop; leasing is uitgesloten; uitbetaling binnen de beschikbare kredieten."
+        ],
+        "fr": [
+          "Vous êtes une personne physique domiciliée sur le territoire de Frameries depuis au moins 3 mois.",
+          "Vous avez au moins 18 ans ou êtes reconnu mineur émancipé.",
+          "Vous vous engagez à ne pas revendre le matériel pendant 3 ans ; une prime par personne par volet et deux par ménage, et plus de prime pendant 5 ans après le versement.",
+          "Vous introduisez la demande dans les trois mois de l'achat ; les engins en leasing sont exclus ; versement dans la limite des crédits disponibles."
+        ],
+        "de": [
+          "Sie sind eine natürliche Person und haben seit mindestens 3 Monaten Ihren Wohnsitz in Frameries.",
+          "Sie sind mindestens 18 Jahre alt oder ein für mündig erklärter Minderjähriger.",
+          "Sie verkaufen das Material 3 Jahre lang nicht weiter; eine Prämie pro Person und Teil, zwei pro Haushalt, und keine neue Prämie in den 5 Jahren nach der Auszahlung.",
+          "Sie stellen den Antrag innerhalb von drei Monaten nach dem Kauf; Leasing ist ausgeschlossen; Auszahlung im Rahmen der verfügbaren Mittel."
+        ]
+      }
+    }
   }
 ]

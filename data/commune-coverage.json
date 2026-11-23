@@ -1896,49 +1896,78 @@
       "name": "Fosses-la-Ville",
       "checked": "22 Nov 2026",
       "ids": []
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "71070",
-      "name": "Heusden-Zolder"
+      "name": "Heusden-Zolder",
+      "checked": "23 Nov 2026",
+      "ids": []
     },
     {
       "nis": "53028",
-      "name": "Frameries"
+      "name": "Frameries",
+      "checked": "23 Nov 2026",
+      "ids": [
+        548
+      ]
     },
     {
       "nis": "33039",
-      "name": "Heuvelland"
+      "name": "Heuvelland",
+      "checked": "23 Nov 2026",
+      "ids": []
     },
     {
       "nis": "51065",
-      "name": "Frasnes-lez-Anvaing"
+      "name": "Frasnes-lez-Anvaing",
+      "checked": "23 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24041",
-      "name": "Hoegaarden"
+      "name": "Hoegaarden",
+      "checked": "23 Nov 2026",
+      "ids": [
+        546,
+        547
+      ]
     },
     {
       "nis": "56029",
-      "name": "Froidchapelle"
+      "name": "Froidchapelle",
+      "checked": "23 Nov 2026",
+      "ids": []
     },
     {
       "nis": "23033",
-      "name": "Hoeilaart"
+      "name": "Hoeilaart",
+      "checked": "23 Nov 2026",
+      "ids": []
     },
     {
       "nis": "91054",
-      "name": "Gedinne"
+      "name": "Gedinne",
+      "checked": "23 Nov 2026",
+      "ids": []
     },
     {
       "nis": "24043",
-      "name": "Holsbeek"
+      "name": "Holsbeek",
+      "checked": "23 Nov 2026",
+      "ids": [
+        543,
+        544,
+        545
+      ]
     },
     {
       "nis": "64029",
-      "name": "Geer"
-    },
+      "name": "Geer",
+      "checked": "23 Nov 2026",
+      "ids": []
+    }
+  ],
+  "queue": [
     {
       "nis": "36006",
       "name": "Hooglede"
