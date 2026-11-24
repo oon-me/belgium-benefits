@@ -68549,5 +68549,1393 @@
         ]
       }
     }
+  },
+  {
+    "id": 549,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "36006"
+    ],
+    "institution": "OCMW Hooglede",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hooglede.be/product/2257/mantelzorgpremie",
+    "request_url": "https://www.hooglede.be/eloket/formulier/21/premie-aanvraag-mantelzorg",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Hooglede)",
+        "desc": "The OCMW of Hooglede pays a monthly premium to people who care for a household member who needs care.",
+        "deadline": "No deadline on the page.",
+        "amount": "€25, €40 or €50 a month, depending on the care need",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          }
+        ],
+        "steps": [
+          "Apply at the Zorgloket in LDC Zonder Zulle, Kerkstraat 17, Hooglede (051 23 13 03), or online through the commune's e-counter",
+          "A social worker of the Zorgloket carries out a social inquiry before the premium is granted"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Hooglede)",
+        "desc": "Het OCMW van Hooglede geeft een maandelijkse premie aan wie zorgt voor een zorgbehoevende huisgenoot.",
+        "deadline": "Geen termijn op de pagina.",
+        "amount": "€25, €40 of €50 per maand, volgens de zorgnood",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Vraag de premie aan bij het Zorgloket in LDC Zonder Zulle, Kerkstraat 17, Hooglede (051 23 13 03), of online via het thuisloket",
+          "De premie wordt toegekend na sociaal onderzoek door de maatschappelijk werker van het zorgloket"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aidant proche, Hooglede)",
+        "desc": "Le CPAS (OCMW) de Hooglede verse une prime mensuelle aux personnes qui s'occupent d'un membre du ménage ayant besoin de soins.",
+        "deadline": "Pas de délai sur la page.",
+        "amount": "25 €, 40 € ou 50 € par mois selon le besoin de soins",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          }
+        ],
+        "steps": [
+          "Faites la demande au Zorgloket du LDC Zonder Zulle, Kerkstraat 17, Hooglede (051 23 13 03), ou en ligne via le guichet électronique de la commune",
+          "La prime est accordée après une enquête sociale par l'assistant social du Zorgloket"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Hooglede)",
+        "desc": "Das ÖSHZ (OCMW) Hooglede zahlt Personen, die ein pflegebedürftiges Haushaltsmitglied versorgen, eine monatliche Prämie.",
+        "deadline": "Keine Frist auf der Seite.",
+        "amount": "25 €, 40 € oder 50 € pro Monat je nach Pflegebedarf",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie die Prämie beim Zorgloket im LDC Zonder Zulle, Kerkstraat 17, Hooglede (051 23 13 03), oder online über den E-Schalter der Gemeinde",
+          "Die Prämie wird nach einer Sozialuntersuchung durch die Sozialarbeiterin oder den Sozialarbeiter des Zorgloket gewährt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.hooglede.be/product/2257/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for is domiciled at the same address as the carer, is at least 21, has been registered for at least one month in the population or foreigners register of Hooglede and actually lives there.",
+          "The carer provides the care for at least two thirds of the year and can apply for at most 2 people.",
+          "The person cared for receives the Flemish care budget for older people with a care need (12-14 points: €25, 15-16 points: €40, 17-18 points: €50 a month) or the care budget for people with a severe care need (€40 a month)."
+        ],
+        "nl": [
+          "De zorgbehoevende is gedomicilieerd op hetzelfde adres als de mantelzorger, is minstens 21 jaar en is minstens 1 maand in de gemeente ingeschreven in het bevolkings- of vreemdelingenregister en woont er ook effectief.",
+          "De mantelzorger neemt minstens 2/3 van het jaar de zorg op zich en kan de premie voor maximum 2 personen aanvragen.",
+          "De zorgbehoevende krijgt het zorgbudget voor ouderen met een zorgnood (12 tot 14 punten: €25, 15 of 16 punten: €40, 17 of 18 punten: €50 per maand) of het zorgbudget voor zwaar zorgbehoevenden (€40 per maand)."
+        ],
+        "fr": [
+          "La personne aidée est domiciliée à la même adresse que l'aidant, a au moins 21 ans, est inscrite depuis au moins un mois au registre de la population ou des étrangers de Hooglede et y habite effectivement.",
+          "L'aidant assure les soins pendant au moins deux tiers de l'année et peut demander la prime pour 2 personnes au maximum.",
+          "La personne aidée reçoit le budget de soins flamand pour personnes âgées ayant besoin de soins (12 à 14 points : 25 €, 15 ou 16 points : 40 €, 17 ou 18 points : 50 € par mois) ou le budget de soins pour personnes lourdement dépendantes (40 € par mois)."
+        ],
+        "de": [
+          "Die gepflegte Person hat ihren Wohnsitz an derselben Adresse wie die pflegende Person, ist mindestens 21 Jahre alt, seit mindestens einem Monat im Bevölkerungs- oder Fremdenregister von Hooglede eingetragen und wohnt tatsächlich dort.",
+          "Die pflegende Person übernimmt die Pflege mindestens zwei Drittel des Jahres und kann die Prämie für höchstens 2 Personen beantragen.",
+          "Die gepflegte Person erhält das flämische Pflegebudget für ältere Menschen mit Pflegebedarf (12 bis 14 Punkte: 25 €, 15 oder 16 Punkte: 40 €, 17 oder 18 Punkte: 50 € pro Monat) oder das Pflegebudget für schwer Pflegebedürftige (40 € pro Monat)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 550,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "36006"
+    ],
+    "institution": "OCMW Hooglede",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hooglede.be/sociaal-pedagogische-toelage",
+    "request_url": "https://www.hooglede.be/eloket/formulier/22/sociaal-pedagogische-toelage-kinderen-met-handicap",
+    "content": {
+      "en": {
+        "title": "Sociaal-pedagogische toelage (Allowance for Parents of a Disabled Child, Hooglede)",
+        "desc": "The OCMW of Hooglede gives a yearly allowance to the parent who raises a child with a disability at home.",
+        "deadline": "The application and supporting documents must reach the OCMW by 31 December.",
+        "amount": "€125 a year (child goes to school) or €300 a year (child cared for at home permanently)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The supporting documents asked for on the form"
+          }
+        ],
+        "steps": [
+          "Apply online through the commune's e-counter, or get the form from the social service or LDC Zonder Zulle, Kerkstraat 17, Hooglede (051 23 13 03)",
+          "Make sure the form and documents reach the OCMW by 31 December"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-pedagogische toelage (Hooglede)",
+        "desc": "Het OCMW van Hooglede geeft een jaarlijkse toelage aan de ouder die thuis een kind met een handicap opvoedt.",
+        "deadline": "De aanvraag en de bewijsstukken moeten uiterlijk op 31 december bij het OCMW toekomen.",
+        "amount": "€125 per jaar (schoolgaand kind) of €300 per jaar (kind bestendig thuis verzorgd)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De nodige bewijsstukken vermeld op het formulier"
+          }
+        ],
+        "steps": [
+          "Vraag online aan via het thuisloket, of haal het formulier bij de sociale dienst of in LDC Zonder Zulle, Kerkstraat 17, Hooglede (051 23 13 03)",
+          "Zorg dat het formulier en de bewijsstukken uiterlijk op 31 december bij het OCMW zijn"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-pedagogische toelage (allocation pour parents d'un enfant handicapé, Hooglede)",
+        "desc": "Le CPAS (OCMW) de Hooglede accorde une allocation annuelle au parent qui élève à la maison un enfant handicapé.",
+        "deadline": "La demande et les pièces justificatives doivent parvenir au CPAS au plus tard le 31 décembre.",
+        "amount": "125 € par an (enfant scolarisé) ou 300 € par an (enfant soigné en permanence à la maison)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Les pièces justificatives demandées sur le formulaire"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne via le guichet électronique de la commune, ou retirez le formulaire au service social ou au LDC Zonder Zulle, Kerkstraat 17, Hooglede (051 23 13 03)",
+          "Veillez à ce que le formulaire et les pièces parviennent au CPAS au plus tard le 31 décembre"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-pedagogische toelage (Zulage für Eltern eines Kindes mit Behinderung, Hooglede)",
+        "desc": "Das ÖSHZ (OCMW) Hooglede zahlt dem Elternteil, der ein Kind mit Behinderung zu Hause erzieht, eine jährliche Zulage.",
+        "deadline": "Antrag und Nachweise müssen spätestens am 31. Dezember beim ÖSHZ eingehen.",
+        "amount": "125 € pro Jahr (Kind geht zur Schule) oder 300 € pro Jahr (Kind wird ständig zu Hause gepflegt)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die im Formular verlangten Nachweise"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online über den E-Schalter der Gemeinde oder holen Sie das Formular beim Sozialdienst oder im LDC Zonder Zulle, Kerkstraat 17, Hooglede (051 23 13 03)",
+          "Sorgen Sie dafür, dass Formular und Nachweise spätestens am 31. Dezember beim ÖSHZ sind"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.hooglede.be/sociaal-pedagogische-toelage",
+        "https://www.hooglede.be/file/download/28322/755C6E7B09FC1F61001547D8E150B6DB"
+      ],
+      "conditions": {
+        "en": [
+          "You are the parent who raises (and cares for) a child with a disability at home.",
+          "€125: the child is aged 3 to 21 in that year, goes to school and stays at home at least at weekends and in school holidays. €300: the child is aged 3 to 25, is cared for at home permanently and does not go to school. Extended minors can get it up to 25 with proof (court ruling or registration as extended minor).",
+          "The child has a reduced physical or mental capacity of at least 66% (old system) or a score of 6 points of which 4 points on pillar 1 (new system), as in the increased child benefit.",
+          "The allowance stops once the young person has an own income, and is paid to the person who receives the increased child benefit."
+        ],
+        "nl": [
+          "Je bent de ouder die thuis de opvoeding (en verzorging) van een kind met een handicap op zich neemt.",
+          "€125: het kind is in de loop van het jaar tussen 3 en 21 jaar, is schoolgaand en verblijft minstens in het weekend en de schoolvakanties thuis. €300: het kind is tussen 3 en 25 jaar, wordt bestendig thuis verzorgd en is niet schoolgaand. Verlengd minderjarigen kunnen de toelage krijgen tot 25 jaar mits bewijs (vonnis of inschrijving als verlengd minderjarige).",
+          "Het kind heeft een vermindering van de lichamelijke of geestelijke geschiktheid van ten minste 66% (oud stelsel) of een score van in totaal 6 punten waarvan 4 punten op de 1e pijler (nieuw stelsel), zoals bij de verhoogde kinderbijslag.",
+          "De tegemoetkoming vervalt zodra de jongere over een eigen inkomen beschikt en wordt uitbetaald aan wie de verhoogde kinderbijslag ontvangt."
+        ],
+        "fr": [
+          "Vous êtes le parent qui assure à la maison l'éducation (et les soins) d'un enfant handicapé.",
+          "125 € : l'enfant a entre 3 et 21 ans dans l'année, est scolarisé et reste à la maison au moins le week-end et pendant les vacances scolaires. 300 € : l'enfant a entre 3 et 25 ans, est soigné en permanence à la maison et n'est pas scolarisé. Les mineurs prolongés peuvent en bénéficier jusqu'à 25 ans sur preuve (jugement ou inscription comme mineur prolongé).",
+          "L'enfant a une réduction de capacité physique ou mentale d'au moins 66 % (ancien système) ou un score de 6 points dont 4 points dans le premier pilier (nouveau système), comme pour les allocations familiales majorées.",
+          "L'allocation prend fin dès que le jeune dispose d'un revenu propre et est versée à la personne qui perçoit les allocations familiales majorées."
+        ],
+        "de": [
+          "Sie sind der Elternteil, der ein Kind mit Behinderung zu Hause erzieht (und pflegt).",
+          "125 €: Das Kind ist im betreffenden Jahr zwischen 3 und 21 Jahre alt, geht zur Schule und ist mindestens an Wochenenden und in den Schulferien zu Hause. 300 €: Das Kind ist zwischen 3 und 25 Jahre alt, wird ständig zu Hause gepflegt und geht nicht zur Schule. Verlängert Minderjährige können die Zulage mit Nachweis (Urteil oder Eintragung als verlängert minderjährig) bis 25 erhalten.",
+          "Das Kind hat eine Minderung der körperlichen oder geistigen Fähigkeit von mindestens 66 % (altes System) oder insgesamt 6 Punkte, davon 4 Punkte in Säule 1 (neues System), wie beim erhöhten Kindergeld.",
+          "Die Zulage endet, sobald der junge Mensch ein eigenes Einkommen hat, und wird an die Person gezahlt, die das erhöhte Kindergeld erhält."
+        ]
+      }
+    }
+  },
+  {
+    "id": 551,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13014"
+    ],
+    "institution": "Stad Hoogstraten",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hoogstraten.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke mantelzorgpremie +25 jaar (Carer Premium, Hoogstraten)",
+        "desc": "Hoogstraten pays a monthly premium, once a year, to residents who care at home for a person aged 25 or over with a recognised disability or palliative status.",
+        "deadline": "The carer must apply before 1 December.",
+        "amount": "€25 a month (9-11 points) or €50 a month (12 points or more, or palliative status), paid at the end of the year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The general certificate \"recognition of a disability\" from the FPS Social Security, or proof of palliative patient status"
+          }
+        ],
+        "steps": [
+          "Apply with the city's digital form, or get help without an appointment at a buurtloket or from the home care team (03 340 16 30)",
+          "The premium is paid at the end of the calendar year"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke mantelzorgpremie (+25 jaar) (Hoogstraten)",
+        "desc": "Hoogstraten geeft een maandelijkse premie, jaarlijks uitbetaald, aan inwoners die thuis zorgen voor iemand van 25 jaar of ouder met een erkende handicap of het statuut van palliatief patiënt.",
+        "deadline": "De mantelzorger moet de aanvraag indienen vóór 1 december.",
+        "amount": "€25 per maand (9 tot en met 11 punten) of €50 per maand (12 punten of meer, of palliatief statuut), uitbetaald op het einde van het jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het algemeen attest \"erkenning van een handicap\" van de FOD Sociale Zekerheid of het bewijs van het statuut van palliatief patiënt"
+          }
+        ],
+        "steps": [
+          "Vraag aan via het digitale formulier van de stad, of kom zonder afspraak naar een buurtloket of bel het team thuiszorg (03 340 16 30)",
+          "De premie wordt uitbetaald op het einde van het kalenderjaar"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke mantelzorgpremie +25 jaar (prime aidant proche, Hoogstraten)",
+        "desc": "Hoogstraten verse une prime mensuelle, payée une fois par an, aux habitants qui soignent à domicile une personne de 25 ans ou plus ayant un handicap reconnu ou le statut de patient palliatif.",
+        "deadline": "L'aidant doit introduire la demande avant le 1er décembre.",
+        "amount": "25 € par mois (9 à 11 points) ou 50 € par mois (12 points ou plus, ou statut palliatif), versés en fin d'année",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "L'attestation générale « reconnaissance d'un handicap » du SPF Sécurité sociale ou la preuve du statut de patient palliatif"
+          }
+        ],
+        "steps": [
+          "Faites la demande via le formulaire numérique de la ville, ou faites-vous aider sans rendez-vous dans un buurtloket ou par l'équipe des soins à domicile (03 340 16 30)",
+          "La prime est versée à la fin de l'année civile"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke mantelzorgpremie +25 jaar (Prämie für pflegende Angehörige, Hoogstraten)",
+        "desc": "Hoogstraten zahlt Einwohnern, die eine Person ab 25 Jahren mit anerkannter Behinderung oder Palliativstatus zu Hause pflegen, einmal im Jahr eine monatliche Prämie.",
+        "deadline": "Die pflegende Person muss den Antrag vor dem 1. Dezember stellen.",
+        "amount": "25 € pro Monat (9 bis 11 Punkte) oder 50 € pro Monat (12 Punkte oder mehr oder Palliativstatus), am Jahresende ausgezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die allgemeine Bescheinigung „Anerkennung einer Behinderung\" des FÖD Soziale Sicherheit oder der Nachweis des Palliativstatus"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie über das digitale Formular der Stadt oder lassen Sie sich ohne Termin an einem Buurtloket oder vom Team Häusliche Pflege (03 340 16 30) helfen",
+          "Die Prämie wird am Ende des Kalenderjahres ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.hoogstraten.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The person cared for lives in Hoogstraten, is cared for at home and is at least 25.",
+          "The person cared for has a general certificate \"recognition of a disability\" of at least 9 points from the FPS Social Security, or palliative patient status.",
+          "The carer lives in Hoogstraten and helps the person cared for at least 8 hours a week."
+        ],
+        "nl": [
+          "De zorgvrager is inwoner van Hoogstraten, wordt thuis verzorgd en is minstens 25 jaar oud.",
+          "De zorgvrager heeft een algemeen attest \"erkenning van een handicap\" van minstens 9 punten van de FOD Sociale Zekerheid of het statuut van palliatief patiënt.",
+          "De mantelzorger is inwoner van Hoogstraten en geeft minimaal 8 uur per week hulp aan de zorgvrager."
+        ],
+        "fr": [
+          "La personne aidée habite Hoogstraten, est soignée à domicile et a au moins 25 ans.",
+          "La personne aidée a une attestation générale « reconnaissance d'un handicap » d'au moins 9 points du SPF Sécurité sociale ou le statut de patient palliatif.",
+          "L'aidant habite Hoogstraten et aide la personne au moins 8 heures par semaine."
+        ],
+        "de": [
+          "Die gepflegte Person wohnt in Hoogstraten, wird zu Hause gepflegt und ist mindestens 25 Jahre alt.",
+          "Die gepflegte Person hat eine allgemeine Bescheinigung „Anerkennung einer Behinderung\" von mindestens 9 Punkten des FÖD Soziale Sicherheit oder den Palliativstatus.",
+          "Die pflegende Person wohnt in Hoogstraten und hilft der gepflegten Person mindestens 8 Stunden pro Woche."
+        ]
+      }
+    }
+  },
+  {
+    "id": 552,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13014"
+    ],
+    "institution": "Stad Hoogstraten",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hoogstraten.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie voor ouders van kinderen met een specifieke ondersteuningsbehoefte (Carer Premium for Parents, Hoogstraten)",
+        "desc": "Hoogstraten gives a yearly allowance to parents of a child under 25 who needs extra care.",
+        "deadline": "Apply before 1 November.",
+        "amount": "€250 a year, paid at the end of the year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The child's certificate: at least 4 points on pillar 1 or 6 points in total (care allowance, Opgroeien), or a disability recognition of at least 9 points (FPS Social Security)"
+          }
+        ],
+        "steps": [
+          "Download the blank application form from the city's page and hand it in at the local service centre, Campus Stede Akkers, Jaak Aertslaan 4, Hoogstraten (03 340 16 30)",
+          "The allowance is paid at the end of the calendar year"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke mantelzorgpremie voor ouders van kinderen met een specifieke ondersteuningsbehoefte (-25 jaar) (Hoogstraten)",
+        "desc": "Hoogstraten geeft een jaarlijkse toelage aan ouders van een kind jonger dan 25 dat extra zorg nodig heeft.",
+        "deadline": "De aanvraag moet vóór 1 november ingediend worden.",
+        "amount": "€250 per jaar, uitbetaald op het einde van het jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Het attest van je kind: minstens 4 punten op pijler 1 of 6 punten op de hele schaal (zorgtoeslag, Opgroeien), of een erkenning handicap van minstens 9 punten (FOD Sociale Zekerheid)"
+          }
+        ],
+        "steps": [
+          "Download het blanco aanvraagformulier op de pagina van de stad en bezorg het aan het lokaal dienstencentrum, Campus Stede Akkers, Jaak Aertslaan 4, Hoogstraten (03 340 16 30)",
+          "De toelage wordt uitbetaald op het einde van het kalenderjaar"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie pour parents d'enfants ayant un besoin de soutien spécifique (Hoogstraten)",
+        "desc": "Hoogstraten accorde une allocation annuelle aux parents d'un enfant de moins de 25 ans qui a besoin de soins supplémentaires.",
+        "deadline": "Introduisez la demande avant le 1er novembre.",
+        "amount": "250 € par an, versés en fin d'année",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation de l'enfant : au moins 4 points dans le pilier 1 ou 6 points au total (supplément pour soins, Opgroeien), ou une reconnaissance de handicap d'au moins 9 points (SPF Sécurité sociale)"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire vierge sur la page de la ville et remettez-le au centre de services local, Campus Stede Akkers, Jaak Aertslaan 4, Hoogstraten (03 340 16 30)",
+          "L'allocation est versée à la fin de l'année civile"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie für Eltern von Kindern mit besonderem Unterstützungsbedarf (Hoogstraten)",
+        "desc": "Hoogstraten zahlt Eltern eines Kindes unter 25 Jahren, das zusätzliche Pflege braucht, eine jährliche Zulage.",
+        "deadline": "Stellen Sie den Antrag vor dem 1. November.",
+        "amount": "250 € pro Jahr, am Jahresende ausgezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die Bescheinigung des Kindes: mindestens 4 Punkte in Säule 1 oder 6 Punkte insgesamt (Pflegezulage, Opgroeien) oder eine Anerkennung der Behinderung von mindestens 9 Punkten (FÖD Soziale Sicherheit)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das leere Antragsformular von der Seite der Stadt herunter und geben Sie es im lokalen Dienstleistungszentrum ab, Campus Stede Akkers, Jaak Aertslaan 4, Hoogstraten (03 340 16 30)",
+          "Die Zulage wird am Ende des Kalenderjahres ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.hoogstraten.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "Your child is younger than 25.",
+          "Parent and child are domiciled in Hoogstraten.",
+          "The child has a certificate of at least 4 points on pillar 1 of the medical-social scale or at least 6 points on the whole scale (care allowance from Opgroeien), or a general certificate recognising a disability of at least 9 points from the FPS Social Security."
+        ],
+        "nl": [
+          "Je kind is jonger dan 25 jaar.",
+          "Ouder en kind zijn gedomicilieerd in Hoogstraten.",
+          "Je kind beschikt over een attest van minimum 4 punten op pijler 1 van de medisch-sociale schaal of minimum 6 punten op de gehele schaal (zorgtoeslag bij het agentschap Opgroeien), of een algemeen attest erkenning handicap van minimum 9 punten van de FOD Sociale Zekerheid."
+        ],
+        "fr": [
+          "Votre enfant a moins de 25 ans.",
+          "Le parent et l'enfant sont domiciliés à Hoogstraten.",
+          "L'enfant a une attestation d'au moins 4 points dans le pilier 1 de l'échelle médico-sociale ou d'au moins 6 points sur l'ensemble de l'échelle (supplément pour soins de l'agence Opgroeien), ou une attestation générale de reconnaissance de handicap d'au moins 9 points du SPF Sécurité sociale."
+        ],
+        "de": [
+          "Ihr Kind ist jünger als 25 Jahre.",
+          "Elternteil und Kind haben ihren Wohnsitz in Hoogstraten.",
+          "Das Kind hat eine Bescheinigung über mindestens 4 Punkte in Säule 1 der medizinisch-sozialen Skala oder mindestens 6 Punkte auf der gesamten Skala (Pflegezulage der Agentur Opgroeien) oder eine allgemeine Bescheinigung über die Anerkennung einer Behinderung von mindestens 9 Punkten des FÖD Soziale Sicherheit."
+        ]
+      }
+    }
+  },
+  {
+    "id": 553,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13014"
+    ],
+    "institution": "Stad Hoogstraten",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hoogstraten.be/toelage-afvalinzameling",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke toelage afval aan personen met medische redenen (Medical Waste Allowance, Hoogstraten)",
+        "desc": "Hoogstraten pays an allowance to residents who have more waste for a medical reason, such as incontinence, a stoma or kidney dialysis.",
+        "deadline": "No deadline on the page; with a certificate of a permanent condition, it is renewed automatically after one application.",
+        "amount": "€50",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A medical certificate from the treating doctor"
+          }
+        ],
+        "steps": [
+          "Submit the application with the medical certificate to the finance department, Jaak Aertslaan 7, Hoogstraten (03 340 19 11, financien@hoogstraten.be)",
+          "The allowance is paid into your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke toelage afval aan personen met medische redenen (Hoogstraten)",
+        "desc": "Hoogstraten geeft een toelage aan inwoners die om medische redenen meer afval hebben, zoals door incontinentie, stomagebruik of nierdialyse.",
+        "deadline": "Geen termijn op de pagina; vermeldt het attest een permanente aandoening, dan wordt de toelage automatisch verlengd en vraag je maar één keer aan.",
+        "amount": "€50",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een medisch attest van de behandelende geneesheer"
+          }
+        ],
+        "steps": [
+          "Dien de aanvraag met het medisch attest in bij de financiële dienst, Jaak Aertslaan 7, Hoogstraten (03 340 19 11, financien@hoogstraten.be)",
+          "De toelage wordt op je rekening gestort"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke toelage afval (allocation déchets pour raison médicale, Hoogstraten)",
+        "desc": "Hoogstraten verse une allocation aux habitants qui produisent plus de déchets pour une raison médicale, comme l'incontinence, une stomie ou la dialyse.",
+        "deadline": "Pas de délai sur la page ; si l'attestation mentionne une affection permanente, l'allocation est prolongée automatiquement après une seule demande.",
+        "amount": "50 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Un certificat médical du médecin traitant"
+          }
+        ],
+        "steps": [
+          "Introduisez la demande avec le certificat médical auprès du service financier, Jaak Aertslaan 7, Hoogstraten (03 340 19 11, financien@hoogstraten.be)",
+          "L'allocation est versée sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke toelage afval (Müllzulage aus medizinischen Gründen, Hoogstraten)",
+        "desc": "Hoogstraten zahlt Einwohnern, die aus medizinischen Gründen wie Inkontinenz, Stoma oder Dialyse mehr Müll haben, eine Zulage.",
+        "deadline": "Keine Frist auf der Seite; bescheinigt das Attest eine dauerhafte Erkrankung, wird die Zulage nach einem einzigen Antrag automatisch verlängert.",
+        "amount": "50 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ein ärztliches Attest des behandelnden Arztes"
+          }
+        ],
+        "steps": [
+          "Reichen Sie den Antrag mit dem ärztlichen Attest beim Finanzdienst ein, Jaak Aertslaan 7, Hoogstraten (03 340 19 11, financien@hoogstraten.be)",
+          "Die Zulage wird auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.hoogstraten.be/toelage-afvalinzameling"
+      ],
+      "conditions": {
+        "en": [
+          "You are a resident of Hoogstraten.",
+          "You have more waste for medical reasons (incontinence, stoma, kidney dialysis and similar), shown by a medical certificate from the treating doctor."
+        ],
+        "nl": [
+          "Je bent inwoner van Hoogstraten.",
+          "Je hebt omwille van medische redenen meer afval (door incontinentie, stomagebruik, nierdialyse ...), aangetoond met een medisch attest van de behandelende geneesheer."
+        ],
+        "fr": [
+          "Vous habitez Hoogstraten.",
+          "Vous produisez plus de déchets pour des raisons médicales (incontinence, stomie, dialyse, etc.), attestées par un certificat du médecin traitant."
+        ],
+        "de": [
+          "Sie wohnen in Hoogstraten.",
+          "Sie haben aus medizinischen Gründen (Inkontinenz, Stoma, Dialyse u. Ä.) mehr Müll, belegt durch ein Attest des behandelnden Arztes."
+        ]
+      }
+    }
+  },
+  {
+    "id": 554,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "32006"
+    ],
+    "institution": "OCMW Houthulst",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.houthulst.be/thuiszorgpremie",
+    "content": {
+      "en": {
+        "title": "Thuiszorgpremie (Home Carer Premium, Houthulst)",
+        "desc": "Houthulst gives carers a yearly premium for helping, unpaid, a resident who needs a lot of care at home.",
+        "deadline": "Apply every year; no date on the page.",
+        "amount": "€125 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The yearly application form"
+          },
+          {
+            "type": "doc",
+            "label": "If the person cared for receives the care budget for people with a severe care need: a certificate from the health fund"
+          }
+        ],
+        "steps": [
+          "Fill in the yearly application form and hand it in at the Sociaal Huis, Vijverstraat 30, Houthulst, by e-mail (socialedienst@houthulst.be) or by post",
+          "The Special Committee for Social Services decides within 30 days; if you qualify, the money is paid into your account the following month"
+        ]
+      },
+      "nl": {
+        "title": "Thuiszorgpremie (Houthulst)",
+        "desc": "Houthulst geeft mantelzorgers een jaarlijkse premie als ze een zwaar zorgbehoevende inwoner thuis onbetaald helpen.",
+        "deadline": "Elk jaar opnieuw aanvragen; geen datum op de pagina.",
+        "amount": "€125 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het jaarlijkse aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Krijgt de zorgbehoevende het zorgbudget voor zwaar zorgbehoevenden: een attest van de mutualiteit"
+          }
+        ],
+        "steps": [
+          "Vul elk jaar het aanvraagformulier in en bezorg het aan het Sociaal Huis, Vijverstraat 30, Houthulst, via e-mail (socialedienst@houthulst.be) of per post",
+          "Het Bijzonder Comité voor de Sociale Dienst beslist binnen 30 dagen; kom je in aanmerking, dan krijg je het geld de maand erna op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Thuiszorgpremie (prime aidant proche, Houthulst)",
+        "desc": "Houthulst accorde aux aidants proches une prime annuelle lorsqu'ils aident gratuitement à domicile un habitant ayant de lourds besoins de soins.",
+        "deadline": "Demande à renouveler chaque année ; pas de date sur la page.",
+        "amount": "125 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande annuel"
+          },
+          {
+            "type": "doc",
+            "label": "Si la personne aidée reçoit le budget de soins pour personnes lourdement dépendantes : une attestation de la mutualité"
+          }
+        ],
+        "steps": [
+          "Remplissez chaque année le formulaire de demande et remettez-le au Sociaal Huis, Vijverstraat 30, Houthulst, par courriel (socialedienst@houthulst.be) ou par la poste",
+          "Le Comité spécial du service social décide dans les 30 jours ; si vous remplissez les conditions, l'argent est versé sur votre compte le mois suivant"
+        ]
+      },
+      "de": {
+        "title": "Thuiszorgpremie (Prämie für pflegende Angehörige, Houthulst)",
+        "desc": "Houthulst zahlt pflegenden Angehörigen eine jährliche Prämie, wenn sie einen stark pflegebedürftigen Einwohner unbezahlt zu Hause unterstützen.",
+        "deadline": "Jedes Jahr neu beantragen; kein Datum auf der Seite.",
+        "amount": "125 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das jährliche Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Erhält die gepflegte Person das Pflegebudget für schwer Pflegebedürftige: eine Bescheinigung der Krankenkasse"
+          }
+        ],
+        "steps": [
+          "Füllen Sie jedes Jahr das Antragsformular aus und geben Sie es im Sociaal Huis, Vijverstraat 30, Houthulst, ab, per E-Mail (socialedienst@houthulst.be) oder per Post",
+          "Der Sonderausschuss für den Sozialdienst entscheidet innerhalb von 30 Tagen; erfüllen Sie die Bedingungen, wird das Geld im Folgemonat überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.houthulst.be/thuiszorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The carer helps someone at home regularly and unpaid, is at least 18 on the day of the application and is not the person cared for.",
+          "The person cared for is officially a resident of Houthulst, is at least 18 and lives at home, not in a care home or similar institution.",
+          "The person cared for has at least 12 points of disability recognised by the FPS Social Security, or receives the care budget for people with a severe care need."
+        ],
+        "nl": [
+          "De mantelzorger helpt regelmatig en onbetaald iemand thuis die zorg nodig heeft, is minstens 18 jaar op de dag van de aanvraag en is niet zelf de zorgbehoevende.",
+          "De zorgbehoevende is officieel inwoner van Houthulst, is minstens 18 jaar en woont thuis, niet in een verzorgingstehuis of soortgelijke instelling.",
+          "De zorgbehoevende heeft een erkenning van minstens 12 punten invaliditeit van de FOD Sociale Zekerheid of krijgt het zorgbudget voor zwaar zorgbehoevenden."
+        ],
+        "fr": [
+          "L'aidant aide régulièrement et gratuitement à domicile une personne ayant besoin de soins, a au moins 18 ans le jour de la demande et n'est pas lui-même la personne aidée.",
+          "La personne aidée est officiellement habitante de Houthulst, a au moins 18 ans et vit à domicile, pas en maison de soins ou institution similaire.",
+          "La personne aidée a une reconnaissance d'au moins 12 points d'invalidité du SPF Sécurité sociale ou reçoit le budget de soins pour personnes lourdement dépendantes."
+        ],
+        "de": [
+          "Die pflegende Person hilft regelmäßig und unbezahlt jemandem zu Hause, ist am Tag des Antrags mindestens 18 Jahre alt und ist nicht selbst die gepflegte Person.",
+          "Die gepflegte Person ist offiziell Einwohner von Houthulst, mindestens 18 Jahre alt und wohnt zu Hause, nicht in einem Pflegeheim oder einer ähnlichen Einrichtung.",
+          "Die gepflegte Person hat eine Anerkennung von mindestens 12 Punkten Invalidität durch den FÖD Soziale Sicherheit oder erhält das Pflegebudget für schwer Pflegebedürftige."
+        ]
+      }
+    }
+  },
+  {
+    "id": 555,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "32006"
+    ],
+    "institution": "OCMW Houthulst",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.houthulst.be/financiele-tegemoetkoming-voor-incontinentiemateriaal",
+    "content": {
+      "en": {
+        "title": "Financiële tegemoetkoming voor incontinentiemateriaal (Incontinence Allowance, Houthulst)",
+        "desc": "Houthulst gives a yearly allowance towards the extra household waste of people with chronic incontinence, a stoma or kidney dialysis.",
+        "deadline": "Apply every year; no date on the page.",
+        "amount": "€51 a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The yearly application form"
+          },
+          {
+            "type": "doc",
+            "label": "Chronic incontinence: proof of the health fund's incontinence lump sum for that year (health-fund certificate or recent bank statement); stoma or dialysis: a medical certificate"
+          }
+        ],
+        "steps": [
+          "Fill in the yearly application form and hand it in at the Sociaal Huis, Vijverstraat 30, Houthulst, by e-mail (socialedienst@houthulst.be) or by post",
+          "The Special Committee for Social Services decides within 30 days; if you qualify, the money is paid into your account the following month"
+        ]
+      },
+      "nl": {
+        "title": "Financiële tegemoetkoming voor incontinentiemateriaal (Houthulst)",
+        "desc": "Houthulst geeft een jaarlijkse tegemoetkoming in de extra huisvuilkosten van personen met chronische incontinentie, een stoma of nierdialyse.",
+        "deadline": "Elk jaar opnieuw aanvragen; geen datum op de pagina.",
+        "amount": "€51 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het jaarlijkse aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Chronische incontinentie: bewijs van het incontinentieforfait van de mutualiteit in datzelfde jaar (attest van de mutualiteit of recent bankuittreksel); stoma of nierdialyse: een medisch attest"
+          }
+        ],
+        "steps": [
+          "Vul elk jaar het aanvraagformulier in en bezorg het aan het Sociaal Huis, Vijverstraat 30, Houthulst, via e-mail (socialedienst@houthulst.be) of per post",
+          "Het Bijzonder Comité voor de Sociale Dienst beslist binnen 30 dagen; kom je in aanmerking, dan krijg je het geld de maand erna op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Financiële tegemoetkoming voor incontinentiemateriaal (allocation incontinence, Houthulst)",
+        "desc": "Houthulst accorde une allocation annuelle pour les déchets supplémentaires des personnes souffrant d'incontinence chronique, ayant une stomie ou sous dialyse.",
+        "deadline": "Demande à renouveler chaque année ; pas de date sur la page.",
+        "amount": "51 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande annuel"
+          },
+          {
+            "type": "doc",
+            "label": "Incontinence chronique : preuve du forfait incontinence de la mutualité pour l'année (attestation de la mutualité ou extrait bancaire récent) ; stomie ou dialyse : un certificat médical"
+          }
+        ],
+        "steps": [
+          "Remplissez chaque année le formulaire de demande et remettez-le au Sociaal Huis, Vijverstraat 30, Houthulst, par courriel (socialedienst@houthulst.be) ou par la poste",
+          "Le Comité spécial du service social décide dans les 30 jours ; si vous remplissez les conditions, l'argent est versé sur votre compte le mois suivant"
+        ]
+      },
+      "de": {
+        "title": "Financiële tegemoetkoming voor incontinentiemateriaal (Inkontinenzzulage, Houthulst)",
+        "desc": "Houthulst zahlt eine jährliche Zulage für den zusätzlichen Hausmüll von Menschen mit chronischer Inkontinenz, Stoma oder Dialyse.",
+        "deadline": "Jedes Jahr neu beantragen; kein Datum auf der Seite.",
+        "amount": "51 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das jährliche Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Chronische Inkontinenz: Nachweis der Inkontinenzpauschale der Krankenkasse für dieses Jahr (Bescheinigung der Krankenkasse oder aktueller Kontoauszug); Stoma oder Dialyse: ein ärztliches Attest"
+          }
+        ],
+        "steps": [
+          "Füllen Sie jedes Jahr das Antragsformular aus und geben Sie es im Sociaal Huis, Vijverstraat 30, Houthulst, ab, per E-Mail (socialedienst@houthulst.be) oder per Post",
+          "Der Sonderausschuss für den Sozialdienst entscheidet innerhalb von 30 Tagen; erfüllen Sie die Bedingungen, wird das Geld im Folgemonat überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.houthulst.be/financiele-tegemoetkoming-voor-incontinentiemateriaal"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in Houthulst and live at home, not in a residential facility.",
+          "Chronic incontinence: you are entitled to, or already received, the health fund's incontinence lump sum in the year of the application. Stoma or kidney dialysis: a medical certificate from a doctor."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in Houthulst en verblijft thuis, niet in een residentiële voorziening.",
+          "Chronische incontinentie: je hebt recht op of ontving al het incontinentieforfait van de mutualiteit in het jaar van de aanvraag. Stoma of nierdialyse: een medisch attest van een arts."
+        ],
+        "fr": [
+          "Vous êtes domicilié à Houthulst et vivez à domicile, pas dans un établissement résidentiel.",
+          "Incontinence chronique : vous avez droit au forfait incontinence de la mutualité, ou l'avez déjà reçu, l'année de la demande. Stomie ou dialyse : un certificat médical d'un médecin."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in Houthulst und wohnen zu Hause, nicht in einer stationären Einrichtung.",
+          "Chronische Inkontinenz: Sie haben im Antragsjahr Anspruch auf die Inkontinenzpauschale der Krankenkasse oder haben sie bereits erhalten. Stoma oder Dialyse: ein ärztliches Attest."
+        ]
+      }
+    }
+  },
+  {
+    "id": 556,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "32006"
+    ],
+    "institution": "OCMW Houthulst",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.houthulst.be/sociaal-pedagogische-toelage",
+    "content": {
+      "en": {
+        "title": "Sociaal pedagogische toelage (Allowance for Parents of a Child with a High Care Need, Houthulst)",
+        "desc": "Houthulst gives a yearly allowance to the (foster) parent or guardian who raises and cares for a child with a disability at home.",
+        "deadline": "Apply every year before 31 December of the year concerned.",
+        "amount": "€125 a year (child raised fully at home) or €75 a year (child goes to school or is in a VAPH-recognised semi-boarding facility)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed and signed application form"
+          },
+          {
+            "type": "doc",
+            "label": "If the child goes to school or stays in a facility: a certificate from it saying whether the child is cared for (semi-)residentially"
+          }
+        ],
+        "steps": [
+          "Fill in the yearly application form and hand it in at the Sociaal Huis, Vijverstraat 30, Houthulst, by e-mail (socialedienst@houthulst.be) or by post",
+          "The Special Committee for Social Services decides within 30 days; if you qualify, the money is paid into your account the following month"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal pedagogische toelage (Houthulst)",
+        "desc": "Houthulst geeft een jaarlijkse toelage aan de (pleeg)ouder of voogd die thuis de verzorging en opvoeding van een kind met een beperking op zich neemt.",
+        "deadline": "Jaarlijks aanvragen vóór 31 december van het jaar waarvoor de premie wordt aangevraagd.",
+        "amount": "€125 per jaar (kind volledig thuis opgevoed) of €75 per jaar (kind loopt school of is opgenomen in een door het VAPH erkend semi-internaat)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het volledig ingevulde en ondertekende aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Loopt je kind school of verblijft het in een voorziening: een attest van die organisatie dat aangeeft of je kind al dan niet (semi-)residentieel opgevangen wordt"
+          }
+        ],
+        "steps": [
+          "Vul elk jaar het aanvraagformulier in en bezorg het aan het Sociaal Huis, Vijverstraat 30, Houthulst, via e-mail (socialedienst@houthulst.be) of per post",
+          "Het Bijzonder Comité voor de Sociale Dienst beslist binnen 30 dagen; kom je in aanmerking, dan krijg je het geld de maand erna op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal pedagogische toelage (allocation pour parents d'un enfant à besoins de soins élevés, Houthulst)",
+        "desc": "Houthulst accorde une allocation annuelle au parent (d'accueil) ou tuteur qui élève et soigne à la maison un enfant handicapé.",
+        "deadline": "Demande annuelle avant le 31 décembre de l'année concernée.",
+        "amount": "125 € par an (enfant élevé entièrement à la maison) ou 75 € par an (enfant scolarisé ou en semi-internat reconnu par le VAPH)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Si l'enfant est scolarisé ou séjourne dans une structure : une attestation de celle-ci indiquant s'il est accueilli en (semi-)résidentiel ou non"
+          }
+        ],
+        "steps": [
+          "Remplissez chaque année le formulaire de demande et remettez-le au Sociaal Huis, Vijverstraat 30, Houthulst, par courriel (socialedienst@houthulst.be) ou par la poste",
+          "Le Comité spécial du service social décide dans les 30 jours ; si vous remplissez les conditions, l'argent est versé sur votre compte le mois suivant"
+        ]
+      },
+      "de": {
+        "title": "Sociaal pedagogische toelage (Zulage für Eltern eines Kindes mit hohem Pflegebedarf, Houthulst)",
+        "desc": "Houthulst zahlt dem (Pflege-)Elternteil oder Vormund, der ein Kind mit Behinderung zu Hause erzieht und pflegt, eine jährliche Zulage.",
+        "deadline": "Jährlich vor dem 31. Dezember des betreffenden Jahres beantragen.",
+        "amount": "125 € pro Jahr (Kind vollständig zu Hause erzogen) oder 75 € pro Jahr (Kind geht zur Schule oder ist in einem vom VAPH anerkannten Halbinternat)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das vollständig ausgefüllte und unterschriebene Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Geht das Kind zur Schule oder ist es in einer Einrichtung: eine Bescheinigung dieser Stelle, ob das Kind (teil)stationär betreut wird"
+          }
+        ],
+        "steps": [
+          "Füllen Sie jedes Jahr das Antragsformular aus und geben Sie es im Sociaal Huis, Vijverstraat 30, Houthulst, ab, per E-Mail (socialedienst@houthulst.be) oder per Post",
+          "Der Sonderausschuss für den Sozialdienst entscheidet innerhalb von 30 Tagen; erfüllen Sie die Bedingungen, wird das Geld im Folgemonat überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.houthulst.be/sociaal-pedagogische-toelage"
+      ],
+      "conditions": {
+        "en": [
+          "The child and the carer are domiciled at the same address in Houthulst and actually live there.",
+          "The child is under 21 and has a disability of at least 66%, or 4 points on pillar 1, or 6 points on pillars 1, 2 and 3 together.",
+          "The carer provides home care and the adapted upbringing permanently and unpaid; only one carer per child can get the allowance.",
+          "It cannot be combined with Houthulst's home carer premium (thuiszorgpremie)."
+        ],
+        "nl": [
+          "Zowel het kind als wie instaat voor de verzorging zijn op hetzelfde adres in Houthulst gedomicilieerd en wonen er effectief.",
+          "Het kind heeft de leeftijd van 21 jaar niet bereikt en heeft een beperking van ten minste 66%, of 4 punten op pijler 1, of 6 punten op pijler 1, 2 en 3 samen.",
+          "De zorgverlener staat op permanente wijze, maar onbezoldigd, in voor de thuiszorg en de aangepaste opvoeding; per kind kan slechts één zorgverlener de toelage krijgen.",
+          "De sociaal pedagogische toelage kan niet gecombineerd worden met de thuiszorgpremie."
+        ],
+        "fr": [
+          "L'enfant et la personne qui le soigne sont domiciliés à la même adresse à Houthulst et y habitent effectivement.",
+          "L'enfant a moins de 21 ans et a un handicap d'au moins 66 %, ou 4 points dans le pilier 1, ou 6 points dans les piliers 1, 2 et 3 ensemble.",
+          "L'aidant assure de façon permanente, mais non rémunérée, les soins à domicile et l'éducation adaptée ; une seule personne par enfant peut recevoir l'allocation.",
+          "Elle n'est pas cumulable avec la prime aidant proche de Houthulst (thuiszorgpremie)."
+        ],
+        "de": [
+          "Das Kind und die pflegende Person haben ihren Wohnsitz an derselben Adresse in Houthulst und wohnen tatsächlich dort.",
+          "Das Kind ist unter 21 Jahre alt und hat eine Behinderung von mindestens 66 % oder 4 Punkte in Säule 1 oder 6 Punkte in den Säulen 1, 2 und 3 zusammen.",
+          "Die pflegende Person übernimmt dauerhaft, aber unbezahlt, die häusliche Pflege und die angepasste Erziehung; pro Kind kann nur eine Person die Zulage erhalten.",
+          "Sie ist nicht mit der Prämie für pflegende Angehörige von Houthulst (Thuiszorgpremie) kombinierbar."
+        ]
+      }
+    }
+  },
+  {
+    "id": 557,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25031"
+    ],
+    "institution": "Ville de Genappe",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.genappe.be/commune/administration/services-communaux/environnement/gestion-des-dechets/prime-langes-lavables",
+    "content": {
+      "en": {
+        "title": "Prime langes lavables (Washable Nappies Premium, Genappe)",
+        "desc": "Genappe refunds half the cost of washable nappies, once per child.",
+        "deadline": "Apply before the child is two and a half.",
+        "amount": "50% of the purchase invoice, up to €125",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form (with the regulation on the commune's page)"
+          },
+          {
+            "type": "doc",
+            "label": "The purchase invoice(s); several can be combined to reach the €125 ceiling"
+          }
+        ],
+        "steps": [
+          "Download the regulation and form from the commune's page",
+          "Send the application to the Service Environnement of Genappe, Espace 2000 3, 1470 Genappe (067 79 42 29)"
+        ]
+      },
+      "nl": {
+        "title": "Prime langes lavables (premie wasbare luiers, Genappe)",
+        "desc": "Genappe betaalt de helft van de aankoopprijs van wasbare luiers terug, één keer per kind.",
+        "deadline": "Aanvragen voordat het kind 2,5 jaar is.",
+        "amount": "50% van de aankoopfactuur, max. €125",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier (met het reglement op de pagina van de stad)"
+          },
+          {
+            "type": "doc",
+            "label": "De aankoopfactu(u)r(en); meerdere facturen mogen samengeteld worden tot het plafond van €125"
+          }
+        ],
+        "steps": [
+          "Download het reglement en het formulier op de pagina van de stad",
+          "Bezorg de aanvraag aan de Service Environnement van Genappe, Espace 2000 3, 1470 Genappe (067 79 42 29)"
+        ]
+      },
+      "fr": {
+        "title": "Prime langes lavables (Genappe)",
+        "desc": "Genappe rembourse la moitié du prix d'achat de langes lavables, une fois par enfant.",
+        "deadline": "Introduisez la demande avant que l'enfant ait deux ans et demi.",
+        "amount": "50 % de la facture d'achat, maximum 125 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande (avec le règlement sur la page de la ville)"
+          },
+          {
+            "type": "doc",
+            "label": "La ou les factures d'achat ; plusieurs factures peuvent être cumulées pour atteindre le plafond de 125 €"
+          }
+        ],
+        "steps": [
+          "Téléchargez le règlement et le formulaire sur la page de la ville",
+          "Envoyez la demande au Service Environnement de Genappe, Espace 2000 3, 1470 Genappe (067 79 42 29)"
+        ]
+      },
+      "de": {
+        "title": "Prime langes lavables (Prämie für Stoffwindeln, Genappe)",
+        "desc": "Genappe erstattet einmal pro Kind die Hälfte des Kaufpreises von Stoffwindeln.",
+        "deadline": "Beantragen Sie, bevor das Kind zweieinhalb Jahre alt ist.",
+        "amount": "50 % der Kaufrechnung, höchstens 125 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular (mit der Regelung auf der Seite der Stadt)"
+          },
+          {
+            "type": "doc",
+            "label": "Die Kaufrechnung(en); mehrere Rechnungen können bis zur Obergrenze von 125 € zusammengerechnet werden"
+          }
+        ],
+        "steps": [
+          "Laden Sie Regelung und Formular von der Seite der Stadt herunter",
+          "Senden Sie den Antrag an den Service Environnement von Genappe, Espace 2000 3, 1470 Genappe (067 79 42 29)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.genappe.be/commune/administration/services-communaux/environnement/gestion-des-dechets/prime-langes-lavables"
+      ],
+      "conditions": {
+        "en": [
+          "The father, mother or legal guardian of the child applies and is domiciled in Genappe.",
+          "Invoices may not date from before 1 January 2018 or from more than three months before the child's birth.",
+          "The premium is granted once per child, if requested before the child is two and a half."
+        ],
+        "nl": [
+          "De vader, moeder of wettelijke voogd van het kind vraagt aan en is gedomicilieerd in Genappe.",
+          "De facturen mogen niet dateren van vóór 1 januari 2018 of van meer dan drie maanden vóór de geboorte van het kind.",
+          "De premie wordt één keer per kind toegekend, als ze aangevraagd wordt voordat het kind 2,5 jaar is."
+        ],
+        "fr": [
+          "La prime est demandée par le père, la mère ou le tuteur légal de l'enfant, domicilié dans la commune de Genappe.",
+          "Les factures ne peuvent être antérieures au 1er janvier 2018 ni de plus de trois mois à la naissance de l'enfant.",
+          "La prime est octroyée une seule fois par enfant, si elle est demandée avant que l'enfant n'atteigne deux ans et demi."
+        ],
+        "de": [
+          "Vater, Mutter oder gesetzlicher Vormund des Kindes stellt den Antrag und hat seinen Wohnsitz in Genappe.",
+          "Die Rechnungen dürfen nicht vor dem 1. Januar 2018 und nicht mehr als drei Monate vor der Geburt des Kindes datieren.",
+          "Die Prämie wird einmal pro Kind gewährt, wenn sie beantragt wird, bevor das Kind zweieinhalb Jahre alt ist."
+        ]
+      }
+    }
+  },
+  {
+    "id": 558,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "92142"
+    ],
+    "institution": "Ville de Gembloux",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gembloux.be/ma-commune/services-communaux/environnement/primes/prime-visant-a-favoriser-lutilisation-de-langes-lavables-pour-les-bebes-1",
+    "content": {
+      "en": {
+        "title": "Prime visant à favoriser l'utilisation de langes lavables (Washable Nappies Premium, Gembloux)",
+        "desc": "Gembloux refunds half the cost of washable nappies for a baby, once per child.",
+        "deadline": "No deadline on the page.",
+        "amount": "50% of the invoices, up to €100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The original invoice(s) showing the exact type of nappies and the price"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the household composition"
+          }
+        ],
+        "steps": [
+          "Fill in the form (paper or online) and send it with proof of payment to the Service Environnement, Parc d'Epinal 2, 5030 Gembloux (081 62 63 25)",
+          "The College decides and pays the premium into your account, within the available budget"
+        ]
+      },
+      "nl": {
+        "title": "Prime visant à favoriser l'utilisation de langes lavables (premie wasbare luiers, Gembloux)",
+        "desc": "Gembloux betaalt de helft van de aankoopprijs van wasbare luiers voor een baby terug, één keer per kind.",
+        "deadline": "Geen termijn op de pagina.",
+        "amount": "50% van de facturen, max. €100",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De originele factu(u)r(en) met het exacte type luiers en de prijs"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de gezinssamenstelling"
+          }
+        ],
+        "steps": [
+          "Vul het formulier in (op papier of online) en stuur het met het betalingsbewijs naar de Service Environnement, Parc d'Epinal 2, 5030 Gembloux (081 62 63 25)",
+          "Het College beslist en stort de premie op je rekening, binnen het beschikbare budget"
+        ]
+      },
+      "fr": {
+        "title": "Prime visant à favoriser l'utilisation de langes lavables pour les bébés (Gembloux)",
+        "desc": "Gembloux rembourse la moitié du prix d'achat de langes lavables pour un bébé, une fois par enfant.",
+        "deadline": "Pas de délai sur la page.",
+        "amount": "50 % des factures, maximum 100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La ou les factures originales précisant le type exact de langes et le prix"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la composition de ménage"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire (papier ou en ligne) et renvoyez-le avec la preuve de paiement au Service Environnement, Parc d'Epinal 2, 5030 Gembloux (081 62 63 25)",
+          "Le Collège communal décide et verse la prime sur votre compte, dans la limite des crédits disponibles"
+        ]
+      },
+      "de": {
+        "title": "Prime visant à favoriser l'utilisation de langes lavables (Prämie für Stoffwindeln, Gembloux)",
+        "desc": "Gembloux erstattet einmal pro Kind die Hälfte des Kaufpreises von Stoffwindeln für ein Baby.",
+        "deadline": "Keine Frist auf der Seite.",
+        "amount": "50 % der Rechnungen, höchstens 100 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die Originalrechnung(en) mit genauem Windeltyp und Preis"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Haushaltszusammensetzung"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular aus (Papier oder online) und senden Sie es mit dem Zahlungsnachweis an den Service Environnement, Parc d'Epinal 2, 5030 Gembloux (081 62 63 25)",
+          "Das Gemeindekollegium entscheidet und überweist die Prämie im Rahmen der verfügbaren Mittel auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.gembloux.be/ma-commune/services-communaux/environnement/primes/prime-visant-a-favoriser-lutilisation-de-langes-lavables-pour-les-bebes-1",
+        "https://www.gembloux.be/ma-commune/services-communaux/environnement/environnement-liens-fichiers-images-internes/fichiers/formulaire-demande-prime-langes-lavables.docx"
+      ],
+      "conditions": {
+        "en": [
+          "The premium is for washable nappies bought for a baby; the applicant attaches a copy of the household composition.",
+          "Invoices may date from up to 3 months before the child's birth, but not from before 1 January 2021.",
+          "Granted once per child, by the College, within the available budget."
+        ],
+        "nl": [
+          "De premie is voor wasbare luiers gekocht voor een baby; de aanvrager voegt een kopie van de gezinssamenstelling toe.",
+          "De facturen mogen tot 3 maanden vóór de geboorte van het kind dateren, maar niet van vóór 1 januari 2021.",
+          "Eén keer per kind toegekend door het College, binnen het beschikbare budget."
+        ],
+        "fr": [
+          "La prime concerne des langes lavables achetés pour un bébé ; le demandeur joint une copie de la composition de ménage.",
+          "Les factures peuvent être antérieures de 3 mois à la date de naissance de l'enfant, mais pas avant le 1er janvier 2021.",
+          "Octroyée une seule fois par enfant, par le Collège communal, dans la limite des crédits budgétaires disponibles."
+        ],
+        "de": [
+          "Die Prämie gilt für Stoffwindeln, die für ein Baby gekauft wurden; der Antragsteller fügt eine Kopie der Haushaltszusammensetzung bei.",
+          "Die Rechnungen dürfen bis zu 3 Monate vor der Geburt des Kindes datieren, aber nicht vor dem 1. Januar 2021.",
+          "Wird einmal pro Kind vom Gemeindekollegium im Rahmen der verfügbaren Mittel gewährt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 559,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "52025"
+    ],
+    "institution": "Commune de Gerpinnes",
+    "verified": "24 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gerpinnes.be/ma-commune/services-administratifs/etat-civil/demarches/prime-de-naissance",
+    "content": {
+      "en": {
+        "title": "Prime de naissance (Birth Premium, Gerpinnes)",
+        "desc": "Gerpinnes pays a birth premium to parents living in the commune.",
+        "deadline": "No deadline on the page.",
+        "amount": "€50",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed and signed claim declaration (déclaration de créance) with your bank account number"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition from the population service"
+          }
+        ],
+        "steps": [
+          "Download the claim declaration template from the commune's page",
+          "Send it with the household composition to the Service des Finances, Avenue Astrid 11, 6280 Gerpinnes"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance (geboortepremie, Gerpinnes)",
+        "desc": "Gerpinnes betaalt een geboortepremie aan ouders die in de gemeente wonen.",
+        "deadline": "Geen termijn op de pagina.",
+        "amount": "€50",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De ingevulde en ondertekende schuldvordering (déclaration de créance) met je rekeningnummer"
+          },
+          {
+            "type": "doc",
+            "label": "Een gezinssamenstelling van de dienst bevolking"
+          }
+        ],
+        "steps": [
+          "Download het model van schuldvordering op de pagina van de gemeente",
+          "Stuur ze met de gezinssamenstelling naar de Service des Finances, Avenue Astrid 11, 6280 Gerpinnes"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance (Gerpinnes)",
+        "desc": "Gerpinnes verse une prime de naissance aux parents domiciliés dans la commune.",
+        "deadline": "Pas de délai sur la page.",
+        "amount": "50 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La déclaration de créance complétée et signée, avec votre numéro de compte"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage délivrée par le service de la population"
+          }
+        ],
+        "steps": [
+          "Téléchargez le modèle de déclaration de créance sur la page de la commune",
+          "Envoyez-la avec la composition de ménage au Service des Finances, Avenue Astrid 11, 6280 Gerpinnes"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance (Geburtsprämie, Gerpinnes)",
+        "desc": "Gerpinnes zahlt Eltern mit Wohnsitz in der Gemeinde eine Geburtsprämie.",
+        "deadline": "Keine Frist auf der Seite.",
+        "amount": "50 €",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die ausgefüllte und unterschriebene Forderungserklärung (déclaration de créance) mit Ihrer Kontonummer"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung des Bevölkerungsdienstes"
+          }
+        ],
+        "steps": [
+          "Laden Sie die Vorlage der Forderungserklärung von der Seite der Gemeinde herunter",
+          "Senden Sie sie mit der Haushaltszusammensetzung an den Service des Finances, Avenue Astrid 11, 6280 Gerpinnes"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "24 Nov 2026",
+      "source_url": [
+        "https://www.gerpinnes.be/ma-commune/services-administratifs/etat-civil/demarches/prime-de-naissance",
+        "https://www.gerpinnes.be/ma-commune/services-administratifs/etat-civil/demarches/prime-de-naissance/prime-de-naissance/modele-de-declaration-de-creance-prime-de-naissance.docx"
+      ],
+      "conditions": {
+        "en": [
+          "The parent claiming the premium is domiciled in Gerpinnes (6280).",
+          "The premium is for the birth of a child, under the conditions of the council decision of 28 May 2020; a household composition from the population service is attached."
+        ],
+        "nl": [
+          "De ouder die de premie vraagt, is gedomicilieerd in Gerpinnes (6280).",
+          "De premie is voor de geboorte van een kind, volgens de voorwaarden van de gemeenteraadsbeslissing van 28 mei 2020; een gezinssamenstelling van de dienst bevolking wordt bijgevoegd."
+        ],
+        "fr": [
+          "Le parent qui demande la prime est domicilié à Gerpinnes (6280).",
+          "La prime est due pour la naissance d'un enfant, selon les conditions de la délibération du Conseil communal du 28 mai 2020 ; une composition de ménage délivrée par le service de la population est jointe."
+        ],
+        "de": [
+          "Der Elternteil, der die Prämie beantragt, hat seinen Wohnsitz in Gerpinnes (6280).",
+          "Die Prämie gilt für die Geburt eines Kindes gemäß dem Gemeinderatsbeschluss vom 28. Mai 2020; eine Haushaltszusammensetzung des Bevölkerungsdienstes wird beigefügt."
+        ]
+      }
+    }
   }
 ]
