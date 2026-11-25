@@ -69937,5 +69937,2268 @@
         ]
       }
     }
+  },
+  {
+    "id": 560,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11021"
+    ],
+    "institution": "Gemeente Hove",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hove.be/subsidie-aankoop-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Subsidie aankoop herbruikbare luiers (Washable Nappies Premium, Hove)",
+        "desc": "Hove pays back half of what you spend on buying or renting a set of washable nappies with accessories, once per child.",
+        "deadline": "Apply before the child's third birthday.",
+        "amount": "Half the invoice, up to €125 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form (online e-loket or on paper)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of purchase or rental in your name, showing the invoice price"
+          }
+        ],
+        "steps": [
+          "Fill in the application form via the e-loket on hove.be or hand it in at the Duurzaamheid service, Geelhandlaan 1, 2540 Hove (03 460 33 47)",
+          "The premium is paid into your account at the end of the year, within the yearly budget"
+        ]
+      },
+      "nl": {
+        "title": "Subsidie aankoop herbruikbare luiers (Hove)",
+        "desc": "Hove betaalt de helft terug van wat je uitgeeft aan de aankoop of huur van een pakket herbruikbare luiers met benodigdheden, eenmalig per kind.",
+        "deadline": "Aanvragen vóór de derde verjaardag van het kind.",
+        "amount": "De helft van de factuur, maximaal €125 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier (via het e-loket of op papier)"
+          },
+          {
+            "type": "doc",
+            "label": "Een aankoop- of huurbewijs op naam met vermelding van de factuurprijs"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in via het e-loket op hove.be of bezorg het aan de dienst Duurzaamheid, Geelhandlaan 1, 2540 Hove (03 460 33 47)",
+          "De premie wordt op het einde van het jaar op je rekening gestort, binnen het jaarlijkse budget"
+        ]
+      },
+      "fr": {
+        "title": "Subsidie aankoop herbruikbare luiers (prime pour langes lavables, Hove)",
+        "desc": "Hove rembourse la moitié de l'achat ou de la location d'un ensemble de langes lavables avec accessoires, une fois par enfant.",
+        "deadline": "Demande avant le troisième anniversaire de l'enfant.",
+        "amount": "La moitié de la facture, maximum 125 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande (e-guichet ou papier)"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve d'achat ou de location à votre nom, avec le prix facturé"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire via l'e-loket sur hove.be ou remettez-le au service Duurzaamheid, Geelhandlaan 1, 2540 Hove (03 460 33 47)",
+          "La prime est versée sur votre compte en fin d'année, dans la limite du budget annuel"
+        ]
+      },
+      "de": {
+        "title": "Subsidie aankoop herbruikbare luiers (Prämie für Stoffwindeln, Hove)",
+        "desc": "Hove erstattet die Hälfte der Kosten für Kauf oder Miete eines Stoffwindelpakets mit Zubehör, einmal pro Kind.",
+        "deadline": "Antrag vor dem dritten Geburtstag des Kindes.",
+        "amount": "Die Hälfte der Rechnung, höchstens 125 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular (E-Schalter oder Papier)"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Kauf- oder Mietnachweis auf Ihren Namen mit dem Rechnungspreis"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular über den E-Schalter auf hove.be aus oder geben Sie es beim Dienst Duurzaamheid, Geelhandlaan 1, 2540 Hove (03 460 33 47) ab",
+          "Die Prämie wird am Jahresende im Rahmen des Jahresbudgets auf Ihr Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.hove.be/subsidie-aankoop-herbruikbare-luiers",
+        "https://www.hove.be/file/download/252/BCB1FB5B4F5DCDB21CD7AA0E28C89A70"
+      ],
+      "conditions": {
+        "en": [
+          "The father, mother or legal guardian is domiciled in Hove.",
+          "The application is made before the child's third birthday, with proof of purchase in the applicant's name.",
+          "Once per child, for nappies bought or rented after 31 December 2007."
+        ],
+        "nl": [
+          "De vader, moeder of wettelijke voogd is gedomicilieerd in de gemeente Hove.",
+          "De aanvraag gebeurt vóór de derde verjaardag van het kind, met een aankoopbewijs op naam.",
+          "Eenmalig per kind, voor luiers gekocht of gehuurd na 31/12/2007."
+        ],
+        "fr": [
+          "Le père, la mère ou le tuteur légal est domicilié à Hove.",
+          "La demande est introduite avant le troisième anniversaire de l'enfant, avec une preuve d'achat au nom du demandeur.",
+          "Une seule fois par enfant, pour des langes achetés ou loués après le 31 décembre 2007."
+        ],
+        "de": [
+          "Vater, Mutter oder gesetzlicher Vormund haben ihren Wohnsitz in Hove.",
+          "Der Antrag wird vor dem dritten Geburtstag des Kindes mit einem Kaufnachweis auf den Namen des Antragstellers gestellt.",
+          "Einmal pro Kind, für nach dem 31. Dezember 2007 gekaufte oder gemietete Windeln."
+        ]
+      }
+    }
+  },
+  {
+    "id": 561,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11021"
+    ],
+    "institution": "Gemeente Hove",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hove.be/renovatiepremie",
+    "amount_source_url": "https://www.hove.be/file/download/33003/B917684C3B2E9F96DBB32A6517CE6DE2",
+    "content": {
+      "en": {
+        "title": "Renovatiepremie (Municipal Renovation Top-Up, Hove)",
+        "desc": "Since 1 January 2026, Hove adds its own premium on top of an approved Flemish Mijn VerbouwPremie for roof, wall, floor or cellar insulation, high-efficiency glazing and heat pumps.",
+        "deadline": "Apply at the latest 12 months after the Flemish government approved your Mijn VerbouwPremie.",
+        "amount": "10% of the total invoice (VAT included), up to €1,150 for roof/attic floor insulation and for glazing, €1,000 for outer wall insulation, €300 for floor or cellar insulation and €350 for a heat pump (boiler); amounts for different works can be combined",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The Flemish government's approval of your Mijn VerbouwPremie for the works"
+          }
+        ],
+        "steps": [
+          "Wait until your Mijn VerbouwPremie for the works is approved",
+          "Send the application form with the approval to the Duurzaamheid service of Hove (duurzaamheid@hove.be, 03 460 33 47) within 12 months",
+          "The College decides and pays the top-up, within the yearly budget"
+        ]
+      },
+      "nl": {
+        "title": "Renovatiepremie (Hove)",
+        "desc": "Sinds 1 januari 2026 geeft Hove een eigen premie bovenop een goedgekeurde Mijn VerbouwPremie voor dak-, zoldervloer-, buitenmuur-, vloer- of kelderisolatie, hoogrendementsbeglazing en een warmtepomp(boiler).",
+        "deadline": "Aanvragen uiterlijk 12 maanden na de goedkeuring van je Mijn VerbouwPremie door de Vlaamse overheid.",
+        "amount": "10% van de totale factuur (incl. btw), maximaal €1.150 voor dak- of zoldervloerisolatie en voor hoogrendementsbeglazing, €1.000 voor buitenmuurisolatie, €300 voor gelijkvloers- of kelderisolatie en €350 voor een warmtepomp(boiler); de premies voor verschillende werken zijn cumuleerbaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De goedkeuring van je Mijn VerbouwPremie door de Vlaamse overheid voor de werken"
+          }
+        ],
+        "steps": [
+          "Wacht tot je Mijn VerbouwPremie voor de werken goedgekeurd is",
+          "Bezorg het aanvraagformulier met de goedkeuring binnen 12 maanden aan de dienst Duurzaamheid van Hove (duurzaamheid@hove.be, 03 460 33 47)",
+          "Het college beslist en betaalt de premie uit, binnen het jaarlijkse budget"
+        ]
+      },
+      "fr": {
+        "title": "Renovatiepremie (complément communal à la rénovation, Hove)",
+        "desc": "Depuis le 1er janvier 2026, Hove ajoute sa propre prime à une Mijn VerbouwPremie flamande approuvée pour l'isolation du toit, du plancher de grenier, des murs extérieurs, du sol ou de la cave, le vitrage à haut rendement et la pompe à chaleur.",
+        "deadline": "Demande au plus tard 12 mois après l'approbation de votre Mijn VerbouwPremie par la Région flamande.",
+        "amount": "10 % de la facture totale (TVA comprise), maximum 1.150 € pour l'isolation du toit ou du plancher de grenier et pour le vitrage, 1.000 € pour l'isolation des murs extérieurs, 300 € pour l'isolation du sol ou de la cave et 350 € pour une pompe à chaleur (boiler) ; les primes pour différents travaux sont cumulables",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "L'approbation de votre Mijn VerbouwPremie par la Région flamande pour les travaux"
+          }
+        ],
+        "steps": [
+          "Attendez l'approbation de votre Mijn VerbouwPremie pour les travaux",
+          "Envoyez le formulaire avec l'approbation au service Duurzaamheid de Hove (duurzaamheid@hove.be, 03 460 33 47) dans les 12 mois",
+          "Le Collège décide et verse la prime, dans la limite du budget annuel"
+        ]
+      },
+      "de": {
+        "title": "Renovatiepremie (kommunaler Renovierungszuschlag, Hove)",
+        "desc": "Seit dem 1. Januar 2026 zahlt Hove eine eigene Prämie zusätzlich zu einer genehmigten flämischen Mijn VerbouwPremie für Dach-, Dachboden-, Außenwand-, Boden- oder Kellerdämmung, Hochleistungsverglasung und Wärmepumpen.",
+        "deadline": "Antrag spätestens 12 Monate nach der Genehmigung Ihrer Mijn VerbouwPremie durch die flämische Regierung.",
+        "amount": "10 % der Gesamtrechnung (inkl. MwSt.), höchstens 1.150 € für Dach- oder Dachbodendämmung und für Verglasung, 1.000 € für Außenwanddämmung, 300 € für Boden- oder Kellerdämmung und 350 € für eine Wärmepumpe (Boiler); Prämien für verschiedene Arbeiten sind kombinierbar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die Genehmigung Ihrer Mijn VerbouwPremie durch die flämische Regierung für die Arbeiten"
+          }
+        ],
+        "steps": [
+          "Warten Sie, bis Ihre Mijn VerbouwPremie für die Arbeiten genehmigt ist",
+          "Senden Sie das Formular mit der Genehmigung innerhalb von 12 Monaten an den Dienst Duurzaamheid von Hove (duurzaamheid@hove.be, 03 460 33 47)",
+          "Das Kollegium entscheidet und zahlt die Prämie im Rahmen des Jahresbudgets aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.hove.be/renovatiepremie",
+        "https://www.hove.be/file/download/33003/B917684C3B2E9F96DBB32A6517CE6DE2"
+      ],
+      "conditions": {
+        "en": [
+          "You received an approved Mijn VerbouwPremie for roof/attic floor, outer wall, floor or cellar insulation, high-efficiency glazing or a heat pump (boiler).",
+          "You are in income category 3 or 4 of Mijn VerbouwPremie.",
+          "You are the owner-occupier of the home, or you rent it to a woonmaatschappij; owner-occupiers who fully own another home, flat or building plot do not qualify.",
+          "The building is licensed (vergund)."
+        ],
+        "nl": [
+          "Je hebt een goedgekeurde Mijn VerbouwPremie voor dak- of zoldervloerisolatie, buitenmuurisolatie, gelijkvloers- of kelderisolatie, hoogrendementsbeglazing of een warmtepomp(boiler).",
+          "Je behoort tot inkomenscategorie 3 of 4 zoals bepaald door de Mijn VerbouwPremie.",
+          "Je bent eigenaar-bewoner van de woning of verhuurt ze aan een woonmaatschappij; eigenaar-bewoners die nog een andere woning, appartement of bouwgrond volledig in volle eigendom hebben, komen niet in aanmerking.",
+          "Het gebouw is vergund."
+        ],
+        "fr": [
+          "Vous avez obtenu une Mijn VerbouwPremie approuvée pour l'isolation du toit ou du plancher de grenier, des murs extérieurs, du sol ou de la cave, le vitrage à haut rendement ou une pompe à chaleur (boiler).",
+          "Vous êtes dans la catégorie de revenus 3 ou 4 de la Mijn VerbouwPremie.",
+          "Vous êtes propriétaire occupant du logement ou vous le louez à une société de logement (woonmaatschappij) ; les propriétaires occupants qui possèdent entièrement un autre logement, appartement ou terrain à bâtir n'y ont pas droit.",
+          "Le bâtiment est autorisé (vergund)."
+        ],
+        "de": [
+          "Sie haben eine genehmigte Mijn VerbouwPremie für Dach- oder Dachbodendämmung, Außenwand-, Boden- oder Kellerdämmung, Hochleistungsverglasung oder eine Wärmepumpe (Boiler).",
+          "Sie gehören zur Einkommenskategorie 3 oder 4 der Mijn VerbouwPremie.",
+          "Sie bewohnen die Wohnung als Eigentümer oder vermieten sie an eine Wohnungsgesellschaft (woonmaatschappij); Eigentümer, die eine andere Wohnung, ein Apartment oder Bauland vollständig besitzen, haben keinen Anspruch.",
+          "Das Gebäude ist genehmigt (vergund)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 562,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24045"
+    ],
+    "institution": "OCMW Huldenberg",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.huldenberg.be/nl/bestuur-en-beleid/subsidies-premies-en-vergoedingen/mantelzorgpremie",
+    "amount_source_url": "https://huldenberg.be/sites/default/files/2025-12/OCMW-raad_uittreksel_Aanpassing-reglement-mantelzorgpremie.pdf",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Huldenberg)",
+        "desc": "Huldenberg gives a monthly premium to the informal carer of a resident with a heavy care need who lives at home.",
+        "deadline": "You can apply at any time; renew every year, within a month of the end of the previous award, so there is no gap.",
+        "amount": "€25 a month (max €300 a year); €50 a month (max €600 a year) for carers with increased reimbursement (verhoogde tegemoetkoming)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "The cared-for person's certificate 'Zorgbudget voor zwaar zorgbehoevenden'"
+          }
+        ],
+        "steps": [
+          "Send the application form and the care budget certificate to the local service centre, R. Borremansstraat 2, 3040 Huldenberg, or to dienstencentrum@huldenberg.be",
+          "A staff member visits the cared-for person at home, with you present, to go through the care tasks",
+          "The Vast Bureau decides within 30 days; the premium starts the month after your application and is paid every quarter"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Huldenberg)",
+        "desc": "Huldenberg geeft een maandelijkse premie aan de mantelzorger van een zwaar zorgbehoevende inwoner die thuis woont.",
+        "deadline": "Aanvragen kan het hele jaar; verleng elk jaar binnen de maand na het einde van de vorige toekenning, zodat het recht naadloos aansluit.",
+        "amount": "€25 per maand (max. €300 per jaar); €50 per maand (max. €600 per jaar) voor mantelzorgers met een verhoogde tegemoetkoming",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Het attest 'Zorgbudget voor zwaar zorgbehoevenden' van de zorgbehoevende"
+          }
+        ],
+        "steps": [
+          "Bezorg het aanvraagformulier en het attest zorgbudget aan het lokaal dienstencentrum, R. Borremansstraat 2, 3040 Huldenberg, of via dienstencentrum@huldenberg.be",
+          "Een medewerker komt op huisbezoek bij de zorgbehoevende, in jouw aanwezigheid, om de zorgtaken te overlopen",
+          "Het Vast Bureau beslist binnen 30 dagen; de premie start de maand na je aanvraag en wordt per kwartaal uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aidant proche, Huldenberg)",
+        "desc": "Huldenberg verse une prime mensuelle à l'aidant proche d'un habitant fortement dépendant qui vit à domicile.",
+        "deadline": "Demande possible toute l'année ; prolongation chaque année, dans le mois suivant la fin de l'octroi précédent, pour qu'il n'y ait pas d'interruption.",
+        "amount": "25 € par mois (max. 300 € par an) ; 50 € par mois (max. 600 € par an) pour les aidants bénéficiant de l'intervention majorée",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "L'attestation « Zorgbudget voor zwaar zorgbehoevenden » de la personne aidée"
+          }
+        ],
+        "steps": [
+          "Envoyez le formulaire et l'attestation au centre de services local, R. Borremansstraat 2, 3040 Huldenberg, ou à dienstencentrum@huldenberg.be",
+          "Un collaborateur rend visite à la personne aidée, en votre présence, pour passer en revue les tâches de soins",
+          "Le Vast Bureau décide dans les 30 jours ; la prime commence le mois suivant votre demande et est payée chaque trimestre"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Huldenberg)",
+        "desc": "Huldenberg zahlt der pflegenden Person eines stark pflegebedürftigen Einwohners, der zu Hause lebt, eine monatliche Prämie.",
+        "deadline": "Antrag jederzeit möglich; jährlich innerhalb eines Monats nach Ende der vorigen Gewährung verlängern, damit es keine Lücke gibt.",
+        "amount": "25 € pro Monat (max. 300 € pro Jahr); 50 € pro Monat (max. 600 € pro Jahr) für pflegende Personen mit erhöhter Kostenerstattung (verhoogde tegemoetkoming)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die Bescheinigung 'Zorgbudget voor zwaar zorgbehoevenden' der gepflegten Person"
+          }
+        ],
+        "steps": [
+          "Senden Sie das Formular und die Bescheinigung an das lokale Dienstleistungszentrum, R. Borremansstraat 2, 3040 Huldenberg, oder an dienstencentrum@huldenberg.be",
+          "Ein Mitarbeiter besucht die gepflegte Person zu Hause, in Ihrer Anwesenheit, und geht die Pflegeaufgaben durch",
+          "Das Vast Bureau entscheidet innerhalb von 30 Tagen; die Prämie beginnt im Monat nach Ihrem Antrag und wird vierteljährlich gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.huldenberg.be/nl/bestuur-en-beleid/subsidies-premies-en-vergoedingen/mantelzorgpremie",
+        "https://huldenberg.be/sites/default/files/2025-12/OCMW-raad_uittreksel_Aanpassing-reglement-mantelzorgpremie.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The cared-for person lives in Huldenberg, is registered in its population or foreigners register and lives permanently at home (an assistance flat with its own address counts as home); no age or income condition.",
+          "The cared-for person has the certificate 'Zorgbudget voor zwaar zorgbehoevenden'.",
+          "The carer is at least 18, gives regular unpaid care that is not professional or paid with a volunteer allowance, and scores at least 18 points on the list of care tasks.",
+          "One premium per cared-for person and one per carer, even if the carer helps several people."
+        ],
+        "nl": [
+          "De zorgbehoevende verblijft in Huldenberg, is ingeschreven in het bevolkings- of vreemdelingenregister van de gemeente en verblijft permanent in zijn thuismilieu (assistentiewoningen met een eigen adres tellen mee); geen leeftijds- of inkomensvoorwaarde.",
+          "De zorgbehoevende beschikt over het attest 'Zorgbudget voor zwaar zorgbehoevenden'.",
+          "De mantelzorger is minstens 18 jaar, geeft geregeld onbezoldigde, niet-beroepsmatige zorg zonder vrijwilligersvergoeding en haalt minstens 18 punten op het overzicht van de zorgtaken.",
+          "Eén premie per zorgbehoevende en één per mantelzorger, ook als die voor meerdere zorgbehoevenden zorgt."
+        ],
+        "fr": [
+          "La personne aidée réside à Huldenberg, est inscrite au registre de la population ou des étrangers de la commune et vit en permanence à domicile (une résidence-services avec adresse propre compte) ; pas de condition d'âge ni de revenus.",
+          "La personne aidée dispose de l'attestation « Zorgbudget voor zwaar zorgbehoevenden ».",
+          "L'aidant a au moins 18 ans, apporte une aide régulière, non professionnelle et non rémunérée (pas de défraiement de volontaire) et obtient au moins 18 points sur la liste des tâches de soins.",
+          "Une prime par personne aidée et une par aidant, même s'il aide plusieurs personnes."
+        ],
+        "de": [
+          "Die gepflegte Person wohnt in Huldenberg, ist im Bevölkerungs- oder Fremdenregister der Gemeinde eingetragen und lebt dauerhaft zu Hause (eine Servicewohnung mit eigener Adresse zählt); keine Alters- oder Einkommensbedingung.",
+          "Die gepflegte Person hat die Bescheinigung 'Zorgbudget voor zwaar zorgbehoevenden'.",
+          "Die pflegende Person ist mindestens 18 Jahre alt, leistet regelmäßig unbezahlte, nicht berufliche Hilfe ohne Freiwilligenentschädigung und erreicht mindestens 18 Punkte auf der Liste der Pflegeaufgaben.",
+          "Eine Prämie pro gepflegter Person und eine pro pflegender Person, auch wenn sie mehrere Personen betreut."
+        ]
+      }
+    }
+  },
+  {
+    "id": 563,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24045"
+    ],
+    "institution": "Gemeente Huldenberg",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.huldenberg.be/nl/bestuur-en-beleid/subsidies-premies-en-vergoedingen/toekenning-geboortepremie-premie-huwelijken-toelage-nt2-cursisten-attenties-jubilarissen-nieuwe",
+    "amount_source_url": "https://www.huldenberg.be/sites/default/files/2026-08/31-03-2026-2126_GR_uittreksel_Toekenning-geboortepremie-premie-herbruikbare.pdf",
+    "content": {
+      "en": {
+        "title": "Premie herbruikbare luiers (Washable Nappies Premium, Huldenberg)",
+        "desc": "Huldenberg gives €100 in local shop vouchers to families who use washable nappies for a child born from 1 January 2026.",
+        "deadline": "Apply within 12 months of the birth.",
+        "amount": "€100 in vouchers for local shops (waardebonnen lokale handelaars), once per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application (on paper, by e-mail or with the online form)"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the purchase invoice(s) in your name listing the goods, price and date"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment"
+          }
+        ],
+        "steps": [
+          "Buy the washable nappies and keep the invoice and proof of payment",
+          "Apply at the Huldenberg municipal administration within 12 months of the birth, on paper, by e-mail or with the online form"
+        ]
+      },
+      "nl": {
+        "title": "Premie herbruikbare luiers (Huldenberg)",
+        "desc": "Huldenberg geeft €100 aan waardebonnen lokale handelaars aan gezinnen die herbruikbare luiers gebruiken voor een kind geboren vanaf 1 januari 2026.",
+        "deadline": "Aanvragen binnen 12 maanden na de geboorte.",
+        "amount": "€100 aan waardebonnen lokale handelaars, eenmaal per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De aanvraag (op papier, per mail of via het invulformulier op de website)"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de aankoopfactu(u)r(en) op naam met de aangekochte goederen, factuurprijs en factuurdatum"
+          },
+          {
+            "type": "doc",
+            "label": "Het bewijs van betaling"
+          }
+        ],
+        "steps": [
+          "Koop de herbruikbare luiers en bewaar factuur en betaalbewijs",
+          "Vraag de premie binnen 12 maanden na de geboorte aan bij het gemeentebestuur van Huldenberg, op papier, per mail of via het invulformulier"
+        ]
+      },
+      "fr": {
+        "title": "Premie herbruikbare luiers (prime pour langes lavables, Huldenberg)",
+        "desc": "Huldenberg offre 100 € en bons d'achat dans les commerces locaux aux familles qui utilisent des langes lavables pour un enfant né à partir du 1er janvier 2026.",
+        "deadline": "Demande dans les 12 mois suivant la naissance.",
+        "amount": "100 € en bons d'achat des commerces locaux, une fois par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La demande (papier, courriel ou formulaire en ligne)"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la ou des factures d'achat à votre nom, avec les articles, le prix et la date"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de paiement"
+          }
+        ],
+        "steps": [
+          "Achetez les langes lavables et gardez la facture et la preuve de paiement",
+          "Introduisez la demande auprès de l'administration communale de Huldenberg dans les 12 mois suivant la naissance, sur papier, par courriel ou via le formulaire en ligne"
+        ]
+      },
+      "de": {
+        "title": "Premie herbruikbare luiers (Prämie für Stoffwindeln, Huldenberg)",
+        "desc": "Huldenberg gibt Familien, die für ein ab dem 1. Januar 2026 geborenes Kind Stoffwindeln verwenden, 100 € in Gutscheinen für lokale Geschäfte.",
+        "deadline": "Antrag innerhalb von 12 Monaten nach der Geburt.",
+        "amount": "100 € in Gutscheinen für lokale Geschäfte, einmal pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Der Antrag (auf Papier, per E-Mail oder über das Online-Formular)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Kaufrechnung(en) auf Ihren Namen mit Waren, Preis und Datum"
+          },
+          {
+            "type": "doc",
+            "label": "Der Zahlungsnachweis"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie die Stoffwindeln und bewahren Sie Rechnung und Zahlungsnachweis auf",
+          "Beantragen Sie die Prämie innerhalb von 12 Monaten nach der Geburt bei der Gemeindeverwaltung Huldenberg, auf Papier, per E-Mail oder über das Online-Formular"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.huldenberg.be/nl/bestuur-en-beleid/subsidies-premies-en-vergoedingen/toekenning-geboortepremie-premie-huwelijken-toelage-nt2-cursisten-attenties-jubilarissen-nieuwe",
+        "https://www.huldenberg.be/sites/default/files/2026-08/31-03-2026-2126_GR_uittreksel_Toekenning-geboortepremie-premie-herbruikbare.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Families and single people registered in the population or foreigners register of Huldenberg with a dependent child born from 1 January 2026 who uses washable nappies.",
+          "Once per child, applied for within 12 months of the birth.",
+          "The invoices are in the applicant's name and paid."
+        ],
+        "nl": [
+          "Gezinnen en alleenstaanden ingeschreven in het bevolkingsregister of vreemdelingenregister van Huldenberg met een kind ten laste geboren vanaf 1 januari 2026 waarvoor herbruikbare luiers gebruikt worden.",
+          "Eenmaal per kind, aan te vragen binnen 12 maanden na de geboorte.",
+          "De facturen staan op naam van de aanvrager en zijn betaald."
+        ],
+        "fr": [
+          "Familles et personnes isolées inscrites au registre de la population ou des étrangers de Huldenberg, avec un enfant à charge né à partir du 1er janvier 2026 pour lequel des langes lavables sont utilisés.",
+          "Une fois par enfant, demande dans les 12 mois suivant la naissance.",
+          "Les factures sont au nom du demandeur et payées."
+        ],
+        "de": [
+          "Familien und Alleinstehende im Bevölkerungs- oder Fremdenregister von Huldenberg mit einem unterhaltsberechtigten, ab dem 1. Januar 2026 geborenen Kind, für das Stoffwindeln verwendet werden.",
+          "Einmal pro Kind, Antrag innerhalb von 12 Monaten nach der Geburt.",
+          "Die Rechnungen lauten auf den Antragsteller und sind bezahlt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 564,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13016"
+    ],
+    "institution": "Gemeente Hulshout",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hulshout.be/nl/leven/geboorte/gemeentelijke-geboorte-en-adoptiepremie",
+    "amount_source_url": "https://hulshout.meetingburger.net/bekendmakingen/toelage-en-subsidiereglementen/9fc507da-057f-4c03-8ef8-84166358cf26",
+    "content": {
+      "en": {
+        "title": "Gemeentelijke geboorte- en adoptiepremie (Birth and Adoption Premium, Hulshout)",
+        "desc": "Hulshout gives a gift voucher for each child born or adopted (under 18) in a family living in the municipality. You have to ask for it in writing.",
+        "deadline": "Apply before 1 March of the year after the birth or adoption.",
+        "amount": "€100 Hulshout gift voucher (cadeaubon) for births and adoptions in 2026-2027 (€105 in 2028-2029, €110 in 2030-2031)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A written application by a legal or adoptive parent domiciled in Hulshout"
+          },
+          {
+            "type": "doc",
+            "label": "For a stillborn child: a medical certificate"
+          }
+        ],
+        "steps": [
+          "Make an appointment with the Burgerzaken (civil affairs) service of Hulshout and hand in your written application",
+          "You receive the Hulshout gift voucher"
+        ]
+      },
+      "nl": {
+        "title": "Gemeentelijke geboorte- en adoptiepremie (Hulshout)",
+        "desc": "Hulshout geeft een cadeaubon voor elk kind dat geboren of geadopteerd (jonger dan 18) wordt in een gezin dat in de gemeente woont. Je moet de premie schriftelijk aanvragen.",
+        "deadline": "Aanvragen vóór 1 maart van het jaar na de geboorte of adoptie.",
+        "amount": "Hulshoutse cadeaubon van €100 voor geboortes en adopties in 2026-2027 (€105 in 2028-2029, €110 in 2030-2031)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een schriftelijke aanvraag door een wettelijke of adopterende ouder die in Hulshout gedomicilieerd is"
+          },
+          {
+            "type": "doc",
+            "label": "Bij een levenloos geboren kind: een medisch attest"
+          }
+        ],
+        "steps": [
+          "Maak een afspraak met de dienst Burgerzaken van Hulshout en dien je schriftelijke aanvraag in",
+          "Je ontvangt de Hulshoutse cadeaubon"
+        ]
+      },
+      "fr": {
+        "title": "Gemeentelijke geboorte- en adoptiepremie (prime de naissance et d'adoption, Hulshout)",
+        "desc": "Hulshout offre un bon cadeau pour chaque enfant né ou adopté (moins de 18 ans) dans une famille domiciliée dans la commune. La prime doit être demandée par écrit.",
+        "deadline": "Demande avant le 1er mars de l'année suivant la naissance ou l'adoption.",
+        "amount": "Bon cadeau de Hulshout de 100 € pour les naissances et adoptions en 2026-2027 (105 € en 2028-2029, 110 € en 2030-2031)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une demande écrite par un parent légal ou adoptif domicilié à Hulshout"
+          },
+          {
+            "type": "doc",
+            "label": "Pour un enfant né sans vie : un certificat médical"
+          }
+        ],
+        "steps": [
+          "Prenez rendez-vous avec le service Burgerzaken (population) de Hulshout et remettez votre demande écrite",
+          "Vous recevez le bon cadeau de Hulshout"
+        ]
+      },
+      "de": {
+        "title": "Gemeentelijke geboorte- en adoptiepremie (Geburts- und Adoptionsprämie, Hulshout)",
+        "desc": "Hulshout schenkt für jedes Kind, das in einer in der Gemeinde wohnenden Familie geboren oder (unter 18 Jahren) adoptiert wird, einen Geschenkgutschein. Die Prämie muss schriftlich beantragt werden.",
+        "deadline": "Antrag vor dem 1. März des Jahres nach der Geburt oder Adoption.",
+        "amount": "Hulshouter Geschenkgutschein über 100 € für Geburten und Adoptionen 2026-2027 (105 € in 2028-2029, 110 € in 2030-2031)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ein schriftlicher Antrag eines gesetzlichen oder adoptierenden Elternteils mit Wohnsitz in Hulshout"
+          },
+          {
+            "type": "doc",
+            "label": "Bei einem tot geborenen Kind: ein ärztliches Attest"
+          }
+        ],
+        "steps": [
+          "Vereinbaren Sie einen Termin beim Dienst Burgerzaken (Bürgerangelegenheiten) von Hulshout und reichen Sie Ihren schriftlichen Antrag ein",
+          "Sie erhalten den Hulshouter Geschenkgutschein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.hulshout.be/nl/leven/geboorte/gemeentelijke-geboorte-en-adoptiepremie",
+        "https://hulshout.meetingburger.net/bekendmakingen/toelage-en-subsidiereglementen/9fc507da-057f-4c03-8ef8-84166358cf26"
+      ],
+      "conditions": {
+        "en": [
+          "Birth: the child is domiciled in Hulshout at birth and at least one legal parent is domiciled in Hulshout (or the legal guardian if there is no parent).",
+          "A child stillborn after at least 180 days of pregnancy whose mother is domiciled in Hulshout also counts, with a medical certificate.",
+          "Adoption: a child under 18; both the child and at least one adoptive parent are domiciled in Hulshout.",
+          "A parent domiciled in Hulshout applies in writing before 1 March of the following year."
+        ],
+        "nl": [
+          "Geboorte: het kind wordt bij de geboorte in Hulshout gedomicilieerd en minstens één van de wettelijke ouders is in Hulshout gedomicilieerd (bij ontstentenis de wettelijke voogd).",
+          "Een kind dat levenloos ter wereld komt na een zwangerschap van ten minste 180 dagen, met de moeder gedomicilieerd in Hulshout, geeft ook recht, na voorlegging van een medisch attest.",
+          "Adoptie: een kind jonger dan 18 jaar; zowel het kind als minstens één van de adopterende ouders zijn in Hulshout gedomicilieerd.",
+          "Een in Hulshout gedomicilieerde ouder vraagt schriftelijk aan vóór 1 maart van het volgende jaar."
+        ],
+        "fr": [
+          "Naissance : l'enfant est domicilié à Hulshout à la naissance et au moins un parent légal est domicilié à Hulshout (à défaut, le tuteur légal).",
+          "Un enfant né sans vie après au moins 180 jours de grossesse, dont la mère est domiciliée à Hulshout, ouvre aussi le droit, sur certificat médical.",
+          "Adoption : un enfant de moins de 18 ans ; l'enfant et au moins un parent adoptif sont domiciliés à Hulshout.",
+          "Un parent domicilié à Hulshout introduit une demande écrite avant le 1er mars de l'année suivante."
+        ],
+        "de": [
+          "Geburt: Das Kind hat bei der Geburt seinen Wohnsitz in Hulshout und mindestens ein gesetzlicher Elternteil wohnt in Hulshout (sonst der gesetzliche Vormund).",
+          "Ein nach mindestens 180 Tagen Schwangerschaft tot geborenes Kind, dessen Mutter in Hulshout wohnt, gibt ebenfalls Anspruch, mit ärztlichem Attest.",
+          "Adoption: ein Kind unter 18 Jahren; das Kind und mindestens ein adoptierender Elternteil haben ihren Wohnsitz in Hulshout.",
+          "Ein in Hulshout wohnender Elternteil beantragt schriftlich vor dem 1. März des Folgejahres."
+        ]
+      }
+    }
+  },
+  {
+    "id": 565,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35006"
+    ],
+    "institution": "Gemeente Ichtegem",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ichtegem.be/premie-herbruikbare-luiers",
+    "content": {
+      "en": {
+        "title": "Premie herbruikbare luiers (Washable Nappies Premium, Ichtegem)",
+        "desc": "Ichtegem pays back half of what you spend on buying or renting a set of washable nappies with accessories, once per child.",
+        "deadline": "For children up to three years old; you can also apply before the birth with a certificate from your GP.",
+        "amount": "Half the invoice price, up to €150 per applicant and per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form (digital counter)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof(s) of purchase or rental in your name showing the invoice price"
+          },
+          {
+            "type": "doc",
+            "label": "If you apply before the birth: a certificate from your GP"
+          }
+        ],
+        "steps": [
+          "Fill in the application form at the digital counter on ichtegem.be and attach your proof of purchase or rental",
+          "Applications are handled every quarter; after approval, payment can take up to two months"
+        ]
+      },
+      "nl": {
+        "title": "Premie herbruikbare luiers (Ichtegem)",
+        "desc": "Ichtegem betaalt de helft terug van wat je uitgeeft aan de aankoop of huur van een pakket herbruikbare luiers met benodigdheden, eenmalig per kind.",
+        "deadline": "Voor kinderen tot drie jaar; aanvragen kan ook vóór de geboorte met een attest van de huisarts.",
+        "amount": "De helft van de factuurprijs, maximaal €150 per aanvrager en per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier (digitaal loket)"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoop- of huurbewijs(zen) op naam met vermelding van de factuurprijs"
+          },
+          {
+            "type": "doc",
+            "label": "Bij een aanvraag vóór de geboorte: een attest van de huisarts"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in via het digitaal loket op ichtegem.be en voeg je aankoop- of huurbewijs toe",
+          "Aanvragen worden per kwartaal behandeld; na goedkeuring kan de uitbetaling tot twee maanden duren"
+        ]
+      },
+      "fr": {
+        "title": "Premie herbruikbare luiers (prime pour langes lavables, Ichtegem)",
+        "desc": "Ichtegem rembourse la moitié de l'achat ou de la location d'un ensemble de langes lavables avec accessoires, une fois par enfant.",
+        "deadline": "Pour les enfants jusqu'à trois ans ; la demande peut aussi se faire avant la naissance avec une attestation du médecin généraliste.",
+        "amount": "La moitié du prix facturé, maximum 150 € par demandeur et par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande (guichet numérique)"
+          },
+          {
+            "type": "doc",
+            "label": "La ou les preuves d'achat ou de location à votre nom avec le prix facturé"
+          },
+          {
+            "type": "doc",
+            "label": "Pour une demande avant la naissance : une attestation du médecin généraliste"
+          }
+        ],
+        "steps": [
+          "Remplissez le formulaire au guichet numérique sur ichtegem.be et joignez votre preuve d'achat ou de location",
+          "Les demandes sont traitées chaque trimestre ; après approbation, le paiement peut prendre jusqu'à deux mois"
+        ]
+      },
+      "de": {
+        "title": "Premie herbruikbare luiers (Prämie für Stoffwindeln, Ichtegem)",
+        "desc": "Ichtegem erstattet die Hälfte der Kosten für Kauf oder Miete eines Stoffwindelpakets mit Zubehör, einmal pro Kind.",
+        "deadline": "Für Kinder bis drei Jahre; der Antrag ist mit einem Attest des Hausarztes auch vor der Geburt möglich.",
+        "amount": "Die Hälfte des Rechnungspreises, höchstens 150 € pro Antragsteller und Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular (digitaler Schalter)"
+          },
+          {
+            "type": "doc",
+            "label": "Kauf- oder Mietnachweis(e) auf Ihren Namen mit dem Rechnungspreis"
+          },
+          {
+            "type": "doc",
+            "label": "Bei Antrag vor der Geburt: ein Attest des Hausarztes"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Formular am digitalen Schalter auf ichtegem.be aus und fügen Sie Ihren Kauf- oder Mietnachweis bei",
+          "Anträge werden vierteljährlich bearbeitet; nach der Genehmigung kann die Auszahlung bis zu zwei Monate dauern"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.ichtegem.be/premie-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "Residents (inwoners) of Ichtegem with children up to three years old.",
+          "The premium can be requested once, with proof(s) of purchase or rental in the applicant's name.",
+          "Before the birth, only with a certificate from the GP."
+        ],
+        "nl": [
+          "Inwoners met kinderen tot drie jaar komen in aanmerking.",
+          "De premie kan éénmalig aangevraagd worden, met aankoop- of huurbewijs(zen) op naam.",
+          "Vóór de geboorte enkel mits attest van de huisarts."
+        ],
+        "fr": [
+          "Habitants d'Ichtegem ayant des enfants jusqu'à trois ans.",
+          "La prime peut être demandée une seule fois, avec la ou les preuves d'achat ou de location au nom du demandeur.",
+          "Avant la naissance, uniquement avec une attestation du médecin généraliste."
+        ],
+        "de": [
+          "Einwohner von Ichtegem mit Kindern bis drei Jahre.",
+          "Die Prämie kann einmal beantragt werden, mit Kauf- oder Mietnachweis(en) auf den Namen des Antragstellers.",
+          "Vor der Geburt nur mit einem Attest des Hausarztes."
+        ]
+      }
+    }
+  },
+  {
+    "id": 566,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "35006"
+    ],
+    "institution": "OCMW Ichtegem",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ichtegem.be/thuiszorgpremie",
+    "content": {
+      "en": {
+        "title": "Thuiszorgpremie (Home Carer Premium, Ichtegem)",
+        "desc": "The Sociaal Huis of Ichtegem pays a monthly premium to the person who cares for, or helps with the daily household tasks of, a resident with a heavy care need on a low income.",
+        "deadline": "No deadline on the page; the right starts the month after your application. Confirm it every year with the declaration the Sociaal Huis sends in January.",
+        "amount": "€25 a month, paid every three months to the carer",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof that the cared-for person is recognised as heavily care-dependent by the care insurance (zorgbudget voor zwaar zorgbehoevenden)"
+          },
+          {
+            "type": "card",
+            "label": "A valid health fund sticker showing the cared-for person's right to increased reimbursement"
+          },
+          {
+            "type": "doc",
+            "label": "The carer's declaration on honour"
+          }
+        ],
+        "steps": [
+          "Hand in the application form with the documents at the Sociale dienst, Dorpshuis, Dokter Bruwierplein 1, 8480 Ichtegem (059 33 85 00), preferably by appointment",
+          "The premium is paid to the carer every three months, in the month after each quarter",
+          "Each January, return the declaration on honour with the new sticker and care-insurance proof to keep the premium"
+        ]
+      },
+      "nl": {
+        "title": "Thuiszorgpremie (Ichtegem)",
+        "desc": "Het Sociaal Huis van Ichtegem geeft een maandelijkse premie aan wie een zwaar zorgbehoevende inwoner met een laag inkomen verzorgt of helpt bij de dagelijkse (huishoudelijke) taken.",
+        "deadline": "Geen termijn op de pagina; het recht gaat in de maand na de aanvraag. Bevestig het elk jaar met de verklaring op eer die het Sociaal Huis in januari opstuurt.",
+        "amount": "€25 per maand, driemaandelijks uitbetaald aan de zorgverstrekker",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van erkenning als zwaar zorgbehoevende door de zorgverzekering (zorgbudget voor zwaar zorgbehoevenden)"
+          },
+          {
+            "type": "card",
+            "label": "Een geldige klever van het ziekenfonds waaruit het recht op de verhoogde tegemoetkoming van de zorgbehoevende blijkt"
+          },
+          {
+            "type": "doc",
+            "label": "De verklaring op eer van de zorgverstrekker"
+          }
+        ],
+        "steps": [
+          "Bezorg het aanvraagformulier met de documenten aan de Sociale dienst, Dorpshuis, Dokter Bruwierplein 1, 8480 Ichtegem (059 33 85 00), bij voorkeur op afspraak",
+          "De premie wordt driemaandelijks aan de zorgverstrekker betaald, in de maand na elk kwartaal",
+          "Bezorg elk jaar in januari de verklaring op eer met een nieuwe klever en het bewijs van de zorgverzekering terug om de premie te behouden"
+        ]
+      },
+      "fr": {
+        "title": "Thuiszorgpremie (prime soins à domicile, Ichtegem)",
+        "desc": "Le Sociaal Huis d'Ichtegem verse une prime mensuelle à la personne qui soigne un habitant fortement dépendant à faibles revenus, ou l'aide dans ses tâches (ménagères) quotidiennes.",
+        "deadline": "Pas de délai sur la page ; le droit commence le mois suivant la demande. Confirmez-le chaque année avec la déclaration sur l'honneur envoyée par le Sociaal Huis en janvier.",
+        "amount": "25 € par mois, versés tous les trois mois à l'aidant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de la reconnaissance comme personne fortement dépendante par l'assurance soins (zorgbudget voor zwaar zorgbehoevenden)"
+          },
+          {
+            "type": "card",
+            "label": "Une vignette valable de la mutualité montrant le droit de la personne aidée à l'intervention majorée"
+          },
+          {
+            "type": "doc",
+            "label": "La déclaration sur l'honneur de l'aidant"
+          }
+        ],
+        "steps": [
+          "Remettez le formulaire et les documents au service social, Dorpshuis, Dokter Bruwierplein 1, 8480 Ichtegem (059 33 85 00), de préférence sur rendez-vous",
+          "La prime est versée à l'aidant tous les trois mois, le mois suivant chaque trimestre",
+          "Chaque année en janvier, renvoyez la déclaration sur l'honneur avec une nouvelle vignette et la preuve de l'assurance soins pour garder la prime"
+        ]
+      },
+      "de": {
+        "title": "Thuiszorgpremie (Prämie für häusliche Pflege, Ichtegem)",
+        "desc": "Das Sociaal Huis von Ichtegem zahlt der Person, die einen stark pflegebedürftigen Einwohner mit geringem Einkommen pflegt oder ihm bei den täglichen (Haushalts-)Aufgaben hilft, eine monatliche Prämie.",
+        "deadline": "Keine Frist auf der Seite; der Anspruch beginnt im Monat nach dem Antrag. Bestätigen Sie ihn jedes Jahr mit der Erklärung, die das Sociaal Huis im Januar schickt.",
+        "amount": "25 € pro Monat, alle drei Monate an die pflegende Person gezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis der Anerkennung als stark pflegebedürftig durch die Pflegeversicherung (zorgbudget voor zwaar zorgbehoevenden)"
+          },
+          {
+            "type": "card",
+            "label": "Eine gültige Vignette der Krankenkasse, die den Anspruch der gepflegten Person auf erhöhte Kostenerstattung zeigt"
+          },
+          {
+            "type": "doc",
+            "label": "Die ehrenwörtliche Erklärung der pflegenden Person"
+          }
+        ],
+        "steps": [
+          "Reichen Sie das Formular mit den Unterlagen beim Sozialdienst, Dorpshuis, Dokter Bruwierplein 1, 8480 Ichtegem (059 33 85 00) ein, am besten mit Termin",
+          "Die Prämie wird alle drei Monate an die pflegende Person gezahlt, im Monat nach jedem Quartal",
+          "Senden Sie jedes Jahr im Januar die ehrenwörtliche Erklärung mit neuer Vignette und dem Nachweis der Pflegeversicherung zurück, um die Prämie zu behalten"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.ichtegem.be/thuiszorgpremie",
+        "https://www.ichtegem.be/file/download/a5c5cd15-4486-4961-a663-dffa8c099e74/0XUSJIUohkC2vwgAZ30rPfnfAuvXbW3TMpsyLl7xs9o3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The cared-for person is at least 25 on the date of application and is domiciled and lives in Ichtegem, not in a hotel, rest home, care home, service flat, assistance home or other communal living.",
+          "The cared-for person is recognised as heavily care-dependent by the care insurance and has the right to increased reimbursement (verhoogde tegemoetkoming); the carer's income is not considered.",
+          "The carer is an adult, lives within 25 km of the cared-for person, declares on honour that they give daily or regular home support, and is not a professional already helping the cared-for person.",
+          "It cannot be combined with the sociaal pedagogische toelage."
+        ],
+        "nl": [
+          "De zorgbehoevende is op de datum van aanvraag minstens 25 jaar, gedomicilieerd én verblijvend in Ichtegem, en woont niet in een hotel, rusthuis, woon- en zorgcentrum, serviceflat, assistentiewoning of andere vorm van gemeenschapsleven.",
+          "De zorgbehoevende is door de zorgverzekering erkend als zwaar zorgbehoevende en heeft recht op de verhoogde tegemoetkoming; met het inkomen van de zorgverstrekker wordt geen rekening gehouden.",
+          "De zorgverstrekker is meerderjarig, woont binnen een straal van 25 km van de zorgbehoevende, verklaart op eer dagelijks of regelmatig thuisondersteuning te bieden en is geen professionele hulpverlener die al hulp biedt.",
+          "De premie is niet cumuleerbaar met de sociaal pedagogische toelage."
+        ],
+        "fr": [
+          "La personne aidée a au moins 25 ans à la date de la demande, est domiciliée et réside à Ichtegem, et ne vit pas dans un hôtel, une maison de repos, un centre de soins, une résidence-services, un logement assisté ou une autre forme de vie communautaire.",
+          "La personne aidée est reconnue fortement dépendante par l'assurance soins et a droit à l'intervention majorée ; les revenus de l'aidant ne comptent pas.",
+          "L'aidant est majeur, habite à moins de 25 km de la personne aidée, déclare sur l'honneur apporter un soutien quotidien ou régulier à domicile et n'est pas un professionnel qui aide déjà la personne.",
+          "La prime n'est pas cumulable avec la sociaal pedagogische toelage."
+        ],
+        "de": [
+          "Die gepflegte Person ist am Antragsdatum mindestens 25 Jahre alt, hat ihren Wohnsitz in Ichtegem und lebt dort, nicht in einem Hotel, Altenheim, Wohn- und Pflegezentrum, Serviceflat, betreuten Wohnen oder einer anderen Gemeinschaftswohnform.",
+          "Die gepflegte Person ist von der Pflegeversicherung als stark pflegebedürftig anerkannt und hat Anspruch auf erhöhte Kostenerstattung; das Einkommen der pflegenden Person zählt nicht.",
+          "Die pflegende Person ist volljährig, wohnt im Umkreis von 25 km, erklärt ehrenwörtlich, täglich oder regelmäßig häusliche Unterstützung zu leisten, und ist keine Fachkraft, die bereits hilft.",
+          "Die Prämie ist nicht mit der sociaal pedagogische toelage kombinierbar."
+        ]
+      }
+    }
+  },
+  {
+    "id": 567,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "36007"
+    ],
+    "institution": "OCMW Ingelmunster",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ingelmunster.be/waarderingspremie",
+    "amount_source_url": "https://www.ingelmunster.be/fileadmin/MEDIA/docs/sociaalhuis/Aanvraagformulier__waarderingspremie.pdf",
+    "content": {
+      "en": {
+        "title": "Waarderingspremie (Carer Appreciation Premium, Ingelmunster)",
+        "desc": "Ingelmunster gives a yearly premium to the informal carer of a resident with a care need or disability who lives at home.",
+        "deadline": "Apply at the latest on 31 January of the year after the year of care (for 2026: 31 January 2027).",
+        "amount": "€12.50 for each month of care in the year; if the care is shared, multiplied by your share of the care",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed and signed application form, with your declaration on honour about the care tasks"
+          },
+          {
+            "type": "doc",
+            "label": "One proof of the care need: a disability certificate of at least 12 points on reduced self-reliance, proof of the zorgbudget voor zwaar zorgbehoevenden, or a Groeipakket certificate (at least 80% social supplement, 6 points on pillar 1 or 15 points in total); otherwise the treating doctor co-signs the form"
+          }
+        ],
+        "steps": [
+          "For a first application, come to the Sociaal Huis, Oostrozebekestraat 6, 8770 Ingelmunster, on one of the announced days (7 or 17 December 2026, 11 or 21 January 2027)",
+          "If you received the premium last year, the documents are sent to your home and you apply yourself",
+          "Hand in the form by 31 January; the OCMW calculates the premium"
+        ]
+      },
+      "nl": {
+        "title": "Waarderingspremie (Ingelmunster)",
+        "desc": "Ingelmunster geeft een jaarlijkse premie aan de mantelzorger van een zorgbehoevende inwoner of persoon met een beperking die thuis woont.",
+        "deadline": "Aanvragen ten laatste op 31 januari van het jaar na het jaar waarin de zorg gegeven werd (voor 2026: 31 januari 2027).",
+        "amount": "€12,50 per maand zorg in het jaar; wordt de zorg gedeeld, dan vermenigvuldigd met jouw aandeel in de mantelzorg",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde en ondertekende aanvraagformulier, met je verklaring op eer over de zorgtaken"
+          },
+          {
+            "type": "doc",
+            "label": "Eén bewijs van de zorgnood: een attest van een handicap van minstens 12 punten op vermindering van zelfredzaamheid, een bewijs van het zorgbudget voor zwaar zorgbehoevenden, of een attest van het Groeipakket (minstens 80% sociale toeslag, 6 punten op pijler 1 of 15 punten in totaal); anders ondertekent de behandelende arts het formulier mee"
+          }
+        ],
+        "steps": [
+          "Kom voor een eerste aanvraag naar het Sociaal Huis, Oostrozebekestraat 6, 8770 Ingelmunster, op een van de aangekondigde dagen (7 of 17 december 2026, 11 of 21 januari 2027)",
+          "Kreeg je vorig jaar al een waarderingspremie, dan ontvang je de documenten thuis en dien je zelf de aanvraag in",
+          "Bezorg het formulier uiterlijk op 31 januari; het OCMW berekent de premie"
+        ]
+      },
+      "fr": {
+        "title": "Waarderingspremie (prime d'appréciation pour aidant proche, Ingelmunster)",
+        "desc": "Ingelmunster verse une prime annuelle à l'aidant proche d'un habitant dépendant ou handicapé qui vit à domicile.",
+        "deadline": "Demande au plus tard le 31 janvier de l'année suivant l'année des soins (pour 2026 : 31 janvier 2027).",
+        "amount": "Une part de 12,50 € par mois de soins dans l'année ; si les soins sont partagés, multipliée par votre part",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété et signé, avec votre déclaration sur l'honneur sur les tâches de soins"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve du besoin de soins : attestation de handicap d'au moins 12 points de perte d'autonomie, preuve du zorgbudget voor zwaar zorgbehoevenden, ou attestation du Groeipakket (au moins 80 % de supplément social, 6 points au pilier 1 ou 15 points au total) ; à défaut, le médecin traitant cosigne le formulaire"
+          }
+        ],
+        "steps": [
+          "Pour une première demande, venez au Sociaal Huis, Oostrozebekestraat 6, 8770 Ingelmunster, à l'une des dates annoncées (7 ou 17 décembre 2026, 11 ou 21 janvier 2027)",
+          "Si vous avez déjà reçu la prime l'an dernier, les documents vous sont envoyés et vous introduisez la demande vous-même",
+          "Remettez le formulaire au plus tard le 31 janvier ; le CPAS calcule la prime"
+        ]
+      },
+      "de": {
+        "title": "Waarderingspremie (Anerkennungsprämie für pflegende Angehörige, Ingelmunster)",
+        "desc": "Ingelmunster zahlt der pflegenden Person eines pflegebedürftigen oder behinderten Einwohners, der zu Hause lebt, eine jährliche Prämie.",
+        "deadline": "Antrag spätestens am 31. Januar des Jahres nach dem Pflegejahr (für 2026: 31. Januar 2027).",
+        "amount": "12,50 € pro Monat Pflege im Jahr; wird die Pflege geteilt, multipliziert mit Ihrem Anteil",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte und unterschriebene Antragsformular mit Ihrer ehrenwörtlichen Erklärung zu den Pflegeaufgaben"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Nachweis des Pflegebedarfs: Behindertenbescheinigung mit mindestens 12 Punkten verminderter Selbstständigkeit, Nachweis des zorgbudget voor zwaar zorgbehoevenden oder eine Groeipakket-Bescheinigung (mindestens 80 % Sozialzuschlag, 6 Punkte in Säule 1 oder 15 Punkte insgesamt); sonst unterschreibt der behandelnde Arzt das Formular mit"
+          }
+        ],
+        "steps": [
+          "Kommen Sie für einen ersten Antrag an einem der angekündigten Tage (7. oder 17. Dezember 2026, 11. oder 21. Januar 2027) ins Sociaal Huis, Oostrozebekestraat 6, 8770 Ingelmunster",
+          "Haben Sie die Prämie im Vorjahr erhalten, werden Ihnen die Unterlagen zugeschickt und Sie stellen den Antrag selbst",
+          "Reichen Sie das Formular bis zum 31. Januar ein; das ÖSHZ berechnet die Prämie"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.ingelmunster.be/waarderingspremie",
+        "https://www.ingelmunster.be/fileadmin/MEDIA/docs/sociaalhuis/Aanvraagformulier__waarderingspremie.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The carer and the cared-for person are both domiciled in Ingelmunster in the year concerned; the cared-for person does not live permanently in a residential care facility.",
+          "The carer declares on honour to do at least seven of ten care tasks (hot meals, housework, shopping, laundry, ironing, personal care, paperwork, supervision, transport, social contact) and is not themselves the cared-for person.",
+          "The cared-for person has a disability certificate (12 points), the zorgbudget voor zwaar zorgbehoevenden or a Groeipakket certificate, or the treating doctor confirms the care tasks are needed.",
+          "If the carer lives with the cared-for person (as partner or in the same home), one of those three certificates is required."
+        ],
+        "nl": [
+          "De mantelzorger en de zorgbehoevende zijn in het betrokken jaar gedomicilieerd in Ingelmunster; de zorgbehoevende verblijft niet permanent in een residentiële zorginstelling.",
+          "De mantelzorger verklaart op eer minstens zeven van de tien zorgtaken te vervullen (warme maaltijden, woning onderhouden, boodschappen, was, strijken, klein toilet, administratie, toezicht, vervoer, sociaal contact) en is niet tegelijk zorgbehoevende.",
+          "De zorgbehoevende heeft een attest van een handicap (12 punten), het zorgbudget voor zwaar zorgbehoevenden of een attest van het Groeipakket, of de behandelende arts bevestigt dat de zorgtaken nodig zijn.",
+          "Woont de mantelzorger samen (partner) of in bij de zorgbehoevende, dan is een van die drie attesten verplicht."
+        ],
+        "fr": [
+          "L'aidant et la personne aidée sont domiciliés à Ingelmunster pendant l'année concernée ; la personne aidée ne séjourne pas en permanence dans une institution de soins résidentielle.",
+          "L'aidant déclare sur l'honneur assurer au moins sept des dix tâches de soins (repas chauds, entretien, courses, lessive, repassage, petite toilette, administration, surveillance, transport, contact social) et n'est pas lui-même la personne aidée.",
+          "La personne aidée a une attestation de handicap (12 points), le zorgbudget voor zwaar zorgbehoevenden ou une attestation du Groeipakket, ou le médecin traitant confirme que les tâches de soins sont nécessaires.",
+          "Si l'aidant cohabite (partenaire) ou habite chez la personne aidée, l'une de ces trois attestations est obligatoire."
+        ],
+        "de": [
+          "Die pflegende und die gepflegte Person haben im betreffenden Jahr ihren Wohnsitz in Ingelmunster; die gepflegte Person lebt nicht dauerhaft in einer stationären Pflegeeinrichtung.",
+          "Die pflegende Person erklärt ehrenwörtlich, mindestens sieben von zehn Pflegeaufgaben zu übernehmen (warme Mahlzeiten, Haushalt, Einkäufe, Wäsche, Bügeln, kleine Körperpflege, Verwaltung, Aufsicht, Transport, soziale Kontakte), und ist nicht selbst pflegebedürftig.",
+          "Die gepflegte Person hat eine Behindertenbescheinigung (12 Punkte), das zorgbudget voor zwaar zorgbehoevenden oder eine Groeipakket-Bescheinigung, oder der behandelnde Arzt bestätigt, dass die Pflegeaufgaben nötig sind.",
+          "Wohnt die pflegende Person mit der gepflegten Person zusammen (Partner oder im selben Haushalt), ist eine dieser drei Bescheinigungen Pflicht."
+        ]
+      }
+    }
+  },
+  {
+    "id": 568,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "36007"
+    ],
+    "institution": "OCMW Ingelmunster",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ingelmunster.be/tegemoetkoming-afvalkost",
+    "amount_source_url": "https://doc.ingelmunster.be/Website/LPDC/Doc/Tegemoetkomingafvalkostreglement.pdf",
+    "content": {
+      "en": {
+        "title": "Tegemoetkoming afvalkost (Waste Cost Allowance, Ingelmunster)",
+        "desc": "Ingelmunster's OCMW helps every year with the cost of household waste collection for people who make more waste because of a medical condition, and for people in financial difficulty.",
+        "deadline": "Yearly; no deadline on the page. Granted pro rata per started quarter.",
+        "amount": "Up to €60 a year for medical reasons, or up to €40 a year for financial reasons (not both), credited to the IVIO DIFTAR waste account",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medical reasons: the certificate signed by your treating doctor"
+          },
+          {
+            "type": "doc",
+            "label": "Financial reasons: a statement of the OCMW social service after a social inquiry"
+          }
+        ],
+        "steps": [
+          "Medical reasons: download the certificate or pick it up at the Sociaal Huis, have your doctor sign it and hand it in at the counter of the Sociaal Huis, Oostrozebekestraat 6, or e-mail it to balie@ingelmunster.be",
+          "Financial reasons: contact the social service of the OCMW (051 33 74 60) for a social inquiry",
+          "The allowance is put as an extra advance on the IVIO DIFTAR account of the head of household"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming afvalkost (Ingelmunster)",
+        "desc": "Het OCMW van Ingelmunster geeft jaarlijks een tegemoetkoming in de kost van het ophalen van huisvuil aan wie door een medische aandoening meer afval heeft en aan mensen in financiële moeilijkheden.",
+        "deadline": "Jaarlijks; geen termijn op de pagina. Pro rata per begonnen kwartaal toegekend.",
+        "amount": "Maximaal €60 per jaar om medische redenen of maximaal €40 per jaar om financiële redenen (niet cumuleerbaar), als voorschot op de IVIO-DIFTAR-rekening",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medische redenen: het attest ondertekend door de behandelende arts"
+          },
+          {
+            "type": "doc",
+            "label": "Financiële redenen: een verklaring van de sociale dienst van het OCMW na een sociaal onderzoek"
+          }
+        ],
+        "steps": [
+          "Medische redenen: download het attest of haal het aan het onthaal van het Sociaal Huis, laat het ondertekenen door je arts en bezorg het aan de balie van het Sociaal Huis, Oostrozebekestraat 6, of via balie@ingelmunster.be",
+          "Financiële redenen: neem contact op met de sociale dienst van het OCMW (051 33 74 60) voor een sociaal onderzoek",
+          "De tegemoetkoming wordt als bijkomend voorschot op de IVIO-DIFTAR-rekening van het gezinshoofd geplaatst"
+        ]
+      },
+      "fr": {
+        "title": "Tegemoetkoming afvalkost (intervention dans le coût des déchets, Ingelmunster)",
+        "desc": "Le CPAS d'Ingelmunster intervient chaque année dans le coût de la collecte des déchets ménagers pour les personnes qui produisent plus de déchets à cause d'un problème médical et pour les personnes en difficulté financière.",
+        "deadline": "Annuelle ; pas de délai sur la page. Octroyée au prorata par trimestre entamé.",
+        "amount": "Maximum 60 € par an pour raisons médicales ou maximum 40 € par an pour raisons financières (non cumulables), versés comme avance sur le compte DIFTAR de l'IVIO",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Raisons médicales : l'attestation signée par le médecin traitant"
+          },
+          {
+            "type": "doc",
+            "label": "Raisons financières : une déclaration du service social du CPAS après enquête sociale"
+          }
+        ],
+        "steps": [
+          "Raisons médicales : téléchargez l'attestation ou retirez-la à l'accueil du Sociaal Huis, faites-la signer par votre médecin et remettez-la au guichet du Sociaal Huis, Oostrozebekestraat 6, ou envoyez-la à balie@ingelmunster.be",
+          "Raisons financières : contactez le service social du CPAS (051 33 74 60) pour une enquête sociale",
+          "L'intervention est versée comme avance supplémentaire sur le compte DIFTAR de l'IVIO du chef de ménage"
+        ]
+      },
+      "de": {
+        "title": "Tegemoetkoming afvalkost (Zuschuss zu den Müllkosten, Ingelmunster)",
+        "desc": "Das ÖSHZ Ingelmunster beteiligt sich jährlich an den Kosten der Hausmüllabfuhr für Menschen, die wegen einer Erkrankung mehr Abfall haben, und für Menschen in finanziellen Schwierigkeiten.",
+        "deadline": "Jährlich; keine Frist auf der Seite. Anteilig pro angefangenem Quartal gewährt.",
+        "amount": "Höchstens 60 € pro Jahr aus medizinischen Gründen oder höchstens 40 € pro Jahr aus finanziellen Gründen (nicht kombinierbar), als Vorschuss auf dem IVIO-DIFTAR-Konto",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Medizinische Gründe: die vom behandelnden Arzt unterschriebene Bescheinigung"
+          },
+          {
+            "type": "doc",
+            "label": "Finanzielle Gründe: eine Erklärung des Sozialdienstes des ÖSHZ nach einer Sozialuntersuchung"
+          }
+        ],
+        "steps": [
+          "Medizinische Gründe: Laden Sie die Bescheinigung herunter oder holen Sie sie im Sociaal Huis ab, lassen Sie sie vom Arzt unterschreiben und geben Sie sie am Schalter des Sociaal Huis, Oostrozebekestraat 6, ab oder senden Sie sie an balie@ingelmunster.be",
+          "Finanzielle Gründe: Wenden Sie sich für eine Sozialuntersuchung an den Sozialdienst des ÖSHZ (051 33 74 60)",
+          "Der Zuschuss wird als zusätzlicher Vorschuss auf das IVIO-DIFTAR-Konto des Haushaltsvorstands gebucht"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.ingelmunster.be/tegemoetkoming-afvalkost",
+        "https://doc.ingelmunster.be/Website/LPDC/Doc/Tegemoetkomingafvalkostreglement.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Ingelmunster in the year concerned and not in a residential facility or a group of assistance flats where waste is collected collectively.",
+          "Medical reasons: you use incontinence material daily, have a permanent stoma, have kidney dialysis at home or use tube feeding at home (doctor's certificate).",
+          "Financial reasons: you are in budget guidance, budget management or collective debt settlement, or receive the leefloon or equivalent financial aid (OCMW social inquiry)."
+        ],
+        "nl": [
+          "De aanvrager is in het betrokken jaar inwoner van Ingelmunster en verblijft niet in een residentiële instelling of groep van assistentiewoningen waar het afval collectief verzameld wordt.",
+          "Medische redenen: dagelijks gebruik van incontinentiemateriaal, een blijvende stoma, nierdialyse thuis of sondevoeding thuis (attest van de behandelende arts).",
+          "Financiële redenen: budgetbegeleiding, budgetbeheer of collectieve schuldenregeling, of een leefloon of financiële steun ten bedrage van het leefloon (sociaal onderzoek van het OCMW)."
+        ],
+        "fr": [
+          "Vous habitez Ingelmunster pendant l'année concernée et ne résidez pas dans une institution résidentielle ou un groupe de logements assistés où les déchets sont collectés collectivement.",
+          "Raisons médicales : usage quotidien de matériel d'incontinence, stomie permanente, dialyse rénale à domicile ou alimentation par sonde à domicile (attestation du médecin traitant).",
+          "Raisons financières : guidance ou gestion budgétaire, règlement collectif de dettes, ou revenu d'intégration ou aide financière équivalente (enquête sociale du CPAS)."
+        ],
+        "de": [
+          "Sie wohnen im betreffenden Jahr in Ingelmunster und nicht in einer stationären Einrichtung oder einer Gruppe betreuter Wohnungen mit gemeinsamer Abfallsammlung.",
+          "Medizinische Gründe: täglicher Gebrauch von Inkontinenzmaterial, dauerhaftes Stoma, Heimdialyse oder Sondenernährung zu Hause (Bescheinigung des behandelnden Arztes).",
+          "Finanzielle Gründe: Budgetbegleitung, Budgetverwaltung oder kollektive Schuldenregelung, oder Eingliederungseinkommen (leefloon) bzw. gleichwertige finanzielle Hilfe (Sozialuntersuchung des ÖSHZ)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 569,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "82037"
+    ],
+    "institution": "Commune de Gouvy",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes",
+    "amount_source_url": "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes-aides/couches-lavables.pdf",
+    "content": {
+      "en": {
+        "title": "Aide à l'achat de couches lavables (Washable Nappies Premium, Gouvy)",
+        "desc": "Gouvy pays back half of what you spend on washable nappies for a child from birth to 2.5 years old.",
+        "deadline": "Apply within 24 months of the purchase.",
+        "amount": "Half the purchase invoice, up to €100 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition (composition de ménage)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment for the washable nappies"
+          }
+        ],
+        "steps": [
+          "Fill in the application form from gouvy.be",
+          "Send it with the household composition and the proof of payment to the Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be)"
+        ]
+      },
+      "nl": {
+        "title": "Aide à l'achat de couches lavables (premie wasbare luiers, Gouvy)",
+        "desc": "Gouvy betaalt de helft terug van wat je uitgeeft aan wasbare luiers voor een kind van de geboorte tot 2,5 jaar.",
+        "deadline": "Aanvragen binnen 24 maanden na de aankoop.",
+        "amount": "De helft van de aankoopfactuur, maximaal €100 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een gezinssamenstelling"
+          },
+          {
+            "type": "doc",
+            "label": "Het betalingsbewijs van de wasbare luiers"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier van gouvy.be in",
+          "Stuur het met de gezinssamenstelling en het betalingsbewijs naar de Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be)"
+        ]
+      },
+      "fr": {
+        "title": "Aide à l'achat de couches lavables (Gouvy)",
+        "desc": "Gouvy rembourse la moitié de l'achat de couches lavables pour un enfant de la naissance à 2,5 ans.",
+        "deadline": "Demande dans les 24 mois de la preuve d'achat.",
+        "amount": "50 % de la facture d'achat, plafonné à 100 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de paiement des couches lavables"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire de demande disponible sur gouvy.be",
+          "Envoyez-le avec la composition de ménage et la preuve de paiement à l'Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be)"
+        ]
+      },
+      "de": {
+        "title": "Aide à l'achat de couches lavables (Prämie für Stoffwindeln, Gouvy)",
+        "desc": "Gouvy erstattet die Hälfte der Kosten für Stoffwindeln für ein Kind von der Geburt bis 2,5 Jahre.",
+        "deadline": "Antrag innerhalb von 24 Monaten nach dem Kauf.",
+        "amount": "Die Hälfte der Kaufrechnung, höchstens 100 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung"
+          },
+          {
+            "type": "doc",
+            "label": "Der Zahlungsnachweis für die Stoffwindeln"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular von gouvy.be aus",
+          "Senden Sie es mit der Haushaltszusammensetzung und dem Zahlungsnachweis an die Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes",
+        "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes-aides/couches-lavables.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The child is between birth and 2.5 years old and domiciled in Gouvy.",
+          "The applicant and the child are registered in the population register of Gouvy on the date of purchase and on the date of the application.",
+          "A parent or legal guardian applies within 24 months of the purchase."
+        ],
+        "nl": [
+          "Het kind is tussen de geboorte en 2,5 jaar oud en gedomicilieerd in Gouvy.",
+          "De aanvrager en het kind zijn ingeschreven in het bevolkingsregister van Gouvy op de datum van aankoop en op de datum van aanvraag.",
+          "Een ouder of wettelijke voogd vraagt aan binnen 24 maanden na de aankoop."
+        ],
+        "fr": [
+          "L'enfant a entre 0 et 2,5 ans et est domicilié sur le territoire de la commune de Gouvy.",
+          "Le demandeur et l'enfant sont inscrits au registre de population de Gouvy à la date de l'achat et à la date de la demande.",
+          "La demande est introduite par le parent ou le tuteur légal dans les 24 mois de la preuve d'achat."
+        ],
+        "de": [
+          "Das Kind ist zwischen 0 und 2,5 Jahre alt und hat seinen Wohnsitz in Gouvy.",
+          "Antragsteller und Kind sind am Kaufdatum und am Antragsdatum im Bevölkerungsregister von Gouvy eingetragen.",
+          "Ein Elternteil oder gesetzlicher Vormund beantragt innerhalb von 24 Monaten nach dem Kauf."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: you must be in the population register, and a temporary study permit puts you in the foreigners' register.",
+            "nl": "Niet voor jou: je moet in het bevolkingsregister staan, en met een tijdelijke verblijfsvergunning voor studies sta je in het vreemdelingenregister.",
+            "fr": "Pas accessible : il faut être inscrit(e) au registre de la population, et un titre de séjour temporaire pour études vous inscrit au registre des étrangers.",
+            "de": "Nicht für Sie: Sie müssen im Bevölkerungsregister stehen, und eine vorübergehende Aufenthaltserlaubnis zum Studium führt ins Fremdenregister."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 570,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "82037"
+    ],
+    "institution": "Commune de Gouvy",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes",
+    "amount_source_url": "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes-aides-2025/participstagehorsscolaire-2025-1.pdf",
+    "content": {
+      "en": {
+        "title": "Prime pour participation à un stage (Holiday Course Premium, Gouvy)",
+        "desc": "Gouvy contributes to the cost of holiday courses, playgrounds (plaines) and camps held in the municipality for children aged 2.5 to 16.",
+        "deadline": "Apply within six months of the last day of the course.",
+        "amount": "€20 per course, playground or camp, up to two premiums a year per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of payment of the course (not needed for playgrounds organised by the commune)"
+          }
+        ],
+        "steps": [
+          "Fill in the application form from gouvy.be",
+          "Send it with the proof of payment to the Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be)",
+          "The College checks the conditions and pays the premium, within the budget"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour participation à un stage (premie voor deelname aan een vakantiekamp, Gouvy)",
+        "desc": "Gouvy betaalt mee aan vakantiekampen, speelpleinen (plaines) en kampen in de gemeente voor kinderen van 2,5 tot 16 jaar.",
+        "deadline": "Aanvragen binnen zes maanden na de laatste kampdag.",
+        "amount": "€20 per kamp, speelplein of kampperiode, maximaal twee premies per jaar per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Het betalingsbewijs van het kamp (niet nodig voor speelpleinen van de gemeente)"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier van gouvy.be in",
+          "Stuur het met het betalingsbewijs naar de Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be)",
+          "Het college controleert de voorwaarden en betaalt de premie, binnen het budget"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour participation à un stage (Gouvy)",
+        "desc": "Gouvy intervient dans le coût des stages, plaines et camps organisés sur le territoire communal pour les enfants de 2,5 à 16 ans.",
+        "deadline": "Demande dans les six mois du dernier jour de stage.",
+        "amount": "20 € par stage, plaine ou camp, deux primes maximum par an et par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve de paiement du stage (sauf pour les plaines organisées par la commune)"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire de demande disponible sur gouvy.be",
+          "Envoyez-le avec la preuve de paiement à l'Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be)",
+          "Le Collège vérifie les conditions et octroie la prime, dans la limite des crédits"
+        ]
+      },
+      "de": {
+        "title": "Prime pour participation à un stage (Prämie für Ferienkurse, Gouvy)",
+        "desc": "Gouvy beteiligt sich an den Kosten von Ferienkursen, Spielplatzbetreuung (plaines) und Lagern in der Gemeinde für Kinder von 2,5 bis 16 Jahren.",
+        "deadline": "Antrag innerhalb von sechs Monaten nach dem letzten Kurstag.",
+        "amount": "20 € pro Kurs, Spielplatzbetreuung oder Lager, höchstens zwei Prämien pro Jahr und Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Der Zahlungsnachweis für den Kurs (nicht nötig für von der Gemeinde organisierte plaines)"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular von gouvy.be aus",
+          "Senden Sie es mit dem Zahlungsnachweis an die Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be)",
+          "Das Kollegium prüft die Bedingungen und zahlt die Prämie im Rahmen der Mittel"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes",
+        "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes-aides-2025/participstagehorsscolaire-2025-1.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The child is 2.5 to 16 years old during the calendar year of the application.",
+          "The child, or one of the parents or a legal guardian, is domiciled in Gouvy during the course.",
+          "The course takes place in Gouvy during Belgian school holidays or in July-August, lasts at least five consecutive days, costs at least €10 a day, and is run by an organisation that is a member of an official sports federation, recognised by a public authority, or an ASBL."
+        ],
+        "nl": [
+          "Het kind is 2,5 tot 16 jaar oud in het kalenderjaar van de aanvraag.",
+          "Het kind, of een van de ouders of een wettelijke voogd, is tijdens het kamp gedomicilieerd in Gouvy.",
+          "Het kamp vindt plaats in Gouvy tijdens een Belgische schoolvakantie of in juli-augustus, duurt minstens vijf opeenvolgende dagen, kost minstens €10 per dag en wordt georganiseerd door een lid van een officiële sportfederatie, een door de overheid erkende organisatie of een vzw."
+        ],
+        "fr": [
+          "L'enfant est âgé de 2,5 à 16 ans dans le courant de l'année civile de la demande.",
+          "L'enfant, ou un des parents ou un responsable légal, est domicilié sur le territoire de Gouvy pendant la période du stage.",
+          "Le stage se déroule à Gouvy pendant un congé scolaire reconnu en Belgique ou en juillet-août, dure au moins cinq jours consécutifs, coûte au moins 10 €/jour et est organisé par un membre d'une fédération sportive officielle, une organisation reconnue par une administration ou une ASBL."
+        ],
+        "de": [
+          "Das Kind ist im Kalenderjahr des Antrags 2,5 bis 16 Jahre alt.",
+          "Das Kind oder ein Elternteil bzw. gesetzlicher Vertreter hat während des Kurses seinen Wohnsitz in Gouvy.",
+          "Der Kurs findet in Gouvy in belgischen Schulferien oder im Juli-August statt, dauert mindestens fünf aufeinanderfolgende Tage, kostet mindestens 10 € pro Tag und wird von einem Mitglied eines offiziellen Sportverbands, einer behördlich anerkannten Organisation oder einer VoG veranstaltet."
+        ]
+      }
+    }
+  },
+  {
+    "id": 571,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "82037"
+    ],
+    "institution": "Commune de Gouvy",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes",
+    "amount_source_url": "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes-aides-2026/primesportaines2026.pdf",
+    "content": {
+      "en": {
+        "title": "Aide à la participation à une activité sportive pour les aînés (Seniors' Sport Premium, Gouvy)",
+        "desc": "Gouvy gives residents aged 65 or over a yearly contribution towards their sports club membership fees.",
+        "deadline": "Apply within twelve months of paying for the activity.",
+        "amount": "€25 per calendar year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, completed by you and by the sports organisation, which confirms the payment of the membership fee"
+          }
+        ],
+        "steps": [
+          "Download the application form from gouvy.be",
+          "Have the sports organisation fill in its part to confirm your payment",
+          "Send the form to the Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be); the College decides within the budget"
+        ]
+      },
+      "nl": {
+        "title": "Aide à la participation à une activité sportive pour les aînés (sportpremie voor senioren, Gouvy)",
+        "desc": "Gouvy geeft inwoners van 65 jaar of ouder een jaarlijkse tegemoetkoming in hun lidgeld bij een sportclub.",
+        "deadline": "Aanvragen binnen twaalf maanden na de betaling van de activiteit.",
+        "amount": "€25 per kalenderjaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ingevuld door jou en door de sportorganisatie, die de betaling van het lidgeld bevestigt"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier van gouvy.be",
+          "Laat de sportorganisatie haar deel invullen om je betaling te bevestigen",
+          "Stuur het formulier naar de Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be); het college beslist binnen het budget"
+        ]
+      },
+      "fr": {
+        "title": "Aide à la participation à une activité sportive pour les aînés (Gouvy)",
+        "desc": "Gouvy accorde aux habitants de 65 ans ou plus une aide annuelle pour leur cotisation à une activité sportive.",
+        "deadline": "Demande dans les douze mois du paiement de l'activité.",
+        "amount": "25 € par année civile",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, complété par vous et par l'organisation sportive, qui atteste le paiement de la cotisation"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur gouvy.be",
+          "Faites compléter par l'organisation sportive la partie attestant votre paiement",
+          "Envoyez le formulaire à l'Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be) ; le Collège décide dans la limite des crédits"
+        ]
+      },
+      "de": {
+        "title": "Aide à la participation à une activité sportive pour les aînés (Sportprämie für Senioren, Gouvy)",
+        "desc": "Gouvy gewährt Einwohnern ab 65 Jahren einen jährlichen Zuschuss zu ihrem Mitgliedsbeitrag für eine sportliche Aktivität.",
+        "deadline": "Antrag innerhalb von zwölf Monaten nach Zahlung der Aktivität.",
+        "amount": "25 € pro Kalenderjahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, von Ihnen und von der Sportorganisation ausgefüllt, die die Zahlung des Beitrags bestätigt"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular von gouvy.be herunter",
+          "Lassen Sie die Sportorganisation ihren Teil zur Bestätigung Ihrer Zahlung ausfüllen",
+          "Senden Sie das Formular an die Administration communale, Bovigny 59, 6671 Gouvy (administration@gouvy.be); das Kollegium entscheidet im Rahmen der Mittel"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes",
+        "https://www.gouvy.be/ma-commune/services-communaux/publicationsreglements/primes-aides-2026/primesportaines2026.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are 65 or over during the calendar year of the application and domiciled in Gouvy.",
+          "The activity is run by a member of an official sports federation, an organisation recognised by a federal, community or regional authority, or a sports ASBL.",
+          "Your membership fee(s) for the year total at least €50 (several activities can be added together)."
+        ],
+        "nl": [
+          "Je bent 65 jaar of ouder in het kalenderjaar van de aanvraag en gedomicilieerd in Gouvy.",
+          "De activiteit wordt beheerd door een lid van een officiële sportfederatie, een door een federale, gemeenschaps- of gewestelijke overheid erkende organisatie of een sportvzw.",
+          "Je lidgeld(en) voor het jaar bedragen samen minstens €50 (meerdere sportactiviteiten mogen samengeteld worden)."
+        ],
+        "fr": [
+          "Être âgé de 65 ans ou plus dans le courant de l'année civile de la demande et être domicilié sur le territoire de la commune de Gouvy.",
+          "L'activité est gérée par un membre d'une fédération sportive officielle, une organisation reconnue par une administration fédérale, communautaire ou régionale, ou une ASBL à vocation sportive.",
+          "Le montant total de la ou des cotisations pour l'année est d'au moins 50 € (cumul possible de plusieurs activités sportives)."
+        ],
+        "de": [
+          "Sie sind im Kalenderjahr des Antrags 65 Jahre oder älter und haben Ihren Wohnsitz in Gouvy.",
+          "Die Aktivität wird von einem Mitglied eines offiziellen Sportverbands, einer von einer föderalen, Gemeinschafts- oder Regionalbehörde anerkannten Organisation oder einer Sport-VoG geführt.",
+          "Ihre Mitgliedsbeiträge für das Jahr betragen zusammen mindestens 50 € (mehrere Sportaktivitäten können addiert werden)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 572,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25037"
+    ],
+    "institution": "Commune de Grez-Doiceau",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.grez-doiceau.be/ma-commune/services-communaux/environnement/primes-et-aides/prime-communale-pour-langes-lavables",
+    "content": {
+      "en": {
+        "title": "Prime communale pour langes lavables (Washable Nappies Premium, Grez-Doiceau)",
+        "desc": "Grez-Doiceau pays back half of what you spend on buying or renting washable nappies, once per child.",
+        "deadline": "Apply before the child is 2.5 years old.",
+        "amount": "Up to 50% of the purchase or rental invoice, maximum €125 (several invoices can be added together)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The purchase or rental invoice(s)"
+          }
+        ],
+        "steps": [
+          "Download the application form from grez-doiceau.be",
+          "Send it with the invoices to the Service Eco-Conseil, Place Ernest Dubois 1, 1390 Grez-Doiceau (010 84 83 00)",
+          "The premium is granted within the budget, in the order applications arrive"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale pour langes lavables (premie wasbare luiers, Grez-Doiceau)",
+        "desc": "Graven (Grez-Doiceau) betaalt de helft terug van wat je uitgeeft aan de aankoop of huur van wasbare luiers, eenmaal per kind.",
+        "deadline": "Aanvragen voordat het kind 2,5 jaar is.",
+        "amount": "Maximaal 50% van de aankoop- of huurfactuur, maximaal €125 (meerdere facturen mogen samengeteld worden)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De aankoop- of huurfactu(u)r(en)"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier van grez-doiceau.be",
+          "Stuur het met de facturen naar de Service Eco-Conseil, Place Ernest Dubois 1, 1390 Grez-Doiceau (010 84 83 00)",
+          "De premie wordt toegekend binnen het budget, in volgorde van binnenkomst"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale pour langes lavables (Grez-Doiceau)",
+        "desc": "Grez-Doiceau rembourse la moitié de l'achat ou de la location de langes lavables, une fois par enfant.",
+        "deadline": "Demande avant que l'enfant n'ait atteint l'âge de 2 ans et demi.",
+        "amount": "Maximum 50 % de la facture d'achat ou de location, plafonné à 125 € (plusieurs factures peuvent être cumulées)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La ou les factures d'achat ou de location"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande sur grez-doiceau.be",
+          "Envoyez-le avec les factures au Service Eco-Conseil, Place Ernest Dubois 1, 1390 Grez-Doiceau (010 84 83 00)",
+          "La prime est octroyée dans les limites des crédits budgétaires, selon l'ordre d'arrivée des demandes"
+        ]
+      },
+      "de": {
+        "title": "Prime communale pour langes lavables (Prämie für Stoffwindeln, Grez-Doiceau)",
+        "desc": "Grez-Doiceau erstattet die Hälfte der Kosten für Kauf oder Miete von Stoffwindeln, einmal pro Kind.",
+        "deadline": "Antrag, bevor das Kind 2,5 Jahre alt ist.",
+        "amount": "Höchstens 50 % der Kauf- oder Mietrechnung, maximal 125 € (mehrere Rechnungen können addiert werden)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die Kauf- oder Mietrechnung(en)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular von grez-doiceau.be herunter",
+          "Senden Sie es mit den Rechnungen an den Service Eco-Conseil, Place Ernest Dubois 1, 1390 Grez-Doiceau (010 84 83 00)",
+          "Die Prämie wird im Rahmen der Mittel in der Reihenfolge des Eingangs gewährt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.grez-doiceau.be/ma-commune/services-communaux/environnement/primes-et-aides/prime-communale-pour-langes-lavables",
+        "https://www.grez-doiceau.be/ma-commune/services-communaux/environnement/primes-et-aides/prime-communale-pour-langes-lavables/demande-de-prime-communale-pour-acquisition-ou-location-de-langes-lavables/formulaire-lange-1.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The child is domiciled in Grez-Doiceau.",
+          "The father, mother or the person with whom the child is domiciled applies before the child is 2.5 years old.",
+          "Once per child; invoices may not date from more than 3 months before the birth."
+        ],
+        "nl": [
+          "Het kind is gedomicilieerd in Graven (Grez-Doiceau).",
+          "De vader, moeder of de persoon bij wie het kind gedomicilieerd is, vraagt aan voordat het kind 2,5 jaar is.",
+          "Eenmaal per kind; de facturen mogen niet meer dan 3 maanden vóór de geboorte dateren."
+        ],
+        "fr": [
+          "L'enfant pour lequel la prime est demandée est domicilié dans la commune de Grez-Doiceau.",
+          "La prime est demandée par le père, la mère ou la personne chez qui l'enfant est domicilié, avant que l'enfant n'ait 2 ans et demi.",
+          "Une seule fois par enfant ; les factures ne peuvent être antérieures de plus de 3 mois à la date de naissance."
+        ],
+        "de": [
+          "Das Kind hat seinen Wohnsitz in Grez-Doiceau.",
+          "Vater, Mutter oder die Person, bei der das Kind gemeldet ist, beantragt, bevor das Kind 2,5 Jahre alt ist.",
+          "Einmal pro Kind; die Rechnungen dürfen nicht mehr als 3 Monate vor der Geburt datieren."
+        ]
+      }
+    }
+  },
+  {
+    "id": 573,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "25037"
+    ],
+    "institution": "Commune de Grez-Doiceau",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.grez-doiceau.be/ma-commune/services-communaux/cadre-de-vie/les-services/copy_of_environnement/primes-et-aides/prime-communale-pour-personnes-incontinentes",
+    "content": {
+      "en": {
+        "title": "Prime communale pour personnes incontinentes (Incontinence Waste Allowance, Grez-Doiceau)",
+        "desc": "Grez-Doiceau gives a yearly allowance to households with a person who has permanent incontinence, towards the extra waste tax or extra waste bags.",
+        "deadline": "Apply at the latest 90 days after receiving the tax notice for the variable part of the waste tax; renew every year.",
+        "amount": "Up to €150 a year per incontinent person in the household, limited to the variable waste tax (chip bins) or to the cost of the extra waste bags bought that year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The form 'Demande d'intervention financière – suppléments de frais (gestion des déchets) dus à l'incontinence', dated and signed"
+          },
+          {
+            "type": "doc",
+            "label": "A medical certificate of permanent incontinence dated between 1 January of the year and the date of the application"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the tax notice for the variable part of the waste tax, or the receipts for the extra waste bags"
+          }
+        ],
+        "steps": [
+          "Download the form from grez-doiceau.be or ask the Service Environnement (environnement@grez-doiceau.be)",
+          "Hand it in by post, e-mail or in person at the Administration communale, Place Ernest Dubois 1, 1390 Grez-Doiceau; you get a receipt",
+          "The allowance is paid by 31 December of the year of the application, within the budget"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale pour personnes incontinentes (tegemoetkoming afval bij incontinentie, Grez-Doiceau)",
+        "desc": "Graven (Grez-Doiceau) geeft gezinnen met een persoon met blijvende incontinentie een jaarlijkse tegemoetkoming in de extra afvalbelasting of extra afvalzakken.",
+        "deadline": "Aanvragen uiterlijk 90 dagen na ontvangst van het aanslagbiljet voor het variabele deel van de afvalbelasting; elk jaar opnieuw aanvragen.",
+        "amount": "Maximaal €150 per jaar per incontinente persoon in het gezin, beperkt tot het variabele deel van de afvalbelasting (chipcontainers) of de kost van de extra afvalzakken van dat jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier 'Demande d'intervention financière – suppléments de frais (gestion des déchets) dus à l'incontinence', gedateerd en ondertekend"
+          },
+          {
+            "type": "doc",
+            "label": "Een medisch attest van blijvende incontinentie, gedateerd tussen 1 januari van het jaar en de datum van de aanvraag"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van het aanslagbiljet voor het variabele deel van de afvalbelasting, of de aankoopbewijzen van de extra afvalzakken"
+          }
+        ],
+        "steps": [
+          "Download het formulier van grez-doiceau.be of vraag het aan de Service Environnement (environnement@grez-doiceau.be)",
+          "Dien het in per post, e-mail of persoonlijk bij de Administration communale, Place Ernest Dubois 1, 1390 Grez-Doiceau; je krijgt een ontvangstbewijs",
+          "De tegemoetkoming wordt uiterlijk op 31 december van het jaar van de aanvraag betaald, binnen het budget"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale pour personnes incontinentes (Grez-Doiceau)",
+        "desc": "Grez-Doiceau octroie une intervention financière annuelle aux ménages comptant une personne atteinte d'incontinence permanente, pour le supplément de taxe ou les sacs poubelle supplémentaires.",
+        "deadline": "Demande au maximum 90 jours après réception de l'avertissement-extrait de rôle de la partie variable de la taxe déchets ; à renouveler chaque année.",
+        "amount": "Maximum 150 € par an et par personne incontinente du ménage, à concurrence de la partie variable de la taxe (poubelles à puce) ou du coût des sacs dérogatoires supplémentaires achetés dans l'année",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire « Demande d'intervention financière – suppléments de frais (gestion des déchets) dus à l'incontinence », daté et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Un certificat médical attestant l'incontinence permanente, daté entre le 1er janvier de l'année et la date de la demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de l'avertissement-extrait de rôle (partie variable) ou des reçus d'achat des sacs dérogatoires supplémentaires"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire sur grez-doiceau.be ou demandez-le au Service Environnement (environnement@grez-doiceau.be)",
+          "Déposez-le par courrier, par courriel ou en main propre à l'Administration communale, Place Ernest Dubois 1, 1390 Grez-Doiceau ; vous recevez un récépissé",
+          "La prime est liquidée au plus tard le 31 décembre de l'année de la demande, dans la limite des crédits"
+        ]
+      },
+      "de": {
+        "title": "Prime communale pour personnes incontinentes (Zuschuss bei Inkontinenz, Grez-Doiceau)",
+        "desc": "Grez-Doiceau gewährt Haushalten mit einer dauerhaft inkontinenten Person einen jährlichen Zuschuss zur zusätzlichen Müllsteuer oder zu zusätzlichen Müllsäcken.",
+        "deadline": "Antrag spätestens 90 Tage nach Erhalt des Steuerbescheids für den variablen Teil der Müllsteuer; jährlich neu beantragen.",
+        "amount": "Höchstens 150 € pro Jahr und inkontinenter Person im Haushalt, begrenzt auf den variablen Teil der Müllsteuer (Chip-Tonnen) oder die Kosten der im Jahr gekauften zusätzlichen Müllsäcke",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular 'Demande d'intervention financière – suppléments de frais (gestion des déchets) dus à l'incontinence', datiert und unterschrieben"
+          },
+          {
+            "type": "doc",
+            "label": "Ein ärztliches Attest über dauerhafte Inkontinenz, datiert zwischen dem 1. Januar des Jahres und dem Antragsdatum"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des Steuerbescheids (variabler Teil) oder die Kaufbelege der zusätzlichen Müllsäcke"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Formular von grez-doiceau.be herunter oder fragen Sie beim Service Environnement (environnement@grez-doiceau.be) nach",
+          "Reichen Sie es per Post, E-Mail oder persönlich bei der Administration communale, Place Ernest Dubois 1, 1390 Grez-Doiceau ein; Sie erhalten eine Empfangsbestätigung",
+          "Der Zuschuss wird spätestens am 31. Dezember des Antragsjahres im Rahmen der Mittel gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.grez-doiceau.be/ma-commune/services-communaux/cadre-de-vie/les-services/copy_of_environnement/primes-et-aides/prime-communale-pour-personnes-incontinentes"
+      ],
+      "conditions": {
+        "en": [
+          "The household includes a person aged 5 or over with permanent urinary incontinence recognised by a GP or specialist.",
+          "The head of household is on the waste-tax roll on 1 January of the year and pays extra waste tax or buys extra waste bags.",
+          "Several allowances can be combined if more than one person in the household is incontinent; the application is renewed every year."
+        ],
+        "nl": [
+          "Het gezin telt een persoon van 5 jaar of ouder met blijvende urine-incontinentie, erkend door een huisarts of specialist.",
+          "Het gezinshoofd is op 1 januari van het jaar ingekohierd voor de afvalbelasting en betaalt extra afvalbelasting of koopt extra afvalzakken.",
+          "Meerdere tegemoetkomingen zijn cumuleerbaar als meer gezinsleden incontinent zijn; de aanvraag wordt elk jaar hernieuwd."
+        ],
+        "fr": [
+          "Le ménage compte une personne âgée de 5 ans et plus atteinte d'une incontinence urinaire permanente reconnue par un médecin généraliste ou spécialiste.",
+          "Le chef de ménage est enrôlé au 1er janvier de l'année concernée et paie un supplément de taxe ou des sacs poubelle dérogatoires supplémentaires.",
+          "Plusieurs interventions peuvent être cumulées si le ménage compte plus d'une personne incontinente ; la demande est renouvelée chaque année."
+        ],
+        "de": [
+          "Zum Haushalt gehört eine Person ab 5 Jahren mit dauerhafter Harninkontinenz, die ein Haus- oder Facharzt anerkannt hat.",
+          "Der Haushaltsvorstand ist am 1. Januar des Jahres zur Müllsteuer veranlagt und zahlt zusätzliche Müllsteuer oder kauft zusätzliche Müllsäcke.",
+          "Mehrere Zuschüsse sind kombinierbar, wenn mehr als eine Person im Haushalt inkontinent ist; der Antrag wird jährlich erneuert."
+        ]
+      }
+    }
+  },
+  {
+    "id": 574,
+    "category": "housing",
+    "situations": [
+      "buying-home"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "85046"
+    ],
+    "institution": "Commune de Habay",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.habay.be/ma-commune/services-communaux/fichiers-pdf/regl_primes_energie_2025.pdf",
+    "content": {
+      "en": {
+        "title": "Primes communales Energie (Municipal Energy Top-Up, Habay)",
+        "desc": "Habay adds its own premium on top of the Walloon housing premiums (primes habitation) for a home energy audit and for home improvement works.",
+        "deadline": "Apply within 12 months of the Walloon Region's notification of the final premium amount (for notifications from 1 January 2025).",
+        "amount": "100% of the Walloon audit premium, and 20% of the Walloon works premium; all commune energy premiums together are capped at €3,000 a year per home",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the Walloon Region's letter notifying the final premium amount"
+          },
+          {
+            "type": "doc",
+            "label": "Copies of all invoices for the works (or the final invoice) and the matching proofs of payment"
+          }
+        ],
+        "steps": [
+          "Obtain the Walloon housing premium (audit or works) first",
+          "Send the application form with the Walloon notification, invoices and proofs of payment to the Administration communale, Rue du Châtelet 2, 6720 Habay-la-Neuve (063 42 30 42)",
+          "The College grants the top-up within the yearly budget"
+        ]
+      },
+      "nl": {
+        "title": "Primes communales Energie (gemeentelijke energiepremie, Habay)",
+        "desc": "Habay geeft een eigen premie bovenop de Waalse woningpremies (primes habitation) voor een energieaudit van de woning en voor verbeteringswerken.",
+        "deadline": "Aanvragen binnen 12 maanden na de kennisgeving van het definitieve premiebedrag door het Waals Gewest (voor kennisgevingen vanaf 1 januari 2025).",
+        "amount": "100% van de Waalse auditpremie en 20% van de Waalse premie voor werken; alle gemeentelijke energiepremies samen maximaal €3.000 per jaar per woning",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de brief van het Waals Gewest met het definitieve premiebedrag"
+          },
+          {
+            "type": "doc",
+            "label": "Kopieën van alle facturen van de werken (of de eindfactuur) met de bijhorende betaalbewijzen"
+          }
+        ],
+        "steps": [
+          "Verkrijg eerst de Waalse woningpremie (audit of werken)",
+          "Stuur het aanvraagformulier met de Waalse kennisgeving, de facturen en betaalbewijzen naar de Administration communale, Rue du Châtelet 2, 6720 Habay-la-Neuve (063 42 30 42)",
+          "Het college kent de premie toe binnen het jaarlijkse budget"
+        ]
+      },
+      "fr": {
+        "title": "Primes communales Energie (Habay)",
+        "desc": "Habay accorde des primes complémentaires aux primes habitation de la Région wallonne pour un audit énergétique du logement et pour les travaux d'amélioration.",
+        "deadline": "Demande dans les 12 mois de la notification du montant définitif par la Région wallonne (notifications à partir du 1er janvier 2025).",
+        "amount": "100 % de la prime régionale pour l'audit, et 20 % de la prime régionale pour les travaux ; maximum 3.000 € par an et par logement pour l'ensemble des primes communales énergie",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie du courrier de notification du montant définitif de la prime octroyée par la Région wallonne"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de l'ensemble des factures des travaux (ou de la facture de solde) et des preuves de paiement"
+          }
+        ],
+        "steps": [
+          "Obtenez d'abord la prime habitation de la Région wallonne (audit ou travaux)",
+          "Envoyez le formulaire avec la notification régionale, les factures et les preuves de paiement à l'Administration communale, Rue du Châtelet 2, 6720 Habay-la-Neuve (063 42 30 42)",
+          "Le Collège octroie la prime dans la limite des crédits annuels"
+        ]
+      },
+      "de": {
+        "title": "Primes communales Energie (kommunale Energieprämie, Habay)",
+        "desc": "Habay zahlt zusätzlich zu den wallonischen Wohnungsprämien (primes habitation) eine eigene Prämie für ein Energieaudit der Wohnung und für Verbesserungsarbeiten.",
+        "deadline": "Antrag innerhalb von 12 Monaten nach der Mitteilung des endgültigen Prämienbetrags durch die Wallonische Region (für Mitteilungen ab dem 1. Januar 2025).",
+        "amount": "100 % der wallonischen Auditprämie und 20 % der wallonischen Prämie für Arbeiten; alle kommunalen Energieprämien zusammen höchstens 3.000 € pro Jahr und Wohnung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie des Schreibens der Wallonischen Region mit dem endgültigen Prämienbetrag"
+          },
+          {
+            "type": "doc",
+            "label": "Kopien aller Rechnungen der Arbeiten (oder der Schlussrechnung) und der Zahlungsnachweise"
+          }
+        ],
+        "steps": [
+          "Erhalten Sie zuerst die wallonische Wohnungsprämie (Audit oder Arbeiten)",
+          "Senden Sie das Formular mit der regionalen Mitteilung, den Rechnungen und Zahlungsnachweisen an die Administration communale, Rue du Châtelet 2, 6720 Habay-la-Neuve (063 42 30 42)",
+          "Das Kollegium gewährt die Prämie im Rahmen der Jahresmittel"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.habay.be/ma-commune/services-communaux/fichiers-pdf/regl_primes_energie_2025.pdf",
+        "https://www.habay.be/ma-commune/services-communaux/fichiers-pdf/form_prime_energie_2025.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "Your household is domiciled in Habay.",
+          "The Walloon Region has granted you a housing premium (decree of 4 April 2019) for an energy audit or works, under the same conditions and technical criteria.",
+          "The home is in the commune of Habay."
+        ],
+        "nl": [
+          "Je gezin is gedomicilieerd in Habay.",
+          "Het Waals Gewest heeft je een woningpremie toegekend (besluit van 4 april 2019) voor een energieaudit of werken, onder dezelfde voorwaarden en technische criteria.",
+          "De woning ligt in de gemeente Habay."
+        ],
+        "fr": [
+          "Les ménages domiciliés sur le territoire communal.",
+          "La prime a d'abord été octroyée par le Service public de Wallonie (arrêté du 4 avril 2019) pour un audit ou des travaux, sur base des mêmes conditions et critères techniques.",
+          "Le logement est situé sur le territoire de la commune de Habay."
+        ],
+        "de": [
+          "Ihr Haushalt hat seinen Wohnsitz in Habay.",
+          "Die Wallonische Region hat Ihnen eine Wohnungsprämie (Erlass vom 4. April 2019) für ein Energieaudit oder Arbeiten gewährt, unter denselben Bedingungen und technischen Kriterien.",
+          "Die Wohnung liegt in der Gemeinde Habay."
+        ]
+      }
+    }
+  },
+  {
+    "id": 575,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "56086"
+    ],
+    "institution": "Commune de Ham-sur-Heure-Nalinnes",
+    "verified": "25 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.ham-sur-heure-nalinnes.be/actualites/la-commune/lutte-contre-le-frelon-asiatique-la-commune-octroie-une-prime-en-cas-de-destruction-de-nid-sur-domaine-prive",
+    "amount_source_url": "https://www.ham-sur-heure-nalinnes.be/sites/default/files/upload/20260602161932790.pdf",
+    "content": {
+      "en": {
+        "title": "Prime destruction de nid de frelons asiatiques (Asian Hornet Nest Removal Premium, Ham-sur-Heure-Nalinnes)",
+        "desc": "Ham-sur-Heure-Nalinnes refunds the cost of having an approved operator destroy an Asian hornet nest on your private property.",
+        "deadline": "For removals carried out between 1 March and 30 November.",
+        "amount": "The cost of the intervention, up to €50 per nest destroyed",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the invoice detailing the intervention"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate from the approved operator that it was an Asian hornet nest on a private plot in Ham-sur-Heure-Nalinnes"
+          },
+          {
+            "type": "doc",
+            "label": "A photo of the nest before the intervention"
+          }
+        ],
+        "steps": [
+          "Have the nest destroyed by an operator on the official CRA-W list",
+          "Send the application form with the invoice, certificate and photo to the College communal, for the Service Environnement (071 22 93 59)",
+          "The premium is paid after the services check the documents"
+        ]
+      },
+      "nl": {
+        "title": "Prime destruction de nid de frelons asiatiques (premie verdelging nest Aziatische hoornaar, Ham-sur-Heure-Nalinnes)",
+        "desc": "Ham-sur-Heure-Nalinnes betaalt de kosten terug als een erkende bestrijder een nest van de Aziatische hoornaar op je privé-eigendom verdelgt.",
+        "deadline": "Voor verdelgingen tussen 1 maart en 30 november.",
+        "amount": "De kost van de interventie, maximaal €50 per verdelgd nest",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de factuur met de details van de interventie"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van de erkende bestrijder dat het om een nest van Aziatische hoornaars op een privéperceel in Ham-sur-Heure-Nalinnes ging"
+          },
+          {
+            "type": "doc",
+            "label": "Een foto van het nest vóór de interventie"
+          }
+        ],
+        "steps": [
+          "Laat het nest verdelgen door een bestrijder op de officiële lijst van het CRA-W",
+          "Stuur het aanvraagformulier met factuur, attest en foto naar het College communal, t.a.v. de Service Environnement (071 22 93 59)",
+          "De premie wordt betaald na controle van de stukken"
+        ]
+      },
+      "fr": {
+        "title": "Prime destruction de nid de frelons asiatiques (Ham-sur-Heure-Nalinnes)",
+        "desc": "Ham-sur-Heure-Nalinnes rembourse l'intervention d'un neutralisateur agréé qui détruit un nid de frelons asiatiques sur votre propriété privée.",
+        "deadline": "Pour les interventions réalisées entre le 1er mars et le 30 novembre.",
+        "amount": "Le montant total de l'intervention, maximum 50 € par nid détruit",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la facture détaillant l'intervention"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de l'opérateur agréé indiquant qu'il s'agit d'un nid de frelons asiatiques sur une parcelle privée à Ham-sur-Heure-Nalinnes"
+          },
+          {
+            "type": "doc",
+            "label": "Une photo du nid avant intervention"
+          }
+        ],
+        "steps": [
+          "Faites détruire le nid par un opérateur repris dans la liste officielle du CRA-W",
+          "Envoyez le formulaire avec la facture, l'attestation et la photo au Collège communal, à l'attention du Service Environnement (071 22 93 59)",
+          "La prime est payée après vérification des justificatifs par les services communaux"
+        ]
+      },
+      "de": {
+        "title": "Prime destruction de nid de frelons asiatiques (Prämie für die Beseitigung von Nestern der Asiatischen Hornisse, Ham-sur-Heure-Nalinnes)",
+        "desc": "Ham-sur-Heure-Nalinnes erstattet die Kosten, wenn ein zugelassener Fachbetrieb ein Nest der Asiatischen Hornisse auf Ihrem Privatgrundstück beseitigt.",
+        "deadline": "Für Einsätze zwischen dem 1. März und dem 30. November.",
+        "amount": "Die Kosten des Einsatzes, höchstens 50 € pro beseitigtem Nest",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Rechnung mit den Einzelheiten des Einsatzes"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des zugelassenen Betriebs, dass es sich um ein Nest der Asiatischen Hornisse auf einem Privatgrundstück in Ham-sur-Heure-Nalinnes handelte"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Foto des Nests vor dem Einsatz"
+          }
+        ],
+        "steps": [
+          "Lassen Sie das Nest von einem Betrieb auf der offiziellen CRA-W-Liste beseitigen",
+          "Senden Sie das Formular mit Rechnung, Bescheinigung und Foto an das Collège communal, zu Händen des Service Environnement (071 22 93 59)",
+          "Die Prämie wird nach Prüfung der Unterlagen gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "25 Nov 2026",
+      "source_url": [
+        "https://www.ham-sur-heure-nalinnes.be/actualites/la-commune/lutte-contre-le-frelon-asiatique-la-commune-octroie-une-prime-en-cas-de-destruction-de-nid-sur-domaine-prive",
+        "https://www.ham-sur-heure-nalinnes.be/sites/default/files/upload/20260602161932790.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The nest of Asian hornets is on a private plot in Ham-sur-Heure-Nalinnes.",
+          "It is destroyed by an operator trained in Asian hornet neutralisation and on the official CRA-W list at the time, between 1 March and 30 November.",
+          "Once per nest; not combinable with any other public aid for the same purpose."
+        ],
+        "nl": [
+          "Het nest van Aziatische hoornaars bevindt zich op een privéperceel in Ham-sur-Heure-Nalinnes.",
+          "Het wordt verdelgd door een bestrijder opgeleid voor de Aziatische hoornaar en op dat moment opgenomen in de officiële lijst van het CRA-W, tussen 1 maart en 30 november.",
+          "Eenmaal per nest; niet cumuleerbaar met andere overheidssteun voor hetzelfde doel."
+        ],
+        "fr": [
+          "Le nid de frelons asiatiques est situé sur une parcelle privée sur le territoire d'Ham-sur-Heure-Nalinnes.",
+          "Il est détruit par un opérateur formé à la neutralisation du frelon asiatique repris dans la liste officielle du CRA-W au moment de l'intervention, entre le 1er mars et le 30 novembre.",
+          "Une seule fois par nid détruit ; non cumulable avec toute autre aide publique ayant le même objet."
+        ],
+        "de": [
+          "Das Nest der Asiatischen Hornisse befindet sich auf einem Privatgrundstück in Ham-sur-Heure-Nalinnes.",
+          "Es wird zwischen dem 1. März und dem 30. November von einem für die Asiatische Hornisse geschulten Betrieb beseitigt, der zum Zeitpunkt des Einsatzes auf der offiziellen CRA-W-Liste steht.",
+          "Einmal pro Nest; nicht mit anderen öffentlichen Hilfen für denselben Zweck kombinierbar."
+        ]
+      }
+    }
   }
 ]

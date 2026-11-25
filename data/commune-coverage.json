@@ -2042,49 +2042,94 @@
       "name": "Gesves",
       "checked": "24 Nov 2026",
       "ids": []
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "11021",
-      "name": "Hove"
+      "name": "Hove",
+      "checked": "25 Nov 2026",
+      "ids": [
+        560,
+        561
+      ]
     },
     {
       "nis": "82037",
-      "name": "Gouvy"
+      "name": "Gouvy",
+      "checked": "25 Nov 2026",
+      "ids": [
+        569,
+        570,
+        571
+      ]
     },
     {
       "nis": "24045",
-      "name": "Huldenberg"
+      "name": "Huldenberg",
+      "checked": "25 Nov 2026",
+      "ids": [
+        562,
+        563
+      ]
     },
     {
       "nis": "62118",
-      "name": "Grâce-Hollogne"
+      "name": "Grâce-Hollogne",
+      "checked": "25 Nov 2026",
+      "ids": []
     },
     {
       "nis": "13016",
-      "name": "Hulshout"
+      "name": "Hulshout",
+      "checked": "25 Nov 2026",
+      "ids": [
+        564
+      ]
     },
     {
       "nis": "25037",
-      "name": "Graven / Grez-Doiceau"
+      "name": "Graven / Grez-Doiceau",
+      "checked": "25 Nov 2026",
+      "ids": [
+        572,
+        573
+      ]
     },
     {
       "nis": "35006",
-      "name": "Ichtegem"
+      "name": "Ichtegem",
+      "checked": "25 Nov 2026",
+      "ids": [
+        565,
+        566
+      ]
     },
     {
       "nis": "85046",
-      "name": "Habay"
+      "name": "Habay",
+      "checked": "25 Nov 2026",
+      "ids": [
+        574
+      ]
     },
     {
       "nis": "56086",
-      "name": "Ham-sur-Heure-Nalinnes"
+      "name": "Ham-sur-Heure-Nalinnes",
+      "checked": "25 Nov 2026",
+      "ids": [
+        575
+      ]
     },
     {
       "nis": "36007",
-      "name": "Ingelmunster"
-    },
+      "name": "Ingelmunster",
+      "checked": "25 Nov 2026",
+      "ids": [
+        567,
+        568
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "61024",
       "name": "Hamoir"
