@@ -2127,49 +2127,82 @@
         567,
         568
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "61024",
-      "name": "Hamoir"
+      "name": "Hamoir",
+      "checked": "26 Nov 2026",
+      "ids": [
+        582
+      ]
     },
     {
       "nis": "36008",
-      "name": "Izegem"
+      "name": "Izegem",
+      "checked": "26 Nov 2026",
+      "ids": [
+        576
+      ]
     },
     {
       "nis": "91059",
-      "name": "Hamois"
+      "name": "Hamois",
+      "checked": "26 Nov 2026",
+      "ids": []
     },
     {
       "nis": "31012",
-      "name": "Jabbeke"
+      "name": "Jabbeke",
+      "checked": "26 Nov 2026",
+      "ids": [
+        577
+      ]
     },
     {
       "nis": "64034",
-      "name": "Hannuit / Hannut"
+      "name": "Hannuit / Hannut",
+      "checked": "26 Nov 2026",
+      "ids": []
     },
     {
       "nis": "11022",
-      "name": "Kalmthout"
+      "name": "Kalmthout",
+      "checked": "26 Nov 2026",
+      "ids": [
+        578,
+        579
+      ]
     },
     {
       "nis": "91142",
-      "name": "Hastière"
+      "name": "Hastière",
+      "checked": "26 Nov 2026",
+      "ids": []
     },
     {
       "nis": "23038",
-      "name": "Kampenhout"
+      "name": "Kampenhout",
+      "checked": "26 Nov 2026",
+      "ids": [
+        580
+      ]
     },
     {
       "nis": "91064",
-      "name": "Havelange"
+      "name": "Havelange",
+      "checked": "26 Nov 2026",
+      "ids": []
     },
     {
       "nis": "23039",
-      "name": "Kapelle-op-den-Bos"
-    },
+      "name": "Kapelle-op-den-Bos",
+      "checked": "26 Nov 2026",
+      "ids": [
+        581
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "25118",
       "name": "Hélécine"

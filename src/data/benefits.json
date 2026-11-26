@@ -72200,5 +72200,972 @@
         ]
       }
     }
+  },
+  {
+    "id": 576,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "36008"
+    ],
+    "institution": "Stad Izegem",
+    "verified": "26 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.izegem.be/premies",
+    "amount_source_url": "https://izegem.be/sites/izegem/files/2020-08/toelagereglement_voor_ecoluiers.pdf",
+    "content": {
+      "en": {
+        "title": "Premie voor het gebruik van ecoluiers (Washable Nappies Premium, Izegem)",
+        "desc": "Izegem refunds half of what you spend on cotton (washable) nappies and their accessories, once per child.",
+        "deadline": "Apply at the latest three months after the child's birth.",
+        "amount": "50% of the cost, up to €75 per child (one-off)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of purchase of the cotton nappies and accessories"
+          }
+        ],
+        "steps": [
+          "Buy cotton nappies and the accessories that go with them and keep the proof of purchase",
+          "Apply with the online form 'Toelage voor de aankoop van ecoluiers' (formulieren.izegem.be) within three months of the birth",
+          "The city pays the allowance after checking the proof of purchase"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor het gebruik van ecoluiers (Izegem)",
+        "desc": "Izegem betaalt eenmalig de helft terug van wat je uitgeeft aan katoenen luiers en bijhorende benodigdheden, per kind.",
+        "deadline": "Aanvragen uiterlijk drie maanden na de geboorte van het kind.",
+        "amount": "50% van de kostprijs, maximaal €75 per kind (eenmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Aankoopbewijs van de katoenen luiers en benodigdheden"
+          }
+        ],
+        "steps": [
+          "Koop katoenen luiers en bijhorende benodigdheden en bewaar het aankoopbewijs",
+          "Vraag de toelage aan met het online formulier 'Toelage voor de aankoop van ecoluiers' (formulieren.izegem.be), binnen drie maanden na de geboorte",
+          "De stad betaalt de toelage na controle van het aankoopbewijs"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor het gebruik van ecoluiers (prime langes lavables, Izegem)",
+        "desc": "Izegem rembourse une fois par enfant la moitié de vos achats de langes en coton (lavables) et de leurs accessoires.",
+        "deadline": "Demande au plus tard trois mois après la naissance de l'enfant.",
+        "amount": "50 % du coût, maximum 75 € par enfant (une seule fois)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve d'achat des langes en coton et des accessoires"
+          }
+        ],
+        "steps": [
+          "Achetez des langes en coton et les accessoires et gardez la preuve d'achat",
+          "Introduisez la demande via le formulaire en ligne « Toelage voor de aankoop van ecoluiers » (formulieren.izegem.be) dans les trois mois de la naissance",
+          "La ville verse la prime après vérification de la preuve d'achat"
+        ]
+      },
+      "de": {
+        "title": "Premie voor het gebruik van ecoluiers (Prämie für waschbare Windeln, Izegem)",
+        "desc": "Izegem erstattet einmal pro Kind die Hälfte Ihrer Ausgaben für Baumwollwindeln (waschbar) und Zubehör.",
+        "deadline": "Antrag spätestens drei Monate nach der Geburt des Kindes.",
+        "amount": "50 % der Kosten, höchstens 75 € pro Kind (einmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Kaufbeleg der Baumwollwindeln und des Zubehörs"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie Baumwollwindeln und Zubehör und bewahren Sie den Kaufbeleg auf",
+          "Stellen Sie den Antrag mit dem Online-Formular „Toelage voor de aankoop van ecoluiers“ (formulieren.izegem.be) innerhalb von drei Monaten nach der Geburt",
+          "Die Stadt zahlt die Prämie nach Prüfung des Kaufbelegs"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Nov 2026",
+      "source_url": [
+        "https://www.izegem.be/premies",
+        "https://izegem.be/sites/izegem/files/2020-08/toelagereglement_voor_ecoluiers.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The child is domiciled in Izegem.",
+          "The nappies are cotton nappies (with their accessories), shown by a proof of purchase.",
+          "Once per child; the written application reaches the College at the latest three months after the birth."
+        ],
+        "nl": [
+          "Het kind is gedomicilieerd in Izegem.",
+          "Het gaat om katoenen luiers (en bijhorende benodigdheden), aangetoond met een aankoopbewijs.",
+          "Eenmalig per kind; de schriftelijke aanvraag bereikt het college uiterlijk drie maanden na de geboorte."
+        ],
+        "fr": [
+          "L'enfant est domicilié à Izegem.",
+          "Il s'agit de langes en coton (et accessoires), prouvés par une preuve d'achat.",
+          "Une seule fois par enfant ; la demande écrite parvient au Collège au plus tard trois mois après la naissance."
+        ],
+        "de": [
+          "Das Kind hat seinen Wohnsitz in Izegem.",
+          "Es handelt sich um Baumwollwindeln (mit Zubehör), nachgewiesen durch einen Kaufbeleg.",
+          "Einmal pro Kind; der schriftliche Antrag geht spätestens drei Monate nach der Geburt beim Kollegium ein."
+        ]
+      }
+    }
+  },
+  {
+    "id": 577,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "31012"
+    ],
+    "institution": "Gemeente Jabbeke",
+    "verified": "26 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.jabbeke.be/form/361/mantel-thuiszorg",
+    "content": {
+      "en": {
+        "title": "Toelage mantel- en thuiszorg (Home Care Allowance, Jabbeke)",
+        "desc": "Jabbeke adds a monthly amount on top of the Flemish care insurance (zorgbudget) for residents with a modest income who are cared for at home.",
+        "deadline": "No closing date on the page; it is paid per calendar year, in proportion to the Flemish care insurance received.",
+        "amount": "€15 per month on top of the Flemish care insurance premium",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof that you receive the Flemish care insurance premium"
+          },
+          {
+            "type": "doc",
+            "label": "The latest personal income tax assessment of every household member at your address"
+          }
+        ],
+        "steps": [
+          "Fill in the application form on the Jabbeke page 'Mantel- en thuiszorg'",
+          "Add proof that you receive the Flemish care insurance premium and the latest tax assessments of everyone at your address",
+          "The municipality pays the allowance per calendar year"
+        ]
+      },
+      "nl": {
+        "title": "Toelage mantel- en thuiszorg (Jabbeke)",
+        "desc": "Jabbeke geeft een maandelijks bedrag bovenop de Vlaamse zorgverzekering aan inwoners met een bescheiden inkomen die thuis verzorgd worden.",
+        "deadline": "Geen uiterste datum op de pagina; uitbetaling per kalenderjaar en pro rata van de ontvangen Vlaamse zorgverzekering.",
+        "amount": "€15 per maand bovenop de premie van de Vlaamse zorgverzekering",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs dat je de premie van de Vlaamse zorgverzekering ontvangt"
+          },
+          {
+            "type": "doc",
+            "label": "Het meest recente aanslagbiljet personenbelasting van alle gezinsleden op hetzelfde domicilieadres"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier in op de pagina 'Mantel- en thuiszorg' van Jabbeke",
+          "Voeg het bewijs toe dat je de premie van de Vlaamse zorgverzekering ontvangt en het meest recente aanslagbiljet van alle gezinsleden op je adres",
+          "De gemeente betaalt de toelage per kalenderjaar uit"
+        ]
+      },
+      "fr": {
+        "title": "Toelage mantel- en thuiszorg (allocation soins à domicile, Jabbeke)",
+        "desc": "Jabbeke ajoute un montant mensuel à l'assurance soins flamande (zorgbudget) pour les habitants à revenus modestes soignés à domicile.",
+        "deadline": "Pas de date limite sur la page ; paiement par année civile, au prorata de l'assurance soins flamande perçue.",
+        "amount": "15 € par mois en plus de la prime de l'assurance soins flamande",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve que vous percevez la prime de l'assurance soins flamande"
+          },
+          {
+            "type": "doc",
+            "label": "Le dernier avertissement-extrait de rôle de l'impôt des personnes physiques de chaque membre du ménage à la même adresse"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire de demande sur la page « Mantel- en thuiszorg » de Jabbeke",
+          "Joignez la preuve que vous percevez la prime de l'assurance soins flamande et le dernier avertissement-extrait de rôle de tous les membres du ménage à votre adresse",
+          "La commune verse l'allocation par année civile"
+        ]
+      },
+      "de": {
+        "title": "Toelage mantel- en thuiszorg (Zulage für häusliche Pflege, Jabbeke)",
+        "desc": "Jabbeke zahlt Einwohnern mit geringem Einkommen, die zu Hause gepflegt werden, einen monatlichen Betrag zusätzlich zur flämischen Pflegeversicherung (zorgbudget).",
+        "deadline": "Keine Frist auf der Seite; Zahlung pro Kalenderjahr, anteilig zur erhaltenen flämischen Pflegeversicherung.",
+        "amount": "15 € pro Monat zusätzlich zur Prämie der flämischen Pflegeversicherung",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis, dass Sie die Prämie der flämischen Pflegeversicherung erhalten"
+          },
+          {
+            "type": "doc",
+            "label": "Der letzte Einkommensteuerbescheid aller Haushaltsmitglieder an derselben Wohnsitzadresse"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular auf der Seite „Mantel- en thuiszorg“ von Jabbeke aus",
+          "Fügen Sie den Nachweis über die Prämie der flämischen Pflegeversicherung und den letzten Steuerbescheid aller Haushaltsmitglieder an Ihrer Adresse bei",
+          "Die Gemeinde zahlt die Zulage pro Kalenderjahr aus"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Nov 2026",
+      "source_url": [
+        "https://www.jabbeke.be/form/361/mantel-thuiszorg"
+      ],
+      "conditions": {
+        "en": [
+          "You are domiciled in Jabbeke and are cared for wholly or partly at home.",
+          "You receive a premium under the Flemish care insurance (Vlaamse zorgverzekering).",
+          "You meet the income conditions for increased reimbursement in health insurance: at most €29,236.66 a year, plus €5,412.51 per extra household member, counting the income of everyone at the same domicile address.",
+          "Any change in income or household can lead to a review."
+        ],
+        "nl": [
+          "Je bent gedomicilieerd in Jabbeke en wordt geheel of gedeeltelijk thuis verzorgd.",
+          "Je ontvangt een premie in het kader van de Vlaamse zorgverzekering.",
+          "Je voldoet aan de inkomensvoorwaarden voor verhoogde tegemoetkoming in de ziekteverzekering: maximaal €29.236,66 per jaar, verhoogd met €5.412,51 per extra gezinslid, met de inkomsten van alle gezinsleden op hetzelfde domicilieadres.",
+          "Elke wijziging in inkomen of gezinssamenstelling kan aanleiding geven tot een herziening."
+        ],
+        "fr": [
+          "Vous êtes domicilié à Jabbeke et êtes soigné entièrement ou partiellement à domicile.",
+          "Vous percevez une prime dans le cadre de l'assurance soins flamande (Vlaamse zorgverzekering).",
+          "Vous remplissez les conditions de revenus de l'intervention majorée de l'assurance maladie : au maximum 29.236,66 € par an, plus 5.412,51 € par membre du ménage supplémentaire, en comptant les revenus de toutes les personnes à la même adresse de domicile.",
+          "Tout changement de revenus ou de composition du ménage peut entraîner une révision."
+        ],
+        "de": [
+          "Sie haben Ihren Wohnsitz in Jabbeke und werden ganz oder teilweise zu Hause gepflegt.",
+          "Sie erhalten eine Prämie der flämischen Pflegeversicherung (Vlaamse zorgverzekering).",
+          "Sie erfüllen die Einkommensbedingungen der erhöhten Kostenerstattung der Krankenversicherung: höchstens 29.236,66 € pro Jahr, plus 5.412,51 € pro weiterem Haushaltsmitglied, gerechnet mit den Einkünften aller Personen an derselben Wohnsitzadresse.",
+          "Jede Änderung des Einkommens oder der Haushaltszusammensetzung kann zu einer Überprüfung führen."
+        ]
+      }
+    }
+  },
+  {
+    "id": 578,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11022"
+    ],
+    "institution": "Gemeente Kalmthout",
+    "verified": "26 Nov 2026",
+    "status": "verified",
+    "source_url": "https://kalmthout.be/onderwijs-welzijn-en-zorg/zorg-aan-huis/huisvuiltoelage-en-zorgtoelage",
+    "amount_source_url": "https://kalmthout.be/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY3MTMsInB1ciI6ImJsb2JfaWQifX0=--e9aa137ab629ef10cd26cd03f4143178c9f17308/2026_Aanvraag%20zorgpremie%2021+.pdf?disposition=attachment",
+    "content": {
+      "en": {
+        "title": "Zorgtoelage 21+ (Care Allowance for Adults, Kalmthout)",
+        "desc": "Kalmthout gives a yearly allowance to residents over 21 who need care, live at home and have a limited income.",
+        "deadline": "Hand in the form before 1 October (for 2026: before 1 October 2026).",
+        "amount": "€250 per year, paid within 60 days of a complete application",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The signed application form Zorgtoelage 21+"
+          },
+          {
+            "type": "doc",
+            "label": "One certificate of care need: BelRAI (12/30 on the screener, 4.5/12 on ADL and IADL together, or 3/6 or 4/6 on cognition), an FOD medical-social scale certificate of at least 9 points, a zorgbudget voor ouderen met een zorgnood certificate, or a bank statement showing the zorgbudget voor zwaar zorgbehoevenden"
+          }
+        ],
+        "steps": [
+          "Fill in and sign the 2026 application form Zorgtoelage 21+ yourself (the person needing care)",
+          "Add one certificate of your care need",
+          "Bring the form before 1 October to the lokaal dienstencentrum De Groten Uitleg, Kerkeneind 20, 2920 Kalmthout (03 376 44 30)"
+        ]
+      },
+      "nl": {
+        "title": "Zorgtoelage 21+ (Kalmthout)",
+        "desc": "Kalmthout geeft een jaarlijkse toelage aan zorgbehoevende inwoners ouder dan 21 die thuis wonen en een beperkt inkomen hebben.",
+        "deadline": "Formulier indienen vóór 1 oktober (voor 2026: vóór 1 oktober 2026).",
+        "amount": "€250 per jaar, uitbetaald binnen 60 dagen na een volledige aanvraag",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ondertekende aanvraagformulier Zorgtoelage 21+"
+          },
+          {
+            "type": "doc",
+            "label": "Eén attest van zorgbehoevendheid: BelRAI (12/30 op de hele screener, 4,5/12 op ADL en IADL samen, of 3/6 of 4/6 op cognitie), een attest medisch-sociale schaal van de FOD van minstens 9 punten, een attest zorgbudget voor ouderen met een zorgnood, of een bankafschrift van het zorgbudget voor zwaar zorgbehoevenden"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier Zorgtoelage 21+ van 2026 zelf in en onderteken het (als zorgbehoevende)",
+          "Voeg één attest van je zorgbehoevendheid toe",
+          "Bezorg het formulier vóór 1 oktober aan het lokaal dienstencentrum De Groten Uitleg, Kerkeneind 20, 2920 Kalmthout (03 376 44 30)"
+        ]
+      },
+      "fr": {
+        "title": "Zorgtoelage 21+ (allocation de soins pour adultes, Kalmthout)",
+        "desc": "Kalmthout accorde une allocation annuelle aux habitants de plus de 21 ans qui ont besoin de soins, vivent à domicile et ont un revenu limité.",
+        "deadline": "Remettez le formulaire avant le 1er octobre (pour 2026 : avant le 1er octobre 2026).",
+        "amount": "250 € par an, versés dans les 60 jours d'une demande complète",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande Zorgtoelage 21+ signé"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du besoin de soins : BelRAI (12/30 au screener, 4,5/12 en ADL et IADL ensemble, ou 3/6 ou 4/6 en cognition), une attestation de l'échelle médico-sociale du SPF d'au moins 9 points, une attestation zorgbudget voor ouderen met een zorgnood, ou un extrait bancaire du zorgbudget voor zwaar zorgbehoevenden"
+          }
+        ],
+        "steps": [
+          "Complétez et signez vous-même le formulaire de demande Zorgtoelage 21+ 2026 (la personne qui a besoin de soins)",
+          "Joignez une attestation de votre besoin de soins",
+          "Remettez le formulaire avant le 1er octobre au lokaal dienstencentrum De Groten Uitleg, Kerkeneind 20, 2920 Kalmthout (03 376 44 30)"
+        ]
+      },
+      "de": {
+        "title": "Zorgtoelage 21+ (Pflegezulage für Erwachsene, Kalmthout)",
+        "desc": "Kalmthout zahlt pflegebedürftigen Einwohnern über 21, die zu Hause leben und ein begrenztes Einkommen haben, eine jährliche Zulage.",
+        "deadline": "Formular vor dem 1. Oktober einreichen (für 2026: vor dem 1. Oktober 2026).",
+        "amount": "250 € pro Jahr, gezahlt innerhalb von 60 Tagen nach einem vollständigen Antrag",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das unterschriebene Antragsformular Zorgtoelage 21+"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung des Pflegebedarfs: BelRAI (12/30 im Screener, 4,5/12 in ADL und IADL zusammen oder 3/6 bzw. 4/6 bei Kognition), eine Bescheinigung der medizinisch-sozialen Skala des FÖD mit mindestens 9 Punkten, eine Bescheinigung zorgbudget voor ouderen met een zorgnood oder ein Kontoauszug über das zorgbudget voor zwaar zorgbehoevenden"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular Zorgtoelage 21+ 2026 selbst aus und unterschreiben Sie es (als pflegebedürftige Person)",
+          "Fügen Sie eine Bescheinigung Ihres Pflegebedarfs bei",
+          "Reichen Sie das Formular vor dem 1. Oktober beim lokaal dienstencentrum De Groten Uitleg, Kerkeneind 20, 2920 Kalmthout (03 376 44 30) ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Nov 2026",
+      "source_url": [
+        "https://kalmthout.be/onderwijs-welzijn-en-zorg/zorg-aan-huis/huisvuiltoelage-en-zorgtoelage",
+        "https://kalmthout.be/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjY3MTMsInB1ciI6ImJsb2JfaWQifX0=--e9aa137ab629ef10cd26cd03f4143178c9f17308/2026_Aanvraag%20zorgpremie%2021+.pdf?disposition=attachment"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Kalmthout, are older than 21 and need care, shown by one of the listed certificates.",
+          "You live independently at home: people staying in a residential facility (e.g. a woonzorgcentrum) do not qualify.",
+          "Taxable income at most €27,598.22 for a single person or €36,797.60 for married or cohabiting people, plus 20% for the first dependant and 10% for each further one; non-indexed cadastral income at most €1,750.",
+          "The application is handed in before 1 October."
+        ],
+        "nl": [
+          "Je bent inwoner van Kalmthout, ouder dan 21 jaar en zorgbehoevend, aangetoond met een van de vermelde attesten.",
+          "Je woont zelfstandig thuis: wie in een residentiële voorziening (bv. woonzorgcentrum) verblijft, komt niet in aanmerking.",
+          "Belastbaar inkomen maximaal €27.598,22 voor alleenstaanden of €36.797,60 voor gehuwden of samenwonenden, verhoogd met 20% voor de eerste persoon ten laste en 10% per volgende; niet-geïndexeerd kadastraal inkomen maximaal €1.750.",
+          "De aanvraag gebeurt vóór 1 oktober."
+        ],
+        "fr": [
+          "Vous habitez Kalmthout, avez plus de 21 ans et avez besoin de soins, prouvé par l'une des attestations citées.",
+          "Vous vivez de manière autonome à domicile : les personnes en institution résidentielle (p. ex. maison de repos) n'y ont pas droit.",
+          "Revenu imposable de 27.598,22 € maximum pour un isolé ou 36.797,60 € pour des personnes mariées ou cohabitantes, majoré de 20 % pour la première personne à charge et de 10 % par personne suivante ; revenu cadastral non indexé de 1.750 € maximum.",
+          "La demande est introduite avant le 1er octobre."
+        ],
+        "de": [
+          "Sie wohnen in Kalmthout, sind älter als 21 und pflegebedürftig, nachgewiesen durch eine der genannten Bescheinigungen.",
+          "Sie leben selbstständig zu Hause: Personen in einer stationären Einrichtung (z. B. Wohnpflegezentrum) haben keinen Anspruch.",
+          "Steuerpflichtiges Einkommen höchstens 27.598,22 € für Alleinstehende oder 36.797,60 € für Verheiratete oder Zusammenwohnende, erhöht um 20 % für die erste unterhaltsberechtigte Person und 10 % für jede weitere; nicht indexiertes Katastereinkommen höchstens 1.750 €.",
+          "Der Antrag wird vor dem 1. Oktober eingereicht."
+        ]
+      }
+    }
+  },
+  {
+    "id": 579,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11022"
+    ],
+    "institution": "OCMW Kalmthout",
+    "verified": "26 Nov 2026",
+    "status": "verified",
+    "source_url": "https://kalmthout.be/onderwijs-welzijn-en-zorg/zorg-aan-huis/huisvuiltoelage-en-zorgtoelage",
+    "amount_source_url": "https://kalmthout.be/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--8979f44f24a80b0ce5bd2f9b016f5c3ffc321aa9/Reglement_sociale_correctie_Diftar.pdf?disposition=attachment",
+    "content": {
+      "en": {
+        "title": "Huisvuiltoelage om medische redenen (Waste Allowance for Medical Reasons, Kalmthout)",
+        "desc": "Kalmthout gives a yearly refund towards the weight-based waste charge to residents who use incontinence or stoma material.",
+        "deadline": "Hand in the form at the latest on 1 October of the current year.",
+        "amount": "€50 per person per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, filled in and signed by your treating doctor and by you"
+          }
+        ],
+        "steps": [
+          "Have your treating doctor fill in and sign the application form, and sign it yourself",
+          "Give the form to the home-care services (thuisdiensten) at lokaal dienstencentrum De Groten Uitleg before 1 October",
+          "The OCMW pays the amount yearly to your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Huisvuiltoelage om medische redenen (Kalmthout)",
+        "desc": "Kalmthout geeft een jaarlijkse tegemoetkoming in de Diftar-afvalkosten aan inwoners die incontinentie- of stomamateriaal gebruiken.",
+        "deadline": "Formulier indienen uiterlijk op 1 oktober van het lopende jaar.",
+        "amount": "€50 per persoon per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, ingevuld en ondertekend door je behandelende arts en door jezelf"
+          }
+        ],
+        "steps": [
+          "Laat je behandelende arts het aanvraagformulier invullen en ondertekenen, en onderteken het zelf",
+          "Bezorg het formulier vóór 1 oktober aan de thuisdiensten in lokaal dienstencentrum De Groten Uitleg",
+          "Het OCMW stort het bedrag jaarlijks op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Huisvuiltoelage om medische redenen (allocation déchets pour raisons médicales, Kalmthout)",
+        "desc": "Kalmthout accorde chaque année une intervention dans la taxe déchets au poids (Diftar) aux habitants qui utilisent du matériel d'incontinence ou de stomie.",
+        "deadline": "Remettez le formulaire au plus tard le 1er octobre de l'année en cours.",
+        "amount": "50 € par personne et par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, complété et signé par votre médecin traitant et par vous"
+          }
+        ],
+        "steps": [
+          "Faites compléter et signer le formulaire par votre médecin traitant, et signez-le vous-même",
+          "Remettez le formulaire avant le 1er octobre aux services à domicile (thuisdiensten) du lokaal dienstencentrum De Groten Uitleg",
+          "Le CPAS verse le montant chaque année sur votre compte"
+        ]
+      },
+      "de": {
+        "title": "Huisvuiltoelage om medische redenen (Müllzulage aus medizinischen Gründen, Kalmthout)",
+        "desc": "Kalmthout zahlt Einwohnern, die Inkontinenz- oder Stomamaterial verwenden, jährlich einen Zuschuss zur gewichtsabhängigen Müllgebühr (Diftar).",
+        "deadline": "Formular spätestens am 1. Oktober des laufenden Jahres einreichen.",
+        "amount": "50 € pro Person und Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, ausgefüllt und unterschrieben von Ihrem behandelnden Arzt und von Ihnen"
+          }
+        ],
+        "steps": [
+          "Lassen Sie das Antragsformular von Ihrem behandelnden Arzt ausfüllen und unterschreiben, und unterschreiben Sie es selbst",
+          "Geben Sie das Formular vor dem 1. Oktober bei den Hausdiensten (thuisdiensten) im lokaal dienstencentrum De Groten Uitleg ab",
+          "Das ÖSHZ überweist den Betrag jährlich auf Ihr Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Nov 2026",
+      "source_url": [
+        "https://kalmthout.be/onderwijs-welzijn-en-zorg/zorg-aan-huis/huisvuiltoelage-en-zorgtoelage",
+        "https://kalmthout.be/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--8979f44f24a80b0ce5bd2f9b016f5c3ffc321aa9/Reglement_sociale_correctie_Diftar.pdf?disposition=attachment"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Kalmthout, are domiciled there and usually stay there; your residual waste is collected in the municipal container collection.",
+          "You use incontinence material because of chronic incontinence or stoma material because of a permanent stoma, confirmed by your treating doctor.",
+          "People staying in a residential facility (woonzorgcentrum, residential facility for people with a disability) are excluded; people in an assistentiewoning (service flat) qualify.",
+          "The form reaches the OCMW home-care service at the latest on 1 October of the current year."
+        ],
+        "nl": [
+          "Je bent inwoner van Kalmthout, er gedomicilieerd en verblijft er gewoonlijk; je restafval wordt opgehaald via de gemeentelijke containerophaling.",
+          "Je gebruikt incontinentiemateriaal door chronische incontinentie of stomamateriaal door een permanente stoma, bevestigd door je behandelende arts.",
+          "Wie in een residentiële voorziening verblijft (woonzorgcentrum, residentiële voorziening voor personen met een handicap) is uitgesloten; wie in een assistentiewoning (serviceflat) woont, komt wel in aanmerking.",
+          "Het formulier is uiterlijk op 1 oktober van het lopende jaar ingediend bij de dienst gezinszorg en aanvullende thuiszorg van het OCMW."
+        ],
+        "fr": [
+          "Vous habitez Kalmthout, y êtes domicilié et y résidez habituellement ; vos déchets résiduels sont collectés par la collecte communale en conteneurs.",
+          "Vous utilisez du matériel d'incontinence en raison d'une incontinence chronique ou du matériel de stomie en raison d'une stomie permanente, confirmé par votre médecin traitant.",
+          "Les personnes en institution résidentielle (maison de repos, institution pour personnes handicapées) sont exclues ; celles qui vivent dans une résidence-services (assistentiewoning) y ont droit.",
+          "Le formulaire parvient au service d'aide aux familles et de soins à domicile du CPAS au plus tard le 1er octobre de l'année en cours."
+        ],
+        "de": [
+          "Sie wohnen in Kalmthout, haben dort Ihren Wohnsitz und halten sich gewöhnlich dort auf; Ihr Restmüll wird über die kommunale Containerabfuhr abgeholt.",
+          "Sie verwenden Inkontinenzmaterial wegen chronischer Inkontinenz oder Stomamaterial wegen eines dauerhaften Stomas, bestätigt durch Ihren behandelnden Arzt.",
+          "Personen in einer stationären Einrichtung (Wohnpflegezentrum, Einrichtung für Menschen mit Behinderung) sind ausgeschlossen; Personen in einer Assistenzwohnung (assistentiewoning) haben Anspruch.",
+          "Das Formular geht spätestens am 1. Oktober des laufenden Jahres beim Familien- und Hauspflegedienst des ÖSHZ ein."
+        ]
+      }
+    }
+  },
+  {
+    "id": 580,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23038"
+    ],
+    "institution": "Gemeente Kampenhout",
+    "verified": "26 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kampenhout.be/mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Kampenhout)",
+        "desc": "Kampenhout pays a monthly premium to adult residents who give long-term unpaid care to a resident who needs care.",
+        "deadline": "Apply each year with a new form before 1 January of the year concerned; a first application counts from the month after you apply.",
+        "amount": "€35 per month, paid twice a year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of the care need of the person you care for (see the conditions)"
+          }
+        ],
+        "steps": [
+          "Print the application form or ask for it at Welzijn (016 314 310, Dorpsstraat 9)",
+          "Hand it in with the proof of the care need of the person you care for",
+          "The premium starts the month after the application and is paid twice a year; renew it every year before 1 January"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Kampenhout)",
+        "desc": "Kampenhout betaalt een maandelijkse premie aan meerderjarige inwoners die langdurig en onbetaald zorgen voor een zorgbehoevende inwoner.",
+        "deadline": "Elk jaar een nieuw formulier indienen vóór 1 januari van het te betoelagen jaar; een eerste aanvraag loopt vanaf de maand na de aanvraag.",
+        "amount": "€35 per maand, twee keer per jaar uitbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs van de zorgbehoevendheid van de persoon voor wie je zorgt (zie de voorwaarden)"
+          }
+        ],
+        "steps": [
+          "Druk het aanvraagformulier af of vraag het aan bij Welzijn (016 314 310, Dorpsstraat 9)",
+          "Dien het in met het bewijs van de zorgbehoevendheid van de persoon voor wie je zorgt",
+          "De premie gaat in op de maand na de aanvraag en wordt twee keer per jaar uitbetaald; vraag ze elk jaar opnieuw aan vóór 1 januari"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aidant proche, Kampenhout)",
+        "desc": "Kampenhout verse une prime mensuelle aux habitants majeurs qui apportent des soins de longue durée non rémunérés à un habitant dépendant.",
+        "deadline": "Introduisez chaque année un nouveau formulaire avant le 1er janvier de l'année concernée ; une première demande compte à partir du mois suivant.",
+        "amount": "35 € par mois, versés deux fois par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Preuve du besoin de soins de la personne aidée (voir les conditions)"
+          }
+        ],
+        "steps": [
+          "Imprimez le formulaire de demande ou demandez-le au service Welzijn (016 314 310, Dorpsstraat 9)",
+          "Remettez-le avec la preuve du besoin de soins de la personne que vous aidez",
+          "La prime commence le mois suivant la demande et est versée deux fois par an ; renouvelez-la chaque année avant le 1er janvier"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Kampenhout)",
+        "desc": "Kampenhout zahlt volljährigen Einwohnern, die langfristig und unbezahlt einen pflegebedürftigen Einwohner pflegen, eine monatliche Prämie.",
+        "deadline": "Jedes Jahr vor dem 1. Januar des betreffenden Jahres ein neues Formular einreichen; ein erster Antrag gilt ab dem Folgemonat.",
+        "amount": "35 € pro Monat, zweimal jährlich gezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis des Pflegebedarfs der gepflegten Person (siehe Bedingungen)"
+          }
+        ],
+        "steps": [
+          "Drucken Sie das Antragsformular aus oder fordern Sie es bei Welzijn an (016 314 310, Dorpsstraat 9)",
+          "Reichen Sie es mit dem Nachweis des Pflegebedarfs der gepflegten Person ein",
+          "Die Prämie beginnt im Monat nach dem Antrag und wird zweimal jährlich gezahlt; beantragen Sie sie jedes Jahr vor dem 1. Januar neu"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Nov 2026",
+      "source_url": [
+        "https://www.kampenhout.be/mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The carer is an adult resident of Kampenhout who gives long-term, unpaid extra care.",
+          "The person cared for lives in Kampenhout and has a zorgbudget voor zwaar zorgbehoevenden or voor mensen met een handicap, or at least 12 points on the FOD self-reliance scale.",
+          "Alternatively: under 21 with a Groeipakket care supplement for specific support needs; over 65 with a zorgbudget voor ouderen met een zorgnood; or dementia with an MMSE of 18 or less, or Katz category D (or a diagnostic dementia assessment).",
+          "The premium is granted per calendar year; a new form is needed every year before 1 January."
+        ],
+        "nl": [
+          "De mantelzorger is een meerderjarige inwoner van Kampenhout die langdurig en onbetaald extra zorg verleent.",
+          "De zorgbehoevende is inwoner van Kampenhout en heeft een erkenning voor een zorgbudget voor zwaar zorgbehoevenden of voor mensen met een handicap, of minstens 12 punten op de zelfredzaamheidsschaal van de FOD.",
+          "Of: jonger dan 21 met een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte (Groeipakket); ouder dan 65 met een zorgbudget voor ouderen met een zorgnood; of dementie met een MMSE-score van 18 of minder, of Katzschaal categorie D (of diagnostisch bilan dementie).",
+          "De premie wordt per kalenderjaar toegekend; elk jaar is een nieuw formulier nodig vóór 1 januari."
+        ],
+        "fr": [
+          "L'aidant est un habitant majeur de Kampenhout qui apporte des soins supplémentaires de longue durée non rémunérés.",
+          "La personne aidée habite Kampenhout et a une reconnaissance pour un zorgbudget voor zwaar zorgbehoevenden ou voor mensen met een handicap, ou au moins 12 points sur l'échelle d'autonomie du SPF.",
+          "Ou : moins de 21 ans avec un supplément de soins du Groeipakket pour besoin de soutien spécifique ; plus de 65 ans avec un zorgbudget voor ouderen met een zorgnood ; ou démence avec un score MMSE de 18 ou moins, ou catégorie D sur l'échelle de Katz (ou bilan diagnostique de démence).",
+          "La prime est accordée par année civile ; un nouveau formulaire est nécessaire chaque année avant le 1er janvier."
+        ],
+        "de": [
+          "Die pflegende Person ist ein volljähriger Einwohner von Kampenhout, der langfristig und unbezahlt zusätzliche Pflege leistet.",
+          "Die gepflegte Person wohnt in Kampenhout und hat eine Anerkennung für ein zorgbudget voor zwaar zorgbehoevenden oder voor mensen met een handicap oder mindestens 12 Punkte auf der Selbstständigkeitsskala des FÖD.",
+          "Oder: unter 21 mit einem Pflegezuschlag des Groeipakket für besonderen Unterstützungsbedarf; über 65 mit einem zorgbudget voor ouderen met een zorgnood; oder Demenz mit einem MMSE-Wert von 18 oder weniger bzw. Katz-Kategorie D (oder diagnostischer Demenzbefund).",
+          "Die Prämie wird pro Kalenderjahr gewährt; jedes Jahr ist vor dem 1. Januar ein neues Formular nötig."
+        ]
+      }
+    }
+  },
+  {
+    "id": 581,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "23039"
+    ],
+    "institution": "Gemeente Kapelle-op-den-Bos",
+    "verified": "26 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kapelle-op-den-bos.be/premie-voor-personen-met-een-beperking",
+    "amount_source_url": "https://kapelle-op-den-bos-echo.cipalschaubroeck.be/raadpleegomgeving/zittingen/3208f306-f169-4293-8e55-6e9be8f2e8d7/agendapunten/3b0f1224-7b38-4d90-ad02-5c923b7787f7",
+    "content": {
+      "en": {
+        "title": "Premie voor personen met een beperking (Disability Premium, Kapelle-op-den-Bos)",
+        "desc": "Kapelle-op-den-Bos gives residents with a recognised disability a yearly premium as a Kapellebon (local gift voucher).",
+        "deadline": "Apply between 1 January and 31 December of the year; collect the voucher within two months of the decision.",
+        "amount": "€200 per year, as a Kapellebon",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed, dated and signed application form"
+          },
+          {
+            "type": "doc",
+            "label": "Your certificate: FOD Social Security (at least 9 points reduced self-reliance) or, under 21, the Groeipakket care supplement for specific support needs"
+          },
+          {
+            "type": "id",
+            "label": "Your identity document when you collect the Kapellebon"
+          }
+        ],
+        "steps": [
+          "Apply with the online form (eID or itsme) or on paper at the Sociaal Huis, Evert Larockstraat 22 (015 71 92 10), with your certificate",
+          "The vast bureau decides each quarter",
+          "Collect the first Kapellebon in person at the Sociaal Huis with your ID (later ones can be sent digitally); after that it continues as long as your certificate is valid"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor personen met een beperking (Kapelle-op-den-Bos)",
+        "desc": "Kapelle-op-den-Bos geeft inwoners met een erkende beperking een jaarlijkse premie in de vorm van een Kapellebon.",
+        "deadline": "Aanvragen tussen 1 januari en 31 december van het jaar; de bon afhalen binnen twee maanden na de beslissing.",
+        "amount": "€200 per jaar, als Kapellebon",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het volledig ingevulde, gedagtekende en ondertekende aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Je attest: FOD Sociale Zekerheid (minstens 9 punten vermindering van zelfredzaamheid) of, onder 21 jaar, de zorgtoeslag voor specifieke ondersteuningsbehoefte van het Groeipakket"
+          },
+          {
+            "type": "id",
+            "label": "Je identiteitsdocument bij het afhalen van de Kapellebon"
+          }
+        ],
+        "steps": [
+          "Vraag aan via het digitaal loket (eID of itsme) of op papier in het Sociaal Huis, Evert Larockstraat 22 (015 71 92 10), met je attest",
+          "Het vast bureau beslist per kwartaal",
+          "Haal de eerste Kapellebon persoonlijk af in het Sociaal Huis met je identiteitsdocument (latere bonnen kunnen digitaal); daarna loopt de premie door zolang je attest geldig is"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor personen met een beperking (prime pour personnes handicapées, Kapelle-op-den-Bos)",
+        "desc": "Kapelle-op-den-Bos accorde aux habitants ayant un handicap reconnu une prime annuelle sous forme de Kapellebon (chèque commerce local).",
+        "deadline": "Demande entre le 1er janvier et le 31 décembre de l'année ; retirez le chèque dans les deux mois de la décision.",
+        "amount": "200 € par an, en Kapellebon",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété, daté et signé"
+          },
+          {
+            "type": "doc",
+            "label": "Votre attestation : SPF Sécurité sociale (au moins 9 points de réduction d'autonomie) ou, avant 21 ans, le supplément de soins pour besoin de soutien spécifique du Groeipakket"
+          },
+          {
+            "type": "id",
+            "label": "Votre pièce d'identité au retrait du Kapellebon"
+          }
+        ],
+        "steps": [
+          "Introduisez la demande via le guichet en ligne (eID ou itsme) ou sur papier au Sociaal Huis, Evert Larockstraat 22 (015 71 92 10), avec votre attestation",
+          "Le vast bureau décide chaque trimestre",
+          "Retirez le premier Kapellebon en personne au Sociaal Huis avec votre pièce d'identité (les suivants peuvent être envoyés par voie numérique) ; la prime continue ensuite tant que votre attestation est valable"
+        ]
+      },
+      "de": {
+        "title": "Premie voor personen met een beperking (Prämie für Menschen mit Behinderung, Kapelle-op-den-Bos)",
+        "desc": "Kapelle-op-den-Bos zahlt Einwohnern mit anerkannter Behinderung eine jährliche Prämie als Kapellebon (lokaler Geschenkgutschein).",
+        "deadline": "Antrag zwischen dem 1. Januar und dem 31. Dezember des Jahres; Gutschein innerhalb von zwei Monaten nach der Entscheidung abholen.",
+        "amount": "200 € pro Jahr, als Kapellebon",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das vollständig ausgefüllte, datierte und unterschriebene Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ihre Bescheinigung: FÖD Soziale Sicherheit (mindestens 9 Punkte verminderte Selbstständigkeit) oder, unter 21, der Pflegezuschlag für besonderen Unterstützungsbedarf des Groeipakket"
+          },
+          {
+            "type": "id",
+            "label": "Ihr Ausweis bei der Abholung des Kapellebon"
+          }
+        ],
+        "steps": [
+          "Stellen Sie den Antrag online (eID oder itsme) oder auf Papier im Sociaal Huis, Evert Larockstraat 22 (015 71 92 10), mit Ihrer Bescheinigung",
+          "Das vast bureau entscheidet vierteljährlich",
+          "Holen Sie den ersten Kapellebon persönlich mit Ausweis im Sociaal Huis ab (spätere können digital zugestellt werden); danach läuft die Prämie weiter, solange Ihre Bescheinigung gültig ist"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Nov 2026",
+      "source_url": [
+        "https://www.kapelle-op-den-bos.be/premie-voor-personen-met-een-beperking",
+        "https://kapelle-op-den-bos-echo.cipalschaubroeck.be/raadpleegomgeving/zittingen/3208f306-f169-4293-8e55-6e9be8f2e8d7/agendapunten/3b0f1224-7b38-4d90-ad02-5c923b7787f7"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Kapelle-op-den-Bos when you apply.",
+          "Aged over 21 and under 65: an FOD Social Security certificate showing at least 9 points of reduced self-reliance.",
+          "Under 21: a care supplement for specific support needs (zorgtoeslag specifieke ondersteuningsbehoefte) from the Groeipakket.",
+          "The premium is granted within the approved budget; it lapses if the Kapellebon is not collected within two months of the decision."
+        ],
+        "nl": [
+          "Je bent inwoner van Kapelle-op-den-Bos bij de aanvraag.",
+          "Ouder dan 21 en jonger dan 65: een attest van de FOD Sociale Zekerheid met minstens 9 punten vermindering van zelfredzaamheid.",
+          "Jonger dan 21: een zorgtoeslag voor specifieke ondersteuningsbehoefte via het Groeipakket.",
+          "De premie wordt toegekend binnen de goedgekeurde budgetten; ze vervalt als de Kapellebon niet binnen twee maanden na de beslissing wordt afgehaald."
+        ],
+        "fr": [
+          "Vous habitez Kapelle-op-den-Bos au moment de la demande.",
+          "Entre 21 et 65 ans : une attestation du SPF Sécurité sociale indiquant au moins 9 points de réduction d'autonomie.",
+          "Moins de 21 ans : un supplément de soins pour besoin de soutien spécifique du Groeipakket.",
+          "La prime est accordée dans les limites du budget approuvé ; elle est perdue si le Kapellebon n'est pas retiré dans les deux mois de la décision."
+        ],
+        "de": [
+          "Sie wohnen bei der Antragstellung in Kapelle-op-den-Bos.",
+          "Älter als 21 und jünger als 65: eine Bescheinigung des FÖD Soziale Sicherheit mit mindestens 9 Punkten verminderter Selbstständigkeit.",
+          "Unter 21: ein Pflegezuschlag für besonderen Unterstützungsbedarf (zorgtoeslag specifieke ondersteuningsbehoefte) des Groeipakket.",
+          "Die Prämie wird im Rahmen des genehmigten Budgets gewährt; sie verfällt, wenn der Kapellebon nicht innerhalb von zwei Monaten nach der Entscheidung abgeholt wird."
+        ]
+      }
+    }
+  },
+  {
+    "id": 582,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "61024"
+    ],
+    "institution": "Commune de Hamoir",
+    "verified": "26 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hamoir.be/fr/ma-commune/vos-services-communaux/urbanisme/environnement-1/gestion-des-dechets/collecte-et-tri",
+    "amount_source_url": "https://www.hamoir.be/fr/ma-commune/vos-services-communaux/urbanisme/environnement-1/gestion-des-dechets/collecte-et-tri/primes-aux-langes-lavables-1/formulaire.docx",
+    "content": {
+      "en": {
+        "title": "Prime communale pour l'achat de langes lavables (Washable Nappies Premium, Hamoir)",
+        "desc": "Hamoir refunds half of what you spend on washable nappies, once per child.",
+        "deadline": "Apply before the child turns two; invoices may not be dated more than three months before the birth.",
+        "amount": "50% of the invoices, up to €125 per child (one-off)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "The déclaration de créance (claim form)"
+          },
+          {
+            "type": "doc",
+            "label": "A copy of the purchase invoice in your name (till receipts and sworn statements are not accepted)"
+          }
+        ],
+        "steps": [
+          "Buy washable nappies, protective pants or cloth inserts and ask for an invoice in your name",
+          "Fill in the application form and the déclaration de créance from the Hamoir 'Collecte et tri' page",
+          "Send both with a copy of the invoice to the Administration communale, Rue de Tohogne 14, 4180 Hamoir (086 21 99 33)"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale pour l'achat de langes lavables (premie wasbare luiers, Hamoir)",
+        "desc": "Hamoir betaalt eenmalig per kind de helft terug van wat je uitgeeft aan wasbare luiers.",
+        "deadline": "Aanvragen voor het kind twee jaar wordt; facturen mogen niet meer dan drie maanden vóór de geboorte gedateerd zijn.",
+        "amount": "50% van de facturen, maximaal €125 per kind (eenmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De déclaration de créance (schuldvorderingsformulier)"
+          },
+          {
+            "type": "doc",
+            "label": "Een kopie van de aankoopfactuur op jouw naam (kasticketten en verklaringen op eer worden niet aanvaard)"
+          }
+        ],
+        "steps": [
+          "Koop wasbare luiers, overbroekjes of stoffen inlegdoekjes en vraag een factuur op jouw naam",
+          "Vul het aanvraagformulier en de déclaration de créance in van de pagina 'Collecte et tri' van Hamoir",
+          "Stuur beide met een kopie van de factuur naar de Administration communale, Rue de Tohogne 14, 4180 Hamoir (086 21 99 33)"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale pour l'achat de langes lavables (Hamoir)",
+        "desc": "Hamoir rembourse une fois par enfant la moitié de vos achats de langes lavables.",
+        "deadline": "Demande avant les deux ans de l'enfant ; les factures ne peuvent pas être antérieures de plus de 3 mois à la naissance.",
+        "amount": "50 % des factures, plafonné à 125 € par enfant (une seule fois)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "La déclaration de créance"
+          },
+          {
+            "type": "doc",
+            "label": "Une copie de la facture d'achat à votre nom (les tickets de caisse et déclarations sur l'honneur ne sont pas acceptés)"
+          }
+        ],
+        "steps": [
+          "Achetez des langes lavables, culottes de protection ou inserts en tissu et demandez une facture à votre nom",
+          "Complétez le formulaire et la déclaration de créance de la page « Collecte et tri » de Hamoir",
+          "Envoyez-les avec une copie de la facture à l'Administration communale, Rue de Tohogne 14, 4180 Hamoir (086 21 99 33)"
+        ]
+      },
+      "de": {
+        "title": "Prime communale pour l'achat de langes lavables (Prämie für waschbare Windeln, Hamoir)",
+        "desc": "Hamoir erstattet einmal pro Kind die Hälfte Ihrer Ausgaben für waschbare Windeln.",
+        "deadline": "Antrag vor dem zweiten Geburtstag des Kindes; Rechnungen dürfen höchstens drei Monate vor der Geburt datiert sein.",
+        "amount": "50 % der Rechnungen, höchstens 125 € pro Kind (einmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die déclaration de créance (Forderungserklärung)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Kopie der Kaufrechnung auf Ihren Namen (Kassenbons und ehrenwörtliche Erklärungen werden nicht angenommen)"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie waschbare Windeln, Überhosen oder Stoffeinlagen und verlangen Sie eine Rechnung auf Ihren Namen",
+          "Füllen Sie das Antragsformular und die déclaration de créance von der Seite „Collecte et tri“ von Hamoir aus",
+          "Senden Sie beides mit einer Rechnungskopie an die Administration communale, Rue de Tohogne 14, 4180 Hamoir (086 21 99 33)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "26 Nov 2026",
+      "source_url": [
+        "https://www.hamoir.be/fr/ma-commune/vos-services-communaux/urbanisme/environnement-1/gestion-des-dechets/collecte-et-tri",
+        "https://www.hamoir.be/fr/ma-commune/vos-services-communaux/urbanisme/environnement-1/gestion-des-dechets/collecte-et-tri/primes-aux-langes-lavables-1/formulaire.docx"
+      ],
+      "conditions": {
+        "en": [
+          "The applicant is the father, mother, legal guardian or a person authorised by an administrative or court decision for the child.",
+          "One premium per child, requested before the child is two years old.",
+          "Only washable nappies, protective pants and cloth inserts count, not accessories; invoices are in the applicant's name and not dated more than three months before the birth."
+        ],
+        "nl": [
+          "De aanvrager is de vader, moeder, wettelijke voogd of een persoon die door een administratieve of gerechtelijke beslissing gemachtigd is voor het kind.",
+          "Eén premie per kind, aangevraagd voor het kind twee jaar is.",
+          "Alleen wasbare luiers, overbroekjes en stoffen inlegdoekjes tellen, geen accessoires; facturen staan op naam van de aanvrager en zijn niet meer dan drie maanden vóór de geboorte gedateerd."
+        ],
+        "fr": [
+          "Le demandeur est le père, la mère, le tuteur légal ou une personne habilitée par une décision administrative ou judiciaire pour l'enfant.",
+          "Une seule prime par enfant, demandée avant ses deux ans.",
+          "Seuls les langes lavables, culottes de protection et inserts en tissu comptent, pas les accessoires ; les factures sont au nom du demandeur et pas antérieures de plus de 3 mois à la naissance."
+        ],
+        "de": [
+          "Antragsteller ist der Vater, die Mutter, der Vormund oder eine durch behördliche oder gerichtliche Entscheidung befugte Person für das Kind.",
+          "Eine Prämie pro Kind, beantragt vor dem zweiten Geburtstag.",
+          "Nur waschbare Windeln, Überhosen und Stoffeinlagen zählen, kein Zubehör; die Rechnungen lauten auf den Antragsteller und sind höchstens drei Monate vor der Geburt datiert."
+        ]
+      }
+    }
   }
 ]
