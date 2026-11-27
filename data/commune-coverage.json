@@ -2200,49 +2200,86 @@
       "ids": [
         581
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "25118",
-      "name": "Hélécine"
+      "name": "Hélécine",
+      "checked": "27 Nov 2026",
+      "ids": []
     },
     {
       "nis": "11023",
-      "name": "Kapellen"
+      "name": "Kapellen",
+      "checked": "27 Nov 2026",
+      "ids": [
+        583,
+        584
+      ]
     },
     {
       "nis": "53039",
-      "name": "Hensies"
+      "name": "Hensies",
+      "checked": "27 Nov 2026",
+      "ids": []
     },
     {
       "nis": "43007",
-      "name": "Kaprijke"
+      "name": "Kaprijke",
+      "checked": "27 Nov 2026",
+      "ids": [
+        585
+      ]
     },
     {
       "nis": "84029",
-      "name": "Herbeumont"
+      "name": "Herbeumont",
+      "checked": "27 Nov 2026",
+      "ids": []
     },
     {
       "nis": "13017",
-      "name": "Kasterlee"
+      "name": "Kasterlee",
+      "checked": "27 Nov 2026",
+      "ids": [
+        586
+      ]
     },
     {
       "nis": "61028",
-      "name": "Héron"
+      "name": "Héron",
+      "checked": "27 Nov 2026",
+      "ids": [
+        590
+      ]
     },
     {
       "nis": "24048",
-      "name": "Keerbergen"
+      "name": "Keerbergen",
+      "checked": "27 Nov 2026",
+      "ids": [
+        587,
+        588
+      ]
     },
     {
       "nis": "72018",
-      "name": "Kinrooi"
+      "name": "Kinrooi",
+      "checked": "27 Nov 2026",
+      "ids": [
+        589
+      ]
     },
     {
       "nis": "63035",
-      "name": "Herve"
-    },
+      "name": "Herve",
+      "checked": "27 Nov 2026",
+      "ids": [
+        591,
+        592
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "45060",
       "name": "Kluisbergen"

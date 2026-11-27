@@ -73167,5 +73167,1464 @@
         ]
       }
     }
+  },
+  {
+    "id": 583,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11023"
+    ],
+    "institution": "Gemeente Kapellen",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kapellen.be/sociaal-medische-toelage",
+    "content": {
+      "en": {
+        "title": "Sociaal-medische toelage (Social-Medical Allowance, Kapellen)",
+        "desc": "Kapellen pays a yearly allowance to residents with a disability and older people who need help from others and do not live in an institution.",
+        "deadline": "Apply via the e-loket before 31 October of the year.",
+        "amount": "€250 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "FOD Social Security certificate showing at least 9 points of reduced self-reliance, valid when you apply"
+          },
+          {
+            "type": "doc",
+            "label": "A recent health-fund certificate showing the increased reimbursement (verhoogde tegemoetkoming)"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition certificate (samenstelling van het gezin) from the commune"
+          }
+        ],
+        "steps": [
+          "Apply online via the Kapellen e-loket before 31 October and attach the documents (Welzijn desk: 03 670 29 00, Bruggeske 1)",
+          "The college of mayor and aldermen checks whether you meet the conditions",
+          "If approved, the allowance is paid before the end of the year"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-medische toelage (Kapellen)",
+        "desc": "Kapellen geeft een jaarlijkse toelage aan inwoners met een beperking en ouderen die hulp van derden nodig hebben en niet in een instelling verblijven.",
+        "deadline": "Aanvragen via het e-loket vóór 31 oktober van het jaar.",
+        "amount": "€250 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de FOD Sociale Zekerheid met minstens 9 punten vermindering van zelfredzaamheid, geldig bij de aanvraag"
+          },
+          {
+            "type": "doc",
+            "label": "Een recent attest van het ziekenfonds over de verhoogde tegemoetkoming"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest 'samenstelling van het gezin' van het gemeentebestuur"
+          }
+        ],
+        "steps": [
+          "Vraag online aan via het e-loket van Kapellen vóór 31 oktober en voeg de documenten toe (balie Welzijn: 03 670 29 00, Bruggeske 1)",
+          "Het college van burgemeester en schepenen beslist of je aan de voorwaarden voldoet",
+          "Na goedkeuring ontvang je de toelage vóór het einde van het jaar"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-medische toelage (allocation socio-médicale, Kapellen)",
+        "desc": "Kapellen verse une allocation annuelle aux habitants handicapés et aux personnes âgées qui ont besoin de l'aide de tiers et ne vivent pas en institution.",
+        "deadline": "Demande via l'e-loket avant le 31 octobre de l'année.",
+        "amount": "250 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du SPF Sécurité sociale indiquant au moins 9 points de réduction d'autonomie, valable au moment de la demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation récente de la mutualité prouvant l'intervention majorée (verhoogde tegemoetkoming)"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage (samenstelling van het gezin) délivrée par la commune"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne via l'e-loket de Kapellen avant le 31 octobre en joignant les documents (guichet Welzijn : 03 670 29 00, Bruggeske 1)",
+          "Le collège des bourgmestre et échevins vérifie si vous remplissez les conditions",
+          "Si la demande est acceptée, l'allocation est versée avant la fin de l'année"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-medische toelage (sozialmedizinische Zulage, Kapellen)",
+        "desc": "Kapellen zahlt Einwohnern mit Behinderung und älteren Menschen, die Hilfe Dritter brauchen und nicht in einer Einrichtung leben, eine jährliche Zulage.",
+        "deadline": "Antrag über das E-Loket vor dem 31. Oktober des Jahres.",
+        "amount": "250 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD Soziale Sicherheit mit mindestens 9 Punkten verminderter Selbstständigkeit, gültig bei Antragstellung"
+          },
+          {
+            "type": "doc",
+            "label": "Eine aktuelle Bescheinigung der Krankenkasse über die erhöhte Kostenerstattung (verhoogde tegemoetkoming)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung (samenstelling van het gezin) der Gemeinde"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online über das E-Loket von Kapellen vor dem 31. Oktober und fügen Sie die Unterlagen bei (Schalter Welzijn: 03 670 29 00, Bruggeske 1)",
+          "Das Kollegium aus Bürgermeister und Schöffen prüft, ob Sie die Bedingungen erfüllen",
+          "Nach Genehmigung wird die Zulage vor Jahresende ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://www.kapellen.be/sociaal-medische-toelage"
+      ],
+      "conditions": {
+        "en": [
+          "On 1 September of the year you apply, you have lived in Kapellen for at least one year.",
+          "You do not live in an institution and you need help from others.",
+          "You are at least 66% disabled: an FOD Social Security certificate, valid when you apply, showing at least 9 points of reduced self-reliance.",
+          "You are entitled to the increased reimbursement (verhoogde tegemoetkoming) in the year you apply."
+        ],
+        "nl": [
+          "Je woont op 1 september van het jaar van de aanvraag minstens één jaar in Kapellen.",
+          "Je verblijft niet in een instelling en hebt hulp van derden nodig.",
+          "Je bent minstens 66% gehandicapt: een attest van de FOD Sociale Zekerheid, geldig bij de aanvraag, met een vermindering van de zelfredzaamheid met 9 punten.",
+          "Je bent in het jaar van de aanvraag gerechtigd op de verhoogde tegemoetkoming."
+        ],
+        "fr": [
+          "Au 1er septembre de l'année de la demande, vous habitez Kapellen depuis au moins un an.",
+          "Vous ne vivez pas en institution et avez besoin de l'aide de tiers.",
+          "Vous êtes handicapé(e) à au moins 66 % : une attestation du SPF Sécurité sociale, valable au moment de la demande, indiquant 9 points de réduction d'autonomie.",
+          "Vous avez droit à l'intervention majorée (verhoogde tegemoetkoming) l'année de la demande."
+        ],
+        "de": [
+          "Am 1. September des Antragsjahres wohnen Sie seit mindestens einem Jahr in Kapellen.",
+          "Sie leben nicht in einer Einrichtung und brauchen Hilfe Dritter.",
+          "Sie sind zu mindestens 66 % behindert: eine bei Antragstellung gültige Bescheinigung des FÖD Soziale Sicherheit mit 9 Punkten verminderter Selbstständigkeit.",
+          "Sie haben im Antragsjahr Anspruch auf die erhöhte Kostenerstattung (verhoogde tegemoetkoming)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 584,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11023"
+    ],
+    "institution": "Gemeente Kapellen",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kapellen.be/sociaal-pedagogische-toelage",
+    "content": {
+      "en": {
+        "title": "Sociaal-pedagogische toelage (Allowance for Parents of a Disabled Child, Kapellen)",
+        "desc": "Kapellen pays a yearly allowance to residents who care for and raise a child with a disability at home.",
+        "deadline": "Apply via the e-loket before 31 October of the year.",
+        "amount": "€250 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "FOD Social Security certificate for the child showing at least 4 points in pillar 1, valid when you apply"
+          },
+          {
+            "type": "doc",
+            "label": "A recent health-fund certificate showing the increased reimbursement (verhoogde tegemoetkoming)"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition certificate (samenstelling van het gezin) from the commune"
+          }
+        ],
+        "steps": [
+          "Apply online via the Kapellen e-loket before 31 October and attach the documents (Welzijn desk: 03 670 29 00, Bruggeske 1)",
+          "The college of mayor and aldermen checks whether you meet the conditions",
+          "If approved, the allowance is paid before the end of the year"
+        ]
+      },
+      "nl": {
+        "title": "Sociaal-pedagogische toelage (Kapellen)",
+        "desc": "Kapellen geeft een jaarlijkse toelage aan inwoners die thuis een kind met een beperking verzorgen en opvoeden.",
+        "deadline": "Aanvragen via het e-loket vóór 31 oktober van het jaar.",
+        "amount": "€250 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attest van de FOD Sociale Zekerheid voor het kind met minstens 4 punten in pijler 1, geldig bij de aanvraag"
+          },
+          {
+            "type": "doc",
+            "label": "Een recent attest van het ziekenfonds over de verhoogde tegemoetkoming"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest 'samenstelling van het gezin' van het gemeentebestuur"
+          }
+        ],
+        "steps": [
+          "Vraag online aan via het e-loket van Kapellen vóór 31 oktober en voeg de documenten toe (balie Welzijn: 03 670 29 00, Bruggeske 1)",
+          "Het college van burgemeester en schepenen beslist of je aan de voorwaarden voldoet",
+          "Na goedkeuring ontvang je de toelage vóór het einde van het jaar"
+        ]
+      },
+      "fr": {
+        "title": "Sociaal-pedagogische toelage (allocation pour parents d'un enfant handicapé, Kapellen)",
+        "desc": "Kapellen verse une allocation annuelle aux habitants qui soignent et éduquent à domicile un enfant handicapé.",
+        "deadline": "Demande via l'e-loket avant le 31 octobre de l'année.",
+        "amount": "250 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Attestation du SPF Sécurité sociale pour l'enfant indiquant au moins 4 points au pilier 1, valable au moment de la demande"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation récente de la mutualité prouvant l'intervention majorée (verhoogde tegemoetkoming)"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage (samenstelling van het gezin) délivrée par la commune"
+          }
+        ],
+        "steps": [
+          "Faites la demande en ligne via l'e-loket de Kapellen avant le 31 octobre en joignant les documents (guichet Welzijn : 03 670 29 00, Bruggeske 1)",
+          "Le collège des bourgmestre et échevins vérifie si vous remplissez les conditions",
+          "Si la demande est acceptée, l'allocation est versée avant la fin de l'année"
+        ]
+      },
+      "de": {
+        "title": "Sociaal-pedagogische toelage (Zulage für Eltern eines Kindes mit Behinderung, Kapellen)",
+        "desc": "Kapellen zahlt Einwohnern, die zu Hause ein Kind mit Behinderung pflegen und erziehen, eine jährliche Zulage.",
+        "deadline": "Antrag über das E-Loket vor dem 31. Oktober des Jahres.",
+        "amount": "250 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bescheinigung des FÖD Soziale Sicherheit für das Kind mit mindestens 4 Punkten in Säule 1, gültig bei Antragstellung"
+          },
+          {
+            "type": "doc",
+            "label": "Eine aktuelle Bescheinigung der Krankenkasse über die erhöhte Kostenerstattung (verhoogde tegemoetkoming)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung (samenstelling van het gezin) der Gemeinde"
+          }
+        ],
+        "steps": [
+          "Beantragen Sie online über das E-Loket von Kapellen vor dem 31. Oktober und fügen Sie die Unterlagen bei (Schalter Welzijn: 03 670 29 00, Bruggeske 1)",
+          "Das Kollegium aus Bürgermeister und Schöffen prüft, ob Sie die Bedingungen erfüllen",
+          "Nach Genehmigung wird die Zulage vor Jahresende ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://www.kapellen.be/sociaal-pedagogische-toelage"
+      ],
+      "conditions": {
+        "en": [
+          "You care for and raise a child with a disability at home, and on 1 September of the year you apply you have lived in Kapellen for at least one year.",
+          "On 1 September of that year the child is not older than 21.",
+          "The child is at least 66% disabled: an FOD Social Security certificate, valid when you apply, showing at least 4 points in pillar 1 (medical criteria).",
+          "You are entitled to the increased reimbursement (verhoogde tegemoetkoming) in the year you apply."
+        ],
+        "nl": [
+          "Je verzorgt en voedt thuis een kind met een beperking op en woont op 1 september van het jaar van de aanvraag minstens één jaar in Kapellen.",
+          "Het kind is op 1 september van dat jaar niet ouder dan 21 jaar.",
+          "Het kind is minstens 66% gehandicapt: een attest van de FOD Sociale Zekerheid, geldig bij de aanvraag, met minstens 4 punten in pijler 1 (medische criteria).",
+          "Je bent in het jaar van de aanvraag gerechtigd op de verhoogde tegemoetkoming."
+        ],
+        "fr": [
+          "Vous soignez et éduquez à domicile un enfant handicapé et, au 1er septembre de l'année de la demande, vous habitez Kapellen depuis au moins un an.",
+          "Au 1er septembre de cette année, l'enfant n'a pas plus de 21 ans.",
+          "L'enfant est handicapé à au moins 66 % : une attestation du SPF Sécurité sociale, valable au moment de la demande, indiquant au moins 4 points au pilier 1 (critères médicaux).",
+          "Vous avez droit à l'intervention majorée (verhoogde tegemoetkoming) l'année de la demande."
+        ],
+        "de": [
+          "Sie pflegen und erziehen zu Hause ein Kind mit Behinderung und wohnen am 1. September des Antragsjahres seit mindestens einem Jahr in Kapellen.",
+          "Das Kind ist am 1. September dieses Jahres nicht älter als 21.",
+          "Das Kind ist zu mindestens 66 % behindert: eine bei Antragstellung gültige Bescheinigung des FÖD Soziale Sicherheit mit mindestens 4 Punkten in Säule 1 (medizinische Kriterien).",
+          "Sie haben im Antragsjahr Anspruch auf die erhöhte Kostenerstattung (verhoogde tegemoetkoming)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 585,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "43007"
+    ],
+    "institution": "OCMW Kaprijke",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kaprijke.be/premie-handicap",
+    "amount_source_url": "https://www.kaprijke.be/file/download/13755/BDAB6623610FD850DEBEF46DCE1DC93F",
+    "content": {
+      "en": {
+        "title": "Medisch-sociale toelage (Disability Allowance, Kaprijke)",
+        "desc": "The OCMW of Kaprijke pays a yearly allowance to adults with a recognised disability and to parents raising a child with a disability.",
+        "deadline": "Apply at any time of the year; the allowance is paid every January for the previous full year.",
+        "amount": "€75 per year",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Your identity card"
+          },
+          {
+            "type": "doc",
+            "label": "Your bank account number"
+          },
+          {
+            "type": "doc",
+            "label": "Proof of increased child benefit for the child, or a valid FOD Social Security certificate showing at least 9 points of reduced self-reliance"
+          }
+        ],
+        "steps": [
+          "Contact the OCMW social service (sociale.dienst@kaprijke.be, 09 323 90 52, Veld 1) to apply",
+          "Bring your identity card, bank account number and certificate",
+          "The allowance is paid each January and continues as long as your certificate is valid; the OCMW asks for a new one when it expires"
+        ]
+      },
+      "nl": {
+        "title": "Medisch-sociale toelage voor personen met een handicap (Kaprijke)",
+        "desc": "Het OCMW van Kaprijke geeft een jaarlijkse toelage aan volwassenen met een erkende handicap en aan ouders die een kind met een handicap opvoeden.",
+        "deadline": "Het hele jaar door aanvragen; de toelage wordt elk jaar in januari betaald voor het voorbije volledige jaar.",
+        "amount": "€75 per jaar",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Je identiteitskaart"
+          },
+          {
+            "type": "doc",
+            "label": "Je rekeningnummer"
+          },
+          {
+            "type": "doc",
+            "label": "Een bewijs van verhoogde kinderbijslag voor het kind, of een geldig attest van de FOD Sociale Zekerheid met minstens 9 punten vermindering van zelfredzaamheid"
+          }
+        ],
+        "steps": [
+          "Neem contact op met de Sociale Dienst van het OCMW (sociale.dienst@kaprijke.be, 09 323 90 52, Veld 1) om aan te vragen",
+          "Breng je identiteitskaart, rekeningnummer en attest mee",
+          "De toelage wordt elk jaar in januari betaald en loopt door zolang je attest geldig is; het OCMW vraagt een nieuw attest als het verloopt"
+        ]
+      },
+      "fr": {
+        "title": "Medisch-sociale toelage (allocation pour personnes handicapées, Kaprijke)",
+        "desc": "Le CPAS (OCMW) de Kaprijke verse une allocation annuelle aux adultes ayant un handicap reconnu et aux parents qui élèvent un enfant handicapé.",
+        "deadline": "Demande possible toute l'année ; l'allocation est versée chaque année en janvier pour l'année complète écoulée.",
+        "amount": "75 € par an",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Votre carte d'identité"
+          },
+          {
+            "type": "doc",
+            "label": "Votre numéro de compte bancaire"
+          },
+          {
+            "type": "doc",
+            "label": "Une preuve d'allocations familiales majorées pour l'enfant, ou une attestation valable du SPF Sécurité sociale indiquant au moins 9 points de réduction d'autonomie"
+          }
+        ],
+        "steps": [
+          "Contactez le service social du CPAS (sociale.dienst@kaprijke.be, 09 323 90 52, Veld 1) pour introduire la demande",
+          "Apportez votre carte d'identité, votre numéro de compte et l'attestation",
+          "L'allocation est versée chaque année en janvier tant que l'attestation est valable ; le CPAS demande une nouvelle attestation à son expiration"
+        ]
+      },
+      "de": {
+        "title": "Medisch-sociale toelage (Zulage für Menschen mit Behinderung, Kaprijke)",
+        "desc": "Das ÖSHZ (OCMW) Kaprijke zahlt Erwachsenen mit anerkannter Behinderung und Eltern eines Kindes mit Behinderung eine jährliche Zulage.",
+        "deadline": "Antrag das ganze Jahr über möglich; die Zulage wird jedes Jahr im Januar für das abgelaufene volle Jahr gezahlt.",
+        "amount": "75 € pro Jahr",
+        "requirements": [
+          {
+            "type": "id",
+            "label": "Ihr Personalausweis"
+          },
+          {
+            "type": "doc",
+            "label": "Ihre Kontonummer"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Nachweis über erhöhtes Kindergeld für das Kind oder eine gültige Bescheinigung des FÖD Soziale Sicherheit mit mindestens 9 Punkten verminderter Selbstständigkeit"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich für den Antrag an den Sozialdienst des ÖSHZ (sociale.dienst@kaprijke.be, 09 323 90 52, Veld 1)",
+          "Bringen Sie Personalausweis, Kontonummer und Bescheinigung mit",
+          "Die Zulage wird jedes Jahr im Januar gezahlt, solange die Bescheinigung gültig ist; das ÖSHZ fordert bei Ablauf eine neue an"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://www.kaprijke.be/premie-handicap",
+        "https://www.kaprijke.be/file/download/13755/BDAB6623610FD850DEBEF46DCE1DC93F"
+      ],
+      "conditions": {
+        "en": [
+          "The applicant and the person entitled are domiciled in Kaprijke without interruption from 1 January of the year before the payment.",
+          "Adults: from age 18, an FOD Social Security certificate showing at least 9 points of reduced self-reliance; the person does not live in a home or institution.",
+          "Parents: you care for and raise a child with a disability up to age 21 with at least 6 points on the 3 pillars, or at least 4 points in pillar 1 (children born from 2 January 1996).",
+          "The allowance is granted within the OCMW's budget."
+        ],
+        "nl": [
+          "De aanvrager en de rechtgevende zijn vanaf 1 januari van het jaar dat de uitbetaling voorafgaat zonder onderbreking in Kaprijke gedomicilieerd.",
+          "Volwassenen: vanaf 18 jaar een attest van de FOD Sociale Zekerheid met minstens 9 punten vermindering van zelfredzaamheid; de persoon verblijft niet in een tehuis of inrichting.",
+          "Ouders: je verzorgt en voedt een kind met een handicap op tot 21 jaar met minstens 6 punten op de 3 pijlers, of minstens 4 punten op de eerste pijler (kinderen geboren vanaf 2 januari 1996).",
+          "De toelage wordt verleend binnen het voorziene budget van het OCMW."
+        ],
+        "fr": [
+          "Le demandeur et l'ayant droit sont domiciliés à Kaprijke sans interruption depuis le 1er janvier de l'année qui précède le paiement.",
+          "Adultes : à partir de 18 ans, une attestation du SPF Sécurité sociale indiquant au moins 9 points de réduction d'autonomie ; la personne ne vit pas en home ou en institution.",
+          "Parents : vous soignez et éduquez un enfant handicapé jusqu'à 21 ans ayant au moins 6 points sur les 3 piliers, ou au moins 4 points au premier pilier (enfants nés à partir du 2 janvier 1996).",
+          "L'allocation est accordée dans les limites du budget du CPAS."
+        ],
+        "de": [
+          "Antragsteller und Berechtigter sind seit dem 1. Januar des Jahres vor der Zahlung ununterbrochen in Kaprijke gemeldet.",
+          "Erwachsene: ab 18 Jahren eine Bescheinigung des FÖD Soziale Sicherheit mit mindestens 9 Punkten verminderter Selbstständigkeit; die Person lebt nicht in einem Heim oder einer Einrichtung.",
+          "Eltern: Sie pflegen und erziehen ein Kind mit Behinderung bis 21 Jahre mit mindestens 6 Punkten auf den 3 Säulen oder mindestens 4 Punkten in Säule 1 (Kinder geboren ab dem 2. Januar 1996).",
+          "Die Zulage wird im Rahmen des Budgets des ÖSHZ gewährt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 586,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "13017"
+    ],
+    "institution": "Gemeente Kasterlee",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kasterlee.be/incontinentie-toelage-diftar",
+    "amount_source_url": "https://www.kasterlee.be/file/download/c0f1e8eb-1bcb-4093-8892-887fd0ddeaf9/4ob6T8eJ0dXS8GLTuLYEcEenK5fAO5R836ukggFwA3d.pdf",
+    "content": {
+      "en": {
+        "title": "Diftar - medische redenen (Medical Waste Allowance, Kasterlee)",
+        "desc": "Kasterlee adds a yearly allowance to the household's Diftar waste account for people who have more residual waste for medical reasons, such as incontinence.",
+        "deadline": "Hand in the certificate once, within one month of its date.",
+        "amount": "€35.02 per year (2026 indexed amount), added to the Diftar balance",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The certificate (attest) completed by your doctor or health fund, or the VAPH decision to pay for incontinence material"
+          }
+        ],
+        "steps": [
+          "Download the certificate template from the Kasterlee page and have your doctor or health fund complete it",
+          "Hand it in within one month at the reception of the Sociaal Huis or the town hall (dienst welzijn: 014 55 83 22)",
+          "The allowance is added each year to the Diftar balance of the head of household"
+        ]
+      },
+      "nl": {
+        "title": "Diftar - medische redenen (Kasterlee)",
+        "desc": "Kasterlee zet een jaarlijkse toelage op het DIFTAR-saldo van het gezin voor wie om medische redenen, zoals incontinentie, meer restafval heeft.",
+        "deadline": "Het attest éénmalig indienen, binnen één maand na aflevering.",
+        "amount": "€35,02 per jaar (geïndexeerd bedrag 2026), op het DIFTAR-saldo",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het attest ingevuld door je arts of ziekenfonds, of de beslissing van het VAPH tot betaling van incontinentiemateriaal"
+          }
+        ],
+        "steps": [
+          "Download het voorbeeldattest op de pagina van Kasterlee en laat het invullen door je arts of ziekenfonds",
+          "Geef het binnen één maand af aan het onthaal van het Sociaal Huis of het gemeentehuis (dienst welzijn: 014 55 83 22)",
+          "De toelage wordt elk jaar op het DIFTAR-saldo van het gezinshoofd gezet"
+        ]
+      },
+      "fr": {
+        "title": "Diftar - medische redenen (allocation déchets pour raisons médicales, Kasterlee)",
+        "desc": "Kasterlee crédite chaque année le compte DIFTAR du ménage pour les personnes qui ont plus de déchets résiduels pour raisons médicales, comme l'incontinence.",
+        "deadline": "Remettez l'attestation une seule fois, dans le mois de sa délivrance.",
+        "amount": "35,02 € par an (montant indexé 2026), crédités sur le solde DIFTAR",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "L'attestation complétée par votre médecin ou votre mutualité, ou la décision de la VAPH de rembourser le matériel d'incontinence"
+          }
+        ],
+        "steps": [
+          "Téléchargez le modèle d'attestation sur la page de Kasterlee et faites-le compléter par votre médecin ou votre mutualité",
+          "Remettez-le dans le mois à l'accueil du Sociaal Huis ou de la maison communale (dienst welzijn : 014 55 83 22)",
+          "L'allocation est créditée chaque année sur le solde DIFTAR du chef de ménage"
+        ]
+      },
+      "de": {
+        "title": "Diftar - medische redenen (Abfallzulage aus medizinischen Gründen, Kasterlee)",
+        "desc": "Kasterlee schreibt dem DIFTAR-Abfallkonto des Haushalts jährlich eine Zulage gut, wenn eine Person aus medizinischen Gründen wie Inkontinenz mehr Restmüll hat.",
+        "deadline": "Bescheinigung einmalig innerhalb eines Monats nach Ausstellung einreichen.",
+        "amount": "35,02 € pro Jahr (indexierter Betrag 2026), dem DIFTAR-Saldo gutgeschrieben",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die von Ihrem Arzt oder Ihrer Krankenkasse ausgefüllte Bescheinigung oder die VAPH-Entscheidung zur Zahlung von Inkontinenzmaterial"
+          }
+        ],
+        "steps": [
+          "Laden Sie die Musterbescheinigung auf der Seite von Kasterlee herunter und lassen Sie sie von Arzt oder Krankenkasse ausfüllen",
+          "Geben Sie sie innerhalb eines Monats am Empfang des Sociaal Huis oder des Gemeindehauses ab (dienst welzijn: 014 55 83 22)",
+          "Die Zulage wird jedes Jahr dem DIFTAR-Saldo des Haushaltsvorstands gutgeschrieben"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://www.kasterlee.be/incontinentie-toelage-diftar",
+        "https://www.kasterlee.be/file/download/c0f1e8eb-1bcb-4093-8892-887fd0ddeaf9/4ob6T8eJ0dXS8GLTuLYEcEenK5fAO5R836ukggFwA3d.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The person entitled is registered in the population or foreigners' register (bevolkings- of vreemdelingenregister) of Kasterlee.",
+          "The person scores 3 or 4 for incontinence on the dependency scale of the Royal Decree of 2 June 1998 (certificate from the health fund or a doctor), or receives a VAPH allowance for incontinence material.",
+          "The certificate is handed in once, within one month of its date."
+        ],
+        "nl": [
+          "De begunstigde is ingeschreven in het bevolkings- of vreemdelingenregister van Kasterlee.",
+          "De persoon krijgt voor het criterium 'incontinentie' een score 3 of 4 volgens het afhankelijkheidsrooster van het KB van 2 juni 1998 (attest van ziekenfonds of arts), of ontvangt van het VAPH een tegemoetkoming voor incontinentiemateriaal.",
+          "Het attest wordt éénmalig ingediend, binnen één maand na aflevering."
+        ],
+        "fr": [
+          "Le bénéficiaire est inscrit au registre de la population ou des étrangers (bevolkings- of vreemdelingenregister) de Kasterlee.",
+          "La personne obtient un score de 3 ou 4 pour l'incontinence sur l'échelle de dépendance de l'AR du 2 juin 1998 (attestation de la mutualité ou d'un médecin), ou reçoit de la VAPH une intervention pour du matériel d'incontinence.",
+          "L'attestation est remise une seule fois, dans le mois de sa délivrance."
+        ],
+        "de": [
+          "Die berechtigte Person ist im Bevölkerungs- oder Fremdenregister (bevolkings- of vreemdelingenregister) von Kasterlee eingetragen.",
+          "Die Person erreicht beim Kriterium Inkontinenz 3 oder 4 Punkte auf der Abhängigkeitsskala des KE vom 2. Juni 1998 (Bescheinigung von Krankenkasse oder Arzt) oder erhält von der VAPH eine Beihilfe für Inkontinenzmaterial.",
+          "Die Bescheinigung wird einmalig innerhalb eines Monats nach Ausstellung eingereicht."
+        ]
+      }
+    }
+  },
+  {
+    "id": 587,
+    "category": "health",
+    "situations": [
+      "health-issue",
+      "low-income"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24048"
+    ],
+    "institution": "Gemeente Keerbergen",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.keerbergen.be/gemeentelijke-mantelzorgpremie",
+    "content": {
+      "en": {
+        "title": "Mantelzorgpremie (Carer Premium, Keerbergen)",
+        "desc": "Keerbergen pays a monthly premium to residents who give unpaid care to a person in need of care living at the same address. The commune says this premium stops in 2027.",
+        "deadline": "The premium stops in 2027, according to the commune.",
+        "amount": "€50 per month, paid every quarter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form, completed and signed by the carer and the person cared for"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition certificate showing you live at the same address"
+          },
+          {
+            "type": "doc",
+            "label": "Your tax assessment notice (aanslagbiljet)"
+          },
+          {
+            "type": "doc",
+            "label": "A care-need certificate: zorgbudget voor zwaar zorgbehoevenden, FOD certificate (at least 9 points or 66%), Groeipakket care supplement, or model 3/4 certificate"
+          }
+        ],
+        "steps": [
+          "Fill in and sign the application form together with the person you care for; the Zorgloket can help at home or by appointment (015 50 91 87, zorgloket@keerbergen.be)",
+          "The Zorgloket checks the application and the proofs and passes a complete file to the finance department for a decision",
+          "Once approved, the premium is paid to the carer every quarter"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgpremie (Keerbergen)",
+        "desc": "Keerbergen betaalt een maandelijkse premie aan inwoners die onbezoldigd zorgen voor een inwonende zorgbehoevende. De gemeente meldt dat deze premie in 2027 wordt stopgezet.",
+        "deadline": "De premie wordt stopgezet in 2027, aldus de gemeente.",
+        "amount": "€50 per maand, per kwartaal uitbetaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier, samen ingevuld en ondertekend door mantelzorger en zorgbehoevende"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van gezinssamenstelling waaruit blijkt dat jullie op hetzelfde adres wonen"
+          },
+          {
+            "type": "doc",
+            "label": "Je aanslagbiljet"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van zorgbehoefte: zorgbudget voor zwaar zorgbehoevenden, attest FOD (minstens 9 punten of 66%), zorgtoeslag van het Groeipakket of attest model 3/4"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier samen met de zorgbehoevende in en onderteken het; het Zorgloket kan helpen via een huisbezoek of afspraak (015 50 91 87, zorgloket@keerbergen.be)",
+          "Het Zorgloket kijkt de aanvraag en bewijzen na en geeft een volledige aanvraag door aan de dienst Financiën, die ze aan het bestuur voorlegt",
+          "Na goedkeuring wordt de premie per kwartaal aan de mantelzorger uitbetaald"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgpremie (prime aidant proche, Keerbergen)",
+        "desc": "Keerbergen verse une prime mensuelle aux habitants qui prennent soin, sans rémunération, d'une personne dépendante vivant à la même adresse. La commune annonce l'arrêt de cette prime en 2027.",
+        "deadline": "Selon la commune, la prime prend fin en 2027.",
+        "amount": "50 € par mois, versés chaque trimestre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande, complété et signé par l'aidant et la personne aidée"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage montrant que vous vivez à la même adresse"
+          },
+          {
+            "type": "doc",
+            "label": "Votre avertissement-extrait de rôle (aanslagbiljet)"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation du besoin de soins : zorgbudget voor zwaar zorgbehoevenden, attestation du SPF (au moins 9 points ou 66 %), supplément de soins du Groeipakket ou attestation modèle 3/4"
+          }
+        ],
+        "steps": [
+          "Complétez et signez le formulaire de demande avec la personne aidée ; le Zorgloket peut aider à domicile ou sur rendez-vous (015 50 91 87, zorgloket@keerbergen.be)",
+          "Le Zorgloket vérifie la demande et les preuves et transmet un dossier complet au service Finances, qui le soumet à l'administration",
+          "Après approbation, la prime est versée à l'aidant chaque trimestre"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgpremie (Prämie für pflegende Angehörige, Keerbergen)",
+        "desc": "Keerbergen zahlt Einwohnern, die unbezahlt eine pflegebedürftige Person an derselben Adresse pflegen, eine monatliche Prämie. Die Gemeinde gibt an, dass die Prämie 2027 eingestellt wird.",
+        "deadline": "Laut Gemeinde endet die Prämie 2027.",
+        "amount": "50 € pro Monat, vierteljährlich gezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular, gemeinsam von pflegender und gepflegter Person ausgefüllt und unterschrieben"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung, die zeigt, dass Sie an derselben Adresse wohnen"
+          },
+          {
+            "type": "doc",
+            "label": "Ihr Steuerbescheid (aanslagbiljet)"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Nachweis des Pflegebedarfs: zorgbudget voor zwaar zorgbehoevenden, FÖD-Bescheinigung (mindestens 9 Punkte oder 66 %), Pflegezuschlag des Groeipakket oder Bescheinigung Modell 3/4"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular gemeinsam mit der gepflegten Person aus und unterschreiben Sie es; das Zorgloket hilft bei einem Hausbesuch oder Termin (015 50 91 87, zorgloket@keerbergen.be)",
+          "Das Zorgloket prüft Antrag und Nachweise und leitet eine vollständige Akte an die Finanzabteilung zur Entscheidung weiter",
+          "Nach Genehmigung wird die Prämie vierteljährlich an die pflegende Person gezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://www.keerbergen.be/gemeentelijke-mantelzorgpremie"
+      ],
+      "conditions": {
+        "en": [
+          "The carer lives in Keerbergen and gives unpaid, voluntary care to a person in need of care who lives at the same address (household composition certificate).",
+          "The taxable income of the applicant and partner is not above €53,443.30 (indexed to the health index).",
+          "The person cared for has one of the listed care-need certificates (zorgbudget voor zwaar zorgbehoevenden, FOD at least 9 points or 66%, Groeipakket care supplement, or model 3/4).",
+          "The commune states that this premium stops in 2027."
+        ],
+        "nl": [
+          "De mantelzorger woont in Keerbergen en zorgt onbezoldigd en vrijwillig voor een zorgbehoevende die effectief op hetzelfde adres woont (attest van gezinssamenstelling).",
+          "Het belastbaar inkomen van de aanvrager en partner is niet hoger dan €53.443,30 (geïndexeerd volgens de gezondheidsindex).",
+          "De zorgbehoevende heeft een van de vereiste attesten van zorgbehoefte (zorgbudget voor zwaar zorgbehoevenden, FOD minimum 9 punten of 66%, zorgtoeslag Groeipakket, of model 3/4).",
+          "Volgens de gemeente wordt deze premie in 2027 stopgezet."
+        ],
+        "fr": [
+          "L'aidant habite Keerbergen et prend soin, sans rémunération et volontairement, d'une personne dépendante qui vit à la même adresse (composition de ménage).",
+          "Le revenu imposable du demandeur et de son partenaire ne dépasse pas 53.443,30 € (indexé selon l'indice santé).",
+          "La personne aidée dispose d'une des attestations de besoin de soins exigées (zorgbudget voor zwaar zorgbehoevenden, SPF au moins 9 points ou 66 %, supplément de soins du Groeipakket ou modèle 3/4).",
+          "Selon la commune, cette prime prend fin en 2027."
+        ],
+        "de": [
+          "Die pflegende Person wohnt in Keerbergen und pflegt unbezahlt und freiwillig eine pflegebedürftige Person an derselben Adresse (Haushaltszusammensetzung).",
+          "Das steuerpflichtige Einkommen von Antragsteller und Partner liegt nicht über 53.443,30 € (an den Gesundheitsindex gekoppelt).",
+          "Die gepflegte Person hat einen der verlangten Nachweise des Pflegebedarfs (zorgbudget voor zwaar zorgbehoevenden, FÖD mindestens 9 Punkte oder 66 %, Pflegezuschlag des Groeipakket oder Modell 3/4).",
+          "Laut Gemeinde wird diese Prämie 2027 eingestellt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 588,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "24048"
+    ],
+    "institution": "Gemeente Keerbergen",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.keerbergen.be/huisvuiltoelage-incontinentie-stoma",
+    "content": {
+      "en": {
+        "title": "Huisvuiltoelage voor personen met incontinentie of stoma (Incontinence Waste Allowance, Keerbergen)",
+        "desc": "Keerbergen credits the household's waste bill each year for residents with incontinence or a stoma.",
+        "deadline": "Hand in a new medical certificate (at most one month old) every year.",
+        "amount": "€50 per year, credited to the waste bill",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A recent medical certificate from your treating doctor (at most one month old)"
+          }
+        ],
+        "steps": [
+          "Ask your treating doctor for a medical certificate",
+          "Send your application with the certificate to the Zorgloket (015 50 91 87, zorgloket@keerbergen.be, by appointment)",
+          "Once approved, the household's waste bill is credited; hand in a new certificate every year"
+        ]
+      },
+      "nl": {
+        "title": "Huisvuiltoelage voor personen met incontinentie of stoma (Keerbergen)",
+        "desc": "Keerbergen crediteert elk jaar de afvalrekening van het gezin voor inwoners met incontinentie of een stoma.",
+        "deadline": "Elk jaar opnieuw een recent medisch attest (max. 1 maand oud) indienen.",
+        "amount": "€50 per jaar, op de afvalrekening",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een recent medisch attest van de behandelende arts (max. 1 maand)"
+          }
+        ],
+        "steps": [
+          "Vraag een medisch attest aan je behandelende arts",
+          "Richt je aanvraag met het attest aan het Zorgloket (015 50 91 87, zorgloket@keerbergen.be, op afspraak)",
+          "Na goedkeuring wordt de afvalrekening van het gezin gecrediteerd; dien elk jaar opnieuw een attest in"
+        ]
+      },
+      "fr": {
+        "title": "Huisvuiltoelage voor personen met incontinentie of stoma (allocation déchets incontinence ou stomie, Keerbergen)",
+        "desc": "Keerbergen crédite chaque année la facture déchets du ménage pour les habitants incontinents ou stomisés.",
+        "deadline": "Remettez chaque année un nouveau certificat médical (d'un mois maximum).",
+        "amount": "50 € par an, crédités sur la facture déchets",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Un certificat médical récent du médecin traitant (un mois maximum)"
+          }
+        ],
+        "steps": [
+          "Demandez un certificat médical à votre médecin traitant",
+          "Adressez la demande avec le certificat au Zorgloket (015 50 91 87, zorgloket@keerbergen.be, sur rendez-vous)",
+          "Après approbation, la facture déchets du ménage est créditée ; remettez un nouveau certificat chaque année"
+        ]
+      },
+      "de": {
+        "title": "Huisvuiltoelage voor personen met incontinentie of stoma (Abfallzulage bei Inkontinenz oder Stoma, Keerbergen)",
+        "desc": "Keerbergen schreibt Einwohnern mit Inkontinenz oder Stoma jedes Jahr einen Betrag auf der Abfallrechnung des Haushalts gut.",
+        "deadline": "Reichen Sie jedes Jahr ein neues ärztliches Attest ein (höchstens einen Monat alt).",
+        "amount": "50 € pro Jahr, der Abfallrechnung gutgeschrieben",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ein aktuelles ärztliches Attest des behandelnden Arztes (höchstens einen Monat alt)"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich von Ihrem behandelnden Arzt ein ärztliches Attest ausstellen",
+          "Richten Sie den Antrag mit dem Attest an das Zorgloket (015 50 91 87, zorgloket@keerbergen.be, nach Termin)",
+          "Nach Genehmigung wird die Abfallrechnung des Haushalts gutgeschrieben; reichen Sie jedes Jahr ein neues Attest ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://www.keerbergen.be/huisvuiltoelage-incontinentie-stoma"
+      ],
+      "conditions": {
+        "en": [
+          "You are a resident of Keerbergen with incontinence or a stoma.",
+          "You hand in a recent medical certificate from your treating doctor (at most one month old) with the application.",
+          "The certificate must be handed in again every year."
+        ],
+        "nl": [
+          "Je bent inwoner van Keerbergen en incontinentiepatiënt of stomapatiënt.",
+          "Je dient bij de aanvraag een recent medisch attest van de behandelende arts in (max. 1 maand).",
+          "Het attest moet jaarlijks opnieuw ingediend worden."
+        ],
+        "fr": [
+          "Vous habitez Keerbergen et êtes incontinent(e) ou stomisé(e).",
+          "Vous joignez à la demande un certificat médical récent du médecin traitant (un mois maximum).",
+          "Le certificat doit être remis à nouveau chaque année."
+        ],
+        "de": [
+          "Sie wohnen in Keerbergen und sind inkontinent oder haben ein Stoma.",
+          "Sie reichen mit dem Antrag ein aktuelles ärztliches Attest des behandelnden Arztes ein (höchstens einen Monat alt).",
+          "Das Attest muss jedes Jahr erneut eingereicht werden."
+        ]
+      }
+    }
+  },
+  {
+    "id": 589,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "72018"
+    ],
+    "institution": "Gemeente Kinrooi",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kinrooi.be/tegemoetkoming-stoma-incontinentie",
+    "content": {
+      "en": {
+        "title": "Tegemoetkoming wegens incontinentie of stoma (Incontinence or Stoma Allowance, Kinrooi)",
+        "desc": "Kinrooi pays a yearly allowance to people with incontinence or a stoma to compensate for the higher Diftar waste charges.",
+        "deadline": "Apply each year with a doctor's certificate (once if the condition is chronic or permanent).",
+        "amount": "€50 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The application form"
+          },
+          {
+            "type": "doc",
+            "label": "A doctor's certificate of incontinence or stoma"
+          }
+        ],
+        "steps": [
+          "Download the application form from the Kinrooi page",
+          "Hand in the form and the doctor's certificate at the snelbalie of the town hall (Breeërsteenweg 146, 089 70 03 00)",
+          "The allowance goes to the person concerned if they pay the Diftar charge, or to the household that cares for them and pays it"
+        ]
+      },
+      "nl": {
+        "title": "Tegemoetkoming wegens incontinentie of stoma (Kinrooi)",
+        "desc": "Kinrooi geeft personen met incontinentieproblemen of stomapatiënten een jaarlijkse tegemoetkoming ter compensatie van de hogere diftarretributie.",
+        "deadline": "Elk jaar aanvragen met een doktersattest (éénmalig bij chronische incontinentie of blijvende stoma).",
+        "amount": "€50 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een doktersattest over de incontinentie of stoma"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op de pagina van Kinrooi",
+          "Bezorg het formulier en het doktersattest aan de snelbalie van het gemeentehuis (Breeërsteenweg 146, 089 70 03 00)",
+          "De tegemoetkoming gaat naar de rechthebbende zelf als die de diftarretributie betaalt, of naar het gezin dat hem of haar verzorgt en de retributie betaalt"
+        ]
+      },
+      "fr": {
+        "title": "Tegemoetkoming wegens incontinentie of stoma (allocation incontinence ou stomie, Kinrooi)",
+        "desc": "Kinrooi verse une allocation annuelle aux personnes incontinentes ou stomisées pour compenser la hausse de la redevance déchets Diftar.",
+        "deadline": "Demande chaque année avec un certificat médical (une seule fois si l'état est chronique ou permanent).",
+        "amount": "50 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande"
+          },
+          {
+            "type": "doc",
+            "label": "Un certificat médical attestant l'incontinence ou la stomie"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande sur la page de Kinrooi",
+          "Remettez le formulaire et le certificat médical au guichet rapide (snelbalie) de la maison communale (Breeërsteenweg 146, 089 70 03 00)",
+          "L'allocation est versée à la personne elle-même si elle paie la redevance Diftar, ou au ménage qui la soigne et paie cette redevance"
+        ]
+      },
+      "de": {
+        "title": "Tegemoetkoming wegens incontinentie of stoma (Zulage bei Inkontinenz oder Stoma, Kinrooi)",
+        "desc": "Kinrooi zahlt Menschen mit Inkontinenz oder Stoma eine jährliche Zulage als Ausgleich für die höheren Diftar-Abfallgebühren.",
+        "deadline": "Jährlicher Antrag mit ärztlichem Attest (einmalig bei chronischer Inkontinenz oder dauerhaftem Stoma).",
+        "amount": "50 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Ein ärztliches Attest über Inkontinenz oder Stoma"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf der Seite von Kinrooi herunter",
+          "Geben Sie Formular und ärztliches Attest am Schnellschalter (snelbalie) des Gemeindehauses ab (Breeërsteenweg 146, 089 70 03 00)",
+          "Die Zulage geht an die betroffene Person, wenn sie die Diftar-Gebühr zahlt, sonst an den pflegenden Haushalt, der sie zahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://www.kinrooi.be/tegemoetkoming-stoma-incontinentie"
+      ],
+      "conditions": {
+        "en": [
+          "On 1 January of the year you apply, the person is registered in the population register (bevolkingsregister) of Kinrooi.",
+          "Incontinence: a doctor's certificate every year, or once if the doctor certifies chronic incontinence.",
+          "Stoma: a doctor's statement every year, or once if the doctor states the stoma is permanent.",
+          "The allowance is paid to the person if they pay the Diftar charge, or to the household that cares for them and pays it."
+        ],
+        "nl": [
+          "De persoon is op 1 januari van het jaar van aanvraag ingeschreven in het bevolkingsregister van Kinrooi.",
+          "Incontinentie: jaarlijks een attest van de geneesheer, of éénmalig als het attest chronische incontinentie vermeldt.",
+          "Stoma: jaarlijks een verklaring van de arts, of éénmalig als de arts verklaart dat de persoon blijvend stomapatiënt is.",
+          "De tegemoetkoming wordt uitgekeerd aan de rechthebbende als die de diftarretributie betaalt, of aan het gezin dat hem of haar verzorgt en de retributie betaalt."
+        ],
+        "fr": [
+          "Au 1er janvier de l'année de la demande, la personne est inscrite au registre de la population (bevolkingsregister) de Kinrooi.",
+          "Incontinence : un certificat médical chaque année, ou une seule fois s'il atteste une incontinence chronique.",
+          "Stomie : une déclaration du médecin chaque année, ou une seule fois si le médecin déclare la stomie permanente.",
+          "L'allocation est versée à la personne si elle paie la redevance Diftar, ou au ménage qui la soigne et paie cette redevance."
+        ],
+        "de": [
+          "Am 1. Januar des Antragsjahres ist die Person im Bevölkerungsregister (bevolkingsregister) von Kinrooi eingetragen.",
+          "Inkontinenz: jedes Jahr ein ärztliches Attest, oder einmalig, wenn es chronische Inkontinenz bescheinigt.",
+          "Stoma: jedes Jahr eine ärztliche Erklärung, oder einmalig, wenn der Arzt ein dauerhaftes Stoma bescheinigt.",
+          "Die Zulage wird an die Person gezahlt, wenn sie die Diftar-Gebühr zahlt, sonst an den pflegenden Haushalt, der sie zahlt."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: you must be in the population register, and a temporary study permit puts you in the foreigners' register.",
+            "nl": "Niet voor jou: je moet in het bevolkingsregister staan, en met een tijdelijke verblijfsvergunning voor studies sta je in het vreemdelingenregister.",
+            "fr": "Pas accessible : il faut être inscrit(e) au registre de la population, et un titre de séjour temporaire pour études vous inscrit au registre des étrangers.",
+            "de": "Nicht für Sie: Sie müssen im Bevölkerungsregister stehen, und eine vorübergehende Aufenthaltserlaubnis zum Studium führt ins Fremdenregister."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 590,
+    "category": "other",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "61028"
+    ],
+    "institution": "Commune de Héron",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.heron.be/vivre-a-heron/mobilite/deplacements/mobilite-douce/forumaire-pour-vae",
+    "amount_source_url": "https://www.heron.be/tous-les-fichiers/dossier-fichiers/deliberation_du_conseil_communal_relative_a_la_prime_a_lachat_dun_velo_electrique.pdf",
+    "content": {
+      "en": {
+        "title": "Prime à l'acquisition d'un vélo à assistance électrique (E-Bike Premium, Héron)",
+        "desc": "Héron refunds part of the price of a new electric-assist bike or conversion kit, depending on household income.",
+        "deadline": "Within 6 months of the invoice date.",
+        "amount": "25%, 20% or 15% of the invoice depending on household income, up to €400; 2 premiums per household every 5 years",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The form 'Formulaire de demande – Réception de facture'"
+          },
+          {
+            "type": "doc",
+            "label": "The latest tax assessment notice (avertissement-extrait de rôle) of the household"
+          },
+          {
+            "type": "doc",
+            "label": "The original invoice showing the exact e-bike or kit type, with proof of payment"
+          },
+          {
+            "type": "id",
+            "label": "A copy of both sides of your identity card"
+          }
+        ],
+        "steps": [
+          "Buy a new e-bike (motor up to 250 W, assistance up to 25 km/h) or a new conversion kit",
+          "Within 6 months of the invoice, send the form and documents to the commune online or to the Mobilité/Environnement service (Place communale 1, 4218 Couthuin, 085 27 04 98)",
+          "The premium is paid to the bank account on the form"
+        ]
+      },
+      "nl": {
+        "title": "Prime à l'acquisition d'un vélo à assistance électrique (premie elektrische fiets, Héron)",
+        "desc": "Héron betaalt een deel van de prijs van een nieuwe elektrische fiets of ombouwkit terug, volgens het gezinsinkomen.",
+        "deadline": "Binnen 6 maanden na de factuurdatum.",
+        "amount": "25%, 20% of 15% van de factuur volgens het gezinsinkomen, maximaal €400; 2 premies per gezin per 5 jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het formulier 'Formulaire de demande – Réception de facture'"
+          },
+          {
+            "type": "doc",
+            "label": "Het laatste aanslagbiljet personenbelasting van het gezin"
+          },
+          {
+            "type": "doc",
+            "label": "De originele factuur met het exacte type fiets of kit, met betaalbewijs"
+          },
+          {
+            "type": "id",
+            "label": "Een kopie van beide zijden van je identiteitskaart"
+          }
+        ],
+        "steps": [
+          "Koop een nieuwe elektrische fiets (motor tot 250 W, ondersteuning tot 25 km/u) of een nieuwe ombouwkit",
+          "Stuur binnen 6 maanden na de factuur het formulier en de documenten online of naar de dienst Mobiliteit/Milieu (Place communale 1, 4218 Couthuin, 085 27 04 98)",
+          "De premie wordt gestort op het rekeningnummer op het formulier"
+        ]
+      },
+      "fr": {
+        "title": "Prime à l'acquisition d'un vélo à assistance électrique (Héron)",
+        "desc": "Héron rembourse une partie du prix d'un vélo à assistance électrique neuf ou d'un kit adaptable neuf, selon les revenus du ménage.",
+        "deadline": "Dans les 6 mois de la date de facturation.",
+        "amount": "25 %, 20 % ou 15 % de la facture selon les revenus du ménage, maximum 400 € ; 2 primes par ménage tous les 5 ans",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire « Formulaire de demande – Réception de facture »"
+          },
+          {
+            "type": "doc",
+            "label": "Le dernier avertissement-extrait de rôle du ménage"
+          },
+          {
+            "type": "doc",
+            "label": "La facture originale indiquant le type exact de VAE ou de kit, avec la preuve de paiement"
+          },
+          {
+            "type": "id",
+            "label": "Une copie recto-verso de la carte d'identité"
+          }
+        ],
+        "steps": [
+          "Achetez un vélo à assistance électrique neuf (moteur jusqu'à 250 W, assistance jusqu'à 25 km/h) ou un kit adaptable neuf",
+          "Dans les 6 mois de la facture, envoyez le formulaire et les documents en ligne ou au service Mobilité/Environnement (Place communale 1, 4218 Couthuin, 085 27 04 98)",
+          "La prime est versée sur le compte indiqué dans le formulaire"
+        ]
+      },
+      "de": {
+        "title": "Prime à l'acquisition d'un vélo à assistance électrique (Prämie für E-Bikes, Héron)",
+        "desc": "Héron erstattet je nach Haushaltseinkommen einen Teil des Preises eines neuen E-Bikes oder Nachrüstsatzes.",
+        "deadline": "Innerhalb von 6 Monaten nach dem Rechnungsdatum.",
+        "amount": "25 %, 20 % oder 15 % der Rechnung je nach Haushaltseinkommen, höchstens 400 €; 2 Prämien pro Haushalt alle 5 Jahre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Formular „Formulaire de demande – Réception de facture“"
+          },
+          {
+            "type": "doc",
+            "label": "Der letzte Steuerbescheid (avertissement-extrait de rôle) des Haushalts"
+          },
+          {
+            "type": "doc",
+            "label": "Die Originalrechnung mit dem genauen E-Bike- oder Kit-Typ und Zahlungsnachweis"
+          },
+          {
+            "type": "id",
+            "label": "Eine Kopie beider Seiten Ihres Personalausweises"
+          }
+        ],
+        "steps": [
+          "Kaufen Sie ein neues E-Bike (Motor bis 250 W, Unterstützung bis 25 km/h) oder einen neuen Nachrüstsatz",
+          "Senden Sie innerhalb von 6 Monaten nach der Rechnung Formular und Unterlagen online oder an den Dienst Mobilité/Environnement (Place communale 1, 4218 Couthuin, 085 27 04 98)",
+          "Die Prämie wird auf das im Formular angegebene Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://www.heron.be/vivre-a-heron/mobilite/deplacements/mobilite-douce/forumaire-pour-vae",
+        "https://www.heron.be/tous-les-fichiers/dossier-fichiers/deliberation_du_conseil_communal_relative_a_la_prime_a_lachat_dun_velo_electrique.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You are a private person domiciled in Héron.",
+          "Household reference income (taxable income minus €2,200 per dependent child, doubled for a child with a disability): up to €23,000: 25% (max €400); up to €32,700: 20% (max €300); up to €43,200: 15% (max €200); up to €97,700: 15% (max €100).",
+          "The bike or kit is bought new; at most 2 premiums per household every 5 years.",
+          "The application is made within 6 months of the invoice and the premium is granted within the available budget."
+        ],
+        "nl": [
+          "Je bent een natuurlijk persoon met domicilie in Héron.",
+          "Referentie-inkomen van het gezin (belastbaar inkomen min €2.200 per kind ten laste, verdubbeld voor een kind met een handicap): tot €23.000: 25% (max. €400); tot €32.700: 20% (max. €300); tot €43.200: 15% (max. €200); tot €97.700: 15% (max. €100).",
+          "De fiets of kit wordt nieuw gekocht; maximaal 2 premies per gezin per 5 jaar.",
+          "De aanvraag gebeurt binnen 6 maanden na de factuur en de premie wordt toegekend binnen de beschikbare kredieten."
+        ],
+        "fr": [
+          "Vous êtes une personne physique domiciliée à Héron.",
+          "Revenu de référence du ménage (revenu imposable moins 2.200 € par enfant à charge, doublé pour un enfant handicapé) : jusqu'à 23.000 € : 25 % (max. 400 €) ; jusqu'à 32.700 € : 20 % (max. 300 €) ; jusqu'à 43.200 € : 15 % (max. 200 €) ; jusqu'à 97.700 € : 15 % (max. 100 €).",
+          "Le vélo ou le kit est acheté neuf ; 2 primes maximum par ménage tous les 5 ans.",
+          "La demande est introduite dans les 6 mois de la facture et la prime est accordée dans les limites des crédits disponibles."
+        ],
+        "de": [
+          "Sie sind eine Privatperson mit Wohnsitz in Héron.",
+          "Referenzeinkommen des Haushalts (steuerpflichtiges Einkommen minus 2.200 € pro unterhaltsberechtigtem Kind, verdoppelt für ein Kind mit Behinderung): bis 23.000 €: 25 % (max. 400 €); bis 32.700 €: 20 % (max. 300 €); bis 43.200 €: 15 % (max. 200 €); bis 97.700 €: 15 % (max. 100 €).",
+          "Fahrrad oder Kit werden neu gekauft; höchstens 2 Prämien pro Haushalt alle 5 Jahre.",
+          "Der Antrag wird innerhalb von 6 Monaten nach der Rechnung gestellt und die Prämie im Rahmen der verfügbaren Mittel gewährt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 591,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63035"
+    ],
+    "institution": "Ville de Herve",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://enfance.herve.be/atl-herve/information/premiere-prime",
+    "amount_source_url": "https://lgc-files.inforius.be/3f565db4-e9cc-45ad-b0c8-6bd0b01f93d5",
+    "content": {
+      "en": {
+        "title": "Prime de naissance (Birth Premium, Herve)",
+        "desc": "Herve gives a birth premium for each child who has lived in Herve since birth, once the child is 18 months old, by bank transfer or in local shop vouchers.",
+        "deadline": "Apply when the child is 18 months old, and before the child turns 2½.",
+        "amount": "€60 by bank transfer or €100 in chèques commerce; €150 in chèques commerce if you also received Herve's washable-nappies premium",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The birth premium application form (online or PDF)"
+          },
+          {
+            "type": "doc",
+            "label": "Proof that the child's vaccinations are up to date"
+          }
+        ],
+        "steps": [
+          "When your child is 18 months old, fill in the application form on the Herve Enfance page",
+          "Add proof that the vaccinations are up to date and choose a bank transfer or chèques commerce",
+          "Send it before the child turns 2½; the Finance service pays the transfer to the account on the form"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance (geboortepremie, Herve)",
+        "desc": "Herve geeft een geboortepremie voor elk kind dat sinds de geboorte in Herve woont, zodra het kind 18 maanden is, per overschrijving of in lokale handelscheques.",
+        "deadline": "Aanvragen wanneer het kind 18 maanden is, en vóór het 2,5 jaar wordt.",
+        "amount": "€60 per overschrijving of €100 in handelscheques; €150 in handelscheques als je ook de premie voor wasbare luiers van Herve kreeg",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het aanvraagformulier voor de geboortepremie (online of pdf)"
+          },
+          {
+            "type": "doc",
+            "label": "Bewijs dat de vaccinaties van het kind in orde zijn"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier op de pagina Enfance van Herve in wanneer je kind 18 maanden is",
+          "Voeg het bewijs van vaccinaties toe en kies tussen overschrijving en handelscheques",
+          "Dien het in vóór het kind 2,5 jaar wordt; de dienst Financiën stort het bedrag op het rekeningnummer op het formulier"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance (Herve)",
+        "desc": "Herve accorde une prime de naissance pour chaque enfant domicilié à Herve depuis sa naissance, à ses 18 mois, par virement ou en chèques commerce.",
+        "deadline": "Demande à partir des 18 mois de l'enfant et avant ses 2 ans et demi.",
+        "amount": "60 € par virement ou 100 € en chèques commerce ; 150 € en chèques commerce si vous avez aussi obtenu la prime langes lavables de Herve",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande de prime de naissance (en ligne ou PDF)"
+          },
+          {
+            "type": "doc",
+            "label": "La preuve que l'enfant est en ordre de vaccination"
+          }
+        ],
+        "steps": [
+          "Aux 18 mois de votre enfant, complétez le formulaire de demande sur la page Enfance de Herve",
+          "Joignez la preuve de vaccination et choisissez le virement ou les chèques commerce",
+          "Envoyez-le avant les 2 ans et demi de l'enfant ; le Service des Finances verse le virement sur le compte indiqué"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance (Geburtsprämie, Herve)",
+        "desc": "Herve gewährt für jedes seit der Geburt in Herve gemeldete Kind mit 18 Monaten eine Geburtsprämie, per Überweisung oder in lokalen Einkaufsgutscheinen.",
+        "deadline": "Antrag ab dem Alter von 18 Monaten und bevor das Kind 2½ Jahre alt wird.",
+        "amount": "60 € per Überweisung oder 100 € in Einkaufsgutscheinen; 150 € in Einkaufsgutscheinen, wenn Sie auch die Windelprämie von Herve erhalten haben",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Antragsformular für die Geburtsprämie (online oder PDF)"
+          },
+          {
+            "type": "doc",
+            "label": "Nachweis, dass die Impfungen des Kindes aktuell sind"
+          }
+        ],
+        "steps": [
+          "Füllen Sie mit 18 Monaten Ihres Kindes das Antragsformular auf der Seite Enfance von Herve aus",
+          "Fügen Sie den Impfnachweis bei und wählen Sie Überweisung oder Einkaufsgutscheine",
+          "Senden Sie es ab, bevor das Kind 2½ Jahre alt wird; die Finanzabteilung überweist auf das angegebene Konto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://enfance.herve.be/atl-herve/information/premiere-prime",
+        "https://lgc-files.inforius.be/3f565db4-e9cc-45ad-b0c8-6bd0b01f93d5"
+      ],
+      "conditions": {
+        "en": [
+          "You are one of the child's parents and were domiciled in Herve on the date of the birth.",
+          "Within 18 months of the birth you show that the child's vaccinations are up to date and that the child has been domiciled in Herve without interruption since birth.",
+          "The premium cannot be combined with a birth allowance from another Belgian commune; for twins it is granted for each child.",
+          "The form is handed in before the child turns 2½, and the premium is granted within the commune's budget."
+        ],
+        "nl": [
+          "Je bent een van de ouders van het kind en had op de geboortedatum je domicilie in Herve.",
+          "Binnen 18 maanden na de geboorte toon je aan dat de vaccinaties van het kind in orde zijn en dat het kind sinds de geboorte zonder onderbreking in Herve gedomicilieerd is.",
+          "De premie is niet te combineren met een geboortepremie van een andere Belgische gemeente; bij een tweeling geldt ze voor elk kind.",
+          "Het formulier wordt ingediend vóór het kind 2,5 jaar is, en de premie wordt toegekend binnen het budget van de gemeente."
+        ],
+        "fr": [
+          "Vous êtes l'un des parents de l'enfant et étiez domicilié(e) à Herve à la date de la naissance.",
+          "Dans les 18 mois de la naissance, vous prouvez que l'enfant est en ordre de vaccination et qu'il est domicilié à Herve sans interruption depuis sa naissance.",
+          "La prime ne peut pas être cumulée avec une allocation de naissance d'une autre commune belge ; pour des jumeaux, elle est accordée pour chaque enfant.",
+          "Le formulaire est remis avant que l'enfant ait 2 ans et demi, et la prime est accordée dans les limites du budget communal."
+        ],
+        "de": [
+          "Sie sind ein Elternteil des Kindes und waren am Tag der Geburt in Herve gemeldet.",
+          "Innerhalb von 18 Monaten nach der Geburt weisen Sie nach, dass die Impfungen des Kindes aktuell sind und das Kind seit der Geburt ununterbrochen in Herve gemeldet ist.",
+          "Die Prämie ist nicht mit einer Geburtszulage einer anderen belgischen Gemeinde kombinierbar; bei Zwillingen gilt sie für jedes Kind.",
+          "Das Formular wird eingereicht, bevor das Kind 2½ Jahre alt ist, und die Prämie wird im Rahmen des Gemeindebudgets gewährt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 592,
+    "category": "family",
+    "situations": [
+      "children",
+      "pregnancy"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "63035"
+    ],
+    "institution": "Ville de Herve",
+    "verified": "27 Nov 2026",
+    "status": "verified",
+    "source_url": "https://enfance.herve.be/atl-herve/information/prime-pour-l-achat-de-langes-lavables",
+    "content": {
+      "en": {
+        "title": "Prime pour l'achat de langes lavables (Washable Nappies Premium, Herve)",
+        "desc": "Herve refunds half of what young parents spend on washable nappies, every year until the child is 3.",
+        "deadline": "Renewable every year until the child's 3rd birthday.",
+        "amount": "50% of the invoices, up to €125 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "The original purchase invoice(s)"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition (composition de ménage)"
+          }
+        ],
+        "steps": [
+          "Download the application form from the Herve Enfance page",
+          "Send it with the original invoices and a household composition to Accueil Temps Libre, Centre Administratif Marie-Thérèse, Place Marie-Thérèse 3, 4650 Herve (extrascolaire@herve.be, 087 69 36 43)",
+          "The premium is paid to the bank account on the form; apply again each year until the child is 3"
+        ]
+      },
+      "nl": {
+        "title": "Prime pour l'achat de langes lavables (premie wasbare luiers, Herve)",
+        "desc": "Herve betaalt jonge ouders de helft terug van wat ze aan wasbare luiers uitgeven, elk jaar tot het kind 3 jaar is.",
+        "deadline": "Elk jaar opnieuw aan te vragen tot het kind 3 jaar is.",
+        "amount": "50% van de facturen, maximaal €125 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De originele aankoopfactuur of -facturen"
+          },
+          {
+            "type": "doc",
+            "label": "Een gezinssamenstelling (composition de ménage)"
+          }
+        ],
+        "steps": [
+          "Download het aanvraagformulier op de pagina Enfance van Herve",
+          "Stuur het met de originele facturen en een gezinssamenstelling naar Accueil Temps Libre, Centre Administratif Marie-Thérèse, Place Marie-Thérèse 3, 4650 Herve (extrascolaire@herve.be, 087 69 36 43)",
+          "De premie wordt gestort op het rekeningnummer op het formulier; vraag elk jaar opnieuw aan tot het kind 3 jaar is"
+        ]
+      },
+      "fr": {
+        "title": "Prime pour l'achat de langes lavables (Herve)",
+        "desc": "Herve rembourse aux jeunes parents la moitié de leurs achats de langes lavables, chaque année jusqu'aux 3 ans de l'enfant.",
+        "deadline": "Renouvelable chaque année jusqu'aux 3 ans de l'enfant.",
+        "amount": "50 % des factures, maximum 125 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "La ou les facture(s) d'achat originale(s)"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage"
+          }
+        ],
+        "steps": [
+          "Téléchargez le formulaire de demande sur la page Enfance de Herve",
+          "Envoyez-le avec les factures originales et une composition de ménage à l'Accueil Temps Libre, Centre Administratif Marie-Thérèse, Place Marie-Thérèse 3, 4650 Herve (extrascolaire@herve.be, 087 69 36 43)",
+          "La prime est versée sur le compte indiqué ; renouvelez la demande chaque année jusqu'aux 3 ans de l'enfant"
+        ]
+      },
+      "de": {
+        "title": "Prime pour l'achat de langes lavables (Prämie für Stoffwindeln, Herve)",
+        "desc": "Herve erstattet jungen Eltern die Hälfte ihrer Ausgaben für Stoffwindeln, jedes Jahr bis zum 3. Geburtstag des Kindes.",
+        "deadline": "Jedes Jahr erneut bis zum 3. Geburtstag des Kindes.",
+        "amount": "50 % der Rechnungen, höchstens 125 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Die Original-Kaufrechnung(en)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung (composition de ménage)"
+          }
+        ],
+        "steps": [
+          "Laden Sie das Antragsformular auf der Seite Enfance von Herve herunter",
+          "Senden Sie es mit den Originalrechnungen und einer Haushaltszusammensetzung an Accueil Temps Libre, Centre Administratif Marie-Thérèse, Place Marie-Thérèse 3, 4650 Herve (extrascolaire@herve.be, 087 69 36 43)",
+          "Die Prämie wird auf das angegebene Konto überwiesen; beantragen Sie sie jedes Jahr neu bis zum 3. Geburtstag des Kindes"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "27 Nov 2026",
+      "source_url": [
+        "https://enfance.herve.be/atl-herve/information/prime-pour-l-achat-de-langes-lavables",
+        "https://lgc-files.inforius.be/bd3ba801-b321-4069-aa98-f691ebf7c5cb"
+      ],
+      "conditions": {
+        "en": [
+          "You are a young parent (father, mother or guardian) buying washable nappies for a child under 3.",
+          "The premium is based on the original purchase invoices: 50%, up to €125 per year.",
+          "You can apply again every year until the child's 3rd birthday."
+        ],
+        "nl": [
+          "Je bent een jonge ouder (vader, moeder of voogd) die wasbare luiers koopt voor een kind jonger dan 3 jaar.",
+          "De premie wordt berekend op de originele aankoopfacturen: 50%, maximaal €125 per jaar.",
+          "Je kunt elk jaar opnieuw aanvragen tot het kind 3 jaar is."
+        ],
+        "fr": [
+          "Vous êtes un jeune parent (père, mère ou tuteur) qui achète des langes lavables pour un enfant de moins de 3 ans.",
+          "La prime est calculée sur les factures d'achat originales : 50 %, maximum 125 € par an.",
+          "La demande est renouvelable chaque année jusqu'aux 3 ans de l'enfant."
+        ],
+        "de": [
+          "Sie sind ein junger Elternteil (Vater, Mutter oder Vormund) und kaufen Stoffwindeln für ein Kind unter 3 Jahren.",
+          "Die Prämie richtet sich nach den Original-Kaufrechnungen: 50 %, höchstens 125 € pro Jahr.",
+          "Sie können jedes Jahr bis zum 3. Geburtstag des Kindes erneut beantragen."
+        ]
+      }
+    }
   }
 ]
