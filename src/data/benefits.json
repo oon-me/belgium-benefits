@@ -74626,5 +74626,1467 @@
         ]
       }
     }
+  },
+  {
+    "id": 593,
+    "category": "family",
+    "situations": [
+      "children",
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "45060"
+    ],
+    "institution": "Gemeente Kluisbergen",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kluisbergen.be/sites/default/files/public/Reglementen-retributie/2026/Reglement%20toekennen%20premie%20voor%20kinderen%20met%20beperking.pdf",
+    "content": {
+      "en": {
+        "title": "Premie voor de verzorging van kinderen met een beperking (Care Premium for Children with a Disability, Kluisbergen)",
+        "desc": "Kluisbergen pays €200 a year to residents raising a child or young person (up to 25) with a disability of at least 66%.",
+        "deadline": "Apply by 1 December of each year; paid in December.",
+        "amount": "€200 per child per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "A household composition (samenstelling gezin)"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate of at least 66% disability (e.g. from the FPS Social Security or the child benefit fund)"
+          }
+        ],
+        "steps": [
+          "Ask the municipality of Kluisbergen for the application form",
+          "Hand it in by 1 December with a household composition and the disability certificate",
+          "The premium is paid in December to the account on the form; apply again each year"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor de verzorging van kinderen met een beperking (Kluisbergen)",
+        "desc": "Kluisbergen betaalt €200 per jaar aan inwoners die een kind of jongere (tot en met 25 jaar) met een beperking van minstens 66% opvoeden.",
+        "deadline": "Aanvragen ten laatste op 1 december van elk jaar; uitbetaling in december.",
+        "amount": "€200 per kind per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een bewijs samenstelling gezin"
+          },
+          {
+            "type": "doc",
+            "label": "Een attest van minstens 66% beperking (bv. van de FOD Sociale Zekerheid of het kinderbijslagfonds)"
+          }
+        ],
+        "steps": [
+          "Vraag het aanvraagformulier aan bij het gemeentebestuur van Kluisbergen",
+          "Dien het ten laatste op 1 december in met een samenstelling van het gezin en het attest van de beperking",
+          "De premie wordt in december gestort op het rekeningnummer op het formulier; vraag elk jaar opnieuw aan"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor de verzorging van kinderen met een beperking (prime pour enfants handicapés, Kluisbergen)",
+        "desc": "Kluisbergen verse 200 € par an aux habitants qui élèvent un enfant ou un jeune (jusqu'à 25 ans) atteint d'un handicap d'au moins 66 %.",
+        "deadline": "Demande au plus tard le 1er décembre de chaque année ; paiement en décembre.",
+        "amount": "200 € par enfant et par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Une composition de ménage (samenstelling gezin)"
+          },
+          {
+            "type": "doc",
+            "label": "Une attestation de handicap d'au moins 66 % (p. ex. du SPF Sécurité sociale ou de la caisse d'allocations familiales)"
+          }
+        ],
+        "steps": [
+          "Demandez le formulaire à l'administration communale de Kluisbergen",
+          "Déposez-le au plus tard le 1er décembre avec une composition de ménage et l'attestation de handicap",
+          "La prime est versée en décembre sur le compte indiqué ; renouvelez la demande chaque année"
+        ]
+      },
+      "de": {
+        "title": "Premie voor de verzorging van kinderen met een beperking (Prämie für Kinder mit Behinderung, Kluisbergen)",
+        "desc": "Kluisbergen zahlt Einwohnern, die ein Kind oder einen jungen Menschen (bis 25 Jahre) mit einer Behinderung von mindestens 66 % erziehen, 200 € pro Jahr.",
+        "deadline": "Antrag spätestens am 1. Dezember jedes Jahres; Auszahlung im Dezember.",
+        "amount": "200 € pro Kind und Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Haushaltszusammensetzung (samenstelling gezin)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Bescheinigung über mindestens 66 % Behinderung (z. B. vom FÖD Soziale Sicherheit oder der Kindergeldkasse)"
+          }
+        ],
+        "steps": [
+          "Fordern Sie das Antragsformular bei der Gemeinde Kluisbergen an",
+          "Reichen Sie es bis spätestens 1. Dezember mit einer Haushaltszusammensetzung und der Behinderungsbescheinigung ein",
+          "Die Prämie wird im Dezember auf das angegebene Konto überwiesen; beantragen Sie sie jedes Jahr neu"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://www.kluisbergen.be/sites/default/files/public/Reglementen-retributie/2026/Reglement%20toekennen%20premie%20voor%20kinderen%20met%20beperking.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "You raise the child and you are both registered at the same address in Kluisbergen (population, foreigners' or waiting register).",
+          "The child or young person is under 26 and has a physical and/or mental disability of at least 66%.",
+          "One application per child per calendar year, by 1 December."
+        ],
+        "nl": [
+          "Je voedt het kind op en jullie zijn op hetzelfde adres in Kluisbergen ingeschreven (bevolkings-, vreemdelingen- of wachtregister).",
+          "Het kind of de jongere is jonger dan 26 jaar en minstens 66% lichamelijk en/of geestelijk beperkt.",
+          "Eén aanvraag per kind per kalenderjaar, ten laatste op 1 december."
+        ],
+        "fr": [
+          "Vous élevez l'enfant et vous êtes tous deux inscrits à la même adresse à Kluisbergen (registre de la population, des étrangers ou d'attente).",
+          "L'enfant ou le jeune a moins de 26 ans et un handicap physique et/ou mental d'au moins 66 %.",
+          "Une demande par enfant et par année civile, au plus tard le 1er décembre."
+        ],
+        "de": [
+          "Sie erziehen das Kind und beide sind an derselben Adresse in Kluisbergen eingetragen (Bevölkerungs-, Fremden- oder Warteregister).",
+          "Das Kind oder der junge Mensch ist unter 26 und hat eine körperliche und/oder geistige Behinderung von mindestens 66 %.",
+          "Ein Antrag pro Kind und Kalenderjahr, spätestens am 1. Dezember."
+        ]
+      }
+    }
+  },
+  {
+    "id": 594,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "61031"
+    ],
+    "institution": "Ville de Huy",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.huy.be/ma-commune/affaires-sociales-sante/service-affaires-sociales/primes/primes/telechargements/demande-de-prime-de-naissance.pdf/@@download/file/Demande%20de%20prime%20de%20naissance.pdf",
+    "content": {
+      "en": {
+        "title": "Prime communale de naissance (Birth Premium, Huy)",
+        "desc": "Huy pays €100 for each birth, or for adopting a child under 10.",
+        "deadline": "Within 4 months of the birth (or of the adoption being recorded).",
+        "amount": "€100 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "A certificate of residence (certificat de domicile) from the Population Service or the National Register"
+          }
+        ],
+        "steps": [
+          "Fill in the application form from the Huy website",
+          "Send it with a certificate of residence to Ville de Huy, Service des Affaires Sociales, Grand'Place 1, 4500 Huy (085 21 78 21)",
+          "The premium is paid to the account on the form once the College has approved it"
+        ]
+      },
+      "nl": {
+        "title": "Prime communale de naissance (geboortepremie, Hoei)",
+        "desc": "Hoei betaalt €100 per geboorte, of bij adoptie van een kind jonger dan 10 jaar.",
+        "deadline": "Binnen 4 maanden na de geboorte (of na de overschrijving van de adoptie).",
+        "amount": "€100 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "Een woonstattest (certificat de domicile) van de dienst Bevolking of uit het Rijksregister"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier van de website van Hoei in",
+          "Stuur het met een woonstattest naar Ville de Huy, Service des Affaires Sociales, Grand'Place 1, 4500 Huy (085 21 78 21)",
+          "De premie wordt na goedkeuring door het college gestort op het rekeningnummer op het formulier"
+        ]
+      },
+      "fr": {
+        "title": "Prime communale de naissance (Huy)",
+        "desc": "Huy verse 100 € pour chaque naissance, ou pour l'adoption d'un enfant de moins de 10 ans.",
+        "deadline": "Dans les 4 mois de l'accouchement (ou de la transcription de l'adoption).",
+        "amount": "100 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande complété"
+          },
+          {
+            "type": "doc",
+            "label": "Un certificat de domicile du Service Population ou du Registre national"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire de demande disponible sur le site de Huy",
+          "Envoyez-le avec un certificat de domicile à la Ville de Huy, Service des Affaires Sociales, Grand'Place 1, 4500 Huy (085 21 78 21)",
+          "La prime est versée sur le compte indiqué après décision du Collège communal"
+        ]
+      },
+      "de": {
+        "title": "Prime communale de naissance (Geburtsprämie, Huy)",
+        "desc": "Huy zahlt 100 € für jede Geburt oder für die Adoption eines Kindes unter 10 Jahren.",
+        "deadline": "Innerhalb von 4 Monaten nach der Geburt (oder nach Eintragung der Adoption).",
+        "amount": "100 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Eine Wohnsitzbescheinigung (certificat de domicile) vom Bevölkerungsdienst oder aus dem Nationalregister"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular von der Website von Huy aus",
+          "Senden Sie es mit einer Wohnsitzbescheinigung an Ville de Huy, Service des Affaires Sociales, Grand'Place 1, 4500 Huy (085 21 78 21)",
+          "Die Prämie wird nach Entscheidung des Gemeindekollegiums auf das angegebene Konto überwiesen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://www.huy.be/ma-commune/affaires-sociales-sante/service-affaires-sociales/primes/primes/telechargements/demande-de-prime-de-naissance.pdf/@@download/file/Demande%20de%20prime%20de%20naissance.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The mother is actually domiciled in Huy on the day of the birth (proved with a certificate of residence).",
+          "For an adoption: the adoptive parents are domiciled in Huy when the adoption is recorded, and the child is under 10.",
+          "Apply within 4 months; the premium is granted only once per child."
+        ],
+        "nl": [
+          "De moeder is op de dag van de geboorte daadwerkelijk gedomicilieerd in Hoei (te bewijzen met een woonstattest).",
+          "Bij adoptie: de adoptieouders zijn in Hoei gedomicilieerd op de datum van overschrijving van de adoptie en het kind is jonger dan 10 jaar.",
+          "Aanvragen binnen 4 maanden; de premie wordt maar één keer per kind toegekend."
+        ],
+        "fr": [
+          "La mère est effectivement domiciliée à Huy le jour de la naissance (prouvé par un certificat de domicile).",
+          "En cas d'adoption : les adoptants sont domiciliés à Huy à la date de transcription de l'adoption et l'enfant a moins de 10 ans.",
+          "Demande dans les 4 mois ; la prime n'est accordée qu'une fois par enfant."
+        ],
+        "de": [
+          "Die Mutter hat am Tag der Geburt ihren tatsächlichen Wohnsitz in Huy (nachgewiesen durch eine Wohnsitzbescheinigung).",
+          "Bei Adoption: Die Adoptiveltern wohnen bei Eintragung der Adoption in Huy, und das Kind ist unter 10 Jahre alt.",
+          "Antrag innerhalb von 4 Monaten; die Prämie wird pro Kind nur einmal gewährt."
+        ]
+      }
+    }
+  },
+  {
+    "id": 595,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "53083"
+    ],
+    "institution": "Commune de Honnelles",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.honnelles.be/ma-commune/services-communaux/comptabilite-finances-taxes/primes/naissance-ou-dadoption",
+    "request_url": "https://honnelles-formulaires.guichet-citoyen.be/prime-naissance-adoption/",
+    "content": {
+      "en": {
+        "title": "Prime de naissance ou d'adoption (Birth or Adoption Premium, Honnelles)",
+        "desc": "Honnelles pays €25 for each birth or adoption of a child under 6 recorded in the commune.",
+        "deadline": "Once the birth is declared or the birth certificate registered in Honnelles.",
+        "amount": "€25 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The online application form"
+          }
+        ],
+        "steps": [
+          "Open the online form on the Honnelles citizen portal (guichet citoyen)",
+          "Fill in your and the child's details and send the request",
+          "The commune pays the premium once the birth or adoption is recorded"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance ou d'adoption (geboorte- of adoptiepremie, Honnelles)",
+        "desc": "Honnelles betaalt €25 per geboorte of adoptie van een kind jonger dan 6 jaar die in de gemeente is geregistreerd.",
+        "deadline": "Zodra de geboorte aangegeven of de geboorteakte in Honnelles ingeschreven is.",
+        "amount": "€25 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het onlineaanvraagformulier"
+          }
+        ],
+        "steps": [
+          "Open het onlineformulier op het burgerloket (guichet citoyen) van Honnelles",
+          "Vul jouw gegevens en die van het kind in en verstuur de aanvraag",
+          "De gemeente betaalt de premie zodra de geboorte of adoptie geregistreerd is"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance ou d'adoption (Honnelles)",
+        "desc": "Honnelles verse 25 € pour chaque naissance ou adoption d'un enfant de moins de 6 ans enregistrée dans la commune.",
+        "deadline": "Dès que la naissance est déclarée ou l'acte de naissance enregistré à Honnelles.",
+        "amount": "25 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande en ligne"
+          }
+        ],
+        "steps": [
+          "Ouvrez le formulaire en ligne sur le guichet citoyen de Honnelles",
+          "Complétez vos données et celles de l'enfant et envoyez la demande",
+          "La commune verse la prime dès que la naissance ou l'adoption est enregistrée"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance ou d'adoption (Geburts- oder Adoptionsprämie, Honnelles)",
+        "desc": "Honnelles zahlt 25 € für jede in der Gemeinde eingetragene Geburt oder Adoption eines Kindes unter 6 Jahren.",
+        "deadline": "Sobald die Geburt angezeigt oder die Geburtsurkunde in Honnelles eingetragen ist.",
+        "amount": "25 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das Online-Antragsformular"
+          }
+        ],
+        "steps": [
+          "Öffnen Sie das Online-Formular im Bürgerschalter (guichet citoyen) von Honnelles",
+          "Geben Sie Ihre Daten und die des Kindes ein und senden Sie den Antrag ab",
+          "Die Gemeinde zahlt die Prämie, sobald Geburt oder Adoption eingetragen sind"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://www.honnelles.be/ma-commune/services-communaux/comptabilite-finances-taxes/primes/naissance-ou-dadoption"
+      ],
+      "conditions": {
+        "en": [
+          "Child born in Honnelles: due once the birth has been declared to the Honnelles registrar.",
+          "Child born in another commune: due once the birth certificate has been registered in Honnelles.",
+          "Adopted child: due once the child is entered in the commune's register, if the child is not yet 6 on that date."
+        ],
+        "nl": [
+          "Kind geboren in Honnelles: verschuldigd zodra de geboorte bij de ambtenaar van de burgerlijke stand van Honnelles is aangegeven.",
+          "Kind geboren in een andere gemeente: verschuldigd zodra de geboorteakte in Honnelles is ingeschreven.",
+          "Geadopteerd kind: verschuldigd zodra het kind in het register van de gemeente is ingeschreven, als het op die datum nog geen 6 jaar is."
+        ],
+        "fr": [
+          "Enfant né à Honnelles : due dès que la naissance a été régulièrement déclarée à l'officier d'état civil.",
+          "Enfant né dans une autre commune : due dès que l'acte de naissance a été enregistré.",
+          "Enfant adopté : due dès son inscription au registre, s'il n'a pas dépassé l'âge de six ans à cette date."
+        ],
+        "de": [
+          "In Honnelles geborenes Kind: fällig, sobald die Geburt beim Standesbeamten von Honnelles angezeigt wurde.",
+          "In einer anderen Gemeinde geborenes Kind: fällig, sobald die Geburtsurkunde in Honnelles eingetragen wurde.",
+          "Adoptiertes Kind: fällig, sobald das Kind im Register der Gemeinde eingetragen ist, wenn es an diesem Tag noch nicht 6 Jahre alt ist."
+        ]
+      }
+    }
+  },
+  {
+    "id": 596,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "32010"
+    ],
+    "institution": "OCMW Koekelare",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.koekelare.be/mantelzorgtoelage",
+    "content": {
+      "en": {
+        "title": "Mantelzorgtoelage (Carer Allowance, Koekelare)",
+        "desc": "Koekelare's social service pays €25 a month to a carer who lives with and looks after a person with a high care need.",
+        "deadline": "Granted for one year and reviewed every year.",
+        "amount": "€25 per month per person cared for, paid each quarter",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Proof of the care budget or integration allowance (category 3 or higher)"
+          },
+          {
+            "type": "doc",
+            "label": "A sworn statement that you provide regular unpaid care"
+          }
+        ],
+        "steps": [
+          "Contact the Sociale Dienst at Sociaal Huis Koekelare, Ichtegemstraat 18 (051 58 10 01, socialedienst@koekelare.be)",
+          "Apply with proof of the care budget or integration allowance and a sworn statement that you provide the care",
+          "The allowance is paid each quarter for one year, then reviewed"
+        ]
+      },
+      "nl": {
+        "title": "Mantelzorgtoelage (Koekelare)",
+        "desc": "Het Sociaal Huis van Koekelare betaalt €25 per maand aan een mantelzorger die samenwoont met en zorgt voor een zwaar zorgbehoevende.",
+        "deadline": "Toegekend voor 1 jaar en jaarlijks herzien.",
+        "amount": "€25 per maand per zorgbehoevende, per trimester betaald",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Bewijs van het zorgbudget of de integratietegemoetkoming (vanaf categorie 3)"
+          },
+          {
+            "type": "doc",
+            "label": "Een verklaring op eer dat je regelmatig en onbezoldigd zorg verleent"
+          }
+        ],
+        "steps": [
+          "Neem contact op met de Sociale Dienst in het Sociaal Huis Koekelare, Ichtegemstraat 18 (051 58 10 01, socialedienst@koekelare.be)",
+          "Vraag aan met het bewijs van het zorgbudget of de integratietegemoetkoming en een verklaring op eer dat je de zorg opneemt",
+          "De toelage wordt per trimester betaald voor 1 jaar en daarna herzien"
+        ]
+      },
+      "fr": {
+        "title": "Mantelzorgtoelage (allocation d'aidant proche, Koekelare)",
+        "desc": "Le service social de Koekelare verse 25 € par mois à l'aidant proche qui vit avec une personne en grande dépendance et s'en occupe.",
+        "deadline": "Accordée pour 1 an et revue chaque année.",
+        "amount": "25 € par mois par personne aidée, versés par trimestre",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Preuve du budget de soins ou de l'allocation d'intégration (catégorie 3 ou plus)"
+          },
+          {
+            "type": "doc",
+            "label": "Une déclaration sur l'honneur que vous apportez une aide régulière et non rémunérée"
+          }
+        ],
+        "steps": [
+          "Contactez le Sociale Dienst au Sociaal Huis Koekelare, Ichtegemstraat 18 (051 58 10 01, socialedienst@koekelare.be)",
+          "Introduisez la demande avec la preuve du budget de soins ou de l'allocation d'intégration et une déclaration sur l'honneur que vous assurez les soins",
+          "L'allocation est versée par trimestre pendant 1 an, puis revue"
+        ]
+      },
+      "de": {
+        "title": "Mantelzorgtoelage (Pflegezulage, Koekelare)",
+        "desc": "Der Sozialdienst von Koekelare zahlt einer pflegenden Person, die mit einem stark pflegebedürftigen Menschen zusammenwohnt und ihn versorgt, 25 € pro Monat.",
+        "deadline": "Für 1 Jahr gewährt und jährlich überprüft.",
+        "amount": "25 € pro Monat pro gepflegter Person, vierteljährlich gezahlt",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Nachweis des Pflegebudgets oder der Integrationsbeihilfe (ab Kategorie 3)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine ehrenwörtliche Erklärung, dass Sie regelmäßig und unbezahlt pflegen"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an den Sozialdienst im Sociaal Huis Koekelare, Ichtegemstraat 18 (051 58 10 01, socialedienst@koekelare.be)",
+          "Beantragen Sie mit dem Nachweis des Pflegebudgets oder der Integrationsbeihilfe und einer ehrenwörtlichen Erklärung, dass Sie die Pflege leisten",
+          "Die Zulage wird 1 Jahr lang vierteljährlich gezahlt und dann überprüft"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://www.koekelare.be/mantelzorgtoelage"
+      ],
+      "conditions": {
+        "en": [
+          "You are an adult who actually lives with, and is domiciled at the same address as, the person you care for.",
+          "The person cared for needs long-term help and receives the care budget for people with a high care need, the care budget for older people, or an integration allowance of category 3 or higher.",
+          "You declare on your honour that you give regular, unpaid care; one allowance per person cared for."
+        ],
+        "nl": [
+          "Je bent meerderjarig en woont effectief in en bent gedomicilieerd op hetzelfde adres als de zorgbehoevende.",
+          "De zorgbehoevende heeft langdurige hulp nodig en heeft recht op het zorgbudget voor zwaar zorgbehoevenden, het zorgbudget voor ouderen met een zorgnood of een integratietegemoetkoming vanaf categorie 3.",
+          "Je verklaart op eer dat je regelmatig en onbezoldigd zorg verleent; één toelage per zorgbehoevende."
+        ],
+        "fr": [
+          "Vous êtes majeur(e) et vous habitez effectivement à la même adresse que la personne aidée, où vous êtes domicilié(e).",
+          "La personne aidée a besoin d'une aide de longue durée et a droit au budget de soins pour personnes lourdement dépendantes, au budget de soins pour personnes âgées ou à une allocation d'intégration de catégorie 3 ou plus.",
+          "Vous déclarez sur l'honneur apporter une aide régulière et non rémunérée ; une allocation par personne aidée."
+        ],
+        "de": [
+          "Sie sind volljährig und wohnen tatsächlich an derselben Adresse wie die gepflegte Person und sind dort gemeldet.",
+          "Die gepflegte Person braucht langfristig Hilfe und hat Anspruch auf das Pflegebudget für Schwerpflegebedürftige, das Pflegebudget für ältere Menschen oder eine Integrationsbeihilfe ab Kategorie 3.",
+          "Sie erklären ehrenwörtlich, dass Sie regelmäßig und unbezahlt pflegen; eine Zulage pro gepflegter Person."
+        ]
+      }
+    }
+  },
+  {
+    "id": 597,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "32010"
+    ],
+    "institution": "Gemeente Koekelare",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.koekelare.be/geboorte--en-adoptiepremie",
+    "content": {
+      "en": {
+        "title": "Geboorte- en adoptiepremie (Birth and Adoption Premium, Koekelare)",
+        "desc": "Koekelare gives €60 for each birth or adoption, as a voucher to spend at a shop of your choice in Koekelare.",
+        "deadline": "No deadline on the page.",
+        "amount": "€60 voucher per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The birth declared, or the adopted child entered in the population register"
+          }
+        ],
+        "steps": [
+          "Ask the Bevolking (population) service, Sint-Maartensplein 19, Koekelare (051 61 04 85, bevolking@koekelare.be)",
+          "Collect the €60 voucher",
+          "Spend it at a shop of your choice in Koekelare"
+        ]
+      },
+      "nl": {
+        "title": "Geboorte- en adoptiepremie (Koekelare)",
+        "desc": "Koekelare geeft €60 per geboorte of adoptie, als waardebon te besteden bij een handelaar naar keuze in Koekelare.",
+        "deadline": "Geen termijn vermeld op de pagina.",
+        "amount": "Waardebon van €60 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een aangegeven geboorte, of het adoptiekind ingeschreven in het bevolkingsregister"
+          }
+        ],
+        "steps": [
+          "Vraag het aan bij de dienst Bevolking, Sint-Maartensplein 19, Koekelare (051 61 04 85, bevolking@koekelare.be)",
+          "Haal de waardebon van €60 op",
+          "Besteed hem bij een handelaar naar keuze in Koekelare"
+        ]
+      },
+      "fr": {
+        "title": "Geboorte- en adoptiepremie (prime de naissance et d'adoption, Koekelare)",
+        "desc": "Koekelare offre 60 € par naissance ou adoption, sous forme de bon à dépenser chez un commerçant de Koekelare.",
+        "deadline": "Aucun délai indiqué sur la page.",
+        "amount": "Bon de 60 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La naissance déclarée, ou l'enfant adopté inscrit au registre de la population"
+          }
+        ],
+        "steps": [
+          "Adressez-vous au service Bevolking (population), Sint-Maartensplein 19, Koekelare (051 61 04 85, bevolking@koekelare.be)",
+          "Retirez le bon de 60 €",
+          "Dépensez-le chez un commerçant de votre choix à Koekelare"
+        ]
+      },
+      "de": {
+        "title": "Geboorte- en adoptiepremie (Geburts- und Adoptionsprämie, Koekelare)",
+        "desc": "Koekelare gibt für jede Geburt oder Adoption 60 € als Gutschein, einzulösen bei einem Geschäft Ihrer Wahl in Koekelare.",
+        "deadline": "Keine Frist auf der Seite angegeben.",
+        "amount": "Gutschein über 60 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die angezeigte Geburt oder das im Bevölkerungsregister eingetragene Adoptivkind"
+          }
+        ],
+        "steps": [
+          "Wenden Sie sich an den Bevölkerungsdienst (Bevolking), Sint-Maartensplein 19, Koekelare (051 61 04 85, bevolking@koekelare.be)",
+          "Holen Sie den Gutschein über 60 € ab",
+          "Lösen Sie ihn bei einem Geschäft Ihrer Wahl in Koekelare ein"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://www.koekelare.be/geboorte--en-adoptiepremie",
+        "https://www.koekelare.be/reglement-geboorte--en-adoptiepremie-2026-2031"
+      ],
+      "conditions": {
+        "en": [
+          "Birth: the mother actually has her main residence in Koekelare at the time of the birth.",
+          "Adoption: the adopted child has been entered in the population registers.",
+          "€60 per child as a voucher for Koekelare shops (for a stillborn child, €60 paid to the parents' account)."
+        ],
+        "nl": [
+          "Geboorte: de moeder heeft op het ogenblik van de geboorte daadwerkelijk haar hoofdverblijf in Koekelare.",
+          "Adoptie: het adoptiekind is in de bevolkingsregisters ingeschreven.",
+          "€60 per kind als waardebon voor handelaars in Koekelare (voor een doodgeboren kind €60 op de rekening van de ouders)."
+        ],
+        "fr": [
+          "Naissance : la mère a effectivement sa résidence principale à Koekelare au moment de la naissance.",
+          "Adoption : l'enfant adopté a été inscrit aux registres de la population.",
+          "60 € par enfant sous forme de bon pour les commerces de Koekelare (pour un enfant mort-né, 60 € versés sur le compte des parents)."
+        ],
+        "de": [
+          "Geburt: Die Mutter hat zum Zeitpunkt der Geburt tatsächlich ihren Hauptwohnsitz in Koekelare.",
+          "Adoption: Das Adoptivkind ist in die Bevölkerungsregister eingetragen.",
+          "60 € pro Kind als Gutschein für Geschäfte in Koekelare (bei einem totgeborenen Kind 60 € auf das Konto der Eltern)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 598,
+    "category": "housing",
+    "situations": [],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "83028"
+    ],
+    "institution": "Commune de Hotton",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.hotton.be/hotton/contenu/services/cadre-de-vie-1",
+    "content": {
+      "en": {
+        "title": "Prime énergie communale (Energy Premium, Hotton)",
+        "desc": "Hotton pays a one-off premium of up to €400 to owners who live in their home and install solar panels, geothermal heating or a heat pump.",
+        "deadline": "Within 6 months of paying the full investment.",
+        "amount": "Up to €400 per building (one-off)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The installer's description or quote of the installation"
+          },
+          {
+            "type": "doc",
+            "label": "A photo of the installation"
+          },
+          {
+            "type": "doc",
+            "label": "Purchase and installation invoices with proof of payment"
+          },
+          {
+            "type": "doc",
+            "label": "The sworn statement (déclaration sur l'honneur)"
+          }
+        ],
+        "steps": [
+          "Keep the installer's quote, invoices and proof of payment and take a photo of the installation",
+          "Fill in the sworn statement from the Hotton website",
+          "Send everything by post or e-mail to the Energy service of the Administration communale, Rue des Écoles 50, 6990 Hotton (pollec@hotton.be, 084 36 03 25)"
+        ]
+      },
+      "nl": {
+        "title": "Prime énergie communale (gemeentelijke energiepremie, Hotton)",
+        "desc": "Hotton betaalt een eenmalige premie tot €400 aan eigenaars die in hun woning wonen en zonnepanelen, geothermische verwarming of een warmtepomp plaatsen.",
+        "deadline": "Binnen 6 maanden na de volledige betaling van de investering.",
+        "amount": "Tot €400 per gebouw (eenmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De beschrijving of offerte van de installateur"
+          },
+          {
+            "type": "doc",
+            "label": "Een foto van de installatie"
+          },
+          {
+            "type": "doc",
+            "label": "Aankoop- en installatiefacturen met betalingsbewijzen"
+          },
+          {
+            "type": "doc",
+            "label": "De verklaring op eer (déclaration sur l'honneur)"
+          }
+        ],
+        "steps": [
+          "Bewaar de offerte van de installateur, de facturen en betalingsbewijzen en neem een foto van de installatie",
+          "Vul de verklaring op eer van de website van Hotton in",
+          "Stuur alles per post of e-mail naar de dienst Energie van de Administration communale, Rue des Écoles 50, 6990 Hotton (pollec@hotton.be, 084 36 03 25)"
+        ]
+      },
+      "fr": {
+        "title": "Prime énergie communale (Hotton)",
+        "desc": "Hotton verse une prime unique de 400 € maximum aux propriétaires domiciliés dans le bâtiment qui installent des panneaux solaires, un chauffage géothermique ou une pompe à chaleur.",
+        "deadline": "Dans les six mois qui suivent le paiement total de l'investissement.",
+        "amount": "400 € maximum par immeuble (prime unique)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le descriptif de l'installation (offre de l'installateur)"
+          },
+          {
+            "type": "doc",
+            "label": "Une photo de l'installation réalisée"
+          },
+          {
+            "type": "doc",
+            "label": "Les factures d'achat et d'installation et les preuves de paiement"
+          },
+          {
+            "type": "doc",
+            "label": "La déclaration sur l'honneur"
+          }
+        ],
+        "steps": [
+          "Rassemblez l'offre de l'installateur, les factures et preuves de paiement et prenez une photo de l'installation",
+          "Complétez la déclaration sur l'honneur téléchargeable sur le site de Hotton",
+          "Envoyez le tout par courrier ou par mail au service Énergie de l'Administration communale, Rue des Écoles 50, 6990 Hotton (pollec@hotton.be, 084 36 03 25)"
+        ]
+      },
+      "de": {
+        "title": "Prime énergie communale (Energieprämie, Hotton)",
+        "desc": "Hotton zahlt Eigentümern, die in ihrem Gebäude wohnen und Solarpaneele, eine Erdwärmeheizung oder eine Wärmepumpe installieren, einmalig bis zu 400 €.",
+        "deadline": "Innerhalb von 6 Monaten nach vollständiger Bezahlung der Investition.",
+        "amount": "Bis zu 400 € pro Gebäude (einmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die Beschreibung oder das Angebot des Installateurs"
+          },
+          {
+            "type": "doc",
+            "label": "Ein Foto der Anlage"
+          },
+          {
+            "type": "doc",
+            "label": "Kauf- und Installationsrechnungen mit Zahlungsnachweisen"
+          },
+          {
+            "type": "doc",
+            "label": "Die ehrenwörtliche Erklärung (déclaration sur l'honneur)"
+          }
+        ],
+        "steps": [
+          "Bewahren Sie Angebot des Installateurs, Rechnungen und Zahlungsnachweise auf und fotografieren Sie die Anlage",
+          "Füllen Sie die ehrenwörtliche Erklärung von der Website von Hotton aus",
+          "Senden Sie alles per Post oder E-Mail an den Energiedienst der Administration communale, Rue des Écoles 50, 6990 Hotton (pollec@hotton.be, 084 36 03 25)"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://www.hotton.be/hotton/contenu/services/cadre-de-vie-1"
+      ],
+      "conditions": {
+        "en": [
+          "You own the building and are domiciled in it.",
+          "You install solar thermal panels, photovoltaic panels, geothermal heating or a heat pump.",
+          "One premium per building; apply within six months of paying the full investment (attach the planning permit if one was needed)."
+        ],
+        "nl": [
+          "Je bent eigenaar van het gebouw en er gedomicilieerd.",
+          "Je plaatst thermische zonnepanelen, fotovoltaïsche panelen, geothermische verwarming of een warmtepomp.",
+          "Eén premie per gebouw; aanvragen binnen zes maanden na de volledige betaling (met de stedenbouwkundige vergunning als die nodig was)."
+        ],
+        "fr": [
+          "Vous êtes propriétaire du bâtiment et vous y êtes domicilié(e).",
+          "Vous installez des panneaux solaires thermiques, des panneaux photovoltaïques, un chauffage géothermique ou une pompe à chaleur.",
+          "Une prime par immeuble ; demande dans les six mois du paiement total (avec copie du permis d'urbanisme le cas échéant)."
+        ],
+        "de": [
+          "Sie sind Eigentümer des Gebäudes und dort gemeldet.",
+          "Sie installieren thermische Solarpaneele, Photovoltaikpaneele, eine Erdwärmeheizung oder eine Wärmepumpe.",
+          "Eine Prämie pro Gebäude; Antrag innerhalb von sechs Monaten nach vollständiger Bezahlung (mit der Baugenehmigung, falls nötig)."
+        ]
+      }
+    }
+  },
+  {
+    "id": 599,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "38014"
+    ],
+    "institution": "Gemeente Koksijde",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.koksijde.be/nl/herbruikbare-luiers",
+    "request_url": "https://koksijde.paddlecms.net/nl/webform/aanvraag_subsidie_herbruikbare_l",
+    "content": {
+      "en": {
+        "title": "Premie herbruikbare luiers (Reusable Nappies Premium, Koksijde)",
+        "desc": "Koksijde refunds half of what you spend on reusable nappies, up to €125 per child.",
+        "deadline": "Apply before the child's 3rd birthday.",
+        "amount": "50% of the purchase price, up to €125 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A copy of the purchase receipt(s)"
+          },
+          {
+            "type": "doc",
+            "label": "The child's birth certificate or a household composition"
+          },
+          {
+            "type": "id",
+            "label": "A copy of the applicant's ID"
+          }
+        ],
+        "steps": [
+          "Gather the purchase receipt(s), the birth certificate or household composition and a copy of your ID",
+          "Apply with the online form of the Koksijde Environment service (milieu@koksijde.be, 058 53 34 39)",
+          "Bundle all purchases in one request: the premium is granted once per child"
+        ]
+      },
+      "nl": {
+        "title": "Premie herbruikbare luiers (Koksijde)",
+        "desc": "Koksijde betaalt de helft terug van wat je aan herbruikbare luiers uitgeeft, tot €125 per kind.",
+        "deadline": "Aanvragen vóór de derde verjaardag van het kind.",
+        "amount": "50% van de aankoopprijs, maximaal €125 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een afschrift van het aankoopbewijs of de aankoopbewijzen"
+          },
+          {
+            "type": "doc",
+            "label": "Het geboortebewijs van het kind of de samenstelling van het gezin"
+          },
+          {
+            "type": "id",
+            "label": "Een kopie van het identiteitsbewijs van de aanvrager"
+          }
+        ],
+        "steps": [
+          "Verzamel het aankoopbewijs of de aankoopbewijzen, het geboortebewijs of de gezinssamenstelling en een kopie van je identiteitsbewijs",
+          "Vraag aan met het onlineformulier van de dienst Milieu van Koksijde (milieu@koksijde.be, 058 53 34 39)",
+          "Bundel alle aankopen in één aanvraag: de premie wordt één keer per kind toegekend"
+        ]
+      },
+      "fr": {
+        "title": "Premie herbruikbare luiers (prime langes réutilisables, Coxyde)",
+        "desc": "Coxyde rembourse la moitié de vos achats de langes réutilisables, jusqu'à 125 € par enfant.",
+        "deadline": "Demande avant le 3e anniversaire de l'enfant.",
+        "amount": "50 % du prix d'achat, maximum 125 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Une copie de la ou des preuve(s) d'achat"
+          },
+          {
+            "type": "doc",
+            "label": "L'acte de naissance de l'enfant ou une composition de ménage"
+          },
+          {
+            "type": "id",
+            "label": "Une copie de la pièce d'identité du demandeur"
+          }
+        ],
+        "steps": [
+          "Rassemblez la ou les preuve(s) d'achat, l'acte de naissance ou la composition de ménage et une copie de votre pièce d'identité",
+          "Introduisez la demande via le formulaire en ligne du service Environnement de Coxyde (milieu@koksijde.be, 058 53 34 39)",
+          "Regroupez tous les achats en une seule demande : la prime est accordée une fois par enfant"
+        ]
+      },
+      "de": {
+        "title": "Premie herbruikbare luiers (Prämie für Mehrwegwindeln, Koksijde)",
+        "desc": "Koksijde erstattet die Hälfte Ihrer Ausgaben für Mehrwegwindeln, bis zu 125 € pro Kind.",
+        "deadline": "Antrag vor dem 3. Geburtstag des Kindes.",
+        "amount": "50 % des Kaufpreises, höchstens 125 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Eine Kopie des oder der Kaufbelege"
+          },
+          {
+            "type": "doc",
+            "label": "Die Geburtsurkunde des Kindes oder eine Haushaltszusammensetzung"
+          },
+          {
+            "type": "id",
+            "label": "Eine Kopie des Ausweises des Antragstellers"
+          }
+        ],
+        "steps": [
+          "Sammeln Sie den oder die Kaufbelege, die Geburtsurkunde oder Haushaltszusammensetzung und eine Kopie Ihres Ausweises",
+          "Stellen Sie den Antrag über das Online-Formular des Umweltdienstes von Koksijde (milieu@koksijde.be, 058 53 34 39)",
+          "Fassen Sie alle Käufe in einem Antrag zusammen: Die Prämie wird pro Kind einmal gewährt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://www.koksijde.be/nl/herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "The child is domiciled in Koksijde; the father, mother or legal guardian applies.",
+          "Apply once per child, before the child's third birthday.",
+          "The premium is half of the purchase price, up to €125 per child."
+        ],
+        "nl": [
+          "Het kind is gedomicilieerd in Koksijde; de vader, moeder of wettelijke voogd vraagt aan.",
+          "Eén aanvraag per kind, vóór de derde verjaardag van het kind.",
+          "De premie is de helft van de aankoopprijs, maximaal €125 per kind."
+        ],
+        "fr": [
+          "L'enfant est domicilié à Coxyde ; le père, la mère ou le tuteur légal introduit la demande.",
+          "Une demande par enfant, avant son troisième anniversaire.",
+          "La prime correspond à la moitié du prix d'achat, maximum 125 € par enfant."
+        ],
+        "de": [
+          "Das Kind ist in Koksijde gemeldet; Vater, Mutter oder gesetzlicher Vormund stellt den Antrag.",
+          "Ein Antrag pro Kind, vor dem dritten Geburtstag des Kindes.",
+          "Die Prämie beträgt die Hälfte des Kaufpreises, höchstens 125 € pro Kind."
+        ]
+      }
+    }
+  },
+  {
+    "id": 600,
+    "category": "family",
+    "situations": [
+      "pregnancy",
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "82014"
+    ],
+    "institution": "Commune de Houffalize",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.houffalize.be/ma-commune/reglements-communaux-et-fiscaux/reglements-communaux/reglements-primes/reglement-doctroi-dune-prime-de-naissance-ou-dadoption-revision.pdf/view",
+    "content": {
+      "en": {
+        "title": "Prime de naissance ou d'adoption (Birth or Adoption Premium, Houffalize)",
+        "desc": "Houffalize gives €175 in local shop vouchers for each birth or adoption, handed over at a ceremony the following year.",
+        "deadline": "Given out the year after the birth; you must attend the ceremony (or justify your absence within 10 days).",
+        "amount": "€175 in shop vouchers per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Domicile in Houffalize from the birth (or adoption) to 31 December of that year"
+          }
+        ],
+        "steps": [
+          "Keep your domicile in Houffalize until 31 December of the year of the birth or adoption",
+          "Wait for the commune's invitation to the ceremony the following year",
+          "Collect the vouchers in person at the ceremony"
+        ]
+      },
+      "nl": {
+        "title": "Prime de naissance ou d'adoption (geboorte- of adoptiepremie, Houffalize)",
+        "desc": "Houffalize geeft €175 in waardebons voor lokale handelaars per geboorte of adoptie, uitgereikt op een plechtigheid het jaar daarna.",
+        "deadline": "Uitgereikt in het jaar na de geboorte; je moet de plechtigheid bijwonen (of je afwezigheid binnen 10 dagen rechtvaardigen).",
+        "amount": "€175 in waardebons per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Domicilie in Houffalize vanaf de geboorte (of adoptie) tot 31 december van dat jaar"
+          }
+        ],
+        "steps": [
+          "Blijf in Houffalize gedomicilieerd tot 31 december van het jaar van de geboorte of adoptie",
+          "Wacht op de uitnodiging van de gemeente voor de plechtigheid het jaar daarna",
+          "Haal de waardebons persoonlijk op tijdens de plechtigheid"
+        ]
+      },
+      "fr": {
+        "title": "Prime de naissance ou d'adoption (Houffalize)",
+        "desc": "Houffalize offre 175 € en chèques commerces pour chaque naissance ou adoption, remis lors d'une séance académique l'année suivante.",
+        "deadline": "Remise l'année qui suit la naissance ; présence obligatoire à la séance (ou absence justifiée dans les 10 jours).",
+        "amount": "175 € en chèques commerces par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Domicile à Houffalize de la naissance (ou adoption) au 31 décembre de l'année"
+          }
+        ],
+        "steps": [
+          "Restez domicilié(e) à Houffalize jusqu'au 31 décembre de l'année de la naissance ou de l'adoption",
+          "Attendez l'invitation de la commune à la séance académique de l'année suivante",
+          "Recevez les chèques en mains propres lors de la séance"
+        ]
+      },
+      "de": {
+        "title": "Prime de naissance ou d'adoption (Geburts- oder Adoptionsprämie, Houffalize)",
+        "desc": "Houffalize gibt für jede Geburt oder Adoption 175 € in Gutscheinen für lokale Geschäfte, überreicht bei einer Feier im folgenden Jahr.",
+        "deadline": "Überreicht im Jahr nach der Geburt; Sie müssen an der Feier teilnehmen (oder Ihr Fehlen innerhalb von 10 Tagen begründen).",
+        "amount": "175 € in Einkaufsgutscheinen pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Wohnsitz in Houffalize von der Geburt (oder Adoption) bis zum 31. Dezember jenes Jahres"
+          }
+        ],
+        "steps": [
+          "Behalten Sie Ihren Wohnsitz in Houffalize bis zum 31. Dezember des Jahres der Geburt oder Adoption",
+          "Warten Sie auf die Einladung der Gemeinde zur Feier im folgenden Jahr",
+          "Nehmen Sie die Gutscheine bei der Feier persönlich entgegen"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://www.houffalize.be/ma-commune/reglements-communaux-et-fiscaux/reglements-communaux/reglements-primes/reglement-doctroi-dune-prime-de-naissance-ou-dadoption-revision.pdf/view"
+      ],
+      "conditions": {
+        "en": [
+          "At the birth (or when the adopted child is entered in the population register), the parents or the mother are domiciled in Houffalize.",
+          "They stay domiciled there without interruption until 31 December of that year; a pending official domicile request also counts if it goes through and no other commune pays a birth premium for the child.",
+          "The premium goes to the mother or the person with custody, in person at the ceremony; an unjustified absence means losing it."
+        ],
+        "nl": [
+          "Bij de geboorte (of bij inschrijving van het adoptiekind in het bevolkingsregister) zijn de ouders of de moeder gedomicilieerd in Houffalize.",
+          "Ze blijven er ononderbroken gedomicilieerd tot 31 december van dat jaar; een lopende officiële domicilieaanvraag telt ook als die doorgaat en geen andere gemeente een geboortepremie voor het kind betaalt.",
+          "De premie gaat naar de moeder of de persoon die het kind onder zijn hoede heeft, persoonlijk op de plechtigheid; ongerechtvaardigde afwezigheid betekent verlies van de premie."
+        ],
+        "fr": [
+          "Au moment de la naissance (ou de l'inscription de l'enfant adopté au registre de la population), les parents ou la mère sont domiciliés à Houffalize.",
+          "Ils y restent domiciliés sans discontinuité jusqu'au 31 décembre de l'année ; une demande officielle de domiciliation compte aussi si elle se concrétise et qu'aucune prime de naissance n'est obtenue dans la commune d'origine.",
+          "La prime est remise à la mère ou à la personne qui a la garde, en mains propres lors de la séance ; une absence non justifiée entraîne la perte de la prime."
+        ],
+        "de": [
+          "Bei der Geburt (oder bei Eintragung des Adoptivkinds im Bevölkerungsregister) haben die Eltern oder die Mutter ihren Wohnsitz in Houffalize.",
+          "Sie bleiben dort ohne Unterbrechung bis zum 31. Dezember gemeldet; ein laufender offizieller Wohnsitzantrag zählt auch, wenn er umgesetzt wird und keine andere Gemeinde eine Geburtsprämie für das Kind zahlt.",
+          "Die Prämie erhält die Mutter oder die sorgeberechtigte Person persönlich bei der Feier; unentschuldigtes Fehlen führt zum Verlust."
+        ]
+      }
+    }
+  },
+  {
+    "id": 601,
+    "category": "health",
+    "situations": [
+      "health-issue"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "11024"
+    ],
+    "institution": "Gemeente Kontich",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kontich.be/reglement-sociale-toelage-in-vervoerskosten-voor-personen-met-een-handicap",
+    "request_url": "https://www.kontich.be/Aanvraagformuliersocialetoelagen",
+    "content": {
+      "en": {
+        "title": "Sociale toelage in vervoerskosten voor personen met een handicap (Transport Allowance for People with a Disability, Kontich)",
+        "desc": "Kontich refunds up to 100% of transport costs to and from a day centre or sheltered setting, up to €625 a year, for people still waiting for a personal budget.",
+        "deadline": "Send the invoice for the previous calendar year by 31 March.",
+        "amount": "Up to 100% of transport costs, maximum €625 per year",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The transport service's invoice for the previous year (name, national register number, total amount)"
+          },
+          {
+            "type": "doc",
+            "label": "A sworn statement that you have no personal budget (persoonsvolgend budget) yet"
+          }
+        ],
+        "steps": [
+          "Ask the special transport service for an invoice for last year showing your name, national register number, total cost and a sworn statement that you have no personal budget yet",
+          "Apply by 31 March via the Kontich e-loket or the Zorg & Gezondheid service, Gemeenteplein 1 (03 246 25 90, thuiszorg@kontich.be)",
+          "The allowance is paid by 1 June"
+        ]
+      },
+      "nl": {
+        "title": "Sociale toelage in vervoerskosten voor personen met een handicap (Kontich)",
+        "desc": "Kontich vergoedt tot 100% van de vervoerskosten van en naar een dagcentrum of semi-residentiële voorziening, maximaal €625 per jaar, voor wie nog op een persoonsvolgend budget wacht.",
+        "deadline": "Factuur van het vorige kalenderjaar bezorgen ten laatste op 31 maart.",
+        "amount": "Tot 100% van de vervoerskosten, maximaal €625 per jaar",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "De factuur van de vervoersdienst over het vorige jaar (naam, rijksregisternummer, totaalbedrag)"
+          },
+          {
+            "type": "doc",
+            "label": "Een verklaring op eer dat je nog geen persoonsvolgend budget hebt"
+          }
+        ],
+        "steps": [
+          "Vraag de bijzondere vervoersdienst een factuur over vorig jaar met je naam, rijksregisternummer, het totale bedrag en een verklaring op eer dat je nog geen persoonsvolgend budget hebt",
+          "Vraag ten laatste op 31 maart aan via het e-loket van Kontich of de dienst Zorg & Gezondheid, Gemeenteplein 1 (03 246 25 90, thuiszorg@kontich.be)",
+          "De toelage wordt uitbetaald tegen 1 juni"
+        ]
+      },
+      "fr": {
+        "title": "Sociale toelage in vervoerskosten voor personen met een handicap (allocation frais de transport, Kontich)",
+        "desc": "Kontich rembourse jusqu'à 100 % des frais de transport vers et depuis un centre de jour ou une structure semi-résidentielle, maximum 625 € par an, pour les personnes qui attendent encore un budget personnel.",
+        "deadline": "Facture de l'année civile précédente à remettre au plus tard le 31 mars.",
+        "amount": "Jusqu'à 100 % des frais de transport, maximum 625 € par an",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "La facture du service de transport pour l'année précédente (nom, numéro de registre national, montant total)"
+          },
+          {
+            "type": "doc",
+            "label": "Une déclaration sur l'honneur que vous n'avez pas encore de budget personnel (persoonsvolgend budget)"
+          }
+        ],
+        "steps": [
+          "Demandez au service de transport spécial une facture de l'année écoulée avec votre nom, numéro de registre national, le montant total et une déclaration sur l'honneur que vous n'avez pas encore de budget personnel",
+          "Introduisez la demande au plus tard le 31 mars via l'e-loket de Kontich ou le service Zorg & Gezondheid, Gemeenteplein 1 (03 246 25 90, thuiszorg@kontich.be)",
+          "L'allocation est versée pour le 1er juin"
+        ]
+      },
+      "de": {
+        "title": "Sociale toelage in vervoerskosten voor personen met een handicap (Fahrtkostenzulage, Kontich)",
+        "desc": "Kontich erstattet bis zu 100 % der Fahrtkosten zu und von einem Tageszentrum oder einer teilstationären Einrichtung, höchstens 625 € pro Jahr, für Menschen, die noch auf ein persönliches Budget warten.",
+        "deadline": "Rechnung für das vorige Kalenderjahr bis spätestens 31. März einreichen.",
+        "amount": "Bis zu 100 % der Fahrtkosten, höchstens 625 € pro Jahr",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Die Rechnung des Fahrdienstes für das Vorjahr (Name, Nationalregisternummer, Gesamtbetrag)"
+          },
+          {
+            "type": "doc",
+            "label": "Eine ehrenwörtliche Erklärung, dass Sie noch kein persönliches Budget (persoonsvolgend budget) haben"
+          }
+        ],
+        "steps": [
+          "Lassen Sie sich vom Sonderfahrdienst eine Rechnung für das Vorjahr mit Name, Nationalregisternummer, Gesamtbetrag und einer ehrenwörtlichen Erklärung ausstellen, dass Sie noch kein persönliches Budget haben",
+          "Beantragen Sie bis spätestens 31. März über den E-Schalter von Kontich oder beim Dienst Zorg & Gezondheid, Gemeenteplein 1 (03 246 25 90, thuiszorg@kontich.be)",
+          "Die Zulage wird bis zum 1. Juni ausgezahlt"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://kontich-echo.cipalschaubroeck.be/raadpleegomgeving/zittingen/f82ea1eb-64b6-4a7b-aaba-f2a843c164d8/agendapunten/5d7de0fe-65dc-4ba4-ace8-a82d0a754d8b",
+        "https://www.kontich.be/reglement-sociale-toelage-in-vervoerskosten-voor-personen-met-een-handicap"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Kontich and have a disability recognised by the Flemish Agency for Persons with Disabilities (VAPH).",
+          "You travel to and from a licensed semi-residential setting (day centre, home, boarding school, short-stay home) for work or daytime activities.",
+          "You do not yet receive a personal budget (persoonsvolgend budget) because you are still waiting for a decision or for it to be granted; invoice by 31 March."
+        ],
+        "nl": [
+          "Je woont in Kontich en hebt een handicap erkend door het Vlaams Agentschap voor Personen met een Handicap (VAPH).",
+          "Je verplaatst je van en naar een vergunde semi-residentiële voorziening (dagcentrum, tehuis, internaat, kortverblijf) voor werk of dagbesteding.",
+          "Je ontvangt nog geen persoonsvolgend budget omdat je nog op een beslissing of de toekenning wacht; factuur ten laatste op 31 maart."
+        ],
+        "fr": [
+          "Vous habitez à Kontich et avez un handicap reconnu par l'Agence flamande pour les personnes handicapées (VAPH).",
+          "Vous vous rendez vers et depuis une structure semi-résidentielle agréée (centre de jour, home, internat, court séjour) pour travailler ou pour des activités de jour.",
+          "Vous ne recevez pas encore de budget personnel (persoonsvolgend budget) parce que vous attendez une décision ou son octroi ; facture au plus tard le 31 mars."
+        ],
+        "de": [
+          "Sie wohnen in Kontich und haben eine von der Flämischen Agentur für Personen mit Behinderung (VAPH) anerkannte Behinderung.",
+          "Sie fahren zu und von einer zugelassenen teilstationären Einrichtung (Tageszentrum, Heim, Internat, Kurzzeitaufenthalt) zur Arbeit oder Tagesbeschäftigung.",
+          "Sie erhalten noch kein persönliches Budget (persoonsvolgend budget), weil Sie noch auf eine Entscheidung oder Zuteilung warten; Rechnung bis 31. März."
+        ]
+      }
+    }
+  },
+  {
+    "id": 602,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Wallonia"
+    ],
+    "communes": [
+      "91072"
+    ],
+    "institution": "Commune de Houyet",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://houyet.be/wp-content/uploads/2022/06/Formulaire-de-demande-de-couches-lavables-reglement.pdf",
+    "content": {
+      "en": {
+        "title": "Prime couches lavables (Washable Nappies Premium, Houyet)",
+        "desc": "Houyet refunds washable nappy purchases up to €75 per child, once.",
+        "deadline": "Apply before the child turns 3; receipts may date from up to 3 months before the birth.",
+        "amount": "Refund of purchases, up to €75 per child (once)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "The completed application form"
+          },
+          {
+            "type": "doc",
+            "label": "The original purchase receipt(s)"
+          }
+        ],
+        "steps": [
+          "Fill in the application form (with the regulation on the back) from the Houyet website",
+          "Hand it in with the original purchase receipts to the ATL service of the Administration communale de Houyet",
+          "The commune pays the refund to your bank account"
+        ]
+      },
+      "nl": {
+        "title": "Prime couches lavables (premie wasbare luiers, Houyet)",
+        "desc": "Houyet betaalt aankopen van wasbare luiers terug tot €75 per kind, één keer.",
+        "deadline": "Aanvragen voor het kind 3 jaar is; aankoopbewijzen mogen tot 3 maanden vóór de geboorte dateren.",
+        "amount": "Terugbetaling van de aankopen, maximaal €75 per kind (eenmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Het ingevulde aanvraagformulier"
+          },
+          {
+            "type": "doc",
+            "label": "De originele aankoopbewijzen"
+          }
+        ],
+        "steps": [
+          "Vul het aanvraagformulier (met het reglement op de achterkant) van de website van Houyet in",
+          "Dien het met de originele aankoopbewijzen in bij de dienst ATL van de Administration communale de Houyet",
+          "De gemeente stort de terugbetaling op je rekening"
+        ]
+      },
+      "fr": {
+        "title": "Prime couches lavables (Houyet)",
+        "desc": "Houyet rembourse l'achat de couches lavables jusqu'à 75 € par enfant, en une fois.",
+        "deadline": "Demande avant les 3 ans de l'enfant ; les preuves d'achat peuvent dater jusqu'à 3 mois avant la naissance.",
+        "amount": "Remboursement des achats, plafonné à 75 € par enfant (une fois)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Le formulaire de demande dûment complété"
+          },
+          {
+            "type": "doc",
+            "label": "La ou les preuve(s) d'achat en original"
+          }
+        ],
+        "steps": [
+          "Complétez le formulaire de demande (règlement au verso) disponible sur le site de Houyet",
+          "Remettez-le avec les preuves d'achat originales au service ATL de l'Administration communale de Houyet",
+          "La commune verse le remboursement sur votre compte bancaire"
+        ]
+      },
+      "de": {
+        "title": "Prime couches lavables (Prämie für Stoffwindeln, Houyet)",
+        "desc": "Houyet erstattet den Kauf von Stoffwindeln bis zu 75 € pro Kind, einmalig.",
+        "deadline": "Antrag, bevor das Kind 3 Jahre alt ist; Kaufbelege dürfen bis 3 Monate vor der Geburt datieren.",
+        "amount": "Erstattung der Käufe, höchstens 75 € pro Kind (einmalig)",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Das ausgefüllte Antragsformular"
+          },
+          {
+            "type": "doc",
+            "label": "Der oder die Original-Kaufbelege"
+          }
+        ],
+        "steps": [
+          "Füllen Sie das Antragsformular (Reglement auf der Rückseite) von der Website von Houyet aus",
+          "Reichen Sie es mit den Original-Kaufbelegen beim ATL-Dienst der Administration communale de Houyet ein",
+          "Die Gemeinde überweist die Erstattung auf Ihr Bankkonto"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://houyet.be/wp-content/uploads/2022/06/Formulaire-de-demande-de-couches-lavables-reglement.pdf"
+      ],
+      "conditions": {
+        "en": [
+          "The father, mother or legal guardian applies for a child under 3.",
+          "Parent and child are entered in Houyet's population register, the parent for at least one year.",
+          "One premium per child, capped at €75; apply before the child's 3rd birthday."
+        ],
+        "nl": [
+          "De vader, moeder of wettelijke voogd vraagt aan voor een kind jonger dan 3 jaar.",
+          "Ouder en kind zijn ingeschreven in het bevolkingsregister van Houyet, de ouder sinds minstens een jaar.",
+          "Eén premie per kind, maximaal €75; aanvragen vóór de derde verjaardag van het kind."
+        ],
+        "fr": [
+          "Le père, la mère ou le tuteur légal introduit la demande pour un enfant de moins de 3 ans.",
+          "Le demandeur et l'enfant sont inscrits au registre de population de Houyet, le demandeur depuis au moins une année.",
+          "Une seule prime par enfant, plafonnée à 75 € ; demande avant les 3 ans de l'enfant."
+        ],
+        "de": [
+          "Vater, Mutter oder gesetzlicher Vormund stellt den Antrag für ein Kind unter 3 Jahren.",
+          "Elternteil und Kind sind im Bevölkerungsregister von Houyet eingetragen, der Elternteil seit mindestens einem Jahr.",
+          "Eine Prämie pro Kind, höchstens 75 €; Antrag vor dem 3. Geburtstag des Kindes."
+        ]
+      },
+      "statuses": {
+        "intl-student": {
+          "verdict": "no",
+          "text": {
+            "en": "Not open to you: you must be in the population register, and a temporary study permit puts you in the foreigners' register.",
+            "nl": "Niet voor jou: je moet in het bevolkingsregister staan, en met een tijdelijke verblijfsvergunning voor studies sta je in het vreemdelingenregister.",
+            "fr": "Pas accessible : il faut être inscrit(e) au registre de la population, et un titre de séjour temporaire pour études vous inscrit au registre des étrangers.",
+            "de": "Nicht für Sie: Sie müssen im Bevölkerungsregister stehen, und eine vorübergehende Aufenthaltserlaubnis zum Studium führt ins Fremdenregister."
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 603,
+    "category": "family",
+    "situations": [
+      "children"
+    ],
+    "region": [
+      "Flanders"
+    ],
+    "communes": [
+      "32011"
+    ],
+    "institution": "Gemeente Kortemark",
+    "verified": "28 Nov 2026",
+    "status": "verified",
+    "source_url": "https://www.kortemark.be/herbruikbare-luiers",
+    "request_url": "https://www.kortemark.be/herbruikbare-luiers-subsidie-aanvragen",
+    "content": {
+      "en": {
+        "title": "Premie voor herbruikbare luiers (Reusable Nappies Premium, Kortemark)",
+        "desc": "Kortemark gives families €100 per child when they buy at least €200 of reusable nappies.",
+        "deadline": "No deadline on the page.",
+        "amount": "€100 per child",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "A till receipt showing at least €200 of reusable nappies"
+          }
+        ],
+        "steps": [
+          "Keep the till receipt showing at least €200 of reusable nappies",
+          "Apply with the online form of the Kortemark Environment service (milieu@kortemark.be, 051 57 51 34)",
+          "The municipality pays the €100 premium"
+        ]
+      },
+      "nl": {
+        "title": "Premie voor herbruikbare luiers (Kortemark)",
+        "desc": "Kortemark geeft gezinnen €100 per kind bij aankoop van minstens €200 aan herbruikbare luiers.",
+        "deadline": "Geen termijn vermeld op de pagina.",
+        "amount": "€100 per kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Een kasticket van minstens €200 aan herbruikbare luiers"
+          }
+        ],
+        "steps": [
+          "Bewaar het kasticket dat aantoont dat je voor minstens €200 herbruikbare luiers kocht",
+          "Vraag aan met het onlineformulier van de dienst Milieu van Kortemark (milieu@kortemark.be, 051 57 51 34)",
+          "De gemeente betaalt de premie van €100"
+        ]
+      },
+      "fr": {
+        "title": "Premie voor herbruikbare luiers (prime langes réutilisables, Kortemark)",
+        "desc": "Kortemark offre aux familles 100 € par enfant pour l'achat d'au moins 200 € de langes réutilisables.",
+        "deadline": "Aucun délai indiqué sur la page.",
+        "amount": "100 € par enfant",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Un ticket de caisse d'au moins 200 € de langes réutilisables"
+          }
+        ],
+        "steps": [
+          "Conservez le ticket de caisse prouvant au moins 200 € d'achats de langes réutilisables",
+          "Introduisez la demande via le formulaire en ligne du service Environnement de Kortemark (milieu@kortemark.be, 051 57 51 34)",
+          "La commune verse la prime de 100 €"
+        ]
+      },
+      "de": {
+        "title": "Premie voor herbruikbare luiers (Prämie für Mehrwegwindeln, Kortemark)",
+        "desc": "Kortemark gibt Familien 100 € pro Kind, wenn sie für mindestens 200 € Mehrwegwindeln kaufen.",
+        "deadline": "Keine Frist auf der Seite angegeben.",
+        "amount": "100 € pro Kind",
+        "requirements": [
+          {
+            "type": "doc",
+            "label": "Ein Kassenbon über mindestens 200 € Mehrwegwindeln"
+          }
+        ],
+        "steps": [
+          "Bewahren Sie den Kassenbon über mindestens 200 € Mehrwegwindeln auf",
+          "Stellen Sie den Antrag über das Online-Formular des Umweltdienstes von Kortemark (milieu@kortemark.be, 051 57 51 34)",
+          "Die Gemeinde zahlt die Prämie von 100 €"
+        ]
+      }
+    },
+    "eligibility": {
+      "checked": "28 Nov 2026",
+      "source_url": [
+        "https://www.kortemark.be/herbruikbare-luiers",
+        "https://www.kortemark.be/reglement-herbruikbare-luiers"
+      ],
+      "conditions": {
+        "en": [
+          "You live in Kortemark yourself.",
+          "You can show a till receipt for at least €200 of reusable nappies.",
+          "The premium is €100 per child, per household."
+        ],
+        "nl": [
+          "Je woont zelf in Kortemark.",
+          "Je kunt een kasticket voorleggen van minstens €200 aan herbruikbare luiers.",
+          "De premie bedraagt €100 per kind, per gezin."
+        ],
+        "fr": [
+          "Vous habitez vous-même à Kortemark.",
+          "Vous pouvez présenter un ticket de caisse d'au moins 200 € de langes réutilisables.",
+          "La prime s'élève à 100 € par enfant, par ménage."
+        ],
+        "de": [
+          "Sie wohnen selbst in Kortemark.",
+          "Sie können einen Kassenbon über mindestens 200 € Mehrwegwindeln vorlegen.",
+          "Die Prämie beträgt 100 € pro Kind und Haushalt."
+        ]
+      }
+    }
   }
 ]

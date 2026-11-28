@@ -2277,49 +2277,90 @@
         591,
         592
       ]
-    }
-  ],
-  "queue": [
+    },
     {
       "nis": "45060",
-      "name": "Kluisbergen"
+      "name": "Kluisbergen",
+      "checked": "28 Nov 2026",
+      "ids": [
+        593
+      ]
     },
     {
       "nis": "61031",
-      "name": "Hoei / Huy"
+      "name": "Hoei / Huy",
+      "checked": "28 Nov 2026",
+      "ids": [
+        594
+      ]
     },
     {
       "nis": "53083",
-      "name": "Honnelles"
+      "name": "Honnelles",
+      "checked": "28 Nov 2026",
+      "ids": [
+        595
+      ]
     },
     {
       "nis": "32010",
-      "name": "Koekelare"
+      "name": "Koekelare",
+      "checked": "28 Nov 2026",
+      "ids": [
+        596,
+        597
+      ]
     },
     {
       "nis": "83028",
-      "name": "Hotton"
+      "name": "Hotton",
+      "checked": "28 Nov 2026",
+      "ids": [
+        598
+      ]
     },
     {
       "nis": "38014",
-      "name": "Koksijde"
+      "name": "Koksijde",
+      "checked": "28 Nov 2026",
+      "ids": [
+        599
+      ]
     },
     {
       "nis": "82014",
-      "name": "Houffalize"
+      "name": "Houffalize",
+      "checked": "28 Nov 2026",
+      "ids": [
+        600
+      ]
     },
     {
       "nis": "11024",
-      "name": "Kontich"
+      "name": "Kontich",
+      "checked": "28 Nov 2026",
+      "ids": [
+        601
+      ]
     },
     {
       "nis": "91072",
-      "name": "Houyet"
+      "name": "Houyet",
+      "checked": "28 Nov 2026",
+      "ids": [
+        602
+      ]
     },
     {
       "nis": "32011",
-      "name": "Kortemark"
-    },
+      "name": "Kortemark",
+      "checked": "28 Nov 2026",
+      "ids": [
+        603
+      ]
+    }
+  ],
+  "queue": [
     {
       "nis": "25043",
       "name": "Incourt"
